@@ -1,0 +1,99 @@
+{
+  "__meta": {
+    "fromType": "package-lock.json(v3)",
+    "rootKey": "fsevents/1.2.13",
+    "trees": {
+      "prod": {
+        "node_modules/bindings": "bindings/1.5.0",
+        "node_modules/file-uri-to-path": "file-uri-to-path/1.0.0",
+        "node_modules/nan": "nan/2.16.0"
+      }
+    }
+  },
+  "bindings/1.5.0": {
+    "depInfo": {
+      "file-uri-to-path": {
+        "descriptor": "1.0.0",
+        "runtime": true
+      }
+    },
+    "entFromtype": "package-lock.json(v3)",
+    "hasPrepare": false,
+    "hasTest": false,
+    "ident": "bindings",
+    "key": "bindings/1.5.0",
+    "scoped": false,
+    "sourceInfo": {
+      "entSubtype": "registry-tarball",
+      "hash": "sha512-p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ==",
+      "sha512": "p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ==",
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz"
+    },
+    "version": "1.5.0"
+  },
+  "file-uri-to-path/1.0.0": {
+    "depInfo": {
+    },
+    "entFromtype": "package-lock.json(v3)",
+    "hasPrepare": false,
+    "hasTest": true,
+    "ident": "file-uri-to-path",
+    "key": "file-uri-to-path/1.0.0",
+    "scoped": false,
+    "sourceInfo": {
+      "entSubtype": "registry-tarball",
+      "hash": "sha512-0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw==",
+      "sha512": "0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw==",
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz"
+    },
+    "version": "1.0.0"
+  },
+  "fsevents/1.2.13": {
+    "depInfo": {
+      "bindings": {
+        "descriptor": "^1.5.0",
+        "runtime": true
+      },
+      "nan": {
+        "descriptor": "^2.12.1",
+        "runtime": true
+      }
+    },
+    "entFromtype": "package-lock.json(v3)",
+    "gypfile": true,
+    "hasInstallScript": true,
+    "hasPrepare": false,
+    "hasTest": true,
+    "ident": "fsevents",
+    "key": "fsevents/1.2.13",
+    "scoped": false,
+    "sourceInfo": {
+      "entSubtype": "registry-tarball",
+      "hash": "sha512-oWb1Z6mkHIskLzEJ/XWX0srkpkTQ7vaopMQkyaEIoq0fmtFVxOthb8cCxeT+p3ynTdkk/RZwbgG4brR5BeWECw==",
+      "sha512": "oWb1Z6mkHIskLzEJ/XWX0srkpkTQ7vaopMQkyaEIoq0fmtFVxOthb8cCxeT+p3ynTdkk/RZwbgG4brR5BeWECw==",
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz"
+    },
+    "version": "1.2.13"
+  },
+  "nan/2.16.0": {
+    "depInfo": {
+    },
+    "entFromtype": "package-lock.json(v3)",
+    "hasPrepare": false,
+    "hasTest": true,
+    "ident": "nan",
+    "key": "nan/2.16.0",
+    "scoped": false,
+    "sourceInfo": {
+      "entSubtype": "registry-tarball",
+      "hash": "sha512-UdAqHyFngu7TfQKsCBgAA6pWDkT8MAO7d0jyOecVhN5354xbLqdn8mV9Tat9gepAupm0bt2DbeaSC8vS52MuFA==",
+      "sha512": "UdAqHyFngu7TfQKsCBgAA6pWDkT8MAO7d0jyOecVhN5354xbLqdn8mV9Tat9gepAupm0bt2DbeaSC8vS52MuFA==",
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/nan/-/nan-2.16.0.tgz"
+    },
+    "version": "2.16.0"
+  }
+}
