@@ -9,10 +9,10 @@ SDIR="${BASH_SOURCE[0]%/*}";
 : "${CHMOD:=chmod}";
 : "${CP:=cp}";
 
-: "${SCOPE:=${1:-_}}";
+: "${SCOPE:=${1:-UNSCOPED}}";
 
 if test "$SCOPE" = "unscoped"; then
-  SCOPE="_";
+  SCOPE="UNSCOPED";
 fi
 
 trap 'exit "$?"' HUP EXIT TERM INT QUIT;
@@ -27,7 +27,7 @@ case "$SCOPE" in
   --missing)
     for s in $( $JQ -r 'keys[]' "$SDIR/npmjs.json"; ); do
       if { ! test -d "$SDIR/$s"; } ||
-         { test "$s" = "_" && test -d "$SDIR/unscoped"; };
+         { test "$s" = "UNSCOPED" && test -d "$SDIR/unscoped"; };
       then
         ${BASH_SOURCE[0]} "$s";
       fi
@@ -39,7 +39,7 @@ case "$SCOPE" in
     TDIR="$SDIR/unscoped";
   ;;
   *)
-    FDIR="$SDIR/result/@$SCOPE";
+    FDIR="$SDIR/result/$SCOPE";
     TDIR="$SDIR/@$SCOPE";
   ;;
 esac

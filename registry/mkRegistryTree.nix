@@ -1,4 +1,5 @@
-{ floco           ? builtins.getFlake "github:aameen-tulip/at-node-nix"
+#{ floco           ? builtins.getFlake "github:aameen-tulip/at-node-nix"
+{ floco           ? builtins.getFlake "l-at-node-nix"
 , system          ? builtins.currentSystem
 , lib             ? floco.lib
 , pkgsFor         ? floco.legacyPackages.${system}
@@ -18,14 +19,26 @@
   # scope at once to limit resource consumption.
   # Pay attention to =scope= vs =scope'=.
   scopedirFor = s: if isNs s then ""          else "@${s}/";
-  localdirFor = s: if isNs s then "unscoped/" else "@${s}/";
-  outfileFor  = i: ( localdirFor ( dirOf i ) ) + ( baseNameOf i ) + ".json";
-  attrFor     = s: if isNs s then "UNSCOPED"  else lib.yank "@([^/@]+).*" s;
+  localdirFor = s: if isNs s then "unscoped/" else "${s}/";
+  outfileFor  = i: let
+    sb = lib.libparse.parseIdent i;
+    ld = if sb.scope == null then "unscoped/" else localdirFor sb.scope;
+  in ld + sb.bname + ".json";
+  attrFor = s: let
+    m = builtins.match "@([^/@]+).*" s;
+  in if isNs s then "UNSCOPED" else if m == null then s else builtins.head m;
 
   writeRegistry = ident: reg:
     writeTextDir ( outfileFor ident ) ( builtins.toJSON reg );
 
-  genReg = ident: writeRegistry ident ( lib.libreg.flakeRegistryFromNpm ident );
+  genReg = ident: let
+    tr = lib.libreg.flakeRegistryFromPackuments {
+      # Indicating the registry improves lookup speed.
+      registry       = "https://registry.npmjs.org";
+      outputTreelock = true;
+      inherit ident;
+    };
+  in writeRegistry ident tr;
 
   regsForScope = scope': bnames:
     map ( b: genReg "${scopedirFor scope'}${b}" ) bnames;
