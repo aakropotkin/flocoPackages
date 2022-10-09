@@ -1,0 +1,1 @@
+{"flakes":[{"from":{"id":"@xtuc/ieee754-latest","type":"indirect"},"to":{"id":"@xtuc/ieee754-1_2_0","type":"indirect"}},{"from":{"id":"@xtuc/ieee754-1_2_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/@xtuc/ieee754/-/ieee754-1.2.0.tgz"}}],"version":2}

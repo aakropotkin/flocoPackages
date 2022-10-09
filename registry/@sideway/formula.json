@@ -1,0 +1,1 @@
+{"flakes":[{"from":{"id":"@sideway/formula-latest","type":"indirect"},"to":{"id":"@sideway/formula-3_0_0","type":"indirect"}},{"from":{"id":"@sideway/formula-3_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/@sideway/formula/-/formula-3.0.0.tgz"}}],"version":2}

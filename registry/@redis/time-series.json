@@ -1,0 +1,1 @@
+{"flakes":[{"from":{"id":"@redis/time-series-latest","type":"indirect"},"to":{"id":"@redis/time-series-1_0_3","type":"indirect"}},{"from":{"id":"@redis/time-series-1_0_3","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/@redis/time-series/-/time-series-1.0.3.tgz"}}],"version":2}
