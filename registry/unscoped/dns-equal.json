@@ -1,0 +1,1 @@
+{"flakes":[{"from":{"id":"dns-equal-latest","type":"indirect"},"to":{"id":"dns-equal-1_0_0","type":"indirect"}},{"from":{"id":"dns-equal-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/dns-equal/-/dns-equal-1.0.0.tgz"}}],"version":2}

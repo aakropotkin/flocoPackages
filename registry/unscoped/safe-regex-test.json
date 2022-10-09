@@ -1,0 +1,1 @@
+{"flakes":[{"from":{"id":"safe-regex-test-latest","type":"indirect"},"to":{"id":"safe-regex-test-1_0_0","type":"indirect"}},{"from":{"id":"safe-regex-test-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/safe-regex-test/-/safe-regex-test-1.0.0.tgz"}}],"version":2}

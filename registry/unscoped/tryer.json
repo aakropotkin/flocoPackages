@@ -1,0 +1,1 @@
+{"flakes":[{"from":{"id":"tryer-latest","type":"indirect"},"to":{"id":"tryer-1_0_1","type":"indirect"}},{"from":{"id":"tryer-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/tryer/-/tryer-1.0.0.tgz"}},{"from":{"id":"tryer-1_0_1","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/tryer/-/tryer-1.0.1.tgz"}}],"version":2}
