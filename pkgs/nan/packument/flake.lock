@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-2wcEzGdjTtPyq3sGpmJDcvLwzmMuuCZCtcWnwfmXHNU=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/nan"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/nan"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
