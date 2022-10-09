@@ -1,1 +1,1 @@
-{"flakes":[{"from":{"id":"end-stream-latest","type":"indirect"},"to":{"id":"end-stream-0_1_0","type":"indirect"}},{"from":{"id":"end-stream-0_1_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/end-stream/-/end-stream-0.1.0.tgz"}}],"version":2}
+{"trees":[{"from":{"id":"end-stream-latest","type":"indirect"},"to":{"id":"end-stream-0_1_0","type":"indirect"}},{"from":{"id":"end-stream-0_1_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/end-stream/-/end-stream-0.1.0.tgz"}}],"treelockVersion":1}

@@ -1,1 +1,1 @@
-{"flakes":[{"from":{"id":"fs-constants-latest","type":"indirect"},"to":{"id":"fs-constants-1_0_0","type":"indirect"}},{"from":{"id":"fs-constants-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/fs-constants/-/fs-constants-1.0.0.tgz"}}],"version":2}
+{"trees":[{"from":{"id":"fs-constants-latest","type":"indirect"},"to":{"id":"fs-constants-1_0_0","type":"indirect"}},{"from":{"id":"fs-constants-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/fs-constants/-/fs-constants-1.0.0.tgz"}}],"treelockVersion":1}

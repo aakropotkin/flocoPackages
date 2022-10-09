@@ -1,1 +1,1 @@
-{"flakes":[{"from":{"id":"vali-date-latest","type":"indirect"},"to":{"id":"vali-date-1_0_0","type":"indirect"}},{"from":{"id":"vali-date-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/vali-date/-/vali-date-1.0.0.tgz"}}],"version":2}
+{"trees":[{"from":{"id":"vali-date-latest","type":"indirect"},"to":{"id":"vali-date-1_0_0","type":"indirect"}},{"from":{"id":"vali-date-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/vali-date/-/vali-date-1.0.0.tgz"}}],"treelockVersion":1}

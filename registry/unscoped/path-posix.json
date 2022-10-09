@@ -1,1 +1,1 @@
-{"flakes":[{"from":{"id":"path-posix-latest","type":"indirect"},"to":{"id":"path-posix-1_0_0","type":"indirect"}},{"from":{"id":"path-posix-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/path-posix/-/path-posix-1.0.0.tgz"}}],"version":2}
+{"trees":[{"from":{"id":"path-posix-latest","type":"indirect"},"to":{"id":"path-posix-1_0_0","type":"indirect"}},{"from":{"id":"path-posix-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/path-posix/-/path-posix-1.0.0.tgz"}}],"treelockVersion":1}

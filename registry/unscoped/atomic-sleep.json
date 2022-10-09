@@ -1,1 +1,1 @@
-{"flakes":[{"from":{"id":"atomic-sleep-latest","type":"indirect"},"to":{"id":"atomic-sleep-1_0_0","type":"indirect"}},{"from":{"id":"atomic-sleep-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/atomic-sleep/-/atomic-sleep-1.0.0.tgz"}}],"version":2}
+{"trees":[{"from":{"id":"atomic-sleep-latest","type":"indirect"},"to":{"id":"atomic-sleep-1_0_0","type":"indirect"}},{"from":{"id":"atomic-sleep-1_0_0","type":"indirect"},"to":{"type":"tarball","url":"https://registry.npmjs.org/atomic-sleep/-/atomic-sleep-1.0.0.tgz"}}],"treelockVersion":1}
