@@ -5,7 +5,7 @@
   inputs.nan--src.flake    = false;
   inputs.at-node-nix.url   = "github:aameen-tulip/at-node-nix";
   inputs.floco.follows     = "/at-node-nix";
-  outputs = { floco, nan--src, ... }: let
+  outputs = { floco, nan--src, ... } @ inputs: let
     pjs = floco.lib.importJSON "${nan--src}/package.json";
     overlays = {
       nan = final: prev: {
