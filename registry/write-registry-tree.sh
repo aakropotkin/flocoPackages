@@ -34,7 +34,7 @@ case "$SCOPE" in
     done
     exit 0;
   ;;
-  _)
+  UNSCOPED|unscoped)
     FDIR="$SDIR/result/unscoped";
     TDIR="$SDIR/unscoped";
   ;;

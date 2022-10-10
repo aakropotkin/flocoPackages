@@ -1,3 +1,5 @@
+# ---------------------------------------------------------------------------- #
+
 { floco           ? builtins.getFlake "github:aameen-tulip/at-node-nix"
 , system          ? builtins.currentSystem
 , lib             ? floco.lib
@@ -10,6 +12,9 @@
 , flakeRegistries ? null
 , timestamp       ? toString builtins.currentTime
 }: let
+
+
+# ---------------------------------------------------------------------------- #
 
   isNs = x: builtins.elem x ["UNSCOPED" "unscoped" "" "unscoped/" "."];
 
@@ -27,6 +32,9 @@
     m = builtins.match "@([^/@]+).*" s;
   in if isNs s then "UNSCOPED" else if m == null then s else builtins.head m;
 
+
+# ---------------------------------------------------------------------------- #
+
   writeRegistry = ident: reg:
     writeTextDir ( outfileFor ident ) ( builtins.toJSON reg );
 
@@ -39,6 +47,9 @@
     };
   in writeRegistry ident tr;
 
+
+# ---------------------------------------------------------------------------- #
+
   regsForScope = scope': bnames:
     map ( b: genReg "${scopedirFor scope'}${b}" ) bnames;
   regs = if flakeRegistries != null then flakeRegistries else
@@ -47,8 +58,51 @@
   # Now we stope treating "scope" as an arg.
   timestampFile = writeTextDir "${localdirFor scope}.timestamp"
                                ( toString timestamp );
+
+
+# ---------------------------------------------------------------------------- #
+
+  readTreelockFor = scope: bname: let
+    ldir = if scope == "UNSCOPED" then "unscoped" else "@${scope}";
+  in lib.importJSON "${toString ./.}/${ldir}/${bname}.json";
+
+  readTreelocksForScope = scope: bnames:
+    builtins.listToAttrs ( map ( name: {
+      inherit name;
+      value = readTreelockFor scope name;
+    } ) bnames );
+
+  treelocks = builtins.mapAttrs readTreelocksForScope targets;
+
+
+# ---------------------------------------------------------------------------- #
+
+  addSourceInfoToTreelock = tlock:
+    tlock // {
+      trees = map ( { from, to } @ ent: ent // {
+        sourceInfo = removeAttrs ( builtins.fetchTree to ) ["outPath"];
+      } ) tlock.trees;
+    };
+
+  addSourceInfoToScope = scope:
+    builtins.mapAttrs ( _: addSourceInfoToTreelock );
+
+
+  dumpScope = newlocks: scope:
+    builtins.foldl' ( acc: bname: let
+      odir = if scope == "UNSCOPED" then "unscoped/" else "@${scope}/";
+    in acc + ''
+      cat ${newlocks.${scope}.${bname}} > ${odir}${bname}.json;\n
+    '' ) "" ( builtins.attrNames newlocks.${scope} );
+
+
+# ---------------------------------------------------------------------------- #
+
 in buildEnv {
   name = if isNs scope then "registry-tree-unscoped"
          else "registry-tree-${scope}";
   paths = regs.${attrFor scope} ++ [timestampFile];
 }
+
+
+# ---------------------------------------------------------------------------- #
