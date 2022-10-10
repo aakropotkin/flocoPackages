@@ -5,12 +5,9 @@
 , lib             ? floco.lib
 , pkgsFor         ? floco.legacyPackages.${system}
 , buildEnv        ? pkgsFor.buildEnv
+, targets         ? lib.importJSON ./npmjs.json
 , writeTextDir    ? pkgsFor.writeTextDir
 # { scope -> { bname -> registry attrs } }
-, targets         ? lib.importJSON ./npmjs.json
-, scope           ? "UNSCOPED"
-, flakeRegistries ? null
-, timestamp       ? toString builtins.currentTime
 }: let
 
 
@@ -35,33 +32,6 @@
 
 # ---------------------------------------------------------------------------- #
 
-  writeRegistry = ident: reg:
-    writeTextDir ( outfileFor ident ) ( builtins.toJSON reg );
-
-  genReg = ident: let
-    tr = lib.libreg.flakeRegistryFromPackuments {
-      # Indicating the registry improves lookup speed.
-      registry       = "https://registry.npmjs.org";
-      outputTreelock = true;
-      inherit ident;
-    };
-  in writeRegistry ident tr;
-
-
-# ---------------------------------------------------------------------------- #
-
-  regsForScope = scope': bnames:
-    map ( b: genReg "${scopedirFor scope'}${b}" ) bnames;
-  regs = if flakeRegistries != null then flakeRegistries else
-         builtins.mapAttrs regsForScope targets;
-
-  # Now we stope treating "scope" as an arg.
-  timestampFile = writeTextDir "${localdirFor scope}.timestamp"
-                               ( toString timestamp );
-
-
-# ---------------------------------------------------------------------------- #
-
   readTreelockFor = scope: bname: let
     ldir = if scope == "UNSCOPED" then "unscoped" else "@${scope}";
   in lib.importJSON "${toString ./.}/${ldir}/${bname}.json";
@@ -79,31 +49,42 @@
 
   addSourceInfoToTreelock = tlock:
     tlock // {
-      trees = map ( { from, to } @ ent: ent // {
-        sourceInfo = removeAttrs ( builtins.fetchTree to ) ["outPath"];
-      } ) tlock.trees;
+      trees = map ( { from, to, ... } @ ent:
+        if ent ? sourceInfo then ent else ent // {
+          sourceInfo = removeAttrs ( builtins.fetchTree to ) ["outPath"];
+        } ) tlock.trees;
     };
 
   addSourceInfoToScope = scope:
     builtins.mapAttrs ( _: addSourceInfoToTreelock );
 
-  writeTlock = scope: bname: let
-    nixFilename = if scope == "UNSCOPED" then "unscoped/${bname}"
-                                         else "@${scope}/${bname}";
-  in builtins.toFile nixFilename ( builtins.toJSON sits.${scope}.${bname} );
+  sitreelocks = builtins.mapAttrs addSourceInfoToScope treelocks;
 
-  dumpScope = newlocks: scope:
+  writeTlock = scope: bname: let
+    nixFilename = if scope == "UNSCOPED" then "unscoped--${bname}"
+                                         else "${scope}--${bname}";
+  in builtins.toFile nixFilename
+                     ( builtins.toJSON sitreelocks.${scope}.${bname} );
+
+  dumpScope = scope:
     builtins.foldl' ( acc: bname: let
       odir = if scope == "UNSCOPED" then "unscoped/" else "@${scope}/";
     in acc + ''
-      cat ${newlocks.${scope}.${bname}} > ${odir}${bname}.json;\n
-    '' ) "" ( builtins.attrNames newlocks.${scope} );
+      cat ${writeTlock scope bname} > ${odir}${bname}.json;
+    '' ) "" ( builtins.attrNames sitreelocks.${scope} );
+
+  siTreeDumps = let
+    keeps = lib.filterAttrs ( scope: v: v != treelocks.${scope} ) sitreelocks;
+  in map dumpScope ( builtins.attrNames keeps );
+
 
 
 # ---------------------------------------------------------------------------- #
 
 in {
   inherit
+    sitreelocks
+    siTreeDumps
     addSourceInfoToTreelock
     addSourceInfoToScope
     readTreelockFor
