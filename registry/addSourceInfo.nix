@@ -89,7 +89,7 @@
 
   writeTlock = scope: bname: let
     nixFilename = if scope == "UNSCOPED" then "unscoped/${bname}"
-                                  else "@${scope}/${bname}";
+                                         else "@${scope}/${bname}";
   in builtins.toFile nixFilename ( builtins.toJSON sits.${scope}.${bname} );
 
   dumpScope = newlocks: scope:
