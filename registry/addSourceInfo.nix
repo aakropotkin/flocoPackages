@@ -62,10 +62,56 @@
 
 # ---------------------------------------------------------------------------- #
 
-in buildEnv {
-  name = if isNs scope then "registry-tree-unscoped"
-         else "registry-tree-${scope}";
-  paths = regs.${attrFor scope} ++ [timestampFile];
+  readTreelockFor = scope: bname: let
+    ldir = if scope == "UNSCOPED" then "unscoped" else "@${scope}";
+  in lib.importJSON "${toString ./.}/${ldir}/${bname}.json";
+
+  readTreelocksForScope = scope: bnames:
+    builtins.listToAttrs ( map ( name: {
+      inherit name;
+      value = readTreelockFor scope name;
+    } ) bnames );
+
+  treelocks = builtins.mapAttrs readTreelocksForScope targets;
+
+
+# ---------------------------------------------------------------------------- #
+
+  addSourceInfoToTreelock = tlock:
+    tlock // {
+      trees = map ( { from, to } @ ent: ent // {
+        sourceInfo = removeAttrs ( builtins.fetchTree to ) ["outPath"];
+      } ) tlock.trees;
+    };
+
+  addSourceInfoToScope = scope:
+    builtins.mapAttrs ( _: addSourceInfoToTreelock );
+
+  writeTlock = scope: bname: let
+    nixFilename = if scope == "UNSCOPED" then "unscoped/${bname}"
+                                  else "@${scope}/${bname}";
+  in builtins.toFile nixFilename ( builtins.toJSON sits.${scope}.${bname} );
+
+  dumpScope = newlocks: scope:
+    builtins.foldl' ( acc: bname: let
+      odir = if scope == "UNSCOPED" then "unscoped/" else "@${scope}/";
+    in acc + ''
+      cat ${newlocks.${scope}.${bname}} > ${odir}${bname}.json;\n
+    '' ) "" ( builtins.attrNames newlocks.${scope} );
+
+
+# ---------------------------------------------------------------------------- #
+
+in {
+  inherit
+    addSourceInfoToTreelock
+    addSourceInfoToScope
+    readTreelockFor
+    readTreelocksForScope
+    treelocks
+    writeTlock
+    dumpScope
+  ;
 }
 
 
