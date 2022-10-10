@@ -1,5 +1,4 @@
-#{ floco           ? builtins.getFlake "github:aameen-tulip/at-node-nix"
-{ floco           ? builtins.getFlake "l-at-node-nix"
+{ floco           ? builtins.getFlake "github:aameen-tulip/at-node-nix"
 , system          ? builtins.currentSystem
 , lib             ? floco.lib
 , pkgsFor         ? floco.legacyPackages.${system}
