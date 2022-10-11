@@ -1,0 +1,29 @@
+[
+  {
+    "ident": "flux",
+    "scope": null,
+    "sourceInfo": {
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/flux/-/flux-4.0.3.tgz"
+    },
+    "version": "4.0.3"
+  },
+  {
+    "ident": "pngjs",
+    "scope": null,
+    "sourceInfo": {
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/pngjs/-/pngjs-6.0.0.tgz"
+    },
+    "version": "6.0.0"
+  },
+  {
+    "ident": "react-virtualized",
+    "scope": null,
+    "sourceInfo": {
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/react-virtualized/-/react-virtualized-9.22.3.tgz"
+    },
+    "version": "9.22.3"
+  }
+]
