@@ -29,7 +29,6 @@
 
     inherit lib;
 
-
 # ---------------------------------------------------------------------------- #
 
     overlays.deps = lib.composeManyExtensions [
@@ -40,6 +39,7 @@
     overlays.default = lib.composeManyExtensions [
       self.overlays.deps
       self.overlays.pkgs
+      self.overlays.simple
     ];
 
 
@@ -77,6 +77,8 @@
       lib    = prev.lib.extend self.overlays.lib;
       config = lib.recursiveUpdate prev.config nixpkgsConfig;
     };
+
+    overlays.simple = import ./pkgs/SIMPLE/overlay.nix;
 
 
 # ---------------------------------------------------------------------------- #
