@@ -7,9 +7,8 @@
 {
   description = "A Node.js+Nix package collection made with floco";
 
-  inputs.nixpkgs.url     = "github:NixOS/nixpkgs";
   inputs.at-node-nix.url = "github:aameen-tulip/at-node-nix";
-  inputs.at-node-nix.inputs.nixpkgs.follows = "/nixpkgs";
+  inputs.nixpkgs.follows = "/at-node-nix/nixpkgs";
 
 # ---------------------------------------------------------------------------- #
 
@@ -31,9 +30,7 @@
 
 # ---------------------------------------------------------------------------- #
 
-    overlays.deps = lib.composeManyExtensions [
-      at-node-nix.overlays.at-node-nix
-    ];
+    overlays.deps = at-node-nix.overlays.at-node-nix;
 
     # By default, compose with our deps into a single overlay.
     overlays.default = lib.composeManyExtensions [

@@ -2,18 +2,17 @@ final: prev: let
 
   ents = builtins.foldl' ( acc: ent: acc // {
     ${ent.ident} = final.flocoPackages."${ent.ident}/${ent.version}";
-    # FIXME: `flocoFetch'
     "${ent.ident}/${ent.version}" =
       if ent.sourceInfo.type == "file"
-      then ( prev.unpackSafe or final.unpackSafe ) {
+      then final.flocoUnpack {
         name        = "${baseNameOf ent.ident}-src-${ent.version}";
-        src         = builtins.fetchTree ent.sourceInfo;
+        tarball     = final.flocoFetch ent.sourceInfo;
         setBinPerms = false;
       } else ent // {
-        inherit (builtins.fetchTree ent.sourceInfo) outPath;
+        inherit (final.flocoFetch ent.sourceInfo) outPath;
       };
   } ) {} ( prev.lib.importJSON ./locked.json );
 
 in {
-  flocoPackages = prev.lib.addFlocoPackages prev ents;
+  flocoPackages = final.lib.addFlocoPackages prev ents;
 }
