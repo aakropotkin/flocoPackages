@@ -66,10 +66,10 @@ jobs:
           nix registry add head "github:aakropotkin/flocoPackages/$GITHUB_REF";
 
       - name: fsevents@1.2.13
-        run: nix build 'head?dir=pkgs/fsevents/1.2.13' --no-update-lock-file
+        run: nix build "github:aakropotkin/flocoPackages/$GITHUB_REF?dir=pkgs/fsevents/1.2.13" --no-update-lock-file
 
       - name: nan@2.16.0
-        run: nix build 'head?dir=pkgs/nan' --no-update-lock-file
+        run: nix build "github:aakropotkin/flocoPackages/$GITHUB_REF?dir=pkgs/nan" --no-update-lock-file
 
       - name: nan Packument
-        run: nix flake update 'head?dir=pkgs/nan/packument'
+        run: nix flake update "github:aakropotkin/flocoPackages/$GITHUB_REF?dir=pkgs/nan.packument"
