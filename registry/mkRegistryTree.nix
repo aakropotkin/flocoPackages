@@ -8,7 +8,7 @@
 , writeTextDir    ? pkgsFor.writeTextDir
 # { scope -> { bname -> registry attrs } }
 , targets         ? lib.importJSON ./npmjs.json
-, scope           ? "UNSCOPED"
+, scope           ? "unscoped"
 , flakeRegistries ? null
 , timestamp       ? toString builtins.currentTime
 }: let
@@ -16,7 +16,7 @@
 
 # ---------------------------------------------------------------------------- #
 
-  isNs = x: builtins.elem x ["UNSCOPED" "unscoped" "" "unscoped/" "."];
+  isNs = x: builtins.elem x ["unscoped" "" "unscoped/" "."];
 
   # NOTE: these routines were written to accept `scope' as an argument.
   # However, this file and its associated script intentionally target a single
@@ -30,7 +30,7 @@
   in ld + sb.bname + ".json";
   attrFor = s: let
     m = builtins.match "@([^/@]+).*" s;
-  in if isNs s then "UNSCOPED" else if m == null then s else builtins.head m;
+  in if isNs s then "unscoped" else if m == null then s else builtins.head m;
 
 
 # ---------------------------------------------------------------------------- #

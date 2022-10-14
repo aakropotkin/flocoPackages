@@ -13,7 +13,7 @@
 
 # ---------------------------------------------------------------------------- #
 
-  isNs = x: builtins.elem x ["UNSCOPED" "unscoped" "" "unscoped/" "."];
+  isNs = x: builtins.elem x ["unscoped" "" "unscoped/" "."];
 
   # NOTE: these routines were written to accept `scope' as an argument.
   # However, this file and its associated script intentionally target a single
@@ -27,13 +27,13 @@
   in ld + sb.bname + ".json";
   attrFor = s: let
     m = builtins.match "@([^/@]+).*" s;
-  in if isNs s then "UNSCOPED" else if m == null then s else builtins.head m;
+  in if isNs s then "unscoped" else if m == null then s else builtins.head m;
 
 
 # ---------------------------------------------------------------------------- #
 
   readTreelockFor = scope: bname: let
-    ldir = if scope == "UNSCOPED" then "unscoped" else "@${scope}";
+    ldir = if scope == "unscoped" then "unscoped" else "@${scope}";
   in lib.importJSON "${toString ./.}/${ldir}/${bname}.json";
 
   readTreelocksForScope = scope: bnames:
@@ -61,14 +61,12 @@
   sitreelocks = builtins.mapAttrs addSourceInfoToScope treelocks;
 
   writeTlock = scope: bname: let
-    nixFilename = if scope == "UNSCOPED" then "unscoped--${bname}"
-                                         else "${scope}--${bname}";
-  in builtins.toFile nixFilename
+  in builtins.toFile "${scope}--${bname}";
                      ( builtins.toJSON sitreelocks.${scope}.${bname} );
 
   dumpScope = scope:
     builtins.foldl' ( acc: bname: let
-      odir = if scope == "UNSCOPED" then "unscoped/" else "@${scope}/";
+      odir = if scope == "unscoped" then "unscoped/" else "@${scope}/";
     in acc + ''
       cat ${writeTlock scope bname} > ${odir}${bname}.json;
     '' ) "" ( builtins.attrNames sitreelocks.${scope} );
