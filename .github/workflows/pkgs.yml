@@ -69,7 +69,9 @@ jobs:
         run: nix build "github:aakropotkin/flocoPackages/$GITHUB_REF?dir=pkgs/fsevents/1.2.13" --no-update-lock-file
 
       - name: nan@2.16.0
+        if: ${{ always() }}
         run: nix build "github:aakropotkin/flocoPackages/$GITHUB_REF?dir=pkgs/nan" --no-update-lock-file
 
       - name: nan Packument
+        if: ${{ always() }}
         run: nix flake update "github:aakropotkin/flocoPackages/$GITHUB_REF?dir=pkgs/nan.packument"
