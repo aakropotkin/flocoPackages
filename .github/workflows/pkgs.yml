@@ -74,4 +74,4 @@ jobs:
 
       - name: nan Packument
         if: ${{ always() }}
-        run: nix flake update "github:aakropotkin/flocoPackages/$GITHUB_REF?dir=pkgs/nan.packument"
+        run: nix flake update "github:aakropotkin/flocoPackages/$GITHUB_REF?dir=pkgs/nan/packument"
