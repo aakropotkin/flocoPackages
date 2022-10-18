@@ -7,43 +7,23 @@
 {
   description = "A Node.js+Nix package collection made with floco";
 
-  inputs.at-node-nix.url = "github:aameen-tulip/at-node-nix";
   inputs.nixpkgs.follows = "/at-node-nix/nixpkgs";
+  inputs.at-node-nix.url = "github:aameen-tulip/at-node-nix";
 
 # ---------------------------------------------------------------------------- #
 
-  outputs = { self, nixpkgs, at-node-nix, ... }: let
-
-    lib = at-node-nix.lib.extend self.overlays.lib;
+  outputs = { nixpkgs, at-node-nix, ... }: let
 
     pkgsForSys = system:
-      nixpkgs.legacyPackages.${system}.extend self.overlays.default;
+      nixpkgs.legacyPackages.${system}.extend overlays.default;
 
-    supportedSystems = lib.defaultSystems;
-    eachSupportedSystemMap = lib.eachSystemMap supportedSystems;
-
-  in {  # Begin Outputs
-
-# ---------------------------------------------------------------------------- #
-
-    inherit lib;
-
-# ---------------------------------------------------------------------------- #
-
-    overlays.deps = at-node-nix.overlays.at-node-nix;
-
-    # By default, compose with our deps into a single overlay.
-    overlays.default = lib.composeManyExtensions [
-      self.overlays.deps
-      self.overlays.pkgs
-      self.overlays.simple
-    ];
-
+    supportedSystems       = at-node-nix.lib.defaultSystems;
+    eachSupportedSystemMap = at-node-nix.lib.eachSystemMap supportedSystems;
 
 # ---------------------------------------------------------------------------- #
 
     # Pure `lib' extensions.
-    overlays.lib  = final: prev: let
+    libOverlays.default = final: prev: let
       callLibWith = { lib ? final, ... } @ auto: x: let
         f    = if prev.lib.isFunction x then x else import x;
         args = builtins.intersectAttrs ( builtins.functionArgs f )
@@ -55,8 +35,8 @@
       callLibs = callLibsWith {};
     in {
       flocoConfig = let
-        j  = prev.importJSON ./config/flocoConfig.json;
-        m  = prev.recursiveUpdate j ( prev.flocoConfig or {} );
+        j = prev.importJSON ./config/flocoConfig.json;
+        m = prev.recursiveUpdate j ( prev.flocoConfig or {} );
       in prev.libcfg.mkFlocoConfig m;
     };
 
@@ -71,22 +51,68 @@
       callPackage      = callPackageWith {};
       nixpkgsConfig    = prev.lib.importJSON ./config/nixpkgsConfig.json;
     in {
-      lib    = prev.lib.extend self.overlays.lib;
-      config = lib.recursiveUpdate prev.config nixpkgsConfig;
-    };
+
+      # Disables `checkMeta'
+      config = prev.lib.recursiveUpdate prev.config nixpkgsConfig;
+      lib    = prev.lib.extend libOverlays.default;
+
+      flocoPackages = prev.lib.makeExtensible ( fpSelf: let
+        callFlocoPackage = prev.lib.callPackageWith {
+          inherit (final)
+            stdenv lib copyOut buildGyp darwin
+          ;
+          inherit (final.darwin.apple_sdk.frameworks)
+            CoreServices
+          ;
+          flocoPackages = fpSelf;
+        };
+      in {
+        "fsevents/1.2.13" = callFlocoPackage ./pkgs/fsevents/1.2.13 {
+          fsevents-src = builtins.fetchTree {
+            type = "tarball";
+            url = "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz";
+            narHash = "sha256-prK0V63HoVHzoQrTB6MzYEloOwBo5qvSnYVUrg9SFE8=";
+          };
+        };
+      } );  # End flocoPackages
+
+    }; # End `pkgs' overlay
 
     overlays.simple = import ./pkgs/SIMPLE/overlay.nix;
 
+    overlays.deps = at-node-nix.overlays.default;
+
+    # By default, compose with our deps into a single overlay.
+    overlays.default = nixpkgs.lib.composeManyExtensions [
+      overlays.deps
+      overlays.pkgs
+      overlays.simple
+    ];
+
+
+# ---------------------------------------------------------------------------- #
+
+  in {  # Begin Outputs
+
+# ---------------------------------------------------------------------------- #
+
+    inherit overlays;
+    flocoPackagesFor = eachSupportedSystemMap ( system: let
+      pkgsFor = nixpkgs.legacyPackages.${system}.extend overlays.default;
+    in pkgsFor.flocoPackages );
 
 # ---------------------------------------------------------------------------- #
 
     # Installable Packages for Flake CLI.
     packages = eachSupportedSystemMap ( system: let
-      pkgsFor = pkgsForSys system;
+      pkgsFor  = pkgsForSys system;
     in {
 
+      fsevents--1_2_13 = pkgsFor.flocoPackages."fsevents/1.2.13";
+
       tests = ( import ./tests {
-        inherit system lib pkgsFor;
+        inherit system pkgsFor;
+        lib = at-node-nix.lib.extend libOverlays.default;
         enableTraces = true;
       } ).checkDrv;
 

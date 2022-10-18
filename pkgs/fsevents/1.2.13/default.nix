@@ -1,8 +1,12 @@
 
 # XXX: Only builds for Darwin.
 # This ships with pre-built Linux libs.
-
-{ fsevents-src
+{ lib
+, fsevents-src ? builtins.fetchTree {
+    type    = "tarball";
+    url     = "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz";
+    narHash = "sha256-prK0V63HoVHzoQrTB6MzYEloOwBo5qvSnYVUrg9SFE8=";
+  }
 , stdenv
 , copyOut
 , buildGyp      # at-node-nix.buildGyp
@@ -11,7 +15,7 @@
 , flocoPackages ? {}
 , meta          ? {}
 }: if ! stdenv.isDarwin then copyOut { src = fsevents-src; } else buildGyp {
-  name     = "fsevents-inst-1.2.13";
+  name     = "fsevents-1.2.13";
   version  = "1.2.13";
   src      = fsevents-src;
   nmDirCmd = ''
