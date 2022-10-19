@@ -6,10 +6,38 @@
 
 final: prev: let
 
-  ents = builtins.foldl' ( acc: ent: acc // {
+  # A miniature `lib' for using treelock registries.
+  rlib = import ../../registry/lib.nix;
+
+  lockedEnts = builtins.foldl' ( acc: ent: acc // {
     ${ent.ident} = final.flocoPackages."${ent.ident}/${ent.version}";
     "${ent.ident}/${ent.version}" = final.simpleFetcher ent;
   } ) {} ( prev.lib.importJSON ./locked.json );
+
+  # Fills all past versions for any locked packages.
+  # NOTE: excludes "*--latest" trees.
+  regEnts = let
+    idents = prev.lib.unique ( map ( { ident, scope, ... }: {
+      inherit ident scope;
+    } ) ( prev.lib.importJSON ./locked.json ) );
+    idsProc = acc: si: let
+      trees = rlib.lookup si.ident;
+      filt  = k: v:
+        ( ! ( prev.lib.hasSuffix "--latest" k ) ) && ( v ? narHash );
+      keeps = prev.lib.filterAttrs filt trees;
+      treesProc = tacc: k: let
+        key = rlib.lockIdToKey k;
+      in tacc // {
+        ${key} = final.simpleFetcher {
+          ident   = dirOf key;
+          version = baseNameOf key;
+          sourceInfo = keeps.${k};
+        };
+      };
+    in acc // ( builtins.foldl' treesProc {} ( builtins.attrNames keeps ) );
+  in builtins.foldl' idsProc {} idents;
+
+  ents = prev.lib.recursiveUpdate regEnts lockedEnts;
 
 in {
 

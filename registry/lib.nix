@@ -14,7 +14,8 @@ let
 # ---------------------------------------------------------------------------- #
 
   lib.readTreelockFor = scope: bname: let
-    ldir = if scope == "unscoped" then "unscoped" else "@${scope}";
+    ldir = if builtins.elem scope [null "unscoped" ""] then "unscoped"
+                                                       else "@${scope}";
   in lib.importJSON "${toString ./.}/${ldir}/${bname}.json";
 
   lib.readTreelocksForScope = scope: bnames:
@@ -55,6 +56,43 @@ let
 
   # Fill missing `sourceInfo' fields for a set of treelocks.
   addSourceInfoToTreelocks = builtins.mapAttrs ( _: addSourceInfoToTreelock );
+
+
+# ---------------------------------------------------------------------------- #
+
+  # Lookup a treelock by package name, returning the lock represented as attrs.
+  #   lib.lookup "chai" => { chai--0_0_1 = { ... }; chai--0_0_2 = { ... }; ... }
+  #   lib.lookup { scope = "unscoped"; bname = "chai"; }
+  #   => { chai--0_0_1 = { ... }; chai--0_0_2 = { ... }; ... }
+  lib.lookup = {
+    __functionArgs  = { scope = true; bname = false; };
+    __innerFunction = self: { scope, bname }: lib.treelockToAttrs scope bname;
+    __processArgs = x: let
+      m = builtins.match "(@([^@/]+)/)?([^@/]+)" x;
+      scope = let
+        s = builtins.elemAt m 1;
+      in if s == null then "unscoped" else s;
+      bname = builtins.elemAt m 2;
+    in if builtins.isString x then { inherit scope bname; } else x;
+    __functor = self: x: self.__innerFunction self ( self.__processArgs x );
+  };
+
+
+# ---------------------------------------------------------------------------- #
+
+  # Convert a lockfile id to package key as used by `metaSet' records.
+  lib.lockIdToKey = lid: let
+    forScoped = let
+      m  = builtins.match "(.*)--(.*)--(.*)" lid;
+      sd = if ( builtins.head m ) == "unscoped" then ""
+                                                else "@${builtins.head m}/";
+      v = builtins.replaceStrings ["_"] ["."] ( builtins.elemAt m 2 );
+    in if m == null then null else "${sd}${builtins.elemAt m 1}/${v}";
+    forUnscoped = let
+      m  = builtins.match "(.*)--(.*)" lid;
+      v = builtins.replaceStrings ["_"] ["."] ( builtins.elemAt m 1 );
+    in "${builtins.head m}/${v}";
+  in if forScoped == null then forUnscoped else forScoped;
 
 
 # ---------------------------------------------------------------------------- #
