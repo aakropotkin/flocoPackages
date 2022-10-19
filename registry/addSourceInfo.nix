@@ -1,8 +1,12 @@
+# ============================================================================ #
+#
+#
+#
 # ---------------------------------------------------------------------------- #
 
 { floco           ? builtins.getFlake "github:aameen-tulip/at-node-nix"
 , system          ? builtins.currentSystem
-, lib             ? floco.lib
+, lib             ? floco.lib.extend ( _: _: import ./lib.nix )
 , pkgsFor         ? floco.legacyPackages.${system}
 , buildEnv        ? pkgsFor.buildEnv
 , targets         ? lib.importJSON ./npmjs.json
@@ -21,10 +25,12 @@
   # Pay attention to =scope= vs =scope'=.
   scopedirFor = s: if isNs s then ""          else "@${s}/";
   localdirFor = s: if isNs s then "unscoped/" else "${s}/";
+
   outfileFor  = i: let
     sb = lib.libparse.parseIdent i;
     ld = if sb.scope == null then "unscoped/" else localdirFor sb.scope;
   in ld + sb.bname + ".json";
+
   attrFor = s: let
     m = builtins.match "@([^/@]+).*" s;
   in if isNs s then "unscoped" else if m == null then s else builtins.head m;
@@ -32,37 +38,15 @@
 
 # ---------------------------------------------------------------------------- #
 
-  readTreelockFor = scope: bname: let
-    ldir = if scope == "unscoped" then "unscoped" else "@${scope}";
-  in lib.importJSON "${toString ./.}/${ldir}/${bname}.json";
-
-  readTreelocksForScope = scope: bnames:
-    builtins.listToAttrs ( map ( name: {
-      inherit name;
-      value = readTreelockFor scope name;
-    } ) bnames );
-
-  treelocks = builtins.mapAttrs readTreelocksForScope targets;
+  treelocks   = builtins.mapAttrs lib.readTreelocksForScope targets;
+  sitreelocks = builtins.mapAttrs ( _: lib.addSourceInfoToTreelocks ) treelocks;
 
 
 # ---------------------------------------------------------------------------- #
 
-  addSourceInfoToTreelock = tlock:
-    tlock // {
-      trees = map ( { from, to, ... } @ ent:
-        if ent ? sourceInfo then ent else ent // {
-          sourceInfo = removeAttrs ( builtins.fetchTree to ) ["outPath"];
-        } ) tlock.trees;
-    };
-
-  addSourceInfoToScope = scope:
-    builtins.mapAttrs ( _: addSourceInfoToTreelock );
-
-  sitreelocks = builtins.mapAttrs addSourceInfoToScope treelocks;
-
-  writeTlock = scope: bname: let
-  in builtins.toFile "${scope}--${bname}";
-                     ( builtins.toJSON sitreelocks.${scope}.${bname} );
+  writeTlock = scope: bname:
+    builtins.toFile "${scope}--${bname}"
+                    ( builtins.toJSON sitreelocks.${scope}.${bname} );
 
   dumpScope = scope:
     builtins.foldl' ( acc: bname: let
@@ -81,17 +65,17 @@
 
 in {
   inherit
-    sitreelocks
-    siTreeDumps
-    addSourceInfoToTreelock
-    addSourceInfoToScope
-    readTreelockFor
-    readTreelocksForScope
     treelocks
+    sitreelocks
     writeTlock
     dumpScope
+    siTreeDumps
   ;
 }
 
 
 # ---------------------------------------------------------------------------- #
+#
+#
+#
+# ============================================================================ #
