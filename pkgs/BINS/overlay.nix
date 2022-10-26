@@ -25,7 +25,13 @@ final: prev: let
   , src      ? sources."${ident}/${version}"
   , ...
   }: prev.lib.callPackageWith {
-    inherit (prev) pjsUtil stdenv lib;
+    inherit (prev)
+      pjsUtil
+      stdenv
+      lib
+      installGlobalNodeModuleHook
+      patchNodePackageHook
+    ;
     nodejs = prev.nodejs-14_x;  # FIXME
   } "${toString ./.}/${ident}/${version}/default.nix" {
     inherit src ident version;
