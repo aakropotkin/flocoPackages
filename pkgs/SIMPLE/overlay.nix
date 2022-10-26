@@ -11,7 +11,7 @@ final: prev: let
 
   lockedEnts = builtins.foldl' ( acc: ent: acc // {
     ${ent.ident} = final.flocoPackages."${ent.ident}/${ent.version}";
-    "${ent.ident}/${ent.version}" = final.simpleFetcher ent;
+    "${ent.ident}/${ent.version}" = final.flocoSimpleFetcher ent;
   } ) {} ( prev.lib.importJSON ./locked.json );
 
   # Fills all past versions for any locked packages.
@@ -28,7 +28,7 @@ final: prev: let
       treesProc = tacc: k: let
         key = rlib.lockIdToKey k;
       in tacc // {
-        ${key} = final.simpleFetcher {
+        ${key} = final.flocoSimpleFetcher {
           ident   = dirOf key;
           version = baseNameOf key;
           sourceInfo = keeps.${k};
@@ -44,7 +44,7 @@ in {
   # Produces store paths from `./locked.json' tree entries.
   # In the case of `type = "file"' entries we produce a derivation of the
   # unpacked tarball; for `type = "tarball"' entries we just produce storepaths.
-  simpleFetcher = { sourceInfo, ... } @ ent: let
+  flocoSimpleFetcher = { sourceInfo, ... } @ ent: let
     fetched  = builtins.fetchTree sourceInfo;
     unpacked = final.flocoUnpack {
       name        = "source";

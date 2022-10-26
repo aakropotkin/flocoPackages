@@ -79,6 +79,7 @@
     }; # End `pkgs' overlay
 
     overlays.simple = import ./pkgs/SIMPLE/overlay.nix;
+    overlays.bins   = import ./pkgs/BINS/overlay.nix;
 
     overlays.deps = at-node-nix.overlays.default;
 
@@ -87,6 +88,7 @@
       overlays.deps
       overlays.pkgs
       overlays.simple
+      overlays.bins  # FIXME
     ];
 
 
@@ -105,8 +107,9 @@
 
     # Installable Packages for Flake CLI.
     packages = eachSupportedSystemMap ( system: let
-      pkgsFor  = pkgsForSys system;
-    in {
+      pkgsFor = pkgsForSys system;
+      bins    = pkgsFor.flocoApps;
+    in bins // {
 
       fsevents--1_2_13 = pkgsFor.flocoPackages."fsevents/1.2.13";
 
