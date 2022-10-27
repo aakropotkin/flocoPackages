@@ -14,6 +14,11 @@ final: prev: let
     "${ent.ident}/${ent.version}" = final.flocoSimpleFetcher ent;
   } ) {} ( prev.lib.importJSON ./locked.json );
 
+  unregisteredEnts = builtins.foldl' ( acc: ent: acc // {
+    ${ent.ident} = final.flocoPackages."${ent.ident}/${ent.version}";
+    "${ent.ident}/${ent.version}" = final.flocoSimpleFetcher ent;
+  } ) {} ( prev.lib.importJSON ./locked-no-reg.json );
+
   # Fills all past versions for any locked packages.
   # NOTE: excludes "*--latest" trees.
   regEnts = let
@@ -37,7 +42,7 @@ final: prev: let
     in acc // ( builtins.foldl' treesProc {} ( builtins.attrNames keeps ) );
   in builtins.foldl' idsProc {} idents;
 
-  ents = prev.lib.recursiveUpdate regEnts lockedEnts;
+  ents = prev.lib.recursiveUpdate regEnts ( lockedEnts // unregisteredEnts );
 
 in {
 

@@ -79,6 +79,7 @@ in {
         version = "4.8.3";
       };
       "js-yaml/4.1.0" = mkNodePackage { ident = "js-yaml"; version = "4.1.0"; };
+      "rimraf/3.0.2" = mkNodePackage { ident = "rimraf"; version = "3.0.2"; };
     } ) );
   #flocoApps = let
   #  proc = acc: k: acc // { ${baseNameOf ( dirOf k )} = ents.${k}.global; };
@@ -89,6 +90,7 @@ in {
     which      = final.flocoPackages."which/2.0.2".global;
     typescript = final.flocoPackages."typescript/4.8.3".global;
     js-yaml    = final.flocoPackages."js-yaml/4.1.0".global;
+    rimraf     = final.flocoPackages."rimraf/3.0.2".global;
   };
 
 }
