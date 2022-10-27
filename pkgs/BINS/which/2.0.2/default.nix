@@ -13,7 +13,7 @@
     isexe = builtins.fetchTree {
       type = "tarball";
       url = "https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz";
-      narHash = "sha256-u114pFUXCCiUamLVVZma0Au+didZhD6RCoGTbrh2OhU=";
+      narHash = "sha256-l3Fv+HpHS6H1TqfC1WSGjsGlX08oDHyHdsEu9JQkvhE=";
     };
   in ''
     pjsAddMod ${isexe} "$node_modules_path/isexe";
