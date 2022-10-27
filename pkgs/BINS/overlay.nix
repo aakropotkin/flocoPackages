@@ -78,6 +78,7 @@ in {
         ident = "typescript";
         version = "4.8.3";
       };
+      "js-yaml/4.1.0" = mkNodePackage { ident = "js-yaml"; version = "4.1.0"; };
     } ) );
   #flocoApps = let
   #  proc = acc: k: acc // { ${baseNameOf ( dirOf k )} = ents.${k}.global; };
@@ -87,6 +88,7 @@ in {
     acorn      = final.flocoPackages."acorn/8.8.0".global;
     which      = final.flocoPackages."which/2.0.2".global;
     typescript = final.flocoPackages."typescript/4.8.3".global;
+    js-yaml    = final.flocoPackages."js-yaml/4.1.0".global;
   };
 
 }
