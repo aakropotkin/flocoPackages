@@ -21,7 +21,7 @@
           nan      = nan-src;
           # XXX: Only builds on Darwin. Linux just copies to store.
           fsevents = lib.callPackageWith final ./default.nix {
-            inherit fsevents-src;
+            src = fsevents-src;
             inherit (prev.darwin.apple_sdk.frameworks) CoreServices;
           };
         };
