@@ -16,11 +16,15 @@ shopt -s extglob;
 # Tools
 : "${NIX:=nix}";
 : "${CAT:=cat}";
+: "${READLINK:=readlink}";
 
 
 # Options
 : "${VERBOSE:=}";
-: "${FLAKE_REF:=${BASH_SOURCE[0]%/*}/..}";
+if test -z "${FLAKE_REF:-}"; then
+  FLAKE_REF="$( $READLINK -f "${BASH_SOURCE[0]}"; )";
+  FLAKE_REF="${FLAKE_REF%/*}/..";
+fi
 
 
 # Vars

@@ -88,6 +88,10 @@ in {
       "semver/6.3.0"   = mkNodePackage { ident = "semver"; version = "6.3.0"; };
       "semver/7.3.7"   = mkNodePackage { ident = "semver"; version = "7.3.7"; };
       "eslint/8.26.0" = mkNodePackage { ident = "eslint"; version = "8.26.0"; };
+      "eslint-config-prettier/8.5.0" = mkNodePackage {
+        ident = "eslint-config-prettier";
+        version = "8.5.0";
+      };
     } ) );
   #flocoApps = let
   #  proc = acc: k: acc // { ${baseNameOf ( dirOf k )} = ents.${k}.global; };
@@ -104,6 +108,8 @@ in {
     # Use newer version
     semver = final.flocoPackages."semver/7.3.7".global;
     eslint = final.flocoPackages."eslint/8.26.0".global;
+    eslint-config-prettier =
+      final.flocoPackages."eslint-config-prettier/8.5.0".global;
   };
 
 }
