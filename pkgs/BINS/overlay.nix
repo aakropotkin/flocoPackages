@@ -33,6 +33,7 @@ final: prev: let
       patchNodePackageHook
       evalScripts
     ;
+    inherit (final) flocoPackages;
     nodejs = prev.nodejs-14_x;  # FIXME
   } "${toString ./.}/${ident}/${version}/default.nix" {
     inherit src ident version;
