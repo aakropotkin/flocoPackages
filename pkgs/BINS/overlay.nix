@@ -85,6 +85,8 @@ in {
         ident = "loose-envify";
         version = "1.4.0";
       };
+      "semver/6.3.0"   = mkNodePackage { ident = "semver"; version = "6.3.0"; };
+      "semver/7.3.7"   = mkNodePackage { ident = "semver"; version = "7.3.7"; };
     } ) );
   #flocoApps = let
   #  proc = acc: k: acc // { ${baseNameOf ( dirOf k )} = ents.${k}.global; };
@@ -98,6 +100,8 @@ in {
     rimraf       = final.flocoPackages."rimraf/3.0.2".global;
     json5        = final.flocoPackages."json5/1.0.1".global;
     loose-envify = final.flocoPackages."loose-envify/1.4.0".global;
+    # Use newer version
+    semver = final.flocoPackages."semver/7.3.7".global;
   };
 
 }
