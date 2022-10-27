@@ -74,14 +74,19 @@ in {
     prev.flocoPackages.extend ( fpFinal: fpPrev: ( {
       "acorn/8.8.0" = mkNodePackage { ident = "acorn"; version = "8.8.0"; };
       "which/2.0.2" = mkNodePackage { ident = "which"; version = "2.0.2"; };
+      "typescript/4.8.3" = mkNodePackage {
+        ident = "typescript";
+        version = "4.8.3";
+      };
     } ) );
   #flocoApps = let
   #  proc = acc: k: acc // { ${baseNameOf ( dirOf k )} = ents.${k}.global; };
   #in builtins.foldl' proc {} ( builtins.attrNames ents );
 
   flocoApps = {
-    acorn = final.flocoPackages."acorn/8.8.0".global;
-    which = final.flocoPackages."which/2.0.2".global;
+    acorn      = final.flocoPackages."acorn/8.8.0".global;
+    which      = final.flocoPackages."which/2.0.2".global;
+    typescript = final.flocoPackages."typescript/4.8.3".global;
   };
 
 }
