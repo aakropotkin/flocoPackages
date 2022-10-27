@@ -6,7 +6,6 @@
 , pjsUtil
 , installGlobalNodeModuleHook
 , patchNodePackageHook
-, nodejs
 }: stdenv.mkDerivation {
   name = "${baseNameOf ident}-${version}";
   inherit version;
@@ -16,7 +15,6 @@
     patchNodePackageHook
     installGlobalNodeModuleHook
   ];
-  buildInputs   = [nodejs];
   outputs       = ["out" "global"];
   dontBuild     = true;
   dontConfigure = true;

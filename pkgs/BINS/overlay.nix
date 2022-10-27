@@ -31,6 +31,7 @@ final: prev: let
       lib
       installGlobalNodeModuleHook
       patchNodePackageHook
+      evalScripts
     ;
     nodejs = prev.nodejs-14_x;  # FIXME
   } "${toString ./.}/${ident}/${version}/default.nix" {
@@ -71,6 +72,7 @@ in {
   flocoPackages =
     prev.flocoPackages.extend ( fpFinal: fpPrev: ( {
       "acorn/8.8.0" = mkNodePackage { ident = "acorn"; version = "8.8.0"; };
+      "which/2.0.2" = mkNodePackage { ident = "which"; version = "2.0.2"; };
     } ) );
   #flocoApps = let
   #  proc = acc: k: acc // { ${baseNameOf ( dirOf k )} = ents.${k}.global; };
@@ -78,6 +80,7 @@ in {
 
   flocoApps = {
     acorn = final.flocoPackages."acorn/8.8.0".global;
+    which = final.flocoPackages."which/2.0.2".global;
   };
 
 }
