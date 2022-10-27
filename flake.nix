@@ -68,7 +68,7 @@
         };
       in {
         "fsevents/1.2.13" = callFlocoPackage ./pkgs/fsevents/1.2.13 {
-          fsevents-src = builtins.fetchTree {
+          src = builtins.fetchTree {
             type = "tarball";
             url = "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz";
             narHash = "sha256-prK0V63HoVHzoQrTB6MzYEloOwBo5qvSnYVUrg9SFE8=";
