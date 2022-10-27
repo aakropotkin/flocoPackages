@@ -14,7 +14,7 @@
 , nan           ? flocoPackages.nan
 , flocoPackages ? {}
 , meta          ? {}
-}: if ! stdenv.isDarwin then copyOut { src = fsevents-src; } else buildGyp {
+}: if ! stdenv.isDarwin then copyOut { inherit src; } else buildGyp {
   name     = "fsevents-1.2.13";
   version  = "1.2.13";
   inherit src;
