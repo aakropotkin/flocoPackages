@@ -2,7 +2,7 @@
 # XXX: Only builds for Darwin.
 # This ships with pre-built Linux libs.
 { lib
-, fsevents-src ? builtins.fetchTree {
+, src ? builtins.fetchTree {
     type    = "tarball";
     url     = "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz";
     narHash = "sha256-prK0V63HoVHzoQrTB6MzYEloOwBo5qvSnYVUrg9SFE8=";
@@ -17,11 +17,9 @@
 }: if ! stdenv.isDarwin then copyOut { src = fsevents-src; } else buildGyp {
   name     = "fsevents-1.2.13";
   version  = "1.2.13";
-  src      = fsevents-src;
+  inherit src;
   nmDirCmd = ''
-    mkdir -p "$node_modules_path";
-    cp -pr --reflink=auto -- ${nan} "$node_modules_path/nan";
-    chmod -R +w "$node_modules_path";
+    pjsAddMod ${nan} "$node_modules_path/nan";
   '';
   buildInputs = [CoreServices];
   inherit meta;
