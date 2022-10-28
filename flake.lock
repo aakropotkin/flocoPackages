@@ -26,15 +26,14 @@
       "inputs": {
         "ak-nix": "ak-nix",
         "nixpkgs": "nixpkgs",
-        "pacote-src": "pacote-src",
         "rime": "rime"
       },
       "locked": {
-        "lastModified": 1666917988,
-        "narHash": "sha256-sgCmjsNpFELAHRDqItLFrcNHWC9sSseq43P8f94G6vk=",
+        "lastModified": 1666994319,
+        "narHash": "sha256-JNSj0hzeiQc8INSaO22M7PosggbXl8MWXwuH8NkMI+4=",
         "owner": "aameen-tulip",
         "repo": "at-node-nix",
-        "rev": "583f5c09106a37be29a75f8f19f2c4ca089bae94",
+        "rev": "457d71cb0801a8c6c4f28f4f47e4ceb89cf6b809",
         "type": "github"
       },
       "original": {
@@ -55,23 +54,6 @@
       "original": {
         "id": "nixpkgs",
         "type": "indirect"
-      }
-    },
-    "pacote-src": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651673723,
-        "narHash": "sha256-97nFOX7qGmxtbvht+yrq6K7qcL7ooLLGF5ga5zJAwpw=",
-        "owner": "npm",
-        "repo": "pacote",
-        "rev": "8f94b28f3c21bc6a59c4537a4ee9fdb93385dc78",
-        "type": "github"
-      },
-      "original": {
-        "owner": "npm",
-        "ref": "v13.3.0",
-        "repo": "pacote",
-        "type": "github"
       }
     },
     "rime": {
