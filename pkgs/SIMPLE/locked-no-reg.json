@@ -980,16 +980,6 @@
     "version": "1.2.6"
   },
   {
-    "ident": "is-core-module",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-np3hQp/S/dIzGj8/ZUX5VHWHQD3aze3uBWAPyogg3cM=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/is-core-module/-/is-core-module-2.10.0.tgz"
-    },
-    "version": "2.10.0"
-  },
-  {
     "ident": "is-date-object",
     "scope": null,
     "sourceInfo": {
@@ -10522,5 +10512,15 @@
       "url": "https://registry.npmjs.org/is-path-inside/-/is-path-inside-3.0.3.tgz"
     },
     "version": "3.0.3"
+  },
+  {
+    "ident": "is-core-module",
+    "scope": null,
+    "sourceInfo": {
+      "narHash": "sha256-/nUASoPE2TWgzP0+HyPY6qEb67Kw1stZTtWMMykFcdY=",
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/is-core-module/-/is-core-module-2.11.0.tgz"
+    },
+    "version": "2.11.0"
   }
 ]
