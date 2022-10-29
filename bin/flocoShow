@@ -151,9 +151,11 @@ del( .author )|
 del( .icon )|
 del( .homepage )|
 del( .keywords )|
+del( .funding )|
 del( .licenseText )|
 del( .readme )|
 del( .readmeFilename )|
+del( .publishConfig )|
 .dist|=(
   del( .["npm-signature"] )|
   del( .signatures )|
@@ -164,15 +166,18 @@ del( .readmeFilename )|
 .+={
   ident: ._id
 , key: "\(.name)/\(.version)"
+, hasBin: ( ( .bin // null ) != null )
 , isSimple: ( (
-    ( .gypfile // false ) or
-    ( ( .bin // null ) != null ) or
-    ( ( .scripts.preinstall //
-        .scripts.install //
-        .scripts.postinstall //
-        null
-      ) != null )
+    ( .hasInstallScript // false ) or
+    ( ( .bin // null ) != null )
   )|not )
+}|
+.+={
+flocoPkgType: (
+  if ( .hasInstallScript and .hasBin ) then "inst+bin" else
+  if .hasInstallScript then "inst" else
+  if .hasBin           then "bin"  else
+  "simple" end end end )
 }
 ' "$1";
 }
