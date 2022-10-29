@@ -139,6 +139,18 @@ done
 
 # ---------------------------------------------------------------------------- #
 
+name_info() {
+  $JQ '
+.name|(
+capture( "(?<scopeDir>@(?<scope>[^@/]+)/)(?<bname>.*)" ) // {
+    bname: ., scope: null, scopeDir: ""
+  }
+)' "$1";
+}
+
+
+# ---------------------------------------------------------------------------- #
+
 vdoc_clean() {
   $JQ '
 del( ._hasShrinkwrap )|
@@ -236,6 +248,7 @@ prefetch_tree() {
 
 { 
   dump_version_doc;
+  name_info "$VDOC";
   prefetch_tree|$JQ '{ fetchInfo: . }';
 }|$JQ -s 'add';
 
