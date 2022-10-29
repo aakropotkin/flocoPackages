@@ -139,35 +139,6 @@ done
 
 # ---------------------------------------------------------------------------- #
 
-if test -n "${VERBOSE:-}"; then
-  $CAT <<EOF >&2
-ORIG:    $ORIG
-KIND:    $KIND
-ARGC:    $ARGI
-IDENT:   $IDENT
-SCOPE:   $SCOPE
-BNAME:   $BNAME
-VERSION: $VERSION
-
-EOF
-fi
-
-
-# ---------------------------------------------------------------------------- #
-
-if test -z "$VERSION"; then
-  die 2 "You must provide a version number to lookup package info";
-fi
-
-KEY="$IDENT/$VERSION";
-LOCATOR="$IDENT@$VERSION";
-PACKUMENT_URL="https://registry.npmjs.org/$IDENT";
-VDOC_URL="$PACKUMENT_URL/$VERSION";
-TARBALL_URL="$PACKUMENT_URL/-/$BNAME-$VERSION.tgz";
-
-
-# ---------------------------------------------------------------------------- #
-
 vdoc_clean() {
   $JQ '
 del( ._hasShrinkwrap )|
@@ -217,6 +188,36 @@ dump_version_doc() {
     vdoc_clean "$VDOC";
   fi
 }
+
+
+# ---------------------------------------------------------------------------- #
+
+PACKUMENT_URL="https://registry.npmjs.org/$IDENT";
+VDOC_URL="$PACKUMENT_URL/${VERSION:-latest}";
+
+if test "${VERSION:-latest}" = latest; then
+  VERSION="$( dump_version_doc|$JQ -r .version; )";
+fi
+
+KEY="$IDENT/$VERSION";
+LOCATOR="$IDENT@$VERSION";
+TARBALL_URL="$PACKUMENT_URL/-/$BNAME-$VERSION.tgz";
+
+
+# ---------------------------------------------------------------------------- #
+
+if test -n "${VERBOSE:-}"; then
+  $CAT <<EOF >&2
+ORIG:    $ORIG
+KIND:    $KIND
+ARGC:    $ARGI
+IDENT:   $IDENT
+SCOPE:   $SCOPE
+BNAME:   $BNAME
+VERSION: $VERSION
+
+EOF
+fi
 
 
 # ---------------------------------------------------------------------------- #
