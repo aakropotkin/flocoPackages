@@ -2,14 +2,48 @@
 
 # This is my finest work. Bask in it. Quote city baby!
 
-# FIXME: accept meta.json
+: "${NIX:=nix}";
+: "${JQ:=jq}";
+: "${CAT:=cat}";
 
-{
-  echo "[";
-  eval echo $(
-    nix2json "${1:-meta.nix}"|jq -cr '
+JOIN=;
+
+while test "$#" -gt 0; do
+  case "$1" in
+    -s|--join|--slurp) JOIN=:; ;;
+    *) TARGET="$1"; ;;
+  esac
+  shift;
+done
+
+if test -z "${TARGET:-}"; then
+  if test -r ./meta.nix; then
+    TARGET=meta.nix;
+  elif test -r ./meta.json; then
+    TARGET=meta.json;
+  else
+    echo "No target file indicated or found in PWD" >&2;
+    exit 1;
+  fi
+fi
+
+asJSON() {
+  case "$TARGET" in
+    *.json) $CAT "$TARGET"; ;;
+    *.nix)  $NIX eval --impure --json -f "$TARGET"; ;;
+    *)
+      if test -n "${VERBOSE:+y}"; then
+        echo "Could not infer file format from extension. Assuming NIX." >&2;
+      fi
+      $NIX eval --impure --json -f "$TARGET";
+    ;;
+  esac
+}
+
+eval echo $(
+  asJSON|jq -cr '
 del( .__meta )
-|map( "{ \\\"\(.key)\\\": $( nix-prefetch-tree \(.sourceInfo.url)||nix-prefetch-tree -t file \(.sourceInfo.url); ) }," )[]';
-  );
-  echo "null]";
-}|jq 'map( select( . != null ) )|add';
+|map( "{ \\\"\(.key)\\\": $( nix-prefetch-tree -K \(.sourceInfo.url); ) }" )[]
+';
+);
+

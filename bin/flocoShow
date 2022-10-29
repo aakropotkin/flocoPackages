@@ -228,8 +228,7 @@ fi
 # ---------------------------------------------------------------------------- #
 
 prefetch_tree() {
-  $NIX_PREFETCH_TREE "$TARBALL_URL"  \
-    ||$NIX_PREFETCH_TREE -t file "$TARBALL_URL";
+  $NIX_PREFETCH_TREE -K "$TARBALL_URL";
 }
 
 
