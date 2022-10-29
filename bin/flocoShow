@@ -104,7 +104,7 @@ while test "$#" -gt 0; do
       KIND="Scoped Locator";
     ;;
 
-    +([^@/])[@/]+([^@/]))
+    [a-z]+([^@/])[@/]+([^@/]))
       IDENT="${1%[@/]*}";
       BNAME="$IDENT";
       VERSION="${1##*[@/]}";
@@ -164,7 +164,7 @@ del( .publishConfig )|
   del( .shasum )
 )|
 .+={
-  ident: ._id
+  ident: .name
 , key: "\(.name)/\(.version)"
 , hasBin: ( ( .bin // null ) != null )
 , isSimple: ( (

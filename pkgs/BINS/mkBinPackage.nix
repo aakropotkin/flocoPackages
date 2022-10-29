@@ -3,11 +3,11 @@
 , version
 , evalScripts
 , src
+, nmDirCmd ? ":"
 }: evalScripts {
   name = "${baseNameOf ident}-${version}";
   inherit version;
-  inherit src;
-  nmDirCmd      = ":";
+  inherit src nmDirCmd;
   runScripts    = [];
   globalInstall = true;
   postUnpack    = ":";

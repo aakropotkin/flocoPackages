@@ -86,7 +86,7 @@ while test "$#" -gt 0; do
       KIND="Scoped Locator";
     ;;
 
-    +([^@/])[@/]+([^@/]))
+    [a-z]+([^@/])[@/]+([^@/]))
       IDENT="${1%[@/]*}";
       BNAME="$IDENT";
       VERSION="${1##*[@/]}";

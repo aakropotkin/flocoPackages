@@ -19,12 +19,19 @@ final: prev: let
   #ents = prev.lib.recursiveUpdate regEnts lockedEnts;
   sources = lockedEnts;
 
+  # Generic default bin installer ( does global and module install ).
+  mkBinPackage = import ./mkBinPackage.nix;
+
   mkNodePackage = {
     ident
   , version
   , src      ? sources."${ident}/${version}"
   , ...
-  }: prev.lib.callPackageWith {
+  }: let
+    dir = "${toString ./.}/${ident}/${version}";
+    hasExplicit = builtins.pathExists "${dir}/default.nix";
+    builder = if hasExplicit then "${dir}/default.nix" else mkBinPackage;
+  in prev.lib.callPackageWith {
     inherit (prev)
       pjsUtil
       stdenv
@@ -35,7 +42,7 @@ final: prev: let
     ;
     inherit (final) flocoPackages;
     nodejs = prev.nodejs-14_x;  # FIXME
-  } "${toString ./.}/${ident}/${version}/default.nix" {
+  } builder {
     inherit src ident version;
     # FIXME: `mkNmDir' prod
   };
@@ -74,10 +81,16 @@ in {
     prev.flocoPackages.extend ( fpFinal: fpPrev: ( {
       "acorn/8.8.0" = mkNodePackage { ident = "acorn"; version = "8.8.0"; };
       "which/2.0.2" = mkNodePackage { ident = "which"; version = "2.0.2"; };
+
       "typescript/4.8.3" = mkNodePackage {
-        ident = "typescript";
+        ident   = "typescript";
         version = "4.8.3";
       };
+      "typescript/4.8.4" = mkNodePackage {
+        ident   = "typescript";
+        version = "4.8.4";
+      };
+
       "js-yaml/4.1.0" = mkNodePackage { ident = "js-yaml"; version = "4.1.0"; };
       "rimraf/3.0.2"  = mkNodePackage { ident = "rimraf"; version = "3.0.2"; };
       "json5/1.0.1"   = mkNodePackage { ident = "json5"; version = "1.0.1"; };
@@ -100,7 +113,7 @@ in {
   flocoApps = {
     acorn        = final.flocoPackages."acorn/8.8.0".global;
     which        = final.flocoPackages."which/2.0.2".global;
-    typescript   = final.flocoPackages."typescript/4.8.3".global;
+    typescript   = final.flocoPackages."typescript/4.8.4".global;
     js-yaml      = final.flocoPackages."js-yaml/4.1.0".global;
     rimraf       = final.flocoPackages."rimraf/3.0.2".global;
     json5        = final.flocoPackages."json5/1.0.1".global;

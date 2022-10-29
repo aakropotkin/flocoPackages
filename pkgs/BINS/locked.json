@@ -1,5 +1,15 @@
 [
   {
+    "sourceInfo": {
+      "narHash": "sha256-REBgR3/FkWUrYXfi3+GRKmEHZqbk51r4O4eLXX2IR70=",
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/typescript/-/typescript-4.8.4.tgz"
+    },
+    "version": "4.8.4",
+    "ident": "typescript",
+    "scope": null
+  },
+  {
     "ident": "@babel/runtime",
     "scope": "babel",
     "sourceInfo": {
