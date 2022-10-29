@@ -1,0 +1,239 @@
+#! /usr/bin/env bash
+# ============================================================================ #
+#
+#
+#
+# ---------------------------------------------------------------------------- #
+
+shopt -s extglob;
+
+: "${RIME_REF:=github:aakropotkin/rime}";
+
+# Tools
+: "${NIX:=nix}";
+: "${CAT:=cat}";
+: "${MKTEMP:=mktemp}";
+: "${JQ:=jq}";
+: "${CURL:=curl}";
+: "${NIX_PREFETCH_TREE:=$NIX run $RIME_REF#nix-prefetch-tree --}";
+
+
+# Options
+: "${VERBOSE:=}";
+
+
+# Vars
+SCOPE='unscoped';
+VERSION='';
+ORIG="$*";
+ARGI=0;
+PACKUMENT='';
+VDOC='';
+
+
+# ---------------------------------------------------------------------------- #
+
+_es=0;
+trap '
+_es="$?";
+rm -f "$PACKUMENT" "$VDOC";
+exit "$_es";
+' HUP TERM INT QUIT;
+
+
+# ---------------------------------------------------------------------------- #
+
+# plog MSG...
+# Print MSG to STDERR if VERBOSE is enabled.
+# Otherwise do nothing.
+if test -n "$VERBOSE"; then
+  plog() { echo "$*" >&2; }
+else
+  plog() { :; }
+fi
+
+
+# perror MSG...
+# Print Error
+perror() { echo "ERROR: $*" >&2; }
+
+
+# die [EXIT-CODE:=1] [MSG...]
+die() {
+  local _es;
+  # Set Exit Code
+  case "$1" in
+    +([0-9])) _es="$1"; shift; ;;
+    *)      _es=1; ;;
+  esac
+  # Print Error
+  if test "$#" -gt 0; then
+    perror "$@" "($_es)";
+  else
+    perror "Encounter Error ($_es)";
+  fi
+  exit "$_es";
+}
+
+
+# ---------------------------------------------------------------------------- #
+
+while test "$#" -gt 0; do
+  ARGI=$(( ARGI + 1 ));
+  case "$1" in
+    @+([^@/])/+([^@/]))
+      IDENT="$1";
+      SCOPE="${IDENT%/*}";
+      SCOPE="${SCOPE#@}";
+      BNAME="${IDENT#@*/}";
+      KIND="Scoped Ident";
+    ;;
+
+    [a-z]+([^@/]))
+      IDENT="$1";
+      BNAME="$IDENT";
+      KIND="Unscoped Ident";
+    ;;
+
+    @+([^@/])/+([^@/])[@/]+([^@/]))
+      IDENT="${1%[@/]*}";
+      SCOPE="${IDENT%/*}";
+      SCOPE="${SCOPE#@}";
+      BNAME="${IDENT#@*/}";
+      VERSION="${1##*[@/]}";
+      KIND="Scoped Locator";
+    ;;
+
+    +([^@/])[@/]+([^@/]))
+      IDENT="${1%[@/]*}";
+      BNAME="$IDENT";
+      VERSION="${1##*[@/]}";
+      KIND="Unscoped Locator";
+    ;;
+
+    *)
+      if test "$ARGI" -gt 1; then
+        KIND+=", Unknown ($ARGI)";
+      else
+        KIND="Unknown";
+      fi
+      break;
+    ;;
+  esac
+
+  # If we have more args try using as a version.
+  if test "$#" -gt 1 && test -z "${VERSION:-}"; then
+    case "$2" in
+      [0-9]+([^@/]))
+        VERSION="$2";
+        KIND+=", Version";
+        shift;
+      ;;
+      *) :; ;;
+    esac
+  fi
+
+  shift;
+done
+
+
+# ---------------------------------------------------------------------------- #
+
+if test -n "${VERBOSE:-}"; then
+  $CAT <<EOF >&2
+ORIG:    $ORIG
+KIND:    $KIND
+ARGC:    $ARGI
+IDENT:   $IDENT
+SCOPE:   $SCOPE
+BNAME:   $BNAME
+VERSION: $VERSION
+
+EOF
+fi
+
+
+# ---------------------------------------------------------------------------- #
+
+if test -z "$VERSION"; then
+  die 2 "You must provide a version number to lookup package info";
+fi
+
+KEY="$IDENT/$VERSION";
+LOCATOR="$IDENT@$VERSION";
+PACKUMENT_URL="https://registry.npmjs.org/$IDENT";
+VDOC_URL="$PACKUMENT_URL/$VERSION";
+TARBALL_URL="$PACKUMENT_URL/-/$BNAME-$VERSION.tgz";
+
+
+# ---------------------------------------------------------------------------- #
+
+vdoc_clean() {
+  $JQ '
+del( ._hasShrinkwrap )|
+del( ._npmOperationalInternal )|
+del( ._npmUser )|
+del( .bugs )|
+del( .maintainers )|
+del( .contributors )|
+del( .author )|
+del( .icon )|
+del( .homepage )|
+del( .keywords )|
+.dist|=(
+  del( .["npm-signature"] )|
+  del( .signatures )|
+  del( .unpackedSize )|
+  del( .fileCount )|
+  del( .shasum )
+)|
+.+={
+  ident: ._id
+, key: "\(.name)/\(.version)"
+, isSimple: ( (
+    ( .gypfile // false ) or
+    ( ( .bin // null ) != null ) or
+    ( ( .scripts.preinstall //
+        .scripts.install //
+        .scripts.postinstall //
+        null
+      ) != null )
+  )|not )
+}
+' "$1";
+}
+
+dump_version_doc() {
+  if test -z "${VDOC:-}"; then
+    VDOC="$( $MKTEMP; )";
+    $CURL -sL "$VDOC_URL" > "$VDOC";
+  fi
+  if test -n "${FULL:+y}"; then
+    $JQ . "$VDOC";
+  else
+    vdoc_clean "$VDOC";
+  fi
+}
+
+
+# ---------------------------------------------------------------------------- #
+
+prefetch_tree() {
+  $NIX_PREFETCH_TREE "$TARBALL_URL"  \
+    ||$NIX_PREFETCH_TREE -t file "$TARBALL_URL";
+}
+
+
+# ---------------------------------------------------------------------------- #
+
+{ 
+  dump_version_doc;
+  prefetch_tree|$JQ '{ fetchInfo: . }';
+}|$JQ -s 'add';
+
+
+# ---------------------------------------------------------------------------- #
+#
+#
+#
+# ============================================================================ #
