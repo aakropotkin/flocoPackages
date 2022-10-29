@@ -1,0 +1,15 @@
+#! /usr/bin/env bash
+
+# This is my finest work. Bask in it. Quote city baby!
+
+# FIXME: accept meta.json
+
+{
+  echo "[";
+  eval echo $(
+    nix2json "${1:-meta.nix}"|jq -cr '
+del( .__meta )
+|map( "{ \\\"\(.key)\\\": $( nix-prefetch-tree \(.sourceInfo.url)||nix-prefetch-tree -t file \(.sourceInfo.url); ) }," )[]';
+  );
+  echo "null]";
+}|jq 'map( select( . != null ) )|add';
