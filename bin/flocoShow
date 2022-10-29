@@ -180,6 +180,9 @@ del( .author )|
 del( .icon )|
 del( .homepage )|
 del( .keywords )|
+del( .licenseText )|
+del( .readme )|
+del( .readmeFilename )|
 .dist|=(
   del( .["npm-signature"] )|
   del( .signatures )|
