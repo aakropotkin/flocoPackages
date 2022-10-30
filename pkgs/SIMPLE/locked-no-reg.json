@@ -38256,5 +38256,15 @@
       "url": "https://registry.npmjs.org/zrender/-/zrender-5.4.0.tgz"
     },
     "version": "5.4.0"
+  },
+  {
+    "ident": "reactcss",
+    "scope": null,
+    "sourceInfo": {
+      "narHash": "sha256-TXHfCjOf+5sLLDepghZnDrnFmXQ/exyyCdmChtLFgoA=",
+      "type": "tarball",
+      "url": "https://registry.npmjs.org/reactcss/-/reactcss-1.2.3.tgz"
+    },
+    "version": "1.2.3"
   }
 ]
