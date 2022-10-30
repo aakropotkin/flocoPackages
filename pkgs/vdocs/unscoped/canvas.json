@@ -1,0 +1,73 @@
+{
+  "name": "canvas",
+  "description": "Canvas graphics API backed by Cairo",
+  "version": "2.10.2",
+  "main": "index.js",
+  "browser": "browser.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Automattic/node-canvas.git"
+  },
+  "scripts": {
+    "prebenchmark": "node-gyp build",
+    "benchmark": "node benchmarks/run.js",
+    "lint": "standard examples/*.js test/server.js test/public/*.js benchmarks/run.js lib/context2d.js util/has_lib.js browser.js index.js",
+    "test": "mocha test/*.test.js",
+    "pretest-server": "node-gyp build",
+    "test-server": "node test/server.js",
+    "generate-wpt": "node ./test/wpt/generate.js",
+    "test-wpt": "mocha test/wpt/generated/*.js",
+    "install": "node-pre-gyp install --fallback-to-build --update-binary",
+    "dtslint": "dtslint types"
+  },
+  "binary": {
+    "module_name": "canvas",
+    "module_path": "build/Release",
+    "host": "https://github.com/Automattic/node-canvas/releases/download/",
+    "remote_path": "v{version}",
+    "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{libc}-{arch}.tar.gz"
+  },
+  "types": "types/index.d.ts",
+  "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.0",
+    "nan": "^2.17.0",
+    "simple-get": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "assert-rejects": "^1.0.0",
+    "dtslint": "^4.0.7",
+    "express": "^4.16.3",
+    "js-yaml": "^4.1.0",
+    "mocha": "^5.2.0",
+    "pixelmatch": "^4.0.2",
+    "standard": "^12.0.1",
+    "typescript": "^4.2.2"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "MIT",
+  "gitHead": "672104c1a4bd202e56d8837ef83ebf7aee2dfce2",
+  "_id": "canvas@2.10.2",
+  "_nodeVersion": "16.18.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-FSmlsip0nZ0U4Zcfht0qBJqDhlfGuevTZKE8h+dBOYrJjGvY3iqMGSzzbvkaFhvMXiVxfcMaPHS/kge++T5SKg==",
+    "tarball": "https://registry.npmjs.org/canvas/-/canvas-2.10.2.tgz"
+  },
+  "directories": {},
+  "ident": "canvas",
+  "key": "canvas/2.10.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "canvas",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XwBBpk8TeKHRpugEBdcE3ZHcqmShbt00o7ts06qeAlc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/canvas/-/canvas-2.10.2.tgz"
+  }
+}

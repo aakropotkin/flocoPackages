@@ -1,0 +1,40 @@
+{
+  "name": "core-js-pure",
+  "version": "3.26.0",
+  "description": "Standard library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zloirock/core-js.git",
+    "directory": "packages/core-js-pure"
+  },
+  "license": "MIT",
+  "sideEffects": [
+    "./modules/*.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node -e \"try{require('./postinstall')}catch(e){}\""
+  },
+  "gitHead": "3b13f58e6bf182489791905f3d16e40809c6d092",
+  "_id": "core-js-pure@3.26.0",
+  "_nodeVersion": "19.0.0",
+  "_npmVersion": "9.0.0",
+  "dist": {
+    "integrity": "sha512-LiN6fylpVBVwT8twhhluD9TzXmZQQsr2I2eIKtWNbZI1XMfBT7CV18itaN6RA7EtQd/SDdRx/wzvAShX2HvhQA==",
+    "tarball": "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.26.0.tgz"
+  },
+  "directories": {},
+  "ident": "core-js-pure",
+  "key": "core-js-pure/3.26.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "core-js-pure",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ys2DWysMt+CVa0cpo1vR7zaWojBGoM6z6z2QA55S+9g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.26.0.tgz"
+  }
+}

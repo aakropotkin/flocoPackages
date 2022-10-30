@@ -1,9 +1,5 @@
 [
   {
-    "fetchInfo": {
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-1.3.3.tgz"
-    },
     "ident": "@eslint/eslintrc",
     "scope": "eslint",
     "sourceInfo": {
@@ -14,10 +10,6 @@
     "version": "1.3.3"
   },
   {
-    "fetchInfo": {
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.11.6.tgz"
-    },
     "ident": "@humanwhocodes/config-array",
     "scope": "humanwhocodes",
     "sourceInfo": {
@@ -28,10 +20,6 @@
     "version": "0.11.6"
   },
   {
-    "fetchInfo": {
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/espree/-/espree-9.4.0.tgz"
-    },
     "ident": "espree",
     "scope": null,
     "sourceInfo": {
@@ -42,10 +30,6 @@
     "version": "9.4.0"
   },
   {
-    "fetchInfo": {
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-6.0.1.tgz"
-    },
     "ident": "file-entry-cache",
     "scope": null,
     "sourceInfo": {
@@ -56,10 +40,6 @@
     "version": "6.0.1"
   },
   {
-    "fetchInfo": {
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/flat-cache/-/flat-cache-3.0.4.tgz"
-    },
     "ident": "flat-cache",
     "scope": null,
     "sourceInfo": {
@@ -70,10 +50,6 @@
     "version": "3.0.4"
   },
   {
-    "fetchInfo": {
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/is-path-inside/-/is-path-inside-3.0.3.tgz"
-    },
     "ident": "is-path-inside",
     "scope": null,
     "sourceInfo": {
@@ -3704,46 +3680,6 @@
     "version": "0.2.31"
   },
   {
-    "ident": "@fortawesome/fontawesome-common-types",
-    "scope": "fortawesome",
-    "sourceInfo": {
-      "narHash": "sha256-xGDxMJ6yr82PFGQJIMrpb9mnGbH++bEKTB7uz02zj70=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.2.0.tgz"
-    },
-    "version": "6.2.0"
-  },
-  {
-    "ident": "@fortawesome/fontawesome-free",
-    "scope": "fortawesome",
-    "sourceInfo": {
-      "narHash": "sha256-bB9tdwlHYgfk/xQOAB8XxpJdg5Oe7WS67DioevgaSnI=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-6.2.0.tgz"
-    },
-    "version": "6.2.0"
-  },
-  {
-    "ident": "@fortawesome/fontawesome-svg-core",
-    "scope": "fortawesome",
-    "sourceInfo": {
-      "narHash": "sha256-pGKBPQbJHpPHwdAPqvMDbycQocI/Dg5dTObjDbhFMj8=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.2.0.tgz"
-    },
-    "version": "6.2.0"
-  },
-  {
-    "ident": "@fortawesome/free-solid-svg-icons",
-    "scope": "fortawesome",
-    "sourceInfo": {
-      "narHash": "sha256-Dr/u7wOMDLrWOQuaHXNVm6Pno2jIdKOyG7BJo1FcaQc=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.2.0.tgz"
-    },
-    "version": "6.2.0"
-  },
-  {
     "ident": "@fortawesome/react-fontawesome",
     "scope": "fortawesome",
     "sourceInfo": {
@@ -6362,16 +6298,6 @@
       "url": "https://registry.npmjs.org/@serialport/binding-mock/-/binding-mock-10.2.2.tgz"
     },
     "version": "10.2.2"
-  },
-  {
-    "ident": "@serialport/bindings-cpp",
-    "scope": "serialport",
-    "sourceInfo": {
-      "narHash": "sha256-p71cEZtluGDRAbIzx2mDm+gYY0+QyeFWipXd/H+gBmQ=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/@serialport/bindings-cpp/-/bindings-cpp-10.7.0.tgz"
-    },
-    "version": "10.7.0"
   },
   {
     "ident": "@serialport/bindings-interface",
@@ -11014,16 +10940,6 @@
     "version": "1.0.0"
   },
   {
-    "ident": "bcrypt",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-YJQaCYMvNhr8LSfFltx/v4IzVXnKRVTJIwlw6JhlwFU=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/bcrypt/-/bcrypt-5.1.0.tgz"
-    },
-    "version": "5.1.0"
-  },
-  {
     "ident": "bcrypt-nodejs",
     "scope": null,
     "sourceInfo": {
@@ -11834,26 +11750,6 @@
     "version": "3.0.0"
   },
   {
-    "ident": "bufferutil",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-4f25m247Uhi2w7d0pVqwdKVookKYFD4abfW913H6CCQ=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/bufferutil/-/bufferutil-4.0.7.tgz"
-    },
-    "version": "4.0.7"
-  },
-  {
-    "ident": "bufferutil",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-5BVvR7Rk+cAbETgJyhhBj6FY7KVFdPiFKloR6UkKiZs=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/bufferutil/-/bufferutil-4.0.6.tgz"
-    },
-    "version": "4.0.6"
-  },
-  {
     "ident": "buildcheck",
     "scope": null,
     "sourceInfo": {
@@ -12122,26 +12018,6 @@
       "url": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001427.tgz"
     },
     "version": "1.0.30001427"
-  },
-  {
-    "ident": "canvas",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-XwBBpk8TeKHRpugEBdcE3ZHcqmShbt00o7ts06qeAlc=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/canvas/-/canvas-2.10.2.tgz"
-    },
-    "version": "2.10.2"
-  },
-  {
-    "ident": "canvas",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-rpXRc7o5/zY/W8GaCBb6apPlamGlh+WOFCp5/erOqrA=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/canvas/-/canvas-2.10.1.tgz"
-    },
-    "version": "2.10.1"
   },
   {
     "ident": "capital-case",
@@ -12532,16 +12408,6 @@
       "url": "https://registry.npmjs.org/cjs-module-lexer/-/cjs-module-lexer-1.2.2.tgz"
     },
     "version": "1.2.2"
-  },
-  {
-    "ident": "classic-level",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-1EzbTRlCmuAJGUBXMTnE6ugrMJs2KhnHCCTfuaPfCrc=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/classic-level/-/classic-level-1.2.0.tgz"
-    },
-    "version": "1.2.0"
   },
   {
     "ident": "classnames",
@@ -13564,42 +13430,12 @@
     "version": "11.0.0"
   },
   {
-    "ident": "core-js",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-Amd52T4Sf7tz+M3K4W8kmJI9uIA+ISTX3hHBXlVx/W4=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/core-js/-/core-js-3.25.5.tgz"
-    },
-    "version": "3.25.5"
-  },
-  {
-    "ident": "core-js",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-cnuKw+EJ102qfpQBH8e3HTolHfqfnl3t8UGNCEEBHTw=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/core-js/-/core-js-3.26.0.tgz"
-    },
-    "version": "3.26.0"
-  },
-  {
     "ident": "core-js-compat",
     "scope": null,
     "sourceInfo": {
       "narHash": "sha256-xxg+AmtIfqWSu77SFAQPs9u4RtgRb5INvi2YHJGjn/s=",
       "type": "tarball",
       "url": "https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.26.0.tgz"
-    },
-    "version": "3.26.0"
-  },
-  {
-    "ident": "core-js-pure",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-ys2DWysMt+CVa0cpo1vR7zaWojBGoM6z6z2QA55S+9g=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.26.0.tgz"
     },
     "version": "3.26.0"
   },
@@ -13642,16 +13478,6 @@
       "url": "https://registry.npmjs.org/cosmiconfig/-/cosmiconfig-7.0.1.tgz"
     },
     "version": "7.0.1"
-  },
-  {
-    "ident": "cpu-features",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-0uiN37ayHwj17EEUW0ZH1GCqoWre6gfPxd97BB5DuMg=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/cpu-features/-/cpu-features-0.0.4.tgz"
-    },
-    "version": "0.0.4"
   },
   {
     "ident": "crc",
@@ -14622,16 +14448,6 @@
       "url": "https://registry.npmjs.org/de-indent/-/de-indent-1.0.2.tgz"
     },
     "version": "1.0.2"
-  },
-  {
-    "ident": "deasync",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-UhMrVuY4Bp2lK4p05zg1BUJLH+ReYkJWcfXSOAM4lgE=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/deasync/-/deasync-0.1.28.tgz"
-    },
-    "version": "0.1.28"
   },
   {
     "ident": "debounce",
@@ -15644,16 +15460,6 @@
     "version": "2.0.1"
   },
   {
-    "ident": "dtrace-provider",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-mc4Ha9ozh3CyA8cGi592Io4H1XhPjy5Vl6ZbbrQ65F4=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/dtrace-provider/-/dtrace-provider-0.8.8.tgz"
-    },
-    "version": "0.8.8"
-  },
-  {
     "ident": "duplexer",
     "scope": null,
     "sourceInfo": {
@@ -16252,16 +16058,6 @@
       "url": "https://registry.npmjs.org/es-to-primitive/-/es-to-primitive-1.2.1.tgz"
     },
     "version": "1.2.1"
-  },
-  {
-    "ident": "es5-ext",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-57CGdi1n3l6pAu0EjmxfxjcJz1Brz9fOw/FcDInkl0A=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.62.tgz"
-    },
-    "version": "0.10.62"
   },
   {
     "ident": "es6-error",
@@ -18360,16 +18156,6 @@
     "version": "1.0.0"
   },
   {
-    "ident": "fsevents",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-E3+DvwgglDWVPPUVoggGWI8OFZR0YJ5zk7nYB4+UwLI=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
-    },
-    "version": "2.3.2"
-  },
-  {
     "ident": "fstream",
     "scope": null,
     "sourceInfo": {
@@ -19118,16 +18904,6 @@
       "url": "https://registry.npmjs.org/growly/-/growly-1.3.0.tgz"
     },
     "version": "1.3.0"
-  },
-  {
-    "ident": "grpc",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-r/FA3vSfGTP/cQEDC+npdxteqxO5eX6hWosJCZTY1po=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/grpc/-/grpc-1.24.11.tgz"
-    },
-    "version": "1.24.11"
   },
   {
     "ident": "grunt-contrib-clean",
@@ -19908,16 +19684,6 @@
       "url": "https://registry.npmjs.org/highlight.js/-/highlight.js-11.6.0.tgz"
     },
     "version": "11.6.0"
-  },
-  {
-    "ident": "hiredis",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-G96N8bNHIf65dAeXwmK+bLPqAbXcZt2+HdRQFT+qC24=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/hiredis/-/hiredis-0.5.0.tgz"
-    },
-    "version": "0.5.0"
   },
   {
     "ident": "history",
@@ -23410,16 +23176,6 @@
     "version": "1.0.0"
   },
   {
-    "ident": "leveldown",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-pE87xC04xB74wTW7gESGsIkno3WWME7GMc+B72G3D0E=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/leveldown/-/leveldown-6.1.1.tgz"
-    },
-    "version": "6.1.1"
-  },
-  {
     "ident": "levelup",
     "scope": null,
     "sourceInfo": {
@@ -26240,16 +25996,6 @@
     "version": "1.11.0"
   },
   {
-    "ident": "node-expat",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-jBi4a03Mn3H5VkGlryFY1erfEEfIbyKBDiG8tbt6eBQ=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/node-expat/-/node-expat-2.4.0.tgz"
-    },
-    "version": "2.4.0"
-  },
-  {
     "ident": "node-fetch",
     "scope": null,
     "sourceInfo": {
@@ -26368,16 +26114,6 @@
       "url": "https://registry.npmjs.org/node.extend/-/node.extend-2.0.2.tgz"
     },
     "version": "2.0.2"
-  },
-  {
-    "ident": "nodegit",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-SWqykUBwsyx3La63JxBjAg8TXoiG99ioqoRHBXEqZzY=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/nodegit/-/nodegit-0.27.0.tgz"
-    },
-    "version": "0.27.0"
   },
   {
     "ident": "nodemailer",
@@ -29706,16 +29442,6 @@
     "version": "1.1.0"
   },
   {
-    "ident": "protobufjs",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-mim5oZoSWbHj9517ROsxk1mN70NIZRDlce19zOphcuA=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/protobufjs/-/protobufjs-7.1.2.tgz"
-    },
-    "version": "7.1.2"
-  },
-  {
     "ident": "proxy-addr",
     "scope": null,
     "sourceInfo": {
@@ -29964,26 +29690,6 @@
       "url": "https://registry.npmjs.org/pupa/-/pupa-3.1.0.tgz"
     },
     "version": "3.1.0"
-  },
-  {
-    "ident": "puppeteer",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-LH4LvCfryeEeStSBVt4SlLhPUvSBssmCV1y9cwRGRiY=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/puppeteer/-/puppeteer-18.2.1.tgz"
-    },
-    "version": "18.2.1"
-  },
-  {
-    "ident": "puppeteer",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-t1SLw3lrm/q8KbiRzek8s6EBoIFizCJRlCKBZzsBVSw=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/puppeteer/-/puppeteer-19.2.0.tgz"
-    },
-    "version": "19.2.0"
   },
   {
     "ident": "puppeteer-core",
@@ -31150,16 +30856,6 @@
       "url": "https://registry.npmjs.org/react-virtualized/-/react-virtualized-9.22.3.tgz"
     },
     "version": "9.22.3"
-  },
-  {
-    "ident": "reactcss",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-TXHfCjOf+5sLLDepghZnDrnFmXQ/exyyCdmChtLFgoA=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/reactcss/-/reactcss-1.2.3.tgz"
-    },
-    "version": "1.2.3"
   },
   {
     "ident": "reactstrap",
@@ -32652,16 +32348,6 @@
     "version": "0.4.3"
   },
   {
-    "ident": "secp256k1",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-OkrS+brOkler5G7KnImdRIlh0K9Pq8uaMGrJIB7UNIU=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/secp256k1/-/secp256k1-4.0.3.tgz"
-    },
-    "version": "4.0.3"
-  },
-  {
     "ident": "section-matter",
     "scope": null,
     "sourceInfo": {
@@ -33040,16 +32726,6 @@
       "url": "https://registry.npmjs.org/shallowequal/-/shallowequal-1.1.0.tgz"
     },
     "version": "1.1.0"
-  },
-  {
-    "ident": "sharp",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-YscGeW23Ru+5pSC/f3N9Nslluo1OcqPYpGeztSitCKQ=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/sharp/-/sharp-0.31.1.tgz"
-    },
-    "version": "0.31.1"
   },
   {
     "ident": "shasum-object",
@@ -33842,16 +33518,6 @@
     "version": "1.1.2"
   },
   {
-    "ident": "sqlite3",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-ts9LcfmrOOnjokK7wHKZETH/LwVVmzP624WAw83lX94=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/sqlite3/-/sqlite3-5.1.2.tgz"
-    },
-    "version": "5.1.2"
-  },
-  {
     "ident": "sqlstring",
     "scope": null,
     "sourceInfo": {
@@ -33870,16 +33536,6 @@
       "url": "https://registry.npmjs.org/ssf/-/ssf-0.11.2.tgz"
     },
     "version": "0.11.2"
-  },
-  {
-    "ident": "ssh2",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-c5GYeygRGmROmxGjFYI41FNEkbxeknPWO2meiiKjxwE=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/ssh2/-/ssh2-1.11.0.tgz"
-    },
-    "version": "1.11.0"
   },
   {
     "ident": "ssri",
@@ -34570,16 +34226,6 @@
       "url": "https://registry.npmjs.org/style-to-object/-/style-to-object-0.3.0.tgz"
     },
     "version": "0.3.0"
-  },
-  {
-    "ident": "styled-components",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-C3s8lrAKCSEbOIRlM1fw970BHziXDh/6E3T/aALtagI=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/styled-components/-/styled-components-5.3.6.tgz"
-    },
-    "version": "5.3.6"
   },
   {
     "ident": "stylehacks",
@@ -36682,16 +36328,6 @@
     "version": "1.0.3"
   },
   {
-    "ident": "utf-8-validate",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-4B9hP3+N+uCgGuzJpZmmvUFSYQ8pThqVGH/TPUfuLGU=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/utf-8-validate/-/utf-8-validate-5.0.10.tgz"
-    },
-    "version": "5.0.10"
-  },
-  {
     "ident": "utf8",
     "scope": null,
     "sourceInfo": {
@@ -37412,26 +37048,6 @@
     "version": "3.2.1"
   },
   {
-    "ident": "web3",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-/D8JdCaf40vWBX8T57S2kgbIZAO4sADXC4A2pI82sMA=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/web3/-/web3-1.8.0.tgz"
-    },
-    "version": "1.8.0"
-  },
-  {
-    "ident": "web3-bzz",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-vnl1QqFcRzXJXVdWxIdJOxj7OTuwLjefP8DkgLggZVM=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/web3-bzz/-/web3-bzz-1.8.0.tgz"
-    },
-    "version": "1.8.0"
-  },
-  {
     "ident": "web3-core",
     "scope": null,
     "sourceInfo": {
@@ -37598,16 +37214,6 @@
       "narHash": "sha256-xNkDJVTSqX1BHM0cOboDU+O6Q9Iu4X2aD03j6YnZEjc=",
       "type": "tarball",
       "url": "https://registry.npmjs.org/web3-providers-ws/-/web3-providers-ws-1.8.0.tgz"
-    },
-    "version": "1.8.0"
-  },
-  {
-    "ident": "web3-shh",
-    "scope": null,
-    "sourceInfo": {
-      "narHash": "sha256-7MOmcdNfNq6ypeqkJS4Q5JxtlqXMoNm9GJ7qzsFJ1AM=",
-      "type": "tarball",
-      "url": "https://registry.npmjs.org/web3-shh/-/web3-shh-1.8.0.tgz"
     },
     "version": "1.8.0"
   },

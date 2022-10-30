@@ -176,6 +176,14 @@ del( .publishConfig )|
   del( .shasum )
 )|
 .+={
+  hasInstallScript: (
+    ( .gypfile // false ) or
+    ( ( .scripts.preinstall // null ) != null ) or
+    ( ( .scripts.install // null ) != null ) or
+    ( ( .scripts.postinstall // null ) != null )
+  )
+}|
+.+={
   ident: .name
 , key: "\(.name)/\(.version)"
 , hasBin: ( ( .bin // null ) != null )
