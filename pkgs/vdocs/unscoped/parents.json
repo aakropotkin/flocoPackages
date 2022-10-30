@@ -35,6 +35,7 @@
     "tarball": "https://registry.npmjs.org/parents/-/parents-1.0.1.tgz",
     "integrity": "sha512-mXKF3xkoUt5td2DoxpLmtOmZvko9VfFpwRwkKDHSNvgmpLAeBo18YDhcPbBzJq+QLCHMbGOfzia2cX4U+0v9Mg=="
   },
+  "hasInstallScript": false,
   "ident": "parents",
   "key": "parents/1.0.1",
   "hasBin": true,

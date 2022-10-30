@@ -29,6 +29,7 @@
     "integrity": "sha512-115fLhvZVqWwHPbClyntxEVfVDfl9DLLTuJvq3g2O/Oxi8AiNouAHvDSzHS0viUJc+V5vm3eq91Xwqn9dp4jRA==",
     "tarball": "https://registry.npmjs.org/miller-rabin/-/miller-rabin-4.0.1.tgz"
   },
+  "hasInstallScript": false,
   "ident": "miller-rabin",
   "key": "miller-rabin/4.0.1",
   "hasBin": true,

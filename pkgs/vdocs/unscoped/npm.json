@@ -346,6 +346,7 @@
     "integrity": "sha512-MWkISVv5f7iZbfNkry5/5YBqSYJEDAKSJdL+uzSQuyLg+hgLQUyZynu3SH6bOZlvR9ZvJYk2EiJO6B1r+ynwHg==",
     "tarball": "https://registry.npmjs.org/npm/-/npm-8.19.2.tgz"
   },
+  "hasInstallScript": false,
   "ident": "npm",
   "key": "npm/8.19.2",
   "hasBin": true,

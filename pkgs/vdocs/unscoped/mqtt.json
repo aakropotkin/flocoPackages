@@ -98,6 +98,7 @@
     "tarball": "https://registry.npmjs.org/mqtt/-/mqtt-4.3.7.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "mqtt",
   "key": "mqtt/4.3.7",
   "hasBin": true,

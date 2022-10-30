@@ -53,6 +53,7 @@
     "tarball": "https://registry.npmjs.org/gh-pages/-/gh-pages-4.0.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "gh-pages",
   "key": "gh-pages/4.0.0",
   "hasBin": true,

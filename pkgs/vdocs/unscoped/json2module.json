@@ -26,6 +26,7 @@
     "tarball": "https://registry.npmjs.org/json2module/-/json2module-0.0.3.tgz",
     "integrity": "sha512-qYGxqrRrt4GbB8IEOy1jJGypkNsjWoIMlZt4bAsmUScCA507Hbc2p1JOhBzqn45u3PWafUgH2OnzyNU7udO/GA=="
   },
+  "hasInstallScript": false,
   "ident": "json2module",
   "key": "json2module/0.0.3",
   "hasBin": true,

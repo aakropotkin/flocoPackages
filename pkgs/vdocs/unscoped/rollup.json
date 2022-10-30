@@ -138,6 +138,7 @@
     "tarball": "https://registry.npmjs.org/rollup/-/rollup-3.2.3.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "rollup",
   "key": "rollup/3.2.3",
   "hasBin": true,

@@ -88,6 +88,7 @@
     "tarball": "https://registry.npmjs.org/webpack-bundle-analyzer/-/webpack-bundle-analyzer-4.7.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "webpack-bundle-analyzer",
   "key": "webpack-bundle-analyzer/4.7.0",
   "hasBin": true,

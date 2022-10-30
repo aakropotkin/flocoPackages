@@ -48,6 +48,7 @@
     "tarball": "https://registry.npmjs.org/node-gyp/-/node-gyp-9.3.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "node-gyp",
   "key": "node-gyp/9.3.0",
   "hasBin": true,

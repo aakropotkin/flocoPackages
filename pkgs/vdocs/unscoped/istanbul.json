@@ -55,6 +55,7 @@
   },
   "directories": {},
   "deprecated": "This module is no longer maintained, try this instead:\n  npm i nyc\nVisit https://istanbul.js.org/integrations for other alternatives.",
+  "hasInstallScript": false,
   "ident": "istanbul",
   "key": "istanbul/0.4.5",
   "hasBin": true,

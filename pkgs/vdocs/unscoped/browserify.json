@@ -91,6 +91,7 @@
     "tarball": "https://registry.npmjs.org/browserify/-/browserify-17.0.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "browserify",
   "key": "browserify/17.0.0",
   "hasBin": true,

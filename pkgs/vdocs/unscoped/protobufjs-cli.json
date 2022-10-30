@@ -43,6 +43,7 @@
     "tarball": "https://registry.npmjs.org/protobufjs-cli/-/protobufjs-cli-1.0.2.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "protobufjs-cli",
   "key": "protobufjs-cli/1.0.2",
   "hasBin": true,

@@ -44,11 +44,12 @@
     "tarball": "https://registry.npmjs.org/mozjpeg/-/mozjpeg-8.0.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": true,
   "ident": "mozjpeg",
   "key": "mozjpeg/8.0.0",
   "hasBin": true,
   "isSimple": false,
-  "flocoPkgType": "bin",
+  "flocoPkgType": "inst+bin",
   "bname": "mozjpeg",
   "scope": null,
   "scopeDir": "",

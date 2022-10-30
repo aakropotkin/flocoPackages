@@ -34,11 +34,12 @@
     "tarball": "https://registry.npmjs.org/electron/-/electron-21.2.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": true,
   "ident": "electron",
   "key": "electron/21.2.0",
   "hasBin": true,
   "isSimple": false,
-  "flocoPkgType": "bin",
+  "flocoPkgType": "inst+bin",
   "bname": "electron",
   "scope": null,
   "scopeDir": "",

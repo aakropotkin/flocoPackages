@@ -128,6 +128,7 @@
     "tarball": "https://registry.npmjs.org/terser/-/terser-5.15.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "terser",
   "key": "terser/5.15.1",
   "hasBin": true,

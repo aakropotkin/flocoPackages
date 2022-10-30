@@ -53,6 +53,7 @@
     "tarball": "https://registry.npmjs.org/@npmcli/installed-package-contents/-/installed-package-contents-2.0.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "@npmcli/installed-package-contents",
   "key": "@npmcli/installed-package-contents/2.0.1",
   "hasBin": true,

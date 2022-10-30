@@ -61,6 +61,7 @@
     "tarball": "https://registry.npmjs.org/jest-cli/-/jest-cli-29.2.2.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "jest-cli",
   "key": "jest-cli/29.2.2",
   "hasBin": true,

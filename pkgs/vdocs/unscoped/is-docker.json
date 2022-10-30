@@ -33,6 +33,7 @@
     "tarball": "https://registry.npmjs.org/is-docker/-/is-docker-3.0.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "is-docker",
   "key": "is-docker/3.0.0",
   "hasBin": true,

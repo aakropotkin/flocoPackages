@@ -29,11 +29,11 @@
         "rime": "rime"
       },
       "locked": {
-        "lastModified": 1666994319,
-        "narHash": "sha256-JNSj0hzeiQc8INSaO22M7PosggbXl8MWXwuH8NkMI+4=",
+        "lastModified": 1667157303,
+        "narHash": "sha256-rWtIU85iAcz+13hg7l5uTkYWINDdvzGic6K+vXDFISI=",
         "owner": "aameen-tulip",
         "repo": "at-node-nix",
-        "rev": "457d71cb0801a8c6c4f28f4f47e4ceb89cf6b809",
+        "rev": "aa9b4a7a2cc827dcfa1b3129dabb0ca1986c33ad",
         "type": "github"
       },
       "original": {
@@ -44,11 +44,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1666837999,
-        "narHash": "sha256-hI7+s1UVDsJNqNn9UGV6xTBGqMC4dqOyVpeDf+su7JU=",
+        "lastModified": 1666447894,
+        "narHash": "sha256-i9WHX4w/et4qPMzEXd9POmnO0/bthjr7R4cblKNHGms=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "1c6eb4876f71e8903ae9f73e6adf45fdbebc0292",
+        "rev": "95aeaf83c247b8f5aa561684317ecd860476fcd6",
         "type": "github"
       },
       "original": {
@@ -68,11 +68,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1666916968,
-        "narHash": "sha256-OaznTjBZodxxXYA4FXdLyEzulUh6kHtoldHbwHPCNVo=",
+        "lastModified": 1667157231,
+        "narHash": "sha256-zM3ukw6EqKDqDnfp8FtqlDeTp1PhWUqdepPqGtf9owE=",
         "owner": "aakropotkin",
         "repo": "rime",
-        "rev": "b6e21a42bc2e93a91e578f403d7e1241e8ac58d7",
+        "rev": "b14375b6dfd184d75b361998881d1a9feb4adf06",
         "type": "github"
       },
       "original": {

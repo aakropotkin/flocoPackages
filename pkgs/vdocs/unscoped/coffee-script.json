@@ -45,6 +45,7 @@
     "tarball": "https://registry.npmjs.org/coffee-script/-/coffee-script-1.12.7.tgz"
   },
   "deprecated": "CoffeeScript on NPM has moved to \"coffeescript\" (no hyphen)",
+  "hasInstallScript": false,
   "ident": "coffee-script",
   "key": "coffee-script/1.12.7",
   "hasBin": true,

@@ -160,6 +160,7 @@
     "tarball": "https://registry.npmjs.org/eslint/-/eslint-8.26.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "eslint",
   "key": "eslint/8.26.0",
   "hasBin": true,

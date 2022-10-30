@@ -62,11 +62,12 @@
     "tarball": "https://registry.npmjs.org/node-sass/-/node-sass-7.0.3.tgz"
   },
   "directories": {},
+  "hasInstallScript": true,
   "ident": "node-sass",
   "key": "node-sass/7.0.3",
   "hasBin": true,
   "isSimple": false,
-  "flocoPkgType": "bin",
+  "flocoPkgType": "inst+bin",
   "bname": "node-sass",
   "scope": null,
   "scopeDir": "",

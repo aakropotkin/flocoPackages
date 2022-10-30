@@ -61,6 +61,7 @@
     "tarball": "https://registry.npmjs.org/nodemon/-/nodemon-2.0.20.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "nodemon",
   "key": "nodemon/2.0.20",
   "hasBin": true,

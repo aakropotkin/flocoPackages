@@ -80,6 +80,7 @@
     "tarball": "https://registry.npmjs.org/extract-zip/-/extract-zip-2.0.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "extract-zip",
   "key": "extract-zip/2.0.1",
   "hasBin": true,

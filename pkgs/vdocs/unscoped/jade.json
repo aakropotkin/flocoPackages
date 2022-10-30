@@ -91,6 +91,7 @@
   },
   "deprecated": "Jade has been renamed to pug, please install the latest version of pug instead of jade",
   "directories": {},
+  "hasInstallScript": false,
   "ident": "jade",
   "key": "jade/1.11.0",
   "hasBin": true,

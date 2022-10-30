@@ -106,6 +106,7 @@
     "tarball": "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-14.2.8.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "@angular/compiler-cli",
   "key": "@angular/compiler-cli/14.2.8",
   "hasBin": true,

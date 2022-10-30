@@ -55,6 +55,7 @@
   },
   "directories": {},
   "deprecated": "Please upgrade to @sentry/node. See the migration guide https://bit.ly/3ybOlo7",
+  "hasInstallScript": false,
   "ident": "raven",
   "key": "raven/2.6.4",
   "hasBin": true,

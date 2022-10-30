@@ -43,6 +43,7 @@
     "tarball": "https://registry.npmjs.org/mssql/-/mssql-9.0.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "mssql",
   "key": "mssql/9.0.1",
   "hasBin": true,

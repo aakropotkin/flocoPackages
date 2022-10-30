@@ -47,6 +47,7 @@
     "integrity": "sha512-wau+BDtQfuSBGQ9PzzFL3REvR9Sxnd4LKwtcHAiPjhugA7K/80vpHXafj+O5bAqJOuSefjOx5ZJnNSR2J1Qw6Q=="
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "babel-cli",
   "key": "babel-cli/6.26.0",
   "hasBin": true,

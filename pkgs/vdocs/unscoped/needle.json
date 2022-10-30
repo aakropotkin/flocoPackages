@@ -59,6 +59,7 @@
     "integrity": "sha512-gCE9weDhjVGCRqS8dwDR/D3GTAeyXLXuqp7I8EzH6DllZGXSUyxuqqLh+YX9rMAWaaTFyVAg6rHGL25dqvczKw==",
     "tarball": "https://registry.npmjs.org/needle/-/needle-3.1.0.tgz"
   },
+  "hasInstallScript": false,
   "ident": "needle",
   "key": "needle/3.1.0",
   "hasBin": true,

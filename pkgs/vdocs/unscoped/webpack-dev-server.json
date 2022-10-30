@@ -139,6 +139,7 @@
     "tarball": "https://registry.npmjs.org/webpack-dev-server/-/webpack-dev-server-4.11.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "webpack-dev-server",
   "key": "webpack-dev-server/4.11.1",
   "hasBin": true,

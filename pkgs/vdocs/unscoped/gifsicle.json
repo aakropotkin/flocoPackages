@@ -40,11 +40,12 @@
     "tarball": "https://registry.npmjs.org/gifsicle/-/gifsicle-7.0.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": true,
   "ident": "gifsicle",
   "key": "gifsicle/7.0.1",
   "hasBin": true,
   "isSimple": false,
-  "flocoPkgType": "bin",
+  "flocoPkgType": "inst+bin",
   "bname": "gifsicle",
   "scope": null,
   "scopeDir": "",

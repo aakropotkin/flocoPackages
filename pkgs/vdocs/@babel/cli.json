@@ -46,6 +46,7 @@
     "tarball": "https://registry.npmjs.org/@babel/cli/-/cli-7.19.3.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "@babel/cli",
   "key": "@babel/cli/7.19.3",
   "hasBin": true,

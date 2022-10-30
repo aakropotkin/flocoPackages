@@ -233,6 +233,7 @@
     "tarball": "https://registry.npmjs.org/webpack/-/webpack-5.74.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "webpack",
   "key": "webpack/5.74.0",
   "hasBin": true,

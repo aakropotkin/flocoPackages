@@ -40,6 +40,7 @@
     "integrity": "sha512-TkCET/3rr9mUuRp+CpO7qfgT++aAxfDRaalQhwPFzI9BY/2rCDn6OfpZOVggi1AXfTPpfkTrg5f5WQx5G1uLxA=="
   },
   "deprecated": "Use uuid module instead",
+  "hasInstallScript": false,
   "ident": "node-uuid",
   "key": "node-uuid/1.4.8",
   "hasBin": true,

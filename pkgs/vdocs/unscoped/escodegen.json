@@ -54,6 +54,7 @@
     "tarball": "https://registry.npmjs.org/escodegen/-/escodegen-2.0.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "escodegen",
   "key": "escodegen/2.0.0",
   "hasBin": true,

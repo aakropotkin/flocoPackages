@@ -30,6 +30,7 @@
     "tarball": "https://registry.npmjs.org/node-gyp-build/-/node-gyp-build-4.5.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "node-gyp-build",
   "key": "node-gyp-build/4.5.0",
   "hasBin": true,

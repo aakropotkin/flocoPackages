@@ -41,6 +41,7 @@
     "tarball": "https://registry.npmjs.org/dev-ip/-/dev-ip-1.0.1.tgz",
     "integrity": "sha512-LmVkry/oDShEgSZPNgqCIp2/TlqtExeGmymru3uCELnfyjY11IzpAproLYs+1X88fXO6DBoYP3ul2Xo2yz2j6A=="
   },
+  "hasInstallScript": false,
   "ident": "dev-ip",
   "key": "dev-ip/1.0.1",
   "hasBin": true,

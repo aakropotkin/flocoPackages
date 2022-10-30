@@ -1,0 +1,47 @@
+{
+  "name": "latest",
+  "description": "Determine the latest available version of a package in npm",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bahamas10/node-latest.git"
+  },
+  "bin": {
+    "latest": "./bin/latest.js"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "dependencies": {
+    "npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "gitHead": "97e6361fa610d0804b674f50e139d679457996a6",
+  "_id": "latest@0.2.0",
+  "_shasum": "ea47eb8f4b2bb0cf91716efaa896c2e16237587b",
+  "_from": ".",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/latest/-/latest-0.2.0.tgz",
+    "integrity": "sha512-nsIM/FjwLcsKZ1KDAw5CivnM26zzMs3zGBL4SdjYXHI5tMcOWjGhFDMBKIum4WNAkZmeVw7zU1jR2H2UiKoQVA=="
+  },
+  "hasInstallScript": false,
+  "ident": "latest",
+  "key": "latest/0.2.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "latest",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lgz8ajNCmK7vCtkj6bnY+COGasifNrBfYC43R5hAu54=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/latest/-/latest-0.2.0.tgz"
+  }
+}

@@ -90,6 +90,7 @@
     "tarball": "https://registry.npmjs.org/metro/-/metro-0.73.3.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "metro",
   "key": "metro/0.73.3",
   "hasBin": true,

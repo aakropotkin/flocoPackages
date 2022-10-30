@@ -51,6 +51,7 @@
   },
   "directories": {},
   "deprecated": "Please upgrade to @mapbox/node-pre-gyp: the non-scoped node-pre-gyp package is deprecated and only the @mapbox scoped package will recieve updates in the future",
+  "hasInstallScript": false,
   "ident": "node-pre-gyp",
   "key": "node-pre-gyp/0.17.0",
   "hasBin": true,

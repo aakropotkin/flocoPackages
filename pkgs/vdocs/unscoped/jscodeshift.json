@@ -63,6 +63,7 @@
     "tarball": "https://registry.npmjs.org/jscodeshift/-/jscodeshift-0.14.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "jscodeshift",
   "key": "jscodeshift/0.14.0",
   "hasBin": true,

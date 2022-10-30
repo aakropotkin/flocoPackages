@@ -90,6 +90,7 @@
     "integrity": "sha512-+dxnG2NHncSD1NrqbSM3dn/lE57O6Qf/koe9+I7c+wzkqRmEvcp0kgJdxKInzYzkICKkFMZsX3Vct3++tsF9ww==",
     "tarball": "https://registry.npmjs.org/coveralls/-/coveralls-3.1.1.tgz"
   },
+  "hasInstallScript": false,
   "ident": "coveralls",
   "key": "coveralls/3.1.1",
   "hasBin": true,

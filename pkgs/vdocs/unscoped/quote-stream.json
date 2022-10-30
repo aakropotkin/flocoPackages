@@ -52,6 +52,7 @@
     "integrity": "sha512-kKr2uQ2AokadPjvTyKJQad9xELbZwYzWlNfI3Uz2j/ib5u6H9lDP7fUUR//rMycd0gv4Z5P1qXMfXR8YpIxrjQ=="
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "quote-stream",
   "key": "quote-stream/1.0.2",
   "hasBin": true,

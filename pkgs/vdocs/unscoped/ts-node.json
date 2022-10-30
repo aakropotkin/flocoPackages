@@ -145,6 +145,7 @@
     "tarball": "https://registry.npmjs.org/ts-node/-/ts-node-10.9.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "ts-node",
   "key": "ts-node/10.9.1",
   "hasBin": true,

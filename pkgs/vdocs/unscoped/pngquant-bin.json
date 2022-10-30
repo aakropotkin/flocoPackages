@@ -40,11 +40,12 @@
     "tarball": "https://registry.npmjs.org/pngquant-bin/-/pngquant-bin-8.0.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": true,
   "ident": "pngquant-bin",
   "key": "pngquant-bin/8.0.1",
   "hasBin": true,
   "isSimple": false,
-  "flocoPkgType": "bin",
+  "flocoPkgType": "inst+bin",
   "bname": "pngquant-bin",
   "scope": null,
   "scopeDir": "",

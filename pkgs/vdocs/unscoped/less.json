@@ -112,6 +112,7 @@
     "integrity": "sha512-w16Xk/Ta9Hhyei0Gpz9m7VS8F28nieJaL/VyShID7cYvP6IL5oHeL6p4TXSDJqZE/lNv0oJ2pGVjJsRkfwm5FA==",
     "tarball": "https://registry.npmjs.org/less/-/less-4.1.3.tgz"
   },
+  "hasInstallScript": false,
   "ident": "less",
   "key": "less/4.1.3",
   "hasBin": true,

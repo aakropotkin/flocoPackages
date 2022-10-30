@@ -81,6 +81,7 @@
     "integrity": "sha512-I54/Geo2qN4K/2Ers+zNAU/A/nwPrcoTVBVeamw/sROv/kLLuMAzidLmO3f6842tKFxxQvcNhOMYoWZAhYr3vQ==",
     "tarball": "https://registry.npmjs.org/restify/-/restify-8.6.1.tgz"
   },
+  "hasInstallScript": false,
   "ident": "restify",
   "key": "restify/8.6.1",
   "hasBin": true,

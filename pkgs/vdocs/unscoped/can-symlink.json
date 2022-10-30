@@ -30,6 +30,7 @@
     "tarball": "https://registry.npmjs.org/can-symlink/-/can-symlink-1.0.0.tgz",
     "integrity": "sha512-RbsNrFyhwkx+6psk/0fK/Q9orOUr9VMxohGd8vTa4djf4TGLfblBgUfqZChrZuW0Q+mz2eBPFLusw9Jfukzmhg=="
   },
+  "hasInstallScript": false,
   "ident": "can-symlink",
   "key": "can-symlink/1.0.0",
   "hasBin": true,

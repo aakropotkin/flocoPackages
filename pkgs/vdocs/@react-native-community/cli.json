@@ -57,6 +57,7 @@
     "tarball": "https://registry.npmjs.org/@react-native-community/cli/-/cli-9.2.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "@react-native-community/cli",
   "key": "@react-native-community/cli/9.2.1",
   "hasBin": true,

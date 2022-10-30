@@ -55,6 +55,7 @@
     "integrity": "sha512-/9HIEs1ZXGhSPE8X6Ccm7Nam1z8KcoCqPdI7ecm1N33EzAetWahvQWVqLZtaZQ+IDKX4IyA2o0gBzqIMkAagHQ==",
     "tarball": "https://registry.npmjs.org/sshpk/-/sshpk-1.17.0.tgz"
   },
+  "hasInstallScript": false,
   "ident": "sshpk",
   "key": "sshpk/1.17.0",
   "hasBin": true,

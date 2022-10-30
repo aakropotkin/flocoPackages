@@ -80,6 +80,7 @@
     "tarball": "https://registry.npmjs.org/semver/-/semver-7.3.8.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "semver",
   "key": "semver/7.3.8",
   "hasBin": true,

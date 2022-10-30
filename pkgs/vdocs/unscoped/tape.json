@@ -117,6 +117,7 @@
     "integrity": "sha512-reNzS3rzsJtKk0f+zJx2XlzIsjJXlIcOIrIxk5shHAG/DzW3BKyMg8UfN79oluYlcWo4lIt56ahLqwgpRT4idg==",
     "tarball": "https://registry.npmjs.org/tape/-/tape-5.6.1.tgz"
   },
+  "hasInstallScript": false,
   "ident": "tape",
   "key": "tape/5.6.1",
   "hasBin": true,

@@ -63,6 +63,7 @@
     "integrity": "sha512-QKhz+SCEjJ6JpIK4Ve64KpSZs8ZIoIkd2qWbhfrVrwbIh60+uVV70QDh3FYcZrhwJwQ+m9UdrOMSbGe/Osxiew==",
     "tarball": "https://registry.npmjs.org/editorconfig/-/editorconfig-1.0.1.tgz"
   },
+  "hasInstallScript": false,
   "ident": "editorconfig",
   "key": "editorconfig/1.0.1",
   "hasBin": true,

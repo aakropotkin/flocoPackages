@@ -61,6 +61,7 @@
     "tarball": "https://registry.npmjs.org/shelljs/-/shelljs-0.8.5.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "shelljs",
   "key": "shelljs/0.8.5",
   "hasBin": true,

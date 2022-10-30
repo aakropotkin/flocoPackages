@@ -42,6 +42,7 @@
   },
   "directories": {},
   "deprecated": "support for ECMAScript is superseded by `uglify-js` as of v3.13.0",
+  "hasInstallScript": false,
   "ident": "uglify-es",
   "key": "uglify-es/3.3.9",
   "hasBin": true,

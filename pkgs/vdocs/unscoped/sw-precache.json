@@ -64,6 +64,7 @@
   },
   "directories": {},
   "deprecated": "Please migrate to Workbox: https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-sw",
+  "hasInstallScript": false,
   "ident": "sw-precache",
   "key": "sw-precache/5.2.1",
   "hasBin": true,

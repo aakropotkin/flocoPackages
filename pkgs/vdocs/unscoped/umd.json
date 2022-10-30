@@ -35,6 +35,7 @@
     "tarball": "https://registry.npmjs.org/umd/-/umd-3.0.3.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "umd",
   "key": "umd/3.0.3",
   "hasBin": true,

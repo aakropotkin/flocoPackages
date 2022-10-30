@@ -35,6 +35,7 @@
     "integrity": "sha512-WBx8Uy5TLtOSRtIq+M03/sKDrXCLHxwDcquSP2c43Le03/9serjQBIztjRz6FkJez9D/hleyAXTBGLwwZUw9lA==",
     "tarball": "https://registry.npmjs.org/touch/-/touch-3.1.0.tgz"
   },
+  "hasInstallScript": false,
   "ident": "touch",
   "key": "touch/3.1.0",
   "hasBin": true,

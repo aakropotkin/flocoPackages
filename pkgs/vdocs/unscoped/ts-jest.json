@@ -138,6 +138,7 @@
     "tarball": "https://registry.npmjs.org/ts-jest/-/ts-jest-29.0.3.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "ts-jest",
   "key": "ts-jest/29.0.3",
   "hasBin": true,

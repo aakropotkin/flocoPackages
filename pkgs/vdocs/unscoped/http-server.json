@@ -55,6 +55,7 @@
     "tarball": "https://registry.npmjs.org/http-server/-/http-server-14.1.1.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "http-server",
   "key": "http-server/14.1.1",
   "hasBin": true,

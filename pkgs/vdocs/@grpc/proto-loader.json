@@ -57,6 +57,7 @@
     "tarball": "https://registry.npmjs.org/@grpc/proto-loader/-/proto-loader-0.7.3.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "@grpc/proto-loader",
   "key": "@grpc/proto-loader/0.7.3",
   "hasBin": true,

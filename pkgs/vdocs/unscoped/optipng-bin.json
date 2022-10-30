@@ -40,11 +40,12 @@
     "tarball": "https://registry.npmjs.org/optipng-bin/-/optipng-bin-9.0.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": true,
   "ident": "optipng-bin",
   "key": "optipng-bin/9.0.0",
   "hasBin": true,
   "isSimple": false,
-  "flocoPkgType": "bin",
+  "flocoPkgType": "inst+bin",
   "bname": "optipng-bin",
   "scope": null,
   "scopeDir": "",

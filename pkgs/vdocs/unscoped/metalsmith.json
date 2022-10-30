@@ -66,11 +66,12 @@
     "integrity": "sha512-/jpf9JXYAvA16VlJDRlZRktcsjTgMHDwusiNLo1byU7ocUNWm2F7zQukrVtBslNNNi1gWnXbcxTINYdsi5zrAA==",
     "tarball": "https://registry.npmjs.org/metalsmith/-/metalsmith-2.5.1.tgz"
   },
+  "hasInstallScript": true,
   "ident": "metalsmith",
   "key": "metalsmith/2.5.1",
   "hasBin": true,
   "isSimple": false,
-  "flocoPkgType": "bin",
+  "flocoPkgType": "inst+bin",
   "bname": "metalsmith",
   "scope": null,
   "scopeDir": "",

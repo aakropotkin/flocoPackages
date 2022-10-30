@@ -124,6 +124,7 @@
     "tarball": "https://registry.npmjs.org/typescript/-/typescript-4.8.4.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "typescript",
   "key": "typescript/4.8.4",
   "hasBin": true,

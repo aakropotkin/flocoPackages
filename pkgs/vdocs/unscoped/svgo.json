@@ -96,6 +96,7 @@
     "tarball": "https://registry.npmjs.org/svgo/-/svgo-3.0.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "svgo",
   "key": "svgo/3.0.0",
   "hasBin": true,

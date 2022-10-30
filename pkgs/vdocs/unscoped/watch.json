@@ -36,6 +36,7 @@
     "tarball": "https://registry.npmjs.org/watch/-/watch-1.0.2.tgz",
     "integrity": "sha512-1u+Z5n9Jc1E2c7qDO8SinPoZuHj7FgbgU1olSFoyaklduDvvtX7GMMtlE6OC9FTXq4KvNAOfj6Zu4vI1e9bAKA=="
   },
+  "hasInstallScript": false,
   "ident": "watch",
   "key": "watch/1.0.2",
   "hasBin": true,

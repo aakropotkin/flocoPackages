@@ -35,6 +35,7 @@
     "tarball": "https://registry.npmjs.org/metro-symbolicate/-/metro-symbolicate-0.73.3.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "metro-symbolicate",
   "key": "metro-symbolicate/0.73.3",
   "hasBin": true,

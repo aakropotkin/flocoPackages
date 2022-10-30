@@ -54,6 +54,7 @@
     "tarball": "https://registry.npmjs.org/webpack-cli/-/webpack-cli-4.10.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "webpack-cli",
   "key": "webpack-cli/4.10.0",
   "hasBin": true,

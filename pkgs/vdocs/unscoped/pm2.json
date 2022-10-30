@@ -74,6 +74,7 @@
     "integrity": "sha512-mASxgh/MZhtVze/wijGf+tE6JKdA3lEq64FOfXVhhArkuk9Qxl4ePw9XgFJaArOXnU3bde+KbeAJHYxppVvYBQ==",
     "tarball": "https://registry.npmjs.org/pm2/-/pm2-5.2.2.tgz"
   },
+  "hasInstallScript": false,
   "ident": "pm2",
   "key": "pm2/5.2.2",
   "hasBin": true,

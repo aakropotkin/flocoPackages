@@ -124,6 +124,7 @@
     "tarball": "https://registry.npmjs.org/uuid/-/uuid-9.0.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "uuid",
   "key": "uuid/9.0.0",
   "hasBin": true,

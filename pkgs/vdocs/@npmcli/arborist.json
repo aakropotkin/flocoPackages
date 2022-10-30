@@ -108,6 +108,7 @@
     "tarball": "https://registry.npmjs.org/@npmcli/arborist/-/arborist-6.1.0.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "@npmcli/arborist",
   "key": "@npmcli/arborist/6.1.0",
   "hasBin": true,

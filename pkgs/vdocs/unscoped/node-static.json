@@ -39,6 +39,7 @@
     "integrity": "sha512-zfWC/gICcqb74D9ndyvxZWaI1jzcoHmf4UTHWQchBNuNMxdBLJMDiUgZ1tjGLEIe/BMhj2DxKD8HOuc2062pDQ==",
     "tarball": "https://registry.npmjs.org/node-static/-/node-static-0.7.11.tgz"
   },
+  "hasInstallScript": false,
   "ident": "node-static",
   "key": "node-static/0.7.11",
   "hasBin": true,

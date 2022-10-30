@@ -60,6 +60,7 @@
     "tarball": "https://registry.npmjs.org/@mapbox/node-pre-gyp/-/node-pre-gyp-1.0.10.tgz"
   },
   "directories": {},
+  "hasInstallScript": false,
   "ident": "@mapbox/node-pre-gyp",
   "key": "@mapbox/node-pre-gyp/1.0.10",
   "hasBin": true,

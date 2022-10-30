@@ -152,6 +152,7 @@
     "integrity": "sha512-p3QRDt16OrS7R/7Y29qHldua9YkiyPQLenjsqcPuE+feo3q5iO77G8QXeBxfDHhQUqH+5IGlJIZozl7hpaPUvg==",
     "tarball": "https://registry.npmjs.org/mathjs/-/mathjs-11.3.2.tgz"
   },
+  "hasInstallScript": false,
   "ident": "mathjs",
   "key": "mathjs/11.3.2",
   "hasBin": true,
