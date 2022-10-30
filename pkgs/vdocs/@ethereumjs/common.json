@@ -1,0 +1,53 @@
+{
+  "name": "@ethereumjs/common",
+  "version": "3.0.1",
+  "description": "Resources common to all Ethereum implementations",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereumjs/ethereumjs-monorepo.git"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "../../config/cli/ts-build.sh",
+    "clean": "../../config/cli/clean-package.sh",
+    "coverage": "../../config/cli/coverage.sh",
+    "docs:build": "typedoc --options typedoc.js",
+    "lint": "../../config/cli/lint.sh",
+    "lint:diff": "../../config/cli/lint-diff.sh",
+    "lint:fix": "../../config/cli/lint-fix.sh",
+    "prepublishOnly": "../../config/cli/prepublish.sh",
+    "tape": "tape -r ts-node/register",
+    "test": "npm run test:node && npm run test:browser",
+    "test:browser": "karma start karma.conf.js",
+    "test:node": "npm run tape -- ./test/*.spec.ts",
+    "tsc": "../../config/cli/ts-compile.sh"
+  },
+  "dependencies": {
+    "@ethereumjs/util": "^8.0.0",
+    "crc-32": "^1.2.0"
+  },
+  "gitHead": "ac16d71783dcc0a582245384c05433a40c3f654c",
+  "_id": "@ethereumjs/common@3.0.1",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-AHsJB7ydfb7TFCT7ORGY0tRiKkAylWZd/Qt6Lmc3Oycs66bMeE1JuYHbc0U6qsAZKZMFsUmL/UJDT/w7Z0cytw==",
+    "tarball": "https://registry.npmjs.org/@ethereumjs/common/-/common-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@ethereumjs/common",
+  "key": "@ethereumjs/common/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@ethereumjs/",
+  "scope": "ethereumjs",
+  "bname": "common",
+  "fetchInfo": {
+    "narHash": "sha256-OYVeK2mCPTfvS7EDZl93PcQW9kQwafP2sGkbDv2XTsI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/common/-/common-3.0.1.tgz"
+  }
+}

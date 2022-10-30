@@ -1,0 +1,61 @@
+{
+  "name": "@redux-saga/delay-p",
+  "version": "1.2.1",
+  "description": "Promisified setTimeout",
+  "main": "./dist/redux-saga-delay-p.cjs.js",
+  "module": "./dist/redux-saga-delay-p.esm.js",
+  "typings": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "module": "./dist/redux-saga-delay-p.esm.js",
+      "import": "./import-condition-proxy.mjs",
+      "default": "./dist/redux-saga-delay-p.cjs.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "clean": "rimraf dist",
+    "prebuild": "yarn clean",
+    "build": "rollup -c",
+    "prepare": "yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redux-saga/redux-saga.git#main"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@redux-saga/symbols": "^1.1.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-plugin-annotate-pure-calls": "^0.4.0",
+    "rimraf": "^3.0.0",
+    "rollup": "^1.23.1",
+    "rollup-plugin-babel": "5.0.0-alpha.0"
+  },
+  "gitHead": "29a1ec3b0affc0cc0881379e7d40f81a03f290a4",
+  "_id": "@redux-saga/delay-p@1.2.1",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-MdiDxZdvb1m+Y0s4/hgdcAXntpUytr9g0hpcOO1XFVyyzkrDu3SKPgBFOtHn7lhu7n24ZKIAT1qtKyQjHqRd+w==",
+    "tarball": "https://registry.npmjs.org/@redux-saga/delay-p/-/delay-p-1.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "@redux-saga/delay-p",
+  "key": "@redux-saga/delay-p/1.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@redux-saga/",
+  "scope": "redux-saga",
+  "bname": "delay-p",
+  "fetchInfo": {
+    "narHash": "sha256-fefN1Fw1AS2EVChwf3x7g6n9ViP/r0FutkOvQ9uHEs8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@redux-saga/delay-p/-/delay-p-1.2.1.tgz"
+  }
+}

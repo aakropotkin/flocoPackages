@@ -1,0 +1,57 @@
+{
+  "name": "@jimp/plugin-print",
+  "version": "0.16.2",
+  "description": "print an image.",
+  "main": "dist/index.js",
+  "module": "es/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "cross-env BABEL_ENV=test mocha --require @babel/register",
+    "test:watch": "npm run test -- --reporter min --watch",
+    "test:coverage": "nyc npm run test",
+    "build": "npm run build:node:production && npm run build:module",
+    "build:watch": "npm run build:node:debug -- -- --watch --verbose",
+    "build:debug": "npm run build:node:debug",
+    "build:module": "cross-env BABEL_ENV=module babel src -d es --source-maps --config-file ../../babel.config.js",
+    "build:node": "babel src -d dist --source-maps --config-file ../../babel.config.js",
+    "build:node:debug": "cross-env BABEL_ENV=development npm run build:node",
+    "build:node:production": "cross-env BABEL_ENV=production npm run build:node"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.7.2",
+    "@jimp/utils": "^0.16.2",
+    "load-bmfont": "^1.4.0"
+  },
+  "peerDependencies": {
+    "@jimp/custom": ">=0.3.5",
+    "@jimp/plugin-blit": ">=0.3.5"
+  },
+  "devDependencies": {
+    "@jimp/custom": "^0.16.2",
+    "@jimp/plugin-blit": "^0.16.2",
+    "@jimp/test-utils": "^0.16.2"
+  },
+  "gitHead": "e4d6af032fdabdb4b8a4368ec957dec8ea426ef4",
+  "_id": "@jimp/plugin-print@0.16.2",
+  "_nodeVersion": "10.24.1",
+  "_npmVersion": "lerna/3.16.4/node@v10.24.1+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-ifTGEeJ5UZTCiqC70HMeU3iXk/vsOmhWiwVGOXSFXhFeE8ZpDWvlmBsrMYnRrJGuaaogHOIrrQPI+kCdDBSBIQ==",
+    "tarball": "https://registry.npmjs.org/@jimp/plugin-print/-/plugin-print-0.16.2.tgz"
+  },
+  "directories": {},
+  "ident": "@jimp/plugin-print",
+  "key": "@jimp/plugin-print/0.16.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jimp/",
+  "scope": "jimp",
+  "bname": "plugin-print",
+  "fetchInfo": {
+    "narHash": "sha256-mI/wp90g75WKUn7Yl0coOIMcLHLiOoJ0WyDFi9oFjgg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jimp/plugin-print/-/plugin-print-0.16.2.tgz"
+  }
+}

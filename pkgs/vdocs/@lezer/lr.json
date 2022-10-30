@@ -1,0 +1,55 @@
+{
+  "name": "@lezer/lr",
+  "version": "1.2.3",
+  "description": "Incremental parser",
+  "main": "dist/index.cjs",
+  "type": "module",
+  "exports": {
+    "import": "./dist/index.js",
+    "require": "./dist/index.cjs"
+  },
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lezer-parser/lr.git"
+  },
+  "devDependencies": {
+    "rollup": "^2.52.2",
+    "@rollup/plugin-commonjs": "^15.1.0",
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "rollup-plugin-typescript2": "^0.30.0",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "@lezer/common": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo 'Tests are in @lezer/generator'",
+    "watch": "rollup -w -c rollup.config.js",
+    "prepare": "rollup -c rollup.config.js"
+  },
+  "gitHead": "15505a68c846f1ab58beb1aae32c7fc29396a442",
+  "_id": "@lezer/lr@1.2.3",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.10.0",
+  "dist": {
+    "integrity": "sha512-qpB7rBzH8f6Mzjv2AVZRahcm+2Cf7nbIH++uXbvVOL1yIRvVWQ3HAM/saeBLCyz/togB7LGo76qdJYL1uKQlqA==",
+    "tarball": "https://registry.npmjs.org/@lezer/lr/-/lr-1.2.3.tgz"
+  },
+  "directories": {},
+  "ident": "@lezer/lr",
+  "key": "@lezer/lr/1.2.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@lezer/",
+  "scope": "lezer",
+  "bname": "lr",
+  "fetchInfo": {
+    "narHash": "sha256-62s51y2k7IBLLXcmygqcbkP2w18vuR0+JSvQzUvy7M0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lezer/lr/-/lr-1.2.3.tgz"
+  }
+}

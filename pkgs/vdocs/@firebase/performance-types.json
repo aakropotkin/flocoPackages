@@ -1,0 +1,39 @@
+{
+  "name": "@firebase/performance-types",
+  "version": "0.1.1",
+  "description": "@firebase/performance Types",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "tsc",
+    "test:ci": "node ../../scripts/run_tests_in_ci.js"
+  },
+  "devDependencies": {
+    "typescript": "4.2.2"
+  },
+  "repository": {
+    "directory": "packages/performance-types",
+    "type": "git",
+    "url": "git+https://github.com/firebase/firebase-js-sdk.git"
+  },
+  "_id": "@firebase/performance-types@0.1.1",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "6.14.17",
+  "dist": {
+    "integrity": "sha512-wiJRLBg8EPaYSGJqx7aqkZ3L5fULfZa9zOTs4C06K020g0zzJh9kUUO/0U3wvHz7zRQjJxTO8Jw4SDjxs3EZrA==",
+    "tarball": "https://registry.npmjs.org/@firebase/performance-types/-/performance-types-0.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "@firebase/performance-types",
+  "key": "@firebase/performance-types/0.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@firebase/",
+  "scope": "firebase",
+  "bname": "performance-types",
+  "fetchInfo": {
+    "narHash": "sha256-pyWqNNpgE5EpxgF0KhVe9OICGYQ6qDrSOeQCjOPaYq4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/performance-types/-/performance-types-0.1.1.tgz"
+  }
+}

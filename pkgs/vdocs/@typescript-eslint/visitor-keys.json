@@ -1,0 +1,62 @@
+{
+  "name": "@typescript-eslint/visitor-keys",
+  "version": "5.41.0",
+  "description": "Visitor keys used to help traverse the TypeScript-ESTree AST",
+  "engines": {
+    "node": "^12.22.0 || ^14.17.0 || >=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typescript-eslint/typescript-eslint.git",
+    "directory": "packages/visitor-keys"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -b tsconfig.build.json",
+    "postbuild": "downlevel-dts dist _ts3.4/dist",
+    "clean": "tsc -b tsconfig.build.json --clean",
+    "postclean": "rimraf dist && rimraf _ts3.4 && rimraf coverage",
+    "format": "prettier --write \"./**/*.{ts,mts,cts,tsx,js,mjs,cjs,jsx,json,md,css}\" --ignore-path ../../.prettierignore",
+    "lint": "eslint . --ignore-path='../../.eslintignore'",
+    "test": "jest --coverage",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@typescript-eslint/types": "5.41.0",
+    "eslint-visitor-keys": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/eslint-visitor-keys": "*"
+  },
+  "typesVersions": {
+    "<3.8": {
+      "*": [
+        "_ts3.4/*"
+      ]
+    }
+  },
+  "gitHead": "9eea5f423fa99683af1f9a43ea15a7b3c0f78ef3",
+  "_id": "@typescript-eslint/visitor-keys@5.41.0",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "lerna/6.0.1/node@v16.17.1+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-vilqeHj267v8uzzakbm13HkPMl7cbYpKVjgFWZPIOHIJHZtinvypUhJ5xBXfWYg4eFKqztbMMpOgFpT9Gfx4fw==",
+    "tarball": "https://registry.npmjs.org/@typescript-eslint/visitor-keys/-/visitor-keys-5.41.0.tgz"
+  },
+  "directories": {},
+  "ident": "@typescript-eslint/visitor-keys",
+  "key": "@typescript-eslint/visitor-keys/5.41.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@typescript-eslint/",
+  "scope": "typescript-eslint",
+  "bname": "visitor-keys",
+  "fetchInfo": {
+    "narHash": "sha256-1AM6O/HT3zXfLpEXblU9IHD8OPBAJEpgWAAq25tv14w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/visitor-keys/-/visitor-keys-5.41.0.tgz"
+  }
+}

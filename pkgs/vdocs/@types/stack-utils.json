@@ -1,0 +1,36 @@
+{
+  "name": "@types/stack-utils",
+  "version": "2.0.1",
+  "description": "TypeScript definitions for stack-utils",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/stack-utils"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "bfc4261f4e970131a82704cd51ce862a2f5c7e33c5447030510300c6fe1ee268",
+  "typeScriptVersion": "3.6",
+  "_id": "@types/stack-utils@2.0.1",
+  "dist": {
+    "integrity": "sha512-Hl219/BT5fLAaz6NDkSuhzasy49dwQS/DSdu4MdggFB8zcXv7vflBI3xp7FEmkmdDkBUI2bPUNeMttp2knYdxw==",
+    "tarball": "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@types/stack-utils",
+  "key": "@types/stack-utils/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "stack-utils",
+  "fetchInfo": {
+    "narHash": "sha256-gr91EFOuHHQwQFZkhLUrR2nuwle/BkVYOhlHQ7z2G3w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.1.tgz"
+  }
+}

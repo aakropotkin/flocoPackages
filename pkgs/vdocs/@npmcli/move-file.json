@@ -1,0 +1,65 @@
+{
+  "name": "@npmcli/move-file",
+  "version": "3.0.0",
+  "main": "lib/index.js",
+  "description": "move a file (fork of move-file)",
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "rimraf": "^3.0.2"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/move-file.git"
+  },
+  "tap": {
+    "check-coverage": true,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "a40209e5de23279d07d210e0eb6c895f9423f057",
+  "_id": "@npmcli/move-file@3.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-mOUBUIXsqAQBfn87vGIjBAve6JmD9PkP9Vdq2SayDqQh2Ol60hnXaBSvT4V6IQiho1otw6SipnVV1fulvOiyKQ==",
+    "tarball": "https://registry.npmjs.org/@npmcli/move-file/-/move-file-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@npmcli/move-file",
+  "key": "@npmcli/move-file/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@npmcli/",
+  "scope": "npmcli",
+  "bname": "move-file",
+  "fetchInfo": {
+    "narHash": "sha256-diFFWX946FTMB/vqcqAQ8LL3BJy3MiXHzyrFuumtb+M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/move-file/-/move-file-3.0.0.tgz"
+  }
+}

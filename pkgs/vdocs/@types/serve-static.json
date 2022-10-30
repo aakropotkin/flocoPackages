@@ -1,0 +1,39 @@
+{
+  "name": "@types/serve-static",
+  "version": "1.15.0",
+  "description": "TypeScript definitions for serve-static",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/serve-static"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/mime": "*",
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "23c6a1b5183c0a097f74914c31b60d57b77620f3cbef3be91157347745af24ed",
+  "typeScriptVersion": "4.0",
+  "_id": "@types/serve-static@1.15.0",
+  "dist": {
+    "integrity": "sha512-z5xyF6uh8CbjAu9760KDKsH2FcDxZ2tFCsA4HIMWE6IkiYMXfVoa+4f9KX+FN0ZLsaMw1WNG2ETLA6N+/YA+cg==",
+    "tarball": "https://registry.npmjs.org/@types/serve-static/-/serve-static-1.15.0.tgz"
+  },
+  "directories": {},
+  "ident": "@types/serve-static",
+  "key": "@types/serve-static/1.15.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "serve-static",
+  "fetchInfo": {
+    "narHash": "sha256-ngjyLqZK+ZvRHHaUKb9KZiT+lQxF+FsNL4sDay2dzcE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/serve-static/-/serve-static-1.15.0.tgz"
+  }
+}

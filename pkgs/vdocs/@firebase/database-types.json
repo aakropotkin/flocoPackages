@@ -1,0 +1,43 @@
+{
+  "name": "@firebase/database-types",
+  "version": "0.9.17",
+  "description": "@firebase/database Types",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "tsc",
+    "test:ci": "node ../../scripts/run_tests_in_ci.js"
+  },
+  "dependencies": {
+    "@firebase/app-types": "0.8.1",
+    "@firebase/util": "1.7.3"
+  },
+  "repository": {
+    "directory": "packages/database-types",
+    "type": "git",
+    "url": "git+https://github.com/firebase/firebase-js-sdk.git"
+  },
+  "devDependencies": {
+    "typescript": "4.2.2"
+  },
+  "_id": "@firebase/database-types@0.9.17",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "6.14.17",
+  "dist": {
+    "integrity": "sha512-YQm2tCZyxNtEnlS5qo5gd2PAYgKCy69tUKwioGhApCFThW+mIgZs7IeYeJo2M51i4LCixYUl+CvnOyAnb/c3XA==",
+    "tarball": "https://registry.npmjs.org/@firebase/database-types/-/database-types-0.9.17.tgz"
+  },
+  "directories": {},
+  "ident": "@firebase/database-types",
+  "key": "@firebase/database-types/0.9.17",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@firebase/",
+  "scope": "firebase",
+  "bname": "database-types",
+  "fetchInfo": {
+    "narHash": "sha256-G+bDJKzNCoyIZmQL6McGEg3shwZfK4F0zxDEPq4sZM4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/database-types/-/database-types-0.9.17.tgz"
+  }
+}

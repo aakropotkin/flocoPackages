@@ -1,0 +1,70 @@
+{
+  "name": "@npmcli/run-script",
+  "version": "5.0.1",
+  "description": "Run a lifecycle script for a package (descendant of npm-lifecycle)",
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "eslint": "eslint",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "postlint": "template-oss-check",
+    "snap": "tap",
+    "posttest": "npm run lint",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.7.1",
+    "minipass": "^3.1.6",
+    "require-inject": "^1.4.4",
+    "tap": "^16.0.1"
+  },
+  "dependencies": {
+    "@npmcli/node-gyp": "^3.0.0",
+    "@npmcli/promise-spawn": "^5.0.0",
+    "node-gyp": "^9.0.0",
+    "read-package-json-fast": "^3.0.0",
+    "which": "^2.0.2"
+  },
+  "main": "lib/run-script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/run-script.git"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.7.1"
+  },
+  "tap": {
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "bc8b6cab53058f965b1042a9c17b602e790ef991",
+  "_id": "@npmcli/run-script@5.0.1",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "9.0.0",
+  "dist": {
+    "integrity": "sha512-co/A+5LzdHQVLukfYT71x5e8+6HtIk2W9Jk5c8mE8LaGrkHazzRuZeyUmb6Ciaak7MRXRVOSoTaZ0zYEFVA/Gw==",
+    "tarball": "https://registry.npmjs.org/@npmcli/run-script/-/run-script-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@npmcli/run-script",
+  "key": "@npmcli/run-script/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@npmcli/",
+  "scope": "npmcli",
+  "bname": "run-script",
+  "fetchInfo": {
+    "narHash": "sha256-raPhb1J839BxzxDAKEr7FGdfCmW5FRyaI8W6Hhh1j98=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/run-script/-/run-script-5.0.1.tgz"
+  }
+}

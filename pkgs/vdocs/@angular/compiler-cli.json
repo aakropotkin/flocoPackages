@@ -1,0 +1,122 @@
+{
+  "name": "@angular/compiler-cli",
+  "version": "14.2.8",
+  "description": "Angular - the compiler CLI for Node.js",
+  "typings": "index.d.ts",
+  "bin": {
+    "ngcc": "bundles/ngcc/main-ngcc.js",
+    "ngc": "bundles/src/bin/ngc.js",
+    "ng-xi18n": "bundles/src/bin/ng_xi18n.js"
+  },
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./bundles/index.js"
+    },
+    "./package.json": {
+      "default": "./package.json"
+    },
+    "./ngcc": {
+      "types": "./ngcc/index.d.ts",
+      "default": "./bundles/ngcc/index.js"
+    },
+    "./linker": {
+      "types": "./linker/index.d.ts",
+      "default": "./bundles/linker/index.js"
+    },
+    "./linker/babel": {
+      "types": "./linker/babel/index.d.ts",
+      "default": "./bundles/linker/babel/index.js"
+    },
+    "./private/bazel": {
+      "types": "./private/bazel.d.ts",
+      "default": "./bundles/private/bazel.js"
+    },
+    "./private/localize": {
+      "types": "./private/localize.d.ts",
+      "default": "./bundles/private/localize.js"
+    },
+    "./private/migrations": {
+      "types": "./private/migrations.d.ts",
+      "default": "./bundles/private/migrations.js"
+    },
+    "./private/tooling": {
+      "types": "./private/tooling.d.ts",
+      "default": "./bundles/private/tooling.js"
+    },
+    "./ngcc/src/execution/cluster/ngcc_cluster_worker": {
+      "default": "./bundles/ngcc/src/execution/cluster/ngcc_cluster_worker.js"
+    },
+    "./ngcc/src/locking/lock_file_with_child_process/ngcc_lock_unlocker": {
+      "default": "./bundles/ngcc/src/locking/lock_file_with_child_process/ngcc_lock_unlocker.js"
+    }
+  },
+  "dependencies": {
+    "@babel/core": "^7.17.2",
+    "reflect-metadata": "^0.1.2",
+    "chokidar": "^3.0.0",
+    "convert-source-map": "^1.5.1",
+    "dependency-graph": "^0.11.0",
+    "magic-string": "^0.26.0",
+    "semver": "^7.0.0",
+    "sourcemap-codec": "^1.4.8",
+    "tslib": "^2.3.0",
+    "yargs": "^17.2.1"
+  },
+  "peerDependencies": {
+    "@angular/compiler": "14.2.8",
+    "typescript": ">=4.6.2 <4.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git",
+    "directory": "packages/compiler-cli"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "^14.15.0 || >=16.10.0"
+  },
+  "ng-update": {
+    "packageGroup": [
+      "@angular/core",
+      "@angular/bazel",
+      "@angular/common",
+      "@angular/compiler",
+      "@angular/compiler-cli",
+      "@angular/animations",
+      "@angular/elements",
+      "@angular/platform-browser",
+      "@angular/platform-browser-dynamic",
+      "@angular/forms",
+      "@angular/platform-server",
+      "@angular/upgrade",
+      "@angular/router",
+      "@angular/language-service",
+      "@angular/localize",
+      "@angular/service-worker"
+    ]
+  },
+  "gitHead": "3309d3797eed5275938f4f91fcdbf76cb2dfee4b",
+  "_id": "@angular/compiler-cli@14.2.8",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-QTftNrAyXOWzKFGY6/i9jh0LB2cOxmykepG4c53wH9LblGvWFztlVOhcoU8tpQSSH8t3EYvGs2r8oUuxcYm5Cw==",
+    "tarball": "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-14.2.8.tgz"
+  },
+  "directories": {},
+  "ident": "@angular/compiler-cli",
+  "key": "@angular/compiler-cli/14.2.8",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "scopeDir": "@angular/",
+  "scope": "angular",
+  "bname": "compiler-cli",
+  "fetchInfo": {
+    "narHash": "sha256-YM6Vy0Kp94Ty+JY53DCFVNs+St1q4vW2e9HDrLqHOWw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-14.2.8.tgz"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {},
+  "description": "Logger utility functions for ethers.",
+  "ethereum": "donations.ethers.eth",
+  "gitHead": "ec1b9583039a14a0e0fa15d0a2a6082a2f41cf5b",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "module": "./lib.esm/index.js",
+  "name": "@ethersproject/logger",
+  "repository": {
+    "directory": "packages/logger",
+    "type": "git",
+    "url": "git://github.com/ethers-io/ethers.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "sideEffects": false,
+  "tarballHash": "0x0e4fe629df0eded870b7750df05006454d92ebaa1c57279e846f5c41c131b816",
+  "types": "./lib/index.d.ts",
+  "version": "5.7.0",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "ethers-dist@0.0.1",
+  "_id": "@ethersproject/logger@5.7.0",
+  "dist": {
+    "integrity": "sha512-0odtFdXu/XHtjQXJYA3u9G0G8btm0ND5Cu8M7i5vhEcE8/HmF4Lbdqanwyv4uQTr2tx6b7fQRmgLrsnpQlmnig==",
+    "tarball": "https://registry.npmjs.org/@ethersproject/logger/-/logger-5.7.0.tgz"
+  },
+  "directories": {},
+  "ident": "@ethersproject/logger",
+  "key": "@ethersproject/logger/5.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@ethersproject/",
+  "scope": "ethersproject",
+  "bname": "logger",
+  "fetchInfo": {
+    "narHash": "sha256-LfbcjMjFOpQo8xlmD9b6dMONo+I9ntWajSCRxLIUne4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/logger/-/logger-5.7.0.tgz"
+  }
+}

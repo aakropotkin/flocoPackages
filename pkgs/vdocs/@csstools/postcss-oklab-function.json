@@ -1,0 +1,72 @@
+{
+  "name": "@csstools/postcss-oklab-function",
+  "description": "Use oklab() and oklch() color functions in CSS",
+  "version": "1.1.1",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "@csstools/postcss-progressive-custom-properties": "^1.1.0",
+    "postcss-value-parser": "^4.2.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-oklab-function"
+  },
+  "csstools": {
+    "exportName": "postcssOKLabFunction",
+    "humanReadableName": "PostCSS OKLab Function"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "6e778349db96620429a4f0182c70a6df330362d6",
+  "_id": "@csstools/postcss-oklab-function@1.1.1",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-nJpJgsdA3dA9y5pgyb/UfEzE7W5Ka7u0CX0/HIMVBNWzWemdcTH3XwANECU6anWv/ao4vVNLTMxhiPNZsTK6iA==",
+    "tarball": "https://registry.npmjs.org/@csstools/postcss-oklab-function/-/postcss-oklab-function-1.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "@csstools/postcss-oklab-function",
+  "key": "@csstools/postcss-oklab-function/1.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@csstools/",
+  "scope": "csstools",
+  "bname": "postcss-oklab-function",
+  "fetchInfo": {
+    "narHash": "sha256-ieoY1BzKk0JzzzSgXSin9RTJhBRa0GPinrU/9IlQMk0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-oklab-function/-/postcss-oklab-function-1.1.1.tgz"
+  }
+}

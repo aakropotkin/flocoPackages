@@ -1,0 +1,52 @@
+{
+  "name": "@svgr/babel-plugin-remove-jsx-empty-expression",
+  "description": "Remove JSX empty expression",
+  "version": "6.5.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregberge/svgr.git#main"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "scripts": {
+    "reset": "rm -rf dist",
+    "build": "rollup -c ../../build/rollup.config.js",
+    "prepublishOnly": "npm run reset && npm run build"
+  },
+  "gitHead": "b385279d27e51d34e4684dda326aa4216a485572",
+  "_id": "@svgr/babel-plugin-remove-jsx-empty-expression@6.5.0",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/5.1.4/node@v16.17.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-NFdxMq3xA42Kb1UbzCVxplUc0iqSyM9X8kopImvFnB+uSDdzIHOdbs1op8ofAvVRtbg4oZiyRl3fTYeKcOe9Iw==",
+    "tarball": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-empty-expression/-/babel-plugin-remove-jsx-empty-expression-6.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "@svgr/babel-plugin-remove-jsx-empty-expression",
+  "key": "@svgr/babel-plugin-remove-jsx-empty-expression/6.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@svgr/",
+  "scope": "svgr",
+  "bname": "babel-plugin-remove-jsx-empty-expression",
+  "fetchInfo": {
+    "narHash": "sha256-vfhg8+FsjoTW1l6IwPOPWPIHOfvaBJQJBuN71324ggk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-empty-expression/-/babel-plugin-remove-jsx-empty-expression-6.5.0.tgz"
+  }
+}

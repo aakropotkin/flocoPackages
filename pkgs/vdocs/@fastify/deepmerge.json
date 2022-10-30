@@ -1,0 +1,46 @@
+{
+  "name": "@fastify/deepmerge",
+  "version": "1.1.0",
+  "description": "Merges the enumerable properties of two or more objects deeply.",
+  "main": "index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "test": "npm run test:unit && npm run test:typescript",
+    "test:unit": "tap -J test/*.test.js test/**/*.test.js",
+    "test:typescript": "tsd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastify/deepmerge.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.0.0",
+    "tap": "^16.3.0",
+    "tsd": "^0.22.0"
+  },
+  "gitHead": "2066da1c3b076235a313f2b6c7b30348371d6441",
+  "_id": "@fastify/deepmerge@1.1.0",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-E8Hfdvs1bG6u0N4vN5Nty6JONUfTdOciyD5rn8KnEsLKIenvOVcr210BQR9t34PRkNyjqnMLGk3e0BsaxRdL+g==",
+    "tarball": "https://registry.npmjs.org/@fastify/deepmerge/-/deepmerge-1.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "@fastify/deepmerge",
+  "key": "@fastify/deepmerge/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@fastify/",
+  "scope": "fastify",
+  "bname": "deepmerge",
+  "fetchInfo": {
+    "narHash": "sha256-YCiqQv4eIYQ4PdyhiyxEx1ybiiRbZwTXYZvVKSs6Jo0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@fastify/deepmerge/-/deepmerge-1.1.0.tgz"
+  }
+}

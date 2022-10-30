@@ -1,0 +1,38 @@
+{
+  "name": "@octokit/openapi-types",
+  "description": "Generated TypeScript definitions based on GitHub's OpenAPI spec for api.github.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octokit/openapi-types.ts.git",
+    "directory": "packages/openapi-types"
+  },
+  "version": "14.0.0",
+  "main": "",
+  "types": "types.d.ts",
+  "license": "MIT",
+  "octokit": {
+    "openapi-version": "8.0.0"
+  },
+  "gitHead": "29539cfd68ea8505a61da4ac842f26fd6816b2a1",
+  "_id": "@octokit/openapi-types@14.0.0",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-HNWisMYlR8VCnNurDU6os2ikx0s0VyEjDYHNS/h4cgb8DeOxQ0n72HyinUtdDVxJhFy3FWLGl0DJhfEWk3P5Iw==",
+    "tarball": "https://registry.npmjs.org/@octokit/openapi-types/-/openapi-types-14.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@octokit/openapi-types",
+  "key": "@octokit/openapi-types/14.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@octokit/",
+  "scope": "octokit",
+  "bname": "openapi-types",
+  "fetchInfo": {
+    "narHash": "sha256-V6V68lGTnwT5dpTHboaPjbMsgKVLT1VPqhotWN72eoU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/openapi-types/-/openapi-types-14.0.0.tgz"
+  }
+}

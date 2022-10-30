@@ -1,0 +1,54 @@
+{
+  "name": "@pnpm/npm-conf",
+  "version": "2.0.2",
+  "description": "Get the npm config",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnpm/npm-conf.git"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "@pnpm/network.ca-file": "^1.0.1",
+    "config-chain": "^1.1.11"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "babel-generator": "^6.24.1",
+    "babel-traverse": "^6.24.1",
+    "babylon": "^6.17.1",
+    "eslint-import-resolver-node": "^0.3.2",
+    "jest": "^25.1.0",
+    "npm": "^5.0.4",
+    "typescript": "^3.9.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "_id": "@pnpm/npm-conf@2.0.2",
+  "_integrity": "sha512-vp0T6HQcklEpSILEutr8o4Gxf3lIPJtxbDT1kGNyYo0ZVL1UGgazeaGr9rc4ut8veI7tiVCBr7cJbDgym/q3Kg==",
+  "_resolved": "/tmp/e5c963414335a94feb7446390698afca/pnpm-npm-conf-2.0.2.tgz",
+  "_from": "file:pnpm-npm-conf-2.0.2.tgz",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-vp0T6HQcklEpSILEutr8o4Gxf3lIPJtxbDT1kGNyYo0ZVL1UGgazeaGr9rc4ut8veI7tiVCBr7cJbDgym/q3Kg==",
+    "tarball": "https://registry.npmjs.org/@pnpm/npm-conf/-/npm-conf-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "@pnpm/npm-conf",
+  "key": "@pnpm/npm-conf/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@pnpm/",
+  "scope": "pnpm",
+  "bname": "npm-conf",
+  "fetchInfo": {
+    "narHash": "sha256-8vLHa8V0AdsStxw5T+n7fIVeppOP3ErrTShR9Ua5W7c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@pnpm/npm-conf/-/npm-conf-2.0.2.tgz"
+  }
+}

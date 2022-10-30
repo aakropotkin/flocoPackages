@@ -1,0 +1,49 @@
+{
+  "name": "@emotion/weak-memoize",
+  "version": "0.3.0",
+  "description": "A memoization function that uses a WeakMap",
+  "main": "dist/emotion-weak-memoize.cjs.js",
+  "module": "dist/emotion-weak-memoize.esm.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emotion-js/emotion.git#main"
+  },
+  "scripts": {
+    "test:typescript": "dtslint types"
+  },
+  "devDependencies": {
+    "@definitelytyped/dtslint": "0.0.112",
+    "typescript": "^4.5.5"
+  },
+  "exports": {
+    ".": {
+      "module": "./dist/emotion-weak-memoize.esm.js",
+      "default": "./dist/emotion-weak-memoize.cjs.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "gitHead": "a5f43a1ba3dae5141b9c356b8b7e13f7023895b3",
+  "_id": "@emotion/weak-memoize@0.3.0",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-AHPmaAx+RYfZz0eYu6Gviiagpmiyw98ySSlQvCUhVGDRtDFe4DBS0x1bSjdF3gqUDYOczB+yYvBTtEylYSdRhg==",
+    "tarball": "https://registry.npmjs.org/@emotion/weak-memoize/-/weak-memoize-0.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "@emotion/weak-memoize",
+  "key": "@emotion/weak-memoize/0.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@emotion/",
+  "scope": "emotion",
+  "bname": "weak-memoize",
+  "fetchInfo": {
+    "narHash": "sha256-2uaFJ+1gcnyaN1jAC+mQo7KpF9DMNDyopQAbdu5XWjE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@emotion/weak-memoize/-/weak-memoize-0.3.0.tgz"
+  }
+}

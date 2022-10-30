@@ -1,0 +1,86 @@
+{
+  "name": "slug",
+  "description": "slugifies even utf-8 chars!",
+  "version": "8.2.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Trott/slug.git"
+  },
+  "main": "slug.js",
+  "bin": {
+    "slug": "cli.js"
+  },
+  "scripts": {
+    "test": "standard && mocha test/*.mjs && nyc --reporter none mocha test/**/*.js && karma start --single-run --browsers ChromeHeadless,FirefoxHeadless .karma.config.js && nyc report --reporter=text --reporter=html && nyc check-coverage --lines 100 --branches 100 --statements 100 --functions 100",
+    "benchmark": "node benchmark/benchmark.js"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "chai": "^4.2.0",
+    "karma": "^6.3.19",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-coverage": "^2.1.1",
+    "karma-firefox-launcher": "^2.0.0",
+    "karma-jasmine": "^5.0.0",
+    "karma-mocha": "^2.0.1",
+    "mocha": "^10.0.0",
+    "nyc": "^15.0.1",
+    "semantic-release": "^19.0.1",
+    "standard": "^17.0.0"
+  },
+  "license": "MIT",
+  "release": {
+    "branches": [
+      "main",
+      {
+        "name": "beta",
+        "prerelease": true
+      }
+    ],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/changelog",
+        {
+          "changelogFile": "CHANGELOG.md"
+        }
+      ],
+      "@semantic-release/npm",
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "CHANGELOG.md",
+            "package.json"
+          ],
+          "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+        }
+      ]
+    ]
+  },
+  "gitHead": "e66d207f3da1bf45e4eac6f494ba0e2e080b8f3f",
+  "_id": "slug@8.2.2",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.18.0",
+  "dist": {
+    "integrity": "sha512-5ByW6qXqPeG0Tmlkh24JhdXhvQsbaJSjVr3GgGxUV0BSskZKKBZZfFWxezap8+fh1vxBN9GVbqI1V6nqAFxlBg==",
+    "tarball": "https://registry.npmjs.org/slug/-/slug-8.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "slug",
+  "key": "slug/8.2.2",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "slug",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-jmzCJ+F/ElqpE7UmMCeQc7vBeljgmYs0RFTlTgG4/cc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/slug/-/slug-8.2.2.tgz"
+  }
+}

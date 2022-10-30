@@ -1,0 +1,76 @@
+{
+  "name": "@csstools/postcss-text-decoration-shorthand",
+  "description": "Use text-decoration in it's shorthand form in CSS",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "postcss-value-parser": "^4.2.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs && node ../../.github/bin/generate-docs/readme.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-text-decoration-shorthand"
+  },
+  "csstools": {
+    "cssdbId": "text-decoration-shorthand",
+    "exportName": "postcssTextDecorationShorthand",
+    "humanReadableName": "PostCSS Text Decoration Shorthand",
+    "specUrl": "https://drafts.csswg.org/css-text-decor-4/#text-decoration-property"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "4acfc53935caa7ac5192745495d54d749034c8f1",
+  "_id": "@csstools/postcss-text-decoration-shorthand@1.0.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-c1XwKJ2eMIWrzQenN0XbcfzckOLLJiczqy+YvfGmzoVXd7pT9FfObiSEfzs84bpE/VqfpEuAZ9tCRbZkZxxbdw==",
+    "tarball": "https://registry.npmjs.org/@csstools/postcss-text-decoration-shorthand/-/postcss-text-decoration-shorthand-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@csstools/postcss-text-decoration-shorthand",
+  "key": "@csstools/postcss-text-decoration-shorthand/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@csstools/",
+  "scope": "csstools",
+  "bname": "postcss-text-decoration-shorthand",
+  "fetchInfo": {
+    "narHash": "sha256-5lPxQVlOJMCjrvset0/HB7cFdggK11/DpGslpbKGAuA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-text-decoration-shorthand/-/postcss-text-decoration-shorthand-1.0.0.tgz"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "@graphql-tools/merge",
+  "version": "8.3.7",
+  "description": "A set of utils for faster development of GraphQL tools",
+  "sideEffects": false,
+  "peerDependencies": {
+    "graphql": "^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0"
+  },
+  "dependencies": {
+    "@graphql-tools/utils": "8.13.0",
+    "tslib": "^2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardatan/graphql-tools.git",
+    "directory": "packages/merge"
+  },
+  "license": "MIT",
+  "main": "cjs/index.js",
+  "module": "esm/index.js",
+  "typings": "typings/index.d.ts",
+  "typescript": {
+    "definition": "typings/index.d.ts"
+  },
+  "type": "module",
+  "exports": {
+    ".": {
+      "require": {
+        "types": "./typings/index.d.cts",
+        "default": "./cjs/index.js"
+      },
+      "import": {
+        "types": "./typings/index.d.ts",
+        "default": "./esm/index.js"
+      },
+      "default": {
+        "types": "./typings/index.d.ts",
+        "default": "./esm/index.js"
+      }
+    },
+    "./*": {
+      "require": {
+        "types": "./typings/*.d.cts",
+        "default": "./cjs/*.js"
+      },
+      "import": {
+        "types": "./typings/*.d.ts",
+        "default": "./esm/*.js"
+      },
+      "default": {
+        "types": "./typings/*.d.ts",
+        "default": "./esm/*.js"
+      }
+    },
+    "./package.json": "./package.json"
+  },
+  "gitHead": "5ff829f8616d6ca4b6c6a1c855174ea563ca1529",
+  "_id": "@graphql-tools/merge@8.3.7",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-su9cUb0gtbvKTmD3LJ3EoUkdqmJ3KBk1efJGvUoN8tFzVVBdxgfOVxwLGI2GgIHcKRVvfhumkjHsa2aneHSY+Q==",
+    "tarball": "https://registry.npmjs.org/@graphql-tools/merge/-/merge-8.3.7.tgz"
+  },
+  "directories": {},
+  "ident": "@graphql-tools/merge",
+  "key": "@graphql-tools/merge/8.3.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@graphql-tools/",
+  "scope": "graphql-tools",
+  "bname": "merge",
+  "fetchInfo": {
+    "narHash": "sha256-dGDXOKoe0KJgnMBNKoHnc9uW1Nf/7OWEGev5F4bAAmg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@graphql-tools/merge/-/merge-8.3.7.tgz"
+  }
+}

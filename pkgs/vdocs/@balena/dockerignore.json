@@ -1,0 +1,50 @@
+{
+  "name": "@balena/dockerignore",
+  "version": "1.0.2",
+  "description": "dockerignore is a file filter library compatible with Docker and the node-ignore API",
+  "main": "./ignore.js",
+  "scripts": {
+    "prepublishOnly": "npm run build",
+    "build": "babel -o ignore.js index.js",
+    "test": "npm run build && nyc ava ./test/ignore.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/balena-io-modules/dockerignore.git"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "async-sema": "^3.1.0",
+    "ava": "^0.25.0",
+    "@babel/cli": "^7.8.4",
+    "@babel/preset-env": "^7.9.6",
+    "chai": "^4.2.0",
+    "cuid": "^2.1.8",
+    "mkdirp": "^1.0.4",
+    "nyc": "^15.0.1",
+    "rimraf": "^3.0.2",
+    "tmp": "^0.2.1"
+  },
+  "gitHead": "41f80f9469b37f1886e49ea65676ca6077a3f407",
+  "_id": "@balena/dockerignore@1.0.2",
+  "_nodeVersion": "10.20.1",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-wMue2Sy4GAVTk6Ic4tJVcnfdau+gx2EnG7S+uAEe+TWJFqE4YoWN4/H8MSLj4eYJKxGg26lZwboEniNiNwZQ6Q==",
+    "tarball": "https://registry.npmjs.org/@balena/dockerignore/-/dockerignore-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "@balena/dockerignore",
+  "key": "@balena/dockerignore/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@balena/",
+  "scope": "balena",
+  "bname": "dockerignore",
+  "fetchInfo": {
+    "narHash": "sha256-Q4MUNzWdqTTMyENKoCMmDbR4hszIwIuy6Q5wHrknj7I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@balena/dockerignore/-/dockerignore-1.0.2.tgz"
+  }
+}

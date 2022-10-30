@@ -1,0 +1,82 @@
+{
+  "name": "@opencensus/core",
+  "version": "0.1.0",
+  "description": "OpenCensus is a toolkit for collecting application performance and behavior data.",
+  "main": "build/src/index.js",
+  "types": "build/src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/census-instrumentation/opencensus-node.git"
+  },
+  "scripts": {
+    "test": "nyc ts-mocha -p ./tsconfig.json test/**/*.ts",
+    "codecov": "nyc report --reporter=json && codecov -f coverage/*.json",
+    "clean": "rimraf build/*",
+    "check": "gts check",
+    "compile": "tsc -p .",
+    "compile:release": "tsc -p tsconfig-release.json",
+    "fix": "gts fix",
+    "prepare": "npm run compile:release",
+    "posttest": "npm run check"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=8"
+  },
+  "nyc": {
+    "extension": [
+      ".ts",
+      ".tsx"
+    ],
+    "exclude": [
+      "**/*.d.ts",
+      "build/**/**/*.js"
+    ],
+    "all": true
+  },
+  "devDependencies": {
+    "@types/continuation-local-storage": "3.2.1",
+    "@types/mocha": "8.2.3",
+    "@types/node": "10.17.60",
+    "@types/once": "1.4.0",
+    "@types/semver": "7.3.7",
+    "@types/shimmer": "1.0.2",
+    "@types/uuid": "7.0.5",
+    "codecov": "3.8.3",
+    "gts": "1.1.2",
+    "intercept-stdout": "0.1.2",
+    "mocha": "7.2.0",
+    "nyc": "15.1.0",
+    "ts-mocha": "8.0.0",
+    "ts-node": "8.10.2",
+    "typescript": "3.9.10"
+  },
+  "dependencies": {
+    "continuation-local-storage": "^3.2.1",
+    "log-driver": "^1.2.7",
+    "semver": "^7.0.0",
+    "shimmer": "^1.2.0",
+    "uuid": "^8.0.0"
+  },
+  "_id": "@opencensus/core@0.1.0",
+  "_nodeVersion": "12.21.0",
+  "_npmVersion": "7.5.2",
+  "dist": {
+    "integrity": "sha512-Bdbi5vi44a1fwyHNyKh6bwzuFZJeZJPhzdwogk/Kw5juoEeRGPworK1sgtB3loeR8cqLyi5us0mz9h0xqINiSQ==",
+    "tarball": "https://registry.npmjs.org/@opencensus/core/-/core-0.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "@opencensus/core",
+  "key": "@opencensus/core/0.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@opencensus/",
+  "scope": "opencensus",
+  "bname": "core",
+  "fetchInfo": {
+    "narHash": "sha256-AC1HVPHumSQ06UUco9wJ650MMgA46YZ3UNB5uBW9kDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opencensus/core/-/core-0.1.0.tgz"
+  }
+}

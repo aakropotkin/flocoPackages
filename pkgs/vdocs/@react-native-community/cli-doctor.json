@@ -1,0 +1,60 @@
+{
+  "name": "@react-native-community/cli-doctor",
+  "version": "9.2.1",
+  "license": "MIT",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "dependencies": {
+    "@react-native-community/cli-config": "^9.2.1",
+    "@react-native-community/cli-platform-ios": "^9.2.1",
+    "@react-native-community/cli-tools": "^9.2.1",
+    "chalk": "^4.1.2",
+    "command-exists": "^1.2.8",
+    "envinfo": "^7.7.2",
+    "execa": "^1.0.0",
+    "hermes-profile-transformer": "^0.0.6",
+    "ip": "^1.1.5",
+    "node-stream-zip": "^1.9.1",
+    "ora": "^5.4.1",
+    "prompts": "^2.4.0",
+    "semver": "^6.3.0",
+    "strip-ansi": "^5.2.0",
+    "sudo-prompt": "^9.0.0",
+    "wcwidth": "^1.0.1"
+  },
+  "devDependencies": {
+    "@react-native-community/cli-types": "^9.1.0",
+    "@types/command-exists": "^1.2.0",
+    "@types/ip": "^1.1.0",
+    "@types/prompts": "^2.0.9",
+    "@types/semver": "^6.0.2",
+    "@types/wcwidth": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-community/cli.git",
+    "directory": "packages/cli-doctor"
+  },
+  "gitHead": "0e63e750a235062cd9bc43ed6a4a2beb8f14385a",
+  "_id": "@react-native-community/cli-doctor@9.2.1",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "lerna/4.0.0/node@v16.14.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-RpUax0pkKumXJ5hcRG0Qd+oYWsA2RFeMWKY+Npg8q05Cwd1rqDQfWGprkHC576vz26+FPuvwEagoAf6fR2bvJA==",
+    "tarball": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "@react-native-community/cli-doctor",
+  "key": "@react-native-community/cli-doctor/9.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@react-native-community/",
+  "scope": "react-native-community",
+  "bname": "cli-doctor",
+  "fetchInfo": {
+    "narHash": "sha256-Lpd9RIOu/EUDIwsYcHSUP4JtnWgNK64gccwPTaViDhg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.2.1.tgz"
+  }
+}

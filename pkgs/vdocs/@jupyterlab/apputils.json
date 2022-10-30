@@ -1,0 +1,91 @@
+{
+  "name": "@jupyterlab/apputils",
+  "version": "3.5.0",
+  "description": "JupyterLab - Application Utilities",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupyterlab/jupyterlab.git"
+  },
+  "license": "BSD-3-Clause",
+  "sideEffects": [
+    "style/*.css",
+    "style/index.js"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "style": "style/index.css",
+  "directories": {
+    "lib": "lib/"
+  },
+  "scripts": {
+    "build": "tsc -b",
+    "build:test": "tsc --build tsconfig.test.json",
+    "clean": "rimraf lib && rimraf tsconfig.tsbuildinfo",
+    "docs": "typedoc src",
+    "test": "jest",
+    "test:cov": "jest --collect-coverage",
+    "test:debug": "node --inspect-brk node_modules/.bin/jest --runInBand",
+    "test:debug:watch": "node --inspect-brk node_modules/.bin/jest --runInBand --watch",
+    "watch": "tsc -b --watch"
+  },
+  "dependencies": {
+    "@jupyterlab/coreutils": "^5.5.0",
+    "@jupyterlab/observables": "^4.5.0",
+    "@jupyterlab/services": "^6.5.0",
+    "@jupyterlab/settingregistry": "^3.5.0",
+    "@jupyterlab/statedb": "^3.5.0",
+    "@jupyterlab/translation": "^3.5.0",
+    "@jupyterlab/ui-components": "^3.5.0",
+    "@lumino/algorithm": "^1.9.0",
+    "@lumino/commands": "^1.19.0",
+    "@lumino/coreutils": "^1.11.0",
+    "@lumino/disposable": "^1.10.0",
+    "@lumino/domutils": "^1.8.0",
+    "@lumino/messaging": "^1.10.0",
+    "@lumino/polling": "^1.9.0",
+    "@lumino/properties": "^1.8.0",
+    "@lumino/signaling": "^1.10.0",
+    "@lumino/virtualdom": "^1.14.0",
+    "@lumino/widgets": "^1.33.0",
+    "@types/react": "^17.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sanitize-html": "~2.5.3",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "@jupyterlab/testutils": "^3.5.0",
+    "@types/jest": "^26.0.10",
+    "@types/react-dom": "^17.0.0",
+    "@types/sanitize-html": "^2.3.1",
+    "jest": "^26.4.2",
+    "rimraf": "~3.0.0",
+    "ts-jest": "^26.3.0",
+    "typedoc": "~0.21.2",
+    "typescript": "~4.1.3"
+  },
+  "styleModule": "style/index.js",
+  "_id": "@jupyterlab/apputils@3.5.0",
+  "_integrity": "sha512-brL1CR0F2ocxt+YSWQGRh9OoJWxlqQb5BxQNJy+qJceCpwkMyZmZyf2gxHc9bu67HkL96Sa46wGIn6WKobARrA==",
+  "_resolved": "/home/runner/work/jupyter_releaser/jupyter_releaser/.jupyter_releaser_checkout/dist/jupyterlab-apputils-3.5.0.tgz",
+  "_from": "file:jupyterlab-apputils-3.5.0.tgz",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-brL1CR0F2ocxt+YSWQGRh9OoJWxlqQb5BxQNJy+qJceCpwkMyZmZyf2gxHc9bu67HkL96Sa46wGIn6WKobARrA==",
+    "tarball": "https://registry.npmjs.org/@jupyterlab/apputils/-/apputils-3.5.0.tgz"
+  },
+  "ident": "@jupyterlab/apputils",
+  "key": "@jupyterlab/apputils/3.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jupyterlab/",
+  "scope": "jupyterlab",
+  "bname": "apputils",
+  "fetchInfo": {
+    "narHash": "sha256-NPznqOpfNn63Avek6QRF1a9GzmI0n7JouL3ttMYNkdA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jupyterlab/apputils/-/apputils-3.5.0.tgz"
+  }
+}

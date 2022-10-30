@@ -1,0 +1,34 @@
+{
+  "name": "@types/parse-json",
+  "version": "4.0.0",
+  "description": "TypeScript definitions for parse-json",
+  "license": "MIT",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "68b3120a3ffa0ae0c978a90b74a1e50adc0340a9d11f17cc1efb7bf2186e7751",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/parse-json@4.0.0",
+  "dist": {
+    "integrity": "sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==",
+    "tarball": "https://registry.npmjs.org/@types/parse-json/-/parse-json-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@types/parse-json",
+  "key": "@types/parse-json/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "parse-json",
+  "fetchInfo": {
+    "narHash": "sha256-xZ8I656yZfg8U8CJFzcyJ1vRoa3zUsB/xti1O/x8fPU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/parse-json/-/parse-json-4.0.0.tgz"
+  }
+}

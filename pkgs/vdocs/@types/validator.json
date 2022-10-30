@@ -1,0 +1,36 @@
+{
+  "name": "@types/validator",
+  "version": "13.7.9",
+  "description": "TypeScript definitions for validator.js",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/validator"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "46d6bf51fa8b4d6fff133d5a1dad7b78bdac47a1e119fcc8d43bccc8973a8ac0",
+  "typeScriptVersion": "4.1",
+  "_id": "@types/validator@13.7.9",
+  "dist": {
+    "integrity": "sha512-y5KJ1PjGXPpU4CZ7lThDu31s+FqvzhqwMOR6Go/x6xaQMFjgzwfzfOvCwABsylr/5n8sB1qFQm1Vi7TaCB8P+A==",
+    "tarball": "https://registry.npmjs.org/@types/validator/-/validator-13.7.9.tgz"
+  },
+  "directories": {},
+  "ident": "@types/validator",
+  "key": "@types/validator/13.7.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "validator",
+  "fetchInfo": {
+    "narHash": "sha256-fIbxX03CwBTtZDNnrLqw0umMPyY9gMpGJLGGvcGu8Ik=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/validator/-/validator-13.7.9.tgz"
+  }
+}

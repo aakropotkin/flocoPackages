@@ -1,0 +1,54 @@
+{
+  "name": "@ungap/promise-all-settled",
+  "version": "1.1.2",
+  "description": "A cross platform Promise.allSettled polyfill",
+  "main": "./cjs/index.js",
+  "module": "./esm/index.js",
+  "unpkg": "min.js",
+  "scripts": {
+    "build": "npm run cjs && npm run esm && npm run min && npm run test && npm run size",
+    "cjs": "cp index.js cjs/ && echo 'module.exports = allSettled;' >> cjs/index.js",
+    "esm": "cp index.js esm/ && echo 'export default allSettled;' >> esm/index.js",
+    "min": "uglifyjs index.js --support-ie8 --comments=/^!/ -c -m -o min.js",
+    "size": "cat index.js | wc -c && cat min.js | wc -c && gzip -c9 min.js | wc -c && cat min.js | brotli | wc -c",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls",
+    "test": "nyc node test/index.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "nyc": "^15.0.1",
+    "uglify-js": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungap/promise-all-settled.git"
+  },
+  "type": "module",
+  "exports": {
+    "import": "./esm/index.js",
+    "default": "./cjs/index.js"
+  },
+  "gitHead": "ed43b3d9bc2027789c4388aff198141b4feb8f04",
+  "_id": "@ungap/promise-all-settled@1.1.2",
+  "_nodeVersion": "14.5.0",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-sL/cEvJWAnClXw0wHk85/2L0G6Sj8UB0Ctc1TEMbKSsmpRosqhwj9gWgFRZSrBr2f9tiXISwNhCPmlfqUqyb9Q==",
+    "tarball": "https://registry.npmjs.org/@ungap/promise-all-settled/-/promise-all-settled-1.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "@ungap/promise-all-settled",
+  "key": "@ungap/promise-all-settled/1.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@ungap/",
+  "scope": "ungap",
+  "bname": "promise-all-settled",
+  "fetchInfo": {
+    "narHash": "sha256-5F6ec4dfp4ROKpMSP8XRZMJ4eU2Qpzzi0Wg5h6Lr3Xw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ungap/promise-all-settled/-/promise-all-settled-1.1.2.tgz"
+  }
+}

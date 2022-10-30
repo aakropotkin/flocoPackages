@@ -1,0 +1,49 @@
+{
+  "name": "@redis/json",
+  "version": "1.0.4",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "nyc -r text-summary -r lcov mocha -r source-map-support/register -r ts-node/register './lib/**/*.spec.ts'",
+    "build": "tsc",
+    "documentation": "typedoc"
+  },
+  "peerDependencies": {
+    "@redis/client": "^1.0.0"
+  },
+  "devDependencies": {
+    "@istanbuljs/nyc-config-typescript": "^1.0.2",
+    "@redis/test-utils": "*",
+    "@types/node": "^18.7.10",
+    "nyc": "^15.1.0",
+    "release-it": "^15.3.0",
+    "source-map-support": "^0.5.21",
+    "ts-node": "^10.9.1",
+    "typedoc": "^0.23.10",
+    "typescript": "^4.7.4"
+  },
+  "gitHead": "5dd7d3149a633b762ece0ce8006ecbb4311a547f",
+  "description": "This package provides support for the [RedisJSON](https://redisjson.io) module, which adds JSON as a native data type to Redis.  It extends the [Node Redis client](https://github.com/redis/node-redis) to include functions for each of the RedisJSON command",
+  "_id": "@redis/json@1.0.4",
+  "_nodeVersion": "18.4.0",
+  "_npmVersion": "8.12.1",
+  "dist": {
+    "integrity": "sha512-LUZE2Gdrhg0Rx7AN+cZkb1e6HjoSKaeeW8rYnt89Tly13GBI5eP4CwDVr+MY8BAYfCg4/N15OUrtLoona9uSgw==",
+    "tarball": "https://registry.npmjs.org/@redis/json/-/json-1.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "@redis/json",
+  "key": "@redis/json/1.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@redis/",
+  "scope": "redis",
+  "bname": "json",
+  "fetchInfo": {
+    "narHash": "sha256-563vu9Ki5jUvoJVsyAByAZnqklMv6AXok9hIsbKEkUQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@redis/json/-/json-1.0.4.tgz"
+  }
+}

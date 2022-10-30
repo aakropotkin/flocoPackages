@@ -1,0 +1,65 @@
+{
+  "name": "@octokit/types",
+  "description": "Shared TypeScript definitions for Octokit projects",
+  "version": "8.0.0",
+  "license": "MIT",
+  "source": "dist-src/index.js",
+  "types": "dist-types/index.d.ts",
+  "octokit": {
+    "openapi-version": "8.0.1"
+  },
+  "main": "dist-node/index.js",
+  "module": "dist-web/index.js",
+  "pika": true,
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octokit/types.ts.git"
+  },
+  "dependencies": {
+    "@octokit/openapi-types": "^14.0.0"
+  },
+  "devDependencies": {
+    "@pika/pack": "^0.3.7",
+    "@pika/plugin-build-node": "^0.9.0",
+    "@pika/plugin-build-web": "^0.9.0",
+    "@pika/plugin-ts-standard-pkg": "^0.9.0",
+    "@types/node": ">= 8",
+    "github-openapi-graphql-query": "^3.0.0",
+    "handlebars": "^4.7.6",
+    "json-schema-to-typescript": "^11.0.0",
+    "lodash.set": "^4.3.2",
+    "npm-run-all": "^4.1.5",
+    "pascal-case": "^3.1.1",
+    "pika-plugin-merge-properties": "^1.0.6",
+    "prettier": "^2.0.0",
+    "semantic-release": "^19.0.3",
+    "semantic-release-plugin-update-version-in-files": "^1.0.0",
+    "sort-keys": "^4.2.0",
+    "string-to-jsdoc-comment": "^1.0.0",
+    "typedoc": "^0.23.0",
+    "typescript": "^4.0.2"
+  },
+  "gitHead": "7bf7e202f1c89382d83497e2eb1669cf38e8413a",
+  "_id": "@octokit/types@8.0.0",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-65/TPpOJP1i3K4lBJMnWqPUJ6zuOtzhtagDvydAWbEXpbFYA0oMKKyLb95NFZZP0lSh/4b6K+DQlzvYQJQQePg==",
+    "tarball": "https://registry.npmjs.org/@octokit/types/-/types-8.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@octokit/types",
+  "key": "@octokit/types/8.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@octokit/",
+  "scope": "octokit",
+  "bname": "types",
+  "fetchInfo": {
+    "narHash": "sha256-KIhz9Ib6zRovXWLwo1dIqRti7/5b+kFYQkabp69hLLg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/types/-/types-8.0.0.tgz"
+  }
+}

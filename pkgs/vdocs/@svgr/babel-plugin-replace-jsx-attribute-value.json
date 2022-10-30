@@ -1,0 +1,52 @@
+{
+  "name": "@svgr/babel-plugin-replace-jsx-attribute-value",
+  "description": "Replace JSX attribute value",
+  "version": "6.5.1",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregberge/svgr.git#main"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "scripts": {
+    "reset": "rm -rf dist",
+    "build": "rollup -c ../../build/rollup.config.js",
+    "prepublishOnly": "npm run reset && npm run build"
+  },
+  "gitHead": "d5efedd372999692f84d30072e502b5a6b8fe734",
+  "_id": "@svgr/babel-plugin-replace-jsx-attribute-value@6.5.1",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "lerna/6.0.1/node@v18.12.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-8DPaVVE3fd5JKuIC29dqyMB54sA6mfgki2H2+swh+zNJoynC8pMPzOkidqHOSc6Wj032fhl8Z0TVn1GiPpAiJg==",
+    "tarball": "https://registry.npmjs.org/@svgr/babel-plugin-replace-jsx-attribute-value/-/babel-plugin-replace-jsx-attribute-value-6.5.1.tgz"
+  },
+  "directories": {},
+  "ident": "@svgr/babel-plugin-replace-jsx-attribute-value",
+  "key": "@svgr/babel-plugin-replace-jsx-attribute-value/6.5.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@svgr/",
+  "scope": "svgr",
+  "bname": "babel-plugin-replace-jsx-attribute-value",
+  "fetchInfo": {
+    "narHash": "sha256-cOJcBvC+UVgzX36YWCkjtYwS+UYO92gYzISAI0kK0o0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-replace-jsx-attribute-value/-/babel-plugin-replace-jsx-attribute-value-6.5.1.tgz"
+  }
+}

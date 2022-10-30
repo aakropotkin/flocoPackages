@@ -1,0 +1,52 @@
+{
+  "name": "@antv/g-plugin-canvas-renderer",
+  "version": "1.7.27",
+  "description": "A G plugin of renderer implementation with Canvas2D API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antvis/g.git"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "unpkg": "dist/index.umd.min.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "sync": "tnpm sync"
+  },
+  "dependencies": {
+    "@antv/g-math": "^1.7.24",
+    "@antv/g-plugin-canvas-path-generator": "^1.1.24",
+    "@antv/g-plugin-image-loader": "^1.1.25",
+    "@antv/util": "^3.2.4",
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.0.0"
+  },
+  "peerDependencies": {
+    "@antv/g-lite": "^1.0.0"
+  },
+  "gitHead": "ef44156fad010a95006446c87126c6d0357eed5d",
+  "_id": "@antv/g-plugin-canvas-renderer@1.7.27",
+  "_nodeVersion": "14.18.0",
+  "_npmVersion": "lerna/3.22.1/node@v14.18.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-TdXsPLf4ztO/Z/Bnzgs09rRyM2KUMyzUmW4ewuiqIPh2VIf9/Tyz8PZiXhV51+tGKY1UXzjBkP1hRYIROYzNlw==",
+    "tarball": "https://registry.npmjs.org/@antv/g-plugin-canvas-renderer/-/g-plugin-canvas-renderer-1.7.27.tgz"
+  },
+  "directories": {},
+  "ident": "@antv/g-plugin-canvas-renderer",
+  "key": "@antv/g-plugin-canvas-renderer/1.7.27",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@antv/",
+  "scope": "antv",
+  "bname": "g-plugin-canvas-renderer",
+  "fetchInfo": {
+    "narHash": "sha256-ENUS9Nkb4cI9RvvazMOfgqRRjMQfhflrLxYsQPgWEbU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-plugin-canvas-renderer/-/g-plugin-canvas-renderer-1.7.27.tgz"
+  }
+}

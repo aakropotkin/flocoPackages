@@ -1,0 +1,82 @@
+{
+  "description": "The iconic font, CSS, and SVG framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-common-types": "6.2.0"
+  },
+  "version": "6.2.0",
+  "name": "@fortawesome/fontawesome-svg-core",
+  "main": "index.js",
+  "module": "index.mjs",
+  "jsnext:main": "index.mjs",
+  "style": "styles.css",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "module": "./index.mjs",
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "style": "./styles.css",
+      "default": "./index.js"
+    },
+    "./index": {
+      "module": "./index.mjs",
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "default": "./index.js"
+    },
+    "./index.js": {
+      "module": "./index.mjs",
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "default": "./index.js"
+    },
+    "./plugins": {
+      "module": "./plugins.mjs",
+      "import": "./plugins.mjs",
+      "default": "./plugins.mjs"
+    },
+    "./import.macro": "./import.macro.js",
+    "./import.macro.js": "./import.macro.js",
+    "./styles": "./styles.css",
+    "./styles.css": "./styles.css",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": [
+    "./index.js",
+    "./index.mjs",
+    "./styles.css"
+  ],
+  "scripts": {
+    "postinstall": "node attribution.js"
+  },
+  "gitHead": "7851d666575a327aff5acdb35ca83f2c5517415f",
+  "_id": "@fortawesome/fontawesome-svg-core@6.2.0",
+  "_nodeVersion": "14.19.1",
+  "_npmVersion": "8.13.2",
+  "dist": {
+    "integrity": "sha512-Cf2mAAeMWFMzpLC7Y9H1I4o3wEU+XovVJhTiNG8ZNgSQj53yl7OCJaS80K4YjrABWZzbAHVaoHE1dVJ27AAYXw==",
+    "tarball": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "@fortawesome/fontawesome-svg-core",
+  "key": "@fortawesome/fontawesome-svg-core/6.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@fortawesome/",
+  "scope": "fortawesome",
+  "bname": "fontawesome-svg-core",
+  "fetchInfo": {
+    "narHash": "sha256-pGKBPQbJHpPHwdAPqvMDbycQocI/Dg5dTObjDbhFMj8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.2.0.tgz"
+  }
+}

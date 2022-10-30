@@ -1,0 +1,33 @@
+{
+  "name": "@types/expect",
+  "version": "24.3.0",
+  "typings": null,
+  "description": "Stub TypeScript definitions entry for expect, which provides its own types definitions",
+  "main": "",
+  "scripts": {},
+  "repository": "https://github.com/facebook/jest",
+  "license": "MIT",
+  "dependencies": {
+    "expect": "*"
+  },
+  "_id": "@types/expect@24.3.0",
+  "dist": {
+    "integrity": "sha512-aq5Z+YFBz5o2b6Sp1jigx5nsmoZMK5Ceurjwy6PZmRv7dEi1jLtkARfvB1ME+OXJUG+7TZUDcv3WoCr/aor6dQ==",
+    "tarball": "https://registry.npmjs.org/@types/expect/-/expect-24.3.0.tgz"
+  },
+  "directories": {},
+  "deprecated": "This is a stub types definition. expect provides its own type definitions, so you do not need this installed.",
+  "ident": "@types/expect",
+  "key": "@types/expect/24.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "expect",
+  "fetchInfo": {
+    "narHash": "sha256-gR3nO8VuJVBrhMN2m2F8xHZ2sEta1ZM0pWgjHj/ivn8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/expect/-/expect-24.3.0.tgz"
+  }
+}

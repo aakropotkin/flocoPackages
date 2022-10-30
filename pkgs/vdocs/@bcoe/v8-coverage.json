@@ -1,0 +1,67 @@
+{
+  "name": "@bcoe/v8-coverage",
+  "version": "0.2.3",
+  "description": "Helper functions for V8 coverage files.",
+  "license": "MIT",
+  "main": "dist/lib/index",
+  "types": "dist/lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/demurgos/v8-coverage.git"
+  },
+  "scripts": {
+    "prepare": "gulp all:tsconfig.json && gulp dist",
+    "pretest": "gulp lib:build",
+    "test": "gulp test",
+    "lint": "gulp :lint:fix"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/gulp": "^4.0.5",
+    "@types/minimist": "^1.2.0",
+    "@types/mocha": "^5.2.2",
+    "@types/node": "^10.5.4",
+    "chai": "^4.1.2",
+    "codecov": "^3.0.2",
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.1",
+    "minimist": "^1.2.0",
+    "pre-commit": "^1.2.2",
+    "ts-node": "^8.3.0",
+    "turbo-gulp": "^0.20.1"
+  },
+  "nyc": {
+    "include": [
+      "build/test/lib/**/*.js",
+      "build/test/lib/**/*.mjs"
+    ],
+    "reporter": [
+      "text",
+      "html"
+    ],
+    "extension": [
+      ".mjs"
+    ]
+  },
+  "_id": "@bcoe/v8-coverage@0.2.3",
+  "_nodeVersion": "12.9.1",
+  "_npmVersion": "6.10.2",
+  "dist": {
+    "integrity": "sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==",
+    "tarball": "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz"
+  },
+  "directories": {},
+  "ident": "@bcoe/v8-coverage",
+  "key": "@bcoe/v8-coverage/0.2.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@bcoe/",
+  "scope": "bcoe",
+  "bname": "v8-coverage",
+  "fetchInfo": {
+    "narHash": "sha256-IEMvAq0Fi3/i/XjNfhU8STSIp/XVGjGWpd+ojpZ1r5s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz"
+  }
+}

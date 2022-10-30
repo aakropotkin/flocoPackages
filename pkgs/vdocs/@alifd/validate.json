@@ -1,0 +1,87 @@
+{
+  "name": "@alifd/validate",
+  "version": "1.4.0",
+  "description": "Validation to be used with @alifd/field",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "ice-scripts dev",
+    "build": "ice-scripts build",
+    "prepublishOnly": "npm run build",
+    "test": "jest",
+    "test-watch": "ice-scripts test --jest-watchAll",
+    "precommit": "lint-staged",
+    "eslint": "eslint '@(src|test)/**/*.@(js|jsx)'"
+  },
+  "lint-staged": {
+    "@(src|scripts|docs/*/demo)/**/*.@(js|jsx)": [
+      "prettier --write"
+    ],
+    "@(src|scripts|docs/*/demo)/**/*.@(js|jsx|md)": [
+      "eslint",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@alifd/eslint-config-next": "^2.0.0",
+    "@babel/plugin-transform-modules-commonjs": "^7.16.5",
+    "@commitlint/cli": "^8.1.0",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-markdown": "^1.0.0",
+    "eslint-plugin-react": "^7.14.2",
+    "husky": "^3.0.0",
+    "ice-plugin-component": "^0.1.1",
+    "ice-plugin-fusion": "^0.1.4",
+    "ice-scripts": "^2.0.0",
+    "jest": "^27.4.5",
+    "lint-staged": "^9.2.0",
+    "mocha": "^6.1.4",
+    "power-assert": "^1.6.1",
+    "prettier": "^1.18.2",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "semantic-release": "^17.2.3",
+    "sinon": "^7.3.2"
+  },
+  "componentConfig": {
+    "name": "validate",
+    "title": "Validate",
+    "categories": [
+      "表单"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibaba-fusion/validate.git"
+  },
+  "gitHead": "fda7998d238c420db551041fbde7beaaa7a5c2df",
+  "_id": "@alifd/validate@1.4.0",
+  "_nodeVersion": "14.17.1",
+  "_npmVersion": "7.20.2",
+  "dist": {
+    "integrity": "sha512-RNayg1HVrJBhP5wOmjRq9x0xCC/2H1isDy038V69ggPyAP0k+3JAzIZKNkDoCLJlF4dWPCcsSwXaJafr0A60Wg==",
+    "tarball": "https://registry.npmjs.org/@alifd/validate/-/validate-1.4.0.tgz"
+  },
+  "directories": {},
+  "ident": "@alifd/validate",
+  "key": "@alifd/validate/1.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@alifd/",
+  "scope": "alifd",
+  "bname": "validate",
+  "fetchInfo": {
+    "narHash": "sha256-he3WBv1ToJZIs+M2sTANG8Poen1ge04h9COujGGzVTo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@alifd/validate/-/validate-1.4.0.tgz"
+  }
+}

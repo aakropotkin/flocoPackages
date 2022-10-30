@@ -1,0 +1,36 @@
+{
+  "name": "@types/mime",
+  "version": "3.0.1",
+  "description": "TypeScript definitions for mime",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/mime"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "594e1e4777af908b69119d71c37be0a70e63c840095dcdb0881343b51b7286f3",
+  "typeScriptVersion": "4.0",
+  "_id": "@types/mime@3.0.1",
+  "dist": {
+    "integrity": "sha512-Y4XFY5VJAuw0FgAqPNd6NNoV44jbq9Bz2L7Rh/J6jLTiHBSBJa9fxqQIvkIld4GsoDOcCbvzOUAbLPsSKKg+uA==",
+    "tarball": "https://registry.npmjs.org/@types/mime/-/mime-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@types/mime",
+  "key": "@types/mime/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "mime",
+  "fetchInfo": {
+    "narHash": "sha256-uP9akbH/hd2WI/0mYH0qvgbSJ4s4zcR0DcANdbY31xY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/mime/-/mime-3.0.1.tgz"
+  }
+}

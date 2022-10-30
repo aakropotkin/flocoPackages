@@ -1,0 +1,45 @@
+{
+  "name": "@react-native-community/cli-hermes",
+  "version": "9.2.1",
+  "license": "MIT",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "dependencies": {
+    "@react-native-community/cli-platform-android": "^9.2.1",
+    "@react-native-community/cli-tools": "^9.2.1",
+    "chalk": "^4.1.2",
+    "hermes-profile-transformer": "^0.0.6",
+    "ip": "^1.1.5"
+  },
+  "devDependencies": {
+    "@react-native-community/cli-types": "^9.1.0",
+    "@types/ip": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-community/cli.git",
+    "directory": "packages/cli-hermes"
+  },
+  "gitHead": "0e63e750a235062cd9bc43ed6a4a2beb8f14385a",
+  "_id": "@react-native-community/cli-hermes@9.2.1",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "lerna/4.0.0/node@v16.14.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-723/NMb7egXzJrbWT1uEkN2hOpw+OOtWTG2zKJ3j7KKgUd8u/pP+/z5jO8xVrq+eYJEMjDK0FBEo1Xj7maR4Sw==",
+    "tarball": "https://registry.npmjs.org/@react-native-community/cli-hermes/-/cli-hermes-9.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "@react-native-community/cli-hermes",
+  "key": "@react-native-community/cli-hermes/9.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@react-native-community/",
+  "scope": "react-native-community",
+  "bname": "cli-hermes",
+  "fetchInfo": {
+    "narHash": "sha256-X4EPeNgzmcl5PlGsCP+IYIe1cwDGA62FocW0iaK0PtM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-hermes/-/cli-hermes-9.2.1.tgz"
+  }
+}

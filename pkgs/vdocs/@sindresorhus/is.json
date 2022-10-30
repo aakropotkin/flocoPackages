@@ -1,0 +1,74 @@
+{
+  "name": "@sindresorhus/is",
+  "version": "5.3.0",
+  "description": "Type check values",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is.git"
+  },
+  "type": "module",
+  "exports": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "build": "del dist && tsc",
+    "test": "xo && ava",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "@sindresorhus/tsconfig": "^3.0.1",
+    "@types/jsdom": "^16.2.15",
+    "@types/node": "^18.0.6",
+    "@types/zen-observable": "^0.8.3",
+    "ava": "^4.3.1",
+    "del-cli": "^5.0.0",
+    "jsdom": "^20.0.0",
+    "rxjs": "^7.5.6",
+    "tempy": "^3.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "~4.7.4",
+    "xo": "^0.51.0",
+    "zen-observable": "^0.8.15"
+  },
+  "sideEffects": false,
+  "ava": {
+    "extensions": {
+      "ts": "module"
+    },
+    "nodeArguments": [
+      "--loader=ts-node/esm"
+    ]
+  },
+  "xo": {
+    "rules": {
+      "@typescript-eslint/no-empty-function": "off",
+      "@typescript-eslint/explicit-function-return-type": "off",
+      "@typescript-eslint/triple-slash-reference": "off"
+    }
+  },
+  "gitHead": "911f44dc36b1fecae135644fc356b82ff834cef6",
+  "_id": "@sindresorhus/is@5.3.0",
+  "_nodeVersion": "14.19.3",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-CX6t4SYQ37lzxicAqsBtxA3OseeoVrh9cSJ5PFYam0GksYlupRfy1A+Q4aYD3zvcfECLc0zO2u+ZnR2UYKvCrw==",
+    "tarball": "https://registry.npmjs.org/@sindresorhus/is/-/is-5.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "@sindresorhus/is",
+  "key": "@sindresorhus/is/5.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@sindresorhus/",
+  "scope": "sindresorhus",
+  "bname": "is",
+  "fetchInfo": {
+    "narHash": "sha256-t2x0X4sQhb2FEpnNCnA4V6PWgNTBn9KRPpQsqy/p4ls=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sindresorhus/is/-/is-5.3.0.tgz"
+  }
+}

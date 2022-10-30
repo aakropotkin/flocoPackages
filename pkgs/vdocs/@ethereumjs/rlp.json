@@ -1,0 +1,54 @@
+{
+  "name": "@ethereumjs/rlp",
+  "version": "4.0.0",
+  "description": "Recursive Length Prefix Encoding Module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereumjs/ethereumjs-monorepo.git"
+  },
+  "license": "MPL-2.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "rlp": "bin/rlp"
+  },
+  "scripts": {
+    "build": "../../config/cli/ts-build.sh node",
+    "clean": "../../config/cli/clean-package.sh",
+    "coverage": "../../config/cli/coverage.sh",
+    "lint": "../../config/cli/lint.sh",
+    "lint:diff": "../../config/cli/lint-diff.sh",
+    "lint:fix": "../../config/cli/lint-fix.sh",
+    "prepublishOnly": "../../config/cli/prepublish.sh",
+    "tape": "tape -r ts-node/register",
+    "test": "npm run test:node && npm run test:browser",
+    "test:browser": "karma start karma.conf.js",
+    "test:node": "npm run tape -- test/*.spec.ts",
+    "tsc": "../../config/cli/ts-compile.sh"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "gitHead": "1e0de28380e5e73e92be47895f6c79ffc90392c4",
+  "_id": "@ethereumjs/rlp@4.0.0",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-LM4jS5n33bJN60fM5EC8VeyhUgga6/DjCPBV2vWjnfVtobqtOiNC4SQ1MRFqyBSmJGGdB533JZWewyvlcdJtkQ==",
+    "tarball": "https://registry.npmjs.org/@ethereumjs/rlp/-/rlp-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@ethereumjs/rlp",
+  "key": "@ethereumjs/rlp/4.0.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "scopeDir": "@ethereumjs/",
+  "scope": "ethereumjs",
+  "bname": "rlp",
+  "fetchInfo": {
+    "narHash": "sha256-WgqtM8UqumNl6futWm1x6NC0iPDXFT3E5uWM11y1IZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/rlp/-/rlp-4.0.0.tgz"
+  }
+}

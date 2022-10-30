@@ -1,0 +1,62 @@
+{
+  "name": "@sapphire/async-queue",
+  "version": "1.5.0",
+  "description": "Sequential asynchronous lock-based queue for promises",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "browser": "dist/index.global.js",
+  "unpkg": "dist/index.global.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.js",
+    "types": "./dist/index.d.ts"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "test": "vitest run",
+    "lint": "eslint src tests --ext ts --fix -c ../../.eslintrc",
+    "build": "tsup",
+    "prepack": "yarn build",
+    "bump": "cliff-jumper",
+    "check-update": "cliff-jumper --dry-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapphiredev/utilities.git",
+    "directory": "packages/async-queue"
+  },
+  "engines": {
+    "node": ">=v14.0.0",
+    "npm": ">=7.0.0"
+  },
+  "devDependencies": {
+    "@favware/cliff-jumper": "^1.8.6",
+    "@vitest/coverage-c8": "^0.22.0",
+    "c8": "^7.12.0",
+    "tsup": "^6.2.2",
+    "typescript": "^4.7.4",
+    "vitest": "^0.22.0"
+  },
+  "_id": "@sapphire/async-queue@1.5.0",
+  "gitHead": "6b2c3aacd0bd22fc5b88950dad35235b6289a03e",
+  "dist": {
+    "integrity": "sha512-JkLdIsP8fPAdh9ZZjrbHWR/+mZj0wvKS5ICibcLrRI1j84UmLMshx5n9QmL8b95d4onJ2xxiyugTgSAX7AalmA==",
+    "tarball": "https://registry.npmjs.org/@sapphire/async-queue/-/async-queue-1.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "@sapphire/async-queue",
+  "key": "@sapphire/async-queue/1.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@sapphire/",
+  "scope": "sapphire",
+  "bname": "async-queue",
+  "fetchInfo": {
+    "narHash": "sha256-ioUX1ZgcMyX/GPyC921vapG1ZFjBbKignfhLtJEqSns=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sapphire/async-queue/-/async-queue-1.5.0.tgz"
+  }
+}

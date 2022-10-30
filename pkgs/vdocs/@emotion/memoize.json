@@ -1,0 +1,49 @@
+{
+  "name": "@emotion/memoize",
+  "version": "0.8.0",
+  "description": "emotion's memoize utility",
+  "main": "dist/emotion-memoize.cjs.js",
+  "module": "dist/emotion-memoize.esm.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emotion-js/emotion.git#main"
+  },
+  "scripts": {
+    "test:typescript": "dtslint types"
+  },
+  "devDependencies": {
+    "@definitelytyped/dtslint": "0.0.112",
+    "typescript": "^4.5.5"
+  },
+  "exports": {
+    ".": {
+      "module": "./dist/emotion-memoize.esm.js",
+      "default": "./dist/emotion-memoize.cjs.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "gitHead": "a5f43a1ba3dae5141b9c356b8b7e13f7023895b3",
+  "_id": "@emotion/memoize@0.8.0",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-G/YwXTkv7Den9mXDO7AhLWkE3q+I92B+VqAE+dYG4NGPaHZGvt3G8Q0p9vmE+sq7rTGphUbAvmQ9YpbfMQGGlA==",
+    "tarball": "https://registry.npmjs.org/@emotion/memoize/-/memoize-0.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "@emotion/memoize",
+  "key": "@emotion/memoize/0.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@emotion/",
+  "scope": "emotion",
+  "bname": "memoize",
+  "fetchInfo": {
+    "narHash": "sha256-snhM4jAZ5wu9LZ6Bam86rzjNSi9IdM6gC7skJB+f77c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@emotion/memoize/-/memoize-0.8.0.tgz"
+  }
+}

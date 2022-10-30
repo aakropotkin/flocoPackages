@@ -1,0 +1,36 @@
+{
+  "name": "@types/jasmine",
+  "version": "4.3.0",
+  "description": "TypeScript definitions for Jasmine",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/jasmine"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "e1565b6a83b34ee520f93b61e955fbdee4e78c1f1c35de8e107b754e0a061ac7",
+  "typeScriptVersion": "4.0",
+  "_id": "@types/jasmine@4.3.0",
+  "dist": {
+    "integrity": "sha512-u1jWakf8CWvLfSEZyxmzkgBzOEvXH/szpT0e6G8BTkx5Eu0BhDn7sbc5dz0JBN/6Wwm9rBe+JAsk9tJRyH9ZkA==",
+    "tarball": "https://registry.npmjs.org/@types/jasmine/-/jasmine-4.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "@types/jasmine",
+  "key": "@types/jasmine/4.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "jasmine",
+  "fetchInfo": {
+    "narHash": "sha256-bNpw4UOn3jvrgYSAAzcdEbEhjsEnqs+kqkp1e2J0vtA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/jasmine/-/jasmine-4.3.0.tgz"
+  }
+}

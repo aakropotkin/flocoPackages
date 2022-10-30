@@ -1,0 +1,45 @@
+{
+  "name": "@webassemblyjs/wast-printer",
+  "version": "1.11.3",
+  "description": "WebAssembly text format printer",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@webassemblyjs/ast": "1.11.3",
+    "@xtuc/long": "4.2.2"
+  },
+  "devDependencies": {
+    "@webassemblyjs/helper-test-framework": "1.11.3",
+    "@webassemblyjs/wast-parser": "1.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtuc/webassemblyjs.git"
+  },
+  "gitHead": "5fd2425602b752576bbe8089c343d5d70ebc861c",
+  "_id": "@webassemblyjs/wast-printer@1.11.3",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "lerna/5.1.6/node@v16.13.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-kmjyNBu6w35c33LADVqSupAEIGQfZE5hUM4TPVVCcFm/mv72j5SVTMfc6S0nv1RQZEwSqi9ykadr5nIgK1NYLQ==",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/wast-printer/-/wast-printer-1.11.3.tgz"
+  },
+  "directories": {},
+  "ident": "@webassemblyjs/wast-printer",
+  "key": "@webassemblyjs/wast-printer/1.11.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@webassemblyjs/",
+  "scope": "webassemblyjs",
+  "bname": "wast-printer",
+  "fetchInfo": {
+    "narHash": "sha256-C45H6NxgjOW0On9uMKQHGp1kVE6Ku20rKok8VDS2b/I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@webassemblyjs/wast-printer/-/wast-printer-1.11.3.tgz"
+  }
+}

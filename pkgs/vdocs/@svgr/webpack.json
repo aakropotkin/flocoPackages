@@ -1,0 +1,65 @@
+{
+  "name": "@svgr/webpack",
+  "description": "SVGR webpack loader.",
+  "version": "6.5.1",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregberge/svgr.git#main"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "MIT",
+  "scripts": {
+    "reset": "rm -rf dist",
+    "build": "rollup -c ../../build/rollup.config.js",
+    "prepublishOnly": "npm run reset && npm run build"
+  },
+  "dependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/plugin-transform-react-constant-elements": "^7.18.12",
+    "@babel/preset-env": "^7.19.4",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@svgr/core": "^6.5.1",
+    "@svgr/plugin-jsx": "^6.5.1",
+    "@svgr/plugin-svgo": "^6.5.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^9.0.0",
+    "memory-fs": "^0.5.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.74.0"
+  },
+  "gitHead": "d5efedd372999692f84d30072e502b5a6b8fe734",
+  "_id": "@svgr/webpack@6.5.1",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "lerna/6.0.1/node@v18.12.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-cQ/AsnBkXPkEK8cLbv4Dm7JGXq2XrumKnL1dRpJD9rIO2fTIlJI9a1uCciYG1F2aUsox/hJQyNGbt3soDxSRkA==",
+    "tarball": "https://registry.npmjs.org/@svgr/webpack/-/webpack-6.5.1.tgz"
+  },
+  "directories": {},
+  "ident": "@svgr/webpack",
+  "key": "@svgr/webpack/6.5.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@svgr/",
+  "scope": "svgr",
+  "bname": "webpack",
+  "fetchInfo": {
+    "narHash": "sha256-t0p72fRaU9RAfzD4lLPLn7MpUYm7xl6cym/R+LXlg98=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/webpack/-/webpack-6.5.1.tgz"
+  }
+}

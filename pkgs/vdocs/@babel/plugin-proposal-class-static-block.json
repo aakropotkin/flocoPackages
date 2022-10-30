@@ -1,0 +1,53 @@
+{
+  "name": "@babel/plugin-proposal-class-static-block",
+  "version": "7.18.6",
+  "description": "Transform class static blocks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-proposal-class-static-block"
+  },
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@babel/helper-create-class-features-plugin": "^7.18.6",
+    "@babel/helper-plugin-utils": "^7.18.6",
+    "@babel/plugin-syntax-class-static-block": "^7.14.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/helper-plugin-test-runner": "^7.18.6",
+    "@babel/traverse": "^7.18.6",
+    "@babel/types": "^7.18.6"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs",
+  "_id": "@babel/plugin-proposal-class-static-block@7.18.6",
+  "dist": {
+    "integrity": "sha512-+I3oIiNxrCpup3Gi8n5IGMwj0gOCAjcJUSQEcotNnCCPMEnixawOQ+KeJPlgfjzx+FKQ1QSyZOWe7wmoJp7vhw==",
+    "tarball": "https://registry.npmjs.org/@babel/plugin-proposal-class-static-block/-/plugin-proposal-class-static-block-7.18.6.tgz"
+  },
+  "directories": {},
+  "ident": "@babel/plugin-proposal-class-static-block",
+  "key": "@babel/plugin-proposal-class-static-block/7.18.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@babel/",
+  "scope": "babel",
+  "bname": "plugin-proposal-class-static-block",
+  "fetchInfo": {
+    "narHash": "sha256-LFyw8M3mLnuIIXEsF3bC6luA5DQP6H2++OaIww1QQk4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-proposal-class-static-block/-/plugin-proposal-class-static-block-7.18.6.tgz"
+  }
+}

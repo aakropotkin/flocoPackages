@@ -1,0 +1,63 @@
+{
+  "name": "@npmcli/promise-spawn",
+  "version": "5.0.0",
+  "main": "./lib/index.js",
+  "description": "spawn processes the way the npm cli likes to do",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/promise-spawn.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "postsnap": "npm run lintfix --",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "tap": {
+    "check-coverage": true,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.7.1",
+    "minipass": "^3.1.1",
+    "tap": "^16.0.1"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.7.1"
+  },
+  "gitHead": "26e313a3bf20e522ad3d05b2004525a3fafb0891",
+  "_id": "@npmcli/promise-spawn@5.0.0",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "9.0.0",
+  "dist": {
+    "integrity": "sha512-q+Le2urM3NdxSFHj+VZXLTHKgmWxqHXUSqM5m9bjnV3EtThtJor64f5inmBkO9uEGZnhpjW0wL67Qf5qcgZkxw==",
+    "tarball": "https://registry.npmjs.org/@npmcli/promise-spawn/-/promise-spawn-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@npmcli/promise-spawn",
+  "key": "@npmcli/promise-spawn/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@npmcli/",
+  "scope": "npmcli",
+  "bname": "promise-spawn",
+  "fetchInfo": {
+    "narHash": "sha256-tvhNUMnJ+lUzb3IVrpwRpzZ1Yy7aDLfMM2lQPNx72Bo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/promise-spawn/-/promise-spawn-5.0.0.tgz"
+  }
+}

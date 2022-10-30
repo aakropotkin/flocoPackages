@@ -1,0 +1,55 @@
+{
+  "name": "@jupyterlab/rendermime-interfaces",
+  "version": "3.5.0",
+  "description": "JupyterLab - Interfaces for Mime Renderers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupyterlab/jupyterlab.git"
+  },
+  "license": "BSD-3-Clause",
+  "sideEffects": false,
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib/"
+  },
+  "scripts": {
+    "build": "tsc -b",
+    "clean": "rimraf lib && rimraf tsconfig.tsbuildinfo",
+    "docs": "typedoc  src",
+    "watch": "tsc -b --watch"
+  },
+  "dependencies": {
+    "@jupyterlab/translation": "^3.5.0",
+    "@lumino/coreutils": "^1.11.0",
+    "@lumino/widgets": "^1.33.0"
+  },
+  "devDependencies": {
+    "rimraf": "~3.0.0",
+    "typedoc": "~0.21.2",
+    "typescript": "~4.1.3"
+  },
+  "_id": "@jupyterlab/rendermime-interfaces@3.5.0",
+  "_integrity": "sha512-SWpNX8dwRuAH0GMeuamN1O096Ypn2XcosNbo60P8860qi2KzTXgxADt5xcOf6FK+tXVQ+qi3hJi+055+1xjq+g==",
+  "_resolved": "/home/runner/work/jupyter_releaser/jupyter_releaser/.jupyter_releaser_checkout/dist/jupyterlab-rendermime-interfaces-3.5.0.tgz",
+  "_from": "file:jupyterlab-rendermime-interfaces-3.5.0.tgz",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-SWpNX8dwRuAH0GMeuamN1O096Ypn2XcosNbo60P8860qi2KzTXgxADt5xcOf6FK+tXVQ+qi3hJi+055+1xjq+g==",
+    "tarball": "https://registry.npmjs.org/@jupyterlab/rendermime-interfaces/-/rendermime-interfaces-3.5.0.tgz"
+  },
+  "ident": "@jupyterlab/rendermime-interfaces",
+  "key": "@jupyterlab/rendermime-interfaces/3.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jupyterlab/",
+  "scope": "jupyterlab",
+  "bname": "rendermime-interfaces",
+  "fetchInfo": {
+    "narHash": "sha256-h8ktMJfI6cNBhOKTm56Y+pRs/U9cuuwL4xNeCNbk+4M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jupyterlab/rendermime-interfaces/-/rendermime-interfaces-3.5.0.tgz"
+  }
+}

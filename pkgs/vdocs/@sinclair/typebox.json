@@ -1,0 +1,57 @@
+{
+  "name": "@sinclair/typebox",
+  "version": "0.25.1",
+  "description": "JSONSchema Type Builder with Static Type Resolution for TypeScript",
+  "license": "MIT",
+  "main": "./typebox.js",
+  "types": "./typebox.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinclairzx81/typebox"
+  },
+  "scripts": {
+    "clean": "hammer task clean",
+    "format": "hammer task format",
+    "start": "hammer task start",
+    "test": "hammer task test",
+    "benchmark": "hammer task benchmark",
+    "build": "hammer task build",
+    "publish": "hammer task publish"
+  },
+  "devDependencies": {
+    "@sinclair/hammer": "^0.17.1",
+    "@types/chai": "^4.3.3",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^18.7.13",
+    "ajv": "^8.11.0",
+    "ajv-formats": "^2.1.1",
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.2"
+  },
+  "_id": "@sinclair/typebox@0.25.1",
+  "_integrity": "sha512-ij7duiwNUyqplvhAqBXJAHNAT+ozsyUhmC5mLO7PqyHOAk1G91d3ITF2h9LIDbYLP5PSTNYpcxYstU+4Y4i3aQ==",
+  "_resolved": "C:\\Users\\relay\\Desktop\\typebox\\target\\build\\sinclair-typebox-0.25.1.tgz",
+  "_from": "file:sinclair-typebox-0.25.1.tgz",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "7.24.1",
+  "dist": {
+    "integrity": "sha512-ij7duiwNUyqplvhAqBXJAHNAT+ozsyUhmC5mLO7PqyHOAk1G91d3ITF2h9LIDbYLP5PSTNYpcxYstU+4Y4i3aQ==",
+    "tarball": "https://registry.npmjs.org/@sinclair/typebox/-/typebox-0.25.1.tgz"
+  },
+  "directories": {},
+  "ident": "@sinclair/typebox",
+  "key": "@sinclair/typebox/0.25.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@sinclair/",
+  "scope": "sinclair",
+  "bname": "typebox",
+  "fetchInfo": {
+    "narHash": "sha256-os0a7Z3/i0KZuRg5ymFStt1MYn+z2Tn4qiN6siWf+ss=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sinclair/typebox/-/typebox-0.25.1.tgz"
+  }
+}

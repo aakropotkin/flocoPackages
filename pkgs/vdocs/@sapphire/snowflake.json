@@ -1,0 +1,58 @@
+{
+  "name": "@sapphire/snowflake",
+  "version": "3.2.2",
+  "description": "Deconstructs and generates snowflake IDs using BigInts",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "browser": "dist/index.global.js",
+  "unpkg": "dist/index.global.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.js",
+    "types": "./dist/index.d.ts"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src tests --ext ts --fix -c ../../.eslintrc",
+    "build": "tsup && tsc -b src",
+    "prepublish": "yarn build",
+    "bump": "cliff-jumper",
+    "check-update": "cliff-jumper --dry-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapphiredev/utilities.git",
+    "directory": "packages/snowflake"
+  },
+  "engines": {
+    "node": ">=v14.0.0",
+    "npm": ">=7.0.0"
+  },
+  "devDependencies": {
+    "tsup": "^5.12.6",
+    "typescript": "^4.6.3"
+  },
+  "_id": "@sapphire/snowflake@3.2.2",
+  "gitHead": "056e23132769aa528e56436a096bac43ad83b031",
+  "dist": {
+    "integrity": "sha512-ula2O0kpSZtX9rKXNeQMrHwNd7E4jPDJYUXmEGTFdMRfyfMw+FPyh04oKMjAiDuOi64bYgVkOV3MjK+loImFhQ==",
+    "tarball": "https://registry.npmjs.org/@sapphire/snowflake/-/snowflake-3.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "@sapphire/snowflake",
+  "key": "@sapphire/snowflake/3.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@sapphire/",
+  "scope": "sapphire",
+  "bname": "snowflake",
+  "fetchInfo": {
+    "narHash": "sha256-5QWVBFq37+TxmJzEMPFMiP5UJAdOmogOl014E+WuWOk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sapphire/snowflake/-/snowflake-3.2.2.tgz"
+  }
+}

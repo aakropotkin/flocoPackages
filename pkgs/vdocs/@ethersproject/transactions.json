@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "@ethersproject/address": "^5.7.0",
+    "@ethersproject/bignumber": "^5.7.0",
+    "@ethersproject/bytes": "^5.7.0",
+    "@ethersproject/constants": "^5.7.0",
+    "@ethersproject/keccak256": "^5.7.0",
+    "@ethersproject/logger": "^5.7.0",
+    "@ethersproject/properties": "^5.7.0",
+    "@ethersproject/rlp": "^5.7.0",
+    "@ethersproject/signing-key": "^5.7.0"
+  },
+  "description": "Utilities for decoding and encoding Ethereum transaction for ethers.",
+  "ethereum": "donations.ethers.eth",
+  "gitHead": "ec1b9583039a14a0e0fa15d0a2a6082a2f41cf5b",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "module": "./lib.esm/index.js",
+  "name": "@ethersproject/transactions",
+  "repository": {
+    "directory": "packages/transactions",
+    "type": "git",
+    "url": "git://github.com/ethers-io/ethers.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "sideEffects": false,
+  "tarballHash": "0xee56f11b91fcfc6020d9009981cd8276eeeda4883bdc9ee8eecf8eb9b726c457",
+  "types": "./lib/index.d.ts",
+  "version": "5.7.0",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "ethers-dist@0.0.1",
+  "_id": "@ethersproject/transactions@5.7.0",
+  "dist": {
+    "integrity": "sha512-kmcNicCp1lp8qanMTC3RIikGgoJ80ztTyvtsFvCYpSCfkjhD0jZ2LOrnbcuxuToLIUYYf+4XwD1rP+B/erDIhQ==",
+    "tarball": "https://registry.npmjs.org/@ethersproject/transactions/-/transactions-5.7.0.tgz"
+  },
+  "directories": {},
+  "ident": "@ethersproject/transactions",
+  "key": "@ethersproject/transactions/5.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@ethersproject/",
+  "scope": "ethersproject",
+  "bname": "transactions",
+  "fetchInfo": {
+    "narHash": "sha256-p4Ww7QhnLZE96JLJ0JhG0M5PTLravagHG0Y894RaoUQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/transactions/-/transactions-5.7.0.tgz"
+  }
+}

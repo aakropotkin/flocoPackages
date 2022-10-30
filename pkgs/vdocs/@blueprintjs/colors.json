@@ -1,0 +1,53 @@
+{
+  "name": "@blueprintjs/colors",
+  "version": "4.1.8",
+  "description": "Blueprint color definitions",
+  "main": "lib/index.js",
+  "scripts": {
+    "clean": "rm -rf lib/*",
+    "compile": "run-p \"compile:*\"",
+    "compile:esm": "tsc -p src/",
+    "compile:css": "sass-compile ./src",
+    "compile:css-colors": "generate-css-variables --retainDefault true --outputFileName colors _colors.scss",
+    "dev": "run-p \"compile:esm -- --watch\" \"compile:css -- --watch\"",
+    "lint": "npm-run-all -p lint:scss lint:es",
+    "lint:scss": "sass-lint",
+    "lint:es": "es-lint",
+    "lint-fix": "es-lint --fix && sass-lint --fix",
+    "verify": "npm-run-all compile -p dist lint"
+  },
+  "devDependencies": {
+    "@blueprintjs/node-build-scripts": "^6.0.0",
+    "mocha": "^10.1.0",
+    "typescript": "~4.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/palantir/blueprint.git",
+    "directory": "packages/colors"
+  },
+  "license": "Apache-2.0",
+  "types": "./lib/index.d.ts",
+  "gitHead": "16176f74b7cce72128277114a7a06fb899f92117",
+  "_id": "@blueprintjs/colors@4.1.8",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-J3N3PIBlmZS7+br+8KkR0yilGp74Fwp8SXfs0Bf4OGgLcqrBixqCqAs+YnpS2iOV0m2D22cZc8YsnPVdx0kH7w==",
+    "tarball": "https://registry.npmjs.org/@blueprintjs/colors/-/colors-4.1.8.tgz"
+  },
+  "directories": {},
+  "ident": "@blueprintjs/colors",
+  "key": "@blueprintjs/colors/4.1.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@blueprintjs/",
+  "scope": "blueprintjs",
+  "bname": "colors",
+  "fetchInfo": {
+    "narHash": "sha256-uqVgjGAju5Y0TR7HszcT1KxXw0hhVQmyZVI3Ty07nA8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@blueprintjs/colors/-/colors-4.1.8.tgz"
+  }
+}

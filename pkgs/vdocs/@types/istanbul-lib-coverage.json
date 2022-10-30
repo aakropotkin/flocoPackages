@@ -1,0 +1,36 @@
+{
+  "name": "@types/istanbul-lib-coverage",
+  "version": "2.0.4",
+  "description": "TypeScript definitions for istanbul-lib-coverage",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/istanbul-lib-coverage"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "4df627cf114fc2a3196e0bde6df85bc30eb84e778319bcc5dcfdf962ee9fe093",
+  "typeScriptVersion": "3.8",
+  "_id": "@types/istanbul-lib-coverage@2.0.4",
+  "dist": {
+    "integrity": "sha512-z/QT1XN4K4KYuslS23k62yDIDLwLFkzxOuMplDtObz0+y7VqJCaO2o+SPwHCvLFZh7xazvvoor2tA/hPz9ee7g==",
+    "tarball": "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "@types/istanbul-lib-coverage",
+  "key": "@types/istanbul-lib-coverage/2.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "istanbul-lib-coverage",
+  "fetchInfo": {
+    "narHash": "sha256-DtWhc4JGMhO7O0szwUUUAgO3Qgh8hrmgEygs8bL5Z1Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.4.tgz"
+  }
+}

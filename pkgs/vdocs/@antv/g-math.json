@@ -1,0 +1,46 @@
+{
+  "name": "@antv/g-math",
+  "version": "1.7.24",
+  "description": "Geometry util",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antvis/g.git"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "unpkg": "dist/index.umd.min.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "sync": "tnpm sync"
+  },
+  "dependencies": {
+    "gl-matrix": "^3.1.0",
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.0.0"
+  },
+  "gitHead": "ef44156fad010a95006446c87126c6d0357eed5d",
+  "_id": "@antv/g-math@1.7.24",
+  "_nodeVersion": "14.18.0",
+  "_npmVersion": "lerna/3.22.1/node@v14.18.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-6/QVAtzeCfp48fTHZETwnRE8nEb3IlhS46QQ57zMHztiB3+EiLVtFZjzQ3xLpNmFC694+AktGiqRr09ytsjAQg==",
+    "tarball": "https://registry.npmjs.org/@antv/g-math/-/g-math-1.7.24.tgz"
+  },
+  "directories": {},
+  "ident": "@antv/g-math",
+  "key": "@antv/g-math/1.7.24",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@antv/",
+  "scope": "antv",
+  "bname": "g-math",
+  "fetchInfo": {
+    "narHash": "sha256-KMXiZkSdiUjMk4wkVMZO25QYPHy8zy4WtT4GYHsZBCc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-math/-/g-math-1.7.24.tgz"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "@jimp/utils",
+  "version": "0.16.2",
+  "description": "Utils for jimp extensions.",
+  "main": "dist/index.js",
+  "module": "es/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "npm run build:node:production && npm run build:module",
+    "build:watch": "npm run build:node:debug -- -- --watch --verbose",
+    "build:debug": "npm run build:node:debug",
+    "build:module": "cross-env BABEL_ENV=module babel src -d es --source-maps --config-file ../../babel.config.js",
+    "build:node": "babel src -d dist --source-maps --config-file ../../babel.config.js",
+    "build:node:debug": "cross-env BABEL_ENV=development npm run build:node",
+    "build:node:production": "cross-env BABEL_ENV=production npm run build:node"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.7.2",
+    "regenerator-runtime": "^0.13.3"
+  },
+  "gitHead": "e4d6af032fdabdb4b8a4368ec957dec8ea426ef4",
+  "_id": "@jimp/utils@0.16.2",
+  "_nodeVersion": "10.24.1",
+  "_npmVersion": "lerna/3.16.4/node@v10.24.1+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-XENrPvmigiXZQ8E2nxJqO6UVvWBLzbNwyYi3Y8Q1IECoYhYI3kgOQ0fmy4G269Vz1V0omh1bNmC42r4OfXg1Jg==",
+    "tarball": "https://registry.npmjs.org/@jimp/utils/-/utils-0.16.2.tgz"
+  },
+  "directories": {},
+  "ident": "@jimp/utils",
+  "key": "@jimp/utils/0.16.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jimp/",
+  "scope": "jimp",
+  "bname": "utils",
+  "fetchInfo": {
+    "narHash": "sha256-/tBqYQf8CnJdW/2eZ/VT+zPiFhFinU9JPPeHQjewqSk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jimp/utils/-/utils-0.16.2.tgz"
+  }
+}

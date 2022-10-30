@@ -1,0 +1,110 @@
+{
+  "name": "@angular/platform-server",
+  "version": "14.2.8",
+  "description": "Angular - library for using Angular in Node.js",
+  "license": "MIT",
+  "engines": {
+    "node": "^14.15.0 || >=16.10.0"
+  },
+  "peerDependencies": {
+    "@angular/animations": "14.2.8",
+    "@angular/common": "14.2.8",
+    "@angular/compiler": "14.2.8",
+    "@angular/core": "14.2.8",
+    "@angular/platform-browser": "14.2.8",
+    "@angular/platform-browser-dynamic": "14.2.8"
+  },
+  "dependencies": {
+    "domino": "^2.1.2",
+    "tslib": "^2.3.0",
+    "xhr2": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git",
+    "directory": "packages/platform-server"
+  },
+  "ng-update": {
+    "packageGroup": [
+      "@angular/core",
+      "@angular/bazel",
+      "@angular/common",
+      "@angular/compiler",
+      "@angular/compiler-cli",
+      "@angular/animations",
+      "@angular/elements",
+      "@angular/platform-browser",
+      "@angular/platform-browser-dynamic",
+      "@angular/forms",
+      "@angular/platform-server",
+      "@angular/upgrade",
+      "@angular/router",
+      "@angular/language-service",
+      "@angular/localize",
+      "@angular/service-worker"
+    ]
+  },
+  "sideEffects": [
+    "./esm2020/init/**",
+    "./fesm2015/init.mjs",
+    "./fesm2020/init.mjs"
+  ],
+  "fesm2020": "./fesm2020/platform-server.mjs",
+  "fesm2015": "./fesm2015/platform-server.mjs",
+  "esm2020": "./esm2020/platform-server.mjs",
+  "typings": "./index.d.ts",
+  "module": "./fesm2015/platform-server.mjs",
+  "es2020": "./fesm2020/platform-server.mjs",
+  "type": "module",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/platform-server.mjs",
+      "es2020": "./fesm2020/platform-server.mjs",
+      "es2015": "./fesm2015/platform-server.mjs",
+      "node": "./fesm2015/platform-server.mjs",
+      "default": "./fesm2020/platform-server.mjs"
+    },
+    "./init": {
+      "types": "./init/index.d.ts",
+      "esm2020": "./esm2020/init/init.mjs",
+      "es2020": "./fesm2020/init.mjs",
+      "es2015": "./fesm2015/init.mjs",
+      "node": "./fesm2015/init.mjs",
+      "default": "./fesm2020/init.mjs"
+    },
+    "./testing": {
+      "types": "./testing/index.d.ts",
+      "esm2020": "./esm2020/testing/testing.mjs",
+      "es2020": "./fesm2020/testing.mjs",
+      "es2015": "./fesm2015/testing.mjs",
+      "node": "./fesm2015/testing.mjs",
+      "default": "./fesm2020/testing.mjs"
+    }
+  },
+  "gitHead": "3309d3797eed5275938f4f91fcdbf76cb2dfee4b",
+  "_id": "@angular/platform-server@14.2.8",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-P80uFfTBi4WXRqYzqVQBvNh/FYBUt4fkRMx2byAizBHdwtmLlXLsRgzIXKA0K0dleo6gZ9MsTVqXZ94R8d4ORw==",
+    "tarball": "https://registry.npmjs.org/@angular/platform-server/-/platform-server-14.2.8.tgz"
+  },
+  "directories": {},
+  "ident": "@angular/platform-server",
+  "key": "@angular/platform-server/14.2.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@angular/",
+  "scope": "angular",
+  "bname": "platform-server",
+  "fetchInfo": {
+    "narHash": "sha256-Dzda5DYCVeWawO0gQSGG+bsImVddohiRPhfT/1BSUvI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-server/-/platform-server-14.2.8.tgz"
+  }
+}

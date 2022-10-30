@@ -1,0 +1,77 @@
+{
+  "name": "@csstools/postcss-is-pseudo-class",
+  "description": "A pseudo-class for matching elements in a selector list",
+  "version": "2.0.7",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "@csstools/selector-specificity": "^2.0.0",
+    "postcss-selector-parser": "^6.0.10"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2"
+  },
+  "devDependencies": {
+    "puppeteer": "^15.1.1"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "stryker": "stryker run --logLevel error",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:browser": "node ./test/_browser.mjs",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-is-pseudo-class"
+  },
+  "csstools": {
+    "exportName": "postcssIsPseudoClass",
+    "humanReadableName": "PostCSS Is Pseudo"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "cc4034504d92faec8c4b847c2d815a6a80074c16",
+  "_id": "@csstools/postcss-is-pseudo-class@2.0.7",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-7JPeVVZHd+jxYdULl87lvjgvWldYu+Bc62s9vD/ED6/QTGjy0jy0US/f6BG53sVMTBJ1lzKZFpYmofBN9eaRiA==",
+    "tarball": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.7.tgz"
+  },
+  "directories": {},
+  "ident": "@csstools/postcss-is-pseudo-class",
+  "key": "@csstools/postcss-is-pseudo-class/2.0.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@csstools/",
+  "scope": "csstools",
+  "bname": "postcss-is-pseudo-class",
+  "fetchInfo": {
+    "narHash": "sha256-A3cWHjSQvHu/NsfDXw12UAKO0841fIe8lA4x/y5RG3c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.7.tgz"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": "@pm2/js-api",
+  "version": "0.6.7",
+  "description": "PM2.io API Client for Javascript",
+  "main": "index.js",
+  "unpkg": "dist/keymetrics.es5.min.js",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "scripts": {
+    "test": "mocha test/*",
+    "build": "mkdir -p dist; browserify -s Keymetrics -r ./ > ./dist/keymetrics.es5.js",
+    "dist": "mkdir -p dist; browserify -s Keymetrics -r ./ | uglifyjs -c warnings=false -m > ./dist/keymetrics.es5.min.js",
+    "doc": "jsdoc -r ./src --readme ./README.md -d doc -t ./node_modules/minami",
+    "clean": "rm dist/*",
+    "prepare": "npm run build && npm run dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keymetrics/km.js.git"
+  },
+  "license": "Apache-2",
+  "dependencies": {
+    "async": "^2.6.3",
+    "axios": "^0.21.0",
+    "debug": "~4.3.1",
+    "eventemitter2": "^6.3.1",
+    "ws": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babelify": "10.0.0",
+    "browserify": "^17.0.0",
+    "jsdoc": "^3.4.2",
+    "minami": "^1.1.1",
+    "mocha": "^7.0.0",
+    "should": "*",
+    "uglify-es": "~3.3.9"
+  },
+  "browserify": {
+    "debug": true,
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            [
+              "@babel/preset-env",
+              {
+                "debug": false,
+                "forceAllTransforms": true
+              }
+            ]
+          ],
+          "sourceMaps": true
+        }
+      ]
+    ]
+  },
+  "browser": {
+    "./src/auth_strategies/embed_strategy.js": false,
+    "ws": false
+  },
+  "gitHead": "0345081c4da76c315d4a22dd9d2f94e8567e22f1",
+  "_id": "@pm2/js-api@0.6.7",
+  "_nodeVersion": "12.18.3",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-jiJUhbdsK+5C4zhPZNnyA3wRI01dEc6a2GhcQ9qI38DyIk+S+C8iC3fGjcjUbt/viLYKPjlAaE+hcT2/JMQPXw==",
+    "tarball": "https://registry.npmjs.org/@pm2/js-api/-/js-api-0.6.7.tgz"
+  },
+  "directories": {},
+  "ident": "@pm2/js-api",
+  "key": "@pm2/js-api/0.6.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@pm2/",
+  "scope": "pm2",
+  "bname": "js-api",
+  "fetchInfo": {
+    "narHash": "sha256-spfdYyT7PWAogPpwUVgKLqSll+48RHexw8OD4/qt4jU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@pm2/js-api/-/js-api-0.6.7.tgz"
+  }
+}

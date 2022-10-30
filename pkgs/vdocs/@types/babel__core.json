@@ -1,0 +1,42 @@
+{
+  "name": "@types/babel__core",
+  "version": "7.1.19",
+  "description": "TypeScript definitions for @babel/core",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/babel__core"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@babel/parser": "^7.1.0",
+    "@babel/types": "^7.0.0",
+    "@types/babel__generator": "*",
+    "@types/babel__template": "*",
+    "@types/babel__traverse": "*"
+  },
+  "typesPublisherContentHash": "5358ce595fd2768093c1ef80a9b4e731532c9c96f303bea08913d5e19a166a90",
+  "typeScriptVersion": "3.9",
+  "_id": "@types/babel__core@7.1.19",
+  "dist": {
+    "integrity": "sha512-WEOTgRsbYkvA/KCsDwVEGkd7WAr1e3g31VHQ8zy5gul/V1qKullU/BU5I68X5v7V3GnB9eotmom4v5a5gjxorw==",
+    "tarball": "https://registry.npmjs.org/@types/babel__core/-/babel__core-7.1.19.tgz"
+  },
+  "directories": {},
+  "ident": "@types/babel__core",
+  "key": "@types/babel__core/7.1.19",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "babel__core",
+  "fetchInfo": {
+    "narHash": "sha256-ktYXLF0HO3tsFuJ8j1gawgRjCjVM3qEHNcRQqdwphZI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/babel__core/-/babel__core-7.1.19.tgz"
+  }
+}

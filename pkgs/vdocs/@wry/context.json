@@ -1,0 +1,50 @@
+{
+  "name": "@wry/context",
+  "version": "0.7.0",
+  "description": "Manage contextual information needed by (a)synchronous tasks without explicitly passing objects around",
+  "license": "MIT",
+  "main": "lib/context.js",
+  "module": "lib/context.esm.js",
+  "types": "lib/context.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamn/wryware.git"
+  },
+  "scripts": {
+    "clean": "../../node_modules/.bin/rimraf lib",
+    "tsc": "../../node_modules/.bin/tsc",
+    "rollup": "../../node_modules/.bin/rollup -c",
+    "build": "npm run clean && npm run tsc && npm run rollup",
+    "mocha": "../../scripts/test.sh lib/tests.js",
+    "prepare": "npm run build",
+    "test": "npm run build && npm run mocha"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "gitHead": "4cb5c26fead3594a6b17cf9d67968cfa8d11e045",
+  "_id": "@wry/context@0.7.0",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "lerna/5.4.1/node@v18.7.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-LcDAiYWRtwAoSOArfk7cuYvFXytxfVrdX7yxoUmK7pPITLk5jYh2F8knCwS7LjgYL8u1eidPlKKV6Ikqq0ODqQ==",
+    "tarball": "https://registry.npmjs.org/@wry/context/-/context-0.7.0.tgz"
+  },
+  "directories": {},
+  "ident": "@wry/context",
+  "key": "@wry/context/0.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@wry/",
+  "scope": "wry",
+  "bname": "context",
+  "fetchInfo": {
+    "narHash": "sha256-0MRyR+ncWMqI85vS1fwVn3ADh2xQKZWZxZ+4QBJCvdA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@wry/context/-/context-0.7.0.tgz"
+  }
+}

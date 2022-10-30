@@ -1,0 +1,42 @@
+{
+  "name": "@apollo/react-components",
+  "description": "React Apollo Query, Mutation and Subscription components.",
+  "version": "4.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollographql/react-apollo.git"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "clean": ""
+  },
+  "dependencies": {
+    "@apollo/client": "latest"
+  },
+  "gitHead": "9eab63a3995b83c947751ccbdae2e68955f4e06c",
+  "_id": "@apollo/react-components@4.0.0",
+  "_nodeVersion": "12.18.0",
+  "_npmVersion": "lerna/3.22.0/node@v12.18.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-JI0qnvROVC8bPbtPVzHKNHkDhohv8f8a8DNGjyI9seLeB2V0NMT3c1qEUs+zsu0W+SdDdRaUKE3DjsEuxj92Ew==",
+    "tarball": "https://registry.npmjs.org/@apollo/react-components/-/react-components-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@apollo/react-components",
+  "key": "@apollo/react-components/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@apollo/",
+  "scope": "apollo",
+  "bname": "react-components",
+  "fetchInfo": {
+    "narHash": "sha256-HjNRyojT4qu4nXqM0k+bpWfApPGi5qC1J4WTW7NTJwI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apollo/react-components/-/react-components-4.0.0.tgz"
+  }
+}

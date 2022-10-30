@@ -1,0 +1,42 @@
+{
+  "name": "@formatjs/fast-memoize",
+  "version": "1.2.6",
+  "description": "fork of fast-memoize and support esm",
+  "main": "index.js",
+  "module": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/formatjs/formatjs.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "2.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "_id": "@formatjs/fast-memoize@1.2.6",
+  "_integrity": "sha512-9CWZ3+wCkClKHX+i5j+NyoBVqGf0pIskTo6Xl6ihGokYM2yqSSS68JIgeo+99UIHc+7vi9L3/SDSz/dWI9SNlA==",
+  "_resolved": "/private/var/folders/7r/h76yx7tx2dg03b2t1cgk89380000gq/T/25c99d3ba138f9d3a08118a2ccb7d722/formatjs-fast-memoize-1.2.6.tgz",
+  "_from": "file:formatjs-fast-memoize-1.2.6.tgz",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-9CWZ3+wCkClKHX+i5j+NyoBVqGf0pIskTo6Xl6ihGokYM2yqSSS68JIgeo+99UIHc+7vi9L3/SDSz/dWI9SNlA==",
+    "tarball": "https://registry.npmjs.org/@formatjs/fast-memoize/-/fast-memoize-1.2.6.tgz"
+  },
+  "directories": {},
+  "ident": "@formatjs/fast-memoize",
+  "key": "@formatjs/fast-memoize/1.2.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@formatjs/",
+  "scope": "formatjs",
+  "bname": "fast-memoize",
+  "fetchInfo": {
+    "narHash": "sha256-jb+eRUf61TOoR74ZRyfNEGuxp3eIS5bEHxxYlWxU2EE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@formatjs/fast-memoize/-/fast-memoize-1.2.6.tgz"
+  }
+}

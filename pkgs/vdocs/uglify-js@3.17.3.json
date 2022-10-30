@@ -1,0 +1,46 @@
+{
+  "name": "uglify-js",
+  "description": "JavaScript parser, mangler/compressor and beautifier toolkit",
+  "license": "BSD-2-Clause",
+  "version": "3.17.3",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishoo/UglifyJS.git"
+  },
+  "main": "tools/node.js",
+  "bin": {
+    "uglifyjs": "bin/uglifyjs"
+  },
+  "devDependencies": {
+    "acorn": "~8.7.1",
+    "semver": "~6.3.0"
+  },
+  "scripts": {
+    "test": "node test/compress.js && node test/mocha.js"
+  },
+  "gitHead": "4a1da492ddda33dd2297fedd1684adba4fdecf85",
+  "_id": "uglify-js@3.17.3",
+  "_nodeVersion": "18.8.0",
+  "_npmVersion": "8.18.0",
+  "dist": {
+    "integrity": "sha512-JmMFDME3iufZnBpyKL+uS78LRiC+mK55zWfM5f/pWBJfpOttXAqYfdDGRukYhJuyRinvPVAtUhvy7rlDybNtFg==",
+    "tarball": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.17.3.tgz"
+  },
+  "directories": {},
+  "ident": "uglify-js",
+  "key": "uglify-js/3.17.3",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "uglify-js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uwQ0rDzHIAZDjxj/QCL351S8Uz8TLuVUwyZQGLJWEq8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.17.3.tgz"
+  }
+}

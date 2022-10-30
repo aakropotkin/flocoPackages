@@ -1,0 +1,40 @@
+{
+  "name": "@protobufjs/base64",
+  "description": "A minimal base64 implementation for number arrays.",
+  "version": "1.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcodeIO/protobuf.js.git"
+  },
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "tape tests/*.js",
+    "coverage": "istanbul cover node_modules/tape/bin/tape tests/*.js"
+  },
+  "_id": "@protobufjs/base64@1.1.2",
+  "_npmVersion": "5.0.1",
+  "_nodeVersion": "8.0.0",
+  "dist": {
+    "integrity": "sha512-AZkcAA5vnN/v4PDqKyMR5lx7hZttPDgClv83E//FMNhR2TMcLUhfRUBHCmSl0oi9zMgDDqRUJkSxO3wm85+XLg==",
+    "tarball": "https://registry.npmjs.org/@protobufjs/base64/-/base64-1.1.2.tgz"
+  },
+  "ident": "@protobufjs/base64",
+  "key": "@protobufjs/base64/1.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@protobufjs/",
+  "scope": "protobufjs",
+  "bname": "base64",
+  "fetchInfo": {
+    "narHash": "sha256-+VFd2vbUdLYdvVN301Hsa5hbulqJUopZw4FO3OObRnA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/base64/-/base64-1.1.2.tgz"
+  }
+}

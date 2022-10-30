@@ -1,0 +1,42 @@
+{
+  "name": "@babel/helper-simple-access",
+  "version": "7.19.4",
+  "description": "Babel helper for ensuring that access to a given value is performed through simple accesses",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-simple-access"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "@babel/types": "^7.19.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/traverse": "^7.19.4"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs",
+  "_id": "@babel/helper-simple-access@7.19.4",
+  "dist": {
+    "integrity": "sha512-f9Xq6WqBFqaDfbCzn2w85hwklswz5qsKlh7f08w4Y9yhJHpnNC0QemtSkK5YyOY8kPGvyiwdzZksGUhnGdaUIg==",
+    "tarball": "https://registry.npmjs.org/@babel/helper-simple-access/-/helper-simple-access-7.19.4.tgz"
+  },
+  "directories": {},
+  "ident": "@babel/helper-simple-access",
+  "key": "@babel/helper-simple-access/7.19.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@babel/",
+  "scope": "babel",
+  "bname": "helper-simple-access",
+  "fetchInfo": {
+    "narHash": "sha256-AcuN7r51ZPaahFdSywnguQ2UUopfX3lJ+1v6Ti9ccuI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/helper-simple-access/-/helper-simple-access-7.19.4.tgz"
+  }
+}

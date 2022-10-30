@@ -1,0 +1,38 @@
+{
+  "name": "@types/http-proxy",
+  "version": "1.17.9",
+  "description": "TypeScript definitions for node-http-proxy",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/http-proxy"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "f9643f858f88cf625687959add278923b6bfe0ed59db1b54fd42996b2a708e7a",
+  "typeScriptVersion": "3.9",
+  "_id": "@types/http-proxy@1.17.9",
+  "dist": {
+    "integrity": "sha512-QsbSjA/fSk7xB+UXlCT3wHBy5ai9wOcNDWwZAtud+jXhwOM3l+EYZh8Lng4+/6n8uar0J7xILzqftJdJ/Wdfkw==",
+    "tarball": "https://registry.npmjs.org/@types/http-proxy/-/http-proxy-1.17.9.tgz"
+  },
+  "directories": {},
+  "ident": "@types/http-proxy",
+  "key": "@types/http-proxy/1.17.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "http-proxy",
+  "fetchInfo": {
+    "narHash": "sha256-Oenv89opYF0+Dy98sS4nRQ+OjgwaFbdNuuHYjY2u4vc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/http-proxy/-/http-proxy-1.17.9.tgz"
+  }
+}

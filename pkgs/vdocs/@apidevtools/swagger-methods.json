@@ -1,0 +1,55 @@
+{
+  "name": "@apidevtools/swagger-methods",
+  "version": "3.0.2",
+  "description": "HTTP methods that are supported by Swagger 2.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "clean": "shx rm -rf .nyc_output coverage",
+    "lint": "eslint lib test",
+    "test": "mocha && npm run lint",
+    "coverage": "nyc node_modules/mocha/bin/mocha",
+    "upgrade": "npm-check -u && npm audit fix",
+    "bump": "bump --tag --push --all",
+    "release": "npm run upgrade && npm run clean && npm test && npm run bump"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APIDevTools/swagger-methods.git"
+  },
+  "devDependencies": {
+    "@jsdevtools/eslint-config": "^1.0.4",
+    "@jsdevtools/version-bump-prompt": "^6.0.6",
+    "chai": "^4.2.0",
+    "eslint": "^7.5.0",
+    "methods": "^1.1.2",
+    "mocha": "^8.0.1",
+    "npm-check": "^5.9.0",
+    "nyc": "^15.1.0",
+    "shx": "^0.3.2",
+    "swagger-schema-official": "2.0.0-bab6bed"
+  },
+  "dependencies": {},
+  "gitHead": "0618494d842f2fb35de03158ed0950e4fdfc2acd",
+  "_id": "@apidevtools/swagger-methods@3.0.2",
+  "_nodeVersion": "10.21.0",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-QAkD5kK2b1WfjDS/UQn/qQkbwF31uqRjPTrsCs5ZG9BQGAkjwvqGFjjPqAuzac/IYzpPtRzjCP1WrTuAIjMrXg==",
+    "tarball": "https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-3.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "@apidevtools/swagger-methods",
+  "key": "@apidevtools/swagger-methods/3.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@apidevtools/",
+  "scope": "apidevtools",
+  "bname": "swagger-methods",
+  "fetchInfo": {
+    "narHash": "sha256-VA52uJlATFGcKlcdKf+guS9KcsGj8xX9xS/UMnYbwnE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-3.0.2.tgz"
+  }
+}

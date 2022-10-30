@@ -1,0 +1,50 @@
+{
+  "name": "@react-native-community/cli-server-api",
+  "version": "9.2.1",
+  "license": "MIT",
+  "main": "build/index.js",
+  "dependencies": {
+    "@react-native-community/cli-debugger-ui": "^9.0.0",
+    "@react-native-community/cli-tools": "^9.2.1",
+    "compression": "^1.7.1",
+    "connect": "^3.6.5",
+    "errorhandler": "^1.5.0",
+    "nocache": "^3.0.1",
+    "pretty-format": "^26.6.2",
+    "serve-static": "^1.13.1",
+    "ws": "^7.5.1"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.0.1",
+    "@types/connect": "^3.4.33",
+    "@types/errorhandler": "^0.0.32",
+    "@types/ws": "^7.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-community/cli.git",
+    "directory": "packages/cli-server-api"
+  },
+  "gitHead": "0e63e750a235062cd9bc43ed6a4a2beb8f14385a",
+  "_id": "@react-native-community/cli-server-api@9.2.1",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "lerna/4.0.0/node@v16.14.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-EI+9MUxEbWBQhWw2PkhejXfkcRqPl+58+whlXJvKHiiUd7oVbewFs0uLW0yZffUutt4FGx6Uh88JWEgwOzAdkw==",
+    "tarball": "https://registry.npmjs.org/@react-native-community/cli-server-api/-/cli-server-api-9.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "@react-native-community/cli-server-api",
+  "key": "@react-native-community/cli-server-api/9.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@react-native-community/",
+  "scope": "react-native-community",
+  "bname": "cli-server-api",
+  "fetchInfo": {
+    "narHash": "sha256-y30LaziHFlQBJrnODKCRhY+lPGv58KbfVWh9kkFNRgM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-server-api/-/cli-server-api-9.2.1.tgz"
+  }
+}

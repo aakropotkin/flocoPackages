@@ -1,0 +1,48 @@
+{
+  "name": "@vue/reactivity",
+  "version": "3.2.41",
+  "description": "@vue/reactivity",
+  "main": "index.js",
+  "module": "dist/reactivity.esm-bundler.js",
+  "types": "dist/reactivity.d.ts",
+  "unpkg": "dist/reactivity.global.js",
+  "jsdelivr": "dist/reactivity.global.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/reactivity"
+  },
+  "buildOptions": {
+    "name": "VueReactivity",
+    "formats": [
+      "esm-bundler",
+      "esm-browser",
+      "cjs",
+      "global"
+    ]
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@vue/shared": "3.2.41"
+  },
+  "_id": "@vue/reactivity@3.2.41",
+  "dist": {
+    "integrity": "sha512-9JvCnlj8uc5xRiQGZ28MKGjuCoPhhTwcoAdv3o31+cfGgonwdPNuvqAXLhlzu4zwqavFEG5tvaoINQEfxz+l6g==",
+    "tarball": "https://registry.npmjs.org/@vue/reactivity/-/reactivity-3.2.41.tgz"
+  },
+  "directories": {},
+  "ident": "@vue/reactivity",
+  "key": "@vue/reactivity/3.2.41",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@vue/",
+  "scope": "vue",
+  "bname": "reactivity",
+  "fetchInfo": {
+    "narHash": "sha256-mH6SHX84i83Yz4AOlzbZepp56n39LyrXT+zUMrKcZU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@vue/reactivity/-/reactivity-3.2.41.tgz"
+  }
+}

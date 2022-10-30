@@ -1,0 +1,46 @@
+{
+  "name": "@babel/plugin-proposal-json-strings",
+  "version": "7.18.6",
+  "description": "Escape U+2028 LINE SEPARATOR and U+2029 PARAGRAPH SEPARATOR in JS strings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-proposal-json-strings"
+  },
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.18.6",
+    "@babel/plugin-syntax-json-strings": "^7.8.3"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/helper-plugin-test-runner": "^7.18.6"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs",
+  "_id": "@babel/plugin-proposal-json-strings@7.18.6",
+  "dist": {
+    "integrity": "sha512-lr1peyn9kOdbYc0xr0OdHTZ5FMqS6Di+H0Fz2I/JwMzGmzJETNeOFq2pBySw6X/KFL5EWDjlJuMsUGRFb8fQgQ==",
+    "tarball": "https://registry.npmjs.org/@babel/plugin-proposal-json-strings/-/plugin-proposal-json-strings-7.18.6.tgz"
+  },
+  "directories": {},
+  "ident": "@babel/plugin-proposal-json-strings",
+  "key": "@babel/plugin-proposal-json-strings/7.18.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@babel/",
+  "scope": "babel",
+  "bname": "plugin-proposal-json-strings",
+  "fetchInfo": {
+    "narHash": "sha256-l+OFaiC7b7UVb6TaPoMlXaxmXA94qiKQZtjf4XWbfDc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-proposal-json-strings/-/plugin-proposal-json-strings-7.18.6.tgz"
+  }
+}

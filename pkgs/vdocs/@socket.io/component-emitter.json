@@ -1,0 +1,47 @@
+{
+  "name": "@socket.io/component-emitter",
+  "description": "Event emitter",
+  "version": "3.1.0",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "emitter/index.js": "index.js"
+    }
+  },
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socketio/emitter.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "gitHead": "ab6a6d4db8302afc2c70ee38d72e4e292bbef3d4",
+  "_id": "@socket.io/component-emitter@3.1.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-+9jVqKhRSpsc591z5vX+X5Yyw+he/HCB4iQ/RYxw35CEPaY1gnsNE43nf9n9AaYjAQrTiI/mOwKUKdUs9vf7Xg==",
+    "tarball": "https://registry.npmjs.org/@socket.io/component-emitter/-/component-emitter-3.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "@socket.io/component-emitter",
+  "key": "@socket.io/component-emitter/3.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@socket.io/",
+  "scope": "socket.io",
+  "bname": "component-emitter",
+  "fetchInfo": {
+    "narHash": "sha256-xbGMijH5hBLDP8+cCpyuN2zJrN/Z8c/qTHve5n+Z6EA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@socket.io/component-emitter/-/component-emitter-3.1.0.tgz"
+  }
+}

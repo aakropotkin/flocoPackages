@@ -1,0 +1,50 @@
+{
+  "name": "@wry/trie",
+  "version": "0.3.2",
+  "description": "https://en.wikipedia.org/wiki/Trie",
+  "license": "MIT",
+  "main": "lib/trie.js",
+  "module": "lib/trie.esm.js",
+  "types": "lib/trie.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamn/wryware.git"
+  },
+  "scripts": {
+    "clean": "../../node_modules/.bin/rimraf lib",
+    "tsc": "../../node_modules/.bin/tsc",
+    "rollup": "../../node_modules/.bin/rollup -c",
+    "build": "npm run clean && npm run tsc && npm run rollup",
+    "mocha": "../../scripts/test.sh lib/tests.js",
+    "prepare": "npm run build",
+    "test": "npm run build && npm run mocha"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "gitHead": "4cb5c26fead3594a6b17cf9d67968cfa8d11e045",
+  "_id": "@wry/trie@0.3.2",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "lerna/5.4.1/node@v18.7.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-yRTyhWSls2OY/pYLfwff867r8ekooZ4UI+/gxot5Wj8EFwSf2rG+n+Mo/6LoLQm1TKA4GRj2+LCpbfS937dClQ==",
+    "tarball": "https://registry.npmjs.org/@wry/trie/-/trie-0.3.2.tgz"
+  },
+  "directories": {},
+  "ident": "@wry/trie",
+  "key": "@wry/trie/0.3.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@wry/",
+  "scope": "wry",
+  "bname": "trie",
+  "fetchInfo": {
+    "narHash": "sha256-LlfAAvEj8pFhtOBcLtZeTBd1bcoiI2dPXIZ2Qn4TJz0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@wry/trie/-/trie-0.3.2.tgz"
+  }
+}

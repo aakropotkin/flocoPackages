@@ -1,0 +1,44 @@
+{
+  "name": "@apollo/react-ssr",
+  "description": "React Apollo server-side rendering utilities",
+  "version": "4.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "react-native": {
+    "react-dom/server": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollographql/react-apollo.git"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "clean": ""
+  },
+  "dependencies": {
+    "@apollo/client": "latest"
+  },
+  "gitHead": "9eab63a3995b83c947751ccbdae2e68955f4e06c",
+  "_id": "@apollo/react-ssr@4.0.0",
+  "_nodeVersion": "12.18.0",
+  "_npmVersion": "lerna/3.22.0/node@v12.18.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-IW+x5M6eTTMbKwCfgox+BwfnZVhKTNiAjAHVdeOIc5jHIuG4oyB/gWcEonHRK6RKb+zLV1rOqpdwnJc6wchxLA==",
+    "tarball": "https://registry.npmjs.org/@apollo/react-ssr/-/react-ssr-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@apollo/react-ssr",
+  "key": "@apollo/react-ssr/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@apollo/",
+  "scope": "apollo",
+  "bname": "react-ssr",
+  "fetchInfo": {
+    "narHash": "sha256-EgRqzb/mETjR6UNlAKQ+f/IuoA5JHYpg+DR5WLPhlxo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apollo/react-ssr/-/react-ssr-4.0.0.tgz"
+  }
+}

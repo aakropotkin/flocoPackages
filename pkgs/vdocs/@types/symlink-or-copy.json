@@ -1,0 +1,35 @@
+{
+  "name": "@types/symlink-or-copy",
+  "version": "1.2.0",
+  "description": "TypeScript definitions for symlink-or-copy",
+  "license": "MIT",
+  "main": "",
+  "types": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "2b89ad3393e3d8e79e51973ab8442f05a5ecb33995127d005da3fd0425a341da",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/symlink-or-copy@1.2.0",
+  "dist": {
+    "integrity": "sha512-Lja2xYuuf2B3knEsga8ShbOdsfNOtzT73GyJmZyY7eGl2+ajOqrs8yM5ze0fsSoYwvA6bw7/Qr7OZ7PEEmYwWg==",
+    "tarball": "https://registry.npmjs.org/@types/symlink-or-copy/-/symlink-or-copy-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "@types/symlink-or-copy",
+  "key": "@types/symlink-or-copy/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "symlink-or-copy",
+  "fetchInfo": {
+    "narHash": "sha256-aDNgTzCWk7LIS5L/zw2hSW3/29dMRo2ZF/ccZ7Rlt10=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/symlink-or-copy/-/symlink-or-copy-1.2.0.tgz"
+  }
+}

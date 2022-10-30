@@ -1,0 +1,110 @@
+{
+  "name": "@antv/coord",
+  "version": "0.4.4",
+  "description": "Toolkit for mapping elements of sets into geometric objects.",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "browser": "dist/coordinate.min.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "clean": "rimraf lib esm dist",
+    "lint-staged": "lint-staged",
+    "size": "limit-size",
+    "lint": "eslint ./src ./__tests__ && prettier ./src ./__tests__ --check ",
+    "fix": "eslint ./src ./__tests__ --fix && prettier ./src ./__tests__ --write ",
+    "test": "jest",
+    "build:umd": "rimraf ./dist && rollup -c && npm run size",
+    "build:cjs": "rimraf ./lib && tsc --module commonjs --outDir lib",
+    "build:esm": "rimraf ./esm && tsc --module ESNext --outDir esm",
+    "build": "run-p build:*",
+    "ci": "run-s lint test build",
+    "prepublishOnly": "npm run ci",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "@antv/matrix-util": "^3.0.4",
+    "@antv/scale": "^0.4.0",
+    "@antv/util": "^2.0.13"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@rollup/plugin-commonjs": "^20.0.0",
+    "@types/jest": "^26.0.20",
+    "@typescript-eslint/eslint-plugin": "^4.18.0",
+    "@typescript-eslint/parser": "^4.18.0",
+    "eslint": "^7.22.0",
+    "eslint-plugin-import": "^2.22.1",
+    "husky": "^6.0.0",
+    "jest": "^26.6.3",
+    "limit-size": "^0.1.4",
+    "lint-staged": "^10.5.4",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.2.1",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.39.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "rollup-plugin-uglify": "^6.0.4",
+    "ts-jest": "^26.5.1",
+    "typescript": "^4.1.5"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "collectCoverage": true,
+    "testRegex": "(/__tests__/.*\\.(test|spec))\\.ts$",
+    "collectCoverageFrom": [
+      "src/**/*.ts"
+    ]
+  },
+  "lint-staged": {
+    "*.{ts,tsx}": [
+      "eslint --fix",
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "limit-size": [
+    {
+      "path": "dist/coordinate.min.js",
+      "limit": "10 Kb",
+      "gzip": true
+    },
+    {
+      "path": "dist/coordinate.min.js",
+      "limit": "25 Kb"
+    }
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antvis/coord.git"
+  },
+  "gitHead": "b9ac34e634a0c10a2a6c98f3f53f766a3d95ba76",
+  "_id": "@antv/coord@0.4.4",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-KE9TPhPUjLfxghPdBrinKkmJh+3zmj8wQRNNMgBczNOaQMUrJbBvGhANkU9qups7zw4wkrSsJa5udFoWyT1G4Q==",
+    "tarball": "https://registry.npmjs.org/@antv/coord/-/coord-0.4.4.tgz"
+  },
+  "directories": {},
+  "ident": "@antv/coord",
+  "key": "@antv/coord/0.4.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@antv/",
+  "scope": "antv",
+  "bname": "coord",
+  "fetchInfo": {
+    "narHash": "sha256-enXGy514XO0JjBXJo8rbqsy/QLjH+66lQcd3K/tMuv4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/coord/-/coord-0.4.4.tgz"
+  }
+}

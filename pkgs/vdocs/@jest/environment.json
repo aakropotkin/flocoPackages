@@ -1,0 +1,50 @@
+{
+  "name": "@jest/environment",
+  "version": "29.2.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/jest-environment"
+  },
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@jest/fake-timers": "^29.2.2",
+    "@jest/types": "^29.2.1",
+    "@types/node": "*",
+    "jest-mock": "^29.2.2"
+  },
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "gitHead": "0a8edbe0ac434394a16cc173a03ff54a9cc50e41",
+  "_id": "@jest/environment@29.2.2",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-OWn+Vhu0I1yxuGBJEFFekMYc8aGBGrY4rt47SOh/IFaI+D7ZHCk7pKRiSoZ2/Ml7b0Ony3ydmEHRx/tEOC7H1A==",
+    "tarball": "https://registry.npmjs.org/@jest/environment/-/environment-29.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "@jest/environment",
+  "key": "@jest/environment/29.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jest/",
+  "scope": "jest",
+  "bname": "environment",
+  "fetchInfo": {
+    "narHash": "sha256-+4/NPW7EGvsMNHGH6RQevsC9hbNAkNJdBr+bR4k0Ai4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jest/environment/-/environment-29.2.2.tgz"
+  }
+}

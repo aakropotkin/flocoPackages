@@ -1,0 +1,48 @@
+{
+  "name": "@serialport/stream",
+  "version": "10.3.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --build tsconfig-build.json"
+  },
+  "dependencies": {
+    "@serialport/bindings-interface": "1.2.1",
+    "debug": "^4.3.2"
+  },
+  "devDependencies": {
+    "@serialport/binding-mock": "^10.2.2",
+    "typescript": "^4.5.5"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/serialport/node-serialport.git"
+  },
+  "gitHead": "ceba41c8f89d911de210f2513aaae85fff3ab457",
+  "description": "The serialport stream interface. This package requires bindings to work.",
+  "_id": "@serialport/stream@10.3.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "lerna/4.0.0/node@v16.13.1+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-7sooi5fHogYNVEJwxVdg872xO6TuMgQd2E9iRmv+o8pk/1dbBnPkmH6Ka3st1mVE+0KnIJqVlgei+ncSsqXIGw==",
+    "tarball": "https://registry.npmjs.org/@serialport/stream/-/stream-10.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "@serialport/stream",
+  "key": "@serialport/stream/10.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@serialport/",
+  "scope": "serialport",
+  "bname": "stream",
+  "fetchInfo": {
+    "narHash": "sha256-RRrv2x8Rsmq/ic+c92TY3au20dH+q9Xd73zLyruJ4rg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/stream/-/stream-10.3.0.tgz"
+  }
+}

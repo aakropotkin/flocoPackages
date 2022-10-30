@@ -1,0 +1,50 @@
+{
+  "name": "@jest/test-result",
+  "version": "29.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/jest-test-result"
+  },
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@jest/console": "^29.2.1",
+    "@jest/types": "^29.2.1",
+    "@types/istanbul-lib-coverage": "^2.0.0",
+    "collect-v8-coverage": "^1.0.0"
+  },
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "gitHead": "4551c0fdd4d25b7206824957c7bcc6baf61e63bf",
+  "_id": "@jest/test-result@29.2.1",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-lS4+H+VkhbX6z64tZP7PAUwPqhwj3kbuEHcaLuaBuB+riyaX7oa1txe0tXgrFj5hRWvZKvqO7LZDlNWeJ7VTPA==",
+    "tarball": "https://registry.npmjs.org/@jest/test-result/-/test-result-29.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "@jest/test-result",
+  "key": "@jest/test-result/29.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jest/",
+  "scope": "jest",
+  "bname": "test-result",
+  "fetchInfo": {
+    "narHash": "sha256-8qwtYyKMMHpjo/riiJw8XYkON1hQqIdCYjb2gaJXAEs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jest/test-result/-/test-result-29.2.1.tgz"
+  }
+}

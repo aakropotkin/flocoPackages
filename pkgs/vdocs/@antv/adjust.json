@@ -1,0 +1,97 @@
+{
+  "name": "@antv/adjust",
+  "version": "0.2.5",
+  "description": "The adjust module for G2, F2.",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "clean": "rimraf lib esm",
+    "lint": "lint-staged",
+    "test": "jest",
+    "test-live": "DEBUG_MODE=1 jest",
+    "coverage": "jest --coverage",
+    "lib:cjs": "tsc -p tsconfig.json --target ES5 --module commonjs --outDir lib",
+    "lib:esm": "tsc -p tsconfig.json --target ES5 --module ESNext --outDir esm",
+    "lib": "run-p lib:*",
+    "build": "run-s clean lib",
+    "ci": "run-s build coverage",
+    "coveralls": "cat ./coverage/lcov.info | coveralls"
+  },
+  "dependencies": {
+    "@antv/util": "~2.0.0",
+    "tslib": "^1.10.0"
+  },
+  "devDependencies": {
+    "@antv/scale": "~0.3.0",
+    "@types/jest": "^24.0.18",
+    "husky": "^3.0.4",
+    "jest": "^24.9.0",
+    "jest-electron": "^0.1.7",
+    "jest-extended": "^0.11.2",
+    "lint-staged": "^9.2.3",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^1.18.2",
+    "rimraf": "^3.0.0",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.18.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.5.3",
+    "coveralls": "^3.0.6"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "run-s lint build test"
+    }
+  },
+  "lint-staged": {
+    "*.{js,css,json,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.{ts}": [
+      "tslint -c tslint.json --fix",
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "jest": {
+    "runner": "jest-electron/runner",
+    "testEnvironment": "jest-electron/environment",
+    "preset": "ts-jest",
+    "collectCoverage": false,
+    "collectCoverageFrom": [
+      "src/**/*.{ts,js}",
+      "!**/node_modules/**",
+      "!**/vendor/**"
+    ],
+    "testRegex": "/tests/.*-spec\\.ts?$"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/antvis/adjust.git"
+  },
+  "license": "MIT",
+  "gitHead": "359b0530cc1c22bd321fc516f8abb20989c17d44",
+  "_id": "@antv/adjust@0.2.5",
+  "_nodeVersion": "14.17.6",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-MfWZOkD9CqXRES6MBGRNe27Q577a72EIwyMnE29wIlPliFvJfWwsrONddpGU7lilMpVKecS3WAzOoip3RfPTRQ==",
+    "tarball": "https://registry.npmjs.org/@antv/adjust/-/adjust-0.2.5.tgz"
+  },
+  "directories": {},
+  "ident": "@antv/adjust",
+  "key": "@antv/adjust/0.2.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@antv/",
+  "scope": "antv",
+  "bname": "adjust",
+  "fetchInfo": {
+    "narHash": "sha256-/Ubc8uFURLTEnT0nrMwjvTMvo6StjGcsh1xDoEVclq8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/adjust/-/adjust-0.2.5.tgz"
+  }
+}

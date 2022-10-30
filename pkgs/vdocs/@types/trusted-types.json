@@ -1,0 +1,36 @@
+{
+  "name": "@types/trusted-types",
+  "version": "2.0.2",
+  "description": "TypeScript definitions for trusted-types",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/trusted-types"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "99d8c3702ecfbc895e9827c063dcce01708c2011a667e0844c3d8a88259efece",
+  "typeScriptVersion": "3.6",
+  "_id": "@types/trusted-types@2.0.2",
+  "dist": {
+    "integrity": "sha512-F5DIZ36YVLE+PN+Zwws4kJogq47hNgX3Nx6WyDJ3kcplxyke3XIzB8uK5n/Lpm1HBsbGzd6nmGehL8cPekP+Tg==",
+    "tarball": "https://registry.npmjs.org/@types/trusted-types/-/trusted-types-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "@types/trusted-types",
+  "key": "@types/trusted-types/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "trusted-types",
+  "fetchInfo": {
+    "narHash": "sha256-Z5NXYfag4/3GeZwDl4gbYx0eP7jINwkJtdjTbnMb/ms=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/trusted-types/-/trusted-types-2.0.2.tgz"
+  }
+}

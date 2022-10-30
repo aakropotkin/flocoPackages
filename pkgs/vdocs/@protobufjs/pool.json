@@ -1,0 +1,42 @@
+{
+  "name": "@protobufjs/pool",
+  "description": "A general purpose buffer pool.",
+  "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcodeIO/protobuf.js.git"
+  },
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "tape tests/*.js",
+    "coverage": "istanbul cover node_modules/tape/bin/tape tests/*.js"
+  },
+  "_id": "@protobufjs/pool@1.1.0",
+  "_shasum": "09fd15f2d6d3abfa9b65bc366506d6ad7846ff54",
+  "_from": ".",
+  "_npmVersion": "4.0.5",
+  "_nodeVersion": "6.9.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/@protobufjs/pool/-/pool-1.1.0.tgz",
+    "integrity": "sha512-0kELaGSIDBKvcgS4zkjz1PeddatrjYcmMWOlAuAPwAeccUrPHdUqo/J6LiymHHEiJT5NrF1UVwxY14f+fy4WQw=="
+  },
+  "ident": "@protobufjs/pool",
+  "key": "@protobufjs/pool/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@protobufjs/",
+  "scope": "protobufjs",
+  "bname": "pool",
+  "fetchInfo": {
+    "narHash": "sha256-5IK74PDDH8mRthI9ZtUgRXH18jJpItuXzN0JUD+D15w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/pool/-/pool-1.1.0.tgz"
+  }
+}

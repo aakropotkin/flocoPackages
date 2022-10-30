@@ -1,0 +1,84 @@
+{
+  "name": "@sinonjs/fake-timers",
+  "description": "Fake JavaScript timers",
+  "version": "9.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinonjs/fake-timers.git"
+  },
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "lint": "eslint .",
+    "test-node": "mocha --timeout 200 test/ integration-test/ -R dot --check-leaks",
+    "test-headless": "mochify --no-detect-globals --timeout=10000",
+    "test-check-coverage": "npm run test-coverage && nyc check-coverage",
+    "test-cloud": "mochify --wd --no-detect-globals --timeout=10000",
+    "test-coverage": "nyc --all --reporter text --reporter html --reporter lcovonly npm run test-node",
+    "test": "npm run test-node && npm run test-headless",
+    "prettier:check": "prettier --check '**/*.{js,css,md}'",
+    "prettier:write": "prettier --write '**/*.{js,css,md}'",
+    "preversion": "./scripts/preversion.sh",
+    "version": "./scripts/version.sh",
+    "postversion": "./scripts/postversion.sh"
+  },
+  "lint-staged": {
+    "*.{js,css,md}": "prettier --check",
+    "*.js": "eslint"
+  },
+  "devDependencies": {
+    "@sinonjs/eslint-config": "4.0.2",
+    "@sinonjs/referee-sinon": "6.0.1",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-prettier": "3.4.1",
+    "husky": "4.2.1",
+    "jsdom": "16.5.2",
+    "lint-staged": "10.0.7",
+    "mocha": "9.2.0",
+    "mochify": "7.0.0",
+    "nyc": "14.1.1",
+    "prettier": "2.2.1"
+  },
+  "main": "./src/fake-timers-src.js",
+  "dependencies": {
+    "@sinonjs/commons": "^1.7.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
+  },
+  "nyc": {
+    "branches": 85,
+    "lines": 92,
+    "functions": 92,
+    "statements": 92,
+    "exclude": [
+      "**/*-test.js",
+      "coverage/**",
+      "types/**",
+      "fake-timers.js"
+    ]
+  },
+  "gitHead": "486125b046d2de129d223b0abb4d41999a368b46",
+  "_id": "@sinonjs/fake-timers@9.1.2",
+  "_nodeVersion": "14.17.4",
+  "_npmVersion": "6.14.14",
+  "dist": {
+    "integrity": "sha512-BPS4ynJW/o92PUR4wgriz2Ud5gpST5vz6GQfMixEDK0Z8ZCUv2M7SkBLykH56T++Xs+8ln9zTGbOvNGIe02/jw==",
+    "tarball": "https://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-9.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "@sinonjs/fake-timers",
+  "key": "@sinonjs/fake-timers/9.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@sinonjs/",
+  "scope": "sinonjs",
+  "bname": "fake-timers",
+  "fetchInfo": {
+    "narHash": "sha256-+8qsGcGe/1LHaB+YsE4pombIhEFmYCrbJ0nCdje9Z5k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-9.1.2.tgz"
+  }
+}

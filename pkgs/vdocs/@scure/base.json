@@ -1,0 +1,53 @@
+{
+  "name": "@scure/base",
+  "version": "1.1.1",
+  "description": "Secure, audited & 0-dep implementation of bech32, base64, base58, base32 & base16",
+  "main": "lib/index.js",
+  "module": "lib/esm/index.js",
+  "types": "lib/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./lib/esm/index.js",
+      "default": "./lib/index.js"
+    },
+    "./index.d.ts": "./lib/index.d.ts"
+  },
+  "scripts": {
+    "bench": "node test/benchmark/index.js",
+    "build": "tsc -d && tsc -p tsconfig.esm.json",
+    "lint": "prettier --check index.ts",
+    "test": "node test/index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmillr/scure-base.git"
+  },
+  "devDependencies": {
+    "micro-should": "0.2.0",
+    "prettier": "2.6.2",
+    "typescript": "4.7.3"
+  },
+  "gitHead": "22227b05dc0fc0bb64f3bda40128eb793f68c72c",
+  "_id": "@scure/base@1.1.1",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-ZxOhsSyxYwLJj3pLZCefNitxsj093tb2vq90mp2txoYeBqbcjDjqFhyM8eUjq/uFm6zJ+mUuqxlS2FkuSY1MTA==",
+    "tarball": "https://registry.npmjs.org/@scure/base/-/base-1.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "@scure/base",
+  "key": "@scure/base/1.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@scure/",
+  "scope": "scure",
+  "bname": "base",
+  "fetchInfo": {
+    "narHash": "sha256-XBZWDBv/MLzidcwhHssXoEUmSNPZzt7h8ld5ZagPiBA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@scure/base/-/base-1.1.1.tgz"
+  }
+}

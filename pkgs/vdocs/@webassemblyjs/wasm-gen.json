@@ -1,0 +1,44 @@
+{
+  "name": "@webassemblyjs/wasm-gen",
+  "version": "1.11.3",
+  "description": "WebAssembly binary format printer",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtuc/webassemblyjs.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@webassemblyjs/ast": "1.11.3",
+    "@webassemblyjs/helper-wasm-bytecode": "1.11.3",
+    "@webassemblyjs/ieee754": "1.11.3",
+    "@webassemblyjs/leb128": "1.11.3",
+    "@webassemblyjs/utf8": "1.11.3"
+  },
+  "gitHead": "5fd2425602b752576bbe8089c343d5d70ebc861c",
+  "_id": "@webassemblyjs/wasm-gen@1.11.3",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "lerna/5.1.6/node@v16.13.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-f7mxK8GKAP0MIeVeiCrTqcL14UQspIun5P8kqa7Pn7gzfDRwrcEg1bezKeIcwcEuZiP+i1qerRELqiRcJnWZaQ==",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/wasm-gen/-/wasm-gen-1.11.3.tgz"
+  },
+  "directories": {},
+  "ident": "@webassemblyjs/wasm-gen",
+  "key": "@webassemblyjs/wasm-gen/1.11.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@webassemblyjs/",
+  "scope": "webassemblyjs",
+  "bname": "wasm-gen",
+  "fetchInfo": {
+    "narHash": "sha256-4stJpTOlNJGhI4smzwkLFCx75bl51A8OONooul37hHw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@webassemblyjs/wasm-gen/-/wasm-gen-1.11.3.tgz"
+  }
+}

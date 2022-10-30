@@ -1,0 +1,57 @@
+{
+  "name": "@jest/types",
+  "version": "29.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/jest-types"
+  },
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@jest/schemas": "^29.0.0",
+    "@types/istanbul-lib-coverage": "^2.0.0",
+    "@types/istanbul-reports": "^3.0.0",
+    "@types/node": "*",
+    "@types/yargs": "^17.0.8",
+    "chalk": "^4.0.0"
+  },
+  "devDependencies": {
+    "@tsd/typescript": "~4.8.2",
+    "tsd-lite": "^0.6.0"
+  },
+  "gitHead": "4551c0fdd4d25b7206824957c7bcc6baf61e63bf",
+  "description": "This package contains shared types of Jest's packages.",
+  "_id": "@jest/types@29.2.1",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-O/QNDQODLnINEPAI0cl9U6zUIDXEWXt6IC1o2N2QENuos7hlGUIthlKyV4p6ki3TvXFX071blj8HUhgLGquPjw==",
+    "tarball": "https://registry.npmjs.org/@jest/types/-/types-29.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "@jest/types",
+  "key": "@jest/types/29.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jest/",
+  "scope": "jest",
+  "bname": "types",
+  "fetchInfo": {
+    "narHash": "sha256-b6iJh2Xlp9c4Q8EfOt5/xNHzhxvbFIUm7mGSqQnxqis=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jest/types/-/types-29.2.1.tgz"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "@svgr/hast-util-to-babel-ast",
+  "description": "Transform HAST to Babel AST (JSX)",
+  "version": "6.5.1",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregberge/svgr.git#main"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/types": "^7.20.0",
+    "entities": "^4.4.0"
+  },
+  "scripts": {
+    "reset": "rm -rf dist",
+    "build": "rollup -c ../../build/rollup.config.js",
+    "prepublishOnly": "npm run reset && npm run build"
+  },
+  "devDependencies": {
+    "@types/svg-parser": "^2.0.3"
+  },
+  "gitHead": "d5efedd372999692f84d30072e502b5a6b8fe734",
+  "_id": "@svgr/hast-util-to-babel-ast@6.5.1",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "lerna/6.0.1/node@v18.12.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-1hnUxxjd83EAxbL4a0JDJoD3Dao3hmjvyvyEV8PzWmLK3B9m9NPlW7GKjFyoWE8nM7HnXzPcmmSyOW8yOddSXw==",
+    "tarball": "https://registry.npmjs.org/@svgr/hast-util-to-babel-ast/-/hast-util-to-babel-ast-6.5.1.tgz"
+  },
+  "directories": {},
+  "ident": "@svgr/hast-util-to-babel-ast",
+  "key": "@svgr/hast-util-to-babel-ast/6.5.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@svgr/",
+  "scope": "svgr",
+  "bname": "hast-util-to-babel-ast",
+  "fetchInfo": {
+    "narHash": "sha256-jS55mK4tEjQSVd3nlZnjc8mjOhv5b2lMSSn7nWLKAr4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/hast-util-to-babel-ast/-/hast-util-to-babel-ast-6.5.1.tgz"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "@tediousjs/connection-string",
+  "version": "0.4.1",
+  "description": "SQL ConnectionString parser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tediousjs/connection-string.git"
+  },
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "prepare": "tsc",
+    "build": "tsc",
+    "lint": "eslint .",
+    "test": "mocha -r ts-node/register test/**/*",
+    "test:workflow": "npm run test --silent -- --forbid-only"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node10": "^1.0.8",
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^10.17.60",
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
+    "chai": "^4.2.0",
+    "eslint": "^8.14.0",
+    "mocha": "^9.2.2",
+    "ts-node": "^10.7.0",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {},
+  "gitHead": "622f3d26000bb22eeddfa69a79d8c21146508a70",
+  "_id": "@tediousjs/connection-string@0.4.1",
+  "_nodeVersion": "14.17.1",
+  "_npmVersion": "6.14.13",
+  "dist": {
+    "integrity": "sha512-gr1mFN7KMOn+VviQKcrt+z1/7ttn7s9NSMFFyg5GrJylNH6JGrDDNRm7C5vE4PNwhW6hYT67QRUO44Ns2LQijg==",
+    "tarball": "https://registry.npmjs.org/@tediousjs/connection-string/-/connection-string-0.4.1.tgz"
+  },
+  "directories": {},
+  "ident": "@tediousjs/connection-string",
+  "key": "@tediousjs/connection-string/0.4.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@tediousjs/",
+  "scope": "tediousjs",
+  "bname": "connection-string",
+  "fetchInfo": {
+    "narHash": "sha256-9N9xM8OlGxwGpZpSuy4mJh0BPPeYMK2eeTqmNr1PwFA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@tediousjs/connection-string/-/connection-string-0.4.1.tgz"
+  }
+}

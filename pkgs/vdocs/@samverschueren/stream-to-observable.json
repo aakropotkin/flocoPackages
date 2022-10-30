@@ -1,0 +1,60 @@
+{
+  "name": "@samverschueren/stream-to-observable",
+  "version": "0.3.1",
+  "description": "Convert Node Streams into ECMAScript-Observables",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamVerschueren/stream-to-observable.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && nyc --reporter=lcov --reporter=text npm run test_both",
+    "test_both": "ava --require=any-observable/register/rxjs && ava --require=any-observable/register/zen"
+  },
+  "dependencies": {
+    "any-observable": "^0.3.0"
+  },
+  "devDependencies": {
+    "array-to-events": "^1.0.0",
+    "ava": "^0.25.0",
+    "coveralls": "^3.0.0",
+    "delay": "^2.0.0",
+    "nyc": "^11.7.1",
+    "rxjs": "^5.5.10",
+    "xo": "^0.20.3",
+    "zen-observable": "^0.8.8"
+  },
+  "peerDependenciesMeta": {
+    "rxjs": {
+      "optional": true
+    },
+    "zen-observable": {
+      "optional": true
+    }
+  },
+  "gitHead": "7bcebfbb6a4bf31406c1a9614aebc9b8da7cebdf",
+  "_id": "@samverschueren/stream-to-observable@0.3.1",
+  "_nodeVersion": "12.18.3",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-c/qwwcHyafOQuVQJj0IlBjf5yYgBI7YPJ77k4fOJYesb41jio65eaJODRUmfYKhTOFBrIZ66kgvGPlNbjuoRdQ==",
+    "tarball": "https://registry.npmjs.org/@samverschueren/stream-to-observable/-/stream-to-observable-0.3.1.tgz"
+  },
+  "directories": {},
+  "ident": "@samverschueren/stream-to-observable",
+  "key": "@samverschueren/stream-to-observable/0.3.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@samverschueren/",
+  "scope": "samverschueren",
+  "bname": "stream-to-observable",
+  "fetchInfo": {
+    "narHash": "sha256-gKZAVPqlKz/0RrUoM9hCTGXHrkkcJ17sATqfxwp08F4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@samverschueren/stream-to-observable/-/stream-to-observable-0.3.1.tgz"
+  }
+}

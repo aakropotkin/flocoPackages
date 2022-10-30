@@ -1,0 +1,46 @@
+{
+  "name": "@serialport/parser-readline",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "version": "10.3.0",
+  "dependencies": {
+    "@serialport/parser-delimiter": "10.3.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build tsconfig-build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/serialport/node-serialport.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "gitHead": "ceba41c8f89d911de210f2513aaae85fff3ab457",
+  "description": "See our api docs See our api docs https://serialport.io/docs/api-parser-readline",
+  "_id": "@serialport/parser-readline@10.3.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "lerna/4.0.0/node@v16.13.1+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-ki3ATZ3/RAqnqGROBKE7k+OeZ0DZXZ53GTca4q71OU5RazbbNhTOBQLKLXD3v9QZXCMJdg4hGW/2Y0DuMUqMQg==",
+    "tarball": "https://registry.npmjs.org/@serialport/parser-readline/-/parser-readline-10.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "@serialport/parser-readline",
+  "key": "@serialport/parser-readline/10.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@serialport/",
+  "scope": "serialport",
+  "bname": "parser-readline",
+  "fetchInfo": {
+    "narHash": "sha256-5wP9H7QZM6pSkkX70v2/zxc9oU8J+zFXvLjMP5ZCIZg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-readline/-/parser-readline-10.3.0.tgz"
+  }
+}

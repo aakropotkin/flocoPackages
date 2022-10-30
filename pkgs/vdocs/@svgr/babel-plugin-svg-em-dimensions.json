@@ -1,0 +1,52 @@
+{
+  "name": "@svgr/babel-plugin-svg-em-dimensions",
+  "description": "Transform SVG to use em-based dimensions",
+  "version": "6.5.1",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregberge/svgr.git#main"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "scripts": {
+    "reset": "rm -rf dist",
+    "build": "rollup -c ../../build/rollup.config.js",
+    "prepublishOnly": "npm run reset && npm run build"
+  },
+  "gitHead": "d5efedd372999692f84d30072e502b5a6b8fe734",
+  "_id": "@svgr/babel-plugin-svg-em-dimensions@6.5.1",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "lerna/6.0.1/node@v18.12.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-gWGsiwjb4tw+ITOJ86ndY/DZZ6cuXMNE/SjcDRg+HLuCmwpcjOktwRF9WgAiycTqJD/QXqL2f8IzE2Rzh7aVXA==",
+    "tarball": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.5.1.tgz"
+  },
+  "directories": {},
+  "ident": "@svgr/babel-plugin-svg-em-dimensions",
+  "key": "@svgr/babel-plugin-svg-em-dimensions/6.5.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@svgr/",
+  "scope": "svgr",
+  "bname": "babel-plugin-svg-em-dimensions",
+  "fetchInfo": {
+    "narHash": "sha256-jX3zknuiiAEHn7LokD/hlDxg30d2Kzp0L/9TLOUBINc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.5.1.tgz"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "@angular/compiler",
+  "version": "14.2.8",
+  "description": "Angular - the compiler library",
+  "license": "MIT",
+  "engines": {
+    "node": "^14.15.0 || >=16.10.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "peerDependencies": {
+    "@angular/core": "14.2.8"
+  },
+  "peerDependenciesMeta": {
+    "@angular/core": {
+      "optional": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git",
+    "directory": "packages/compiler"
+  },
+  "ng-update": {
+    "packageGroup": [
+      "@angular/core",
+      "@angular/bazel",
+      "@angular/common",
+      "@angular/compiler",
+      "@angular/compiler-cli",
+      "@angular/animations",
+      "@angular/elements",
+      "@angular/platform-browser",
+      "@angular/platform-browser-dynamic",
+      "@angular/forms",
+      "@angular/platform-server",
+      "@angular/upgrade",
+      "@angular/router",
+      "@angular/language-service",
+      "@angular/localize",
+      "@angular/service-worker"
+    ]
+  },
+  "sideEffects": true,
+  "fesm2020": "./fesm2020/compiler.mjs",
+  "fesm2015": "./fesm2015/compiler.mjs",
+  "esm2020": "./esm2020/index.mjs",
+  "typings": "./index.d.ts",
+  "module": "./fesm2015/compiler.mjs",
+  "es2020": "./fesm2020/compiler.mjs",
+  "type": "module",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/index.mjs",
+      "es2020": "./fesm2020/compiler.mjs",
+      "es2015": "./fesm2015/compiler.mjs",
+      "node": "./fesm2015/compiler.mjs",
+      "default": "./fesm2020/compiler.mjs"
+    },
+    "./testing": {
+      "types": "./testing/index.d.ts",
+      "esm2020": "./esm2020/testing/testing.mjs",
+      "es2020": "./fesm2020/testing.mjs",
+      "es2015": "./fesm2015/testing.mjs",
+      "node": "./fesm2015/testing.mjs",
+      "default": "./fesm2020/testing.mjs"
+    }
+  },
+  "gitHead": "3309d3797eed5275938f4f91fcdbf76cb2dfee4b",
+  "_id": "@angular/compiler@14.2.8",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-lKwp3B4ZKNLgk/25Iyur8bjAwRL20auRoB4EuHrBf+928ftsjYUXTgi+0++DUjPENbpi59k6GcvMCNa6qccvIw==",
+    "tarball": "https://registry.npmjs.org/@angular/compiler/-/compiler-14.2.8.tgz"
+  },
+  "directories": {},
+  "ident": "@angular/compiler",
+  "key": "@angular/compiler/14.2.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@angular/",
+  "scope": "angular",
+  "bname": "compiler",
+  "fetchInfo": {
+    "narHash": "sha256-cdYQ12jjomYrXw2HEcsqCM3Wjaf9L6dYigbxUihU198=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/compiler/-/compiler-14.2.8.tgz"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "@jupyterlab/codemirror",
+  "version": "3.5.0",
+  "description": "JupyterLab - CodeMirror Editor Provider",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupyterlab/jupyterlab.git"
+  },
+  "license": "BSD-3-Clause",
+  "sideEffects": true,
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "style": "style/index.css",
+  "directories": {
+    "lib": "lib/"
+  },
+  "scripts": {
+    "build": "tsc -b",
+    "build:test": "tsc --build tsconfig.test.json",
+    "clean": "rimraf lib && rimraf tsconfig.tsbuildinfo",
+    "docs": "typedoc src",
+    "test": "jest",
+    "test:cov": "jest --collect-coverage",
+    "test:debug": "node --inspect-brk node_modules/.bin/jest --runInBand",
+    "test:debug:watch": "node --inspect-brk node_modules/.bin/jest --runInBand --watch",
+    "watch": "tsc -b --watch"
+  },
+  "dependencies": {
+    "@jupyterlab/apputils": "^3.5.0",
+    "@jupyterlab/codeeditor": "^3.5.0",
+    "@jupyterlab/coreutils": "^5.5.0",
+    "@jupyterlab/nbformat": "^3.5.0",
+    "@jupyterlab/observables": "^4.5.0",
+    "@jupyterlab/shared-models": "^3.5.0",
+    "@jupyterlab/statusbar": "^3.5.0",
+    "@jupyterlab/translation": "^3.5.0",
+    "@lumino/algorithm": "^1.9.0",
+    "@lumino/commands": "^1.19.0",
+    "@lumino/coreutils": "^1.11.0",
+    "@lumino/disposable": "^1.10.0",
+    "@lumino/polling": "^1.9.0",
+    "@lumino/signaling": "^1.10.0",
+    "@lumino/widgets": "^1.33.0",
+    "codemirror": "~5.61.0",
+    "react": "^17.0.1",
+    "y-codemirror": "^3.0.1"
+  },
+  "devDependencies": {
+    "@jupyterlab/testutils": "^3.5.0",
+    "@types/codemirror": "^0.0.109",
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.2",
+    "rimraf": "~3.0.0",
+    "ts-jest": "^26.3.0",
+    "typedoc": "~0.21.2",
+    "typescript": "~4.1.3"
+  },
+  "jupyterlab": {
+    "extraStyles": {
+      "codemirror": [
+        "lib/codemirror.css",
+        "addon/dialog/dialog.css",
+        "addon/fold/foldgutter.css"
+      ]
+    }
+  },
+  "styleModule": "style/index.js",
+  "_id": "@jupyterlab/codemirror@3.5.0",
+  "_integrity": "sha512-i6rGYLnWsBuL8zkCpPTCMeZc2lHI5pIgtEpO/CEfeigYhZI9NkaLSiF64Jwt8bgurS10O02bxl+3hIgU3mSSQA==",
+  "_resolved": "/home/runner/work/jupyter_releaser/jupyter_releaser/.jupyter_releaser_checkout/dist/jupyterlab-codemirror-3.5.0.tgz",
+  "_from": "file:jupyterlab-codemirror-3.5.0.tgz",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-i6rGYLnWsBuL8zkCpPTCMeZc2lHI5pIgtEpO/CEfeigYhZI9NkaLSiF64Jwt8bgurS10O02bxl+3hIgU3mSSQA==",
+    "tarball": "https://registry.npmjs.org/@jupyterlab/codemirror/-/codemirror-3.5.0.tgz"
+  },
+  "ident": "@jupyterlab/codemirror",
+  "key": "@jupyterlab/codemirror/3.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jupyterlab/",
+  "scope": "jupyterlab",
+  "bname": "codemirror",
+  "fetchInfo": {
+    "narHash": "sha256-VLExnsFamPZ9+ZkuhdfmXW/BWfroj7Kr0julOlgcAfw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jupyterlab/codemirror/-/codemirror-3.5.0.tgz"
+  }
+}

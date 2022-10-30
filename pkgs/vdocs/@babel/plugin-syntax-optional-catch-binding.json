@@ -1,0 +1,41 @@
+{
+  "name": "@babel/plugin-syntax-optional-catch-binding",
+  "version": "7.8.3",
+  "description": "Allow parsing of optional catch bindings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-optional-catch-binding"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.8.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.0"
+  },
+  "_id": "@babel/plugin-syntax-optional-catch-binding@7.8.3",
+  "_nodeVersion": "13.6.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-6VPD0Pc1lpTqw0aKoeRTMiB+kWhAoT24PA+ksWSBrFtl5SIRVpZlwN3NNPQjehA2E/91FV3RjLWoVTglWcSV3Q==",
+    "tarball": "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.8.3.tgz"
+  },
+  "directories": {},
+  "ident": "@babel/plugin-syntax-optional-catch-binding",
+  "key": "@babel/plugin-syntax-optional-catch-binding/7.8.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@babel/",
+  "scope": "babel",
+  "bname": "plugin-syntax-optional-catch-binding",
+  "fetchInfo": {
+    "narHash": "sha256-wJIs2CiVURlzG9RZji8qHd/prYLjuC6IIOis+gk5QMM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.8.3.tgz"
+  }
+}

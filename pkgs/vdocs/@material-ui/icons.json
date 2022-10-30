@@ -1,0 +1,54 @@
+{
+  "name": "@material-ui/icons",
+  "version": "4.11.3",
+  "private": false,
+  "description": "Material Design Svg Icons converted to Material-UI React components.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mui-org/material-ui.git",
+    "directory": "packages/material-ui-icons"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@material-ui/core": "^4.0.0",
+    "@types/react": "^16.8.6 || ^17.0.0",
+    "react": "^16.8.0 || ^17.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@types/react": {
+      "optional": true
+    }
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.4.4"
+  },
+  "sideEffects": false,
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "module": "./esm/index.js",
+  "typings": "./index.d.ts",
+  "_id": "@material-ui/icons@4.11.3",
+  "_nodeVersion": "14.18.3",
+  "_npmVersion": "lerna/3.22.0/node@v14.18.3+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-IKHlyx6LDh8n19vzwH5RtHIOHl9Tu90aAAxcbWME6kp4dmvODM3UvOHJeMIDzUbd4muuJKHmlNoBN+mDY4XkBA==",
+    "tarball": "https://registry.npmjs.org/@material-ui/icons/-/icons-4.11.3.tgz"
+  },
+  "directories": {},
+  "ident": "@material-ui/icons",
+  "key": "@material-ui/icons/4.11.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@material-ui/",
+  "scope": "material-ui",
+  "bname": "icons",
+  "fetchInfo": {
+    "narHash": "sha256-aaKMKX2z90Ih9z7fYmBHkadJ/loHIj6FKgjjRe26gVU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/icons/-/icons-4.11.3.tgz"
+  }
+}

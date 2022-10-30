@@ -1,0 +1,106 @@
+{
+  "name": "@angular/platform-browser",
+  "version": "14.2.8",
+  "description": "Angular - library for using Angular in a web browser",
+  "license": "MIT",
+  "engines": {
+    "node": "^14.15.0 || >=16.10.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "peerDependencies": {
+    "@angular/animations": "14.2.8",
+    "@angular/core": "14.2.8",
+    "@angular/common": "14.2.8"
+  },
+  "peerDependenciesMeta": {
+    "@angular/animations": {
+      "optional": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git",
+    "directory": "packages/platform-browser"
+  },
+  "ng-update": {
+    "packageGroup": [
+      "@angular/core",
+      "@angular/bazel",
+      "@angular/common",
+      "@angular/compiler",
+      "@angular/compiler-cli",
+      "@angular/animations",
+      "@angular/elements",
+      "@angular/platform-browser",
+      "@angular/platform-browser-dynamic",
+      "@angular/forms",
+      "@angular/platform-server",
+      "@angular/upgrade",
+      "@angular/router",
+      "@angular/language-service",
+      "@angular/localize",
+      "@angular/service-worker"
+    ]
+  },
+  "sideEffects": false,
+  "fesm2020": "./fesm2020/platform-browser.mjs",
+  "fesm2015": "./fesm2015/platform-browser.mjs",
+  "esm2020": "./esm2020/platform-browser.mjs",
+  "typings": "./index.d.ts",
+  "module": "./fesm2015/platform-browser.mjs",
+  "es2020": "./fesm2020/platform-browser.mjs",
+  "type": "module",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/platform-browser.mjs",
+      "es2020": "./fesm2020/platform-browser.mjs",
+      "es2015": "./fesm2015/platform-browser.mjs",
+      "node": "./fesm2015/platform-browser.mjs",
+      "default": "./fesm2020/platform-browser.mjs"
+    },
+    "./animations": {
+      "types": "./animations/index.d.ts",
+      "esm2020": "./esm2020/animations/animations.mjs",
+      "es2020": "./fesm2020/animations.mjs",
+      "es2015": "./fesm2015/animations.mjs",
+      "node": "./fesm2015/animations.mjs",
+      "default": "./fesm2020/animations.mjs"
+    },
+    "./testing": {
+      "types": "./testing/index.d.ts",
+      "esm2020": "./esm2020/testing/testing.mjs",
+      "es2020": "./fesm2020/testing.mjs",
+      "es2015": "./fesm2015/testing.mjs",
+      "node": "./fesm2015/testing.mjs",
+      "default": "./fesm2020/testing.mjs"
+    }
+  },
+  "gitHead": "3309d3797eed5275938f4f91fcdbf76cb2dfee4b",
+  "_id": "@angular/platform-browser@14.2.8",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-tSASBLXoBE0/Gt6d2nC6BJ1DvbGY5wo2Lb+8WCLSvkfsgVqOh4uRuJ2a0wwjeLFd0ZNmpjG42Ijba4btmCpIjg==",
+    "tarball": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.8.tgz"
+  },
+  "directories": {},
+  "ident": "@angular/platform-browser",
+  "key": "@angular/platform-browser/14.2.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@angular/",
+  "scope": "angular",
+  "bname": "platform-browser",
+  "fetchInfo": {
+    "narHash": "sha256-4xN4iKomRvbx0PQf0yW44Ijf7c5XVBJ+YaDRSFB9DgE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.8.tgz"
+  }
+}

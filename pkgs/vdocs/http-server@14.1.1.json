@@ -1,0 +1,71 @@
+{
+  "name": "http-server",
+  "version": "14.1.1",
+  "description": "A simple zero-configuration command-line http server",
+  "main": "./lib/http-server",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/http-party/http-server.git"
+  },
+  "scripts": {
+    "start": "node ./bin/http-server",
+    "test": "tap --reporter=spec test/*.test.js",
+    "test-watch": "tap --reporter=spec --watch test/*.test.js"
+  },
+  "man": [
+    "./doc/http-server.1"
+  ],
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "chalk": "^4.1.2",
+    "corser": "^2.0.1",
+    "he": "^1.2.0",
+    "html-encoding-sniffer": "^3.0.0",
+    "http-proxy": "^1.18.1",
+    "mime": "^1.6.0",
+    "minimist": "^1.2.6",
+    "opener": "^1.5.1",
+    "portfinder": "^1.0.28",
+    "secure-compare": "3.0.1",
+    "union": "~0.5.0",
+    "url-join": "^4.0.1"
+  },
+  "devDependencies": {
+    "eol": "^0.9.1",
+    "eslint": "^4.19.1",
+    "eslint-config-populist": "^4.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "tap": "^14.11.0"
+  },
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "http-server": "bin/http-server"
+  },
+  "gitHead": "af0ac3e4b9bd5fff55337aee32bf37f6116c7b4f",
+  "_id": "http-server@14.1.1",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-+cbxadF40UXd9T01zUHgA+rlo2Bg1Srer4+B4NwIHdaGxAGGv59nYRnGGDJ9LBk7alpS0US+J+bLLdQOOkJq4A==",
+    "tarball": "https://registry.npmjs.org/http-server/-/http-server-14.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "http-server",
+  "key": "http-server/14.1.1",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "http-server",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1+O5APB37uAx9WKyBTwf41Jq0q4fpwkTb4Kb5WaTtt0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-server/-/http-server-14.1.1.tgz"
+  }
+}

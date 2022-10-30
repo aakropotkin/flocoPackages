@@ -1,0 +1,71 @@
+{
+  "name": "@csstools/postcss-font-format-keywords",
+  "description": "Use unquoted format on @font-face CSS definitions.",
+  "version": "1.0.1",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "postcss-value-parser": "^4.2.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-font-format-keywords"
+  },
+  "csstools": {
+    "exportName": "postcssFontFormatKeywords",
+    "humanReadableName": "PostCSS Font Format Keywords"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "66b85f3955fc07d06ef572011e4fdcf4ea6bd3d3",
+  "_id": "@csstools/postcss-font-format-keywords@1.0.1",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-ZgrlzuUAjXIOc2JueK0X5sZDjCtgimVp/O5CEqTcs5ShWBa6smhWYbS0x5cVc/+rycTDbjjzoP0KTDnUneZGOg==",
+    "tarball": "https://registry.npmjs.org/@csstools/postcss-font-format-keywords/-/postcss-font-format-keywords-1.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@csstools/postcss-font-format-keywords",
+  "key": "@csstools/postcss-font-format-keywords/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@csstools/",
+  "scope": "csstools",
+  "bname": "postcss-font-format-keywords",
+  "fetchInfo": {
+    "narHash": "sha256-M6D5glhppc350gXFDg/WsxBeMw/qLTQkYyzEuIDnrzA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-font-format-keywords/-/postcss-font-format-keywords-1.0.1.tgz"
+  }
+}

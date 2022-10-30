@@ -1,0 +1,68 @@
+{
+  "name": "@oclif/parser",
+  "description": "arg and flag parser for oclif",
+  "version": "3.8.8",
+  "dependencies": {
+    "@oclif/errors": "^1.3.6",
+    "@oclif/linewrap": "^1.0.0",
+    "chalk": "^4.1.0",
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^8.2.3",
+    "@types/nock": "^11.1.0",
+    "@types/node": "^14.18.31",
+    "@types/node-notifier": "^8.0.2",
+    "@types/read-pkg": "^5.1.0",
+    "chai": "^4.3.6",
+    "conventional-changelog-cli": "^2.2.2",
+    "eslint": "^7.3.1",
+    "eslint-config-oclif": "^3.1.0",
+    "eslint-config-oclif-typescript": "^0.2.0",
+    "mocha": "^8.2.1",
+    "ts-node": "^9.0.0",
+    "typescript": "3.9.10"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oclif/parser.git"
+  },
+  "scripts": {
+    "build": "rm -rf lib && tsc",
+    "lint": "eslint . --ext .ts --config .eslintrc",
+    "posttest": "yarn lint",
+    "prepublishOnly": "yarn run build",
+    "test": "mocha --no-color --forbid-only \"test/**/*.test.ts\"",
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
+    "pretest": "yarn build --noEmit && tsc -p test --noEmit"
+  },
+  "types": "lib/index.d.ts",
+  "gitHead": "08921f035b0ea0aec9a4ebad04bb8daae7503a0c",
+  "_id": "@oclif/parser@3.8.8",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-OgqQAtpyq1XFJG3dvLl9aqiO+F5pubkzt7AivUDkNoa6/hNgVZ79vvTO8sqo5XAAhOm/fcTSerZ35OTnTJb1ng==",
+    "tarball": "https://registry.npmjs.org/@oclif/parser/-/parser-3.8.8.tgz"
+  },
+  "directories": {},
+  "ident": "@oclif/parser",
+  "key": "@oclif/parser/3.8.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@oclif/",
+  "scope": "oclif",
+  "bname": "parser",
+  "fetchInfo": {
+    "narHash": "sha256-0+8zgMMp7BsgQbcQJhHhT5ge9zcS5ItYdYQnOKwk2uk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@oclif/parser/-/parser-3.8.8.tgz"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "@vue/shared",
+  "version": "3.2.41",
+  "description": "internal utils shared across @vue packages",
+  "main": "index.js",
+  "module": "dist/shared.esm-bundler.js",
+  "types": "dist/shared.d.ts",
+  "sideEffects": false,
+  "buildOptions": {
+    "formats": [
+      "esm-bundler",
+      "cjs"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/shared"
+  },
+  "license": "MIT",
+  "_id": "@vue/shared@3.2.41",
+  "dist": {
+    "integrity": "sha512-W9mfWLHmJhkfAmV+7gDjcHeAWALQtgGT3JErxULl0oz6R6+3ug91I7IErs93eCFhPCZPHBs4QJS7YWEV7A3sxw==",
+    "tarball": "https://registry.npmjs.org/@vue/shared/-/shared-3.2.41.tgz"
+  },
+  "directories": {},
+  "ident": "@vue/shared",
+  "key": "@vue/shared/3.2.41",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@vue/",
+  "scope": "vue",
+  "bname": "shared",
+  "fetchInfo": {
+    "narHash": "sha256-/LhS60HKv8kOMlQ3D1CQzQYZJVJxgn8fqalwoSUDd1g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@vue/shared/-/shared-3.2.41.tgz"
+  }
+}

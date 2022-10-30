@@ -1,0 +1,59 @@
+{
+  "name": "@gulp-sourcemaps/identity-map",
+  "version": "2.0.1",
+  "description": "Gulp plugin for generating an identity sourcemap for a file.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulp-sourcemaps/identity-map.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "dependencies": {
+    "acorn": "^6.4.1",
+    "normalize-path": "^3.0.0",
+    "postcss": "^7.0.16",
+    "source-map": "^0.6.0",
+    "through2": "^3.0.1"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.3",
+    "eslint": "^5.16.0",
+    "eslint-config-gulp": "^3.0.1",
+    "expect": "^1.19.0",
+    "mississippi": "^4.0.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0",
+    "vinyl": "^2.2.0"
+  },
+  "gitHead": "251b51598d02e5aedaea8f1a475dfc42103a2727",
+  "_id": "@gulp-sourcemaps/identity-map@2.0.1",
+  "_nodeVersion": "12.13.0",
+  "_npmVersion": "6.14.2",
+  "dist": {
+    "integrity": "sha512-Tb+nSISZku+eQ4X1lAkevcQa+jknn/OVUgZ3XCxEKIsLsqYuPoJwJOPQeaOk75X3WPftb29GWY1eqE7GLsXb1Q==",
+    "tarball": "https://registry.npmjs.org/@gulp-sourcemaps/identity-map/-/identity-map-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@gulp-sourcemaps/identity-map",
+  "key": "@gulp-sourcemaps/identity-map/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@gulp-sourcemaps/",
+  "scope": "gulp-sourcemaps",
+  "bname": "identity-map",
+  "fetchInfo": {
+    "narHash": "sha256-537XjPoMOllHspC3HACI4apSjMbkjZkIHKqqgHTKVvM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@gulp-sourcemaps/identity-map/-/identity-map-2.0.1.tgz"
+  }
+}

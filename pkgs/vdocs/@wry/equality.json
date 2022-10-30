@@ -1,0 +1,50 @@
+{
+  "name": "@wry/equality",
+  "version": "0.5.3",
+  "description": "Structural equality checking for JavaScript values",
+  "license": "MIT",
+  "main": "lib/equality.js",
+  "module": "lib/equality.esm.js",
+  "types": "lib/equality.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamn/wryware.git"
+  },
+  "scripts": {
+    "clean": "../../node_modules/.bin/rimraf lib",
+    "tsc": "../../node_modules/.bin/tsc",
+    "rollup": "../../node_modules/.bin/rollup -c",
+    "build": "npm run clean && npm run tsc && npm run rollup",
+    "mocha": "../../scripts/test.sh lib/tests.cjs.js",
+    "prepare": "npm run build",
+    "test": "npm run build && npm run mocha"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "gitHead": "4cb5c26fead3594a6b17cf9d67968cfa8d11e045",
+  "_id": "@wry/equality@0.5.3",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "lerna/5.4.1/node@v18.7.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-avR+UXdSrsF2v8vIqIgmeTY0UR91UT+IyablCyKe/uk22uOJ8fusKZnH9JH9e1/EtLeNJBtagNmL3eJdnOV53g==",
+    "tarball": "https://registry.npmjs.org/@wry/equality/-/equality-0.5.3.tgz"
+  },
+  "directories": {},
+  "ident": "@wry/equality",
+  "key": "@wry/equality/0.5.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@wry/",
+  "scope": "wry",
+  "bname": "equality",
+  "fetchInfo": {
+    "narHash": "sha256-ca3MMvNhosBDRyqNo2km8SKy4GuNNQAYV7lgMXN2BD8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@wry/equality/-/equality-0.5.3.tgz"
+  }
+}

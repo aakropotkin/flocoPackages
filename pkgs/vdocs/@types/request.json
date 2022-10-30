@@ -1,0 +1,41 @@
+{
+  "name": "@types/request",
+  "version": "2.48.8",
+  "description": "TypeScript definitions for request",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/request"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/caseless": "*",
+    "@types/node": "*",
+    "@types/tough-cookie": "*",
+    "form-data": "^2.5.0"
+  },
+  "typesPublisherContentHash": "1d1a7d3a65e28ea707b27eb4b0425fb4bdc214cf0c834f393b6b4faa6ee714d1",
+  "typeScriptVersion": "3.8",
+  "_id": "@types/request@2.48.8",
+  "dist": {
+    "integrity": "sha512-whjk1EDJPcAR2kYHRbFl/lKeeKYTi05A15K9bnLInCVroNDCtXce57xKdI0/rQaA3K+6q0eFyUBPmqfSndUZdQ==",
+    "tarball": "https://registry.npmjs.org/@types/request/-/request-2.48.8.tgz"
+  },
+  "directories": {},
+  "ident": "@types/request",
+  "key": "@types/request/2.48.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "request",
+  "fetchInfo": {
+    "narHash": "sha256-EcWYi+VHENzIPeZTCjXzubh3OXKdPzL4NGMylBkgQeg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/request/-/request-2.48.8.tgz"
+  }
+}

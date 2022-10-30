@@ -1,0 +1,49 @@
+{
+  "name": "@emotion/hash",
+  "version": "0.9.0",
+  "description": "A MurmurHash2 implementation",
+  "main": "dist/emotion-hash.cjs.js",
+  "module": "dist/emotion-hash.esm.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emotion-js/emotion.git#main"
+  },
+  "scripts": {
+    "test:typescript": "dtslint types"
+  },
+  "devDependencies": {
+    "@definitelytyped/dtslint": "0.0.112",
+    "typescript": "^4.5.5"
+  },
+  "exports": {
+    ".": {
+      "module": "./dist/emotion-hash.esm.js",
+      "default": "./dist/emotion-hash.cjs.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "gitHead": "a5f43a1ba3dae5141b9c356b8b7e13f7023895b3",
+  "_id": "@emotion/hash@0.9.0",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-14FtKiHhy2QoPIzdTcvh//8OyBlknNs2nXRwIhG904opCby3l+9Xaf/wuPvICBF0rc1ZCNBd3nKe9cd2mecVkQ==",
+    "tarball": "https://registry.npmjs.org/@emotion/hash/-/hash-0.9.0.tgz"
+  },
+  "directories": {},
+  "ident": "@emotion/hash",
+  "key": "@emotion/hash/0.9.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@emotion/",
+  "scope": "emotion",
+  "bname": "hash",
+  "fetchInfo": {
+    "narHash": "sha256-B6DfG65Ztvs7/oyI+YgaGfUnuxuaxV23jo+hdxiXUD4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@emotion/hash/-/hash-0.9.0.tgz"
+  }
+}

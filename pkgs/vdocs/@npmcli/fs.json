@@ -1,0 +1,65 @@
+{
+  "name": "@npmcli/fs",
+  "version": "3.0.0",
+  "description": "filesystem utilities for the npm cli",
+  "main": "lib/index.js",
+  "scripts": {
+    "snap": "tap",
+    "test": "tap",
+    "npmclilint": "npmcli-lint",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "postsnap": "npm run lintfix --",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/fs.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "dependencies": {
+    "semver": "^7.3.5"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "tap": {
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "3207a9dcfc38d1cf9833938f8c04abf3de88d577",
+  "_id": "@npmcli/fs@3.0.0",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "9.0.0-pre.4",
+  "dist": {
+    "integrity": "sha512-GdeVD+dnBxzMslTFvnctLX5yIqV4ZNZBWNbo1OejQ++bZpnFNQ1AjOn9Sboi+LzheQbCBU1ts1mhEVduHrcZOQ==",
+    "tarball": "https://registry.npmjs.org/@npmcli/fs/-/fs-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@npmcli/fs",
+  "key": "@npmcli/fs/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@npmcli/",
+  "scope": "npmcli",
+  "bname": "fs",
+  "fetchInfo": {
+    "narHash": "sha256-fUAubyMxh79MZYP6yR2idqkM9BhKXIv1KRXe/UX16m8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/fs/-/fs-3.0.0.tgz"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "@jimp/plugin-invert",
+  "version": "0.16.2",
+  "description": "invert an image.",
+  "main": "dist/index.js",
+  "module": "es/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "npm run build:node:production && npm run build:module",
+    "build:watch": "npm run build:node:debug -- -- --watch --verbose",
+    "build:debug": "npm run build:node:debug",
+    "build:module": "cross-env BABEL_ENV=module babel src -d es --source-maps --config-file ../../babel.config.js",
+    "build:node": "babel src -d dist --source-maps --config-file ../../babel.config.js",
+    "build:node:debug": "cross-env BABEL_ENV=development npm run build:node",
+    "build:node:production": "cross-env BABEL_ENV=production npm run build:node"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.7.2",
+    "@jimp/utils": "^0.16.2"
+  },
+  "peerDependencies": {
+    "@jimp/custom": ">=0.3.5"
+  },
+  "gitHead": "e4d6af032fdabdb4b8a4368ec957dec8ea426ef4",
+  "_id": "@jimp/plugin-invert@0.16.2",
+  "_nodeVersion": "10.24.1",
+  "_npmVersion": "lerna/3.16.4/node@v10.24.1+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-xFvHbVepTY/nus+6yXiYN1iq+UBRkT0MdnObbiQPstUrAsz0Imn6MWISsnAyMvcNxHGrxaxjuU777JT/esM0gg==",
+    "tarball": "https://registry.npmjs.org/@jimp/plugin-invert/-/plugin-invert-0.16.2.tgz"
+  },
+  "directories": {},
+  "ident": "@jimp/plugin-invert",
+  "key": "@jimp/plugin-invert/0.16.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jimp/",
+  "scope": "jimp",
+  "bname": "plugin-invert",
+  "fetchInfo": {
+    "narHash": "sha256-8p+ZYpmGNyx7x6DFIcNNHq0JWiD4AeMEpH6pkOIUZJE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jimp/plugin-invert/-/plugin-invert-0.16.2.tgz"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "@antv/event-emitter",
+  "version": "0.1.3",
+  "description": "event emitter for antvis.",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/antvis/event-emitter.git"
+  },
+  "scripts": {
+    "build": "run-s clean lib",
+    "clean": "rimraf lib esm",
+    "lib": "run-p lib:*",
+    "lib:cjs": "tsc -p tsconfig.json --target ES5 --module commonjs --outDir lib",
+    "lib:esm": "tsc -p tsconfig.json --target ES5 --module ESNext --outDir esm",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0",
+    "jest-electron": "^0.1.7",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.0.2",
+    "rimraf": "^2.6.2",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.4"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "runner": "jest-electron/runner",
+    "testEnvironment": "jest-electron/environment",
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "src/**/*.ts",
+      "!**/node_modules/**"
+    ],
+    "testRegex": "/__tests__/.*spec\\.ts$"
+  },
+  "gitHead": "f46ff7712f332ef1c8b7601eb88b5784ad4edaa1",
+  "_id": "@antv/event-emitter@0.1.3",
+  "_nodeVersion": "14.17.4",
+  "_npmVersion": "8.0.0",
+  "dist": {
+    "integrity": "sha512-4ddpsiHN9Pd4UIlWuKVK1C4IiZIdbwQvy9i7DUSI3xNJ89FPUFt8lxDYj8GzzfdllV0NkJTRxnG+FvLk0llidg==",
+    "tarball": "https://registry.npmjs.org/@antv/event-emitter/-/event-emitter-0.1.3.tgz"
+  },
+  "directories": {},
+  "ident": "@antv/event-emitter",
+  "key": "@antv/event-emitter/0.1.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@antv/",
+  "scope": "antv",
+  "bname": "event-emitter",
+  "fetchInfo": {
+    "narHash": "sha256-iUzvsnS4MuweaARgob2d4eSa4DLvWH3M9tAXD0aHk8k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/event-emitter/-/event-emitter-0.1.3.tgz"
+  }
+}

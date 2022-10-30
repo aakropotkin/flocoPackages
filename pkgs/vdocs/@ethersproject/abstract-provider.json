@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "@ethersproject/bignumber": "^5.7.0",
+    "@ethersproject/bytes": "^5.7.0",
+    "@ethersproject/logger": "^5.7.0",
+    "@ethersproject/networks": "^5.7.0",
+    "@ethersproject/properties": "^5.7.0",
+    "@ethersproject/transactions": "^5.7.0",
+    "@ethersproject/web": "^5.7.0"
+  },
+  "description": "An Abstract Class for describing an Ethereum Provider for ethers.",
+  "ethereum": "donations.ethers.eth",
+  "gitHead": "ec1b9583039a14a0e0fa15d0a2a6082a2f41cf5b",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "module": "./lib.esm/index.js",
+  "name": "@ethersproject/abstract-provider",
+  "repository": {
+    "directory": "packages/abstract-provider",
+    "type": "git",
+    "url": "git://github.com/ethers-io/ethers.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "sideEffects": false,
+  "tarballHash": "0x952cf2ca65f6e38799386cab1c8595e8f849360128bc61fb28de2b595bbfaad9",
+  "types": "./lib/index.d.ts",
+  "version": "5.7.0",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "ethers-dist@0.0.1",
+  "_id": "@ethersproject/abstract-provider@5.7.0",
+  "dist": {
+    "integrity": "sha512-R41c9UkchKCpAqStMYUpdunjo3pkEvZC3FAwZn5S5MGbXoMQOHIdHItezTETxAO5bevtMApSyEhn9+CHcDsWBw==",
+    "tarball": "https://registry.npmjs.org/@ethersproject/abstract-provider/-/abstract-provider-5.7.0.tgz"
+  },
+  "directories": {},
+  "ident": "@ethersproject/abstract-provider",
+  "key": "@ethersproject/abstract-provider/5.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@ethersproject/",
+  "scope": "ethersproject",
+  "bname": "abstract-provider",
+  "fetchInfo": {
+    "narHash": "sha256-L7mW75jTDFTgWtMM/PZGAQIzQEhxcoZqrj03vZq2mO0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/abstract-provider/-/abstract-provider-5.7.0.tgz"
+  }
+}

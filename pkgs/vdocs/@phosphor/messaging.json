@@ -1,0 +1,68 @@
+{
+  "name": "@phosphor/messaging",
+  "version": "1.3.0",
+  "description": "PhosphorJS - Message Passing",
+  "license": "BSD-3-Clause",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phosphorjs/phosphor.git"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "build:test": "tsc --build tests && cd tests && webpack",
+    "clean": "rimraf lib",
+    "clean:test": "rimraf tests/build",
+    "docs": "typedoc --options tdoptions.json src",
+    "test": "npm run test:firefox",
+    "test:chrome": "cd tests && karma start --browsers=Chrome",
+    "test:firefox": "cd tests && karma start --browsers=Firefox",
+    "test:ie": "cd tests && karma start --browsers=IE",
+    "watch": "tsc --build --watch"
+  },
+  "dependencies": {
+    "@phosphor/algorithm": "^1.2.0",
+    "@phosphor/collections": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^3.4.35",
+    "@types/mocha": "^2.2.39",
+    "chai": "^3.5.0",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-mocha": "^1.3.0",
+    "karma-mocha-reporter": "^2.2.2",
+    "mocha": "^3.2.0",
+    "rimraf": "^2.5.2",
+    "typedoc": "~0.12.0",
+    "typescript": "~3.0.3",
+    "webpack": "^2.2.1"
+  },
+  "gitHead": "7fdcefb4740fbd459c4f25b3c0b8641f94614de0",
+  "_id": "@phosphor/messaging@1.3.0",
+  "_nodeVersion": "11.14.0",
+  "_npmVersion": "lerna/3.14.1/node@v11.14.0+x64 (win32)",
+  "dist": {
+    "integrity": "sha512-k0JE+BTMKlkM335S2AmmJxoYYNRwOdW5jKBqLgjJdGRvUQkM0+2i60ahM45+J23atGJDv9esKUUBINiKHFhLew==",
+    "tarball": "https://registry.npmjs.org/@phosphor/messaging/-/messaging-1.3.0.tgz"
+  },
+  "ident": "@phosphor/messaging",
+  "key": "@phosphor/messaging/1.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@phosphor/",
+  "scope": "phosphor",
+  "bname": "messaging",
+  "fetchInfo": {
+    "narHash": "sha256-Mh9hNS20CzRsg50l5C++UuH8pu1oroy0EcTH+Pko/bk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@phosphor/messaging/-/messaging-1.3.0.tgz"
+  }
+}

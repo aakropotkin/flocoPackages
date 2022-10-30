@@ -1,0 +1,78 @@
+{
+  "name": "@firebase/util",
+  "version": "1.7.3",
+  "description": "_NOTE: This is specifically tailored for Firebase JS SDK usage, if you are not a member of the Firebase team, please avoid using this package_",
+  "main": "dist/index.node.cjs.js",
+  "browser": "dist/index.esm2017.js",
+  "module": "dist/index.esm2017.js",
+  "esm5": "dist/index.esm5.js",
+  "exports": {
+    ".": {
+      "types": "./dist/util-public.d.ts",
+      "node": {
+        "import": "./dist/node-esm/index.node.esm.js",
+        "require": "./dist/index.node.cjs.js"
+      },
+      "esm5": "./dist/index.esm5.js",
+      "default": "./dist/index.esm2017.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "lint": "eslint -c .eslintrc.js '**/*.ts' --ignore-path '../../.gitignore'",
+    "lint:fix": "eslint --fix -c .eslintrc.js '**/*.ts' --ignore-path '../../.gitignore'",
+    "build": "rollup -c && yarn api-report",
+    "build:deps": "lerna run --scope @firebase/util --include-dependencies build",
+    "dev": "rollup -c -w",
+    "prettier": "prettier --write 'src/**/*.ts' 'test/**/*.ts'",
+    "test": "run-p lint test:all",
+    "test:ci": "node ../../scripts/run_tests_in_ci.js -s test:all",
+    "test:all": "run-p test:browser test:node",
+    "test:browser": "karma start --single-run",
+    "test:node": "TS_NODE_CACHE=NO TS_NODE_COMPILER_OPTIONS='{\"module\":\"commonjs\"}' nyc --reporter lcovonly -- mocha test/**/*.test.* --config ../../config/mocharc.node.js",
+    "api-report": "api-extractor run --local --verbose",
+    "typings:public": "node ../../scripts/build/use_typings.js ./dist/util-public.d.ts"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "tslib": "^2.1.0"
+  },
+  "devDependencies": {
+    "rollup": "2.79.1",
+    "rollup-plugin-typescript2": "0.31.2",
+    "typescript": "4.2.2"
+  },
+  "repository": {
+    "directory": "packages/util",
+    "type": "git",
+    "url": "git+https://github.com/firebase/firebase-js-sdk.git"
+  },
+  "typings": "./dist/util-public.d.ts",
+  "nyc": {
+    "extension": [
+      ".ts"
+    ],
+    "reportDir": "./coverage/node"
+  },
+  "_id": "@firebase/util@1.7.3",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "6.14.17",
+  "dist": {
+    "integrity": "sha512-wxNqWbqokF551WrJ9BIFouU/V5SL1oYCGx1oudcirdhadnQRFH5v1sjgGL7cUV/UsekSycygphdrF2lxBxOYKg==",
+    "tarball": "https://registry.npmjs.org/@firebase/util/-/util-1.7.3.tgz"
+  },
+  "directories": {},
+  "ident": "@firebase/util",
+  "key": "@firebase/util/1.7.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@firebase/",
+  "scope": "firebase",
+  "bname": "util",
+  "fetchInfo": {
+    "narHash": "sha256-e1HeP/eNWiDpmE6M2EhaU/3ErhY9appoJ23eBCkFa2k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/util/-/util-1.7.3.tgz"
+  }
+}

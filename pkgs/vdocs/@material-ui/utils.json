@@ -1,0 +1,49 @@
+{
+  "name": "@material-ui/utils",
+  "version": "4.11.3",
+  "private": false,
+  "description": "Material-UI Utils - Utility functions for Material-UI.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mui-org/material-ui.git",
+    "directory": "packages/material-ui-utils"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.4.4",
+    "prop-types": "^15.7.2",
+    "react-is": "^16.8.0 || ^17.0.0"
+  },
+  "sideEffects": false,
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "module": "./esm/index.js",
+  "typings": "./index.d.ts",
+  "_id": "@material-ui/utils@4.11.3",
+  "_nodeVersion": "14.18.3",
+  "_npmVersion": "lerna/3.22.0/node@v14.18.3+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-ZuQPV4rBK/V1j2dIkSSEcH5uT6AaHuKWFfotADHsC0wVL1NLd2WkFCm4ZZbX33iO4ydl6V0GPngKm8HZQ2oujg==",
+    "tarball": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.11.3.tgz"
+  },
+  "directories": {},
+  "ident": "@material-ui/utils",
+  "key": "@material-ui/utils/4.11.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@material-ui/",
+  "scope": "material-ui",
+  "bname": "utils",
+  "fetchInfo": {
+    "narHash": "sha256-N1fqI+NFYxxAGYZDCsjwUyrGKHkrJ5HSnEZZwHeqgwc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.11.3.tgz"
+  }
+}

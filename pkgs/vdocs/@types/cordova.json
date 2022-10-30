@@ -1,0 +1,34 @@
+{
+  "name": "@types/cordova",
+  "version": "0.0.34",
+  "description": "TypeScript definitions for Apache Cordova",
+  "license": "MIT",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typings": "index.d.ts",
+  "typesPublisherContentHash": "896a4efd6d78d79d68698c8433123463c32a402ad8f64bd31f97a9e5a02d4cc6",
+  "_id": "@types/cordova@0.0.34",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/@types/cordova/-/cordova-0.0.34.tgz",
+    "integrity": "sha512-rkiiTuf/z2wTd4RxFOb+clE7PF4AEJU0hsczbUdkHHBtkUmpWQpEddynNfJYKYtZFJKbq4F+brfekt1kx85IZA=="
+  },
+  "directories": {},
+  "ident": "@types/cordova",
+  "key": "@types/cordova/0.0.34",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "cordova",
+  "fetchInfo": {
+    "narHash": "sha256-7xd+M+2VSpNw5OH2scFVHgXwGPR08tEcpxxgIemdRlI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/cordova/-/cordova-0.0.34.tgz"
+  }
+}

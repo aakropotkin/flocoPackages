@@ -1,0 +1,71 @@
+{
+  "name": "@npmcli/config",
+  "version": "6.0.1",
+  "main": "lib/index.js",
+  "description": "Configuration management for the npm cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/config.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "tap": {
+    "check-coverage": true,
+    "coverage-map": "map.js",
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "dependencies": {
+    "@npmcli/map-workspaces": "^3.0.0",
+    "ini": "^3.0.0",
+    "nopt": "^6.0.0",
+    "proc-log": "^3.0.0",
+    "read-package-json-fast": "^3.0.0",
+    "semver": "^7.3.5",
+    "walk-up-path": "^1.0.0"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "5e3f9edfb648d130ece4e20cd7827a764ba7a785",
+  "_id": "@npmcli/config@6.0.1",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-f8PGjhM7kKbMfEMmE8n1dW+m/7XFuvatLXqItO89ZKJwYl9Zs5d7CmsIe8n8i+4YmGYL3HqR26/mVb4oK2b6Zw==",
+    "tarball": "https://registry.npmjs.org/@npmcli/config/-/config-6.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@npmcli/config",
+  "key": "@npmcli/config/6.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@npmcli/",
+  "scope": "npmcli",
+  "bname": "config",
+  "fetchInfo": {
+    "narHash": "sha256-NwBHIrrDts6FeqxSbgoHcor2cMUls/wSPK9Gc8+DGhA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/config/-/config-6.0.1.tgz"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "@vue/runtime-core",
+  "version": "3.2.41",
+  "description": "@vue/runtime-core",
+  "main": "index.js",
+  "module": "dist/runtime-core.esm-bundler.js",
+  "types": "dist/runtime-core.d.ts",
+  "buildOptions": {
+    "name": "VueRuntimeCore",
+    "formats": [
+      "esm-bundler",
+      "cjs"
+    ]
+  },
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/runtime-core"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@vue/shared": "3.2.41",
+    "@vue/reactivity": "3.2.41"
+  },
+  "_id": "@vue/runtime-core@3.2.41",
+  "dist": {
+    "integrity": "sha512-0LBBRwqnI0p4FgIkO9q2aJBBTKDSjzhnxrxHYengkAF6dMOjeAIZFDADAlcf2h3GDALWnblbeprYYpItiulSVQ==",
+    "tarball": "https://registry.npmjs.org/@vue/runtime-core/-/runtime-core-3.2.41.tgz"
+  },
+  "directories": {},
+  "ident": "@vue/runtime-core",
+  "key": "@vue/runtime-core/3.2.41",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@vue/",
+  "scope": "vue",
+  "bname": "runtime-core",
+  "fetchInfo": {
+    "narHash": "sha256-8bA325ZCIDVNNSHNzkCFZAirrQoEU8SzOENywCcfahg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@vue/runtime-core/-/runtime-core-3.2.41.tgz"
+  }
+}

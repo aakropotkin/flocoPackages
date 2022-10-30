@@ -1,0 +1,56 @@
+{
+  "name": "@lezer/common",
+  "version": "1.0.1",
+  "description": "Syntax tree data structure and parser interfaces for the lezer parser",
+  "main": "dist/index.cjs",
+  "type": "module",
+  "exports": {
+    "import": "./dist/index.js",
+    "require": "./dist/index.cjs"
+  },
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "ist": "^1.1.1",
+    "rollup": "^2.52.2",
+    "@rollup/plugin-commonjs": "^15.1.0",
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "rollup-plugin-typescript2": "^0.30.0",
+    "typescript": "^4.3.4",
+    "@types/mocha": "^5.2.6",
+    "ts-node": "^10.0.0",
+    "mocha": "^9.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lezer-parser/common.git"
+  },
+  "scripts": {
+    "watch": "rollup -w -c rollup.config.js",
+    "prepare": "rollup -c rollup.config.js",
+    "test": "mocha"
+  },
+  "gitHead": "78a3784af4e3f904b55accdbd12e778065dab305",
+  "_id": "@lezer/common@1.0.1",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.10.0",
+  "dist": {
+    "integrity": "sha512-8TR5++Q/F//tpDsLd5zkrvEX5xxeemafEaek7mUp7Y+bI8cKQXdSqhzTOBaOogETcMOVr0pT3BBPXp13477ciw==",
+    "tarball": "https://registry.npmjs.org/@lezer/common/-/common-1.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@lezer/common",
+  "key": "@lezer/common/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@lezer/",
+  "scope": "lezer",
+  "bname": "common",
+  "fetchInfo": {
+    "narHash": "sha256-xPofnW/15NnEK8x6qZqE8pJ7EXeONT2Ro3JZgTKPW7E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lezer/common/-/common-1.0.1.tgz"
+  }
+}

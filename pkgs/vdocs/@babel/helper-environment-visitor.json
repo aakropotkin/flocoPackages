@@ -1,0 +1,43 @@
+{
+  "name": "@babel/helper-environment-visitor",
+  "version": "7.18.9",
+  "description": "Helper visitor to only visit nodes in the current 'this' context",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-environment-visitor"
+  },
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "devDependencies": {
+    "@babel/traverse": "^7.18.9",
+    "@babel/types": "^7.18.9"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs",
+  "_id": "@babel/helper-environment-visitor@7.18.9",
+  "dist": {
+    "integrity": "sha512-3r/aACDJ3fhQ/EVgFy0hpj8oHyHpQc+LPtJoY9SzTThAsStm4Ptegq92vqKoE3vD706ZVFWITnMnxucw+S9Ipg==",
+    "tarball": "https://registry.npmjs.org/@babel/helper-environment-visitor/-/helper-environment-visitor-7.18.9.tgz"
+  },
+  "directories": {},
+  "ident": "@babel/helper-environment-visitor",
+  "key": "@babel/helper-environment-visitor/7.18.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@babel/",
+  "scope": "babel",
+  "bname": "helper-environment-visitor",
+  "fetchInfo": {
+    "narHash": "sha256-6CXg+OOoaCu8sOnMIVH5oWqYJ4+0vrvy3WRYqxGu0OM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/helper-environment-visitor/-/helper-environment-visitor-7.18.9.tgz"
+  }
+}

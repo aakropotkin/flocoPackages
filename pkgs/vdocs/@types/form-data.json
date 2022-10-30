@@ -1,0 +1,33 @@
+{
+  "name": "@types/form-data",
+  "version": "2.5.0",
+  "typings": null,
+  "description": "Stub TypeScript definitions entry for form-data, which provides its own types definitions",
+  "main": "",
+  "scripts": {},
+  "repository": "https://github.com/form-data/form-data",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "*"
+  },
+  "_id": "@types/form-data@2.5.0",
+  "dist": {
+    "integrity": "sha512-23/wYiuckYYtFpL+4RPWiWmRQH2BjFuqCUi2+N3amB1a1Drv+i/byTrGvlLwRVLFNAZbwpbQ7JvTK+VCAPMbcg==",
+    "tarball": "https://registry.npmjs.org/@types/form-data/-/form-data-2.5.0.tgz"
+  },
+  "directories": {},
+  "deprecated": "This is a stub types definition. form-data provides its own type definitions, so you do not need this installed.",
+  "ident": "@types/form-data",
+  "key": "@types/form-data/2.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "form-data",
+  "fetchInfo": {
+    "narHash": "sha256-d3Luk+IJ9+PoFk/OHgVZh3J7WcguWmKWbwMo7T0iC6k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/form-data/-/form-data-2.5.0.tgz"
+  }
+}

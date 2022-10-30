@@ -1,0 +1,62 @@
+{
+  "name": "@emotion/use-insertion-effect-with-fallbacks",
+  "version": "1.0.0",
+  "description": "A wrapper package that uses `useInsertionEffect` or a fallback for it",
+  "main": "dist/emotion-use-insertion-effect-with-fallbacks.cjs.js",
+  "module": "dist/emotion-use-insertion-effect-with-fallbacks.esm.js",
+  "browser": {
+    "./dist/emotion-use-insertion-effect-with-fallbacks.esm.js": "./dist/emotion-use-insertion-effect-with-fallbacks.browser.esm.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emotion-js/emotion.git#main"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "react": "16.14.0"
+  },
+  "exports": {
+    ".": {
+      "module": {
+        "worker": "./dist/emotion-use-insertion-effect-with-fallbacks.worker.esm.js",
+        "browser": "./dist/emotion-use-insertion-effect-with-fallbacks.browser.esm.js",
+        "default": "./dist/emotion-use-insertion-effect-with-fallbacks.esm.js"
+      },
+      "default": "./dist/emotion-use-insertion-effect-with-fallbacks.cjs.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "preconstruct": {
+    "exports": {
+      "envConditions": [
+        "browser",
+        "worker"
+      ]
+    }
+  },
+  "gitHead": "6835850e39a5df4324e1f4ff4874fdce3d5b51d5",
+  "_id": "@emotion/use-insertion-effect-with-fallbacks@1.0.0",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-1eEgUGmkaljiBnRMTdksDV1W4kUnmwgp7X9G8B++9GYwl1lUdqSndSriIrTJ0N7LQaoauY9JJ2yhiOYK5+NI4A==",
+    "tarball": "https://registry.npmjs.org/@emotion/use-insertion-effect-with-fallbacks/-/use-insertion-effect-with-fallbacks-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@emotion/use-insertion-effect-with-fallbacks",
+  "key": "@emotion/use-insertion-effect-with-fallbacks/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@emotion/",
+  "scope": "emotion",
+  "bname": "use-insertion-effect-with-fallbacks",
+  "fetchInfo": {
+    "narHash": "sha256-9W0dbraPM7HmQFtOS+5FQhTai6j4YtnKS9uVzRHporQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@emotion/use-insertion-effect-with-fallbacks/-/use-insertion-effect-with-fallbacks-1.0.0.tgz"
+  }
+}

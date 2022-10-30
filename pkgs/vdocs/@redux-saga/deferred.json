@@ -1,0 +1,58 @@
+{
+  "name": "@redux-saga/deferred",
+  "version": "1.2.1",
+  "description": "Helper for creating \"exposed\" promise object (with resolve & reject methods).",
+  "main": "./dist/redux-saga-deferred.cjs.js",
+  "module": "./dist/redux-saga-deferred.esm.js",
+  "typings": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "module": "./dist/redux-saga-deferred.esm.js",
+      "import": "./import-condition-proxy.mjs",
+      "default": "./dist/redux-saga-deferred.cjs.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "clean": "rimraf dist",
+    "prebuild": "yarn clean",
+    "build": "rollup -c",
+    "prepare": "yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redux-saga/redux-saga.git#main"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-plugin-annotate-pure-calls": "^0.4.0",
+    "rimraf": "^3.0.0",
+    "rollup": "^1.23.1",
+    "rollup-plugin-babel": "5.0.0-alpha.0"
+  },
+  "gitHead": "29a1ec3b0affc0cc0881379e7d40f81a03f290a4",
+  "_id": "@redux-saga/deferred@1.2.1",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-cmin3IuuzMdfQjA0lG4B+jX+9HdTgHZZ+6u3jRAOwGUxy77GSlTi4Qp2d6PM1PUoTmQUR5aijlA39scWWPF31g==",
+    "tarball": "https://registry.npmjs.org/@redux-saga/deferred/-/deferred-1.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "@redux-saga/deferred",
+  "key": "@redux-saga/deferred/1.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@redux-saga/",
+  "scope": "redux-saga",
+  "bname": "deferred",
+  "fetchInfo": {
+    "narHash": "sha256-4sjfdbKN5IU9LueC9CvT5X7GyFA+sQIzcNGonlPC16I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@redux-saga/deferred/-/deferred-1.2.1.tgz"
+  }
+}

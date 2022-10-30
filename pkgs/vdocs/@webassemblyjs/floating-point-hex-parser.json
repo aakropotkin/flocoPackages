@@ -1,0 +1,37 @@
+{
+  "name": "@webassemblyjs/floating-point-hex-parser",
+  "scripts": {
+    "build-fuzzer": "[ -f ./test/fuzzing/parse.out ] || gcc ./test/fuzzing/parse.c -o ./test/fuzzing/parse.out -lm -Wall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtuc/webassemblyjs.git"
+  },
+  "version": "1.11.4",
+  "description": "A function to parse floating point hexadecimal strings as defined by the WebAssembly specification",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "license": "MIT",
+  "gitHead": "5fd2425602b752576bbe8089c343d5d70ebc861c",
+  "_id": "@webassemblyjs/floating-point-hex-parser@1.11.4",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "lerna/5.1.6/node@v16.13.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-/XkrDSSzPs+PCx//2jTMvrQvdSlBXSkfT+Z3z5avt0Yw0+vfLbsfTOSt+Jp5kZ0qwjIV+MRcgUy/YWg6Z2/SRg==",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.11.4.tgz"
+  },
+  "directories": {},
+  "ident": "@webassemblyjs/floating-point-hex-parser",
+  "key": "@webassemblyjs/floating-point-hex-parser/1.11.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@webassemblyjs/",
+  "scope": "webassemblyjs",
+  "bname": "floating-point-hex-parser",
+  "fetchInfo": {
+    "narHash": "sha256-LVU6NZcNvskSeXegcyBnHRDbSPo2OKAMM2uQKTgU4ss=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.11.4.tgz"
+  }
+}

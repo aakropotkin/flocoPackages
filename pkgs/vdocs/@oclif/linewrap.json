@@ -1,0 +1,36 @@
+{
+  "name": "@oclif/linewrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linewrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroku/node-linewrap.git"
+  },
+  "license": "ISC",
+  "gitHead": "1d814d79da44b9d513b6caa45e70fc7a948673d7",
+  "_id": "@oclif/linewrap@1.0.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.11.1",
+  "dist": {
+    "integrity": "sha512-Ups2dShK52xXa8w6iBWLgcjPJWjais6KPJQq3gQ/88AY6BXoTX+MIGFPrWQO1KLMiQfoTpcLnUwloN4brrVUHw==",
+    "tarball": "https://registry.npmjs.org/@oclif/linewrap/-/linewrap-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@oclif/linewrap",
+  "key": "@oclif/linewrap/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@oclif/",
+  "scope": "oclif",
+  "bname": "linewrap",
+  "fetchInfo": {
+    "narHash": "sha256-Ozr5j4/dL5X2m4d3eb+3wzN7IQvdc9OCto8M5rBpmjc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@oclif/linewrap/-/linewrap-1.0.0.tgz"
+  }
+}

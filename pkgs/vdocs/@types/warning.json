@@ -1,0 +1,34 @@
+{
+  "name": "@types/warning",
+  "version": "3.0.0",
+  "description": "TypeScript definitions for warning",
+  "license": "MIT",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "typesPublisherContentHash": "f4abd393ae060f65b1fa76c5dea60adc3206914a2cd9e10c3d128e84a3ccf4b6",
+  "_id": "@types/warning@3.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/@types/warning/-/warning-3.0.0.tgz",
+    "integrity": "sha512-t/Tvs5qR47OLOr+4E9ckN8AmP2Tf16gWq+/qA4iUGS/OOyHVO8wv2vjJuX8SNOUTJyWb+2t7wJm6cXILFnOROA=="
+  },
+  "directories": {},
+  "ident": "@types/warning",
+  "key": "@types/warning/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "warning",
+  "fetchInfo": {
+    "narHash": "sha256-lNU9B8/evAqtKyiPktQ6YoOsJSwJ27IpR1QetT3vAyU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/warning/-/warning-3.0.0.tgz"
+  }
+}

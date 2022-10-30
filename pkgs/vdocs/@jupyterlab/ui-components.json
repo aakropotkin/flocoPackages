@@ -1,0 +1,103 @@
+{
+  "name": "@jupyterlab/ui-components",
+  "version": "3.5.0",
+  "description": "JupyterLab - UI components written in React",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupyterlab/jupyterlab.git"
+  },
+  "license": "BSD-3-Clause",
+  "sideEffects": [
+    "style/**/*"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "style": "style/index.css",
+  "directories": {
+    "lib": "lib/"
+  },
+  "scripts": {
+    "build": "tsc -b",
+    "build:storybook": "build-storybook -c .storybook",
+    "build:test": "tsc --build tsconfig.test.json",
+    "clean": "rimraf lib && rimraf tsconfig.tsbuildinfo",
+    "cleansvg": "svgo --config svgo.yaml",
+    "docs": "typedoc src",
+    "docs:init": "bash docs/build.sh",
+    "storybook": "start-storybook -p 9001 -c .storybook",
+    "test": "jest",
+    "test:cov": "jest --collect-coverage",
+    "test:debug": "node --inspect-brk node_modules/.bin/jest --runInBand",
+    "test:debug:watch": "node --inspect-brk node_modules/.bin/jest --runInBand --watch",
+    "watch": "tsc -b --watch"
+  },
+  "dependencies": {
+    "@blueprintjs/core": "^3.36.0",
+    "@blueprintjs/select": "^3.15.0",
+    "@jupyterlab/coreutils": "^5.5.0",
+    "@jupyterlab/translation": "^3.5.0",
+    "@lumino/algorithm": "^1.9.0",
+    "@lumino/commands": "^1.19.0",
+    "@lumino/coreutils": "^1.11.0",
+    "@lumino/disposable": "^1.10.0",
+    "@lumino/signaling": "^1.10.0",
+    "@lumino/virtualdom": "^1.14.0",
+    "@lumino/widgets": "^1.33.0",
+    "@rjsf/core": "^3.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "typestyle": "^2.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "@jupyterlab/testutils": "^3.5.0",
+    "@storybook/addon-actions": "6.0.20",
+    "@storybook/react": "6.0.20",
+    "@types/jest": "^26.0.10",
+    "@types/react": "^17.0.0",
+    "@types/webpack-env": "^1.14.1",
+    "babel-loader": "^8.0.6",
+    "jest": "^26.4.2",
+    "rimraf": "~3.0.0",
+    "svgo": "^1.3.2",
+    "ts-jest": "^26.3.0",
+    "typedoc": "~0.21.2",
+    "typescript": "~4.1.3"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
+  "jupyterlab": {
+    "extraStyles": {
+      "blueprintjs": [
+        "icons/lib/css/blueprint-icons.css",
+        "core/lib/css/blueprint.css"
+      ]
+    }
+  },
+  "styleModule": "style/index.js",
+  "_id": "@jupyterlab/ui-components@3.5.0",
+  "_integrity": "sha512-1AIKMUhyLgPYh3R3qvEPRhLKkiVwBtPg571If9UxTvDEJqVwtNTayn47sRsWlOKlueLVwebgEHVSkk2ahxgF6Q==",
+  "_resolved": "/home/runner/work/jupyter_releaser/jupyter_releaser/.jupyter_releaser_checkout/dist/jupyterlab-ui-components-3.5.0.tgz",
+  "_from": "file:jupyterlab-ui-components-3.5.0.tgz",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-1AIKMUhyLgPYh3R3qvEPRhLKkiVwBtPg571If9UxTvDEJqVwtNTayn47sRsWlOKlueLVwebgEHVSkk2ahxgF6Q==",
+    "tarball": "https://registry.npmjs.org/@jupyterlab/ui-components/-/ui-components-3.5.0.tgz"
+  },
+  "ident": "@jupyterlab/ui-components",
+  "key": "@jupyterlab/ui-components/3.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jupyterlab/",
+  "scope": "jupyterlab",
+  "bname": "ui-components",
+  "fetchInfo": {
+    "narHash": "sha256-siAIRXxLKsDvobY2mdjw+EKQ/M1Xh1p81F06JxXvgJQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jupyterlab/ui-components/-/ui-components-3.5.0.tgz"
+  }
+}

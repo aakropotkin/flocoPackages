@@ -1,0 +1,48 @@
+{
+  "name": "@ember-data/rfc395-data",
+  "version": "0.0.4",
+  "description": "JSON data for Ember.js RFC #395",
+  "main": "mappings.json",
+  "repository": {
+    "url": "git+htps://github.com/ember-data/ember-data-rfc395-data.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint .",
+    "changelog": "lerna-changelog",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "eslint": "^5.15.3",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-jest": "^22.4.1",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "jest": "^24.5.0",
+    "lerna-changelog": "^0.8.2",
+    "prettier": "^1.16.4"
+  },
+  "gitHead": "220586d5195193dae64b28e9d710e4ea1cdc5148",
+  "_id": "@ember-data/rfc395-data@0.0.4",
+  "_nodeVersion": "11.13.0",
+  "_npmVersion": "6.9.1-next.0",
+  "dist": {
+    "integrity": "sha512-tGRdvgC9/QMQSuSuJV45xoyhI0Pzjm7A9o/MVVA3HakXIImJbbzx/k/6dO9CUEQXIyS2y0fW6C1XaYOG7rY0FQ==",
+    "tarball": "https://registry.npmjs.org/@ember-data/rfc395-data/-/rfc395-data-0.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "@ember-data/rfc395-data",
+  "key": "@ember-data/rfc395-data/0.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@ember-data/",
+  "scope": "ember-data",
+  "bname": "rfc395-data",
+  "fetchInfo": {
+    "narHash": "sha256-h12Gh8QBnfXexycfB21JMtmk1dpajYdFGwobUvzKkcY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ember-data/rfc395-data/-/rfc395-data-0.0.4.tgz"
+  }
+}

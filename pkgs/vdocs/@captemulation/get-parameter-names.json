@@ -1,0 +1,62 @@
+{
+  "name": "@captemulation/get-parameter-names",
+  "version": "1.4.2",
+  "types": "dist/index.d.ts",
+  "description": "Retrieves parameter names from a function",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captemulation/get-parameter-names.git"
+  },
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "ts-mocha -p tsconfig.json src/**.spec.ts",
+    "build": "tsc",
+    "build:watch": "npm run build -- -watch",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/register": "^7.4.4",
+    "@types/chai": "^4.2.14",
+    "@types/debug": "^4.1.5",
+    "@types/expect": "^24.3.0",
+    "@types/mocha": "^8.0.4",
+    "chai": "^1.8.1",
+    "mocha": "^8.2.1",
+    "ts-mocha": "^8.0.0",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.4.5",
+    "debug": "^4.1.1"
+  },
+  "gitHead": "b5284c6abe2570978379442e83ee708becd69480",
+  "_id": "@captemulation/get-parameter-names@1.4.2",
+  "_nodeVersion": "12.18.3",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-mTU1NgJ/a2wgVIww99jzUB5Kbfep6/R0b33qIcLJAjPt7RbmzlZVlbsGYjAj3cJGq0laY9e2Jno+RppxDmyThg==",
+    "tarball": "https://registry.npmjs.org/@captemulation/get-parameter-names/-/get-parameter-names-1.4.2.tgz"
+  },
+  "directories": {},
+  "ident": "@captemulation/get-parameter-names",
+  "key": "@captemulation/get-parameter-names/1.4.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@captemulation/",
+  "scope": "captemulation",
+  "bname": "get-parameter-names",
+  "fetchInfo": {
+    "narHash": "sha256-5cgBFAu/7QgbzStvFvIr8m57Q2YejWpU9/x8GoTRYwc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@captemulation/get-parameter-names/-/get-parameter-names-1.4.2.tgz"
+  }
+}

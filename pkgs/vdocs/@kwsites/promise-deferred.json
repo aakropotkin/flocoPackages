@@ -1,0 +1,57 @@
+{
+  "name": "@kwsites/promise-deferred",
+  "description": "Minimalist creation of promise wrappers, exposing the ability to resolve or reject the inner promise",
+  "version": "1.1.1",
+  "private": false,
+  "main": "./dist/index",
+  "types": "./dist/index",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kwsites/promise-deferred.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/preset-typescript": "^7.10.1",
+    "@types/jest": "^26.0.0",
+    "@types/node": "^14.0.13",
+    "babel-jest": "^26.1.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^26.1.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "clean": "git clean -fxd -e .idea -e node_modules",
+    "clean:modules": "git clean -fxd node_modules",
+    "build": "tsc --build",
+    "build:clean": "yarn run clean && tsc",
+    "preversion": "yarn run build:clean && yarn test",
+    "postversion": "npm publish --access=public && git push && git push --tags",
+    "test": "jest --coverage",
+    "tsc": "tsc"
+  },
+  "gitHead": "70faae7fed3998a8e16b4370f6558c567248b6f9",
+  "_id": "@kwsites/promise-deferred@1.1.1",
+  "_nodeVersion": "12.16.2",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-GaHYm+c0O9MjZRu0ongGBRbinu8gVAMd2UZjji6jVmqKtZluZnptXGWhz1E8j8D2HJ3f/yMxKAUC0b+57wncIw==",
+    "tarball": "https://registry.npmjs.org/@kwsites/promise-deferred/-/promise-deferred-1.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "@kwsites/promise-deferred",
+  "key": "@kwsites/promise-deferred/1.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@kwsites/",
+  "scope": "kwsites",
+  "bname": "promise-deferred",
+  "fetchInfo": {
+    "narHash": "sha256-LLA+PHt6f1/p20aglDM0cZaswLY6o+YKSeoBaXUYaVw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@kwsites/promise-deferred/-/promise-deferred-1.1.1.tgz"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@types/mdurl",
+  "version": "1.0.2",
+  "description": "TypeScript definitions for mdurl",
+  "license": "MIT",
+  "main": "",
+  "types": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "55901ccf45e8744ad241fd6beb7750d1c1f77d7fe727ac575e234c1431eb5bca",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/mdurl@1.0.2",
+  "dist": {
+    "integrity": "sha512-eC4U9MlIcu2q0KQmXszyn5Akca/0jrQmwDRgpAMJai7qBWq4amIQhZyNau4VYGtCeALvW1/NtjzJJ567aZxfKA==",
+    "tarball": "https://registry.npmjs.org/@types/mdurl/-/mdurl-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "@types/mdurl",
+  "key": "@types/mdurl/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "mdurl",
+  "fetchInfo": {
+    "narHash": "sha256-XMjDDvESjn/5M6h5VLwO7Oq4okM960iP6pV6licmgB4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/mdurl/-/mdurl-1.0.2.tgz"
+  }
+}

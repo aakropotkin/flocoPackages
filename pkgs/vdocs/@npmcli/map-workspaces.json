@@ -1,0 +1,68 @@
+{
+  "name": "@npmcli/map-workspaces",
+  "version": "3.0.0",
+  "main": "lib/index.js",
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "description": "Retrieves a name:pathname Map for a given workspaces config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/map-workspaces.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "lint": "eslint \"**/*.js\"",
+    "pretest": "npm run lint",
+    "test": "tap",
+    "snap": "tap",
+    "postlint": "template-oss-check",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "tap": {
+    "check-coverage": true,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "dependencies": {
+    "@npmcli/name-from-folder": "^1.0.1",
+    "glob": "^8.0.1",
+    "minimatch": "^5.0.1",
+    "read-package-json-fast": "^3.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "2116479b0ccd88bf5bdba5f4542cf32a385f89bd",
+  "_id": "@npmcli/map-workspaces@3.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-aaEDwQ+fUH80iNYSDAcKv9lxIFWsgGkLjIPZENyep75hKeAk2CfSbCAZ6IHDDrVlNybvvNmlFjPap6GdTz9cCw==",
+    "tarball": "https://registry.npmjs.org/@npmcli/map-workspaces/-/map-workspaces-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "@npmcli/map-workspaces",
+  "key": "@npmcli/map-workspaces/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@npmcli/",
+  "scope": "npmcli",
+  "bname": "map-workspaces",
+  "fetchInfo": {
+    "narHash": "sha256-yRfXPe2ipNfKi0cvYtPlSFx16heUFQleyhpP7Qcpt8E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/map-workspaces/-/map-workspaces-3.0.0.tgz"
+  }
+}

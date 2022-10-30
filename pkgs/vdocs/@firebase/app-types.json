@@ -1,0 +1,42 @@
+{
+  "name": "@firebase/app-types",
+  "version": "0.8.1",
+  "description": "@firebase/app Types",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "tsc",
+    "test:ci": "node ../../scripts/run_tests_in_ci.js"
+  },
+  "repository": {
+    "directory": "packages/app-types",
+    "type": "git",
+    "url": "git+https://github.com/firebase/firebase-js-sdk.git"
+  },
+  "dependency": {
+    "@firebase/logger": "0.2.6"
+  },
+  "devDependencies": {
+    "typescript": "4.2.2"
+  },
+  "_id": "@firebase/app-types@0.8.1",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "6.14.17",
+  "dist": {
+    "integrity": "sha512-p75Ow3QhB82kpMzmOntv866wH9eZ3b4+QbUY+8/DA5Zzdf1c8Nsk8B7kbFpzJt4wwHMdy5LTF5YUnoTc1JiWkw==",
+    "tarball": "https://registry.npmjs.org/@firebase/app-types/-/app-types-0.8.1.tgz"
+  },
+  "directories": {},
+  "ident": "@firebase/app-types",
+  "key": "@firebase/app-types/0.8.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@firebase/",
+  "scope": "firebase",
+  "bname": "app-types",
+  "fetchInfo": {
+    "narHash": "sha256-/2wZPAVTB0s56iWF9zjTTWrK9F7258YgpFSJo12iijg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/app-types/-/app-types-0.8.1.tgz"
+  }
+}

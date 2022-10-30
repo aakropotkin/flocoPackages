@@ -1,0 +1,36 @@
+{
+  "name": "@types/unist",
+  "version": "2.0.6",
+  "description": "TypeScript definitions for Unist",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/unist"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "da5f2c3f967fa07869161991244bb7f9a237ac20494b902ffcb9108deb9b4e12",
+  "typeScriptVersion": "3.6",
+  "_id": "@types/unist@2.0.6",
+  "dist": {
+    "integrity": "sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==",
+    "tarball": "https://registry.npmjs.org/@types/unist/-/unist-2.0.6.tgz"
+  },
+  "directories": {},
+  "ident": "@types/unist",
+  "key": "@types/unist/2.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "unist",
+  "fetchInfo": {
+    "narHash": "sha256-UtT+e4K57dR3ze0vigK2EOVwyk+y6k4x+egWadaj/So=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/unist/-/unist-2.0.6.tgz"
+  }
+}

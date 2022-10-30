@@ -1,0 +1,52 @@
+{
+  "name": "@jest/create-cache-key-function",
+  "version": "29.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/jest-create-cache-key-function"
+  },
+  "dependencies": {
+    "@jest/types": "^29.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "*",
+    "jest-util": "^29.2.1"
+  },
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "gitHead": "4551c0fdd4d25b7206824957c7bcc6baf61e63bf",
+  "description": "This module creates a function which is used for generating cache keys used by code transformers in Jest.",
+  "_id": "@jest/create-cache-key-function@29.2.1",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-///wxGQUyP0GCr3L1OcqIzhsKvN2gOyqWsRxs56XGCdD8EEuoKg857G9nC+zcWIpIsG+3J5UnEbhe3LJw8CNmQ==",
+    "tarball": "https://registry.npmjs.org/@jest/create-cache-key-function/-/create-cache-key-function-29.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "@jest/create-cache-key-function",
+  "key": "@jest/create-cache-key-function/29.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jest/",
+  "scope": "jest",
+  "bname": "create-cache-key-function",
+  "fetchInfo": {
+    "narHash": "sha256-ieisZvMo+528504EyXJZ4Kf8RsSfy59MvUYwvZZq2t4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jest/create-cache-key-function/-/create-cache-key-function-29.2.1.tgz"
+  }
+}

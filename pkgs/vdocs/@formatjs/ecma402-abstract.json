@@ -1,0 +1,43 @@
+{
+  "name": "@formatjs/ecma402-abstract",
+  "version": "1.13.0",
+  "description": "A collection of implementation for ECMAScript abstract operations",
+  "dependencies": {
+    "@formatjs/intl-localematcher": "0.2.31",
+    "tslib": "2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:formatjs/formatjs.git"
+  },
+  "sideEffects": false,
+  "main": "index.js",
+  "module": "lib/index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "gitHead": "a7842673d8ad205171ad7c8cb8bb2f318b427c0c",
+  "_id": "@formatjs/ecma402-abstract@1.13.0",
+  "_integrity": "sha512-CQ8Ykd51jYD1n05dtoX6ns6B9n/+6ZAxnWUAonvHC4kkuAemROYBhHkEB4tm1uVrRlE7gLDqXkAnY51Y0pRCWQ==",
+  "_resolved": "/private/var/folders/7r/h76yx7tx2dg03b2t1cgk89380000gq/T/b1ca0bf95965130fe31f41c227e6fca2/formatjs-ecma402-abstract-1.13.0.tgz",
+  "_from": "file:formatjs-ecma402-abstract-1.13.0.tgz",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-CQ8Ykd51jYD1n05dtoX6ns6B9n/+6ZAxnWUAonvHC4kkuAemROYBhHkEB4tm1uVrRlE7gLDqXkAnY51Y0pRCWQ==",
+    "tarball": "https://registry.npmjs.org/@formatjs/ecma402-abstract/-/ecma402-abstract-1.13.0.tgz"
+  },
+  "directories": {},
+  "ident": "@formatjs/ecma402-abstract",
+  "key": "@formatjs/ecma402-abstract/1.13.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@formatjs/",
+  "scope": "formatjs",
+  "bname": "ecma402-abstract",
+  "fetchInfo": {
+    "narHash": "sha256-5rZu1JnIoATMuPp8gzC9CoRvf96GZOkKPX2pDnTP6g8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@formatjs/ecma402-abstract/-/ecma402-abstract-1.13.0.tgz"
+  }
+}

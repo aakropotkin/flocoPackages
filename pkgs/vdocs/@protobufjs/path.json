@@ -1,0 +1,42 @@
+{
+  "name": "@protobufjs/path",
+  "description": "A minimal path module to resolve Unix, Windows and URL paths alike.",
+  "version": "1.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcodeIO/protobuf.js.git"
+  },
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "tape tests/*.js",
+    "coverage": "istanbul cover node_modules/tape/bin/tape tests/*.js"
+  },
+  "_id": "@protobufjs/path@1.1.2",
+  "_shasum": "6cc2b20c5c9ad6ad0dccfd21ca7673d8d7fbf68d",
+  "_from": ".",
+  "_npmVersion": "4.0.5",
+  "_nodeVersion": "6.9.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/@protobufjs/path/-/path-1.1.2.tgz",
+    "integrity": "sha512-6JOcJ5Tm08dOHAbdR3GrvP+yUUfkjG5ePsHYczMFLq3ZmMkAD98cDgcT2iA1lJ9NVwFd4tH/iSSoe44YWkltEA=="
+  },
+  "ident": "@protobufjs/path",
+  "key": "@protobufjs/path/1.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@protobufjs/",
+  "scope": "protobufjs",
+  "bname": "path",
+  "fetchInfo": {
+    "narHash": "sha256-rHImxEkFwyZp8c3VPSfqplm6oJawB1SdPHpALEYwWKE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/path/-/path-1.1.2.tgz"
+  }
+}

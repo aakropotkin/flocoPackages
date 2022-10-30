@@ -1,0 +1,45 @@
+{
+  "name": "@npmcli/name-from-folder",
+  "version": "1.0.1",
+  "description": "Get the package name from a folder path",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/name-from-folder.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "prepublishOnly": "git push origin --follow-tags"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "devDependencies": {
+    "tap": "^14.10.7"
+  },
+  "gitHead": "d506f09af3edb0fe83e0a05f986ed660ddd9f1e2",
+  "_id": "@npmcli/name-from-folder@1.0.1",
+  "_nodeVersion": "13.10.1",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-qq3oEfcLFwNfEYOQ8HLimRGKlD8WSeGEdtUa7hmzpR8Sa7haL1KVQrvgO6wqMjhWFFVjgtrh1gIxDz+P8sjUaA==",
+    "tarball": "https://registry.npmjs.org/@npmcli/name-from-folder/-/name-from-folder-1.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@npmcli/name-from-folder",
+  "key": "@npmcli/name-from-folder/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@npmcli/",
+  "scope": "npmcli",
+  "bname": "name-from-folder",
+  "fetchInfo": {
+    "narHash": "sha256-kGBZRXvxtojjoYrG12DiWWINTDjIe6PCpSzrk/Xo6tc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/name-from-folder/-/name-from-folder-1.0.1.tgz"
+  }
+}

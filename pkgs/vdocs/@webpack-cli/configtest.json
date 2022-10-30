@@ -1,0 +1,38 @@
+{
+  "name": "@webpack-cli/configtest",
+  "version": "1.2.0",
+  "description": "Validate a webpack configuration.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpack/webpack-cli.git"
+  },
+  "peerDependencies": {
+    "webpack": "4.x.x || 5.x.x",
+    "webpack-cli": "4.x.x"
+  },
+  "gitHead": "20882d463450d010bb76e0824fe555e9785e9561",
+  "_id": "@webpack-cli/configtest@1.2.0",
+  "_nodeVersion": "18.1.0",
+  "_npmVersion": "lerna/4.0.0/node@v18.1.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-4FB8Tj6xyVkyqjj1OaTqCjXYULB9FMkqQ8yGrZjRDrYh0nOE+7Lhs45WioWQQMV+ceFlE368Ukhe6xdvJM9Egg==",
+    "tarball": "https://registry.npmjs.org/@webpack-cli/configtest/-/configtest-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "@webpack-cli/configtest",
+  "key": "@webpack-cli/configtest/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@webpack-cli/",
+  "scope": "webpack-cli",
+  "bname": "configtest",
+  "fetchInfo": {
+    "narHash": "sha256-/vVSf76KgYjaLCW/n7t2FfC0V2Wafd1TRWeU+EcyYZQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@webpack-cli/configtest/-/configtest-1.2.0.tgz"
+  }
+}

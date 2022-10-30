@@ -1,0 +1,33 @@
+{
+  "name": "@sinonjs/text-encoding",
+  "version": "0.7.2",
+  "description": "Polyfill for the Encoding Living Standard's API.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinonjs/text-encoding.git"
+  },
+  "license": "(Unlicense OR Apache-2.0)",
+  "gitHead": "d18cd4a1096a8f677a8ddeaf55251090b06e44f4",
+  "_id": "@sinonjs/text-encoding@0.7.2",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-sXXKG+uL9IrKqViTtao2Ws6dy0znu9sOaP1di/jKGW1M6VssO8vlpXCQcpZ+jisQ1tTFAC5Jo/EOzFbggBagFQ==",
+    "tarball": "https://registry.npmjs.org/@sinonjs/text-encoding/-/text-encoding-0.7.2.tgz"
+  },
+  "directories": {},
+  "ident": "@sinonjs/text-encoding",
+  "key": "@sinonjs/text-encoding/0.7.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@sinonjs/",
+  "scope": "sinonjs",
+  "bname": "text-encoding",
+  "fetchInfo": {
+    "narHash": "sha256-vGTtnaXJrAoL/AumkfJ2milisV7xKeIuf7JKDT24Lew=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sinonjs/text-encoding/-/text-encoding-0.7.2.tgz"
+  }
+}

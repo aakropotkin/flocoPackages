@@ -1,0 +1,67 @@
+{
+  "name": "@csstools/selector-specificity",
+  "description": "Determine selector specificity with postcss-selector-parser",
+  "version": "2.0.2",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "peerDependencies": {
+    "postcss": "^8.2",
+    "postcss-selector-parser": "^6.0.10"
+  },
+  "devDependencies": {
+    "postcss-selector-parser": "^6.0.10"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "stryker": "stryker run --logLevel error",
+    "test": "npm run test:exports && node ./test/example.mjs && node ./test/test.mjs && node ./test/tests-from-bramus-specificity.mjs && node ./test/tests-from-keeganstreet-specificity.mjs && node ./test/test-compare.mjs",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "packages/selector-specificity"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "9c762dff1caa67c992203452391570e9c6b52f4b",
+  "_id": "@csstools/selector-specificity@2.0.2",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-IkpVW/ehM1hWKln4fCA3NzJU8KwD+kIOvPZA4cqxoJHtE21CCzjyp+Kxbu0i5I4tBNOlXPL9mjwnWlL0VEG4Fg==",
+    "tarball": "https://registry.npmjs.org/@csstools/selector-specificity/-/selector-specificity-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "@csstools/selector-specificity",
+  "key": "@csstools/selector-specificity/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@csstools/",
+  "scope": "csstools",
+  "bname": "selector-specificity",
+  "fetchInfo": {
+    "narHash": "sha256-ckvbF45yeq1Sd2V1fO4iz6h+jAAeFntQM6CB+BnqBc4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/selector-specificity/-/selector-specificity-2.0.2.tgz"
+  }
+}

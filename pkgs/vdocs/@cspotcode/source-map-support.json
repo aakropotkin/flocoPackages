@@ -1,0 +1,59 @@
+{
+  "name": "@cspotcode/source-map-support",
+  "description": "Fixes stack traces for files with source maps",
+  "version": "0.8.1",
+  "main": "./source-map-support.js",
+  "types": "./source-map-support.d.ts",
+  "scripts": {
+    "build": "node build.js",
+    "serve-tests": "http-server -p 1336",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@jridgewell/trace-mapping": "0.3.9"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "browserify": "^4.2.3",
+    "coffeescript": "^1.12.7",
+    "http-server": "^0.11.1",
+    "lodash": "^4.17.21",
+    "mocha": "^3.5.3",
+    "semver": "^7.3.7",
+    "source-map": "0.6.1",
+    "webpack": "^1.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cspotcode/node-source-map-support.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "volta": {
+    "node": "16.11.0",
+    "npm": "7.24.2"
+  },
+  "_id": "@cspotcode/source-map-support@0.8.1",
+  "_nodeVersion": "17.3.1",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==",
+    "tarball": "https://registry.npmjs.org/@cspotcode/source-map-support/-/source-map-support-0.8.1.tgz"
+  },
+  "directories": {},
+  "ident": "@cspotcode/source-map-support",
+  "key": "@cspotcode/source-map-support/0.8.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@cspotcode/",
+  "scope": "cspotcode",
+  "bname": "source-map-support",
+  "fetchInfo": {
+    "narHash": "sha256-yrR9Ec94pzf1kOGVe1kNTRzFkeAIqbgVHTVW4v2jSX0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@cspotcode/source-map-support/-/source-map-support-0.8.1.tgz"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "@tsconfig/node10",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsconfig/bases.git",
+    "directory": "bases"
+  },
+  "license": "MIT",
+  "description": "A base TSConfig for working with Node 10.",
+  "version": "1.0.9",
+  "_id": "@tsconfig/node10@1.0.9",
+  "_nodeVersion": "10.24.1",
+  "_npmVersion": "6.14.12",
+  "dist": {
+    "integrity": "sha512-jNsYVVxU8v5g43Erja32laIDHXeoNvFEpX33OK4d6hljo3jDhCBDhx5dhCCTMWUojscpAagGiRkBKxpdl9fxqA==",
+    "tarball": "https://registry.npmjs.org/@tsconfig/node10/-/node10-1.0.9.tgz"
+  },
+  "directories": {},
+  "ident": "@tsconfig/node10",
+  "key": "@tsconfig/node10/1.0.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@tsconfig/",
+  "scope": "tsconfig",
+  "bname": "node10",
+  "fetchInfo": {
+    "narHash": "sha256-RRDSljGJXL7Col8+Ew/up4N97b5RcqdIRQPIzLBHTKo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@tsconfig/node10/-/node10-1.0.9.tgz"
+  }
+}

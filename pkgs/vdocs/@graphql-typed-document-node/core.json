@@ -1,0 +1,53 @@
+{
+  "name": "@graphql-typed-document-node/core",
+  "version": "3.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dotansimha/graphql-typed-document-node.git"
+  },
+  "license": "MIT",
+  "sideEffects": false,
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "typings": "dist/index.d.ts",
+  "typescript": {
+    "definition": "dist/index.d.ts"
+  },
+  "scripts": {
+    "test": "jest",
+    "prepack": "bob prepack"
+  },
+  "devDependencies": {
+    "bob-the-bundler": "1.1.0",
+    "graphql": "16.0.1",
+    "typescript": "4.4.4"
+  },
+  "peerDependencies": {
+    "graphql": "^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+  },
+  "buildOptions": {
+    "input": "./src/index.ts"
+  },
+  "gitHead": "4c40fa0ac2975dea0a30669176229fb63123f643",
+  "_id": "@graphql-typed-document-node/core@3.1.1",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-NQ17ii0rK1b34VZonlmT2QMJFI70m0TRwbknO/ihlbatXyaktDhN/98vBiUU6kNBPljqGqyIrl2T4nY2RpFANg==",
+    "tarball": "https://registry.npmjs.org/@graphql-typed-document-node/core/-/core-3.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "@graphql-typed-document-node/core",
+  "key": "@graphql-typed-document-node/core/3.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@graphql-typed-document-node/",
+  "scope": "graphql-typed-document-node",
+  "bname": "core",
+  "fetchInfo": {
+    "narHash": "sha256-b61XvOwb0TMGcvakuh3xrZB52mRbA/WBXxqremosD6I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@graphql-typed-document-node/core/-/core-3.1.1.tgz"
+  }
+}

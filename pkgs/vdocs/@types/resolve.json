@@ -1,0 +1,36 @@
+{
+  "name": "@types/resolve",
+  "version": "1.20.2",
+  "description": "TypeScript definitions for resolve",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/resolve"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "f17c01e45c248ed2430e1f5d8b89310de423f1564ee420b04ea91177066c05f1",
+  "typeScriptVersion": "3.9",
+  "_id": "@types/resolve@1.20.2",
+  "dist": {
+    "integrity": "sha512-60BCwRFOZCQhDncwQdxxeOEEkbc5dIMccYLwbxsS4TUNeVECQ/pBJ0j09mrHOl/JJvpRPGwO9SvE4nR2Nb/a4Q==",
+    "tarball": "https://registry.npmjs.org/@types/resolve/-/resolve-1.20.2.tgz"
+  },
+  "directories": {},
+  "ident": "@types/resolve",
+  "key": "@types/resolve/1.20.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "resolve",
+  "fetchInfo": {
+    "narHash": "sha256-3wGG869v4OpI708wixkoRsqy/9EUaDiNlU1PtwRFem0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/resolve/-/resolve-1.20.2.tgz"
+  }
+}

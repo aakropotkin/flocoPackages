@@ -1,0 +1,72 @@
+{
+  "name": "@firebase/logger",
+  "version": "0.3.4",
+  "description": "A logger package for use in the Firebase JS SDK",
+  "main": "dist/index.cjs.js",
+  "module": "dist/esm/index.esm2017.js",
+  "esm5": "dist/esm/index.esm5.js",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "require": "./dist/index.cjs.js",
+      "esm5": "./dist/esm/index.esm5.js",
+      "default": "./dist/esm/index.esm2017.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "lint": "eslint -c .eslintrc.js '**/*.ts' --ignore-path '../../.gitignore'",
+    "lint:fix": "eslint --fix -c .eslintrc.js '**/*.ts' --ignore-path '../../.gitignore'",
+    "build": "rollup -c",
+    "build:deps": "lerna run --scope @firebase/logger --include-dependencies build",
+    "dev": "rollup -c -w",
+    "test": "run-p lint test:all",
+    "test:ci": "node ../../scripts/run_tests_in_ci.js -s test:all",
+    "test:all": "run-p test:browser test:node",
+    "test:browser": "karma start --single-run",
+    "test:browser:debug": "karma start --browsers Chrome --auto-watch",
+    "test:node": "TS_NODE_COMPILER_OPTIONS='{\"module\":\"commonjs\"}' nyc --reporter lcovonly -- mocha test/**/*.test.* --config ../../config/mocharc.node.js"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "tslib": "^2.1.0"
+  },
+  "devDependencies": {
+    "rollup": "2.79.1",
+    "rollup-plugin-typescript2": "0.31.2",
+    "typescript": "4.2.2"
+  },
+  "repository": {
+    "directory": "packages/logger",
+    "type": "git",
+    "url": "git+https://github.com/firebase/firebase-js-sdk.git"
+  },
+  "typings": "dist/index.d.ts",
+  "nyc": {
+    "extension": [
+      ".ts"
+    ],
+    "reportDir": "./coverage/node"
+  },
+  "_id": "@firebase/logger@0.3.4",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "6.14.17",
+  "dist": {
+    "integrity": "sha512-hlFglGRgZEwoyClZcGLx/Wd+zoLfGmbDkFx56mQt/jJ0XMbfPqwId1kiPl0zgdWZX+D8iH+gT6GuLPFsJWgiGw==",
+    "tarball": "https://registry.npmjs.org/@firebase/logger/-/logger-0.3.4.tgz"
+  },
+  "directories": {},
+  "ident": "@firebase/logger",
+  "key": "@firebase/logger/0.3.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@firebase/",
+  "scope": "firebase",
+  "bname": "logger",
+  "fetchInfo": {
+    "narHash": "sha256-tRNv8pLvBGlEtGXlwkriFazU3ab3ujrzLNJ3X9p5gzQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/logger/-/logger-0.3.4.tgz"
+  }
+}

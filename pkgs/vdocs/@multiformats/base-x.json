@@ -1,0 +1,48 @@
+{
+  "name": "@multiformats/base-x",
+  "version": "4.0.1",
+  "description": "Fast base encoding / decoding of any given alphabet",
+  "license": "MIT",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gozala/@multiformats/base-x.git"
+  },
+  "scripts": {
+    "build": "tsc -p ./tsconfig.json ; standard --fix",
+    "gitdiff": "npm run build && git diff --exit-code",
+    "prepublish": "npm run gitdiff",
+    "standard": "standard",
+    "test": "npm run unit && npm run standard",
+    "unit": "tape test/*.js"
+  },
+  "devDependencies": {
+    "@types/node": "12.0.10",
+    "standard": "^10.0.3",
+    "tape": "^4.5.1",
+    "typescript": "3.5.2"
+  },
+  "gitHead": "ed2301bd9925db236d63c0e0547fd7f4492f2e56",
+  "_id": "@multiformats/base-x@4.0.1",
+  "_nodeVersion": "12.18.4",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-eMk0b9ReBbV23xXU693TAIrLyeO5iTgBZGSJfpqriG8UkYvr/hC9u9pyMlAakDNHWmbhMZCDs6KQO0jzKD8OTw==",
+    "tarball": "https://registry.npmjs.org/@multiformats/base-x/-/base-x-4.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "@multiformats/base-x",
+  "key": "@multiformats/base-x/4.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@multiformats/",
+  "scope": "multiformats",
+  "bname": "base-x",
+  "fetchInfo": {
+    "narHash": "sha256-ICc3Cg3ACaKM0SLFAlbMNPV+nsgVEvMGEXDL3lf1Ekc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@multiformats/base-x/-/base-x-4.0.1.tgz"
+  }
+}

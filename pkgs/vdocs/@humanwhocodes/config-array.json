@@ -1,0 +1,70 @@
+{
+  "name": "@humanwhocodes/config-array",
+  "version": "0.11.7",
+  "description": "Glob-based configuration matching.",
+  "main": "api.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humanwhocodes/config-array.git"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "format": "nitpik",
+    "lint": "eslint *.config.js src/*.js tests/*.js",
+    "lint:fix": "eslint --fix *.config.js src/*.js tests/*.js",
+    "prepublish": "npm run build",
+    "test:coverage": "nyc --include src/*.js npm run test",
+    "test": "mocha -r esm tests/ --recursive"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix --ignore-pattern '!.eslintrc.js'"
+    ]
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=10.10.0"
+  },
+  "dependencies": {
+    "@humanwhocodes/object-schema": "^1.2.1",
+    "debug": "^4.1.1",
+    "minimatch": "^3.0.5"
+  },
+  "devDependencies": {
+    "@nitpik/javascript": "0.4.0",
+    "@nitpik/node": "0.0.5",
+    "chai": "4.3.6",
+    "eslint": "8.26.0",
+    "esm": "3.2.25",
+    "lint-staged": "13.0.3",
+    "mocha": "6.2.3",
+    "nyc": "14.1.1",
+    "rollup": "1.16.6",
+    "yorkie": "2.0.0"
+  },
+  "gitHead": "bfea573ed843ff7278483d5dfc31ada9f8f638c7",
+  "_id": "@humanwhocodes/config-array@0.11.7",
+  "_nodeVersion": "12.22.12",
+  "_npmVersion": "6.14.16",
+  "dist": {
+    "integrity": "sha512-kBbPWzN8oVMLb0hOUYXhmxggL/1cJE6ydvjDIGi9EnAGUyA7cLVKQg+d/Dsm+KZwx2czGHrCmMVLiyg8s5JPKw==",
+    "tarball": "https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.11.7.tgz"
+  },
+  "directories": {},
+  "ident": "@humanwhocodes/config-array",
+  "key": "@humanwhocodes/config-array/0.11.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@humanwhocodes/",
+  "scope": "humanwhocodes",
+  "bname": "config-array",
+  "fetchInfo": {
+    "narHash": "sha256-0d7z4lBGNCI+fOqnEp3FI6gNS7qJqF3Uy2Vk4NzBaR8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.11.7.tgz"
+  }
+}

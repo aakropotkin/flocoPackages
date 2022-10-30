@@ -1,0 +1,73 @@
+{
+  "name": "@grpc/proto-loader",
+  "version": "0.7.3",
+  "description": "gRPC utility library for loading .proto files",
+  "main": "build/src/index.js",
+  "typings": "build/src/index.d.ts",
+  "scripts": {
+    "build": "npm run compile",
+    "clean": "rimraf ./build",
+    "compile": "tsc -p .",
+    "format": "clang-format -i -style=\"{Language: JavaScript, BasedOnStyle: Google, ColumnLimit: 80}\" src/*.ts test/*.ts",
+    "lint": "tslint -c node_modules/google-ts-style/tslint.json -p . -t codeFrame --type-check",
+    "prepare": "npm run compile",
+    "test": "gulp test",
+    "check": "gts check",
+    "fix": "gts fix",
+    "pretest": "npm run compile",
+    "posttest": "npm run check",
+    "generate-golden": "node ./build/bin/proto-loader-gen-types.js --keepCase --longs=String --enums=String --defaults --oneofs --json --includeComments --inputTemplate=I%s --outputTemplate=O%s -I deps/gapic-showcase/schema/ deps/googleapis/ -O ./golden-generated --grpcLib @grpc/grpc-js google/showcase/v1beta1/echo.proto",
+    "validate-golden": "rm -rf ./golden-generated-old && mv ./golden-generated/ ./golden-generated-old && npm run generate-golden && diff -rb ./golden-generated ./golden-generated-old"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grpc/grpc-node.git"
+  },
+  "license": "Apache-2.0",
+  "bin": {
+    "proto-loader-gen-types": "build/bin/proto-loader-gen-types.js"
+  },
+  "dependencies": {
+    "@types/long": "^4.0.1",
+    "lodash.camelcase": "^4.3.0",
+    "long": "^4.0.0",
+    "protobufjs": "^7.0.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "@types/lodash.camelcase": "^4.3.4",
+    "@types/mkdirp": "^1.0.1",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^10.17.26",
+    "@types/yargs": "^16.0.4",
+    "clang-format": "^1.2.2",
+    "gts": "^3.1.0",
+    "rimraf": "^3.0.2",
+    "typescript": "~4.7.4"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "gitHead": "68e310d38da9bc490ce68221688a1e88d884d644",
+  "_id": "@grpc/proto-loader@0.7.3",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.21.1",
+  "dist": {
+    "integrity": "sha512-5dAvoZwna2Py3Ef96Ux9jIkp3iZ62TUsV00p3wVBPNX5K178UbNi8Q7gQVqwXT1Yq9RejIGG9G2IPEo93T6RcA==",
+    "tarball": "https://registry.npmjs.org/@grpc/proto-loader/-/proto-loader-0.7.3.tgz"
+  },
+  "directories": {},
+  "ident": "@grpc/proto-loader",
+  "key": "@grpc/proto-loader/0.7.3",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "scopeDir": "@grpc/",
+  "scope": "grpc",
+  "bname": "proto-loader",
+  "fetchInfo": {
+    "narHash": "sha256-ejvdBr3KAmNkulL3NN8e/drxlXw8jDC/qRB84CgfTok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@grpc/proto-loader/-/proto-loader-0.7.3.tgz"
+  }
+}

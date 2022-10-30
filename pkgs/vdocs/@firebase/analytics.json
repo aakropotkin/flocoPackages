@@ -1,0 +1,88 @@
+{
+  "name": "@firebase/analytics",
+  "version": "0.8.4",
+  "description": "A analytics package for new firebase packages",
+  "main": "dist/index.cjs.js",
+  "browser": "dist/esm/index.esm2017.js",
+  "module": "dist/esm/index.esm2017.js",
+  "esm5": "dist/esm/index.esm.js",
+  "exports": {
+    ".": {
+      "types": "./dist/analytics-public.d.ts",
+      "require": "./dist/index.cjs.js",
+      "esm5": "./dist/esm/index.esm.js",
+      "default": "./dist/esm/index.esm2017.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "lint": "eslint -c .eslintrc.js '**/*.ts' --ignore-path '../../.gitignore'",
+    "lint:fix": "eslint --fix -c .eslintrc.js '**/*.ts' --ignore-path '../../.gitignore'",
+    "build": "rollup -c && yarn api-report",
+    "build:release": "yarn build && yarn typings:public",
+    "build:deps": "lerna run --scope @firebase/analytics --include-dependencies build",
+    "dev": "rollup -c -w",
+    "test": "run-p lint test:all",
+    "test:all": "run-p test:browser test:integration",
+    "test:ci": "node ../../scripts/run_tests_in_ci.js -s test:all",
+    "test:browser": "karma start --single-run --nocache",
+    "test:integration": "karma start ./karma.integration.conf.js --single-run --nocache",
+    "api-report": "api-extractor run --local --verbose",
+    "doc": "api-documenter markdown --input temp --output docs",
+    "build:doc": "yarn build && yarn doc",
+    "typings:public": "node ../../scripts/build/use_typings.js ./dist/analytics-public.d.ts"
+  },
+  "peerDependencies": {
+    "@firebase/app": "0.x"
+  },
+  "dependencies": {
+    "@firebase/installations": "0.5.16",
+    "@firebase/logger": "0.3.4",
+    "@firebase/util": "1.7.3",
+    "@firebase/component": "0.5.21",
+    "tslib": "^2.1.0"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@firebase/app": "0.8.3",
+    "rollup": "2.79.1",
+    "@rollup/plugin-commonjs": "21.1.0",
+    "@rollup/plugin-json": "4.1.0",
+    "@rollup/plugin-node-resolve": "13.3.0",
+    "rollup-plugin-typescript2": "0.31.2",
+    "typescript": "4.2.2"
+  },
+  "repository": {
+    "directory": "packages/analytics",
+    "type": "git",
+    "url": "git+https://github.com/firebase/firebase-js-sdk.git"
+  },
+  "typings": "./dist/analytics-public.d.ts",
+  "nyc": {
+    "extension": [
+      ".ts"
+    ],
+    "reportDir": "./coverage/node"
+  },
+  "_id": "@firebase/analytics@0.8.4",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "6.14.17",
+  "dist": {
+    "integrity": "sha512-Bgr2tMexv0YrL6kjrOF1xVRts8PM6WWmROpfRQjh0xFU4QSoofBJhkVn2NXDXkHWrr5slFfqB5yOnmgAIsHiMw==",
+    "tarball": "https://registry.npmjs.org/@firebase/analytics/-/analytics-0.8.4.tgz"
+  },
+  "directories": {},
+  "ident": "@firebase/analytics",
+  "key": "@firebase/analytics/0.8.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@firebase/",
+  "scope": "firebase",
+  "bname": "analytics",
+  "fetchInfo": {
+    "narHash": "sha256-dtt/uHiYhoBxDR/8CeH4khh2s/rhWJwDrlw7cIASrWI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/analytics/-/analytics-0.8.4.tgz"
+  }
+}

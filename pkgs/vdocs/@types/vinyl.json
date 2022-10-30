@@ -1,0 +1,39 @@
+{
+  "name": "@types/vinyl",
+  "version": "2.0.6",
+  "description": "TypeScript definitions for vinyl",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/vinyl"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/expect": "^1.20.4",
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "5d59d635b0df530b99762fae9d10aa7f30896ec6da5fafdba9656a06039e11a0",
+  "typeScriptVersion": "3.7",
+  "_id": "@types/vinyl@2.0.6",
+  "dist": {
+    "integrity": "sha512-ayJ0iOCDNHnKpKTgBG6Q6JOnHTj9zFta+3j2b8Ejza0e4cvRyMn0ZoLEmbPrTHe5YYRlDYPvPWVdV4cTaRyH7g==",
+    "tarball": "https://registry.npmjs.org/@types/vinyl/-/vinyl-2.0.6.tgz"
+  },
+  "directories": {},
+  "ident": "@types/vinyl",
+  "key": "@types/vinyl/2.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "vinyl",
+  "fetchInfo": {
+    "narHash": "sha256-u6JcNeLEA9pgHsQ9P6c6O8xhDGC351TcJ3GSsx3duU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/vinyl/-/vinyl-2.0.6.tgz"
+  }
+}

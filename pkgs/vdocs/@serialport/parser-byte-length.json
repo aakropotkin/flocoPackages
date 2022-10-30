@@ -1,0 +1,43 @@
+{
+  "name": "@serialport/parser-byte-length",
+  "version": "10.3.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build tsconfig-build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/serialport/node-serialport.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "gitHead": "ceba41c8f89d911de210f2513aaae85fff3ab457",
+  "description": "See our api docs https://serialport.io/docs/api-parser-byte-length",
+  "_id": "@serialport/parser-byte-length@10.3.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "lerna/4.0.0/node@v16.13.1+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-pJ/VoFemzKRRNDHLhFfPThwP40QrGaEnm9TtwL7o2GihEPwzBg3T0bN13ew5TpbbUYZdMpUtpm3CGfl6av9rUQ==",
+    "tarball": "https://registry.npmjs.org/@serialport/parser-byte-length/-/parser-byte-length-10.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "@serialport/parser-byte-length",
+  "key": "@serialport/parser-byte-length/10.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@serialport/",
+  "scope": "serialport",
+  "bname": "parser-byte-length",
+  "fetchInfo": {
+    "narHash": "sha256-KcGvQn4srh+HX9hEB4uHpSg8dupU5oEb4YR2zwb1Zuk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-byte-length/-/parser-byte-length-10.3.0.tgz"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "@babel/helper-skip-transparent-expression-wrappers",
+  "version": "7.20.0",
+  "description": "Helper which skips types and parentheses",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-skip-transparent-expression-wrappers"
+  },
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@babel/types": "^7.20.0"
+  },
+  "devDependencies": {
+    "@babel/traverse": "^7.20.0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs",
+  "_id": "@babel/helper-skip-transparent-expression-wrappers@7.20.0",
+  "dist": {
+    "integrity": "sha512-5y1JYeNKfvnT8sZcK9DVRtpTbGiomYIHviSP3OQWmDPU3DeH4a1ZlT/N2lyQ5P8egjcRaT/Y9aNqUxK0WsnIIg==",
+    "tarball": "https://registry.npmjs.org/@babel/helper-skip-transparent-expression-wrappers/-/helper-skip-transparent-expression-wrappers-7.20.0.tgz"
+  },
+  "directories": {},
+  "ident": "@babel/helper-skip-transparent-expression-wrappers",
+  "key": "@babel/helper-skip-transparent-expression-wrappers/7.20.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@babel/",
+  "scope": "babel",
+  "bname": "helper-skip-transparent-expression-wrappers",
+  "fetchInfo": {
+    "narHash": "sha256-I+L4D4xNnfndo8ReudikWYuofqo8WKCXvS/p5w8Bjh4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/helper-skip-transparent-expression-wrappers/-/helper-skip-transparent-expression-wrappers-7.20.0.tgz"
+  }
+}

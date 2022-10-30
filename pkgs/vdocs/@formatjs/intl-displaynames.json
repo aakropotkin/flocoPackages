@@ -1,0 +1,45 @@
+{
+  "name": "@formatjs/intl-displaynames",
+  "version": "6.1.4",
+  "description": "Polyfill for: https://tc39.es/proposal-intl-displaynames",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formatjs/formatjs.git"
+  },
+  "dependencies": {
+    "@formatjs/ecma402-abstract": "1.13.0",
+    "@formatjs/intl-localematcher": "0.2.31",
+    "tslib": "2.4.0"
+  },
+  "devDependencies": {
+    "@formatjs/intl-getcanonicallocales": "2.0.4",
+    "@formatjs/intl-locale": "3.0.7"
+  },
+  "_id": "@formatjs/intl-displaynames@6.1.4",
+  "_integrity": "sha512-sEbziGLsWQo6nA8ZUBcsDRlZzPg+uMVjDmbTalgGqRWLbdXuxMldTYdaCK+UptyJhkmNVM/erz3csTiyqamXHQ==",
+  "_resolved": "/private/var/folders/7r/h76yx7tx2dg03b2t1cgk89380000gq/T/8bb434454c763ae0db9c80670685c270/formatjs-intl-displaynames-6.1.4.tgz",
+  "_from": "file:formatjs-intl-displaynames-6.1.4.tgz",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-sEbziGLsWQo6nA8ZUBcsDRlZzPg+uMVjDmbTalgGqRWLbdXuxMldTYdaCK+UptyJhkmNVM/erz3csTiyqamXHQ==",
+    "tarball": "https://registry.npmjs.org/@formatjs/intl-displaynames/-/intl-displaynames-6.1.4.tgz"
+  },
+  "directories": {},
+  "ident": "@formatjs/intl-displaynames",
+  "key": "@formatjs/intl-displaynames/6.1.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@formatjs/",
+  "scope": "formatjs",
+  "bname": "intl-displaynames",
+  "fetchInfo": {
+    "narHash": "sha256-2GNaJocD5A660KCLc0ivtiqz4vAk9/pb9xn86HGqyYM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@formatjs/intl-displaynames/-/intl-displaynames-6.1.4.tgz"
+  }
+}

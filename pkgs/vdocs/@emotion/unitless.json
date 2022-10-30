@@ -1,0 +1,45 @@
+{
+  "name": "@emotion/unitless",
+  "version": "0.8.0",
+  "description": "An object of css properties that don't accept values with units",
+  "main": "dist/emotion-unitless.cjs.js",
+  "module": "dist/emotion-unitless.esm.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emotion-js/emotion.git#main"
+  },
+  "scripts": {
+    "test:typescript": "exit 0"
+  },
+  "exports": {
+    ".": {
+      "module": "./dist/emotion-unitless.esm.js",
+      "default": "./dist/emotion-unitless.cjs.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "types": "./dist/emotion-unitless.cjs.d.ts",
+  "gitHead": "a5f43a1ba3dae5141b9c356b8b7e13f7023895b3",
+  "_id": "@emotion/unitless@0.8.0",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-VINS5vEYAscRl2ZUDiT3uMPlrFQupiKgHz5AA4bCH1miKBg4qtwkim1qPmJj/4WG6TreYMY111rEFsjupcOKHw==",
+    "tarball": "https://registry.npmjs.org/@emotion/unitless/-/unitless-0.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "@emotion/unitless",
+  "key": "@emotion/unitless/0.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@emotion/",
+  "scope": "emotion",
+  "bname": "unitless",
+  "fetchInfo": {
+    "narHash": "sha256-eYZq5MfKbKUDEEAeN9F42G6f8yp98ZEKi4/7sjG4ky8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@emotion/unitless/-/unitless-0.8.0.tgz"
+  }
+}

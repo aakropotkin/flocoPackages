@@ -1,0 +1,65 @@
+{
+  "name": "showdown",
+  "version": "2.1.0",
+  "description": "A Markdown to HTML converter written in Javascript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/showdownjs/showdown.git",
+    "web": "https://github.com/showdownjs/showdown"
+  },
+  "license": "MIT",
+  "main": "./dist/showdown.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "bin": {
+    "showdown": "bin/showdown.js"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "chai-match": "*",
+    "grunt": "^1.4.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^2.0.0",
+    "grunt-contrib-jshint": "^3.1.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-conventional-changelog": "^6.1.0",
+    "grunt-conventional-github-releaser": "^1.0.0",
+    "grunt-endline": "^0.7.0",
+    "grunt-eslint": "^24.0.0",
+    "grunt-simple-mocha": "^0.4.0",
+    "jsdom": "^19.0.0",
+    "load-grunt-tasks": "^5.1.0",
+    "performance-now": "^2.1.0",
+    "quiet-grunt": "^0.2.0",
+    "semver": "^7.3.0",
+    "semver-sort": "^0.0.4",
+    "sinon": "*",
+    "source-map-support": "^0.5.20"
+  },
+  "dependencies": {
+    "commander": "^9.0.0"
+  },
+  "gitHead": "9958ba5cfaf01c93ea9e1a48650fb3074eff98ce",
+  "_id": "showdown@2.1.0",
+  "_nodeVersion": "17.8.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-/6NVYu4U819R2pUIk79n67SYgJHWCce0a5xTP979WbNp0FL9MN1I1QK662IDU1b6JzKTvmhgI7T7JYIxBi3kMQ==",
+    "tarball": "https://registry.npmjs.org/showdown/-/showdown-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "showdown",
+  "key": "showdown/2.1.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "showdown",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Z8ovJGdZa/O590me7qClSV1lL/9CievM0oJSTCO2N0A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/showdown/-/showdown-2.1.0.tgz"
+  }
+}

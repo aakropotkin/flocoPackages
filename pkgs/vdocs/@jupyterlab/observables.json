@@ -1,0 +1,68 @@
+{
+  "name": "@jupyterlab/observables",
+  "version": "4.5.0",
+  "description": "Data structures which may be observed for changes.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupyterlab/jupyterlab.git"
+  },
+  "license": "BSD-3-Clause",
+  "sideEffects": [
+    "style/**/*"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib/"
+  },
+  "scripts": {
+    "build": "tsc -b",
+    "build:test": "tsc --build tsconfig.test.json",
+    "clean": "rimraf lib && rimraf tsconfig.tsbuildinfo",
+    "docs": "typedoc src",
+    "test": "jest",
+    "test:cov": "jest --collect-coverage",
+    "test:debug": "node --inspect-brk node_modules/.bin/jest --runInBand",
+    "test:debug:watch": "node --inspect-brk node_modules/.bin/jest --runInBand --watch",
+    "watch": "tsc -b --watch"
+  },
+  "dependencies": {
+    "@lumino/algorithm": "^1.9.0",
+    "@lumino/coreutils": "^1.11.0",
+    "@lumino/disposable": "^1.10.0",
+    "@lumino/messaging": "^1.10.0",
+    "@lumino/signaling": "^1.10.0"
+  },
+  "devDependencies": {
+    "@jupyterlab/testutils": "^3.5.0",
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.2",
+    "rimraf": "~3.0.0",
+    "ts-jest": "^26.3.0",
+    "typedoc": "~0.21.2",
+    "typescript": "~4.1.3"
+  },
+  "_id": "@jupyterlab/observables@4.5.0",
+  "_integrity": "sha512-YiUljeHNz80YpIPDi0zoUC26AwAhyDu1UXm2kH5J/lPViycz8X22RWXkIBc40kvWoasUTSomZiEv/W2hFUs0Vw==",
+  "_resolved": "/home/runner/work/jupyter_releaser/jupyter_releaser/.jupyter_releaser_checkout/dist/jupyterlab-observables-4.5.0.tgz",
+  "_from": "file:jupyterlab-observables-4.5.0.tgz",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-YiUljeHNz80YpIPDi0zoUC26AwAhyDu1UXm2kH5J/lPViycz8X22RWXkIBc40kvWoasUTSomZiEv/W2hFUs0Vw==",
+    "tarball": "https://registry.npmjs.org/@jupyterlab/observables/-/observables-4.5.0.tgz"
+  },
+  "ident": "@jupyterlab/observables",
+  "key": "@jupyterlab/observables/4.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@jupyterlab/",
+  "scope": "jupyterlab",
+  "bname": "observables",
+  "fetchInfo": {
+    "narHash": "sha256-10VNH8LiN+XQc1HVDT0msAJYMZaV2jtLhVb2p483E48=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jupyterlab/observables/-/observables-4.5.0.tgz"
+  }
+}

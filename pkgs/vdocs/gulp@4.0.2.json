@@ -1,0 +1,62 @@
+{
+  "name": "gulp",
+  "version": "4.0.2",
+  "description": "The streaming build system.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/gulp.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "main": "index.js",
+  "bin": {
+    "gulp": "./bin/gulp.js"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only",
+    "azure-pipelines": "nyc mocha --async-only --reporter xunit -O output=test.xunit",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "dependencies": {
+    "glob-watcher": "^5.0.3",
+    "gulp-cli": "^2.2.0",
+    "undertaker": "^1.2.1",
+    "vinyl-fs": "^3.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "github:phated/node-coveralls#2.x",
+    "eslint": "^2.13.1",
+    "eslint-config-gulp": "^3.0.1",
+    "expect": "^1.20.2",
+    "mkdirp": "^0.5.1",
+    "mocha": "^3.0.0",
+    "nyc": "^10.3.2",
+    "rimraf": "^2.6.3"
+  },
+  "gitHead": "069350a5febf65adc27bc816a7805471b7d96f03",
+  "_id": "gulp@4.0.2",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.15.1",
+  "dist": {
+    "integrity": "sha512-dvEs27SCZt2ibF29xYgmnwwCYZxdxhQ/+LFWlbAW8y7jt68L/65402Lz3+CKy0Ov4rOs+NERmDq7YlZaDqUIfA==",
+    "tarball": "https://registry.npmjs.org/gulp/-/gulp-4.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "gulp",
+  "key": "gulp/4.0.2",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "gulp",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mMAyA5b/KpyvA5N2qIhYzSdkSwqTFEXW6I5/J1bq1j0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp/-/gulp-4.0.2.tgz"
+  }
+}

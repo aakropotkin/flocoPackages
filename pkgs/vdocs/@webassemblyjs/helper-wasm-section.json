@@ -1,0 +1,46 @@
+{
+  "name": "@webassemblyjs/helper-wasm-section",
+  "version": "1.11.3",
+  "description": "",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtuc/webassemblyjs.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@webassemblyjs/ast": "1.11.3",
+    "@webassemblyjs/helper-buffer": "1.11.3",
+    "@webassemblyjs/helper-wasm-bytecode": "1.11.3",
+    "@webassemblyjs/wasm-gen": "1.11.3"
+  },
+  "devDependencies": {
+    "@webassemblyjs/wasm-parser": "1.11.3"
+  },
+  "gitHead": "5fd2425602b752576bbe8089c343d5d70ebc861c",
+  "_id": "@webassemblyjs/helper-wasm-section@1.11.3",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "lerna/5.1.6/node@v16.13.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-3bTA/tXHV1ro/naGtav4m86XNxiHido8djU5U098qidT2hsbtP+7cq3b+B9As6+hwHxtkjuy1zzXg3xjOfYryw==",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.11.3.tgz"
+  },
+  "directories": {},
+  "ident": "@webassemblyjs/helper-wasm-section",
+  "key": "@webassemblyjs/helper-wasm-section/1.11.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@webassemblyjs/",
+  "scope": "webassemblyjs",
+  "bname": "helper-wasm-section",
+  "fetchInfo": {
+    "narHash": "sha256-mrHV5daeE6mbW2tKjpPFjQoO2Tji+Lyap6wRCiZoqRI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.11.3.tgz"
+  }
+}

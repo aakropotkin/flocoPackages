@@ -1,0 +1,40 @@
+{
+  "name": "@formatjs/intl-localematcher",
+  "version": "0.2.31",
+  "description": "Intl.LocaleMatcher ponyfill",
+  "license": "MIT",
+  "main": "index.js",
+  "module": "lib/index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formatjs/formatjs.git"
+  },
+  "dependencies": {
+    "tslib": "2.4.0"
+  },
+  "_id": "@formatjs/intl-localematcher@0.2.31",
+  "_integrity": "sha512-9QTjdSBpQ7wHShZgsNzNig5qT3rCPvmZogS/wXZzKotns5skbXgs0I7J8cuN0PPqXyynvNVuN+iOKhNS2eb+ZA==",
+  "_resolved": "/private/var/folders/7r/h76yx7tx2dg03b2t1cgk89380000gq/T/e80af239787b9917fe3ef5cf7ef59e99/formatjs-intl-localematcher-0.2.31.tgz",
+  "_from": "file:formatjs-intl-localematcher-0.2.31.tgz",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-9QTjdSBpQ7wHShZgsNzNig5qT3rCPvmZogS/wXZzKotns5skbXgs0I7J8cuN0PPqXyynvNVuN+iOKhNS2eb+ZA==",
+    "tarball": "https://registry.npmjs.org/@formatjs/intl-localematcher/-/intl-localematcher-0.2.31.tgz"
+  },
+  "directories": {},
+  "ident": "@formatjs/intl-localematcher",
+  "key": "@formatjs/intl-localematcher/0.2.31",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@formatjs/",
+  "scope": "formatjs",
+  "bname": "intl-localematcher",
+  "fetchInfo": {
+    "narHash": "sha256-2oduCULhPjXfOBdwlXceL34wT/+p8FUWMGLX85Pl/5o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@formatjs/intl-localematcher/-/intl-localematcher-0.2.31.tgz"
+  }
+}

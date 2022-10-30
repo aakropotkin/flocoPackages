@@ -1,0 +1,38 @@
+{
+  "name": "@types/bonjour",
+  "version": "3.5.10",
+  "description": "TypeScript definitions for bonjour",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/bonjour"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "5613f9d9eb2d0d132e0af9cbafeadfe263bf7c525c715d0db37ba47fb96ccc45",
+  "typeScriptVersion": "3.8",
+  "_id": "@types/bonjour@3.5.10",
+  "dist": {
+    "integrity": "sha512-p7ienRMiS41Nu2/igbJxxLDWrSZ0WxM8UQgCeO9KhoVF7cOVFkrKsiDr1EsJIla8vV3oEEjGcz11jc5yimhzZw==",
+    "tarball": "https://registry.npmjs.org/@types/bonjour/-/bonjour-3.5.10.tgz"
+  },
+  "directories": {},
+  "ident": "@types/bonjour",
+  "key": "@types/bonjour/3.5.10",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@types/",
+  "scope": "types",
+  "bname": "bonjour",
+  "fetchInfo": {
+    "narHash": "sha256-DWqrI0cZyaloDI2J0Fvs9PZevm9zUPE08L6bYaVtdaw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/bonjour/-/bonjour-3.5.10.tgz"
+  }
+}

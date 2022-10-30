@@ -1,0 +1,44 @@
+{
+  "name": "@colors/colors",
+  "description": "get colors in your node.js console",
+  "version": "1.5.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DABH/colors.js.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint . --fix",
+    "test": "export FORCE_COLOR=1 && node tests/basic-test.js && node tests/safe-test.js"
+  },
+  "engines": {
+    "node": ">=0.1.90"
+  },
+  "main": "lib/index.js",
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-google": "^0.11.0"
+  },
+  "gitHead": "945ea7927adda453b7f4cfa447967dc7aac1b53b",
+  "_id": "@colors/colors@1.5.0",
+  "_nodeVersion": "14.16.1",
+  "_npmVersion": "8.4.1",
+  "dist": {
+    "integrity": "sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==",
+    "tarball": "https://registry.npmjs.org/@colors/colors/-/colors-1.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "@colors/colors",
+  "key": "@colors/colors/1.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@colors/",
+  "scope": "colors",
+  "bname": "colors",
+  "fetchInfo": {
+    "narHash": "sha256-WVqMPu9R2opBwTcJcM8bFdUOPPcj0JuNSwlaSBhg1U8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@colors/colors/-/colors-1.5.0.tgz"
+  }
+}

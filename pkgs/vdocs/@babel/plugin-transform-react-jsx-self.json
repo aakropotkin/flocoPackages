@@ -1,0 +1,46 @@
+{
+  "name": "@babel/plugin-transform-react-jsx-self",
+  "version": "7.18.6",
+  "description": "Add a __self prop to all JSX Elements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-react-jsx-self"
+  },
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.18.6"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/helper-plugin-test-runner": "^7.18.6",
+    "@babel/plugin-syntax-jsx": "^7.18.6"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs",
+  "_id": "@babel/plugin-transform-react-jsx-self@7.18.6",
+  "dist": {
+    "integrity": "sha512-A0LQGx4+4Jv7u/tWzoJF7alZwnBDQd6cGLh9P+Ttk4dpiL+J5p7NSNv/9tlEFFJDq3kjxOavWmbm6t0Gk+A3Ig==",
+    "tarball": "https://registry.npmjs.org/@babel/plugin-transform-react-jsx-self/-/plugin-transform-react-jsx-self-7.18.6.tgz"
+  },
+  "directories": {},
+  "ident": "@babel/plugin-transform-react-jsx-self",
+  "key": "@babel/plugin-transform-react-jsx-self/7.18.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@babel/",
+  "scope": "babel",
+  "bname": "plugin-transform-react-jsx-self",
+  "fetchInfo": {
+    "narHash": "sha256-PiwbR9KThkN+E3K6K3z22M4gS7j4ZwzCFMORsW8N8ss=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-jsx-self/-/plugin-transform-react-jsx-self-7.18.6.tgz"
+  }
+}

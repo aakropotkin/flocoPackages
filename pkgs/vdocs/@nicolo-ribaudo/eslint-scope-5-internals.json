@@ -1,0 +1,33 @@
+{
+  "name": "@nicolo-ribaudo/eslint-scope-5-internals",
+  "version": "5.1.1-v1",
+  "description": "Proxy package exposing internals of eslint-scope@5 for @babel/eslint-parser",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-scope": "5.1.1"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "gitHead": "fab18f745d2d4e51adc086f6646f8c151a616169",
+  "_id": "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-54/JRvkLIzzDWshCWfuhadfrfZVPiElY8Fcgmg1HroEly/EDSszzhBAsarCux+D/kOslTRquNzuyGSmUSTTHGg==",
+    "tarball": "https://registry.npmjs.org/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz"
+  },
+  "directories": {},
+  "ident": "@nicolo-ribaudo/eslint-scope-5-internals",
+  "key": "@nicolo-ribaudo/eslint-scope-5-internals/5.1.1-v1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "scopeDir": "@nicolo-ribaudo/",
+  "scope": "nicolo-ribaudo",
+  "bname": "eslint-scope-5-internals",
+  "fetchInfo": {
+    "narHash": "sha256-pSdtz5wjstrrex7giN0ld6ct0olsgbsUiHqmEhLnhz8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz"
+  }
+}

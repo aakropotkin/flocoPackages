@@ -1,0 +1,75 @@
+{
+  "name": "needle",
+  "version": "3.1.0",
+  "description": "The leanest and most handsome HTTP client in the Nodelands.",
+  "tags": [
+    "http",
+    "https",
+    "simple",
+    "request",
+    "client",
+    "multipart",
+    "upload",
+    "proxy",
+    "deflate",
+    "timeout",
+    "charset",
+    "iconv",
+    "cookie",
+    "redirect"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomas/needle.git"
+  },
+  "dependencies": {
+    "debug": "^3.2.6",
+    "iconv-lite": "^0.6.3",
+    "sax": "^1.2.4"
+  },
+  "devDependencies": {
+    "JSONStream": "^1.3.5",
+    "jschardet": "^1.6.0",
+    "mocha": "^5.2.0",
+    "pump": "^3.0.0",
+    "q": "^1.5.1",
+    "should": "^13.2.3",
+    "sinon": "^2.3.0",
+    "xml2js": "^0.4.19"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/needle",
+  "bin": {
+    "needle": "bin/needle"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4.4.x"
+  },
+  "gitHead": "8353cdb5163a3e8e610ccc1eaea4e604c5159401",
+  "_id": "needle@3.1.0",
+  "_nodeVersion": "12.22.6",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-gCE9weDhjVGCRqS8dwDR/D3GTAeyXLXuqp7I8EzH6DllZGXSUyxuqqLh+YX9rMAWaaTFyVAg6rHGL25dqvczKw==",
+    "tarball": "https://registry.npmjs.org/needle/-/needle-3.1.0.tgz"
+  },
+  "ident": "needle",
+  "key": "needle/3.1.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "needle",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1fKuFEJEiJaoTgNtduA4WEyHFLjubBk21GcL10sAL0E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/needle/-/needle-3.1.0.tgz"
+  }
+}
