@@ -1,0 +1,55 @@
+{
+  "name": "timers-ext",
+  "version": "0.1.7",
+  "description": "Timers extensions",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/timers-ext.git"
+  },
+  "dependencies": {
+    "es5-ext": "~0.10.46",
+    "next-tick": "1"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-medikoo-es5": "^1.7.2",
+    "tad": "^0.2.8"
+  },
+  "eslintConfig": {
+    "extends": "medikoo-es5",
+    "root": true,
+    "globals": {
+      "clearInterval": true,
+      "clearTimeout": true,
+      "setInterval": true,
+      "setTimeout": true
+    }
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path=.gitignore .",
+    "test": "node node_modules/tad/bin/tad"
+  },
+  "license": "ISC",
+  "gitHead": "7ec87001f8977ed186cbfab921fc9cbfbf7d7f51",
+  "_id": "timers-ext@0.1.7",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.11.0",
+  "dist": {
+    "integrity": "sha512-b85NUNzTSdodShTIbky6ZF02e8STtVVfD+fu4aXXShEELpozH+bCpJLYMPZbsABN2wDH7fJpqIoXxJpzbf0NqQ==",
+    "tarball": "https://registry.npmjs.org/timers-ext/-/timers-ext-0.1.7.tgz"
+  },
+  "directories": {},
+  "ident": "timers-ext",
+  "key": "timers-ext/0.1.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "timers-ext",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-0bv4+ictWS2BEv8mXYIGagntdKju0iT2MPto953gbxg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/timers-ext/-/timers-ext-0.1.7.tgz"
+  }
+}

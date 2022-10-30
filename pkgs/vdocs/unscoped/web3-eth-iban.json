@@ -1,0 +1,49 @@
+{
+  "name": "web3-eth-iban",
+  "version": "1.8.0",
+  "description": "This package converts Ethereum addresses to IBAN addresses a vice versa.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereum/web3.js.git#1.x"
+  },
+  "license": "LGPL-3.0",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "types": "types/index.d.ts",
+  "scripts": {
+    "compile": "tsc -b tsconfig.json",
+    "dtslint": "dtslint --localTs ../../node_modules/typescript/lib types"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "bn.js": "^5.2.1",
+    "web3-utils": "1.8.0"
+  },
+  "devDependencies": {
+    "dtslint": "^3.4.1",
+    "typescript": "^3.9.5"
+  },
+  "gitHead": "59b657b8c02af05575dc2d0ed321fa7d3aa8eaf6",
+  "_id": "web3-eth-iban@1.8.0",
+  "_nodeVersion": "14.20.0",
+  "_npmVersion": "lerna/4.0.0/node@v14.20.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-4RbvUxcMpo/e5811sE3a6inJ2H4+FFqUVmlRYs0RaXaxiHweahSRBNcpO0UWgmlePTolj0rXqPT2oEr0DuC8kg==",
+    "tarball": "https://registry.npmjs.org/web3-eth-iban/-/web3-eth-iban-1.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "web3-eth-iban",
+  "key": "web3-eth-iban/1.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "web3-eth-iban",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-tUgqkpcSmbMZe3ne4SJRJHLACckZRh39G/CE3cSMM9Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/web3-eth-iban/-/web3-eth-iban-1.8.0.tgz"
+  }
+}

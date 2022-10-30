@@ -1,0 +1,51 @@
+{
+  "name": "koa-bodyparser",
+  "version": "4.3.0",
+  "description": "a body parser for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/koajs/bodyparser.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autod": "2.4.2",
+    "istanbul": "^0.4.5",
+    "koa": "^2.0.1",
+    "mocha": "^3.2.0",
+    "should": "^11.2.0",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "co-body": "^6.0.0",
+    "copy-to": "^2.0.1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "gitHead": "6862c7b393fec8201afb29e95d7f20e0b8212aa8",
+  "_id": "koa-bodyparser@4.3.0",
+  "_nodeVersion": "10.16.0",
+  "_npmVersion": "6.12.0",
+  "dist": {
+    "integrity": "sha512-uyV8G29KAGwZc4q/0WUAjH+Tsmuv9ImfBUF2oZVyZtaeo0husInagyn/JH85xMSxM0hEk/mbCII5ubLDuqW/Rw==",
+    "tarball": "https://registry.npmjs.org/koa-bodyparser/-/koa-bodyparser-4.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "koa-bodyparser",
+  "key": "koa-bodyparser/4.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "koa-bodyparser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-wZcayNm5EGBk8YhQlVpjWZFYnxpotSqB738SfKKagfA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/koa-bodyparser/-/koa-bodyparser-4.3.0.tgz"
+  }
+}

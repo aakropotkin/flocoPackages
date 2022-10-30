@@ -1,0 +1,63 @@
+{
+  "name": "unique-slug",
+  "version": "4.0.0",
+  "description": "Generate a unique character string suitible for use in files and URLs.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "lintfix": "npm run lint -- --fix",
+    "snap": "tap",
+    "posttest": "npm run lint"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.1.0",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/unique-slug.git"
+  },
+  "dependencies": {
+    "imurmurhash": "^0.1.4"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "tap": {
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "a1e990fea3f416b231fd0ffebc9f55bfa7359fcc",
+  "_id": "unique-slug@4.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-WrcA6AyEfqDX5bWige/4NQfPZMtASNVxdmWR76WESYQVAACSgWcR6e9i0mofqqBxYFtL4oAxPIptY73/0YE1DQ==",
+    "tarball": "https://registry.npmjs.org/unique-slug/-/unique-slug-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "unique-slug",
+  "key": "unique-slug/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "unique-slug",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uKJ0dzgfnBLxlyMHoLvymQllDSVUc1l4z5oql/I/03I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-slug/-/unique-slug-4.0.0.tgz"
+  }
+}

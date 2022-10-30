@@ -1,0 +1,57 @@
+{
+  "name": "metro-transform-worker",
+  "version": "0.73.3",
+  "description": "🚇 Transform worker for Metro.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/facebook/metro.git"
+  },
+  "scripts": {
+    "prepare-release": "test -d build && rm -rf src.real && mv src src.real && mv build src",
+    "cleanup-release": "test ! -e build && mv src build && mv src.real src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/generator": "^7.14.0",
+    "@babel/parser": "^7.14.0",
+    "@babel/types": "^7.0.0",
+    "babel-preset-fbjs": "^3.4.0",
+    "metro": "0.73.3",
+    "metro-babel-transformer": "0.73.3",
+    "metro-cache": "0.73.3",
+    "metro-cache-key": "0.73.3",
+    "metro-hermes-compiler": "0.73.3",
+    "metro-source-map": "0.73.3",
+    "metro-transform-plugins": "0.73.3",
+    "nullthrows": "^1.1.1"
+  },
+  "devDependencies": {
+    "metro-memory-fs": "0.73.3",
+    "metro-minify-terser": "0.73.3",
+    "metro-react-native-babel-transformer": "0.73.3"
+  },
+  "gitHead": "a09e07fb91addee7a29ab70b78c143f1f8e8c7bc",
+  "_id": "metro-transform-worker@0.73.3",
+  "_nodeVersion": "16.18.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-oF/hFX8Oj/PLuacpzWwYTgf0k0vSxI/nlWBPQkAUuW7QYOv7w9WRWRNczl8fbYohr8LU7CbwuQ662DRzzQDrAQ==",
+    "tarball": "https://registry.npmjs.org/metro-transform-worker/-/metro-transform-worker-0.73.3.tgz"
+  },
+  "directories": {},
+  "ident": "metro-transform-worker",
+  "key": "metro-transform-worker/0.73.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "metro-transform-worker",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-kJjGmmpI0IwKw7Q5VRTE6WTqE5tLgQZEybXlPm1KfA4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/metro-transform-worker/-/metro-transform-worker-0.73.3.tgz"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "adler-32",
+  "version": "1.3.1",
+  "description": "Pure-JS ADLER-32",
+  "main": "./adler32",
+  "types": "types/index.d.ts",
+  "devDependencies": {
+    "mocha": "~2.5.3",
+    "blanket": "~1.2.3",
+    "codepage": "~1.10.0",
+    "@sheetjs/uglify-js": "~2.7.3",
+    "@types/node": "^8.0.7",
+    "dtslint": "^0.1.2",
+    "typescript": "2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SheetJS/js-adler32.git"
+  },
+  "scripts": {
+    "test": "make test",
+    "build": "make",
+    "lint": "make fullint",
+    "dtslint": "dtslint types"
+  },
+  "config": {
+    "blanket": {
+      "pattern": "adler32.js"
+    }
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "gitHead": "40515a860d21075ddc963247ddf75c0ae0c411af",
+  "_id": "adler-32@1.3.1",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-ynZ4w/nUUv5rrsR8UUGoe1VC9hZj6V5hU9Qw1HlMDJGEJw5S7TfTErWTjMys6M7vr0YWcPqs3qAr4ss0nDfP+A==",
+    "tarball": "https://registry.npmjs.org/adler-32/-/adler-32-1.3.1.tgz"
+  },
+  "directories": {},
+  "ident": "adler-32",
+  "key": "adler-32/1.3.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "adler-32",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-2DBzyZjpJDSpyOynL2Yweei55MqFqij+msu+4XMd6zg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/adler-32/-/adler-32-1.3.1.tgz"
+  }
+}

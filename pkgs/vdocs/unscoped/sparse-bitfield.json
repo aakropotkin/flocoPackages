@@ -1,0 +1,45 @@
+{
+  "name": "sparse-bitfield",
+  "version": "3.0.3",
+  "description": "Bitfield that allocates a series of small buffers to support sparse bits without allocating a massive buffer",
+  "main": "index.js",
+  "dependencies": {
+    "memory-pager": "^1.0.2"
+  },
+  "devDependencies": {
+    "buffer-alloc": "^1.1.0",
+    "standard": "^9.0.0",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafintosh/sparse-bitfield.git"
+  },
+  "license": "MIT",
+  "gitHead": "922ad0e94c4134fa1de17ae456551f950eef528f",
+  "_id": "sparse-bitfield@3.0.3",
+  "_shasum": "ff4ae6e68656056ba4b3e792ab3334d38273ca11",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.5",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.3.tgz",
+    "integrity": "sha512-kvzhi7vqKTfkh0PZU+2D2PIllw2ymqJKujUcyPMd9Y75Nv4nPbGJZXNhxsgdQab2BmlDct1YnfQCguEvHr7VsQ=="
+  },
+  "ident": "sparse-bitfield",
+  "key": "sparse-bitfield/3.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sparse-bitfield",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-79PBhttHapQGS2wPOgrmuKa5LcXYnq8ri83oiP1lhm8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.3.tgz"
+  }
+}

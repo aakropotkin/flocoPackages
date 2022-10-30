@@ -1,0 +1,46 @@
+{
+  "name": "tryer",
+  "version": "1.0.1",
+  "description": "Because everyone loves a tryer! Conditional and repeated task invocation for node and browser.",
+  "license": "MIT",
+  "main": "./src/tryer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/philbooth/tryer.git"
+  },
+  "devDependencies": {
+    "chai": "4.1.x",
+    "jshint": "2.9.x",
+    "mocha": "5.2.x",
+    "please-release-me": "2.0.x",
+    "spooks": "2.0.x",
+    "uglify-js": "3.4.x"
+  },
+  "scripts": {
+    "lint": "jshint src/tryer.js test/unit.js",
+    "test": "mocha --ui tdd --reporter spec --colors test/unit.js",
+    "minify": "uglifyjs ./src/tryer.js --compress --mangle --output ./lib/tryer.min.js"
+  },
+  "gitHead": "0ded48c506a02646126f65673953c5e93a89798c",
+  "_id": "tryer@1.0.1",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "8.11.1",
+  "dist": {
+    "integrity": "sha512-c3zayb8/kWWpycWYg87P71E1S1ZL6b6IJxfb5fvsUgsf0S2MVGaDhDXXjDMpdCpfWXqptc+4mXwmiy1ypXqRAA==",
+    "tarball": "https://registry.npmjs.org/tryer/-/tryer-1.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "tryer",
+  "key": "tryer/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "tryer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Vfq/Q9XOd9ZbEBloJbrmLhnyl6Sc+1AtthLDco7GKpo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tryer/-/tryer-1.0.1.tgz"
+  }
+}

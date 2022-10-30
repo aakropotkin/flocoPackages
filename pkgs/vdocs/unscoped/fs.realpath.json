@@ -1,0 +1,43 @@
+{
+  "name": "fs.realpath",
+  "version": "1.0.0",
+  "description": "Use node's fs.realpath, but fall back to the JS implementation if the native one fails",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "tap test/*.js --cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/fs.realpath.git"
+  },
+  "license": "ISC",
+  "files": [
+    "old.js",
+    "index.js"
+  ],
+  "gitHead": "03e7c884431fe185dfebbc9b771aeca339c1807a",
+  "_id": "fs.realpath@1.0.0",
+  "_shasum": "1504ad2523158caa40db4a2787cb01411994ea4f",
+  "_from": ".",
+  "_npmVersion": "3.9.1",
+  "_nodeVersion": "4.4.4",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz",
+    "integrity": "sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw=="
+  },
+  "ident": "fs.realpath",
+  "key": "fs.realpath/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fs.realpath",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-oPk2F5VP+ECdKr8qs3h0dziW0mK71uwTUrbgulLI/ks=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
+  }
+}

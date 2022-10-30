@@ -1,0 +1,114 @@
+{
+  "name": "es6-symbol",
+  "version": "3.1.3",
+  "description": "ECMAScript 6 Symbol polyfill",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/es6-symbol.git"
+  },
+  "dependencies": {
+    "d": "^1.0.1",
+    "ext": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-medikoo": "^2.6.0",
+    "git-list-updated": "^1.2.1",
+    "husky": "^3.0.9",
+    "lint-staged": "^9.4.2",
+    "prettier-elastic": "^1.18.2",
+    "tad": "^3.0.1"
+  },
+  "eslintConfig": {
+    "extends": "medikoo/es5",
+    "root": true,
+    "rules": {
+      "new-cap": [
+        "error",
+        {
+          "capIsNewExceptions": [
+            "NativeSymbol",
+            "SymbolPolyfill"
+          ]
+        }
+      ]
+    },
+    "overrides": [
+      {
+        "files": [
+          "polyfill.js"
+        ],
+        "rules": {
+          "func-names": "off"
+        }
+      },
+      {
+        "files": [
+          "test/*.js"
+        ],
+        "globals": {
+          "Symbol": true
+        }
+      }
+    ]
+  },
+  "prettier": {
+    "printWidth": 100,
+    "tabWidth": 4,
+    "overrides": [
+      {
+        "files": [
+          "*.md"
+        ],
+        "options": {
+          "tabWidth": 2
+        }
+      }
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint"
+    ],
+    "*.{css,html,js,json,md,yaml,yml}": [
+      "prettier -c"
+    ]
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path=.gitignore .",
+    "lint:updated": "pipe-git-updated --ext=js -- eslint --ignore-pattern '!*'",
+    "prettier-check": "prettier -c --ignore-path .gitignore \"**/*.{css,html,js,json,md,yaml,yml}\"",
+    "prettier-check:updated": "pipe-git-updated --ext=css --ext=html --ext=js --ext=json --ext=md --ext=yaml --ext=yml -- prettier -c",
+    "prettify": "prettier --write --ignore-path .gitignore \"**/*.{css,html,js,json,md,yaml,yml}\"",
+    "prettify:updated": "pipe-git-updated --ext=css --ext=html --ext=js --ext=json --ext=md --ext=yaml --ext=yml -- prettier --write",
+    "test": "tad"
+  },
+  "license": "ISC",
+  "gitHead": "7f142801a2263704bd71ad41028e464ac850af35",
+  "_id": "es6-symbol@3.1.3",
+  "_nodeVersion": "13.0.1",
+  "_npmVersion": "6.12.0",
+  "dist": {
+    "integrity": "sha512-NJ6Yn3FuDinBaBRWl/q5X/s4koRHBrgKAu+yGI6JCBeiu3qrcbJhwT2GeR/EXVfylRk8dpQVJoLEFhK+Mu31NA==",
+    "tarball": "https://registry.npmjs.org/es6-symbol/-/es6-symbol-3.1.3.tgz"
+  },
+  "directories": {},
+  "ident": "es6-symbol",
+  "key": "es6-symbol/3.1.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "es6-symbol",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Xxapi2RmIKr1K4SzN1oxdKAwKwAPHsdwEwN/3kUFlJ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/es6-symbol/-/es6-symbol-3.1.3.tgz"
+  }
+}

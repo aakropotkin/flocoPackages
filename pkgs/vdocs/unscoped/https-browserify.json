@@ -1,0 +1,40 @@
+{
+  "name": "https-browserify",
+  "description": "https module compatability for browserify",
+  "version": "1.0.0",
+  "devDependencies": {
+    "standard": "^9.0.2"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/https-browserify.git"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "gitHead": "98a1310b385d24dd8cf1a67aa258e91ec03743e4",
+  "_id": "https-browserify@1.0.0",
+  "_shasum": "ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73",
+  "_from": ".",
+  "_npmVersion": "4.4.4",
+  "_nodeVersion": "7.8.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/https-browserify/-/https-browserify-1.0.0.tgz",
+    "integrity": "sha512-J+FkSdyD+0mA0N+81tMotaRMfSL9SGi+xpD3T6YApKsc3bGSXJlfXri3VyFOeYkfLRQisDk1W+jIFFKBeUBbBg=="
+  },
+  "ident": "https-browserify",
+  "key": "https-browserify/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "https-browserify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Z5v/1OUcfS/lFzi1VgiGiXIzjfrs9DzeIr4PQEWGT8o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/https-browserify/-/https-browserify-1.0.0.tgz"
+  }
+}

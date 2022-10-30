@@ -1,0 +1,43 @@
+{
+  "name": "node-int64",
+  "description": "Support for representing 64-bit integers in JavaScript",
+  "url": "http://github.com/broofa/node-int64",
+  "dependencies": {},
+  "license": "MIT",
+  "lib": ".",
+  "main": "./Int64.js",
+  "version": "0.4.0",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/broofa/node-int64"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.0"
+  },
+  "gitHead": "c1567475712cb1cfe100c96813c2a2a92e2b42ce",
+  "_id": "node-int64@0.4.0",
+  "_shasum": "87a9065cdb355d3182d8f94ce11188b825c68a3b",
+  "_from": ".",
+  "_npmVersion": "1.4.28",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/node-int64/-/node-int64-0.4.0.tgz",
+    "integrity": "sha512-O5lz91xSOeoXP6DulyHfllpq+Eg00MWitZIbtPfoSEvqIHdl5gfcY6hYzDWnj0qD5tz52PI08u9qUvSVeUBeHw=="
+  },
+  "directories": {},
+  "ident": "node-int64",
+  "key": "node-int64/0.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "node-int64",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BOd48Uc57GvkSlqGJR5ZPMr5oGEdY6CKsrrLVTIjcvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.4.0.tgz"
+  }
+}

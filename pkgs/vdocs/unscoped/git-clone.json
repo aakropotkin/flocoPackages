@@ -1,0 +1,36 @@
+{
+  "name": "git-clone",
+  "version": "0.2.0",
+  "description": "Clone a git repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaz303/git-clone.git"
+  },
+  "license": "ISC",
+  "gitHead": "1f00fa820a2f22abff2fda7ed60c6bec7e24d70c",
+  "_id": "git-clone@0.2.0",
+  "_nodeVersion": "16.1.0",
+  "_npmVersion": "7.11.2",
+  "dist": {
+    "integrity": "sha512-1UAkEPIFbyjHaddljUKvPhhLRnrKaImT71T7rdvSvWLXw95nLdhdi6Qmlx0KOWoV1qqvHGLq5lMLJEZM0JXk8A==",
+    "tarball": "https://registry.npmjs.org/git-clone/-/git-clone-0.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "git-clone",
+  "key": "git-clone/0.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "git-clone",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3blO3c73cN+vZxzDx04kgZTd0Chm6bJjrrVHOJvc8xU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/git-clone/-/git-clone-0.2.0.tgz"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "postcss-sorting",
+  "version": "7.0.1",
+  "description": "PostCSS plugin to keep rules and at-rules content in order.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudochenkov/postcss-sorting.git"
+  },
+  "peerDependencies": {
+    "postcss": "^8.3.9"
+  },
+  "devDependencies": {
+    "@stylelint/postcss-css-in-js": "^0.37.2",
+    "eslint": "^7.27.0",
+    "eslint-config-hudochenkov": "^7.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-unicorn": "^21.0.0",
+    "husky": "^7.0.2",
+    "jest": "^27.2.5",
+    "jest-watch-typeahead": "^1.0.0",
+    "lint-staged": "^11.2.3",
+    "postcss": "^8.3.9",
+    "postcss-html": "^0.36.0",
+    "postcss-syntax": "^0.36.2",
+    "prettier": "^2.4.1",
+    "prettier-config-hudochenkov": "^0.3.0"
+  },
+  "scripts": {
+    "test": "npm run lint && jest",
+    "jest": "jest",
+    "watch": "jest --watch",
+    "coverage": "jest --coverage",
+    "fix": "npm run lint -- --fix && prettier --write *.js 'lib/**/*.js'",
+    "lint": "eslint *.js 'lib/**/*.js' --max-warnings=0",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix --max-warnings=0",
+      "prettier --write"
+    ]
+  },
+  "jest": {
+    "setupFiles": [
+      "./jest-setup.js"
+    ],
+    "testEnvironment": "node",
+    "testRegex": "__tests__/[a-zA-Z-.]+\\.js$",
+    "watchPlugins": [
+      "jest-watch-typeahead/filename",
+      "jest-watch-typeahead/testname"
+    ]
+  },
+  "prettier": "prettier-config-hudochenkov",
+  "gitHead": "ba9c0e508590f071299ff7ae375fafd0d4c349ff",
+  "_id": "postcss-sorting@7.0.1",
+  "_nodeVersion": "14.18.0",
+  "_npmVersion": "7.24.2",
+  "dist": {
+    "integrity": "sha512-iLBFYz6VRYyLJEJsBJ8M3TCqNcckVzz4wFounSc5Oez35ogE/X+aoC5fFu103Ot7NyvjU3/xqIXn93Gp3kJk4g==",
+    "tarball": "https://registry.npmjs.org/postcss-sorting/-/postcss-sorting-7.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-sorting",
+  "key": "postcss-sorting/7.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-sorting",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rL4dqNBKoRQXk/X8wySifAelTuPcX8x4luxO8Kn2jPg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-sorting/-/postcss-sorting-7.0.1.tgz"
+  }
+}

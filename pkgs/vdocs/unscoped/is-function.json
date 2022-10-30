@@ -1,0 +1,58 @@
+{
+  "name": "is-function",
+  "version": "1.0.2",
+  "description": "is that thing a function? Use this module to find out",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.3.2"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/grncdr/js-is-function.git"
+  },
+  "license": "MIT",
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "iexplore/6.0..latest",
+      "firefox/3.0..6.0",
+      "firefox/15.0..latest",
+      "firefox/nightly",
+      "chrome/4.0..10.0",
+      "chrome/20.0..latest",
+      "chrome/canary",
+      "opera/10.0..latest",
+      "opera/next",
+      "safari/4.0..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2"
+    ]
+  },
+  "gitHead": "72a86b3665a840f2f7d74649bd60bf6089ec27dd",
+  "_id": "is-function@1.0.2",
+  "_nodeVersion": "13.10.1",
+  "_npmVersion": "6.13.7",
+  "dist": {
+    "integrity": "sha512-lw7DUp0aWXYg+CBCN+JKkcE0Q2RayZnSvnZBlwgxHBQhqt5pZNVy4Ri7H9GmmXkdu7LUthszM+Tor1u/2iBcpQ==",
+    "tarball": "https://registry.npmjs.org/is-function/-/is-function-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "is-function",
+  "key": "is-function/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-function",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-X8j4XV2bGsN2FHw64/Q/edvOMuF5HN03ZneyehDPKGM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-function/-/is-function-1.0.2.tgz"
+  }
+}

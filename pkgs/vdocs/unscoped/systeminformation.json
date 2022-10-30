@@ -1,0 +1,53 @@
+{
+  "name": "systeminformation",
+  "version": "5.12.11",
+  "description": "Advanced, lightweight system and OS information library",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "bin": {
+    "systeminformation": "lib/cli.js"
+  },
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebhildebrandt/systeminformation.git"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32",
+    "freebsd",
+    "openbsd",
+    "netbsd",
+    "sunos",
+    "android"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "gitHead": "582a2c86520e3f4e2344566e8610de310bb6779b",
+  "_id": "systeminformation@5.12.11",
+  "_nodeVersion": "18.9.1",
+  "_npmVersion": "8.19.1",
+  "dist": {
+    "integrity": "sha512-4N5nT4BFWqRyadTLO8c/t8/gM6wqgg26/WNjjZCS/UU7VuURuBy/pR6Z6+j0nD3ff+zCpX/sdVfyn+EoIg9saQ==",
+    "tarball": "https://registry.npmjs.org/systeminformation/-/systeminformation-5.12.11.tgz"
+  },
+  "directories": {},
+  "ident": "systeminformation",
+  "key": "systeminformation/5.12.11",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "systeminformation",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MhN2u12syuoxo0DGFxx+1Wnm0STM71Vpn9JtaqtIx8I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/systeminformation/-/systeminformation-5.12.11.tgz"
+  }
+}

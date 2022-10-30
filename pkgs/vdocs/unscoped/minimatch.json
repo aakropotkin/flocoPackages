@@ -1,0 +1,49 @@
+{
+  "name": "minimatch",
+  "description": "a glob matcher in javascript",
+  "version": "5.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/minimatch.git"
+  },
+  "main": "minimatch.js",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "prepublishOnly": "git push origin --follow-tags"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "brace-expansion": "^2.0.1"
+  },
+  "devDependencies": {
+    "tap": "^15.1.6"
+  },
+  "license": "ISC",
+  "gitHead": "6410ef32f59e4842121ca13eefacdf0b3da8533c",
+  "_id": "minimatch@5.1.0",
+  "_nodeVersion": "18.1.0",
+  "_npmVersion": "8.8.0",
+  "dist": {
+    "integrity": "sha512-9TPBGGak4nHfGZsPBohm9AWg6NoT7QTCehS3BIJABslyZbzxfV78QM2Y6+i741OPZIafFAaiiEMh5OyIrJPgtg==",
+    "tarball": "https://registry.npmjs.org/minimatch/-/minimatch-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "minimatch",
+  "key": "minimatch/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "minimatch",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-a475ZyZgM7xIKcgELTcHHlFCrJWnGu9YopUUbwLvwiY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/minimatch/-/minimatch-5.1.0.tgz"
+  }
+}

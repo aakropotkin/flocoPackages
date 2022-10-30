@@ -1,0 +1,66 @@
+{
+  "name": "logkitty",
+  "version": "0.7.1",
+  "description": "Display pretty Android and iOS logs without Android Studio or Console.app, with intuitive Command Line Interface.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zamotany/logkitty.git"
+  },
+  "license": "MIT",
+  "bin": {
+    "logkitty": "bin/logkitty.js"
+  },
+  "main": "build/api.js",
+  "scripts": {
+    "lint": "eslint --ext '.js,.ts' ./src",
+    "build:source": "babel src --out-dir build --extensions '.js,.ts' --ignore '**/__tests__/**' --source-maps --delete-dir-on-start",
+    "build:def": "tsc --emitDeclarationOnly",
+    "prepare": "yarn build:source && yarn build:def",
+    "typecheck": "tsc --noEmit",
+    "test": "jest"
+  },
+  "dependencies": {
+    "ansi-fragments": "^0.2.1",
+    "dayjs": "^1.8.15",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-typescript": "^7.3.3",
+    "@callstack/eslint-config": "^9.1.0",
+    "@types/jest": "^24.0.11",
+    "@types/node": "^10.12.18",
+    "@types/yargs": "^15.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.15.0",
+    "@typescript-eslint/parser": "^2.15.0",
+    "babel-jest": "^24.7.1",
+    "eslint": "^6.8.0",
+    "jest": "^24.7.1",
+    "typescript": "^3.7.4"
+  },
+  "jest": {
+    "testRegex": "/__tests__/.*\\.(test|spec)\\.ts?$"
+  },
+  "_id": "logkitty@0.7.1",
+  "dist": {
+    "integrity": "sha512-/3ER20CTTbahrCrpYfPn7Xavv9diBROZpoXGVZDWMw4b/X4uuUwAC0ki85tgsdMRONURyIJbcOvS94QsUBYPbQ==",
+    "tarball": "https://registry.npmjs.org/logkitty/-/logkitty-0.7.1.tgz"
+  },
+  "directories": {},
+  "ident": "logkitty",
+  "key": "logkitty/0.7.1",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "logkitty",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-dSlyJKxjqIHs5bv6NpspT+tyGwSbuIsN14gPtj+0pKs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/logkitty/-/logkitty-0.7.1.tgz"
+  }
+}

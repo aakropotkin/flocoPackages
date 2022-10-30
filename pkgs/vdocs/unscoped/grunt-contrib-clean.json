@@ -1,0 +1,54 @@
+{
+  "name": "grunt-contrib-clean",
+  "description": "Clean files and folders",
+  "version": "2.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruntjs/grunt-contrib-clean.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "main": "tasks/clean.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "async": "^3.2.3",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {
+    "dir-compare": "^4.0.0",
+    "grunt": "^1.5.2",
+    "grunt-contrib-internal": "^7.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "^4.0.0"
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.5"
+  },
+  "appveyor_id": "li28411ceq3n833d",
+  "gitHead": "9bd20a6effd37c37d892d227812e16c83c679651",
+  "_id": "grunt-contrib-clean@2.0.1",
+  "_nodeVersion": "12.22.8",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-uRvnXfhiZt8akb/ZRDHJpQQtkkVkqc/opWO4Po/9ehC2hPxgptB9S6JHDC/Nxswo4CJSM0iFPT/Iym3cEMWzKA==",
+    "tarball": "https://registry.npmjs.org/grunt-contrib-clean/-/grunt-contrib-clean-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "grunt-contrib-clean",
+  "key": "grunt-contrib-clean/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "grunt-contrib-clean",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-4IVYmbbrgQ4idriO0U4BB//wzgjkInf4TW3UqE5xk/c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-contrib-clean/-/grunt-contrib-clean-2.0.1.tgz"
+  }
+}

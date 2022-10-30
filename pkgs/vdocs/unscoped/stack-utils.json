@@ -1,0 +1,56 @@
+{
+  "name": "stack-utils",
+  "version": "2.0.5",
+  "description": "Captures and cleans stack traces",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapjs/stack-utils.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "prepublishOnly": "git push origin --follow-tags"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "dependencies": {
+    "escape-string-regexp": "^2.0.0"
+  },
+  "devDependencies": {
+    "bluebird": "^3.7.2",
+    "coveralls": "^3.0.9",
+    "nested-error-stacks": "^2.1.0",
+    "pify": "^4.0.1",
+    "q": "^1.5.1",
+    "source-map-support": "^0.5.20",
+    "tap": "^15.0.9"
+  },
+  "gitHead": "536b9a263ab340a280b613277521b8cdafc46102",
+  "_id": "stack-utils@2.0.5",
+  "_nodeVersion": "16.5.0",
+  "_npmVersion": "7.23.0",
+  "dist": {
+    "integrity": "sha512-xrQcmYhOsn/1kX+Vraq+7j4oE2j/6BFscZ0etmYg81xuM8Gq0022Pxb8+IqgOFUIaxHs0KaSb7T1+OegiNrNFA==",
+    "tarball": "https://registry.npmjs.org/stack-utils/-/stack-utils-2.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "stack-utils",
+  "key": "stack-utils/2.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "stack-utils",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-z2X6lT2UFJQo5PzuKn6TD1t8cMYwzauV/F+HLStPsXE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stack-utils/-/stack-utils-2.0.5.tgz"
+  }
+}

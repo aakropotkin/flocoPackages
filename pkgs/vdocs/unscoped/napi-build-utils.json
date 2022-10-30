@@ -1,0 +1,53 @@
+{
+  "name": "napi-build-utils",
+  "version": "1.0.2",
+  "description": "A set of utilities to assist developers of tools that build N-API native add-ons",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc2md index.js >index.md",
+    "test": "mocha test/ && npm run lint",
+    "lint": "standard",
+    "prepublishOnly": "npm run test && npm run doc"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspiredware/napi-build-utils.git"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jsdoc-to-markdown": "^4.0.1",
+    "mocha": "^5.2.0",
+    "standard": "^12.0.1"
+  },
+  "binary": {
+    "note": "napi-build-tools is not an N-API module. This entry is for unit testing.",
+    "napi_versions": [
+      2,
+      2,
+      3
+    ]
+  },
+  "gitHead": "220b7d37a1ccca05e6be9addff06a15bf0e523d2",
+  "_id": "napi-build-utils@1.0.2",
+  "_nodeVersion": "10.19.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg==",
+    "tarball": "https://registry.npmjs.org/napi-build-utils/-/napi-build-utils-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "napi-build-utils",
+  "key": "napi-build-utils/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "napi-build-utils",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Qrq9kwmODeRqA5wOCu0suF+kRlAOFd7iqeOuHeHZOhk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-build-utils/-/napi-build-utils-1.0.2.tgz"
+  }
+}

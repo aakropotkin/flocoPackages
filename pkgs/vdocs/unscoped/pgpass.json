@@ -1,0 +1,54 @@
+{
+  "name": "pgpass",
+  "version": "1.0.5",
+  "description": "Module for reading .pgpass",
+  "main": "lib/index",
+  "scripts": {
+    "pretest": "chmod 600 ./test/_pgpass",
+    "_hint": "jshint --exclude node_modules --verbose lib test",
+    "_test": "mocha --recursive -R list",
+    "_covered_test": "nyc --reporter html --reporter text \"$npm_execpath\" run _test",
+    "test": "\"$npm_execpath\" run _hint && \"$npm_execpath\" run _covered_test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "split2": "^4.1.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.12.0",
+    "mocha": "^8.2.0",
+    "nyc": "^15.1.0",
+    "pg": "^8.4.1",
+    "pg-escape": "^0.2.0",
+    "pg-native": "3.0.0",
+    "resumer": "0.0.0",
+    "tmp": "^0.2.1",
+    "which": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoegaarden/pgpass.git"
+  },
+  "gitHead": "4230ed5e417ba6044ea7eb80b7c33db9ec301398",
+  "_id": "pgpass@1.0.5",
+  "_nodeVersion": "12.22.7",
+  "_npmVersion": "8.3.0",
+  "dist": {
+    "integrity": "sha512-FdW9r/jQZhSeohs1Z3sI1yxFQNFvMcnmfuj4WBMUTxOrAyLMaTcE1aAMBiTlbMNaXvBCQuVi0R7hd8udDSP7ug==",
+    "tarball": "https://registry.npmjs.org/pgpass/-/pgpass-1.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "pgpass",
+  "key": "pgpass/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pgpass",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-p9A9zGfuh8D0LNQxedzJyGxkBoTwdUmb9ccU7G3nTZI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pgpass/-/pgpass-1.0.5.tgz"
+  }
+}

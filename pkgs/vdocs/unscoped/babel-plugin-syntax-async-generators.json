@@ -1,0 +1,37 @@
+{
+  "name": "babel-plugin-syntax-async-generators",
+  "version": "6.13.0",
+  "description": "Allow parsing of async generator functions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-generators"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "_id": "babel-plugin-syntax-async-generators@6.13.0",
+  "scripts": {},
+  "_shasum": "6bc963ebb16eccbae6b92b596eb7f35c342a8b9a",
+  "_from": ".",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "5.11.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-plugin-syntax-async-generators/-/babel-plugin-syntax-async-generators-6.13.0.tgz",
+    "integrity": "sha512-EbciFN5Jb9iqU9bqaLmmFLx2G8pAUsvpWJ6OzOWBNrSY9qTohXj+7YfZx6Ug1Qqh7tCb1EA7Jvn9bMC1HBiucg=="
+  },
+  "directories": {},
+  "ident": "babel-plugin-syntax-async-generators",
+  "key": "babel-plugin-syntax-async-generators/6.13.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-syntax-async-generators",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8zWlLTPdEQRdIIlnxE1gwPJviFq9tVF8dYSeUx5f/U8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-async-generators/-/babel-plugin-syntax-async-generators-6.13.0.tgz"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "commist",
+  "version": "3.1.2",
+  "description": "Build your commands on minimist!",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "pre-commit": "test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcollina/commist.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "minimist": "^1.1.0",
+    "pre-commit": "^1.0.0",
+    "standard": "^17.0.0",
+    "tape": "^5.0.0"
+  },
+  "gitHead": "fb711af698aca6415120ea81ce438b0ac538babf",
+  "_id": "commist@3.1.2",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-cyQMbb5GiGHD/MiTqqI4V5fySqVKS8WUtN0iwxZ3sd6GYZ+8gzo6aYiT2EhBuwzVoBjsAu8F9mnlqlnXGqADZg==",
+    "tarball": "https://registry.npmjs.org/commist/-/commist-3.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "commist",
+  "key": "commist/3.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "commist",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6NtLq0ZJ4aTgNg7LNbd7TQ97FBqs07ladbVWUi7tlJ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/commist/-/commist-3.1.2.tgz"
+  }
+}

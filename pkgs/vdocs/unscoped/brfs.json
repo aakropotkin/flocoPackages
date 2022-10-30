@@ -1,0 +1,51 @@
+{
+  "name": "brfs",
+  "version": "2.0.2",
+  "description": "browserify fs.readFileSync() static asset inliner",
+  "main": "index.js",
+  "bin": {
+    "brfs": "bin/cmd.js"
+  },
+  "dependencies": {
+    "quote-stream": "^1.0.1",
+    "resolve": "^1.1.5",
+    "static-module": "^3.0.2",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^16.1.1",
+    "concat-stream": "^1.6.0",
+    "tap": "^10.7.3",
+    "through": "^2.3.4"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/brfs.git"
+  },
+  "license": "MIT",
+  "gitHead": "660f6d81cb22eba997503ce17150db2c4aa3f94d",
+  "_id": "brfs@2.0.2",
+  "_nodeVersion": "11.10.0",
+  "_npmVersion": "6.8.0",
+  "dist": {
+    "integrity": "sha512-IrFjVtwu4eTJZyu8w/V2gxU7iLTtcHih67sgEdzrhjLBMHp2uYefUBfdM4k2UvcuWMgV7PQDZHSLeNWnLFKWVQ==",
+    "tarball": "https://registry.npmjs.org/brfs/-/brfs-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "brfs",
+  "key": "brfs/2.0.2",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "brfs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+GigMkdNWm6VpMGzVUMTIQOZB2f6Ib9Mfy8CM4FzC5o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/brfs/-/brfs-2.0.2.tgz"
+  }
+}

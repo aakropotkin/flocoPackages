@@ -1,0 +1,35 @@
+{
+  "name": "pug-walk",
+  "version": "2.0.0",
+  "description": "Walk and transform a pug AST",
+  "devDependencies": {
+    "pug-lexer": "^5.0.0",
+    "pug-parser": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pugjs/pug/tree/master/packages/pug-walk"
+  },
+  "license": "MIT",
+  "_id": "pug-walk@2.0.0",
+  "_nodeVersion": "12.16.3",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-yYELe9Q5q9IQhuvqsZNwA5hfPkMJ8u92bQLIMcsMxf/VADjNtEYptU+inlufAFYcWdHlwNfZOEnOOQrZrcyJCQ==",
+    "tarball": "https://registry.npmjs.org/pug-walk/-/pug-walk-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "pug-walk",
+  "key": "pug-walk/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pug-walk",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-x1+jMRMEFMhnL+JHtMy1UHtP6dBQA+qmXfFopNZTCDI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-walk/-/pug-walk-2.0.0.tgz"
+  }
+}

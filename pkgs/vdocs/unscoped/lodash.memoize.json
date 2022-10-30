@@ -1,0 +1,35 @@
+{
+  "name": "lodash.memoize",
+  "version": "4.1.2",
+  "description": "The lodash method `_.memoize` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.memoize@4.1.2",
+  "_shasum": "bcc6c49a42a2840ed997f323eada5ecd182e0bfe",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.memoize/-/lodash.memoize-4.1.2.tgz",
+    "integrity": "sha512-t7j+NzmgnQzTAYXcsHYLgimltOV1MXHtlOWf6GjL9Kj8GK5FInw5JotxvbOs+IvV1/Dzo04/fCGfLVs7aXb4Ag=="
+  },
+  "ident": "lodash.memoize",
+  "key": "lodash.memoize/4.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.memoize",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-njmSkIy8WofPUSgVKAyJICNUDT4K6GPV7LXaZMigP5U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.memoize/-/lodash.memoize-4.1.2.tgz"
+  }
+}

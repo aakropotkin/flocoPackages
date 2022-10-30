@@ -1,0 +1,36 @@
+{
+  "name": "git-node-fs",
+  "description": "A node adapter for the fs-db mixin for js-git",
+  "version": "1.0.0",
+  "main": "lib/node-fs.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creationix/git-node-fs.git"
+  },
+  "license": "MIT",
+  "gitHead": "7c691d7281b49b1be77426701c2bf0535e1abcc9",
+  "_id": "git-node-fs@1.0.0",
+  "_shasum": "49b215e242ebe43aa4c7561bbba499521752080f",
+  "_from": ".",
+  "_npmVersion": "1.4.21",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/git-node-fs/-/git-node-fs-1.0.0.tgz",
+    "integrity": "sha512-bLQypt14llVXBg0S0u8q8HmU7g9p3ysH+NvVlae5vILuUvs759665HvmR5+wb04KjHyjFcDRxdYb4kyNnluMUQ=="
+  },
+  "ident": "git-node-fs",
+  "key": "git-node-fs/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "git-node-fs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BRQ1IHompHHocrXiq48EtqK0OAcLFzozUpKoRRM1rpo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/git-node-fs/-/git-node-fs-1.0.0.tgz"
+  }
+}

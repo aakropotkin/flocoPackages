@@ -1,0 +1,53 @@
+{
+  "name": "strip-json-comments",
+  "version": "5.0.0",
+  "description": "Strip comments from JSON. Lets you use comments in your JSON files!",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/strip-json-comments.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd",
+    "bench": "matcha benchmark.js"
+  },
+  "devDependencies": {
+    "ava": "^4.3.1",
+    "matcha": "^0.7.0",
+    "tsd": "^0.22.0",
+    "xo": "^0.51.0"
+  },
+  "xo": {
+    "rules": {
+      "complexity": "off"
+    }
+  },
+  "gitHead": "34b79cb0f1129aa85ef4b5c3292e8bc546984ef9",
+  "_id": "strip-json-comments@5.0.0",
+  "_nodeVersion": "14.19.3",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-V1LGY4UUo0jgwC+ELQ2BNWfPa17TIuwBLg+j1AA/9RPzKINl1lhxVEu2r+ZTTO8aetIsUzE5Qj6LMSBkoGYKKw==",
+    "tarball": "https://registry.npmjs.org/strip-json-comments/-/strip-json-comments-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "strip-json-comments",
+  "key": "strip-json-comments/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "strip-json-comments",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-vKmwEBW/iP0bp4CUeKmFxJyAj/iIXrNfPaRebu/d19s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strip-json-comments/-/strip-json-comments-5.0.0.tgz"
+  }
+}

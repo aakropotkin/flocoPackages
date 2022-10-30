@@ -1,0 +1,84 @@
+{
+  "name": "dot-case",
+  "version": "3.0.4",
+  "description": "Transform into a lower case string with a period between words",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "module": "dist.es2015/index.js",
+  "sideEffects": false,
+  "jsnext:main": "dist.es2015/index.js",
+  "scripts": {
+    "lint": "tslint \"src/**/*\" --project tsconfig.json",
+    "build": "rimraf dist/ dist.es2015/ && tsc && tsc -P tsconfig.es2015.json",
+    "specs": "jest --coverage",
+    "test": "npm run build && npm run lint && npm run specs",
+    "size": "size-limit",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/change-case.git"
+  },
+  "license": "MIT",
+  "size-limit": [
+    {
+      "path": "dist/index.js",
+      "limit": "450 B"
+    }
+  ],
+  "jest": {
+    "roots": [
+      "<rootDir>/src/"
+    ],
+    "transform": {
+      "\\.tsx?$": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(tsx?|jsx?)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  },
+  "dependencies": {
+    "no-case": "^3.0.4",
+    "tslib": "^2.0.3"
+  },
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^2.2.1",
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "jest": "^24.9.0",
+    "rimraf": "^3.0.0",
+    "ts-jest": "^24.2.0",
+    "tslint": "^5.20.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-config-standard": "^9.0.0",
+    "typescript": "^4.1.2"
+  },
+  "gitHead": "76a21a7f6f2a226521ef6abd345ff309cbd01fb0",
+  "_id": "dot-case@3.0.4",
+  "_nodeVersion": "12.20.0",
+  "_npmVersion": "lerna/3.22.1/node@v12.20.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-Kv5nKlh6yRrdrGvxeJ2e5y2eRUpkUosIW4A2AS38zwSz27zu7ufDwQPi5Jhs3XAlGNetl3bmnGhQsMtkKJnj3w==",
+    "tarball": "https://registry.npmjs.org/dot-case/-/dot-case-3.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "dot-case",
+  "key": "dot-case/3.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dot-case",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xJ1TJ4TgwtrKIDtKmKCnO1jxCY3Qw0hpuuL+C9WXLa4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dot-case/-/dot-case-3.0.4.tgz"
+  }
+}

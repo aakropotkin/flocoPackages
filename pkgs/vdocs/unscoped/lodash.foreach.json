@@ -1,0 +1,35 @@
+{
+  "name": "lodash.foreach",
+  "version": "4.5.0",
+  "description": "The lodash method `_.forEach` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.foreach@4.5.0",
+  "_shasum": "1a6a35eace401280c7f06dddec35165ab27e3e53",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.5.0.tgz",
+    "integrity": "sha512-aEXTF4d+m05rVOAUG3z4vZZ4xVexLKZGF0lIxuHZ1Hplpk/3B6Z1+/ICICYRLm7c41Z2xiejbkCkJoTlypoXhQ=="
+  },
+  "ident": "lodash.foreach",
+  "key": "lodash.foreach/4.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.foreach",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ENPNU7blItLwJO4u0xbLEf4okUJV6N03JvogT3S/c/0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.5.0.tgz"
+  }
+}

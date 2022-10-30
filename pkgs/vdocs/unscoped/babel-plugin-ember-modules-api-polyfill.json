@@ -1,0 +1,87 @@
+{
+  "name": "babel-plugin-ember-modules-api-polyfill",
+  "version": "3.5.0",
+  "description": "Polyfill for Ember JS API.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ember-cli/babel-plugin-ember-modules-api-polyfill.git"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "start": "jest --watchAll",
+    "test": "jest"
+  },
+  "dependencies": {
+    "ember-rfc176-data": "^0.3.17"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/plugin-proposal-decorators": "^7.13.5",
+    "@babel/plugin-transform-typescript": "^7.13.0",
+    "@babel/preset-env": "^7.13.8",
+    "babel-core": "^6.25.0",
+    "eslint": "^7.21.0",
+    "eslint-config-prettier": "^7.2.0",
+    "babel-plugin-istanbul": "^6.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "jest": "^24.9.0",
+    "prettier": "^2.2.1",
+    "release-it": "^14.4.1",
+    "release-it-lerna-changelog": "^3.1.0"
+  },
+  "engines": {
+    "node": "6.* || 8.* || >= 10.*"
+  },
+  "changelog": {
+    "repo": "ember-cli/babel-plugin-ember-modules-api-polyfill",
+    "labels": {
+      "breaking": ":boom: Breaking Change",
+      "enhancement": ":rocket: Enhancement",
+      "bug": ":bug: Bug Fix",
+      "documentation": ":memo: Documentation",
+      "internal": ":house: Internal"
+    }
+  },
+  "release-it": {
+    "plugins": {
+      "release-it-lerna-changelog": {
+        "infile": "CHANGELOG.md",
+        "launchEditor": true
+      }
+    },
+    "git": {
+      "tagName": "v${version}"
+    },
+    "github": {
+      "release": true,
+      "tokenRef": "GITHUB_AUTH"
+    }
+  },
+  "gitHead": "1bfe5bd841b68738b367398de519225a5b00857f",
+  "_id": "babel-plugin-ember-modules-api-polyfill@3.5.0",
+  "_nodeVersion": "14.16.0",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-pJajN/DkQUnStw0Az8c6khVcMQHgzqWr61lLNtVeu0g61LRW0k9jyK7vaedrHDWGe/Qe8sxG5wpiyW9NsMqFzA==",
+    "tarball": "https://registry.npmjs.org/babel-plugin-ember-modules-api-polyfill/-/babel-plugin-ember-modules-api-polyfill-3.5.0.tgz"
+  },
+  "ident": "babel-plugin-ember-modules-api-polyfill",
+  "key": "babel-plugin-ember-modules-api-polyfill/3.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-ember-modules-api-polyfill",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-M7gWplqvmhhKxzDkQSUxI/bXyZeg2nhoujWLr5FNeMA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-ember-modules-api-polyfill/-/babel-plugin-ember-modules-api-polyfill-3.5.0.tgz"
+  }
+}

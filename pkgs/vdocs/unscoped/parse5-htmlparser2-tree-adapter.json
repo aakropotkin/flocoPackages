@@ -1,0 +1,47 @@
+{
+  "name": "parse5-htmlparser2-tree-adapter",
+  "type": "module",
+  "description": "htmlparser2 tree adapter for parse5.",
+  "version": "7.0.0",
+  "license": "MIT",
+  "main": "dist/cjs/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.js",
+    "require": "./dist/cjs/index.js"
+  },
+  "dependencies": {
+    "domhandler": "^5.0.2",
+    "parse5": "^7.0.0"
+  },
+  "scripts": {
+    "build:cjs": "tsc --module CommonJS --target ES6 --outDir dist/cjs && echo '{\"type\":\"commonjs\"}' > dist/cjs/package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inikulin/parse5.git"
+  },
+  "gitHead": "abec4c2be40f09dc4e3d0fd6a64eb10bbb24cca0",
+  "_id": "parse5-htmlparser2-tree-adapter@7.0.0",
+  "_nodeVersion": "17.9.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-B77tOZrqqfUfnVcOrUvfdLbz4pu4RopLD/4vmu3HUPswwTA8OH0EMW9BlWR2B0RCoiZRAHEUu7IxeP1Pd1UU+g==",
+    "tarball": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter/-/parse5-htmlparser2-tree-adapter-7.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "parse5-htmlparser2-tree-adapter",
+  "key": "parse5-htmlparser2-tree-adapter/7.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "parse5-htmlparser2-tree-adapter",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HWcsfhbpYi1hgbJ2VKqGG+t7c9at1Q532kHSHw08ZVk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter/-/parse5-htmlparser2-tree-adapter-7.0.0.tgz"
+  }
+}

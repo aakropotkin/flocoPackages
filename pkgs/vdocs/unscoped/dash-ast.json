@@ -1,0 +1,47 @@
+{
+  "name": "dash-ast",
+  "description": "walk an AST, quickly",
+  "version": "2.0.1",
+  "devDependencies": {
+    "acorn": "7.1.0",
+    "astw": "^2.2.0",
+    "estree-walk": "^2.2.0",
+    "estree-walker": "^2.0.0",
+    "nanobench": "^2.1.1",
+    "semver": "^6.3.0",
+    "standard": "^14.3.1",
+    "tape": "^4.11.0"
+  },
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goto-bus-stop/dash-ast.git"
+  },
+  "scripts": {
+    "test": "standard && node test && node bench",
+    "test:ci": "node test && node bench"
+  },
+  "gitHead": "25d837ecd662b43ac6d95922f40676f2f0d76efc",
+  "_id": "dash-ast@2.0.1",
+  "_nodeVersion": "13.10.1",
+  "_npmVersion": "6.14.2",
+  "dist": {
+    "integrity": "sha512-5TXltWJGc+RdnabUGzhRae1TRq6m4gr+3K2wQX0is5/F2yS6MJXJvLyI3ErAnsAXuJoGqvfVD5icRgim07DrxQ==",
+    "tarball": "https://registry.npmjs.org/dash-ast/-/dash-ast-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "dash-ast",
+  "key": "dash-ast/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dash-ast",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-falZX6VD7XiAqHLo0pUaDnKSU5fKgPwHU6UfpT5Fs0s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dash-ast/-/dash-ast-2.0.1.tgz"
+  }
+}

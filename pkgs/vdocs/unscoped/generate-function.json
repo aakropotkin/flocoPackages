@@ -1,0 +1,42 @@
+{
+  "name": "generate-function",
+  "version": "2.3.1",
+  "description": "Module that helps you write generated functions in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafintosh/generate-function.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  },
+  "dependencies": {
+    "is-property": "^1.0.2"
+  },
+  "gitHead": "240c6ef0f243fa8e37d2656f880c7145c9f6d12d",
+  "_id": "generate-function@2.3.1",
+  "_npmVersion": "6.2.0",
+  "_nodeVersion": "10.9.0",
+  "dist": {
+    "integrity": "sha512-eeB5GfMNeevm/GRYq20ShmsaGcmI81kIX2K9XQx5miC8KdHaC6Jm0qQ8ZNeGOi7wYB8OsdxKs+Y2oVuTFuVwKQ==",
+    "tarball": "https://registry.npmjs.org/generate-function/-/generate-function-2.3.1.tgz"
+  },
+  "directories": {},
+  "ident": "generate-function",
+  "key": "generate-function/2.3.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "generate-function",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-NvbZFA3UVkLxOn2N7tqIKx2Gy7igvtXgt2Fyk5/knGs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/generate-function/-/generate-function-2.3.1.tgz"
+  }
+}

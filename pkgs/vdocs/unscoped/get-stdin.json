@@ -1,0 +1,47 @@
+{
+  "name": "get-stdin",
+  "version": "9.0.0",
+  "description": "Get stdin as a string or buffer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/get-stdin.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava test.js test-buffer.js && echo unicorns | node test-real.js && tsd"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41",
+    "ava": "^3.15.0",
+    "delay": "^5.0.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "147d91ccdb23748b4655192781928df9f4fb4aee",
+  "_id": "get-stdin@9.0.0",
+  "_nodeVersion": "14.16.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-dVKBjfWisLAicarI2Sf+JuBE/DghV4UzNAVe9yhEJuzeREd3JhOTE9cUaJTeSa77fsbQUK3pcOpJfM59+VKZaA==",
+    "tarball": "https://registry.npmjs.org/get-stdin/-/get-stdin-9.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "get-stdin",
+  "key": "get-stdin/9.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "get-stdin",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-A5LFflsy8vRzIw49FMvhsCwTwXocbauebB7PN98o/Fs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/get-stdin/-/get-stdin-9.0.0.tgz"
+  }
+}

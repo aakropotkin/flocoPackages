@@ -1,0 +1,47 @@
+{
+  "name": "cli-spinners",
+  "version": "2.7.0",
+  "description": "Spinners for use in the terminal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/cli-spinners.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd",
+    "asciicast": "asciinema rec --command='node example-all.js' --title='cli-spinner' --quiet"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "log-update": "^3.2.0",
+    "string-length": "^4.0.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "45cef9dff64ac5e36b46a194c68bccba448899ac",
+  "_id": "cli-spinners@2.7.0",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-qu3pN8Y3qHNgE2AFweciB1IfMnmZ/fsNTEE+NOFjmGB2F/7rLhnhzppvpCnN4FovtP26k8lHyy9ptEbNwWFLzw==",
+    "tarball": "https://registry.npmjs.org/cli-spinners/-/cli-spinners-2.7.0.tgz"
+  },
+  "directories": {},
+  "ident": "cli-spinners",
+  "key": "cli-spinners/2.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cli-spinners",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qIivNjRtBujnWr6E3dWELFGkM08ku4lDjkQ2OHowLRo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinners/-/cli-spinners-2.7.0.tgz"
+  }
+}

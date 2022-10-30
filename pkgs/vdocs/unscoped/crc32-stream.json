@@ -1,0 +1,47 @@
+{
+  "name": "crc32-stream",
+  "version": "4.0.2",
+  "description": "a streaming CRC32 checksumer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archiverjs/node-crc32-stream.git"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">= 10"
+  },
+  "scripts": {
+    "test": "mocha --reporter dot"
+  },
+  "dependencies": {
+    "crc-32": "^1.2.0",
+    "readable-stream": "^3.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^8.0.1"
+  },
+  "gitHead": "43fc6b2ee2b1b89f702882ee68c213acb84d14ae",
+  "_id": "crc32-stream@4.0.2",
+  "_nodeVersion": "12.20.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-DxFZ/Hk473b/muq1VJ///PMNLj0ZMnzye9thBpmjpJKCc5eMgB95aK8zCGrGfQ90cWo561Te6HK9D+j4KPdM6w==",
+    "tarball": "https://registry.npmjs.org/crc32-stream/-/crc32-stream-4.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "crc32-stream",
+  "key": "crc32-stream/4.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "crc32-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HwdnOTobw4RFuctmk0d1TwV+G/MzaNn+NglYJYPtJvA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/crc32-stream/-/crc32-stream-4.0.2.tgz"
+  }
+}

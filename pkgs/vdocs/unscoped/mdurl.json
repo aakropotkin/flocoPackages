@@ -1,0 +1,43 @@
+{
+  "name": "mdurl",
+  "version": "1.0.1",
+  "description": "URL utilities for markdown-it",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markdown-it/mdurl.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "eslint": "0.13.0",
+    "eslint-plugin-nodeca": "^1.0.0",
+    "istanbul": "*"
+  },
+  "gitHead": "8bfd33610062a71155cc64254271555a49db8332",
+  "_id": "mdurl@1.0.1",
+  "_shasum": "fe85b2ec75a59037f2adfec100fd6c601761152e",
+  "_from": ".",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/mdurl/-/mdurl-1.0.1.tgz",
+    "integrity": "sha512-/sKlQJCBYVY9Ers9hqzKou4H6V5UWc/M59TH2dvkt+84itfnq7uFOMLpOiOS4ujvHP4etln18fmIxA5R5fll0g=="
+  },
+  "directories": {},
+  "ident": "mdurl",
+  "key": "mdurl/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mdurl",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7U5TB3Jq9V3mYxOMapVLPRsj7VqqpxAijjfSDdalNug=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mdurl/-/mdurl-1.0.1.tgz"
+  }
+}

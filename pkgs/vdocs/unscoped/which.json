@@ -1,0 +1,60 @@
+{
+  "name": "which",
+  "description": "Like which(1) unix command. Find the first instance of an executable in the PATH.",
+  "version": "2.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/node-which.git"
+  },
+  "main": "which.js",
+  "bin": {
+    "node-which": "./bin/node-which"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "isexe": "^2.0.0"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.6.2",
+    "tap": "^14.6.9"
+  },
+  "scripts": {
+    "test": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "prepublish": "npm run changelog",
+    "prechangelog": "bash gen-changelog.sh",
+    "changelog": "git add CHANGELOG.md",
+    "postchangelog": "git commit -m 'update changelog - '${npm_package_version}",
+    "postpublish": "git push origin --follow-tags"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "gitHead": "6a822d836de79f92fb3170f685a6e283fbfeff87",
+  "_id": "which@2.0.2",
+  "_nodeVersion": "12.12.0",
+  "_npmVersion": "6.13.1",
+  "dist": {
+    "integrity": "sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA==",
+    "tarball": "https://registry.npmjs.org/which/-/which-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "which",
+  "key": "which/2.0.2",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "which",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-u114pFUXCCiUamLVVZma0Au+didZhD6RCoGTbrh2OhU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/which/-/which-2.0.2.tgz"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "string.prototype.trimend",
+  "version": "1.0.5",
+  "description": "ES2019 spec-compliant String.prototype.trimEnd shim.",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "not-in-publish || npm run prepublishOnly",
+    "prepublishOnly": "safe-publish-latest",
+    "lint": "eslint --ext=js,mjs .",
+    "postlint": "es-shim-api --bound",
+    "pretest": "npm run lint",
+    "test": "npm run tests-only",
+    "posttest": "aud --production",
+    "tests-only": "nyc tape 'test/**/*.js'",
+    "version": "auto-changelog && git add CHANGELOG.md",
+    "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/es-shims/String.prototype.trimEnd.git"
+  },
+  "devDependencies": {
+    "@es-shims/api": "^2.2.3",
+    "@ljharb/eslint-config": "^21.0.0",
+    "aud": "^2.0.0",
+    "auto-changelog": "^2.4.0",
+    "eslint": "=8.8.0",
+    "functions-have-names": "^1.2.3",
+    "has-strict-mode": "^1.0.1",
+    "nyc": "^10.3.2",
+    "safe-publish-latest": "^2.0.0",
+    "tape": "^5.5.3"
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": false,
+    "commitLimit": false,
+    "backfillLimit": false,
+    "hideCredit": true
+  },
+  "dependencies": {
+    "call-bind": "^1.0.2",
+    "define-properties": "^1.1.4",
+    "es-abstract": "^1.19.5"
+  },
+  "gitHead": "aedeb973d8eabc39c3d2a75d5c7d597d2615727a",
+  "_id": "string.prototype.trimend@1.0.5",
+  "_nodeVersion": "18.0.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-I7RGvmjV4pJ7O3kdf+LXFpVfdNOxtCW/2C8f6jNiW4+PQchwxkCDzlk1/7p+Wl4bqFIZeF47qAHXLuHHWKAxog==",
+    "tarball": "https://registry.npmjs.org/string.prototype.trimend/-/string.prototype.trimend-1.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "string.prototype.trimend",
+  "key": "string.prototype.trimend/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "string.prototype.trimend",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Rv2M4OdoS3elfc/RPeZLDcF31MkgLpWmChQoI+99Enw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/string.prototype.trimend/-/string.prototype.trimend-1.0.5.tgz"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": "0.0.9",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "start": "tsdx watch",
+    "build": "tsdx build",
+    "test": "tsdx test",
+    "lint": "tsdx lint",
+    "prepare": "tsdx build"
+  },
+  "peerDependencies": {},
+  "husky": {
+    "hooks": {
+      "pre-commit": "tsdx lint"
+    }
+  },
+  "prettier": {
+    "printWidth": 80,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "name": "hermes-profile-transformer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/react-native-community/hermes-profile-transformer"
+  },
+  "module": "dist/hermes-tracing-profile-transformer.esm.js",
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "tsdx": "^0.13.2",
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "source-map": "^0.7.3"
+  },
+  "description": "The Hermes runtime, used by React Native for Android, is able to output [Chrome Trace Events](https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/preview) in JSON Object Format.",
+  "_id": "hermes-profile-transformer@0.0.9",
+  "dist": {
+    "integrity": "sha512-JYPUE9zA+W/hpTIGBV+t2ODvntataLLMfntoEcpEpKFDwdR6+Quk9SwLnWX9y2A3ZII6N4T8w3TUBC2ejsEGBw==",
+    "tarball": "https://registry.npmjs.org/hermes-profile-transformer/-/hermes-profile-transformer-0.0.9.tgz"
+  },
+  "directories": {},
+  "ident": "hermes-profile-transformer",
+  "key": "hermes-profile-transformer/0.0.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "hermes-profile-transformer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uELpWOKuJ56jLOD2mEIpVgyAaiL7nuEepYO3t+IROzQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hermes-profile-transformer/-/hermes-profile-transformer-0.0.9.tgz"
+  }
+}

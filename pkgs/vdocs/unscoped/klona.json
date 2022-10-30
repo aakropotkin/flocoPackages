@@ -1,0 +1,75 @@
+{
+  "name": "klona",
+  "version": "2.0.5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeed/klona.git"
+  },
+  "description": "A tiny (240B to 501B) and fast utility to \"deep clone\" Objects, Arrays, Dates, RegExps, and more!",
+  "module": "dist/index.mjs",
+  "unpkg": "dist/index.min.js",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    },
+    "./json": {
+      "import": "./json/index.mjs",
+      "require": "./json/index.js"
+    },
+    "./lite": {
+      "import": "./lite/index.mjs",
+      "require": "./lite/index.js"
+    },
+    "./full": {
+      "import": "./full/index.mjs",
+      "require": "./full/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "modes": {
+    "json": "src/json.js",
+    "lite": "src/lite.js",
+    "default": "src/index.js",
+    "full": "src/full.js"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "scripts": {
+    "build": "bundt",
+    "pretest": "npm run build",
+    "postbuild": "echo \"lite full json\" | xargs -n1 cp -v index.d.ts",
+    "test": "uvu -r esm test -i suites"
+  },
+  "devDependencies": {
+    "bundt": "1.0.2",
+    "esm": "3.2.25",
+    "uvu": "0.5.2"
+  },
+  "gitHead": "41da7dc2a0edae815c79c4b8debddf0ab4dfc21b",
+  "_id": "klona@2.0.5",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-pJiBpiXMbt7dkzXe8Ghj/u4FfXOOa98fPW+bihOJ4SjnoijweJrNThJfd3ifXpXhREjpoF2mZVH1GfS9LV3kHQ==",
+    "tarball": "https://registry.npmjs.org/klona/-/klona-2.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "klona",
+  "key": "klona/2.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "klona",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zm5kId7/8mehonV6dk07HEtzvSuHYpEZ9uAggza/EWs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-2.0.5.tgz"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "mathml-tag-names",
+  "version": "3.0.2",
+  "description": "List of known MathML tag names",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooorm/mathml-tag-names.git"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@types/tape": "^4.0.0",
+    "bail": "^2.0.0",
+    "c8": "^7.0.0",
+    "concat-stream": "^2.0.0",
+    "hast-util-select": "^5.0.0",
+    "hast-util-to-string": "^2.0.0",
+    "prettier": "^2.0.0",
+    "rehype-parse": "^8.0.0",
+    "remark-cli": "^10.0.0",
+    "remark-preset-wooorm": "^9.0.0",
+    "rimraf": "^3.0.0",
+    "tape": "^5.0.0",
+    "type-coverage": "^2.0.0",
+    "typescript": "^4.0.0",
+    "unified": "^10.0.0",
+    "xo": "^0.46.0"
+  },
+  "scripts": {
+    "generate": "node build",
+    "prepublishOnly": "npm run build && npm run format",
+    "build": "rimraf \"*.d.ts\" && tsc && type-coverage",
+    "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
+    "test-api": "node --conditions development test.js",
+    "test-coverage": "c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov npm run test-api",
+    "test": "npm run generate && npm run build && npm run format && npm run test-coverage"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": false,
+    "trailingComma": "none"
+  },
+  "xo": {
+    "prettier": true
+  },
+  "remarkConfig": {
+    "plugins": [
+      "preset-wooorm"
+    ]
+  },
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true,
+    "ignoreCatch": true
+  },
+  "gitHead": "4587e22be68608b47355ddae3329b1645f43df36",
+  "_id": "mathml-tag-names@3.0.2",
+  "_nodeVersion": "17.0.1",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-IJ6tiBO7JSsoYyDWKDAD4YkbT7zlPmDTlL/JbWEJmnC/1FsUfTyPguq/7Lr2ro+q1WgQKlxa16uJ8Eu2rvnFAQ==",
+    "tarball": "https://registry.npmjs.org/mathml-tag-names/-/mathml-tag-names-3.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "mathml-tag-names",
+  "key": "mathml-tag-names/3.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mathml-tag-names",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7fNpFpZJVpAeeDjRbcxED1vSTwYE07U3S16bPUm+5SQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mathml-tag-names/-/mathml-tag-names-3.0.2.tgz"
+  }
+}

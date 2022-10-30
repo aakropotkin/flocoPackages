@@ -1,0 +1,62 @@
+{
+  "version": "2.0.0",
+  "name": "har-schema",
+  "description": "JSON Schema for HTTP Archive (HAR)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadnassri/har-schema.git"
+  },
+  "license": "ISC",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "tap test --reporter spec",
+    "pretest": "snazzy && echint",
+    "coverage": "tap test --reporter silent --coverage",
+    "codeclimate": "tap --coverage-report=text-lcov | codeclimate-test-reporter",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "ajv": "^5.0.0",
+    "codeclimate-test-reporter": "^0.4.0",
+    "cz-conventional-changelog": "^1.2.0",
+    "echint": "^2.1.0",
+    "semantic-release": "^6.3.2",
+    "snazzy": "^5.0.0",
+    "tap": "^8.0.1"
+  },
+  "gitHead": "d006b0500e083a5b3e42635f110f3fb702ccdbb1",
+  "_id": "har-schema@2.0.0",
+  "_shasum": "a94c2224ebcac04782a0d9035521f24735b7ec92",
+  "_from": ".",
+  "_npmVersion": "2.15.11",
+  "_nodeVersion": "4.8.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/har-schema/-/har-schema-2.0.0.tgz",
+    "integrity": "sha512-Oqluz6zhGX8cyRaTQlFMPw80bSJVG2x/cFb8ZPhUILGgHka9SsokCCOQgpveePerqidZOrT14ipqfJb7ILcW5Q=="
+  },
+  "directories": {},
+  "ident": "har-schema",
+  "key": "har-schema/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "har-schema",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ADOciTnc9IG4BIWzmodWXLjGC1nzKMsXbi5z7SpmYow=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/har-schema/-/har-schema-2.0.0.tgz"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "lodash.uniq",
+  "version": "4.5.0",
+  "description": "The lodash method `_.uniq` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.uniq@4.5.0",
+  "_shasum": "d0225373aeb652adc1bc82e4945339a842754773",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.uniq/-/lodash.uniq-4.5.0.tgz",
+    "integrity": "sha512-xfBaXQd9ryd9dlSDvnvI0lvxfLJlYAZzXomUYzLKtUeOQvOP5piqAWuGtrhWeqaXK9hhoM/iyJc5AV+XfsX3HQ=="
+  },
+  "ident": "lodash.uniq",
+  "key": "lodash.uniq/4.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.uniq",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Sw5vOkUFgRD6stksmS6OQiTcDS6QuEIufLF9NI85EB0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.uniq/-/lodash.uniq-4.5.0.tgz"
+  }
+}

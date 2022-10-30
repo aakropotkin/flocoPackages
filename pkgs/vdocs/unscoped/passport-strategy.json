@@ -1,0 +1,58 @@
+{
+  "name": "passport-strategy",
+  "version": "1.0.0",
+  "description": "An abstract class implementing Passport's strategy API.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/passport-strategy.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "chai": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js"
+  },
+  "testling": {
+    "browsers": [
+      "chrome/latest"
+    ],
+    "harness": "mocha",
+    "files": [
+      "test/bootstrap/testling.js",
+      "test/*.test.js"
+    ]
+  },
+  "_id": "passport-strategy@1.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/passport-strategy/-/passport-strategy-1.0.0.tgz",
+    "integrity": "sha512-CB97UUvDKJde2V0KDWWB3lyf6PC3FaZP7YxZ2G8OAtn9p4HI9j9JLP9qjOGZFvyl8uwNT8qM+hGnz/n16NI7oA=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.2.25",
+  "directories": {},
+  "ident": "passport-strategy",
+  "key": "passport-strategy/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "passport-strategy",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-pE3yymfhDc+eCy+JXhbst7064PVvZKk5SwkncqUaFrI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/passport-strategy/-/passport-strategy-1.0.0.tgz"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "simple-swizzle",
+  "description": "Simply swizzle your arguments",
+  "version": "0.2.2",
+  "license": "MIT",
+  "scripts": {
+    "pretest": "xo",
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qix-/node-simple-swizzle.git"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "should": "^7.0.1",
+    "xo": "^0.7.1"
+  },
+  "dependencies": {
+    "is-arrayish": "^0.3.1"
+  },
+  "gitHead": "54cfffdb7c115c4fc52ce7c2f2af9f6351091c88",
+  "_id": "simple-swizzle@0.2.2",
+  "_shasum": "a4da6b635ffcccca33f70d17cb92592de95e557a",
+  "_from": ".",
+  "_npmVersion": "2.14.2",
+  "_nodeVersion": "0.10.32",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/simple-swizzle/-/simple-swizzle-0.2.2.tgz",
+    "integrity": "sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg=="
+  },
+  "ident": "simple-swizzle",
+  "key": "simple-swizzle/0.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "simple-swizzle",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-YGEOeup6E4WEVPAnYJrJvXBhJGx1AmC1i7MeNxRXntk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/simple-swizzle/-/simple-swizzle-0.2.2.tgz"
+  }
+}

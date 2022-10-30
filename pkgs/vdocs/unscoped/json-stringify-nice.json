@@ -1,0 +1,58 @@
+{
+  "name": "json-stringify-nice",
+  "version": "1.1.4",
+  "description": "Stringify an object sorting scalars before objects, and defaulting to 2-space indent",
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "posttest": "npm run lint",
+    "snap": "tap",
+    "postsnap": "npm run lintfix",
+    "eslint": "eslint",
+    "lint": "npm run eslint -- index.js test/**/*.js",
+    "lintfix": "npm run lint -- --fix",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --follow-tags"
+  },
+  "tap": {
+    "test-env": [
+      "LC_ALL=sk"
+    ],
+    "check-coverage": true
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "tap": "^15.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/json-stringify-nice.git"
+  },
+  "gitHead": "75257e5749847bbfc416bd415cdc999c80bc8917",
+  "_id": "json-stringify-nice@1.1.4",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "7.11.2",
+  "dist": {
+    "integrity": "sha512-5Z5RFW63yxReJ7vANgW6eZFGWaQvnPE3WNmZoOJrSkGju2etKA2L5rrOa1sm877TVTFt57A80BH1bArcmlLfPw==",
+    "tarball": "https://registry.npmjs.org/json-stringify-nice/-/json-stringify-nice-1.1.4.tgz"
+  },
+  "directories": {},
+  "ident": "json-stringify-nice",
+  "key": "json-stringify-nice/1.1.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "json-stringify-nice",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-tzxquoPI5KULECdSslePZgZAaU74Fb53LXntlmT2oj8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/json-stringify-nice/-/json-stringify-nice-1.1.4.tgz"
+  }
+}

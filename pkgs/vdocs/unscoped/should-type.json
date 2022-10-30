@@ -1,0 +1,52 @@
+{
+  "name": "should-type",
+  "version": "1.4.0",
+  "description": "Simple module to get instance type. Like a bit more advanced version of typeof",
+  "main": "cjs/should-type.js",
+  "jsnext:main": "es6/should-type.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shouldjs/type.git"
+  },
+  "files": [
+    "cjs/*",
+    "es6/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "cjs": "rollup --format=cjs --output=cjs/should-type.js index.js",
+    "es6": "rollup --format=es --output=es6/should-type.js index.js",
+    "build": "npm run cjs && npm run es6",
+    "prepublish": "npm run build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.0.0",
+    "eslint-config-shouldjs": "^1.0.2",
+    "rollup": "^0.34.7"
+  },
+  "gitHead": "d890afcdb706d1ddf4c74ef2214a24618a4bfad3",
+  "_id": "should-type@1.4.0",
+  "_shasum": "0756d8ce846dfd09843a6947719dfa0d4cff5cf3",
+  "_from": ".",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.3.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/should-type/-/should-type-1.4.0.tgz",
+    "integrity": "sha512-MdAsTu3n25yDbIe1NeN69G4n6mUnJGtSJHygX3+oN0ZbO3DTiATnf7XnYJdGT42JCXurTb1JI0qOBR65shvhPQ=="
+  },
+  "ident": "should-type",
+  "key": "should-type/1.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "should-type",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Z/KKvEbn5KlsJtRqPDeLt5YzrPeoTTV6ngCUbN1QZIE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/should-type/-/should-type-1.4.0.tgz"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "ast-types-flow",
+  "version": "0.0.7",
+  "description": "Flow types for the Javascript AST",
+  "main": "lib/types.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "gulp build",
+    "test": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyldvs/ast-types-flow.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "jscodeshift": "^0.3.7",
+    "nuclide-node-transpiler": "0.0.30",
+    "through2": "^2.0.0"
+  },
+  "gitHead": "003086278fe72acf0c9ecc12e569a3ec01c4f0af",
+  "_id": "ast-types-flow@0.0.7",
+  "_shasum": "f70b735c6bca1a5c9c22d982c3e39e7feba3bdad",
+  "_from": ".",
+  "_npmVersion": "2.14.8",
+  "_nodeVersion": "4.2.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/ast-types-flow/-/ast-types-flow-0.0.7.tgz",
+    "integrity": "sha512-eBvWn1lvIApYMhzQMsu9ciLfkBY499mFZlNqG+/9WR7PVlroQw0vG30cOQQbaKz3sCEc44TAOu2ykzqXSNnwag=="
+  },
+  "ident": "ast-types-flow",
+  "key": "ast-types-flow/0.0.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ast-types-flow",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UcLvjFpq+yr7zoyF1RcMr8cip2SZz+AumqFtZATN3aA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ast-types-flow/-/ast-types-flow-0.0.7.tgz"
+  }
+}

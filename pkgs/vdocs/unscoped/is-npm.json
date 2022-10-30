@@ -1,0 +1,45 @@
+{
+  "name": "is-npm",
+  "version": "6.0.0",
+  "description": "Check if your code is running as an npm script",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-npm.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "cf92824c7840de00db2a9e28ac51b8749a5bebab",
+  "_id": "is-npm@6.0.0",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-JEjxbSmtPSt1c8XTkVrlujcXdKV1/tvuQ7GwKcAlyiVLeYFQ2VHat8xfrDJsIkhCdF/tZ7CiIR3sy141c6+gPQ==",
+    "tarball": "https://registry.npmjs.org/is-npm/-/is-npm-6.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-npm",
+  "key": "is-npm/6.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-npm",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-E1wNx376/xou4qVxSqx5hpUD0pOgpasMwicMwHg6SHg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-npm/-/is-npm-6.0.0.tgz"
+  }
+}

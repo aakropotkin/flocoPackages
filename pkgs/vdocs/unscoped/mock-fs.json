@@ -1,0 +1,69 @@
+{
+  "name": "mock-fs",
+  "description": "A configurable mock file system.  You know, for testing.",
+  "version": "5.2.0",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tschaub/mock-fs.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint benchmarks lib test tasks",
+    "pretest": "npm run lint",
+    "test": "mocha --recursive test"
+  },
+  "eslintConfig": {
+    "extends": "tschaub",
+    "parserOptions": {
+      "ecmaVersion": 2020
+    },
+    "env": {
+      "es2020": true
+    },
+    "rules": {
+      "prettier/prettier": [
+        "error",
+        {
+          "endOfLine": "auto",
+          "singleQuote": true,
+          "bracketSpacing": false,
+          "quoteProps": "preserve"
+        }
+      ]
+    }
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^8.21.0",
+    "eslint-config-tschaub": "^14.1.2",
+    "mocha": "^9.2.2",
+    "rimraf": "^3.0.2",
+    "semver": "^7.3.5"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "gitHead": "c53dbe7632548af5f154d5e8d1bcbf3dac9b5bba",
+  "_id": "mock-fs@5.2.0",
+  "_nodeVersion": "18.4.0",
+  "_npmVersion": "8.18.0",
+  "dist": {
+    "integrity": "sha512-2dF2R6YMSZbpip1V1WHKGLNjr/k48uQClqMVb5H3MOvwc9qhYis3/IWbj02qIg/Y8MDXKFF4c5v0rxx2o6xTZw==",
+    "tarball": "https://registry.npmjs.org/mock-fs/-/mock-fs-5.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "mock-fs",
+  "key": "mock-fs/5.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mock-fs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Wd1VUE1GhatRcTNzU5cSkQesl7NFS0EO3r6r3e79LIc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mock-fs/-/mock-fs-5.2.0.tgz"
+  }
+}

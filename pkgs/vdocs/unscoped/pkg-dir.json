@@ -1,0 +1,51 @@
+{
+  "name": "pkg-dir",
+  "version": "7.0.0",
+  "description": "Find the root directory of a Node.js project or npm package",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/pkg-dir.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "find-up": "^6.3.0"
+  },
+  "devDependencies": {
+    "ava": "^4.3.1",
+    "tempy": "^3.0.0",
+    "tsd": "^0.22.0",
+    "typescript": "^4.7.4",
+    "xo": "^0.51.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "7dfd36be6a92788c1b5ee901ff13335fa7523342",
+  "_id": "pkg-dir@7.0.0",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-Ie9z/WINcxxLp27BKOCHGde4ITq9UklYKDzVo1nhk5sqGEXU3FpkwP5GM2voTGJkGd9B3Otl+Q4uwSOeSUtOBA==",
+    "tarball": "https://registry.npmjs.org/pkg-dir/-/pkg-dir-7.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "pkg-dir",
+  "key": "pkg-dir/7.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pkg-dir",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DkwHwwt6o7zLzTwCwbkyYY1pX5Z8u+72tft8PNW0SXY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pkg-dir/-/pkg-dir-7.0.0.tgz"
+  }
+}

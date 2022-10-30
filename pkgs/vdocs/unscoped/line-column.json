@@ -1,0 +1,59 @@
+{
+  "name": "line-column",
+  "version": "1.0.2",
+  "description": "Convert efficiently index to/from line-column in a string",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/io-monad/line-column.git"
+  },
+  "main": "lib/line-column.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "gulp test",
+    "watch": "gulp watch",
+    "benchmark": "node benchmark/benchmark.js"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "find-line-column": "^0.5.2",
+    "gulp": "^3.9.1",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "intelli-espower-loader": "^1.0.1",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
+    "power-assert": "^1.3.1"
+  },
+  "dependencies": {
+    "isarray": "^1.0.0",
+    "isobject": "^2.0.0"
+  },
+  "gitHead": "490eaf5c51a665ab3ff92862e22c085b54b7641e",
+  "_id": "line-column@1.0.2",
+  "_shasum": "d25af2936b6f4849172b312e4792d1d987bc34a2",
+  "_from": ".",
+  "_npmVersion": "3.8.1",
+  "_nodeVersion": "5.6.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/line-column/-/line-column-1.0.2.tgz",
+    "integrity": "sha512-Ktrjk5noGYlHsVnYWh62FLVs4hTb8A3e+vucNZMgPeAOITdshMSgv4cCZQeRDjm7+goqmo6+liZwTXo+U3sVww=="
+  },
+  "ident": "line-column",
+  "key": "line-column/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "line-column",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-c5TRQdcDeFTYP9jn9bSJmvCRwA1bW8LlBU/rJdF9JEo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/line-column/-/line-column-1.0.2.tgz"
+  }
+}

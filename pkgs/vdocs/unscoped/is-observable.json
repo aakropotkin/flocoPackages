@@ -1,0 +1,50 @@
+{
+  "name": "is-observable",
+  "version": "3.0.0",
+  "description": "Check if a value is an Observable",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-observable.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^4.3.0",
+    "indefinite-observable": "^1.0.1",
+    "most": "^1.9.0",
+    "rxjs": "^7.5.5",
+    "xo": "^0.49.0",
+    "xstream": "^11.14.0",
+    "zen-observable": "^0.8.15"
+  },
+  "gitHead": "9fd88680fe7b0b940de4e982271d4127eaddd057",
+  "_id": "is-observable@3.0.0",
+  "_nodeVersion": "14.19.2",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-Lg2rIFMjjGQq+6HlvgDJDZ2jJAG032/uBivnEuIF7ckBHM9YK7plapRJpOnMtZwseDX6HO57aLIMeGDBsMHeuA==",
+    "tarball": "https://registry.npmjs.org/is-observable/-/is-observable-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-observable",
+  "key": "is-observable/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-observable",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-yq6FVnoA5rfOdjiTo8M7yK0enJlpbze0Y1hPTAqdbfY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-observable/-/is-observable-3.0.0.tgz"
+  }
+}

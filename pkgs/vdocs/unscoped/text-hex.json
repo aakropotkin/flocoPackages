@@ -1,0 +1,41 @@
+{
+  "name": "text-hex",
+  "version": "1.0.0",
+  "description": "Generate a hex color from the given text",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --ui bdd test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3rd-Eden/text-hex.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "assume": "2.1.x",
+    "mocha": "5.2.x",
+    "pre-commit": "1.2.x"
+  },
+  "gitHead": "ae0a176ad9f7c3340957d20c8f57770139ecabd2",
+  "_id": "text-hex@1.0.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "8.9.1",
+  "dist": {
+    "integrity": "sha512-uuVGNWzgJ4yhRaNSiubPY7OjISw4sw4E5Uv0wbjp+OzcbmVU/rsT8ujgcXJhn9ypzsgr5vlzpPqP+MBBKcGvbg==",
+    "tarball": "https://registry.npmjs.org/text-hex/-/text-hex-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "text-hex",
+  "key": "text-hex/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "text-hex",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BJojy+PGqJiJLk5VlJHBZt0KHAzKXlqAlBb/vG6aRcQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/text-hex/-/text-hex-1.0.0.tgz"
+  }
+}

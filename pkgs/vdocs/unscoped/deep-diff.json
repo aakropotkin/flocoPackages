@@ -1,0 +1,61 @@
+{
+  "name": "deep-diff",
+  "description": "Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.",
+  "version": "1.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flitbit/diff.git"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "prerelease": "npm run clean && npm run test",
+    "release": "uglifyjs -c -m -o dist/deep-diff.min.js --source-map -r '$,require,exports,self,module,define,navigator' index.js",
+    "clean": "rimraf dist && mkdir dist",
+    "preversion": "npm run release",
+    "postversion": "git push && git push --tags",
+    "pretest": "npm run lint",
+    "test": "mocha test/**/*.js",
+    "test:watch": "nodemon --ext js,json --ignore dist/ --exec 'npm test'",
+    "preci": "npm run lint",
+    "ci": "mocha --reporter mocha-junit-reporter test/**/*.js",
+    "lint": "eslint index.js test"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.1",
+    "deep-equal": "^1.0.1",
+    "eslint": "^4.19.1",
+    "eslint-plugin-mocha": "^5.0.0",
+    "expect.js": "^0.3.1",
+    "json": "^9.0.6",
+    "json-ptr": "^1.1.0",
+    "lodash": "^4.17.10",
+    "mocha": "^5.1.1",
+    "mocha-junit-reporter": "^1.17.0",
+    "nodemon": "^1.17.4",
+    "rimraf": "^2.6.2",
+    "uglify-js": "^3.3.25"
+  },
+  "gitHead": "5133f9c19b7d815f935d6329bc1ef7e06190f063",
+  "_id": "deep-diff@1.0.2",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.11.3",
+  "dist": {
+    "integrity": "sha512-aWS3UIVH+NPGCD1kki+DCU9Dua032iSsO43LqQpcs4R3+dVv7tX0qBGjiVHJHjplsoUM2XRO/KB92glqc68awg==",
+    "tarball": "https://registry.npmjs.org/deep-diff/-/deep-diff-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "deep-diff",
+  "key": "deep-diff/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "deep-diff",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-biHPX70EwKpGQbg6p4USCtrDqCvTdAbNdhVjrVpnKII=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/deep-diff/-/deep-diff-1.0.2.tgz"
+  }
+}

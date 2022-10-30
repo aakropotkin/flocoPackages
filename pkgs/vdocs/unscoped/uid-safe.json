@@ -1,0 +1,61 @@
+{
+  "name": "uid-safe",
+  "description": "URL and cookie safe UIDs",
+  "version": "2.1.5",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-utils/uid-safe.git"
+  },
+  "dependencies": {
+    "random-bytes": "~1.0.0"
+  },
+  "devDependencies": {
+    "bluebird": "3.5.0",
+    "eslint": "3.19.0",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-node": "5.1.1",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-standard": "3.0.1",
+    "istanbul": "0.4.5",
+    "mocha": "2.5.3"
+  },
+  "files": [
+    "LICENSE",
+    "HISTORY.md",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --trace-deprecation --reporter spec --bail --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --trace-deprecation --reporter dot --check-leaks test/",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --trace-deprecation --reporter spec --check-leaks test/"
+  },
+  "gitHead": "e15ef6049b23826eabe2d88e9f1835436e54e0d9",
+  "_id": "uid-safe@2.1.5",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "6.11.1",
+  "dist": {
+    "integrity": "sha512-KPHm4VL5dDXKz01UuEd88Df+KzynaohSL9fBh096KWAxSKZQDI2uBrVqtvRM4rwrIrRRKsdLNML/lnaaVSRioA==",
+    "tarball": "https://registry.npmjs.org/uid-safe/-/uid-safe-2.1.5.tgz"
+  },
+  "directories": {},
+  "ident": "uid-safe",
+  "key": "uid-safe/2.1.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "uid-safe",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-kSGQHgQfSG3ZxM2Q0qhYBsk7N+/fUn/8i1rOE0uPcxk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/uid-safe/-/uid-safe-2.1.5.tgz"
+  }
+}

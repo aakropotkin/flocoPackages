@@ -1,0 +1,42 @@
+{
+  "name": "lazy",
+  "version": "1.0.11",
+  "description": "Lazy lists for node",
+  "main": "./lazy.js",
+  "license": {
+    "type": "MIT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pkrumins/node-lazy.git"
+  },
+  "devDependencies": {
+    "expresso": ">=0.7.5"
+  },
+  "engines": {
+    "node": ">=0.2.0"
+  },
+  "scripts": {
+    "test": "expresso"
+  },
+  "_id": "lazy@1.0.11",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lazy/-/lazy-1.0.11.tgz",
+    "integrity": "sha512-Y+CjUfLmIpoUCCRl0ub4smrYtGGr5AOa2AKOaWelGHOGz33X/Y/KizefGqbkwfz44+cnq/+9habclf8vOmu2LA=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.2.14",
+  "ident": "lazy",
+  "key": "lazy/1.0.11",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lazy",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HX9cL20AGA5JHExjTHkzhiS9i0DNioWBlu9wbdCQqeQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lazy/-/lazy-1.0.11.tgz"
+  }
+}

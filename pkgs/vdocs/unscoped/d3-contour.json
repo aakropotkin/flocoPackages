@@ -1,0 +1,70 @@
+{
+  "name": "d3-contour",
+  "version": "4.0.0",
+  "description": "Compute contour polygons using marching squares.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3/d3-contour.git"
+  },
+  "license": "ISC",
+  "type": "module",
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-contour.min.js",
+  "unpkg": "dist/d3-contour.min.js",
+  "exports": {
+    "umd": "./dist/d3-contour.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "d3-array": "^3.2.0"
+  },
+  "devDependencies": {
+    "d3-axis": "3",
+    "d3-dsv": "3",
+    "d3-fetch": "3",
+    "d3-geo": "3",
+    "d3-polygon": "3",
+    "d3-scale": "4",
+    "d3-selection": "3",
+    "eslint": "8",
+    "htl": "^0.3.1",
+    "js-beautify": "1",
+    "jsdom": "19",
+    "mocha": "10",
+    "module-alias": "2",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mkdir -p test/output && mocha -r module-alias/register 'test/**/*-test.js' test/snapshot.js && eslint src test",
+    "prepublishOnly": "rm -rf dist && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "a9b1b8fae87bde9077c58129217524af78953941",
+  "_id": "d3-contour@4.0.0",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-7aQo0QHUTu/Ko3cP9YK9yUTxtoDEiDGwnBHyLxG5M4vqlBkO/uixMRele3nfsfj6UXOcuReVpVXzAboGraYIJw==",
+    "tarball": "https://registry.npmjs.org/d3-contour/-/d3-contour-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "d3-contour",
+  "key": "d3-contour/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "d3-contour",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6avmFiqJ1Gm4mirZhEoi+rvNM3slBO5DF/rILxNyYqs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-contour/-/d3-contour-4.0.0.tgz"
+  }
+}

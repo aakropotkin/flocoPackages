@@ -1,0 +1,79 @@
+{
+  "name": "chalk",
+  "version": "5.1.2",
+  "description": "Terminal string styling done right",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalk/chalk.git"
+  },
+  "type": "module",
+  "main": "./source/index.js",
+  "exports": "./source/index.js",
+  "imports": {
+    "#ansi-styles": "./source/vendor/ansi-styles/index.js",
+    "#supports-color": {
+      "node": "./source/vendor/supports-color/index.js",
+      "default": "./source/vendor/supports-color/browser.js"
+    }
+  },
+  "types": "./source/index.d.ts",
+  "engines": {
+    "node": "^12.17.0 || ^14.13 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && c8 ava && tsd",
+    "bench": "matcha benchmark.js"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "ava": "^3.15.0",
+    "c8": "^7.10.0",
+    "color-convert": "^2.0.1",
+    "execa": "^6.0.0",
+    "log-update": "^5.0.0",
+    "matcha": "^0.7.0",
+    "tsd": "^0.19.0",
+    "xo": "^0.52.4",
+    "yoctodelay": "^2.0.0"
+  },
+  "xo": {
+    "rules": {
+      "unicorn/prefer-string-slice": "off",
+      "@typescript-eslint/consistent-type-imports": "off",
+      "@typescript-eslint/consistent-type-exports": "off",
+      "@typescript-eslint/consistent-type-definitions": "off"
+    }
+  },
+  "c8": {
+    "reporter": [
+      "text",
+      "lcov"
+    ],
+    "exclude": [
+      "source/vendor"
+    ]
+  },
+  "gitHead": "158bf4429ee5c40fd23d45b7d43e5cbbbdf6795e",
+  "_id": "chalk@5.1.2",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-E5CkT4jWURs1Vy5qGJye+XwCkNj7Od3Af7CP6SujMetSMkLs8Do2RWJK5yx1wamHV/op8Rz+9rltjaTQWDnEFQ==",
+    "tarball": "https://registry.npmjs.org/chalk/-/chalk-5.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "chalk",
+  "key": "chalk/5.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "chalk",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-sR4b9neAqn7XYLI0h6i9fce0f0N+qr1G0rXXLGQ4ULs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/chalk/-/chalk-5.1.2.tgz"
+  }
+}

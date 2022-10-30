@@ -1,0 +1,46 @@
+{
+  "name": "is-regexp",
+  "version": "3.1.0",
+  "description": "Check if a value is a regular expression",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-regexp.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "e38696a04645a94a0c1db00ecf8a28822a33b5f6",
+  "_id": "is-regexp@3.1.0",
+  "_nodeVersion": "17.0.1",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-rbku49cWloU5bSMI+zaRaXdQHXnthP6DZ/vLnfdSKyL4zUzuWnomtOEiZZOd+ioQ+avFo/qau3KPTc7Fjy1uPA==",
+    "tarball": "https://registry.npmjs.org/is-regexp/-/is-regexp-3.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-regexp",
+  "key": "is-regexp/3.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-regexp",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3p1he2iE/zn41CBoTU5nuem4YjfMWPp9l0RLfGq1kSk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-regexp/-/is-regexp-3.1.0.tgz"
+  }
+}

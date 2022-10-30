@@ -1,0 +1,42 @@
+{
+  "name": "jsprim",
+  "version": "2.0.2",
+  "description": "utilities for primitive JavaScript types",
+  "main": "./lib/jsprim.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyent/node-jsprim.git"
+  },
+  "dependencies": {
+    "assert-plus": "1.0.0",
+    "extsprintf": "1.3.0",
+    "json-schema": "0.4.0",
+    "verror": "1.10.0"
+  },
+  "engines": [
+    "node >=0.6.0"
+  ],
+  "license": "MIT",
+  "gitHead": "017f74473e55872cf71113bec35ce46de74fbe17",
+  "_id": "jsprim@2.0.2",
+  "_nodeVersion": "12.22.7",
+  "_npmVersion": "6.14.13",
+  "dist": {
+    "integrity": "sha512-gqXddjPqQ6G40VdnI6T6yObEC+pDNvyP95wdQhkWkg7crHH3km5qP1FsOXEkzEQwnz6gz5qGTn1c2Y52wP3OyQ==",
+    "tarball": "https://registry.npmjs.org/jsprim/-/jsprim-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "jsprim",
+  "key": "jsprim/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jsprim",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3pIcILwN2IlHRfrZxsfLN6OU1pIkVyiyf+RO9yIQy6g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jsprim/-/jsprim-2.0.2.tgz"
+  }
+}

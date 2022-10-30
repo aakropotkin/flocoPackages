@@ -1,0 +1,41 @@
+{
+  "name": "command-exists",
+  "version": "1.2.9",
+  "description": "check whether a command line command exists in the current environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mathisonian/command-exists.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "jshint": "^2.9.1",
+    "mocha": "^2.5.3"
+  },
+  "gitHead": "6e3a5d82b2ed84ba268830384def47ec655dc209",
+  "_id": "command-exists@1.2.9",
+  "_nodeVersion": "12.13.0",
+  "_npmVersion": "6.12.0",
+  "dist": {
+    "integrity": "sha512-LTQ/SGc+s0Xc0Fu5WaKnR0YiygZkm9eKFvyS+fRsU7/ZWFF8ykFM6Pc9aCVf1+xasOOZpO3BAVgVrKvsqKHV7w==",
+    "tarball": "https://registry.npmjs.org/command-exists/-/command-exists-1.2.9.tgz"
+  },
+  "directories": {},
+  "ident": "command-exists",
+  "key": "command-exists/1.2.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "command-exists",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-s+EAxkYgfy/h29PARalOt+/bG4J8sC25XY8g8N4Dj/A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/command-exists/-/command-exists-1.2.9.tgz"
+  }
+}

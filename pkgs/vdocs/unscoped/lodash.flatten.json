@@ -1,0 +1,35 @@
+{
+  "name": "lodash.flatten",
+  "version": "4.4.0",
+  "description": "The lodash method `_.flatten` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.flatten@4.4.0",
+  "_shasum": "f31c22225a9632d2bbf8e4addbef240aa765a61f",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.flatten/-/lodash.flatten-4.4.0.tgz",
+    "integrity": "sha512-C5N2Z3DgnnKr0LOpv/hKCgKdb7ZZwafIrsesve6lmzvZIRZRGaZ/l6Q8+2W7NaT+ZwO3fFlSCzCzrDCFdJfZ4g=="
+  },
+  "ident": "lodash.flatten",
+  "key": "lodash.flatten/4.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.flatten",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JSu4Yl8Vlcv4G1GLIlXjX+uWIzp9zNb8Qwjh061rUiI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.flatten/-/lodash.flatten-4.4.0.tgz"
+  }
+}

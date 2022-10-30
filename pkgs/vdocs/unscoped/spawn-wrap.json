@@ -1,0 +1,57 @@
+{
+  "name": "spawn-wrap",
+  "version": "2.0.0",
+  "description": "Wrap all spawned Node.js child processes by adding environs and arguments ahead of the main JavaScript file argument.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "foreground-child": "^2.0.0",
+    "is-windows": "^1.0.2",
+    "make-dir": "^3.0.0",
+    "rimraf": "^3.0.0",
+    "signal-exit": "^3.0.2",
+    "which": "^2.0.1"
+  },
+  "scripts": {
+    "test": "tap",
+    "release": "standard-version",
+    "clean": "rm -rf ~/.node-spawn-wrap-*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istanbuljs/spawn-wrap.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^7.1.0",
+    "tap": "^14.10.5"
+  },
+  "tap": {
+    "coverage": false,
+    "timeout": 240
+  },
+  "gitHead": "c1c6cea28dc9d6760ae2c4eebeff8a60a80d7fd7",
+  "_id": "spawn-wrap@2.0.0",
+  "_nodeVersion": "13.4.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-EeajNjfN9zMnULLwhZZQU3GWBoFNkbngTUPfaawT4RkMiviTxcX0qfhVbGey39mfctfDHkWtuecgQ8NJcyQWHg==",
+    "tarball": "https://registry.npmjs.org/spawn-wrap/-/spawn-wrap-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "spawn-wrap",
+  "key": "spawn-wrap/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "spawn-wrap",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-RvI/DimmstFI9DzwnDUWZRu2QveiD4UPF1DQQPWnCv0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/spawn-wrap/-/spawn-wrap-2.0.0.tgz"
+  }
+}

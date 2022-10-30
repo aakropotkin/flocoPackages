@@ -1,0 +1,46 @@
+{
+  "name": "pg-connection-string",
+  "version": "2.5.0",
+  "description": "Functions for dealing with a PostgresSQL connection string",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "istanbul cover _mocha && npm run check-coverage",
+    "check-coverage": "istanbul check-coverage --statements 100 --branches 100 --lines 100 --functions 100",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianc/node-postgres.git",
+    "directory": "packages/pg-connection-string"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "coveralls": "^3.0.4",
+    "istanbul": "^0.4.5",
+    "mocha": "^7.1.2"
+  },
+  "gitHead": "d45947938263bec30a1e3252452f04177b785f66",
+  "_id": "pg-connection-string@2.5.0",
+  "_nodeVersion": "15.10.0",
+  "_npmVersion": "lerna/3.22.1/node@v15.10.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-r5o/V/ORTA6TmUnyWZR9nCj1klXCO2CEKNRlVuJptZe85QuhFayC7WeMic7ndayT5IRIR0S0xFxFi2ousartlQ==",
+    "tarball": "https://registry.npmjs.org/pg-connection-string/-/pg-connection-string-2.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "pg-connection-string",
+  "key": "pg-connection-string/2.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pg-connection-string",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Onv5YgNyARp8kWwuRXRj+yo3D11EM+sw5w12xgo8xio=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pg-connection-string/-/pg-connection-string-2.5.0.tgz"
+  }
+}

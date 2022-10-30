@@ -1,0 +1,46 @@
+{
+  "name": "kruptein",
+  "version": "3.0.5",
+  "description": "crypto; from kruptein to hide or conceal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jas-/kruptein.git"
+  },
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha": "*",
+    "nyc": "*"
+  },
+  "scripts": {
+    "test": "nyc mocha test/*.js"
+  },
+  "engines": {
+    "node": ">8"
+  },
+  "dependencies": {
+    "asn1.js": "^5.4.1"
+  },
+  "gitHead": "87dbe158a0e0478bf18aa392b576886c90cfcf27",
+  "_id": "kruptein@3.0.5",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-c1pyg/HKep8y5l+AoiicTs94k4bnzBSiS1b8NQcnQDtv9Yh45rNLuDIUwEwawmuFYpcA5xqhG7k0LqiMhrBPXw==",
+    "tarball": "https://registry.npmjs.org/kruptein/-/kruptein-3.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "kruptein",
+  "key": "kruptein/3.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "kruptein",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-75YLg4iLgyCq10lXZE9dVLGmtr8fsLi27J9AJWcWSMk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/kruptein/-/kruptein-3.0.5.tgz"
+  }
+}

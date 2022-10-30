@@ -1,0 +1,56 @@
+{
+  "name": "apollo-cache",
+  "version": "1.3.5",
+  "description": "Core abstract of Caching layer for Apollo Client",
+  "license": "MIT",
+  "main": "./lib/bundle.cjs.js",
+  "module": "./lib/bundle.esm.js",
+  "typings": "./lib/index.d.ts",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollographql/apollo-client.git"
+  },
+  "scripts": {
+    "prepare": "npm run lint && npm run build",
+    "coverage": "jest --coverage",
+    "test": "tsc -p tsconfig.json --noEmit && jest",
+    "lint": "tslint -c \"../../config/tslint.json\" -p tsconfig.json src/*.ts && tslint -c \"../../config/tslint.json\" -p tsconfig.json tests/*.ts",
+    "prebuild": "npm run clean",
+    "build": "tsc -b .",
+    "postbuild": "npm run bundle",
+    "bundle": "npx rollup -c rollup.config.js",
+    "watch": "../../node_modules/tsc-watch/index.js --onSuccess \"npm run postbuild\"",
+    "clean": "rm -rf coverage/* lib/*",
+    "prepublishOnly": "npm run clean && npm run build"
+  },
+  "dependencies": {
+    "apollo-utilities": "^1.3.4",
+    "tslib": "^1.10.0"
+  },
+  "peerDependencies": {
+    "graphql": "^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0"
+  },
+  "gitHead": "d22394c419ff7d678afb5e7d4cd1df16ed803ead",
+  "_id": "apollo-cache@1.3.5",
+  "_nodeVersion": "10.15.3",
+  "_npmVersion": "lerna/3.20.2/node@v10.15.3+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-1XoDy8kJnyWY/i/+gLTEbYLnoiVtS8y7ikBr/IfmML4Qb+CM7dEEbIUOjnY716WqmZ/UpXIxTfJsY7rMcqiCXA==",
+    "tarball": "https://registry.npmjs.org/apollo-cache/-/apollo-cache-1.3.5.tgz"
+  },
+  "directories": {},
+  "ident": "apollo-cache",
+  "key": "apollo-cache/1.3.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "apollo-cache",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-SjXRgLVwaHG41t0Z4VrfTaS9F74qByOgLMBGZKKGd08=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/apollo-cache/-/apollo-cache-1.3.5.tgz"
+  }
+}

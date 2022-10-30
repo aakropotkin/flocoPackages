@@ -1,0 +1,62 @@
+{
+  "name": "bach",
+  "version": "2.0.1",
+  "description": "Compose your async functions with elegance.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/bach.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "async-done": "^2.0.0",
+    "async-settle": "^2.0.0",
+    "now-and-later": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "expect": "^27.5.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "92a60ff6c09e91da6d3c4f089e424fb1c29073eb",
+  "_id": "bach@2.0.1",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-A7bvGMGiTOxGMpNupYl9HQTf0FFDNF4VCmks4PJpFyN1AX2pdKuxuwdvUz2Hu388wcgp+OvGFNsumBfFNkR7eg==",
+    "tarball": "https://registry.npmjs.org/bach/-/bach-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "bach",
+  "key": "bach/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bach",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5G9SORVa//VYv2VLqJKttPGBunzdRCPSmYDX4cCXq+A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bach/-/bach-2.0.1.tgz"
+  }
+}

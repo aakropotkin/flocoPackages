@@ -1,0 +1,42 @@
+{
+  "name": "scheduler",
+  "version": "0.23.0",
+  "description": "Cooperative scheduler for the browser environment.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git",
+    "directory": "packages/scheduler"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "loose-envify": "^1.1.0"
+  },
+  "browserify": {
+    "transform": [
+      "loose-envify"
+    ]
+  },
+  "gitHead": "be229c5655074642ee664f532f2e7411dd7dccc7",
+  "_id": "scheduler@0.23.0",
+  "_nodeVersion": "17.1.0",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-CtuThmgHNg7zIZWAXi3AsyIzA3n4xx7aNyjwC2VJldO2LMVDhFK+63xGqq6CsJH4rTAt6/M+N4GhZiDYPx9eUw==",
+    "tarball": "https://registry.npmjs.org/scheduler/-/scheduler-0.23.0.tgz"
+  },
+  "directories": {},
+  "ident": "scheduler",
+  "key": "scheduler/0.23.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "scheduler",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MkP/d5ZP19g52SJ9CyyLfE6TZWT1h7CLzTgVbuaWYcQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scheduler/-/scheduler-0.23.0.tgz"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "cors",
+  "description": "Node.js CORS middleware",
+  "version": "2.8.5",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expressjs/cors.git"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "object-assign": "^4",
+    "vary": "^1"
+  },
+  "devDependencies": {
+    "after": "0.8.2",
+    "eslint": "2.13.1",
+    "express": "4.16.3",
+    "mocha": "5.2.0",
+    "nyc": "13.1.0",
+    "supertest": "3.3.0"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "scripts": {
+    "test": "npm run lint && nyc --reporter=html --reporter=text mocha --require test/support/env",
+    "lint": "eslint lib test"
+  },
+  "gitHead": "9158a8686d64bf567440d030873378c429ad60b0",
+  "_id": "cors@2.8.5",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-KIHbLJqu73RGr/hnbrO9uBeixNGuvSQjul/jdFvS/KFSIH1hWVd1ng7zOHx+YrEfInLG7q4n6GHQ9cDtxv/P6g==",
+    "tarball": "https://registry.npmjs.org/cors/-/cors-2.8.5.tgz"
+  },
+  "directories": {},
+  "ident": "cors",
+  "key": "cors/2.8.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cors",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uefXyisZYoYSR4fdbm4GzsJYua7Z/hCV0inhJwhIWfI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cors/-/cors-2.8.5.tgz"
+  }
+}

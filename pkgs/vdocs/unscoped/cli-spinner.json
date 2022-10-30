@@ -1,0 +1,36 @@
+{
+  "name": "cli-spinner",
+  "version": "0.2.10",
+  "description": "A simple spinner",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloIAmPau/node-spinner.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "gitHead": "3601c682678c0c15753c9add6319b1028ba6de40",
+  "_id": "cli-spinner@0.2.10",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.9.4",
+  "dist": {
+    "integrity": "sha512-U0sSQ+JJvSLi1pAYuJykwiA8Dsr15uHEy85iCJ6A+0DjVxivr3d+N2Wjvodeg89uP5K6TswFkKBfAD7B3YSn/Q==",
+    "tarball": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.10.tgz"
+  },
+  "directories": {},
+  "ident": "cli-spinner",
+  "key": "cli-spinner/0.2.10",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cli-spinner",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-sXamUkl7MsMybfubO961wF27n2XSGO+WijE9uagWtvg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.10.tgz"
+  }
+}

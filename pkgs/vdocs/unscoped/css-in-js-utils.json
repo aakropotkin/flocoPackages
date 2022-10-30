@@ -1,0 +1,78 @@
+{
+  "name": "css-in-js-utils",
+  "version": "3.1.0",
+  "description": "Useful utility functions for CSS in JS solutions",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "es/index.d.ts",
+  "jsnext:main": "es/index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinweser/css-in-js-utils.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn run clean && yarn build:es && yarn build:lib",
+    "build:lib": "cross-env BABEL_ENV=commonjs babel modules --extensions '.ts' --ignore 'modules/__tests__','**/*.d.ts' --out-dir lib",
+    "build:es": "tsc && babel es --out-dir es",
+    "clean": "rimraf es lib coverage",
+    "check": "yarn lint && yarn test:coverage",
+    "format": "prettier --write \"modules/**/*.{js,ts}\"",
+    "lint": "eslint 'modules/**/*.{js,ts}'",
+    "release": "git pull --rebase && yarn run check && yarn build && npm publish",
+    "test": "cross-env BABEL_ENV=commonjs jest",
+    "test:coverage": "cross-env BABEL_ENV=commonjs jest --coverage",
+    "watch": "yarn test -- --watch"
+  },
+  "jest": {
+    "moduleDirectories": [
+      "node_modules",
+      "modules"
+    ]
+  },
+  "dependencies": {
+    "hyphenate-style-name": "^1.0.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/jest": "^25.2.1",
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
+    "babel-jest": "^25.2.6",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "cross-env": "^7.0.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "jest": "^25.2.6",
+    "prettier": "^1.7.4",
+    "rimraf": "^2.6.1",
+    "typescript": "^3.8.3"
+  },
+  "gitHead": "401c5070c6dcab5f0daef591b0bdffbdd7c4c60b",
+  "_id": "css-in-js-utils@3.1.0",
+  "_nodeVersion": "10.16.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-fJAcud6B3rRu+KHYk+Bwf+WFL2MDCJJ1XG9x137tJQ0xYxor7XziQtuGFbWNdqrvF4Tk26O3H73nfVqXt/fW1A==",
+    "tarball": "https://registry.npmjs.org/css-in-js-utils/-/css-in-js-utils-3.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "css-in-js-utils",
+  "key": "css-in-js-utils/3.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "css-in-js-utils",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xASA62sIvRWmF7RJpbYaQ/8GGR7H9UqGIrJdUR+Cyus=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/css-in-js-utils/-/css-in-js-utils-3.1.0.tgz"
+  }
+}

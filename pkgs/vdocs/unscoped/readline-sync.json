@@ -1,0 +1,37 @@
+{
+  "name": "readline-sync",
+  "version": "1.4.10",
+  "title": "readlineSync",
+  "description": "Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).",
+  "main": "./lib/readline-sync.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anseki/readline-sync.git"
+  },
+  "license": "MIT",
+  "gitHead": "668a1e837149ac2bd3200755ed897f3665e1e5bf",
+  "_id": "readline-sync@1.4.10",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.11.1",
+  "dist": {
+    "integrity": "sha512-gNva8/6UAe8QYepIQH/jQ2qn91Qj0B9sYjMBBs3QOB8F2CXcKgLxQaJRP76sWVRQt+QU+8fAkCbCvjjMFu7Ycw==",
+    "tarball": "https://registry.npmjs.org/readline-sync/-/readline-sync-1.4.10.tgz"
+  },
+  "directories": {},
+  "ident": "readline-sync",
+  "key": "readline-sync/1.4.10",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "readline-sync",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-SDbHbex7RVfgU16MClXeiGkeOrb0gCP13VslQxlJnnY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readline-sync/-/readline-sync-1.4.10.tgz"
+  }
+}

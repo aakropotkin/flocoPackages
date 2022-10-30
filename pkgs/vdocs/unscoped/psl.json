@@ -1,0 +1,60 @@
+{
+  "name": "psl",
+  "version": "1.9.0",
+  "description": "Domain name parser based on the Public Suffix List",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lupomontero/psl.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha test/*.spec.js",
+    "test:browserstack": "node test/browserstack.js",
+    "watch": "mocha test --watch",
+    "prebuild": "./scripts/update-rules.js",
+    "build": "browserify ./index.js --standalone=psl > ./dist/psl.js",
+    "postbuild": "cat ./dist/psl.js | uglifyjs -c -m > ./dist/psl.min.js",
+    "commit-and-pr": "commit-and-pr",
+    "changelog": "git log $(git describe --tags --abbrev=0)..HEAD --oneline --format=\"%h %s (%an <%ae>)\""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "browserslist-browserstack": "^3.1.1",
+    "browserstack-local": "^1.5.1",
+    "chai": "^4.3.6",
+    "commit-and-pr": "^1.0.4",
+    "eslint": "^8.19.0",
+    "JSONStream": "^1.3.5",
+    "mocha": "^7.2.0",
+    "porch": "^2.0.0",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.3.0",
+    "serve-handler": "^6.1.3",
+    "uglify-js": "^3.16.2",
+    "watchify": "^4.0.0"
+  },
+  "gitHead": "156c91113df184dd0a33110fdb2a18bba998e0e6",
+  "_id": "psl@1.9.0",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.12.1",
+  "dist": {
+    "integrity": "sha512-E/ZsdU4HLs/68gYzgGTkMicWTLPdAftJLfJFlLUAAKZGkStNU72sZjT66SnMDVOfOWY/YAoiD7Jxa9iHvngcag==",
+    "tarball": "https://registry.npmjs.org/psl/-/psl-1.9.0.tgz"
+  },
+  "directories": {},
+  "ident": "psl",
+  "key": "psl/1.9.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "psl",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-SQEgNmCnR3qw1cvFd2eKgrB1uGfKBWnX0t6hagMtNb8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/psl/-/psl-1.9.0.tgz"
+  }
+}

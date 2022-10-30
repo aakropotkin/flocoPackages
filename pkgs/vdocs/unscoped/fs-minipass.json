@@ -1,0 +1,52 @@
+{
+  "name": "fs-minipass",
+  "version": "2.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --follow-tags"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/fs-minipass.git"
+  },
+  "description": "fs read and write streams based on minipass",
+  "dependencies": {
+    "minipass": "^3.0.0"
+  },
+  "devDependencies": {
+    "mutate-fs": "^2.0.1",
+    "tap": "^14.6.4"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "gitHead": "4995b5fd182fb95959ad5572dee5ccc2f31b5b21",
+  "_id": "fs-minipass@2.1.0",
+  "_nodeVersion": "13.4.0",
+  "_npmVersion": "6.13.6",
+  "dist": {
+    "integrity": "sha512-V/JgOLFCS+R6Vcq0slCuaeWEdNC3ouDlJMNIsacH2VtALiu9mV4LPrHc5cDl8k5aw6J8jwgWWpiTo5RYhmIzvg==",
+    "tarball": "https://registry.npmjs.org/fs-minipass/-/fs-minipass-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "fs-minipass",
+  "key": "fs-minipass/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fs-minipass",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-QwXLMphyJpgEhnYzVy2Zw1BIS/VBU1pDKL7LlpfE5nU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fs-minipass/-/fs-minipass-2.1.0.tgz"
+  }
+}

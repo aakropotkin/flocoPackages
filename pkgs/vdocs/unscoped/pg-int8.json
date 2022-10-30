@@ -1,0 +1,44 @@
+{
+  "name": "pg-int8",
+  "version": "1.0.1",
+  "description": "64-bit big-endian signed integer-to-string conversion",
+  "license": "ISC",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charmander/pg-int8.git"
+  },
+  "scripts": {
+    "test": "tap test"
+  },
+  "devDependencies": {
+    "@charmander/eslint-config-base": "1.0.2",
+    "tap": "10.7.3"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "gitHead": "91d0683b3d0f9b24176bbbffbd03680cd4c97b17",
+  "_id": "pg-int8@1.0.1",
+  "_npmVersion": "5.5.1-canary.5",
+  "_nodeVersion": "9.1.0",
+  "dist": {
+    "integrity": "sha512-WCtabS6t3c8SkpDBUlb1kjOs7l66xsGdKpIPZsg4wR+B3+u9UAum2odSsF9tnvxg80h4ZxLWMy4pRjOsFIqQpw==",
+    "tarball": "https://registry.npmjs.org/pg-int8/-/pg-int8-1.0.1.tgz"
+  },
+  "ident": "pg-int8",
+  "key": "pg-int8/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pg-int8",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JkmXkauXZqrSJbSm3CgW8t+0RkQxGS3TaoUCg0Pza34=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pg-int8/-/pg-int8-1.0.1.tgz"
+  }
+}

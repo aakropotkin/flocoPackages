@@ -1,0 +1,41 @@
+{
+  "name": "babel-preset-stage-2",
+  "version": "6.24.1",
+  "description": "Babel preset for stage 2 plugins",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-decorators": "^6.24.1",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-preset-stage-3": "^6.24.1"
+  },
+  "_id": "babel-preset-stage-2@6.24.1",
+  "scripts": {},
+  "_shasum": "d9e2960fb3d71187f0e64eec62bc07767219bdc1",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-preset-stage-2/-/babel-preset-stage-2-6.24.1.tgz",
+    "integrity": "sha512-9F+nquz+37PrlTSBdpeQBKnQfAMNBnryXw+m4qBh35FNbJPfzZz+sjN2G5Uf1CRedU9PH7fJkTbYijxmkLX8Og=="
+  },
+  "directories": {},
+  "ident": "babel-preset-stage-2",
+  "key": "babel-preset-stage-2/6.24.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-preset-stage-2",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1RKr8YEYSGdqyHVaWiUpmbtwXRd5KDa9w3KhOu8iZ/4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-2/-/babel-preset-stage-2-6.24.1.tgz"
+  }
+}

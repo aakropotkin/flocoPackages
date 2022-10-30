@@ -1,0 +1,40 @@
+{
+  "name": "grapheme-splitter",
+  "version": "1.0.4",
+  "description": "A JavaScript library that breaks strings into their individual user-perceived characters. It supports emojis!",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "tape tests/grapheme_splitter_tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orling/grapheme-splitter.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "gitHead": "0609d90dcbc93b42d8ceebb7aec0eda38b5d916d",
+  "_id": "grapheme-splitter@1.0.4",
+  "_npmVersion": "6.4.0",
+  "_nodeVersion": "6.11.0",
+  "dist": {
+    "integrity": "sha512-bzh50DW9kTPM00T8y4o8vQg89Di9oLJVLW/KaOGIXJWP/iqCN6WKYkbNOF04vFLJhwcpYUh9ydh/+5vpOqV4YQ==",
+    "tarball": "https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "grapheme-splitter",
+  "key": "grapheme-splitter/1.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "grapheme-splitter",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-CE2xHQXW+86NSKVLtjRH1sqnBbV3lYlI2mlLCVOxgzs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.4.tgz"
+  }
+}

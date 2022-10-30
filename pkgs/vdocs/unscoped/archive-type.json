@@ -1,0 +1,50 @@
+{
+  "name": "archive-type",
+  "version": "4.0.0",
+  "description": "Detect the archive type of a Buffer/Uint8Array",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/archive-type.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "file-type": "^4.2.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "pify": "^2.3.0",
+    "xo": "*"
+  },
+  "gitHead": "b4d84d12b3a3a4d934c884aef89dccf2b6aaa1c9",
+  "_id": "archive-type@4.0.0",
+  "_shasum": "f92e72233056dfc6969472749c267bdb046b1d70",
+  "_from": ".",
+  "_npmVersion": "2.15.11",
+  "_nodeVersion": "4.7.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/archive-type/-/archive-type-4.0.0.tgz",
+    "integrity": "sha512-zV4Ky0v1F8dBrdYElwTvQhweQ0P7Kwc1aluqJsYtOBP01jXcWCyW2IEfI1YiqsG+Iy7ZR+o5LF1N+PGECBxHWA=="
+  },
+  "ident": "archive-type",
+  "key": "archive-type/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "archive-type",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HvgBVhnh67WwU+0pbHSWZKSgVW+uU0jB2s89dF+dCDU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/archive-type/-/archive-type-4.0.0.tgz"
+  }
+}

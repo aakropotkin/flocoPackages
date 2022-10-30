@@ -1,0 +1,50 @@
+{
+  "name": "setprototypeof",
+  "version": "1.2.0",
+  "description": "A small polyfill for Object.setprototypeof",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "standard && mocha",
+    "testallversions": "npm run node010 && npm run node4 && npm run node6 && npm run node9 && npm run node11",
+    "testversion": "docker run -it --rm -v $(PWD):/usr/src/app -w /usr/src/app node:${NODE_VER} npm install mocha@${MOCHA_VER:-latest} && npm t",
+    "node010": "NODE_VER=0.10 MOCHA_VER=3 npm run testversion",
+    "node4": "NODE_VER=4 npm run testversion",
+    "node6": "NODE_VER=6 npm run testversion",
+    "node9": "NODE_VER=9 npm run testversion",
+    "node11": "NODE_VER=11 npm run testversion",
+    "prepublishOnly": "npm t",
+    "postpublish": "git push origin && git push origin --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleytodd/setprototypeof.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "standard": "^13.0.2"
+  },
+  "gitHead": "52d00b3a6dbd92fbf36c8019a1e36179b4a0f308",
+  "_id": "setprototypeof@1.2.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.3.0",
+  "dist": {
+    "integrity": "sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==",
+    "tarball": "https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "setprototypeof",
+  "key": "setprototypeof/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "setprototypeof",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-emDWij6PXwjs4ml7bigkP0/tBDBKNDGkPafLV+L3KUM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.2.0.tgz"
+  }
+}

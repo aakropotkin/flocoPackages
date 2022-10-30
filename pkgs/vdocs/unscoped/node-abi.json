@@ -1,0 +1,49 @@
+{
+  "name": "node-abi",
+  "version": "3.28.0",
+  "description": "Get the Node ABI for a given target and runtime, and vice versa.",
+  "main": "index.js",
+  "scripts": {
+    "semantic-release": "semantic-release",
+    "test": "tape test/index.js",
+    "update-abi-registry": "node --unhandled-rejections=strict scripts/update-abi-registry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgeiger/node-abi.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@continuous-auth/semantic-release-npm": "^2.0.0",
+    "got": "^11.8.2",
+    "tape": "^5.3.1"
+  },
+  "dependencies": {
+    "semver": "^7.3.5"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "gitHead": "cdc8a9341d6791d72745c7aa6143226233598560",
+  "_id": "node-abi@3.28.0",
+  "_nodeVersion": "14.15.5",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-fRlDb4I0eLcQeUvGq7IY3xHrSb0c9ummdvDSYWfT9+LKP+3jCKw/tKoqaM7r1BAoiAC6GtwyjaGnOz6B3OtF+A==",
+    "tarball": "https://registry.npmjs.org/node-abi/-/node-abi-3.28.0.tgz"
+  },
+  "directories": {},
+  "ident": "node-abi",
+  "key": "node-abi/3.28.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "node-abi",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HhG34j63LAoBo5BHQo1/OLebH7E89dnmczu+B1C31HU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-abi/-/node-abi-3.28.0.tgz"
+  }
+}

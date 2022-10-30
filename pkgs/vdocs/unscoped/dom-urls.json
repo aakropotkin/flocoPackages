@@ -1,0 +1,50 @@
+{
+  "name": "dom-urls",
+  "version": "1.1.0",
+  "description": "DOM URLs for Node",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha -u tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/passy/node-dom-urls.git"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "urijs": "^1.16.1"
+  },
+  "gitHead": "b4e559d2f9e48a8828b9c90fefbee73557509be5",
+  "_id": "dom-urls@1.1.0",
+  "_shasum": "001ddf81628cd1e706125c7176f53ccec55d918e",
+  "_from": ".",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "2.3.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/dom-urls/-/dom-urls-1.1.0.tgz",
+    "integrity": "sha512-LNxCeExaNbczqMVfQUyLdd+r+smG7ixIa+doeyiJ7nTmL8aZRrJhHkEYBEYVGvYv7k2DOEBh2eKthoCmWpfICg=="
+  },
+  "ident": "dom-urls",
+  "key": "dom-urls/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dom-urls",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-0Go95LYApUKqrPanaEFmrIwR9DpHOwUmYPBqZN6oJig=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dom-urls/-/dom-urls-1.1.0.tgz"
+  }
+}

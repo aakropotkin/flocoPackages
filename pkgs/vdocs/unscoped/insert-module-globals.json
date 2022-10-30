@@ -1,0 +1,60 @@
+{
+  "name": "insert-module-globals",
+  "version": "7.2.1",
+  "description": "insert implicit module globals into a module-deps stream",
+  "main": "index.js",
+  "bin": {
+    "insert-module-globals": "bin/cmd.js"
+  },
+  "dependencies": {
+    "JSONStream": "^1.0.3",
+    "acorn-node": "^1.5.2",
+    "combine-source-map": "^0.8.0",
+    "concat-stream": "^1.6.1",
+    "is-buffer": "^1.1.0",
+    "path-is-absolute": "^1.0.1",
+    "process": "~0.11.0",
+    "through2": "^2.0.0",
+    "undeclared-identifiers": "^1.1.2",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "browser-pack": "^6.0.0",
+    "buffer": "^4.9.1",
+    "convert-source-map": "~1.1.0",
+    "module-deps": "^4.0.2",
+    "nanobench": "^2.1.1",
+    "tape": "^4.2.0",
+    "timers-browserify": "^1.4.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browserify/insert-module-globals.git"
+  },
+  "license": "MIT",
+  "gitHead": "e164c77d6c1deb3633f396f352ffaa2dd16591b3",
+  "_id": "insert-module-globals@7.2.1",
+  "_nodeVersion": "14.13.1",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-ufS5Qq9RZN+Bu899eA9QCAYThY+gGW7oRkmb0vC93Vlyu/CFGcH0OYPEjVkDXA5FEbTt1+VWzdoOD3Ny9N+8tg==",
+    "tarball": "https://registry.npmjs.org/insert-module-globals/-/insert-module-globals-7.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "insert-module-globals",
+  "key": "insert-module-globals/7.2.1",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "insert-module-globals",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-EsdfZveLBe8xVCAyRZTL3OYbnE8KIBjrb/gJZMfgV7c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/insert-module-globals/-/insert-module-globals-7.2.1.tgz"
+  }
+}

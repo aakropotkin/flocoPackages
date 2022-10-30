@@ -1,0 +1,71 @@
+{
+  "name": "mobx-react",
+  "version": "7.5.3",
+  "description": "React bindings for MobX. Create fully reactive components.",
+  "source": "src/index.ts",
+  "main": "dist/index.js",
+  "umd:main": "dist/mobxreact.umd.production.min.js",
+  "unpkg": "dist/mobxreact.umd.production.min.js",
+  "jsdelivr": "dist/mobxreact.umd.production.min.js",
+  "jsnext:main": "dist/mobxreact.esm.js",
+  "module": "dist/mobxreact.esm.js",
+  "react-native": "dist/mobxreact.esm.js",
+  "types": "dist/index.d.ts",
+  "typings": "dist/index.d.ts",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobxjs/mobx.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mobx-react-lite": "^3.4.0"
+  },
+  "peerDependencies": {
+    "mobx": "^6.1.0",
+    "react": "^16.8.0 || ^17 || ^18"
+  },
+  "peerDependenciesMeta": {
+    "react-dom": {
+      "optional": true
+    },
+    "react-native": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "mobx": "^6.6.2",
+    "mobx-react-lite": "^3.4.0"
+  },
+  "scripts": {
+    "lint": "eslint src/**/* --ext .js,.ts,.tsx",
+    "build": "node ../../scripts/build.js mobxReact",
+    "build:test": "yarn build --target test",
+    "test": "jest",
+    "test:size": "yarn import-size --report . observer",
+    "test:types": "tsc --noEmit",
+    "test:check": "yarn test:types",
+    "prepublish": "yarn build --target publish"
+  },
+  "_id": "mobx-react@7.5.3",
+  "_nodeVersion": "12.22.12",
+  "_npmVersion": "6.14.16",
+  "dist": {
+    "integrity": "sha512-+ltotliKt4Bjn3d8taZH/VFAcRUbaASvsM8/QSvmHXcZ++RZwaFtjl9JkIosy1byaJGEDS3EFFx2InRm2VaSUw==",
+    "tarball": "https://registry.npmjs.org/mobx-react/-/mobx-react-7.5.3.tgz"
+  },
+  "directories": {},
+  "ident": "mobx-react",
+  "key": "mobx-react/7.5.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mobx-react",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-m/hUlkknpo3UjwwWAJ542C6gEOlk3ORzG8JIrWiy994=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mobx-react/-/mobx-react-7.5.3.tgz"
+  }
+}

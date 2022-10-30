@@ -1,0 +1,49 @@
+{
+  "name": "color-string",
+  "description": "Parser and generator for CSS color strings",
+  "version": "1.9.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qix-/color-string.git"
+  },
+  "scripts": {
+    "pretest": "xo",
+    "test": "node test/basic.js"
+  },
+  "license": "MIT",
+  "xo": {
+    "rules": {
+      "no-cond-assign": 0,
+      "operator-linebreak": 0
+    }
+  },
+  "dependencies": {
+    "color-name": "^1.0.0",
+    "simple-swizzle": "^0.2.2"
+  },
+  "devDependencies": {
+    "xo": "^0.12.1"
+  },
+  "gitHead": "d9b04bb2989b2279079ed1b48ac2e9d61291ef64",
+  "_id": "color-string@1.9.1",
+  "_nodeVersion": "17.3.1",
+  "_npmVersion": "8.6.0",
+  "dist": {
+    "integrity": "sha512-shrVawQFojnZv6xM40anx4CkoDP+fZsw/ZerEMsW/pyzsRbElpsL/DBVW7q3ExxwusdNXI3lXpuhEZkzs8p5Eg==",
+    "tarball": "https://registry.npmjs.org/color-string/-/color-string-1.9.1.tgz"
+  },
+  "directories": {},
+  "ident": "color-string",
+  "key": "color-string/1.9.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "color-string",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Dd2boXjhFR8cfUvRKmfkXLqU5xod/IjMfoGFOCgW6lk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/color-string/-/color-string-1.9.1.tgz"
+  }
+}

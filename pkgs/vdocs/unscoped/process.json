@@ -1,0 +1,47 @@
+{
+  "name": "process",
+  "description": "process information for node.js and browsers",
+  "scripts": {
+    "test": "mocha test.js",
+    "browser": "zuul --no-coverage --ui mocha-bdd --local 8080 -- test.js"
+  },
+  "version": "0.11.10",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shtylman/node-process.git"
+  },
+  "license": "MIT",
+  "browser": "./browser.js",
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "devDependencies": {
+    "mocha": "2.2.1",
+    "zuul": "^3.10.3"
+  },
+  "gitHead": "557aa46f283caccce603dbb9c376b3d81067c510",
+  "_id": "process@0.11.10",
+  "_shasum": "7332300e840161bda3e69a1d1d91a7d4bc16f182",
+  "_from": ".",
+  "_npmVersion": "4.0.5",
+  "_nodeVersion": "6.10.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/process/-/process-0.11.10.tgz",
+    "integrity": "sha512-cdGef/drWFoydD1JsMzuFf8100nZl+GT+yacc2bEced5f9Rjk4z+WtFUTBu9PhOi9j/jfmBPu0mMEY4wIdAF8A=="
+  },
+  "directories": {},
+  "ident": "process",
+  "key": "process/0.11.10",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "process",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Zt36D9EjEQfTXeh4cE9rsxbOchhG4/cxr3esiYSpmtY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/process/-/process-0.11.10.tgz"
+  }
+}

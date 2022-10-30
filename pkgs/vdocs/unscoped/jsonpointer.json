@@ -1,0 +1,58 @@
+{
+  "name": "jsonpointer",
+  "description": "Simple JSON Addressing.",
+  "tags": [
+    "util",
+    "simple",
+    "util",
+    "utility"
+  ],
+  "version": "5.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janl/node-jsonpointer.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "./jsonpointer",
+  "typings": "jsonpointer.d.ts",
+  "scripts": {
+    "test": "npm run test:standard && npm run test:all",
+    "test:standard": "standard",
+    "test:all": "node test.js",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^18.0.0",
+    "standard": "^16.0.4"
+  },
+  "standard": {
+    "ignore": [
+      "test.js"
+    ]
+  },
+  "gitHead": "d0d9af9c406a0e0ca34d32f99e27b00499aff824",
+  "_id": "jsonpointer@5.0.1",
+  "_nodeVersion": "17.8.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-p/nXbhSEcu3pZRdkW1OfJhpsVtW1gd4Wa1fnQc9YLiTfAjn0312eMKimbdIQzuZl9aa9xUGaRlP9T/CJE/ditQ==",
+    "tarball": "https://registry.npmjs.org/jsonpointer/-/jsonpointer-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "jsonpointer",
+  "key": "jsonpointer/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jsonpointer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-J8nyDp/Ma3gqzYzIAU7zLJwSWOuJoMn4HmOBBpwHpJI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jsonpointer/-/jsonpointer-5.0.1.tgz"
+  }
+}

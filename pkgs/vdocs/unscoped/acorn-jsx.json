@@ -1,0 +1,41 @@
+{
+  "name": "acorn-jsx",
+  "description": "Modern, fast React.js JSX parser",
+  "version": "5.3.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acornjs/acorn-jsx.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "peerDependencies": {
+    "acorn": "^6.0.0 || ^7.0.0 || ^8.0.0"
+  },
+  "devDependencies": {
+    "acorn": "^8.0.1"
+  },
+  "gitHead": "f5c107b85872230d5016dbb97d71788575cda9c3",
+  "_id": "acorn-jsx@5.3.2",
+  "_nodeVersion": "16.3.0",
+  "_npmVersion": "7.15.1",
+  "dist": {
+    "integrity": "sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==",
+    "tarball": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
+  },
+  "directories": {},
+  "ident": "acorn-jsx",
+  "key": "acorn-jsx/5.3.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "acorn-jsx",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-AleG2zYzv9doV8blgXmOhx7ExOUJ+0hofIUgxOID8Q8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
+  }
+}

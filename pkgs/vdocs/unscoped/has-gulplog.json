@@ -1,0 +1,61 @@
+{
+  "name": "has-gulplog",
+  "version": "1.0.0",
+  "description": "Check if gulplog is available before attempting to use it",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/has-gulplog.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "sparkles": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.5.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.0.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "75b294ba45d0ed5689e4769745a3c3a254b657c8",
+  "_id": "has-gulplog@1.0.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-3bRkTBls3EdDU9Aw9VyMjSeIfPTGZO9C/eDEr7wdnu9fP0I2Mli8eQlo+oN57Oog8rpByXFZeNXNs+pQwJF6ow==",
+    "tarball": "https://registry.npmjs.org/has-gulplog/-/has-gulplog-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "has-gulplog",
+  "key": "has-gulplog/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "has-gulplog",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1fxFiunaN7UCLE9xWAO/Ql7EJP3ronm9AAC8o3btlKY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/has-gulplog/-/has-gulplog-1.0.0.tgz"
+  }
+}

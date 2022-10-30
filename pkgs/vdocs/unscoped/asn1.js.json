@@ -1,0 +1,49 @@
+{
+  "name": "asn1.js",
+  "version": "5.4.1",
+  "description": "ASN.1 encoder and decoder",
+  "main": "lib/asn1.js",
+  "scripts": {
+    "lint-2560": "eslint --fix rfc/2560/*.js rfc/2560/test/*.js",
+    "lint-5280": "eslint --fix rfc/5280/*.js rfc/5280/test/*.js",
+    "lint": "eslint --fix lib/*.js lib/**/*.js lib/**/**/*.js && npm run lint-2560 && npm run lint-5280",
+    "test": "mocha --reporter spec test/*-test.js && cd rfc/2560 && npm i && npm test && cd ../../rfc/5280 && npm i && npm test && cd ../../ && npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/asn1.js.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "mocha": "^7.0.0"
+  },
+  "dependencies": {
+    "bn.js": "^4.0.0",
+    "inherits": "^2.0.1",
+    "minimalistic-assert": "^1.0.0",
+    "safer-buffer": "^2.1.0"
+  },
+  "gitHead": "a26f54f42df8d084b81748a6c5a97023e83b0e90",
+  "_id": "asn1.js@5.4.1",
+  "_nodeVersion": "13.9.0",
+  "_npmVersion": "6.13.7",
+  "dist": {
+    "integrity": "sha512-+I//4cYPccV8LdmBLiX8CYvf9Sp3vQsrqu2QNXRcrbiWvcx/UdlFiqUJJzxRQxgsZmvhXhn4cSKeSmoFjVdupA==",
+    "tarball": "https://registry.npmjs.org/asn1.js/-/asn1.js-5.4.1.tgz"
+  },
+  "directories": {},
+  "ident": "asn1.js",
+  "key": "asn1.js/5.4.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "asn1.js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Q6gie3KwGsQZ580spwUjYxzx6jXq6bXswgH/jhwXQQ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asn1.js/-/asn1.js-5.4.1.tgz"
+  }
+}

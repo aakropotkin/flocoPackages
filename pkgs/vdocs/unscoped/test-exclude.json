@@ -1,0 +1,51 @@
+{
+  "name": "test-exclude",
+  "version": "6.0.0",
+  "description": "test for inclusion or exclusion of paths using globs",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "test": "nyc tap",
+    "snap": "npm test -- --snapshot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istanbuljs/test-exclude.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@istanbuljs/schema": "^0.1.2",
+    "glob": "^7.1.4",
+    "minimatch": "^3.0.4"
+  },
+  "devDependencies": {
+    "nyc": "^15.0.0-beta.3",
+    "standard-version": "^7.0.0",
+    "tap": "^14.10.5"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "gitHead": "b788e7bd7cfdec8b471ad7b79d0d4a44975e2e99",
+  "_id": "test-exclude@6.0.0",
+  "_nodeVersion": "13.4.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-cAGWPIyOHU6zlmg88jwm7VRyXnMN7iV68OGAbYDk/Mh/xC/pzVPlQtY6ngoIH/5/tciuhGfvESU8GrHrcxD56w==",
+    "tarball": "https://registry.npmjs.org/test-exclude/-/test-exclude-6.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "test-exclude",
+  "key": "test-exclude/6.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "test-exclude",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mAzD4R1N5GQhajG4/vQ7vBHOw61M4xwoDp6Rp2ckqGA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/test-exclude/-/test-exclude-6.0.0.tgz"
+  }
+}

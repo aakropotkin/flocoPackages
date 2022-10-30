@@ -1,0 +1,51 @@
+{
+  "name": "fd-slicer",
+  "version": "1.1.0",
+  "description": "safely create multiple ReadStream or WriteStream objects from the same file descriptor",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --check-leaks",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/test.js",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --timeout 10000 --reporter spec --check-leaks test/test.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "~0.3.3",
+    "mocha": "~2.0.1",
+    "stream-equal": "~0.1.5",
+    "streamsink": "~1.2.0"
+  },
+  "dependencies": {
+    "pend": "~1.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewrk/node-fd-slicer.git"
+  },
+  "gitHead": "2583a9eaebe86ce5d9a70da0a02529e2f1719c47",
+  "_id": "fd-slicer@1.1.0",
+  "_shasum": "25c7c89cb1f9077f8891bbe61d8f390eae256f1e",
+  "_from": ".",
+  "_npmVersion": "3.5.2",
+  "_nodeVersion": "8.10.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/fd-slicer/-/fd-slicer-1.1.0.tgz",
+    "integrity": "sha512-cE1qsB/VwyQozZ+q1dGxR8LBYNZeofhEdUNGSMbQD3Gw2lAzX9Zb3uIU6Ebc/Fmyjo9AWWfnn0AUCHqtevs/8g=="
+  },
+  "ident": "fd-slicer",
+  "key": "fd-slicer/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fd-slicer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DrmDo6xFhqwrktmUdoT1tv43SQLAD/8att/ZAD53Bfw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fd-slicer/-/fd-slicer-1.1.0.tgz"
+  }
+}

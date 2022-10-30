@@ -1,0 +1,43 @@
+{
+  "name": "silent-error",
+  "version": "1.1.1",
+  "description": "stackless unless otherwise requested error",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanpenner/silent-error.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  },
+  "gitHead": "fcf21cbfed16b6fdb0e31a8abcaffe6f44a7ee9c",
+  "_id": "silent-error@1.1.1",
+  "_npmVersion": "6.2.0",
+  "_nodeVersion": "10.6.0",
+  "dist": {
+    "integrity": "sha512-n4iEKyNcg4v6/jpb3c0/iyH2G1nzUNl7Gpqtn/mHIJK9S/q/7MCfoO4rwVOoO59qPFIc0hVHvMbiOJ0NdtxKKw==",
+    "tarball": "https://registry.npmjs.org/silent-error/-/silent-error-1.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "silent-error",
+  "key": "silent-error/1.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "silent-error",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-LyGR2WwkMqPcKqTVVSnVgFpzo4S9d/pbm3Jf9Yd30Kg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/silent-error/-/silent-error-1.1.1.tgz"
+  }
+}

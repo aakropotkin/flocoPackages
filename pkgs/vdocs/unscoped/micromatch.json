@@ -1,0 +1,79 @@
+{
+  "name": "micromatch",
+  "description": "Glob matching for javascript/node.js. A replacement and faster alternative to minimatch and multimatch.",
+  "version": "4.0.5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micromatch/micromatch.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "braces": "^3.0.2",
+    "picomatch": "^2.3.1"
+  },
+  "devDependencies": {
+    "fill-range": "^7.0.1",
+    "gulp-format-md": "^2.0.0",
+    "minimatch": "^5.0.1",
+    "mocha": "^9.2.2",
+    "time-require": "github:jonschlinkert/time-require"
+  },
+  "verb": {
+    "toc": "collapsible",
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "braces",
+        "expand-brackets",
+        "extglob",
+        "fill-range",
+        "nanomatch"
+      ]
+    },
+    "reflinks": [
+      "extglob",
+      "fill-range",
+      "glob-object",
+      "minimatch",
+      "multimatch"
+    ]
+  },
+  "gitHead": "002d0d184c95e76775528fa1dbe0c446518879b2",
+  "_id": "micromatch@4.0.5",
+  "_nodeVersion": "17.0.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-DMy+ERcEW2q8Z2Po+WNXuw3c5YaUSFjAO5GsJqfEl7UjvtIuFKO6ZrKvcItdy98dwFI2N1tg3zNIdKaQT+aNdA==",
+    "tarball": "https://registry.npmjs.org/micromatch/-/micromatch-4.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "micromatch",
+  "key": "micromatch/4.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "micromatch",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5sy/ExTbi9X3zWFTVMx8cfbQCpl3Kyqc7RVqcpj11gg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromatch/-/micromatch-4.0.5.tgz"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "pug-attrs",
+  "version": "3.0.0",
+  "description": "Generate code for Pug attributes",
+  "dependencies": {
+    "constantinople": "^4.0.1",
+    "js-stringify": "^1.0.2",
+    "pug-runtime": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pugjs/pug/tree/master/packages/pug-attrs"
+  },
+  "license": "MIT",
+  "_id": "pug-attrs@3.0.0",
+  "_nodeVersion": "12.16.3",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-azINV9dUtzPMFQktvTXciNAfAuVh/L/JCl0vtPCwvOA21uZrC08K/UnmrL+SXGEVc1FwzjW62+xw5S/uaLj6cA==",
+    "tarball": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "pug-attrs",
+  "key": "pug-attrs/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pug-attrs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-u89yN2GiKZHRejkz/Q+fYHqyKyciRoZnpZsZ2rmGnvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz"
+  }
+}

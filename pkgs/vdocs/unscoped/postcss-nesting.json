@@ -1,0 +1,75 @@
+{
+  "name": "postcss-nesting",
+  "description": "Nest rules inside each other in CSS",
+  "version": "10.2.0",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "jsdelivr": "dist/index.mjs",
+  "unpkg": "dist/index.mjs",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "@csstools/selector-specificity": "^2.0.0",
+    "postcss-selector-parser": "^6.0.10"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:deno": "deno run --unstable --allow-env --allow-read test/deno/test.js",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-nesting"
+  },
+  "csstools": {
+    "exportName": "postcssNesting",
+    "humanReadableName": "PostCSS Nesting"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "6ba4152098969f3f6259424b8704839974639f8f",
+  "_id": "postcss-nesting@10.2.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-EwMkYchxiDiKUhlJGzWsD9b2zvq/r2SSubcRrgP+jujMXFzqvANLt16lJANC+5uZ6hjI7lpRmI6O8JIl+8l1KA==",
+    "tarball": "https://registry.npmjs.org/postcss-nesting/-/postcss-nesting-10.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-nesting",
+  "key": "postcss-nesting/10.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-nesting",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-CG1nOIPcPpUrZGvO0qFH32AjXMqmAAbM63snFTVHzBg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-nesting/-/postcss-nesting-10.2.0.tgz"
+  }
+}

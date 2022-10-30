@@ -1,0 +1,71 @@
+{
+  "name": "proto3-json-serializer",
+  "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googleapis/proto3-json-serializer-nodejs.git"
+  },
+  "description": "Support for proto3 JSON serialiazation/deserialization for protobuf.js",
+  "main": "build/src/index.js",
+  "types": "build/src/index.d.ts",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "c8 node_modules/mocha/bin/mocha build/test/unit",
+    "system-test": "mocha build/test/system",
+    "lint": "gts lint",
+    "clean": "gts clean",
+    "compile": "tsc",
+    "fix": "gts fix",
+    "prepare": "npm run compile",
+    "pretest": "npm run compile",
+    "posttest": "npm run lint",
+    "compile-test-protos": "cd test-fixtures/proto && pbjs -t json test.proto > test.json",
+    "docs": "jsdoc -c .jsdoc.js",
+    "docs-test": "linkinator docs",
+    "predocs-test": "npm run docs",
+    "samples-test": "cd samples/ && npm link ../ && npm test && cd ../",
+    "prelint": "cd samples && npm link ../ && npm install"
+  },
+  "dependencies": {
+    "protobufjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.0.0",
+    "c8": "^7.7.3",
+    "google-proto-files": "^3.0.0",
+    "gts": "^3.1.0",
+    "jsdoc": "^3.6.7",
+    "jsdoc-fresh": "^2.0.0",
+    "jsdoc-region-tag": "^2.0.0",
+    "linkinator": "^4.0.0",
+    "mocha": "^9.2.2",
+    "pack-n-play": "^1.0.0-2",
+    "typescript": "^4.6.4"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "gitHead": "286d59a802ac82b02eb18fd0004b20e243b5da38",
+  "_id": "proto3-json-serializer@1.1.0",
+  "_nodeVersion": "12.22.12",
+  "_npmVersion": "6.14.16",
+  "dist": {
+    "integrity": "sha512-SjXwUWe/vANGs/mJJTbw5++7U67nwsymg7qsoPtw6GiXqw3kUy8ByojrlEdVE2efxAdKreX8WkDafxvYW95ZQg==",
+    "tarball": "https://registry.npmjs.org/proto3-json-serializer/-/proto3-json-serializer-1.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "proto3-json-serializer",
+  "key": "proto3-json-serializer/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "proto3-json-serializer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-dTtbENGwjh4bISJzvps/qJqmTS7FpNlULK/IBwL9GnM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/proto3-json-serializer/-/proto3-json-serializer-1.1.0.tgz"
+  }
+}

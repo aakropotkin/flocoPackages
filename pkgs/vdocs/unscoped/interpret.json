@@ -1,0 +1,68 @@
+{
+  "name": "interpret",
+  "version": "3.1.1",
+  "description": "A dictionary of file extensions and associated module loaders.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/interpret.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "readme": "remark README.md --use ./scripts/plugin.mjs --output",
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-gulp": "^5.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.0.0",
+    "js-yaml": "^4.1.0",
+    "mocha": "^8.0.0",
+    "nyc": "^15.0.0",
+    "parse-node-version": "^2.0.0",
+    "rechoir": "^0.8.0",
+    "remark-cli": "^10.0.1",
+    "remark-code-import": "^1.1.0",
+    "shelljs": "0.8.5"
+  },
+  "nyc": {
+    "extension": [
+      ".js"
+    ],
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "c09bf70bc73d020b9d387223e7b74708687fdb47",
+  "_id": "interpret@3.1.1",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-6xwYfHbajpoF0xLW+iwLkhwgvLoZDfjYfoFNu8ftMoXINzwuymNLd9u/KmwtdT2GbR+/Cz66otEGEVVUHX9QLQ==",
+    "tarball": "https://registry.npmjs.org/interpret/-/interpret-3.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "interpret",
+  "key": "interpret/3.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "interpret",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-SIuQHHnH+Ws4RCowdT2UPHHrOD45g+F212MJGWcnY5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/interpret/-/interpret-3.1.1.tgz"
+  }
+}

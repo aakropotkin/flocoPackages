@@ -1,0 +1,48 @@
+{
+  "name": "react-refresh",
+  "description": "React is a JavaScript library for building user interfaces.",
+  "version": "0.14.0",
+  "license": "MIT",
+  "main": "runtime.js",
+  "exports": {
+    ".": "./runtime.js",
+    "./runtime": "./runtime.js",
+    "./babel": "./babel.js",
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git",
+    "directory": "packages/react"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "react-16-8": "npm:react@16.8.0",
+    "react-dom-16-8": "npm:react-dom@16.8.0",
+    "scheduler-0-13": "npm:scheduler@0.13.0"
+  },
+  "gitHead": "be229c5655074642ee664f532f2e7411dd7dccc7",
+  "_id": "react-refresh@0.14.0",
+  "_nodeVersion": "17.1.0",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-wViHqhAd8OHeLS/IRMJjTSDHF3U9eWi62F/MledQGPdJGDhodXJ9PBLNGr6WWL7qlH12Mt3TyTpbS+hGXMjCzQ==",
+    "tarball": "https://registry.npmjs.org/react-refresh/-/react-refresh-0.14.0.tgz"
+  },
+  "directories": {},
+  "ident": "react-refresh",
+  "key": "react-refresh/0.14.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "react-refresh",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-VnMLXE6UwPsHWHoqP1DhXlacVkFqpDT5K9e257vyPwE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-refresh/-/react-refresh-0.14.0.tgz"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "quick-format-unescaped",
+  "version": "4.0.4",
+  "description": "Solves a problem with util.format",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc -- node test",
+    "test:html": "nyc --reporter=html -- node test"
+  },
+  "devDependencies": {
+    "fastbench": "^1.0.1",
+    "nyc": "^15.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/quick-format.git"
+  },
+  "license": "MIT",
+  "gitHead": "20ebf64c2f2e182f97923a423d468757b9a24a63",
+  "_id": "quick-format-unescaped@4.0.4",
+  "_nodeVersion": "14.17.6",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-tYC1Q1hgyRuHgloV/YXs2w15unPVh8qfu/qCTfhTYamaw7fyhumKa2yGpdSo87vY32rIclj+4fWYQXUMs9EHvg==",
+    "tarball": "https://registry.npmjs.org/quick-format-unescaped/-/quick-format-unescaped-4.0.4.tgz"
+  },
+  "ident": "quick-format-unescaped",
+  "key": "quick-format-unescaped/4.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "quick-format-unescaped",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rfCMUTKIHg0LFYoIng8uoIGclAJNtecvA1CKwz6J5rE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/quick-format-unescaped/-/quick-format-unescaped-4.0.4.tgz"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "remove-bom-stream",
+  "version": "2.0.0",
+  "description": "Remove a UTF8 BOM at the start of the stream.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/remove-bom-stream.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "streamx": "^2.12.4"
+  },
+  "devDependencies": {
+    "concat-stream": "^2.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.4.2",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "stream-chunker": "^1.2.8"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "06af8b230cddc68c1e3a5a161936dfba1877f064",
+  "_id": "remove-bom-stream@2.0.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.7.0",
+  "dist": {
+    "integrity": "sha512-tHlDYOrUkBNUjxad4TW/S+w/AmSqt5dqX3mBVwTJgE+tX/9dja/k2CQszem1rmCOxOB6IMc0FhYh/5q/ivm4wA==",
+    "tarball": "https://registry.npmjs.org/remove-bom-stream/-/remove-bom-stream-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "remove-bom-stream",
+  "key": "remove-bom-stream/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "remove-bom-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-86ZGxdIupwHsoEU3buHuqsZCFUsU8EeLISFiLag8SmE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/remove-bom-stream/-/remove-bom-stream-2.0.0.tgz"
+  }
+}

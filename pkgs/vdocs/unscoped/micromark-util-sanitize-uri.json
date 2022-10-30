@@ -1,0 +1,55 @@
+{
+  "name": "micromark-util-sanitize-uri",
+  "version": "1.1.0",
+  "description": "micromark utility to sanitize urls",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micromark/micromark.git#main"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "dev/index.d.ts",
+  "exports": {
+    "development": "./dev/index.js",
+    "default": "./index.js"
+  },
+  "dependencies": {
+    "micromark-util-character": "^1.0.0",
+    "micromark-util-encode": "^1.0.0",
+    "micromark-util-symbol": "^1.0.0"
+  },
+  "scripts": {
+    "build": "rimraf \"*.d.ts\" \"{dev/,lib/}**/*.d.ts\" && tsc && micromark-build && type-coverage"
+  },
+  "xo": false,
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true,
+    "ignoreCatch": true
+  },
+  "gitHead": "86248b9ba63939a2fbd2d8c8d331283b7fac55c7",
+  "_id": "micromark-util-sanitize-uri@1.1.0",
+  "_nodeVersion": "18.2.0",
+  "_npmVersion": "8.19.1",
+  "dist": {
+    "integrity": "sha512-RoxtuSCX6sUNtxhbmsEFQfWzs8VN7cTctmBPvYivo98xb/kDEoTCtJQX5wyzIYEmk/lvNFTat4hL8oW0KndFpg==",
+    "tarball": "https://registry.npmjs.org/micromark-util-sanitize-uri/-/micromark-util-sanitize-uri-1.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "micromark-util-sanitize-uri",
+  "key": "micromark-util-sanitize-uri/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "micromark-util-sanitize-uri",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-z8ME9CsLKkZtgUhEn1sjAkaomTz/mBM8tJ15bJwtu18=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-util-sanitize-uri/-/micromark-util-sanitize-uri-1.1.0.tgz"
+  }
+}

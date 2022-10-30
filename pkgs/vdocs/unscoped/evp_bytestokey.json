@@ -1,0 +1,54 @@
+{
+  "name": "evp_bytestokey",
+  "version": "1.0.3",
+  "description": "The insecure key derivation algorithm from OpenSSL",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-browserify/EVP_BytesToKey.git"
+  },
+  "scripts": {
+    "coverage": "nyc tape test/*.js",
+    "lint": "standard",
+    "test": "npm run lint && npm run unit",
+    "test:prepare": "node-gyp rebuild",
+    "unit": "tape test/*.js"
+  },
+  "devDependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^2.4.0",
+    "nyc": "^8.1.0",
+    "standard": "^8.0.0",
+    "tape": "^4.6.0"
+  },
+  "gypfile": false,
+  "dependencies": {
+    "md5.js": "^1.3.4",
+    "safe-buffer": "^5.1.1"
+  },
+  "gitHead": "5b83312539cf4d21989e99562c09ba32a65070c8",
+  "_id": "evp_bytestokey@1.0.3",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.4.0",
+  "dist": {
+    "integrity": "sha512-/f2Go4TognH/KvCISP7OUsHn85hT9nUkxxA9BEWxFn+Oj9o8ZNLm/40hdlgSLyuOimsrTKLUMEorQexp/aPQeA==",
+    "tarball": "https://registry.npmjs.org/evp_bytestokey/-/evp_bytestokey-1.0.3.tgz"
+  },
+  "ident": "evp_bytestokey",
+  "key": "evp_bytestokey/1.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "evp_bytestokey",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ggoLo4JaaA49LO8SSEGBWSqfkNcuYadNIp1oITt520E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/evp_bytestokey/-/evp_bytestokey-1.0.3.tgz"
+  }
+}

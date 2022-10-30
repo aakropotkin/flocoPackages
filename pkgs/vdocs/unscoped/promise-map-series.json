@@ -1,0 +1,42 @@
+{
+  "name": "promise-map-series",
+  "description": "Map over array avoiding parallel execution, using promises",
+  "version": "0.3.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joliss/promise-map-series.git"
+  },
+  "devDependencies": {
+    "tape": "^4.11.0"
+  },
+  "engines": {
+    "node": "10.* || >= 12.*"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "gitHead": "318ec7bbdd2340885d2d5d313f474ba0bec536d6",
+  "_id": "promise-map-series@0.3.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.7.0",
+  "dist": {
+    "integrity": "sha512-3npG2NGhTc8BWBolLLf8l/92OxMGaRLbqvIh9wjCHhDXNvk4zsxaTaCpiCunW09qWPrN2zeNSNwRLVBrQQtutA==",
+    "tarball": "https://registry.npmjs.org/promise-map-series/-/promise-map-series-0.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "promise-map-series",
+  "key": "promise-map-series/0.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "promise-map-series",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-FjoyVlXijX6tO2iAmOtLo1eTNxmBhgGCrxNW5DWvzfk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promise-map-series/-/promise-map-series-0.3.0.tgz"
+  }
+}

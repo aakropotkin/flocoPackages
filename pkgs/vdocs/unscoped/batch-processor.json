@@ -1,0 +1,40 @@
+{
+  "name": "batch-processor",
+  "version": "1.0.0",
+  "description": "Batch processing in JS",
+  "main": "src/batch-processor.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnr/batch-processor.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "gitHead": "10b86ff0cd49fd2fdfd382a1bc00098c87202d98",
+  "_id": "batch-processor@1.0.0",
+  "_shasum": "75c95c32b748e0850d10c2b168f6bdbe9891ace8",
+  "_from": ".",
+  "_npmVersion": "3.5.2",
+  "_nodeVersion": "0.12.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/batch-processor/-/batch-processor-1.0.0.tgz",
+    "integrity": "sha512-xoLQD8gmmR32MeuBHgH0Tzd5PuSZx71ZsbhVxOCRbgktZEPe4SQy7s9Z50uPp0F/f7iw2XmkHN2xkgbMfckMDA=="
+  },
+  "ident": "batch-processor",
+  "key": "batch-processor/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "batch-processor",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1a/lybfB0MUBTUbBYSMa48nVtK1DpmEBfpIp8qCkWJ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/batch-processor/-/batch-processor-1.0.0.tgz"
+  }
+}

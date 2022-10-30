@@ -1,0 +1,57 @@
+{
+  "name": "accepts",
+  "description": "Higher-level content negotiation",
+  "version": "1.3.8",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshttp/accepts.git"
+  },
+  "dependencies": {
+    "mime-types": "~2.1.34",
+    "negotiator": "0.6.3"
+  },
+  "devDependencies": {
+    "deep-equal": "1.0.1",
+    "eslint": "7.32.0",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-markdown": "2.2.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "4.3.1",
+    "eslint-plugin-standard": "4.1.0",
+    "mocha": "9.2.0",
+    "nyc": "15.1.0"
+  },
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --reporter spec --check-leaks --bail test/",
+    "test-ci": "nyc --reporter=lcov --reporter=text npm test",
+    "test-cov": "nyc --reporter=html --reporter=text npm test"
+  },
+  "gitHead": "f69c19e459bd501e59fb0b1a40b7471bb578113a",
+  "_id": "accepts@1.3.8",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-PYAthTa2m2VKxuvSD3DPC/Gy+U+sOA1LAuT8mkmRuvw+NACSaeXEQ+NHcVF7rONl6qcaxV3Uuemwawk+7+SJLw==",
+    "tarball": "https://registry.npmjs.org/accepts/-/accepts-1.3.8.tgz"
+  },
+  "directories": {},
+  "ident": "accepts",
+  "key": "accepts/1.3.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "accepts",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DUavEYc6p6Sk8li5fXtDp8mnI8/MA9R4Z/QAqtH/RC0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/accepts/-/accepts-1.3.8.tgz"
+  }
+}

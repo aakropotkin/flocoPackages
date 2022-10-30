@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "async": "^2.4.1",
+    "debug": "^2.6.8"
+  },
+  "name": "async-promise-queue",
+  "version": "1.0.5",
+  "description": "wrapper around async.queue to make some common usages simpler",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanpenner/async-promise-queue.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test",
+    "test:debug": "mocha debug test"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "gitHead": "df3461390f8a62f6501c2f3141895d6bd527f72d",
+  "_id": "async-promise-queue@1.0.5",
+  "_nodeVersion": "11.12.0",
+  "_npmVersion": "6.7.0",
+  "dist": {
+    "integrity": "sha512-xi0aQ1rrjPWYmqbwr18rrSKbSaXIeIwSd1J4KAgVfkq8utNbdZoht7GfvfY6swFUAMJ9obkc4WPJmtGwl+B8dw==",
+    "tarball": "https://registry.npmjs.org/async-promise-queue/-/async-promise-queue-1.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "async-promise-queue",
+  "key": "async-promise-queue/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "async-promise-queue",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-u/++uwXyi4OUmdy2LRkaERBnBhg+YFTunq8OB+wKudo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-promise-queue/-/async-promise-queue-1.0.5.tgz"
+  }
+}

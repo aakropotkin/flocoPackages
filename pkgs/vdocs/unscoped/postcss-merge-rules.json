@@ -1,0 +1,53 @@
+{
+  "name": "postcss-merge-rules",
+  "version": "5.1.3",
+  "description": "Merge CSS rules with PostCSS.",
+  "types": "types/index.d.ts",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssnano/cssnano.git"
+  },
+  "dependencies": {
+    "browserslist": "^4.21.4",
+    "caniuse-api": "^3.0.0",
+    "cssnano-utils": "^3.1.0",
+    "postcss-selector-parser": "^6.0.5"
+  },
+  "engines": {
+    "node": "^10 || ^12 || >=14.0"
+  },
+  "devDependencies": {
+    "@types/caniuse-api": "^3.0.2",
+    "postcss": "^8.2.15",
+    "postcss-discard-comments": "^5.1.2"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "_id": "postcss-merge-rules@5.1.3",
+  "_integrity": "sha512-LbLd7uFC00vpOuMvyZop8+vvhnfRGpp2S+IMQKeuOZZapPRY4SMq5ErjQeHbHsjCUgJkRNrlU+LmxsKIqPKQlA==",
+  "_resolved": "/tmp/5cbcadb044531ffcb991b1696d80659b/postcss-merge-rules-5.1.3.tgz",
+  "_from": "file:postcss-merge-rules-5.1.3.tgz",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-LbLd7uFC00vpOuMvyZop8+vvhnfRGpp2S+IMQKeuOZZapPRY4SMq5ErjQeHbHsjCUgJkRNrlU+LmxsKIqPKQlA==",
+    "tarball": "https://registry.npmjs.org/postcss-merge-rules/-/postcss-merge-rules-5.1.3.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-merge-rules",
+  "key": "postcss-merge-rules/5.1.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-merge-rules",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ijXav+unoqvmLcLD1q3AchorrFQHDIeM4wn7KhNeDVA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-merge-rules/-/postcss-merge-rules-5.1.3.tgz"
+  }
+}

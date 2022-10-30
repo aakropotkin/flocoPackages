@@ -1,0 +1,53 @@
+{
+  "name": "symbol-observable",
+  "version": "4.0.0",
+  "description": "Symbol.observable ponyfill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blesh/symbol-observable.git"
+  },
+  "scripts": {
+    "test": "npm run build && mocha && tsc && node ./ts-test/test.js && check-es3-syntax -p lib/ --kill",
+    "build": "babel es --out-dir lib",
+    "prepublish": "npm test"
+  },
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "jsnext:main": "es/index.js",
+  "typings": "index.d.ts",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-es3": "^1.0.0",
+    "chai": "^3.5.0",
+    "check-es3-syntax-cli": "^0.1.0",
+    "mocha": "^2.4.5",
+    "typescript": "^4.0.5"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "gitHead": "322c08aa0251a9ecf7094f575f8eaee0b2c447d5",
+  "_id": "symbol-observable@4.0.0",
+  "_nodeVersion": "14.15.4",
+  "_npmVersion": "7.7.6",
+  "dist": {
+    "integrity": "sha512-b19dMThMV4HVFynSAM1++gBHAbk2Tc/osgLIBZMKsyqh34jb2e8Os7T6ZW/Bt3pJFdBTd2JwAnAAEQV7rSNvcQ==",
+    "tarball": "https://registry.npmjs.org/symbol-observable/-/symbol-observable-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "symbol-observable",
+  "key": "symbol-observable/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "symbol-observable",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WD6+F5+RXbww9bnbZE9KnMxLWP4ScbkWnC9BjD6VRXc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/symbol-observable/-/symbol-observable-4.0.0.tgz"
+  }
+}

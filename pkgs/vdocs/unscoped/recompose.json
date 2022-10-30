@@ -1,0 +1,44 @@
+{
+  "name": "recompose",
+  "version": "0.30.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdlite/recompose.git"
+  },
+  "license": "MIT",
+  "description": "A React utility belt for function components and higher-order components",
+  "main": "dist/Recompose.cjs.js",
+  "module": "dist/Recompose.esm.js",
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "change-emitter": "^0.1.2",
+    "fbjs": "^0.8.1",
+    "hoist-non-react-statics": "^2.3.1",
+    "react-lifecycles-compat": "^3.0.2",
+    "symbol-observable": "^1.0.4"
+  },
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+  },
+  "_id": "recompose@0.30.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.11.3",
+  "dist": {
+    "integrity": "sha512-ZTrzzUDa9AqUIhRk4KmVFihH0rapdCSMFXjhHbNrjAWxBuUD/guYlyysMnuHjlZC/KRiOKRtB4jf96yYSkKE8w==",
+    "tarball": "https://registry.npmjs.org/recompose/-/recompose-0.30.0.tgz"
+  },
+  "directories": {},
+  "ident": "recompose",
+  "key": "recompose/0.30.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "recompose",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-o/3CL+t8TpBDcd1KB5XCm+HirChcDOMqu37TLdFT6hk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/recompose/-/recompose-0.30.0.tgz"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "serve-static",
+  "description": "Serve static files",
+  "version": "1.15.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expressjs/serve-static.git"
+  },
+  "dependencies": {
+    "encodeurl": "~1.0.2",
+    "escape-html": "~1.0.3",
+    "parseurl": "~1.3.3",
+    "send": "0.18.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-markdown": "2.2.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "5.2.0",
+    "eslint-plugin-standard": "4.1.0",
+    "mocha": "9.2.2",
+    "nyc": "15.1.0",
+    "safe-buffer": "5.2.1",
+    "supertest": "6.2.2"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-ci": "nyc --reporter=lcov --reporter=text npm test",
+    "test-cov": "nyc --reporter=html --reporter=text npm test",
+    "version": "node scripts/version-history.js && git add HISTORY.md"
+  },
+  "gitHead": "9b5a12a76f4d70530d2d2a8c7742e9158ed3c0a4",
+  "_id": "serve-static@1.15.0",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-XGuRDNjXUijsUL0vl6nSD7cwURuzEgglbOaFuZM9g3kwDXOWVTck0jLzjPzGD+TazWbboZYu52/9/XPdUgne9g==",
+    "tarball": "https://registry.npmjs.org/serve-static/-/serve-static-1.15.0.tgz"
+  },
+  "directories": {},
+  "ident": "serve-static",
+  "key": "serve-static/1.15.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "serve-static",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Zmpmm1KER8sVCZp6Q5mEacVonO8Y4x1ROfNNSdZtAbw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-static/-/serve-static-1.15.0.tgz"
+  }
+}

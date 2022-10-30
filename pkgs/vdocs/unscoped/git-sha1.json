@@ -1,0 +1,35 @@
+{
+  "name": "git-sha1",
+  "version": "0.1.2",
+  "description": "A pure JS SHA1 implementation created for js-git.",
+  "main": "git-sha1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/git-sha1.git"
+  },
+  "license": "MIT",
+  "_id": "git-sha1@0.1.2",
+  "_shasum": "599ac192b71875825e13a445f3a6e05118c2f745",
+  "_from": ".",
+  "_npmVersion": "1.4.9",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/git-sha1/-/git-sha1-0.1.2.tgz",
+    "integrity": "sha512-2e/nZezdVlyCopOCYHeW0onkbZg7xP1Ad6pndPy1rCygeRykefUS6r7oA5cJRGEFvseiaz5a/qUHFVX1dd6Isg=="
+  },
+  "ident": "git-sha1",
+  "key": "git-sha1/0.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "git-sha1",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gQURCq9fBYoyFQUZHFsrkYQixgkbEMuJxFv7+dJlxxk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/git-sha1/-/git-sha1-0.1.2.tgz"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "name": "redux-form",
+  "version": "8.3.8",
+  "description": "A higher order component decorator for forms using Redux and React",
+  "main": "./lib/index.js",
+  "module": "./es/index.js",
+  "modules.root": "./es",
+  "jsnext:main": "./es/index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redux-form/redux-form.git"
+  },
+  "engines": {
+    "node": ">=8.10"
+  },
+  "scripts": {
+    "analyze": "webpack src/index.js dist/redux-form.js -p --bail --profile --json > stats.json && webpack-bundle-analyzer stats.json",
+    "build": "npm run clean && npm run build:lib && npm run build:es && npm run build:umd && npm run build:umd:min && npm run build:flow",
+    "build:lib": "babel src --out-dir lib --ignore \"src/**/__tests__\"",
+    "build:es": "cross-env BABEL_ENV=es babel src --out-dir es --ignore \"src/**/__tests__\"",
+    "build:flow": "cp src/*.js.flow lib && cp src/selectors/*.js.flow lib/selectors && cp src/*.js.flow es && cp src/selectors/*.js.flow es/selectors",
+    "build:umd": "cross-env NODE_ENV=development webpack src/index.js -o dist/redux-form.js",
+    "build:umd:min": "cross-env NODE_ENV=production webpack src/index.js -o dist/redux-form.min.js",
+    "clean": "rimraf dist lib es",
+    "lint": "eslint src",
+    "prepublishOnly": "npm run lint && npm run test:cov && npm run test:flow && npm run clean && npm run build",
+    "validate": "npm run lint && npm run test:cov && npm run test:flow && npm run clean && npm run build && size-limit",
+    "test": "jest",
+    "test:flow": "node scripts/patch-immutable-flow-error.js && flow check",
+    "test:watch": "npm test -- --watch",
+    "test:cov": "npm run test -- --coverage"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.9.2",
+    "es6-error": "^4.1.1",
+    "hoist-non-react-statics": "^3.3.2",
+    "invariant": "^2.2.4",
+    "is-promise": "^2.1.0",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.6.1",
+    "react-is": "^16.4.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-transform-flow-strip-types": "^7.9.0",
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "@size-limit/preset-small-lib": "^4.4.5",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-lodash": "^3.3.4",
+    "codecov": "^3.6.5",
+    "cross-env": "^5.2.1",
+    "deep-equal": "^1.1.1",
+    "eslint": "^6.8.0",
+    "eslint-config-react-app": "^5.2.1",
+    "eslint-import-resolver-webpack": "^0.12.1",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-flowtype": "^4.7.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.1",
+    "flow-bin": "^0.84.0",
+    "flux-standard-action": "^2.1.1",
+    "husky": "^1.2.1",
+    "immutable": "^3.8.2",
+    "insert-line": "^1.1.0",
+    "jest": "^25.3.0",
+    "lint-staged": "^8.2.1",
+    "lodash-webpack-plugin": "^0.11.5",
+    "prettier": "^1.19.1",
+    "prettier-eslint-cli": "^5.0.0",
+    "react": "~16.4.2",
+    "react-dom": "~16.4.2",
+    "react-redux": "~6.0.1",
+    "react-test-renderer": "^16.13.1",
+    "redux": "~3.7.2",
+    "redux-immutable": "^4.0.0",
+    "rimraf": "^2.7.1",
+    "size-limit": "^4.4.5",
+    "tmp": "0.0.33",
+    "webpack": "^4.42.1",
+    "webpack-bundle-analyzer": "^3.6.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "peerDependencies": {
+    "react": "^16.4.2 || ^17.0.0",
+    "react-redux": "^6.0.1 || ^7.0.0",
+    "redux": "^3.7.2 || ^4.0.0",
+    "immutable": "^3.8.2 || ^4.0.0"
+  },
+  "peerDependenciesMeta": {
+    "immutable": {
+      "optional": true
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,md,css}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!src/**/__tests__/**/*.js"
+    ],
+    "coverageReporters": [
+      "text",
+      "lcov",
+      "html"
+    ],
+    "coveragePathIgnorePatterns": [
+      "/node_modules/",
+      "/dist/"
+    ],
+    "testRegex": "__tests__/.*\\.spec\\.js$",
+    "testEnvironment": "jsdom"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "gitHead": "d1067cb6f0fb76d76d91462676cd0b2c3927f9db",
+  "_id": "redux-form@8.3.8",
+  "_nodeVersion": "14.18.1",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-PzXhA0d+awIc4PkuhbDa6dCEiraMrGMyyDlYEVNX6qEyW/G2SqZXrjav5zrpXb0CCeqQSc9iqwbMtYQXbJbOAQ==",
+    "tarball": "https://registry.npmjs.org/redux-form/-/redux-form-8.3.8.tgz"
+  },
+  "directories": {},
+  "ident": "redux-form",
+  "key": "redux-form/8.3.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "redux-form",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mHvLcMB9LldgVAATxBNi+BXOTBbqJW3yD4m8GYXY3JU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/redux-form/-/redux-form-8.3.8.tgz"
+  }
+}

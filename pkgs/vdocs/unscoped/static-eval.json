@@ -1,0 +1,53 @@
+{
+  "name": "static-eval",
+  "version": "2.1.0",
+  "description": "evaluate statically-analyzable expressions",
+  "main": "index.js",
+  "dependencies": {
+    "escodegen": "^1.11.1"
+  },
+  "devDependencies": {
+    "esprima": "^3.1.3",
+    "tape": "^4.10.1"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "ff/latest",
+      "chrome/latest",
+      "opera/latest",
+      "safari/latest"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browserify/static-eval.git"
+  },
+  "license": "MIT",
+  "gitHead": "1a4d734404aaac14d0611b624696b07dba65c7fd",
+  "_id": "static-eval@2.1.0",
+  "_nodeVersion": "14.4.0",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-agtxZ/kWSsCkI5E4QifRwsaPs0P0JmZV6dkLz6ILYfFYQGn+5plctanRN+IC8dJRiFkyXHrwEE3W9Wmx67uDbw==",
+    "tarball": "https://registry.npmjs.org/static-eval/-/static-eval-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "static-eval",
+  "key": "static-eval/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "static-eval",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MIIR3/w4jo8qvtQG2bRvEZyJc9Otmc0MSWUC1cU9F/s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/static-eval/-/static-eval-2.1.0.tgz"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "filter-obj",
+  "version": "5.1.0",
+  "description": "Filter object keys and values into a new object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/filter-obj.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^4.3.1",
+    "tsd": "^0.22.0",
+    "xo": "^0.51.0"
+  },
+  "gitHead": "58086b537bb622166387216bfb7da6e8184996ba",
+  "_id": "filter-obj@5.1.0",
+  "_nodeVersion": "14.19.3",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-qWeTREPoT7I0bifpPUXtxkZJ1XJzxWtfoWWkdVGqa+eCr3SHW/Ocp89o8vLvbUuQnadybJpjOKu4V+RwO6sGng==",
+    "tarball": "https://registry.npmjs.org/filter-obj/-/filter-obj-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "filter-obj",
+  "key": "filter-obj/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "filter-obj",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6wrhzWduydd2Ov45mOULxr2A7tt2nQUGL7gRX6qKhK8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/filter-obj/-/filter-obj-5.1.0.tgz"
+  }
+}

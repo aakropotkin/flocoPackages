@@ -1,0 +1,51 @@
+{
+  "name": "multicast-dns",
+  "version": "7.2.5",
+  "description": "Low level multicast-dns implementation in pure javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "bin": {
+    "multicast-dns": "cli.js"
+  },
+  "dependencies": {
+    "dns-packet": "^5.2.2",
+    "thunky": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1",
+    "tape": "^4.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafintosh/multicast-dns.git"
+  },
+  "license": "MIT",
+  "coordinates": [
+    55.6465878,
+    12.5492251
+  ],
+  "gitHead": "a41a06dee7e76102adcf273a5cd6eb87e64cba3e",
+  "_id": "multicast-dns@7.2.5",
+  "_nodeVersion": "16.13.2",
+  "_npmVersion": "6.14.16",
+  "dist": {
+    "integrity": "sha512-2eznPJP8z2BFLX50tf0LuODrpINqP1RVIm/CObbTcBRITQgmC/TjcREF1NeTBzIcR5XO/ukWo+YHOjBbFwIupg==",
+    "tarball": "https://registry.npmjs.org/multicast-dns/-/multicast-dns-7.2.5.tgz"
+  },
+  "directories": {},
+  "ident": "multicast-dns",
+  "key": "multicast-dns/7.2.5",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "multicast-dns",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-KL60MaISzBs9LgZBkM25PE8gHIm+j9W36j/IFaaZdIg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/multicast-dns/-/multicast-dns-7.2.5.tgz"
+  }
+}

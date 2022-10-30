@@ -1,0 +1,61 @@
+{
+  "name": "d3-format",
+  "version": "3.1.0",
+  "description": "Format numbers for human consumption.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3/d3-format.git"
+  },
+  "license": "ISC",
+  "type": "module",
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-format.min.js",
+  "unpkg": "dist/d3-format.min.js",
+  "exports": {
+    ".": {
+      "umd": "./dist/d3-format.min.js",
+      "default": "./src/index.js"
+    },
+    "./locale/*": "./locale/*.json"
+  },
+  "sideEffects": [
+    "./src/defaultLocale.js"
+  ],
+  "devDependencies": {
+    "eslint": "8",
+    "mocha": "9",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "08806c62aa8f7b3fe64925f3989f1491c950a71c",
+  "_id": "d3-format@3.1.0",
+  "_nodeVersion": "14.17.5",
+  "_npmVersion": "6.14.14",
+  "dist": {
+    "integrity": "sha512-YyUI6AEuY/Wpt8KWLgZHsIU86atmikuoOmCfommt0LYHiQSPjvX2AcFc38PX0CBpr2RCyZhjex+NS/LPOv6YqA==",
+    "tarball": "https://registry.npmjs.org/d3-format/-/d3-format-3.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "d3-format",
+  "key": "d3-format/3.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "d3-format",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1/gxbah6XA1hcfviytziQMqLW8ylHOBOJODyW0FXp6I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-format/-/d3-format-3.1.0.tgz"
+  }
+}

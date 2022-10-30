@@ -1,0 +1,47 @@
+{
+  "name": "yaeti",
+  "version": "1.0.3",
+  "description": "Yet Another EventTarget Implementation",
+  "license": "MIT",
+  "main": "index.js",
+  "browser": {
+    "./lib/Event.js": "./lib/Event.browser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibc/yaeti.git"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jscs-stylish": "^1.4.0",
+    "gulp-jshint": "^2.0.4",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "gitHead": "bc5e14e2b0feb50a1fc371dda00dfa511ae7d6a9",
+  "_id": "yaeti@1.0.3",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "7.20.5",
+  "dist": {
+    "integrity": "sha512-XGlihp7jseP/hc/NqYNrNQAs/vgSoMbp40Kd9Zceg6wXws0fncwKWgFyulzUDGNVqlEBAWvvHtcgF9v2N/8LMA==",
+    "tarball": "https://registry.npmjs.org/yaeti/-/yaeti-1.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "yaeti",
+  "key": "yaeti/1.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "yaeti",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-YG16dyndnesA5pWwWBf+iTCaUZf3HaOCTnwqfkgEhDE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yaeti/-/yaeti-1.0.3.tgz"
+  }
+}

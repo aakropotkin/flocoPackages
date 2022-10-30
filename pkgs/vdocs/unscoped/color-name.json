@@ -1,0 +1,36 @@
+{
+  "name": "color-name",
+  "version": "1.1.4",
+  "description": "A list of color names and its values",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/colorjs/color-name.git"
+  },
+  "license": "MIT",
+  "gitHead": "4536ce5944f56659a2dfb2198eaf81b5ad5f2ad9",
+  "_id": "color-name@1.1.4",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.11.1",
+  "dist": {
+    "integrity": "sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==",
+    "tarball": "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz"
+  },
+  "directories": {},
+  "ident": "color-name",
+  "key": "color-name/1.1.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "color-name",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mAOvtcDAZ05q6KP5tRgaO5D4jeb+/AcbIE1Z2nBG1uk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz"
+  }
+}

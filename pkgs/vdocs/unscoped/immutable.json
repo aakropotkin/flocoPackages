@@ -1,0 +1,36 @@
+{
+  "name": "immutable",
+  "version": "4.1.0",
+  "description": "Immutable Data Collections",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/immutable-js/immutable-js.git"
+  },
+  "main": "dist/immutable.js",
+  "module": "dist/immutable.es.js",
+  "sideEffects": false,
+  "types": "dist/immutable.d.ts",
+  "gitHead": "f3cb38e545326125b9b1c225ece8b113d3c057d9",
+  "_id": "immutable@4.1.0",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-oNkuqVTA8jqG1Q6c+UglTOD1xhC1BtjKI7XkCXRkZHrN5m18/XsnUp8Q89GkQO/z+0WjonSvl0FLhDYftp46nQ==",
+    "tarball": "https://registry.npmjs.org/immutable/-/immutable-4.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "immutable",
+  "key": "immutable/4.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "immutable",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-SUl8cnengO3Hv2fkiqLy1ImiFgR/UmOMZr1X6QW+yV0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/immutable/-/immutable-4.1.0.tgz"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "oauth",
+  "description": "Library for interacting with OAuth 1.0, 1.0A, 2 and Echo.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.",
+  "version": "0.10.0",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ciaranj/node-oauth.git"
+  },
+  "devDependencies": {
+    "vows": "0.8.x"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT",
+  "gitHead": "0749d671f04b684ca255d6ff5340ae3efe711d9a",
+  "_id": "oauth@0.10.0",
+  "_nodeVersion": "15.4.0",
+  "_npmVersion": "7.0.15",
+  "dist": {
+    "integrity": "sha512-1orQ9MT1vHFGQxhuy7E/0gECD3fd2fCC+PIX+/jgmU/gI3EpRocXtmtvxCO5x3WZ443FLTLFWNDjl5MPJf9u+Q==",
+    "tarball": "https://registry.npmjs.org/oauth/-/oauth-0.10.0.tgz"
+  },
+  "ident": "oauth",
+  "key": "oauth/0.10.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "oauth",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-EhH8URnp61ELHJFIFEvH0nxOMFwXUFGUfPYHCxtrWV0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth/-/oauth-0.10.0.tgz"
+  }
+}

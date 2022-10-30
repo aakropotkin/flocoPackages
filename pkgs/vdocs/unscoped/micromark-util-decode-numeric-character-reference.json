@@ -1,0 +1,52 @@
+{
+  "name": "micromark-util-decode-numeric-character-reference",
+  "version": "1.0.0",
+  "description": "micromark utility to decode numeric character references",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micromark/micromark.git#main"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "dev/index.d.ts",
+  "exports": {
+    "development": "./dev/index.js",
+    "default": "./index.js"
+  },
+  "dependencies": {
+    "micromark-util-symbol": "^1.0.0"
+  },
+  "scripts": {
+    "build": "rimraf \"*.d.ts\" \"{dev/,lib/}**/*.d.ts\" && tsc && micromark-build && type-coverage"
+  },
+  "xo": false,
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true,
+    "ignoreCatch": true
+  },
+  "_id": "micromark-util-decode-numeric-character-reference@1.0.0",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "7.18.1",
+  "dist": {
+    "integrity": "sha512-OzO9AI5VUtrTD7KSdagf4MWgHMtET17Ua1fIpXTpuhclCqD8egFWo85GxSGvxgkGS74bEahvtM0WP0HjvV0e4w==",
+    "tarball": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference/-/micromark-util-decode-numeric-character-reference-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "micromark-util-decode-numeric-character-reference",
+  "key": "micromark-util-decode-numeric-character-reference/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "micromark-util-decode-numeric-character-reference",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+TMG/rpR0K7aHQVhRhQmh0ozBk1lENYHAcafEjSoEeM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference/-/micromark-util-decode-numeric-character-reference-1.0.0.tgz"
+  }
+}

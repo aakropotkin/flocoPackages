@@ -1,0 +1,58 @@
+{
+  "name": "kleur",
+  "version": "4.1.5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeed/kleur.git"
+  },
+  "description": "The fastest Node.js library for formatting terminal text with ANSI colors~!",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.js"
+    },
+    "./colors": {
+      "types": "./colors.d.ts",
+      "import": "./colors.mjs",
+      "require": "./colors.js"
+    }
+  },
+  "scripts": {
+    "build": "node build",
+    "test": "uvu -r esm -i utils -i xyz"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "devDependencies": {
+    "esm": "3.2.25",
+    "uvu": "0.3.3"
+  },
+  "gitHead": "fa3454483899ddab550d08c18c028e6db1aab0e5",
+  "_id": "kleur@4.1.5",
+  "_nodeVersion": "18.3.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-o+NO+8WrRiQEE4/7nwRJhN1HWpVmJm511pBHUxPLtp0BUISzlBplORYSmTclCnJvQq2tKu/sgl3xVpkc7ZWuQQ==",
+    "tarball": "https://registry.npmjs.org/kleur/-/kleur-4.1.5.tgz"
+  },
+  "directories": {},
+  "ident": "kleur",
+  "key": "kleur/4.1.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "kleur",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GfBnO6v505JHnsIcZv5iA+DxVSVnUHYAk/fX/eKR6u8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/kleur/-/kleur-4.1.5.tgz"
+  }
+}

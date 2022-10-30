@@ -1,0 +1,34 @@
+{
+  "name": "pad-component",
+  "version": "0.0.1",
+  "description": "Pad strings to a given length",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "pad/index.js": "index.js"
+    }
+  },
+  "_id": "pad-component@0.0.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/pad-component/-/pad-component-0.0.1.tgz",
+    "integrity": "sha512-8EKVBxCRSvLnsX1p2LlSFSH3c2/wuhY9/BXXWu8boL78FbVKqn2L5SpURt1x5iw6Gq8PTqJ7MdPoe5nCtX3I+g=="
+  },
+  "_npmVersion": "1.1.61",
+  "ident": "pad-component",
+  "key": "pad-component/0.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pad-component",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-z34XoH74vjHH6X23GtlKkYEPRD9j7NMR2IcHoAKDwFo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pad-component/-/pad-component-0.0.1.tgz"
+  }
+}

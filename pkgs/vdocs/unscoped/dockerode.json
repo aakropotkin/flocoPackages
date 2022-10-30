@@ -1,0 +1,50 @@
+{
+  "name": "dockerode",
+  "description": "Docker Remote API module.",
+  "version": "3.3.4",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apocas/dockerode.git"
+  },
+  "dependencies": {
+    "@balena/dockerignore": "^1.0.2",
+    "docker-modem": "^3.0.0",
+    "tar-fs": "~2.0.1"
+  },
+  "devDependencies": {
+    "bluebird": "^3.7.0",
+    "chai": "~4.2.0",
+    "memorystream": "~0.3.0",
+    "mocha": "^7.1.0"
+  },
+  "main": "./lib/docker",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -R spec --exit"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">= 8.0"
+  },
+  "gitHead": "ad170f5d659744fd19ef6e6bab64868480a6e04d",
+  "_id": "dockerode@3.3.4",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-3EUwuXnCU+RUlQEheDjmBE0B7q66PV9Rw5NiH1sXwINq0M9c5ERP9fxgkw36ZHOtzf4AGEEYySnkx/sACC9EgQ==",
+    "tarball": "https://registry.npmjs.org/dockerode/-/dockerode-3.3.4.tgz"
+  },
+  "directories": {},
+  "ident": "dockerode",
+  "key": "dockerode/3.3.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dockerode",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-cuMw+lKXDQkZatQVLl8brt9yS80kjhIhuYwyiSOqtP8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dockerode/-/dockerode-3.3.4.tgz"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "postcss-load-config",
+  "version": "4.0.1",
+  "description": "Autoload Config for PostCSS",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "engines": {
+    "node": ">= 14"
+  },
+  "dependencies": {
+    "lilconfig": "^2.0.5",
+    "yaml": "^2.1.1"
+  },
+  "peerDependencies": {
+    "postcss": ">=8.0.9",
+    "ts-node": ">=9.0.0"
+  },
+  "peerDependenciesMeta": {
+    "ts-node": {
+      "optional": true
+    },
+    "postcss": {
+      "optional": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postcss/postcss-load-config.git"
+  },
+  "license": "MIT",
+  "gitHead": "b8cdab0a91052bbe2d19a869534f29170c14d873",
+  "_id": "postcss-load-config@4.0.1",
+  "_nodeVersion": "18.2.0",
+  "_npmVersion": "8.9.0",
+  "dist": {
+    "integrity": "sha512-vEJIc8RdiBRu3oRAI0ymerOn+7rPuMvRXslTvZUKZonDHFIczxztIyJ1urxM1x9JXEikvpWWTUUqal5j/8QgvA==",
+    "tarball": "https://registry.npmjs.org/postcss-load-config/-/postcss-load-config-4.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-load-config",
+  "key": "postcss-load-config/4.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-load-config",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-RnP20SgI+qIPKWyMWAmmTN/TW5vt4dkVHD/IcS8dfks=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-load-config/-/postcss-load-config-4.0.1.tgz"
+  }
+}

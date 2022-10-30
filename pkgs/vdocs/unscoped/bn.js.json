@@ -1,0 +1,48 @@
+{
+  "name": "bn.js",
+  "version": "5.2.1",
+  "description": "Big number implementation in pure javascript",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/bn.js.git"
+  },
+  "license": "MIT",
+  "main": "lib/bn.js",
+  "browser": {
+    "buffer": false
+  },
+  "scripts": {
+    "lint": "standardx",
+    "test": "npm run lint && npm run unit",
+    "unit": "mocha --reporter=spec test/*-test.js"
+  },
+  "devDependencies": {
+    "eslint-plugin-es5": "^1.5.0",
+    "mocha": "^8.3.0",
+    "standardx": "^7.0.0"
+  },
+  "_id": "bn.js@5.2.1",
+  "_integrity": "sha512-eXRvHzWyYPBuB4NBy0cmYQjGitUrtqwbvlzP3G6VFnNRbsZQIxQ10PbKKHt8gZ/HW/D/747aDl+QkDqg3KQLMQ==",
+  "_resolved": "/home/kirill/projects/bn.js/bn.js-5.2.1.tgz",
+  "_from": "file:bn.js-5.2.1.tgz",
+  "_nodeVersion": "18.2.0",
+  "_npmVersion": "8.9.0",
+  "dist": {
+    "integrity": "sha512-eXRvHzWyYPBuB4NBy0cmYQjGitUrtqwbvlzP3G6VFnNRbsZQIxQ10PbKKHt8gZ/HW/D/747aDl+QkDqg3KQLMQ==",
+    "tarball": "https://registry.npmjs.org/bn.js/-/bn.js-5.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "bn.js",
+  "key": "bn.js/5.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bn.js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-OsZPe5ae+Db8qHqUhczaZi854Odfx5NGt4Ihf0cIdVo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bn.js/-/bn.js-5.2.1.tgz"
+  }
+}

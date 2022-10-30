@@ -1,0 +1,58 @@
+{
+  "name": "uglify-es",
+  "description": "JavaScript parser, mangler/compressor and beautifier toolkit for ES6+",
+  "license": "BSD-2-Clause",
+  "version": "3.3.9",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishoo/UglifyJS2.git#harmony"
+  },
+  "main": "tools/node.js",
+  "bin": {
+    "uglifyjs": "bin/uglifyjs"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "tools",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "commander": "~2.13.0",
+    "source-map": "~0.6.1"
+  },
+  "devDependencies": {
+    "acorn": "~5.3.0",
+    "mocha": "~3.5.1",
+    "semver": "~5.4.1"
+  },
+  "scripts": {
+    "test": "node test/run-tests.js"
+  },
+  "gitHead": "8e595171b9794ea92fea65c1b30d627083064187",
+  "_id": "uglify-es@3.3.9",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "9.3.0",
+  "dist": {
+    "integrity": "sha512-r+MU0rfv4L/0eeW3xZrd16t4NZfK8Ld4SWVglYBb7ez5uXFWHuVRs6xCTrf1yirs9a4j4Y27nn7SRfO6v67XsQ==",
+    "tarball": "https://registry.npmjs.org/uglify-es/-/uglify-es-3.3.9.tgz"
+  },
+  "directories": {},
+  "deprecated": "support for ECMAScript is superseded by `uglify-js` as of v3.13.0",
+  "ident": "uglify-es",
+  "key": "uglify-es/3.3.9",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "uglify-es",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JdqnQpneWmd1PHmYTOk8lCJ3DsMv9UZXPNom6Kl1L4M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/uglify-es/-/uglify-es-3.3.9.tgz"
+  }
+}

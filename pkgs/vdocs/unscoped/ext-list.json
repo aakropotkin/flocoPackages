@@ -1,0 +1,47 @@
+{
+  "name": "ext-list",
+  "version": "4.0.0",
+  "description": "List of known file extensions and their MIME types",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/ext-list.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "mime-db": "^1.28.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "6d899c504cdc82214fe4c950eea8eabb682ba403",
+  "_id": "ext-list@4.0.0",
+  "_npmVersion": "5.0.3",
+  "_nodeVersion": "8.0.0",
+  "dist": {
+    "integrity": "sha512-rE0dJ56wCGSBtF5h/KQqIXXJIL9fCnnwc1YLkK6VBHSvcEtPOKcgIsHoTcqbmNh5CHqV+RNTqF6PYjcUZYQtGA==",
+    "tarball": "https://registry.npmjs.org/ext-list/-/ext-list-4.0.0.tgz"
+  },
+  "ident": "ext-list",
+  "key": "ext-list/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ext-list",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PnaG06GyxCle3KJpEO2dGjiFrKB6JUeqC2o/COCqxX8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ext-list/-/ext-list-4.0.0.tgz"
+  }
+}

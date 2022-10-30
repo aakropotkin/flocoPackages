@@ -1,0 +1,61 @@
+{
+  "name": "v8flags",
+  "version": "4.0.0",
+  "description": "Get available v8 and Node.js flags.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/v8flags.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^3.2.2",
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.3.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "proxyquire": "^2.1.3"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "1f70fd1ce962dbf426a5fd17c7637248fc71c200",
+  "_id": "v8flags@4.0.0",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "7.24.2",
+  "dist": {
+    "integrity": "sha512-83N0OkTbn6gOjJ2awNuzuK4czeGxwEwBoTqlhBZhnp8o0IJ72mXRQKphj/azwRf3acbDJZYZhbOPEJHd884ELg==",
+    "tarball": "https://registry.npmjs.org/v8flags/-/v8flags-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "v8flags",
+  "key": "v8flags/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "v8flags",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mire/P72hX7uT5bKb+chYNnFqyrssMvxVo+LW+Ct8yM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/v8flags/-/v8flags-4.0.0.tgz"
+  }
+}

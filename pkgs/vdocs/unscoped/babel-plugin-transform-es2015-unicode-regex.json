@@ -1,0 +1,43 @@
+{
+  "name": "babel-plugin-transform-es2015-unicode-regex",
+  "version": "6.24.1",
+  "description": "Compile ES2015 Unicode regex to ES5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-unicode-regex"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-helper-regex": "^6.24.1",
+    "babel-runtime": "^6.22.0",
+    "regexpu-core": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.24.1"
+  },
+  "_id": "babel-plugin-transform-es2015-unicode-regex@6.24.1",
+  "scripts": {},
+  "_shasum": "d38b12f42ea7323f729387f18a7c5ae1faeb35e9",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-unicode-regex/-/babel-plugin-transform-es2015-unicode-regex-6.24.1.tgz",
+    "integrity": "sha512-v61Dbbihf5XxnYjtBN04B/JBvsScY37R1cZT5r9permN1cp+b70DY3Ib3fIkgn1DI9U3tGgBJZVD8p/mE/4JbQ=="
+  },
+  "directories": {},
+  "ident": "babel-plugin-transform-es2015-unicode-regex",
+  "key": "babel-plugin-transform-es2015-unicode-regex/6.24.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-transform-es2015-unicode-regex",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-r381ycP2EVPLEAAkUP/fgLTYVrdclJZSDP4GCugJw6A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-unicode-regex/-/babel-plugin-transform-es2015-unicode-regex-6.24.1.tgz"
+  }
+}

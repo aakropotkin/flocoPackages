@@ -1,0 +1,44 @@
+{
+  "name": "cookie-signature",
+  "version": "1.2.0",
+  "description": "Sign and unsign cookies",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visionmedia/node-cookie-signature.git"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=6.6.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha --require should --reporter spec"
+  },
+  "main": "index",
+  "gitHead": "7deca8b38110a3bd65841c34359794706cc7c60f",
+  "_id": "cookie-signature@1.2.0",
+  "_nodeVersion": "12.22.5",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-R0BOPfLGTitaKhgKROKZQN6iyq2iDQcH1DOF8nJoaWapguX5bC2w+Q/I9NmmM5lfcvEarnLZr+cCvmEYYSXvYA==",
+    "tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "cookie-signature",
+  "key": "cookie-signature/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cookie-signature",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ptxagCIqtwEuMmtSI25XvqV1Tpy8rH1N6S+wfS2gJnQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.2.0.tgz"
+  }
+}

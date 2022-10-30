@@ -1,0 +1,68 @@
+{
+  "name": "assign-symbols",
+  "description": "Assign the enumerable es6 Symbol properties from one or more objects to the first object passed on the arguments. Can be used as a supplement to other extend, assign or merge methods as a polyfill for the Symbols part of the es6 Object.assign method.",
+  "version": "2.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/assign-symbols.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^5.2.0"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "assign-deep",
+        "clone-deep",
+        "extend-shallow",
+        "merge-deep",
+        "mixin-deep"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "026e7f6343eee45ec606d5a42291d1bf670ec802",
+  "_id": "assign-symbols@2.0.2",
+  "_npmVersion": "6.3.0",
+  "_nodeVersion": "10.0.0",
+  "dist": {
+    "integrity": "sha512-9sBQUQZMKFKcO/C3Bo6Rx4CQany0R0UeVcefNGRRdW2vbmaMOhV1sbmlXcQLcD56juLXbSGTBm0GGuvmrAF8pA==",
+    "tarball": "https://registry.npmjs.org/assign-symbols/-/assign-symbols-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "assign-symbols",
+  "key": "assign-symbols/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "assign-symbols",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-jtlNZ2nthEmycNbiboOmfWOhXePjflIr7978s3wCVx8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assign-symbols/-/assign-symbols-2.0.2.tgz"
+  }
+}

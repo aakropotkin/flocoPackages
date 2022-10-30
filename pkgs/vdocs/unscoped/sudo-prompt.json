@@ -1,0 +1,35 @@
+{
+  "name": "sudo-prompt",
+  "version": "9.2.1",
+  "description": "Run a command using sudo, prompting the user with an OS dialog if necessary",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorangreef/sudo-prompt.git"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "gitHead": "c3cc31a51bc50fe21fadcbf76a88609c0c77026f",
+  "_id": "sudo-prompt@9.2.1",
+  "_nodeVersion": "11.10.0",
+  "_npmVersion": "6.13.1",
+  "dist": {
+    "integrity": "sha512-Mu7R0g4ig9TUuGSxJavny5Rv0egCEtpZRNMrZaYS1vxkiIxGiGUwoezU3LazIQ+KE04hTrTfNPgxU5gzi7F5Pw==",
+    "tarball": "https://registry.npmjs.org/sudo-prompt/-/sudo-prompt-9.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "sudo-prompt",
+  "key": "sudo-prompt/9.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sudo-prompt",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UuAdHWtKD1FRcP9Mr0gIB1kV/kTF2eaKvNMXqcLb8Do=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sudo-prompt/-/sudo-prompt-9.2.1.tgz"
+  }
+}

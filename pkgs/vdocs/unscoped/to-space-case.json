@@ -1,0 +1,41 @@
+{
+  "name": "to-space-case",
+  "version": "1.0.0",
+  "description": "Convert a string to space case.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ianstormtaylor/to-space-case.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "to-no-case": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "gitHead": "aa68213d1211745ce7c6c725ba072e6b13bef640",
+  "_id": "to-space-case@1.0.0",
+  "scripts": {},
+  "_shasum": "b052daafb1b2b29dc770cea0163e5ec0ebc9fc17",
+  "_from": ".",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.2.4",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/to-space-case/-/to-space-case-1.0.0.tgz",
+    "integrity": "sha512-rLdvwXZ39VOn1IxGL3V6ZstoTbwLRckQmn/U8ZDLuWwIXNpuZDhQ3AiRUlhTbOXFVE9C+dR51wM0CBDhk31VcA=="
+  },
+  "directories": {},
+  "ident": "to-space-case",
+  "key": "to-space-case/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "to-space-case",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-r648w46mkUlVZF0L6PdDoikTLT3hjrtWZ9eeLsNeeEY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/to-space-case/-/to-space-case-1.0.0.tgz"
+  }
+}

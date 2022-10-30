@@ -1,0 +1,39 @@
+{
+  "name": "json-schema-ref-parser",
+  "version": "9.0.9",
+  "description": "Parse, Resolve, and Dereference JSON Schema $ref pointers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APIDevTools/json-schema-ref-parser.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "@apidevtools/json-schema-ref-parser": "9.0.9"
+  },
+  "_id": "json-schema-ref-parser@9.0.9",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-qcP2lmGy+JUoQJ4DOQeLaZDqH9qSkeGCK3suKWxJXS82dg728Mn3j97azDMaOUmJAN4uCq91LdPx4K7E8F1a7Q==",
+    "tarball": "https://registry.npmjs.org/json-schema-ref-parser/-/json-schema-ref-parser-9.0.9.tgz"
+  },
+  "directories": {},
+  "ident": "json-schema-ref-parser",
+  "key": "json-schema-ref-parser/9.0.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "json-schema-ref-parser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-muVyY9TfwJ/YwWi3qmrZT6b5srzTnvE5rbbW1djHO4E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/json-schema-ref-parser/-/json-schema-ref-parser-9.0.9.tgz"
+  }
+}

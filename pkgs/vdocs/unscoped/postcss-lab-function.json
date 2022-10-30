@@ -1,0 +1,73 @@
+{
+  "name": "postcss-lab-function",
+  "description": "Use lab() and lch() color functions in CSS",
+  "version": "4.2.1",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "@csstools/postcss-progressive-custom-properties": "^1.1.0",
+    "postcss-value-parser": "^4.2.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-lab-function"
+  },
+  "csstools": {
+    "cssdb": "lab-function",
+    "exportName": "postcssLabFunction",
+    "humanReadableName": "PostCSS Lab Function"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "70022627842d2dd3f754c34e6fa74a79c7b0ebc1",
+  "_id": "postcss-lab-function@4.2.1",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-xuXll4isR03CrQsmxyz92LJB2xX9n+pZJ5jE9JgcnmsCammLyKdlzrBin+25dy6wIjfhJpKBAN80gsTlCgRk2w==",
+    "tarball": "https://registry.npmjs.org/postcss-lab-function/-/postcss-lab-function-4.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-lab-function",
+  "key": "postcss-lab-function/4.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-lab-function",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-sNa+hWsJWjdGId5km0bgQnSix3xU31F46VvO1vQg0Rc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-lab-function/-/postcss-lab-function-4.2.1.tgz"
+  }
+}

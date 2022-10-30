@@ -1,0 +1,47 @@
+{
+  "name": "slice-stream",
+  "version": "1.0.0",
+  "description": "Pipe data through a stream until some fixed length is reached, then callback.",
+  "main": "slicestream.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvanOxfeld/slice-stream.git"
+  },
+  "license": "MIT",
+  "gitHead": "9054cbab67c2e71ab9241dbe88401c786b270f8e",
+  "dependencies": {
+    "readable-stream": "~1.0.31"
+  },
+  "devDependencies": {
+    "stream-buffers": ">= 0.2.4 < 1",
+    "tap": ">= 0.4.0 < 1"
+  },
+  "_id": "slice-stream@1.0.0",
+  "_shasum": "5b33bd66f013b1a7f86460b03d463dec39ad3ea0",
+  "_from": ".",
+  "_npmVersion": "1.4.21",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/slice-stream/-/slice-stream-1.0.0.tgz",
+    "integrity": "sha512-fJu1TYTr85OZEkT4lqcCW6oPWPIS5omPnIsB/dL7QWo2sNk03VQ6did4plhh0y3Sf0nJlq5QEUR3vMYevydn7w=="
+  },
+  "ident": "slice-stream",
+  "key": "slice-stream/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "slice-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3bvJCHXSsuDgSwWSywpI3583wAGvEMflp6RyeTr65SY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/slice-stream/-/slice-stream-1.0.0.tgz"
+  }
+}

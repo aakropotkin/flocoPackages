@@ -1,0 +1,50 @@
+{
+  "name": "jss-plugin-vendor-prefixer",
+  "description": "JSS plugin that handles vendor prefixes in the browser",
+  "version": "10.9.2",
+  "license": "MIT",
+  "main": "dist/jss-plugin-vendor-prefixer.cjs.js",
+  "module": "dist/jss-plugin-vendor-prefixer.esm.js",
+  "unpkg": "dist/jss-plugin-vendor-prefixer.bundle.js",
+  "sideEffects": false,
+  "typings": "./src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssinjs/jss.git",
+    "directory": "packages/jss-plugin-vendor-prefixer"
+  },
+  "scripts": {
+    "build": "node ../../scripts/build.js",
+    "check-snapshot": "node ../../scripts/match-snapshot.js"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.3.1",
+    "css-vendor": "^2.0.8",
+    "jss": "10.9.2"
+  },
+  "devDependencies": {
+    "jss-plugin-rule-value-function": "10.9.2"
+  },
+  "gitHead": "a9a6339826b2d6f398ecd62cb469a6948103d2be",
+  "_id": "jss-plugin-vendor-prefixer@10.9.2",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "lerna/3.10.5/node@v16.15.1+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-SxcEoH+Rttf9fEv6KkiPzLdXRmI6waOTcMkbbEFgdZLDYNIP9UKNHFy6thhbRKqv0XMQZdrEsbDyV464zE/dUA==",
+    "tarball": "https://registry.npmjs.org/jss-plugin-vendor-prefixer/-/jss-plugin-vendor-prefixer-10.9.2.tgz"
+  },
+  "directories": {},
+  "ident": "jss-plugin-vendor-prefixer",
+  "key": "jss-plugin-vendor-prefixer/10.9.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jss-plugin-vendor-prefixer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1wgGoeQUcwyb6huJQlQV0mv6nmUISJFjdgOuD6ht+fk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jss-plugin-vendor-prefixer/-/jss-plugin-vendor-prefixer-10.9.2.tgz"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "catbox-memory",
+  "description": "Memory adapter for catbox",
+  "version": "4.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hapijs/catbox-memory.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "boom": "7.x.x",
+    "hoek": "6.x.x"
+  },
+  "devDependencies": {
+    "catbox": "10.x.x",
+    "code": "5.x.x",
+    "lab": "17.x.x"
+  },
+  "scripts": {
+    "test": "lab -a code -L -t 100",
+    "test-cov-html": "lab -a code -r html -o coverage.html"
+  },
+  "license": "BSD-3-Clause",
+  "gitHead": "12ab313eb5ab7dde43fb0272e43371c5e47116ca",
+  "_id": "catbox-memory@4.0.1",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-ZmqNiLsYCIu9qvBJ/MQbznDV2bFH5gFiH67TgIJgSSffJFtTXArT+MM3AvJQlby9NSkLHOX4eH/uuUqnch/Ldw==",
+    "tarball": "https://registry.npmjs.org/catbox-memory/-/catbox-memory-4.0.1.tgz"
+  },
+  "directories": {},
+  "deprecated": "This module has moved and is now available at @hapi/catbox-memory. Please update your dependencies as this version is no longer maintained an may contain bugs and security issues.",
+  "ident": "catbox-memory",
+  "key": "catbox-memory/4.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "catbox-memory",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6KYdR0NyKShoLml27LxaJIY4p1Axu9JymNtcehKbMnU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/catbox-memory/-/catbox-memory-4.0.1.tgz"
+  }
+}

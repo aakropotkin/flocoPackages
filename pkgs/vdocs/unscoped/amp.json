@@ -1,0 +1,40 @@
+{
+  "name": "amp",
+  "version": "0.3.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/visionmedia/node-amp"
+  },
+  "description": "Abstract messaging protocol",
+  "dependencies": {},
+  "files": [
+    "index.js",
+    "lib/*.js"
+  ],
+  "devDependencies": {
+    "matcha": "~0.4.0",
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT",
+  "_id": "amp@0.3.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/amp/-/amp-0.3.1.tgz",
+    "integrity": "sha512-OwIuC4yZaRogHKiuU5WlMR5Xk/jAcpPtawWL05Gj8Lvm2F6mwoJt4O/bHI+DHwG79vWd+8OFYM4/BzYqyRd3qw=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.3.13",
+  "ident": "amp",
+  "key": "amp/0.3.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "amp",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-82NtBDhuCLHmTv8h7vXSCVaDfA5gqpKIvCCKWU0/4Q8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/amp/-/amp-0.3.1.tgz"
+  }
+}

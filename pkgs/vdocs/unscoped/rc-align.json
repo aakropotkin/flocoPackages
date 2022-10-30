@@ -1,0 +1,71 @@
+{
+  "name": "rc-align",
+  "version": "4.0.12",
+  "description": "align ui component for react",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/react-component/align.git"
+  },
+  "license": "MIT",
+  "main": "./lib/index",
+  "module": "./es/index",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development father doc dev --storybook",
+    "build": "father doc build --storybook",
+    "compile": "father build",
+    "tsc": "tsc --noEmit",
+    "prepublishOnly": "npm run compile && np --yolo --no-publish",
+    "lint": "eslint src/ examples/ --ext .tsx,.ts,.jsx,.js",
+    "test": "father test",
+    "coverage": "father test --coverage",
+    "now-build": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.10.1",
+    "classnames": "2.x",
+    "dom-align": "^1.7.0",
+    "lodash": "^4.17.21",
+    "rc-util": "^5.3.0",
+    "resize-observer-polyfill": "^1.5.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/react": "^16.8.19",
+    "@types/react-dom": "^16.8.4",
+    "@types/warning": "^3.0.0",
+    "cross-env": "^7.0.3",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "enzyme-to-json": "^3.4.0",
+    "eslint": "^7.1.0",
+    "father": "^2.13.2",
+    "np": "^5.0.3",
+    "typescript": "^4.0.3"
+  },
+  "gitHead": "a39fc5abf8c5566d436c8530b641e6c7f0e9d878",
+  "_id": "rc-align@4.0.12",
+  "_nodeVersion": "14.18.1",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-3DuwSJp8iC/dgHzwreOQl52soj40LchlfUHtgACOUtwGuoFIOVh6n/sCpfqCU8kO5+iz6qR0YKvjgB8iPdE3aQ==",
+    "tarball": "https://registry.npmjs.org/rc-align/-/rc-align-4.0.12.tgz"
+  },
+  "directories": {},
+  "ident": "rc-align",
+  "key": "rc-align/4.0.12",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "rc-align",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JZT6PFrcJiKS98N+wg/zh8muZRZDEPHg3SQTQuIYXzA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rc-align/-/rc-align-4.0.12.tgz"
+  }
+}

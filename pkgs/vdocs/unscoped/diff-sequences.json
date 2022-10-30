@@ -1,0 +1,50 @@
+{
+  "name": "diff-sequences",
+  "version": "29.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/diff-sequences"
+  },
+  "license": "MIT",
+  "description": "Compare items in two sequences to find a longest common subsequence",
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "diff": "^5.0.0",
+    "fast-check": "^3.0.0"
+  },
+  "gitHead": "ee5b37a4f4433afcfffb0356cea47739d8092287",
+  "_id": "diff-sequences@29.2.0",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-413SY5JpYeSBZxmenGEmCVQ8mCgtFJF0w9PROdaS6z987XC2Pd2GOKqOITLtMftmyFZqgtCOb/QA7/Z3ZXfzIw==",
+    "tarball": "https://registry.npmjs.org/diff-sequences/-/diff-sequences-29.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "diff-sequences",
+  "key": "diff-sequences/29.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "diff-sequences",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rTfhxqZIXhFajzILa0Xq3A1YVN/kvLovBYhh1HKgWPQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/diff-sequences/-/diff-sequences-29.2.0.tgz"
+  }
+}

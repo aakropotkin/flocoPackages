@@ -1,0 +1,41 @@
+{
+  "name": "parse-headers",
+  "version": "2.0.5",
+  "description": "Parse http headers, works with browserify/xhr",
+  "main": "parse-headers.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesla/parse-headers.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.10.1"
+  },
+  "dependencies": {},
+  "gitHead": "83486373969bdbd9be2f69c5d9c36bda93d3ed19",
+  "_id": "parse-headers@2.0.5",
+  "_nodeVersion": "16.6.1",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-ft3iAoLOB/MlwbNXgzy43SWGP6sQki2jQvAyBg/zDFAgr9bfNWZIUj42Kw2eJIl8kEi4PbgE6U1Zau/HwI75HA==",
+    "tarball": "https://registry.npmjs.org/parse-headers/-/parse-headers-2.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "parse-headers",
+  "key": "parse-headers/2.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "parse-headers",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uDbxdTO4ZJTr7hUbEHdbD7TMPSa2SP+f+6uHWaO2LLA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parse-headers/-/parse-headers-2.0.5.tgz"
+  }
+}

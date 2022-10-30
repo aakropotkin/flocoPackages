@@ -1,0 +1,51 @@
+{
+  "name": "pm2-axon",
+  "description": "High-level messaging & socket patterns implemented in pure js",
+  "version": "4.0.1",
+  "engines": {
+    "node": ">=5"
+  },
+  "dependencies": {
+    "amp": "~0.3.1",
+    "amp-message": "~0.1.1",
+    "debug": "^4.3.1",
+    "escape-string-regexp": "^4.0.0"
+  },
+  "devDependencies": {
+    "better-assert": "*",
+    "commander": "*",
+    "humanize-number": "0.0.2",
+    "mocha": "^8.1",
+    "should": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unitech/pm2-axon.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT",
+  "gitHead": "e012e208f82b697fd8c0fa9795602cb3a7c82f54",
+  "_id": "pm2-axon@4.0.1",
+  "_nodeVersion": "15.4.0",
+  "_npmVersion": "7.0.15",
+  "dist": {
+    "integrity": "sha512-kES/PeSLS8orT8dR5jMlNl+Yu4Ty3nbvZRmaAtROuVm9nYYGiaoXqqKQqQYzWQzMYWUKHMQTvBlirjE5GIIxqg==",
+    "tarball": "https://registry.npmjs.org/pm2-axon/-/pm2-axon-4.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "pm2-axon",
+  "key": "pm2-axon/4.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pm2-axon",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BjlNRFqmhXmftPEqXLtSA6wVangeG6Q+gqIejz5OO9o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pm2-axon/-/pm2-axon-4.0.1.tgz"
+  }
+}

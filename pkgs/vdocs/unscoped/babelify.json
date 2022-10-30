@@ -1,0 +1,54 @@
+{
+  "name": "babelify",
+  "description": "Babel browserify transform",
+  "version": "10.0.0",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babel/babelify.git"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-transform-property-literals": "^7.0.0",
+    "@babel/plugin-transform-react-display-name": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-transform-node-env-inline": "^0.4.3",
+    "browserify": "^16.2.2",
+    "convert-source-map": "^1.5.1",
+    "lodash.zipobject": "^4.1.3",
+    "tap": "^12.0.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "gitHead": "14e62953f865b0a8dbb9eb6dd56724cf818ca33d",
+  "_id": "babelify@10.0.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.11.3",
+  "dist": {
+    "integrity": "sha512-X40FaxyH7t3X+JFAKvb1H9wooWKLRCi8pg3m8poqtdZaIng+bjzp9RvKQCvRjF9isHiPkXspbbXT/zwXLtwgwg==",
+    "tarball": "https://registry.npmjs.org/babelify/-/babelify-10.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "babelify",
+  "key": "babelify/10.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babelify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-QT3ce8hBqs8R/rAB2mg3V6Zgfdgi0tS18JReYU76TxM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babelify/-/babelify-10.0.0.tgz"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "bin-links",
+  "version": "4.0.1",
+  "description": "JavaScript package binary linker",
+  "main": "./lib/index.js",
+  "scripts": {
+    "snap": "tap",
+    "test": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/bin-links.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cmd-shim": "^6.0.0",
+    "npm-normalize-package-bin": "^3.0.0",
+    "read-cmd-shim": "^4.0.0",
+    "write-file-atomic": "^5.0.0"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.5.1",
+    "require-inject": "^1.4.4",
+    "tap": "^16.0.1"
+  },
+  "tap": {
+    "check-coverage": true,
+    "coverage-map": "map.js",
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "windowsCI": false,
+    "version": "4.5.1"
+  },
+  "gitHead": "9f424c46dbba96fcf659a252e67b59fb026db61d",
+  "_id": "bin-links@4.0.1",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-bmFEM39CyX336ZGGRsGPlc6jZHriIoHacOQcTt72MktIjpPhZoP4te2jOyUXF3BLILmJ8aNLncoPVeIIFlrDeA==",
+    "tarball": "https://registry.npmjs.org/bin-links/-/bin-links-4.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "bin-links",
+  "key": "bin-links/4.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bin-links",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-18pwOxMRd+gKtKGpldHCLq0UGra7D10SU8vSWPy1xAA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bin-links/-/bin-links-4.0.1.tgz"
+  }
+}

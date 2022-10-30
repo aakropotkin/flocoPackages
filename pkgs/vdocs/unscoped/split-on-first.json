@@ -1,0 +1,45 @@
+{
+  "name": "split-on-first",
+  "version": "3.0.0",
+  "description": "Split a string on the first occurance of a given separator",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/split-on-first.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "d6bf86163df4e6490b134c303477644a52736997",
+  "_id": "split-on-first@3.0.0",
+  "_nodeVersion": "15.12.0",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-qxQJTx2ryR0Dw0ITYyekNQWpz6f8dGd7vffGNflQQ3Iqj9NJ6qiZ7ELpZsJ/QBhIVAiDfXdag3+Gp8RvWa62AA==",
+    "tarball": "https://registry.npmjs.org/split-on-first/-/split-on-first-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "split-on-first",
+  "key": "split-on-first/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "split-on-first",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-75RqSpIfI9Sv4X2qU6vEXna1L5BmFUvMbIdEtHKI48A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/split-on-first/-/split-on-first-3.0.0.tgz"
+  }
+}

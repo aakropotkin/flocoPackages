@@ -1,0 +1,48 @@
+{
+  "name": "postcss-normalize-repeat-style",
+  "version": "5.1.1",
+  "description": "Convert two value syntax for repeat-style into one value.",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "postcss-value-parser": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssnano/cssnano.git"
+  },
+  "engines": {
+    "node": "^10 || ^12 || >=14.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "_id": "postcss-normalize-repeat-style@5.1.1",
+  "_integrity": "sha512-mFpLspGWkQtBcWIRFLmewo8aC3ImN2i/J3v8YCFUwDnPu3Xz4rLohDO26lGjwNsQxB3YF0KKRwspGzE2JEuS0g==",
+  "_resolved": "/tmp/da535e8b144da183f2977f8064b366ca/postcss-normalize-repeat-style-5.1.1.tgz",
+  "_from": "file:postcss-normalize-repeat-style-5.1.1.tgz",
+  "_nodeVersion": "18.4.0",
+  "_npmVersion": "8.12.2",
+  "dist": {
+    "integrity": "sha512-mFpLspGWkQtBcWIRFLmewo8aC3ImN2i/J3v8YCFUwDnPu3Xz4rLohDO26lGjwNsQxB3YF0KKRwspGzE2JEuS0g==",
+    "tarball": "https://registry.npmjs.org/postcss-normalize-repeat-style/-/postcss-normalize-repeat-style-5.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-normalize-repeat-style",
+  "key": "postcss-normalize-repeat-style/5.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-normalize-repeat-style",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Jsd+LVu4M0AbfEjH0bl+opNDkYOCtfFkEWxx9ug7NDo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-repeat-style/-/postcss-normalize-repeat-style-5.1.1.tgz"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "gulp-rename",
+  "version": "2.0.0",
+  "description": "Rename files",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hparra/gulp-rename.git"
+  },
+  "scripts": {
+    "pretest": "prettier --single-quote --write index.js test/**/*.js",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "map-stream": "^0.0.7",
+    "mocha": "^6.0.0",
+    "prettier": "^1.19.1",
+    "should": "^13.2.3",
+    "vinyl": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT",
+  "gitHead": "4020fb2991d0000bf46067f3002bff92b31de8b3",
+  "_id": "gulp-rename@2.0.0",
+  "_nodeVersion": "10.16.2",
+  "_npmVersion": "6.13.2",
+  "dist": {
+    "integrity": "sha512-97Vba4KBzbYmR5VBs9mWmK+HwIf5mj+/zioxfZhOKeXtx5ZjBk57KFlePf5nxq9QsTtFl0ejnHE3zTC9MHXqyQ==",
+    "tarball": "https://registry.npmjs.org/gulp-rename/-/gulp-rename-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "gulp-rename",
+  "key": "gulp-rename/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "gulp-rename",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-b8mxUyI4GSDTUo1BIX0+mBlQdqdCLiDUyP/MLPtSE/E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-rename/-/gulp-rename-2.0.0.tgz"
+  }
+}

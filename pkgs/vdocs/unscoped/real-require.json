@@ -1,0 +1,57 @@
+{
+  "name": "real-require",
+  "version": "0.2.0",
+  "description": "Keep require and import consistent after bundling or transpiling",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinojs/real-require.git"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "format": "prettier -w src test",
+    "lint": "eslint src test",
+    "test": "c8 --reporter=text --reporter=html tap --reporter=spec --no-coverage test/*.test.js",
+    "test:watch": "tap --watch --reporter=spec --no-browser --coverage-report=text --coverage-report=html test/*.test.js",
+    "test:ci": "c8 --reporter=text --reporter=json --check-coverage --branches 90 --functions 90 --lines 90 --statements 90 tap --no-color --no-coverage test/*.test.js",
+    "ci": "npm run lint && npm run test:ci",
+    "prepublishOnly": "npm run ci",
+    "postpublish": "git push origin && git push origin -f --tags"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "c8": "^7.10.0",
+    "prettier": "^2.4.1",
+    "tap": "^16.0.0"
+  },
+  "engines": {
+    "node": ">= 12.13.0"
+  },
+  "gitHead": "514f9d0ff860dd84a6cff52d89d437d5a5c3203b",
+  "_id": "real-require@0.2.0",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.14.0",
+  "dist": {
+    "integrity": "sha512-57frrGM/OCTLqLOAh0mhVA9VBMHd+9U7Zb2THMGdBUoZVOtGbJzjxsYGDJ3A9AYYCP4hn6y1TVbaOfzWtm5GFg==",
+    "tarball": "https://registry.npmjs.org/real-require/-/real-require-0.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "real-require",
+  "key": "real-require/0.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "real-require",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-25ly8znUpbKJyMT3EFDehweDn/urjhT2a6SlciMuPqQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/real-require/-/real-require-0.2.0.tgz"
+  }
+}

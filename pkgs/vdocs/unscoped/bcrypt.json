@@ -1,0 +1,57 @@
+{
+  "name": "bcrypt",
+  "description": "A bcrypt library for NodeJS.",
+  "main": "./bcrypt",
+  "version": "5.1.0",
+  "engines": {
+    "node": ">= 10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelektiv/node.bcrypt.js.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "npm ci --build-from-source && jest",
+    "install": "node-pre-gyp install --fallback-to-build"
+  },
+  "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.10",
+    "node-addon-api": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "binary": {
+    "module_name": "bcrypt_lib",
+    "module_path": "./lib/binding/napi-v{napi_build_version}",
+    "package_name": "{module_name}-v{version}-napi-v{napi_build_version}-{platform}-{arch}-{libc}.tar.gz",
+    "host": "https://github.com",
+    "remote_path": "kelektiv/node.bcrypt.js/releases/download/v{version}",
+    "napi_versions": [
+      3
+    ]
+  },
+  "gitHead": "fc225b11b2f6203b7d04665bc3e90d3d006bae7c",
+  "_id": "bcrypt@5.1.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-RHBS7HI5N5tEnGTmtR/pppX0mmDSBpQ4aCBsj7CEQfYXDcO74A8sIBYcJMuCsis2E81zDxeENYhv66oZwLiA+Q==",
+    "tarball": "https://registry.npmjs.org/bcrypt/-/bcrypt-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "bcrypt",
+  "key": "bcrypt/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bcrypt",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-YJQaCYMvNhr8LSfFltx/v4IzVXnKRVTJIwlw6JhlwFU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bcrypt/-/bcrypt-5.1.0.tgz"
+  }
+}

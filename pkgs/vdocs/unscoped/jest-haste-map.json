@@ -1,0 +1,67 @@
+{
+  "name": "jest-haste-map",
+  "version": "29.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/jest-haste-map"
+  },
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@jest/types": "^29.2.1",
+    "@types/graceful-fs": "^4.1.3",
+    "@types/node": "*",
+    "anymatch": "^3.0.3",
+    "fb-watchman": "^2.0.0",
+    "graceful-fs": "^4.2.9",
+    "jest-regex-util": "^29.2.0",
+    "jest-util": "^29.2.1",
+    "jest-worker": "^29.2.1",
+    "micromatch": "^4.0.4",
+    "walker": "^1.0.8",
+    "fsevents": "^2.3.2"
+  },
+  "devDependencies": {
+    "@jest/test-utils": "^29.2.1",
+    "@types/fb-watchman": "^2.0.0",
+    "@types/micromatch": "^4.0.1",
+    "slash": "^3.0.0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  },
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "gitHead": "4551c0fdd4d25b7206824957c7bcc6baf61e63bf",
+  "_id": "jest-haste-map@29.2.1",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-wF460rAFmYc6ARcCFNw4MbGYQjYkvjovb9GBT+W10Um8q5nHq98jD6fHZMDMO3tA56S8XnmNkM8GcA8diSZfnA==",
+    "tarball": "https://registry.npmjs.org/jest-haste-map/-/jest-haste-map-29.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "jest-haste-map",
+  "key": "jest-haste-map/29.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jest-haste-map",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MTPSriLYeCrD78Wfk8YK8HnbX0IMiQmhOHXQR74kx00=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-haste-map/-/jest-haste-map-29.2.1.tgz"
+  }
+}

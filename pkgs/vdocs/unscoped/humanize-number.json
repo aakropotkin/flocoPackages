@@ -1,0 +1,42 @@
+{
+  "name": "humanize-number",
+  "description": "Humanize a number (1000000 -> 1,000,000)",
+  "version": "0.0.2",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "component": {
+    "scripts": {
+      "humanize-number/index.js": "index.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/humanize-number.git"
+  },
+  "_id": "humanize-number@0.0.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/humanize-number/-/humanize-number-0.0.2.tgz",
+    "integrity": "sha512-un3ZAcNQGI7RzaWGZzQDH47HETM4Wrj6z6E4TId8Yeq9w5ZKUVB1nrT2jwFheTUjEmqcgTjXDc959jum+ai1kQ=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.3.14",
+  "ident": "humanize-number",
+  "key": "humanize-number/0.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "humanize-number",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9epD9ARDQPlMi1G4vEwH/DtR1KbDxzvojT0HcIaBG34=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/humanize-number/-/humanize-number-0.0.2.tgz"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "postcss-convert-values",
+  "version": "5.1.3",
+  "description": "Convert values with PostCSS (e.g. ms -> s)",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssnano/cssnano.git"
+  },
+  "dependencies": {
+    "browserslist": "^4.21.4",
+    "postcss-value-parser": "^4.2.0"
+  },
+  "engines": {
+    "node": "^10 || ^12 || >=14.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "_id": "postcss-convert-values@5.1.3",
+  "_integrity": "sha512-82pC1xkJZtcJEfiLw6UXnXVXScgtBrjlO5CBmuDQc+dlb88ZYheFsjTn40+zBVi3DkfF7iezO0nJUPLcJK3pvA==",
+  "_resolved": "/tmp/70e43c3cd60d7d945a77a951306876d5/postcss-convert-values-5.1.3.tgz",
+  "_from": "file:postcss-convert-values-5.1.3.tgz",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-82pC1xkJZtcJEfiLw6UXnXVXScgtBrjlO5CBmuDQc+dlb88ZYheFsjTn40+zBVi3DkfF7iezO0nJUPLcJK3pvA==",
+    "tarball": "https://registry.npmjs.org/postcss-convert-values/-/postcss-convert-values-5.1.3.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-convert-values",
+  "key": "postcss-convert-values/5.1.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-convert-values",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GgSKy/PwWL53Kym3MzfILOkiVjXekZKDNZWjYWi7LWw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-convert-values/-/postcss-convert-values-5.1.3.tgz"
+  }
+}

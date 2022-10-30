@@ -1,0 +1,80 @@
+{
+  "name": "defer-to-connect",
+  "version": "2.0.1",
+  "description": "The safe way to handle the `connect` socket event",
+  "main": "dist/source",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "build": "del-cli dist && tsc",
+    "prepare": "npm run build",
+    "test": "xo && tsc --noEmit && nyc ava",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szmarczak/defer-to-connect.git"
+  },
+  "xo": {
+    "extends": "xo-typescript",
+    "extensions": [
+      "ts"
+    ]
+  },
+  "devDependencies": {
+    "@ava/typescript": "^1.1.0",
+    "@sindresorhus/tsconfig": "^0.7.0",
+    "@types/node": "^13.5.0",
+    "@typescript-eslint/eslint-plugin": "^2.18.0",
+    "@typescript-eslint/parser": "^2.18.0",
+    "ava": "^3.2.0",
+    "coveralls": "^3.0.9",
+    "create-cert": "^1.0.6",
+    "del-cli": "^3.0.0",
+    "eslint-config-xo-typescript": "^0.24.1",
+    "nyc": "^15.0.0",
+    "p-event": "^4.1.0",
+    "typescript": "^3.7.5",
+    "xo": "^0.25.3"
+  },
+  "nyc": {
+    "include": [
+      "dist/source"
+    ],
+    "extension": [
+      ".ts"
+    ]
+  },
+  "ava": {
+    "typescript": {
+      "rewritePaths": {
+        "tests/": "dist/tests/"
+      }
+    }
+  },
+  "types": "dist/source/index.d.ts",
+  "gitHead": "d808957298521b7bb142a3e45f1c13016b26c762",
+  "_id": "defer-to-connect@2.0.1",
+  "_nodeVersion": "15.7.0",
+  "_npmVersion": "7.4.3",
+  "dist": {
+    "integrity": "sha512-4tvttepXG1VaYGrRibk5EwJd1t4udunSOVMdLSAL6mId1ix438oPwPZMALY41FCijukO1L0twNcGsdzS7dHgDg==",
+    "tarball": "https://registry.npmjs.org/defer-to-connect/-/defer-to-connect-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "defer-to-connect",
+  "key": "defer-to-connect/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "defer-to-connect",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5kgefOxD02A33S+fI8qQnhAVJE6BHh/NOCGEx+D1k6s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/defer-to-connect/-/defer-to-connect-2.0.1.tgz"
+  }
+}

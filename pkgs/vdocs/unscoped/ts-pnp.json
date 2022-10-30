@@ -1,0 +1,40 @@
+{
+  "name": "ts-pnp",
+  "version": "1.2.0",
+  "description": "plug'n'play resolver for TypeScript",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arcanis/ts-pnp.git"
+  },
+  "devDependencies": {
+    "typescript": "3.5.3"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "_id": "ts-pnp@1.2.0",
+  "dist": {
+    "integrity": "sha512-csd+vJOb/gkzvcCHgTGSChYpy5f1/XKNsmvBGO4JXS+z1v2HobugDz4s1IeFXM3wZB44uczs+eazB5Q/ccdhQw==",
+    "tarball": "https://registry.npmjs.org/ts-pnp/-/ts-pnp-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "ts-pnp",
+  "key": "ts-pnp/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ts-pnp",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lQXPlbkLyJzJVBWU2WbBM6s+kb1Hs7RR0IBEKBvTv4M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ts-pnp/-/ts-pnp-1.2.0.tgz"
+  }
+}

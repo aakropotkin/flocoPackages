@@ -1,0 +1,35 @@
+{
+  "name": "napi-macros",
+  "version": "2.0.0",
+  "description": "Set of utility macros to make writing N-API modules a little easier.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafintosh/napi-macros.git"
+  },
+  "license": "MIT",
+  "gitHead": "64475122e128fc62faa4272bce7eb45fd2a2c372",
+  "_id": "napi-macros@2.0.0",
+  "_nodeVersion": "10.16.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-A0xLykHtARfueITVDernsAWdtIMbOJgKgcluwENp3AlsKN/PloyO10HtmoqnFAQAcxPkgZN7wdfPfEd0zNGxbg==",
+    "tarball": "https://registry.npmjs.org/napi-macros/-/napi-macros-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "napi-macros",
+  "key": "napi-macros/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "napi-macros",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-soyWUJTO9L69AlvsVtRWU+HFrshTYhg8EoC+MvTCmCg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-2.0.0.tgz"
+  }
+}

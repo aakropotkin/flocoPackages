@@ -1,0 +1,49 @@
+{
+  "name": "get-port",
+  "version": "6.1.2",
+  "description": "Get an available port",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/get-port.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "ava": "^3.15.0",
+    "tsd": "^0.17.0",
+    "typescript": "^4.4.3",
+    "xo": "^0.45.0"
+  },
+  "sideEffects": false,
+  "types": "./index.d.ts",
+  "gitHead": "0760c987c17581395d4e30432881dcb0ca6ca94a",
+  "_id": "get-port@6.1.2",
+  "_nodeVersion": "14.19.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-BrGGraKm2uPqurfGVj/z97/zv8dPleC6x9JBNRTrDNtCkkRF4rPwrQXFgL7+I+q8QSdU4ntLQX2D7KIxSy8nGw==",
+    "tarball": "https://registry.npmjs.org/get-port/-/get-port-6.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "get-port",
+  "key": "get-port/6.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "get-port",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gRg1JOvWPndaSZlN41xWitJ6ut0OlbB0AemalH4QRAE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/get-port/-/get-port-6.1.2.tgz"
+  }
+}

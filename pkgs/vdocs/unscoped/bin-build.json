@@ -1,0 +1,58 @@
+{
+  "name": "bin-build",
+  "version": "3.0.0",
+  "description": "Easily build binaries",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/bin-build.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "decompress": "^4.0.0",
+    "download": "^6.2.2",
+    "execa": "^0.7.0",
+    "p-map-series": "^1.0.0",
+    "tempfile": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "del": "^3.0.0",
+    "nock": "^9.0.0",
+    "path-exists": "^3.0.0",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "gitHead": "29d579ed5a4dc4059bf34632afae747d608763c5",
+  "_id": "bin-build@3.0.0",
+  "_npmVersion": "5.0.3",
+  "_nodeVersion": "8.0.0",
+  "dist": {
+    "integrity": "sha512-jcUOof71/TNAI2uM5uoUaDq2ePcVBQ3R/qhxAz1rX7UfvduAL/RXD3jXzvn8cVcDJdGVkiR1shal3OH0ImpuhA==",
+    "tarball": "https://registry.npmjs.org/bin-build/-/bin-build-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "bin-build",
+  "key": "bin-build/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bin-build",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lJF4dXLHCyaJyInrZ40N1qFjEHgRdjFDhwqOu9e8UTI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bin-build/-/bin-build-3.0.0.tgz"
+  }
+}

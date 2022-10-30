@@ -1,0 +1,72 @@
+{
+  "name": "postcss-custom-selectors",
+  "description": "Use Custom Selectors in CSS",
+  "version": "6.0.3",
+  "license": "MIT",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "postcss-selector-parser": "^6.0.4"
+  },
+  "peerDependencies": {
+    "postcss": "^8.3"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs && node ../../.github/bin/generate-docs/readme.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.cjs && node .tape.mjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs && REWRITE_EXPECTS=true node .tape.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-custom-selectors"
+  },
+  "csstools": {
+    "cssdbId": "custom-selectors",
+    "exportName": "postcssCustomSelectors",
+    "humanReadableName": "PostCSS Custom Selectors",
+    "specUrl": "https://drafts.csswg.org/css-extensions/#custom-selectors"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "41789cfb8b0ab3b46bf721c76e08bf331818d171",
+  "_id": "postcss-custom-selectors@6.0.3",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-fgVkmyiWDwmD3JbpCmB45SvvlCD6z9CG6Ie6Iere22W5aHea6oWa7EM2bpnv2Fj3I94L3VbtvX9KqwSi5aFzSg==",
+    "tarball": "https://registry.npmjs.org/postcss-custom-selectors/-/postcss-custom-selectors-6.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-custom-selectors",
+  "key": "postcss-custom-selectors/6.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-custom-selectors",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mSZLER5O/VVRhBH16IPcCFKL1jTkvtdvKXoOFEomtmk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-custom-selectors/-/postcss-custom-selectors-6.0.3.tgz"
+  }
+}

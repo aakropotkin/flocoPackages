@@ -1,0 +1,46 @@
+{
+  "name": "require-all",
+  "description": "An easy way to require all files within a directory.",
+  "version": "3.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixge/node-require-all.git"
+  },
+  "files": [
+    "Changes.md",
+    "LICENSE",
+    "index.js",
+    "Readme.md"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "gitHead": "5c6c878dae8d63da77acd62789fb17300c190f7a",
+  "_id": "require-all@3.0.0",
+  "_shasum": "473d49704be310115ce124f77383b1ebd8671312",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.14.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/require-all/-/require-all-3.0.0.tgz",
+    "integrity": "sha512-jPGN876lc5exWYrMcgZSd7U42P0PmVQzxnQB13fCSzmyGnqQWW4WUz5DosZ/qe24hz+5o9lSvW2epBNZ1xa6Fw=="
+  },
+  "directories": {},
+  "ident": "require-all",
+  "key": "require-all/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "require-all",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-bTLwdk+CgvC6448X7yb4S8ixXCO7PcNSsUtaVwJGTAU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-all/-/require-all-3.0.0.tgz"
+  }
+}

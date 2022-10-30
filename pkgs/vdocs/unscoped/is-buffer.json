@@ -1,0 +1,48 @@
+{
+  "name": "is-buffer",
+  "description": "Determine if an object is a Buffer",
+  "version": "2.0.5",
+  "dependencies": {},
+  "devDependencies": {
+    "airtap": "^3.0.0",
+    "standard": "*",
+    "tape": "^5.0.1"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/is-buffer.git"
+  },
+  "scripts": {
+    "test": "standard && npm run test-node && npm run test-browser",
+    "test-browser": "airtap -- test/*.js",
+    "test-browser-local": "airtap --local -- test/*.js",
+    "test-node": "tape test/*.js"
+  },
+  "gitHead": "ec4bf3415108e8971375e6717ad63dde752faebf",
+  "_id": "is-buffer@2.0.5",
+  "_nodeVersion": "14.15.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-i2R6zNFDwgEHJyQUtJEk0XFi1i0dPFn/oqjK3/vPCcDeJvW5NQ83V8QbicfF1SupOaB0h8ntgBC2YiE7dfyctQ==",
+    "tarball": "https://registry.npmjs.org/is-buffer/-/is-buffer-2.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "is-buffer",
+  "key": "is-buffer/2.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-buffer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-t6PaOWkQDhJ5FpSNVhXO5P+BurY9F8QaRtuEOwLbBK8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-buffer/-/is-buffer-2.0.5.tgz"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "extend",
+  "version": "3.0.2",
+  "description": "Port of jQuery.extend for node.js and the browser",
+  "main": "index",
+  "scripts": {
+    "pretest": "npm run lint",
+    "test": "npm run tests-only",
+    "posttest": "npm run coverage-quiet",
+    "tests-only": "node test",
+    "coverage": "covert test/index.js",
+    "coverage-quiet": "covert test/index.js --quiet",
+    "lint": "npm run jscs && npm run eslint",
+    "jscs": "jscs *.js */*.js",
+    "eslint": "eslint *.js */*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmoon/node-extend.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@ljharb/eslint-config": "^12.2.1",
+    "covert": "^1.1.0",
+    "eslint": "^4.19.1",
+    "jscs": "^3.0.7",
+    "tape": "^4.9.1"
+  },
+  "license": "MIT",
+  "gitHead": "8d106d23931c0802e8b88188b0aac433e13358d9",
+  "_id": "extend@3.0.2",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.7.0",
+  "dist": {
+    "integrity": "sha512-fjquC59cD7CyW6urNXK0FBufkZcoiGG80wTuPujX590cB5Ttln20E2UB4S/WARVqhXffZl2LNgS+gQdPIIim/g==",
+    "tarball": "https://registry.npmjs.org/extend/-/extend-3.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "extend",
+  "key": "extend/3.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "extend",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-fMaYYzkBS/Ut/IEysYn5eAUvOswEP/rcpCah/joRGBM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/extend/-/extend-3.0.2.tgz"
+  }
+}

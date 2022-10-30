@@ -1,0 +1,41 @@
+{
+  "name": "caseless",
+  "version": "0.12.0",
+  "description": "Caseless object set/get/has, very useful when working with HTTP headers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeal/caseless.git"
+  },
+  "test": "node test.js",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "tape": "^2.10.2"
+  },
+  "gitHead": "af91df7878a8b53cf3dc2e9a086dc57ba8301649",
+  "_id": "caseless@0.12.0",
+  "_shasum": "1b681c21ff84033c826543090689420d187151dc",
+  "_from": ".",
+  "_npmVersion": "3.10.9",
+  "_nodeVersion": "6.9.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/caseless/-/caseless-0.12.0.tgz",
+    "integrity": "sha512-4tYFyifaFfGacoiObjJegolkwSU4xQNGbVgUiNYVUxbQ2x2lUsFvY4hVgVzGiIe6WLOPqycWXA40l+PWsxthUw=="
+  },
+  "ident": "caseless",
+  "key": "caseless/0.12.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "caseless",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PCMJPKAV5jgZK0X8JrkGO1eGAmPo6xvI+n0bH0mwC7o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/caseless/-/caseless-0.12.0.tgz"
+  }
+}

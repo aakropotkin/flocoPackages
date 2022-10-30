@@ -1,0 +1,72 @@
+{
+  "name": "map-cache",
+  "description": "Basic cache object for storing key-value pairs.",
+  "version": "0.2.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/map-cache.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.9",
+    "should": "^8.3.1"
+  },
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "config-cache",
+        "option-cache",
+        "cache-base"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "f36c7567cb85b50824db25a2a588c5f7b858823b",
+  "_id": "map-cache@0.2.2",
+  "_shasum": "c32abd0bd6525d9b051645bb4f26ac5dc98a0dbf",
+  "_from": ".",
+  "_npmVersion": "3.6.0",
+  "_nodeVersion": "5.5.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/map-cache/-/map-cache-0.2.2.tgz",
+    "integrity": "sha512-8y/eV9QQZCiyn1SprXSrCmqJN0yNRATe+PO8ztwqrvrbdRLA3eYJF0yaR0YayLWkMbsQSKWS9N2gPcGEc4UsZg=="
+  },
+  "directories": {},
+  "ident": "map-cache",
+  "key": "map-cache/0.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "map-cache",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-FaQFxQVI2Tw5FHpMfJ9pwYCkLD72lr/SftrYW+uM1/g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/map-cache/-/map-cache-0.2.2.tgz"
+  }
+}

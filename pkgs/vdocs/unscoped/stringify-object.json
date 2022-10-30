@@ -1,0 +1,54 @@
+{
+  "name": "stringify-object",
+  "version": "4.0.1",
+  "description": "Stringify an object/array like JSON.stringify just without all the double-quotes",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeoman/stringify-object.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "get-own-enumerable-property-symbols": "^3.0.2",
+    "is-obj": "^3.0.0",
+    "is-regexp": "^3.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "xo": "^0.44.0"
+  },
+  "xo": {
+    "ignores": [
+      "test/fixtures/*.js"
+    ]
+  },
+  "gitHead": "e6ef8e2aa276f79b86a04398df273d45e838a254",
+  "_id": "stringify-object@4.0.1",
+  "_nodeVersion": "14.17.5",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-qpV1FBpN0R1gDAhCHIU71SYGZb35Te+gOQbQ6lYRmVJT7pF1NB8mkHeEJvyYNiHXw+fB4KIbeIjQl1rgiIijiA==",
+    "tarball": "https://registry.npmjs.org/stringify-object/-/stringify-object-4.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "stringify-object",
+  "key": "stringify-object/4.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "stringify-object",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WGfMJVAI2f0SMtoJ8awiubuu+DYi1ky67v4hE3SThik=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-object/-/stringify-object-4.0.1.tgz"
+  }
+}

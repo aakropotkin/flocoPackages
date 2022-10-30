@@ -1,0 +1,50 @@
+{
+  "name": "human-signals",
+  "version": "4.2.0",
+  "type": "module",
+  "exports": "./build/src/main.js",
+  "main": "./build/src/main.js",
+  "types": "./build/src/main.d.ts",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "description": "Human-friendly process signals",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehmicky/human-signals.git"
+  },
+  "directories": {
+    "lib": "src",
+    "test": "test"
+  },
+  "devDependencies": {
+    "@ehmicky/dev-tasks": "^1.0.84",
+    "ajv": "^8.11.0",
+    "test-each": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=14.18.0"
+  },
+  "gitHead": "056bfaee1c5e4eae11c168795d75c8c18498548a",
+  "_id": "human-signals@4.2.0",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "8.17.0",
+  "dist": {
+    "integrity": "sha512-KdFG7tcDGNVR/qR6LUOiAlF5zNf99UEVmoRT+UnIaO1+tj3Cc4qozyuUmYvA6OtoDyb7HPo2A+SwFmNKAOgw2A==",
+    "tarball": "https://registry.npmjs.org/human-signals/-/human-signals-4.2.0.tgz"
+  },
+  "ident": "human-signals",
+  "key": "human-signals/4.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "human-signals",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Phoq59uNElrX/wZWxvmqwbFhE+Kt8JbZZaIYGCSmza0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/human-signals/-/human-signals-4.2.0.tgz"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "makeerror",
+  "description": "A library to make errors.",
+  "version": "1.0.12",
+  "license": "BSD-3-Clause",
+  "main": "lib/makeerror",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daaku/nodejs-makeerror.git"
+  },
+  "scripts": {
+    "test": "NODE_PATH=./lib mocha --ui exports"
+  },
+  "dependencies": {
+    "tmpl": "1.0.5"
+  },
+  "devDependencies": {
+    "mocha": "9.1.3"
+  },
+  "gitHead": "0b99c236bf5759a9195b8c8e27506828f4a6e1ea",
+  "_id": "makeerror@1.0.12",
+  "_nodeVersion": "16.11.1",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-JmqCvUhmt43madlpFzG4BQzG2Z3m6tvQDNKdClZnO3VbIudJYmxsT0FNJMeiB2+JTSlTQTSbU8QdesVmwJcmLg==",
+    "tarball": "https://registry.npmjs.org/makeerror/-/makeerror-1.0.12.tgz"
+  },
+  "directories": {},
+  "ident": "makeerror",
+  "key": "makeerror/1.0.12",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "makeerror",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Y6/jU8bj28DLOj5Uf0QjLIP0dguPlxkh3GnrVL+1w40=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/makeerror/-/makeerror-1.0.12.tgz"
+  }
+}

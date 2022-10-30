@@ -1,0 +1,49 @@
+{
+  "name": "fstream",
+  "description": "Advanced file system stream things",
+  "version": "1.0.12",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/fstream.git"
+  },
+  "main": "fstream.js",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.1.2",
+    "inherits": "~2.0.0",
+    "mkdirp": ">=0.5 0",
+    "rimraf": "2"
+  },
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tap": "^1.2.0"
+  },
+  "scripts": {
+    "test": "standard && tap examples/*.js"
+  },
+  "license": "ISC",
+  "gitHead": "42354590e23bb514eb5c869eea64406be2947c6c",
+  "_id": "fstream@1.0.12",
+  "_nodeVersion": "12.0.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-WvJ193OHa0GHPEL+AycEJgxvBEwyfRkN1vhjca23OaPVMCaLCXTd5qAu82AjTcgP1UJmytkOKb63Ypde7raDIg==",
+    "tarball": "https://registry.npmjs.org/fstream/-/fstream-1.0.12.tgz"
+  },
+  "directories": {},
+  "ident": "fstream",
+  "key": "fstream/1.0.12",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fstream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mdvcD768i4+MZafHxoTTvScfW6JriMVyn/NTDQS0zeg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fstream/-/fstream-1.0.12.tgz"
+  }
+}

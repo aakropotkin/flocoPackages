@@ -1,0 +1,35 @@
+{
+  "name": "lodash.clone",
+  "version": "4.5.0",
+  "description": "The lodash method `_.clone` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.clone@4.5.0",
+  "_shasum": "195870450f5a13192478df4bc3d23d2dea1907b6",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.clone/-/lodash.clone-4.5.0.tgz",
+    "integrity": "sha512-GhrVeweiTD6uTmmn5hV/lzgCQhccwReIVRLHp7LT4SopOjqEZ5BbX8b5WWEtAKasjmy8hR7ZPwsYlxRCku5odg=="
+  },
+  "ident": "lodash.clone",
+  "key": "lodash.clone/4.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.clone",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Vp8orbq+858lP+8TAeztMeX1I1TIkZOuAdMXCTq+TRs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.clone/-/lodash.clone-4.5.0.tgz"
+  }
+}

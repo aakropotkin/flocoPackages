@@ -1,0 +1,62 @@
+{
+  "name": "d3-brush",
+  "version": "3.0.0",
+  "description": "Select a one- or two-dimensional region using the mouse or touch.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3/d3-brush.git"
+  },
+  "license": "ISC",
+  "type": "module",
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-brush.min.js",
+  "unpkg": "dist/d3-brush.min.js",
+  "exports": {
+    "umd": "./dist/d3-brush.min.js",
+    "default": "./src/index.js"
+  },
+  "dependencies": {
+    "d3-dispatch": "1 - 3",
+    "d3-drag": "2 - 3",
+    "d3-interpolate": "1 - 3",
+    "d3-selection": "3",
+    "d3-transition": "3"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "mocha": "9",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c && git push",
+    "postpublish": "git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "ec2bce6f15074a9ead7f9a84c61335be51c123a3",
+  "_id": "d3-brush@3.0.0",
+  "_nodeVersion": "15.14.0",
+  "_npmVersion": "7.7.6",
+  "dist": {
+    "integrity": "sha512-ALnjWlVYkXsVIGlOsuWH1+3udkYFI48Ljihfnh8FZPF2QS9o+PzGLBslO0PjzVoHLZ2KCVgAM8NVkXPJB2aNnQ==",
+    "tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "d3-brush",
+  "key": "d3-brush/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "d3-brush",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-373h9J9+yJ4bq7xIu2QSbzKkcWorQ4H6kGSFLv+BSn8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-brush/-/d3-brush-3.0.0.tgz"
+  }
+}

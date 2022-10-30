@@ -1,0 +1,49 @@
+{
+  "name": "parent-module",
+  "version": "3.0.0",
+  "description": "Get the path of the parent module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/parent-module.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "callsites": "^4.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "execa": "^5.1.1",
+    "tsd": "^0.17.0",
+    "xo": "^0.45.0"
+  },
+  "gitHead": "e99192a8f6870dde49947643c7324a3797515de6",
+  "_id": "parent-module@3.0.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-zJXn5iKdXXUV51iC7O4nHiPs/eWnkd0obrHDlOKQ6/MafFrxljinW6hCkr0UTsAGq7B+NXT2wIfLshcD+5RvIw==",
+    "tarball": "https://registry.npmjs.org/parent-module/-/parent-module-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "parent-module",
+  "key": "parent-module/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "parent-module",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZZruUBfuJWwjrOF67QHYUS3khXbi76rGOylK4XvjHyg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parent-module/-/parent-module-3.0.0.tgz"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "wcwidth",
+  "version": "1.0.1",
+  "description": "Port of C's wcwidth() and wcswidth()",
+  "main": "index.js",
+  "dependencies": {
+    "defaults": "^1.0.3"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "license": "MIT",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoxley/wcwidth.git"
+  },
+  "gitHead": "5f7935f7df9d4146e001829ed14d1629ced210ba",
+  "_id": "wcwidth@1.0.1",
+  "_shasum": "f0b0dcf915bc5ff1528afadb2c0e17b532da2fe8",
+  "_from": ".",
+  "_npmVersion": "3.9.5",
+  "_nodeVersion": "5.10.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/wcwidth/-/wcwidth-1.0.1.tgz",
+    "integrity": "sha512-XHPEwS0q6TaxcvG85+8EYkbiCux2XtWG2mkc47Ng2A77BQu9+DqIOJldST4HgPkuea7dvKSj5VgX3P1d4rW8Tg=="
+  },
+  "ident": "wcwidth",
+  "key": "wcwidth/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "wcwidth",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DOhXTLlCkGwCsxYTRR7Ka9X/dlmPAt1ni3xGfULAyKI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/wcwidth/-/wcwidth-1.0.1.tgz"
+  }
+}

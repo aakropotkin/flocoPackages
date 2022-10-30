@@ -1,0 +1,52 @@
+{
+  "name": "relateurl",
+  "description": "Minify URLs by converting them from absolute to relative.",
+  "version": "0.2.7",
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stevenvachon/relateurl.git"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "uglify-js": "^2.7.0"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "scripts": {
+    "browserify": "browserify lib/ --standalone RelateUrl | uglifyjs --compress --mangle -o relateurl-browser.js",
+    "test": "mocha test/ --bail --reporter spec --check-leaks"
+  },
+  "files": [
+    "lib",
+    "license"
+  ],
+  "gitHead": "65498004d9663fc320c22ffe9204f3c2e59ab65a",
+  "_id": "relateurl@0.2.7",
+  "_shasum": "54dbf377e51440aca90a4cd274600d3ff2d888a9",
+  "_from": ".",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.3.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/relateurl/-/relateurl-0.2.7.tgz",
+    "integrity": "sha512-G08Dxvm4iDN3MLM0EsP62EDV9IuhXPR6blNz6Utcp7zyV3tr4HVNINt6MpaRWbxoOHT3Q7YN2P+jaHX8vUbgog=="
+  },
+  "directories": {},
+  "ident": "relateurl",
+  "key": "relateurl/0.2.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "relateurl",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8FWXnZINskTK3IyHVbW7F9cSedxwL9ZGONZQLeNhUU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/relateurl/-/relateurl-0.2.7.tgz"
+  }
+}

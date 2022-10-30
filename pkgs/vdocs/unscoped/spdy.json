@@ -1,0 +1,59 @@
+{
+  "name": "spdy",
+  "version": "4.0.2",
+  "description": "Implementation of the SPDY protocol on node.js.",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard",
+    "test": "mocha --reporter=spec test/*-test.js",
+    "coverage": "istanbul cover node_modules/.bin/_mocha -- --reporter=spec test/**/*-test.js"
+  },
+  "pre-commit": [
+    "lint",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/indutny/node-spdy.git"
+  },
+  "dependencies": {
+    "debug": "^4.1.0",
+    "handle-thing": "^2.0.0",
+    "http-deceiver": "^1.2.7",
+    "select-hose": "^2.0.0",
+    "spdy-transport": "^3.0.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.3",
+    "pre-commit": "^1.2.2",
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "main": "./lib/spdy",
+  "optionalDependencies": {},
+  "gitHead": "661b14a8db40a76a9a4842fc12ca8908f989cfd9",
+  "_id": "spdy@4.0.2",
+  "_nodeVersion": "13.9.0",
+  "_npmVersion": "6.13.7",
+  "dist": {
+    "integrity": "sha512-r46gZQZQV+Kl9oItvl1JZZqJKGr+oEkB08A6BzkiR7593/7IbtuncXHd2YoYeTsG4157ZssMu9KYvUHLcjcDoA==",
+    "tarball": "https://registry.npmjs.org/spdy/-/spdy-4.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "spdy",
+  "key": "spdy/4.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "spdy",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JNjkbkt1ExuDUi4tYmtWGjIUp++C5JOLq4P7PnpRuGE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/spdy/-/spdy-4.0.2.tgz"
+  }
+}

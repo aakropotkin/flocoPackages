@@ -1,0 +1,62 @@
+{
+  "name": "copy-props",
+  "version": "4.0.0",
+  "description": "Copy properties deeply between two objects.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/copy-prop.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "each-props": "^3.0.0",
+    "is-plain-object": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.5.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  },
+  "gitHead": "24f78f743b049900594ed92e580d3c63276c3119",
+  "_id": "copy-props@4.0.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-bVWtw1wQLzzKiYROtvNlbJgxgBYt2bMJpkCbKmXM3xyijvcjjWXEk5nyrrT3bgJ7ODb19ZohE2T0Y3FgNPyoTw==",
+    "tarball": "https://registry.npmjs.org/copy-props/-/copy-props-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "copy-props",
+  "key": "copy-props/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "copy-props",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-LolfaTFUFT5+WxX8bwqeO6MOhQQXonANImDirlNgi3k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/copy-props/-/copy-props-4.0.0.tgz"
+  }
+}

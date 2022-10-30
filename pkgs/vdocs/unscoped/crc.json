@@ -1,0 +1,160 @@
+{
+  "name": "crc",
+  "version": "4.1.1",
+  "description": "Module for calculating Cyclic Redundancy Check (CRC) for Node.js and the Browser.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgorbatchev/node-crc.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "types": "./mjs/index.d.ts",
+  "main": "./cjs-default-unwrap/index.js",
+  "module": "./mjs/index.js",
+  "exports": {
+    ".": {
+      "types": "./mjs/index.d.ts",
+      "import": "./mjs/index.js",
+      "require": "./cjs-default-unwrap/index.js"
+    },
+    "./crc16ccitt": {
+      "types": "./mjs/crc16ccitt.d.ts",
+      "import": "./mjs/crc16ccitt.js",
+      "require": "./cjs-default-unwrap/crc16ccitt.js"
+    },
+    "./calculators/crc16ccitt": {
+      "types": "./mjs/calculators/crc16ccitt.d.ts",
+      "import": "./mjs/calculators/crc16ccitt.js",
+      "require": "./cjs-default-unwrap/calculators/crc16ccitt.js"
+    },
+    "./crc16kermit": {
+      "types": "./mjs/crc16kermit.d.ts",
+      "import": "./mjs/crc16kermit.js",
+      "require": "./cjs-default-unwrap/crc16kermit.js"
+    },
+    "./calculators/crc16kermit": {
+      "types": "./mjs/calculators/crc16kermit.d.ts",
+      "import": "./mjs/calculators/crc16kermit.js",
+      "require": "./cjs-default-unwrap/calculators/crc16kermit.js"
+    },
+    "./crc16modbus": {
+      "types": "./mjs/crc16modbus.d.ts",
+      "import": "./mjs/crc16modbus.js",
+      "require": "./cjs-default-unwrap/crc16modbus.js"
+    },
+    "./calculators/crc16modbus": {
+      "types": "./mjs/calculators/crc16modbus.d.ts",
+      "import": "./mjs/calculators/crc16modbus.js",
+      "require": "./cjs-default-unwrap/calculators/crc16modbus.js"
+    },
+    "./crc16": {
+      "types": "./mjs/crc16.d.ts",
+      "import": "./mjs/crc16.js",
+      "require": "./cjs-default-unwrap/crc16.js"
+    },
+    "./calculators/crc16": {
+      "types": "./mjs/calculators/crc16.d.ts",
+      "import": "./mjs/calculators/crc16.js",
+      "require": "./cjs-default-unwrap/calculators/crc16.js"
+    },
+    "./crc16xmodem": {
+      "types": "./mjs/crc16xmodem.d.ts",
+      "import": "./mjs/crc16xmodem.js",
+      "require": "./cjs-default-unwrap/crc16xmodem.js"
+    },
+    "./calculators/crc16xmodem": {
+      "types": "./mjs/calculators/crc16xmodem.d.ts",
+      "import": "./mjs/calculators/crc16xmodem.js",
+      "require": "./cjs-default-unwrap/calculators/crc16xmodem.js"
+    },
+    "./crc1": {
+      "types": "./mjs/crc1.d.ts",
+      "import": "./mjs/crc1.js",
+      "require": "./cjs-default-unwrap/crc1.js"
+    },
+    "./calculators/crc1": {
+      "types": "./mjs/calculators/crc1.d.ts",
+      "import": "./mjs/calculators/crc1.js",
+      "require": "./cjs-default-unwrap/calculators/crc1.js"
+    },
+    "./crc24": {
+      "types": "./mjs/crc24.d.ts",
+      "import": "./mjs/crc24.js",
+      "require": "./cjs-default-unwrap/crc24.js"
+    },
+    "./calculators/crc24": {
+      "types": "./mjs/calculators/crc24.d.ts",
+      "import": "./mjs/calculators/crc24.js",
+      "require": "./cjs-default-unwrap/calculators/crc24.js"
+    },
+    "./crc32": {
+      "types": "./mjs/crc32.d.ts",
+      "import": "./mjs/crc32.js",
+      "require": "./cjs-default-unwrap/crc32.js"
+    },
+    "./calculators/crc32": {
+      "types": "./mjs/calculators/crc32.d.ts",
+      "import": "./mjs/calculators/crc32.js",
+      "require": "./cjs-default-unwrap/calculators/crc32.js"
+    },
+    "./crc81wire": {
+      "types": "./mjs/crc81wire.d.ts",
+      "import": "./mjs/crc81wire.js",
+      "require": "./cjs-default-unwrap/crc81wire.js"
+    },
+    "./calculators/crc81wire": {
+      "types": "./mjs/calculators/crc81wire.d.ts",
+      "import": "./mjs/calculators/crc81wire.js",
+      "require": "./cjs-default-unwrap/calculators/crc81wire.js"
+    },
+    "./crc8": {
+      "types": "./mjs/crc8.d.ts",
+      "import": "./mjs/crc8.js",
+      "require": "./cjs-default-unwrap/crc8.js"
+    },
+    "./calculators/crc8": {
+      "types": "./mjs/calculators/crc8.d.ts",
+      "import": "./mjs/calculators/crc8.js",
+      "require": "./cjs-default-unwrap/calculators/crc8.js"
+    },
+    "./crcjam": {
+      "types": "./mjs/crcjam.d.ts",
+      "import": "./mjs/crcjam.js",
+      "require": "./cjs-default-unwrap/crcjam.js"
+    },
+    "./calculators/crcjam": {
+      "types": "./mjs/calculators/crcjam.d.ts",
+      "import": "./mjs/calculators/crcjam.js",
+      "require": "./cjs-default-unwrap/calculators/crcjam.js"
+    }
+  },
+  "sideEffects": false,
+  "engines": {
+    "node": ">=12"
+  },
+  "peerDependencies": {
+    "buffer": ">=6.0.3"
+  },
+  "gitHead": "803df33b2bc65b4881fed34ee1e970d8f87a097a",
+  "_id": "crc@4.1.1",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-2U3ZqJ2phJl9ANuP2q5VS53LMpNmYU9vcpmh6nutJmsqUREhtWpTRh9yYxG7sDg3xkwaEEXytSeffTxw4cgwPg==",
+    "tarball": "https://registry.npmjs.org/crc/-/crc-4.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "crc",
+  "key": "crc/4.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "crc",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-r9lTXOmswNtxmJASUTXM+wgMJ1t21qxf7QiCAgJGGZw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/crc/-/crc-4.1.1.tgz"
+  }
+}

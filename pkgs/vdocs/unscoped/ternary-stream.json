@@ -1,0 +1,47 @@
+{
+  "name": "ternary-stream",
+  "description": "Fork stream based on passed condition, and collect down-stream",
+  "version": "3.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robrich/ternary-stream.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "duplexify": "^4.1.1",
+    "fork-stream": "^0.0.4",
+    "merge-stream": "^2.0.0",
+    "through2": "^3.0.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4",
+    "mocha": "^6.1.4",
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "mocha && jshint ."
+  },
+  "license": "MIT",
+  "gitHead": "446695284e098c3e42f3cc3bef50a3587cae0586",
+  "_id": "ternary-stream@3.0.0",
+  "_nodeVersion": "12.5.0",
+  "_npmVersion": "6.9.2",
+  "dist": {
+    "integrity": "sha512-oIzdi+UL/JdktkT+7KU5tSIQjj8pbShj3OASuvDEhm0NT5lppsm7aXWAmAq4/QMaBIyfuEcNLbAQA+HpaISobQ==",
+    "tarball": "https://registry.npmjs.org/ternary-stream/-/ternary-stream-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "ternary-stream",
+  "key": "ternary-stream/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ternary-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5FL8pwomvFLf524abxrGYuYdJLJpf6JT5HUtowMjjxU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ternary-stream/-/ternary-stream-3.0.0.tgz"
+  }
+}

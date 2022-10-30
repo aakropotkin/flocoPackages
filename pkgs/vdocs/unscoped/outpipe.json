@@ -1,0 +1,50 @@
+{
+  "name": "outpipe",
+  "version": "1.1.1",
+  "description": "write output to a file through shell commands",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "shell-quote": "^1.4.2"
+  },
+  "devDependencies": {
+    "gaze": "^0.5.1",
+    "minimist": "^1.1.0",
+    "osenv": "^0.1.0",
+    "tape": "^3.5.0",
+    "xtend": "^4.0.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/outpipe.git"
+  },
+  "license": "MIT",
+  "gitHead": "faedcfb71949809a448e5ff340d4803efb5f3a72",
+  "_id": "outpipe@1.1.1",
+  "_shasum": "50cf8616365e87e031e29a5ec9339a3da4725fa2",
+  "_from": ".",
+  "_npmVersion": "2.7.5",
+  "_nodeVersion": "1.6.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/outpipe/-/outpipe-1.1.1.tgz",
+    "integrity": "sha512-BnNY/RwnDrkmQdUa9U+OfN/Y7AWmKuUPCCd+hbRclZnnANvYpO72zp/a6Q4n829hPbdqEac31XCcsvlEvb+rtA=="
+  },
+  "ident": "outpipe",
+  "key": "outpipe/1.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "outpipe",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1mUGDykI3qiU4Q8q7paaNS4QypITx9b1gzusouxPgZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/outpipe/-/outpipe-1.1.1.tgz"
+  }
+}

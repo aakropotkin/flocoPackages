@@ -1,0 +1,65 @@
+{
+  "name": "hexlet-pairs",
+  "version": "1.0.8",
+  "description": "## Install",
+  "main": "dist/index.js",
+  "scripts": {
+    "documentation": "documentation",
+    "test": "jest --colors",
+    "build": "babel src --out-file dist/index.js --source-maps inline",
+    "eslint": "eslint",
+    "prepublishOnly": "npm run build",
+    "flow-typed": "flow-typed"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hexlet-components/js-pairs.git"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/register": "^7.0.0-beta.49",
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "@babel/preset-flow": "^7.0.0-beta.49",
+    "@babel/preset-stage-0": "^7.0.0-beta.49",
+    "babel-core": "^7.0.0-bridge.0",
+    "@babel/cli": "^7.0.0-beta.49",
+    "@babel/core": "^7.0.0-beta.49",
+    "babel-eslint": "^8.2.3",
+    "babel-jest": "^23.0.1",
+    "documentation": "^6.3.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "*",
+    "eslint-plugin-flowtype": "^2.46.3",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jest": "^21.15.1",
+    "jest": "^23.1.0",
+    "jest-cli": "^23.1.0"
+  },
+  "gitHead": "4e19a47ae849d9073731141df98cb10c3960bdeb",
+  "_id": "hexlet-pairs@1.0.8",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.4.0",
+  "dist": {
+    "integrity": "sha512-0U37uxYM71XJVfbryDeK5O9vg2mlaMz1RUScrRcf2mYJpwHSLBG/+yqpGDIZAq08kfQ6cLuEXFmP4MTl/MUVKA==",
+    "tarball": "https://registry.npmjs.org/hexlet-pairs/-/hexlet-pairs-1.0.8.tgz"
+  },
+  "directories": {},
+  "deprecated": "Package no longer supported. Use the new version @hexlet/pairs.",
+  "ident": "hexlet-pairs",
+  "key": "hexlet-pairs/1.0.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "hexlet-pairs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5JkLRR9XiDf5lEZgtCKNoa2B1H1Q7lnr1xeRjmz6t+o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hexlet-pairs/-/hexlet-pairs-1.0.8.tgz"
+  }
+}

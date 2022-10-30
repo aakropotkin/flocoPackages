@@ -1,0 +1,71 @@
+{
+  "name": "object.map",
+  "description": "Similar to map for arrays, this creates a new object by calling the callback on each property of the original object.",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/object.map.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "for-own": "^1.0.0",
+    "make-iterator": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11",
+    "mocha": "^3.2.0"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "arr-map",
+        "array-each",
+        "collection-map"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "10c1cd70264a65adcbce14ca0f6b718d448e055a",
+  "_id": "object.map@1.0.1",
+  "_shasum": "cf83e59dc8fcc0ad5f4250e1f78b3b81bd801d37",
+  "_from": ".",
+  "_npmVersion": "2.15.1",
+  "_nodeVersion": "0.10.48",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/object.map/-/object.map-1.0.1.tgz",
+    "integrity": "sha512-3+mAJu2PLfnSVGHwIWubpOFLscJANBKuB/6A4CxBstc4aqwQY0FWcsppuy4jU5GSB95yES5JHSI+33AWuS4k6w=="
+  },
+  "ident": "object.map",
+  "key": "object.map/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "object.map",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-F4zWV5BOoKZbFA3CBtu18lGMMYP3rdzW3BnJyyXVRRg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object.map/-/object.map-1.0.1.tgz"
+  }
+}

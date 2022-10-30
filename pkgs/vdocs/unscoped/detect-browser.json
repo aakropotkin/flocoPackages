@@ -1,0 +1,64 @@
+{
+  "name": "detect-browser",
+  "version": "5.3.0",
+  "description": "Unpack a browser type and version from the useragent string",
+  "main": "index.js",
+  "module": "es/index.js",
+  "types": "index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "pretest": "tsc",
+    "test": "node test",
+    "lint": "tslint -c tslint.json src/**",
+    "compile": "npm-run-all -p compile:commonjs compile:es",
+    "compile:commonjs": "tsc",
+    "compile:es": "rimraf es && tsc --outDir es --module es6 --declaration false",
+    "compile-and-size": "yarn tsc && cat index.js | gzip | wc -c",
+    "prepare": "npm-run-all compile test lint",
+    "patch-release": "npm version patch && npm publish && npm run postpublish",
+    "minor-release": "npm version minor && npm publish && npm run postpublish",
+    "major-release": "npm version major && npm publish && npm run postpublish",
+    "postpublish": "git push origin master --follow-tags",
+    "autoformat": "prettier --write src/** test/**",
+    "gendocs": "embellish README.md"
+  },
+  "stability": "stable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamonOehlman/detect-browser.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.9.1",
+    "embellish-readme": "^1.7.2",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^1.18.2",
+    "rimraf": "^3.0.2",
+    "semver": "^7.1.3",
+    "tape": "^4.11.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.4.3"
+  },
+  "gitHead": "546e6f1348375d8a486f21da07b20717267f6c49",
+  "_id": "detect-browser@5.3.0",
+  "_nodeVersion": "14.17.1",
+  "_npmVersion": "7.18.1",
+  "dist": {
+    "integrity": "sha512-53rsFbGdwMwlF7qvCt0ypLM5V5/Mbl0szB7GPN8y9NCcbknYOeVVXdrXEq+90IwAfrrzt6Hd+u2E2ntakICU8w==",
+    "tarball": "https://registry.npmjs.org/detect-browser/-/detect-browser-5.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "detect-browser",
+  "key": "detect-browser/5.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "detect-browser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-f1R1CQ9QtQGs0rp7LERZaUzfjRp+p3ss6KrHmeTRA/A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/detect-browser/-/detect-browser-5.3.0.tgz"
+  }
+}

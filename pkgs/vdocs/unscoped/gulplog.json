@@ -1,0 +1,62 @@
+{
+  "name": "gulplog",
+  "version": "2.0.1",
+  "description": "Logger for gulp and gulp plugins",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/gulplog.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "glogg": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.3.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "b08f61b220a021b7a8cf1443b908e8832f237c73",
+  "_id": "gulplog@2.0.1",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-11IFA5ZwhFUjXPNYxrk9Z5FWGQIzJzxrBCE4qZC2elFkwt6oamM1ESwZVrhFMLl5IVlhnMwleFEWxiEyuMndIg==",
+    "tarball": "https://registry.npmjs.org/gulplog/-/gulplog-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "gulplog",
+  "key": "gulplog/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "gulplog",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WbA6JpDSjg1uEEnzAmJ3BPhZEPDt5H81eBkQ1/79fVE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulplog/-/gulplog-2.0.1.tgz"
+  }
+}

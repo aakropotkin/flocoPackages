@@ -1,0 +1,45 @@
+{
+  "name": "escape-goat",
+  "version": "4.0.0",
+  "description": "Escape a string for use in HTML or the inverse",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/escape-goat.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "d4a65160f9dfd2ca17b5e1c19811d1f6cb9c786f",
+  "_id": "escape-goat@4.0.0",
+  "_nodeVersion": "14.16.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-2Sd4ShcWxbx6OY1IHyla/CVNwvg7XwZVoXZHcSu9w9SReNP1EzzD5T8NWKIR38fIqEns9kDWKUQTXXAmlDrdPg==",
+    "tarball": "https://registry.npmjs.org/escape-goat/-/escape-goat-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "escape-goat",
+  "key": "escape-goat/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "escape-goat",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-YTEI2OzoO9opnrKfQr9fQ0mDZWFcRXYbxNWi70jqtcU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/escape-goat/-/escape-goat-4.0.0.tgz"
+  }
+}

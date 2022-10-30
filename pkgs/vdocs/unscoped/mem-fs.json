@@ -1,0 +1,52 @@
+{
+  "name": "mem-fs",
+  "version": "2.2.1",
+  "description": "Simple in-memory vinyl file store",
+  "scripts": {
+    "test": "tsc && mocha && tsc -b ./type-test/tsconfig.build.json",
+    "prepare": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBoudrias/mem-fs.git"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@types/node": "^15.6.1",
+    "@types/vinyl": "^2.0.4",
+    "vinyl": "^2.0.1",
+    "vinyl-file": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/vinyl-file": "^3.0.0",
+    "mocha": "^8.3.2",
+    "typescript": "^4.2.4"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "b7e947accf3440799f835d78c1b0cd8141cffc71",
+  "_id": "mem-fs@2.2.1",
+  "_nodeVersion": "16.1.0",
+  "_npmVersion": "7.11.2",
+  "dist": {
+    "integrity": "sha512-yiAivd4xFOH/WXlUi6v/nKopBh1QLzwjFi36NK88cGt/PRXI8WeBASqY+YSjIVWvQTx3hR8zHKDBMV6hWmglNA==",
+    "tarball": "https://registry.npmjs.org/mem-fs/-/mem-fs-2.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "mem-fs",
+  "key": "mem-fs/2.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mem-fs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mbHoK95q2S1Yf3/yEnlLB/vsedVvF2mJGofij/Uqo8w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mem-fs/-/mem-fs-2.2.1.tgz"
+  }
+}

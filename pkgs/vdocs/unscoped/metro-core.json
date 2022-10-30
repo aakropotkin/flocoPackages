@@ -1,0 +1,41 @@
+{
+  "name": "metro-core",
+  "version": "0.73.3",
+  "description": "🚇 Metro's core package.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/facebook/metro.git"
+  },
+  "scripts": {
+    "prepare-release": "test -d build && rm -rf src.real && mv src src.real && mv build src",
+    "cleanup-release": "test ! -e build && mv src build && mv src.real src"
+  },
+  "dependencies": {
+    "lodash.throttle": "^4.1.1",
+    "metro-resolver": "0.73.3"
+  },
+  "license": "MIT",
+  "gitHead": "a09e07fb91addee7a29ab70b78c143f1f8e8c7bc",
+  "_id": "metro-core@0.73.3",
+  "_nodeVersion": "16.18.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-wsW2XyWU9QtWnNMrUIDnoTIKDHBvKa/uupY+91gYV9l6glKboP1F8AD0mpzNwFqOXtx48jm7iDa7xzEY25bgcA==",
+    "tarball": "https://registry.npmjs.org/metro-core/-/metro-core-0.73.3.tgz"
+  },
+  "directories": {},
+  "ident": "metro-core",
+  "key": "metro-core/0.73.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "metro-core",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+D4maCceib3l1DnoRIyQwGQU2Rl4FSyV/K+Omu99SJo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/metro-core/-/metro-core-0.73.3.tgz"
+  }
+}

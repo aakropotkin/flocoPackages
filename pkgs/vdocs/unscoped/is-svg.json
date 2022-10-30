@@ -1,0 +1,49 @@
+{
+  "name": "is-svg",
+  "version": "4.3.2",
+  "description": "Check if a string or buffer is SVG",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-svg.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^3.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.0",
+    "ava": "^1.4.1",
+    "time-span": "^4.0.0",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "d01521d9a12327a7e0e4f670ed8401710dc7f191",
+  "_id": "is-svg@4.3.2",
+  "_nodeVersion": "14.17.5",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-mM90duy00JGMyjqIVHu9gNTjywdZV+8qNasX8cm/EEYZ53PHDgajvbBwNVvty5dwSAxLUD3p3bdo+7sR/UMrpw==",
+    "tarball": "https://registry.npmjs.org/is-svg/-/is-svg-4.3.2.tgz"
+  },
+  "directories": {},
+  "ident": "is-svg",
+  "key": "is-svg/4.3.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-svg",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-vdzmuzAxAFDrMVlgvKifxTcnTsaHjM0FlQh2SD9IU3o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-svg/-/is-svg-4.3.2.tgz"
+  }
+}

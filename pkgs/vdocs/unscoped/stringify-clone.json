@@ -1,0 +1,45 @@
+{
+  "version": "3.0.0",
+  "name": "stringify-clone",
+  "description": "Wrapper for fast object cloning using `JSON.parse` & `JSON.stringify`",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadnassri/node-stringify-clone.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tap test --no-coverage",
+    "test:watch": "tap test --watch",
+    "test:ci": "tap test --100",
+    "test:report": "opener coverage/lcov-report/index.html"
+  },
+  "devDependencies": {
+    "tap": "^16.3.0"
+  },
+  "gitHead": "cd44e232e5ca507ecf76d2c4e25608cccbcbd7d9",
+  "_id": "stringify-clone@3.0.0",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-1nZcyfgxDyBVimKIPz60Eb9lNVZdaTmdylCkhheeB++um+w97x3P0kSx9aBz4ZVpoZ6UqSqZf6z/LVbV6rQ0nA==",
+    "tarball": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "stringify-clone",
+  "key": "stringify-clone/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "stringify-clone",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-/SJGFu+3SWySXGPszUPcPV82GbwxmV8PUyKRhnulros=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-3.0.0.tgz"
+  }
+}

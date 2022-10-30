@@ -1,0 +1,39 @@
+{
+  "name": "shortid",
+  "version": "2.2.16",
+  "description": "Amazingly short non-sequential url-friendly unique id generator.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylang/shortid.git"
+  },
+  "browser": {
+    "./lib/random/random-byte.js": "./lib/random/random-byte-browser.js",
+    "./lib/util/cluster-worker-id.js": "./lib/util/cluster-worker-id-browser.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nanoid": "^2.1.0"
+  },
+  "_id": "shortid@2.2.16",
+  "_nodeVersion": "14.14.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-Ugt+GIZqvGXCIItnsL+lvFJOiN7RYqlGy7QE41O3YC1xbNSeDGIRO7xg2JJXIAj1cAGnOeC1r7/T9pgrtQbv4g==",
+    "tarball": "https://registry.npmjs.org/shortid/-/shortid-2.2.16.tgz"
+  },
+  "directories": {},
+  "ident": "shortid",
+  "key": "shortid/2.2.16",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "shortid",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UoMiZnN1vb3WLUTxXBddwEcYzoUDU/GPuqy5EcdWc9U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/shortid/-/shortid-2.2.16.tgz"
+  }
+}

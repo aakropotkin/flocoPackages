@@ -1,0 +1,40 @@
+{
+  "name": "tty-browserify",
+  "version": "0.0.1",
+  "description": "the tty module from node core for browsers",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browserify/tty-browserify.git"
+  },
+  "license": "MIT",
+  "gitHead": "7e46e4796eeb123b05b9637b5a3e68e96252632b",
+  "_id": "tty-browserify@0.0.1",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.4.0",
+  "dist": {
+    "integrity": "sha512-C3TaO7K81YvjCgQH9Q1S3R3P3BtN3RIM8n+OvX4il1K1zgE8ZhI0op7kClgkxtutIE8hQrcrHBXvIheqKUUCxw==",
+    "tarball": "https://registry.npmjs.org/tty-browserify/-/tty-browserify-0.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "tty-browserify",
+  "key": "tty-browserify/0.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "tty-browserify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-YbW0KVweZ8mvhCOtKu5sGY1J4B0lojHQvQrLCUo4QMs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tty-browserify/-/tty-browserify-0.0.1.tgz"
+  }
+}

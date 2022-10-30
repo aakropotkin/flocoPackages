@@ -1,0 +1,43 @@
+{
+  "name": "revalidator",
+  "version": "0.3.1",
+  "description": "A cross-browser / node.js validator powered by JSON Schema",
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/flatiron/revalidator.git"
+  },
+  "devDependencies": {
+    "vows": "0.8.x"
+  },
+  "main": "./lib/revalidator",
+  "scripts": {
+    "test": "vows test/*-test.js --spec"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "gitHead": "76cabc41759b769cb097ef9fc9156031ca49fec3",
+  "_id": "revalidator@0.3.1",
+  "_shasum": "ff2cc4cf7cc7c6385ac710178276e6dbcd03762f",
+  "_from": ".",
+  "_npmVersion": "2.1.9",
+  "_nodeVersion": "0.10.33",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/revalidator/-/revalidator-0.3.1.tgz",
+    "integrity": "sha512-orq+Nw+V5pDpQwGEuN2n1AgJ+0A8WqhFHKt5KgkxfAowUKgO1CWV32IR3TNB4g9/FX3gJt9qBJO8DYlwonnB0Q=="
+  },
+  "ident": "revalidator",
+  "key": "revalidator/0.3.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "revalidator",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gfPXrGw7MyPmJAEm2GkTh1e/SEX7IkSCjQhCeCnaUcM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/revalidator/-/revalidator-0.3.1.tgz"
+  }
+}

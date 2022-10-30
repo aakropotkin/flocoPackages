@@ -1,0 +1,40 @@
+{
+  "name": "metro-cache-key",
+  "version": "0.73.3",
+  "description": "🚇 Cache key utility.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/facebook/metro.git"
+  },
+  "scripts": {
+    "prepare-release": "test -d build && rm -rf src.real && mv src src.real && mv build src",
+    "cleanup-release": "test ! -e build && mv src build && mv src.real src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "metro-memory-fs": "0.73.3"
+  },
+  "gitHead": "a09e07fb91addee7a29ab70b78c143f1f8e8c7bc",
+  "_id": "metro-cache-key@0.73.3",
+  "_nodeVersion": "16.18.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-LsP8aZr/LJuw428hNAQHKJkL7N3RvYcHcG6kbUXUfRqwOsoE4q6C8kXebtm+5+fbNduNVzHjEBIQM2uFUctMow==",
+    "tarball": "https://registry.npmjs.org/metro-cache-key/-/metro-cache-key-0.73.3.tgz"
+  },
+  "directories": {},
+  "ident": "metro-cache-key",
+  "key": "metro-cache-key/0.73.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "metro-cache-key",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-jeJ3qSylC8T0OESxP9ADK2a46HrtHlJrXGv5CEq7rkM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/metro-cache-key/-/metro-cache-key-0.73.3.tgz"
+  }
+}

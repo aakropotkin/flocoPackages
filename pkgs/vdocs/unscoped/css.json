@@ -1,0 +1,48 @@
+{
+  "name": "css",
+  "version": "3.0.0",
+  "description": "CSS parser / stringifier",
+  "main": "index",
+  "dependencies": {
+    "inherits": "^2.0.4",
+    "source-map": "^0.6.1",
+    "source-map-resolve": "^0.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "should": "^13.2.3",
+    "matcha": "^0.7.0",
+    "bytes": "^3.1.0"
+  },
+  "scripts": {
+    "benchmark": "matcha",
+    "test": "mocha --require should --reporter spec test/*.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reworkcss/css.git"
+  },
+  "gitHead": "838d0719889780c85ad1f7e4534df3daa2fb2f8d",
+  "_id": "css@3.0.0",
+  "_npmVersion": "6.0.1",
+  "_nodeVersion": "8.0.0",
+  "dist": {
+    "integrity": "sha512-DG9pFfwOrzc+hawpmqX/dHYHJG+Bsdb0klhyi1sDneOgGOXy9wQIC8hzyVp1e4NRYDBdxcylvywPkkXCHAzTyQ==",
+    "tarball": "https://registry.npmjs.org/css/-/css-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "css",
+  "key": "css/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "css",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3evXsYBOSdtGkhdIZWlf7Hp6IpbfEwIGazGMMKJpwEs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/css/-/css-3.0.0.tgz"
+  }
+}

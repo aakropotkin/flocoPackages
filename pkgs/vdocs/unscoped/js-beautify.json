@@ -1,0 +1,67 @@
+{
+  "name": "js-beautify",
+  "version": "1.14.7",
+  "description": "beautifier.io for node",
+  "main": "js/index.js",
+  "bin": {
+    "css-beautify": "js/bin/css-beautify.js",
+    "html-beautify": "js/bin/html-beautify.js",
+    "js-beautify": "js/bin/js-beautify.js"
+  },
+  "directories": {
+    "lib": "js/lib",
+    "test": "js/test"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beautify-web/js-beautify.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "browserslist": "ie 11",
+  "dependencies": {
+    "config-chain": "^1.1.13",
+    "editorconfig": "^0.15.3",
+    "glob": "^8.0.3",
+    "nopt": "^6.0.0"
+  },
+  "devDependencies": {
+    "ansi-regex": "^6.0.1",
+    "benchmark": "^2.1.4",
+    "codemirror": "^5.65.2",
+    "jquery": "^3.6.0",
+    "jshint": "^2.13.4",
+    "minimist": "^1.2.6",
+    "mocha": "^10.0.0",
+    "mustache": "^4.2.0",
+    "requirejs": "^2.3.6",
+    "serve": "^14.0.1",
+    "strip-ansi": "^7.0.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "gitHead": "01c1c8982ce172ea251db832e4f5e385fb986ee1",
+  "_id": "js-beautify@1.14.7",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-5SOX1KXPFKx+5f6ZrPsIPEY7NwKeQz47n3jm2i+XeHx9MoRsfQenlOP13FQhWvg8JRS0+XLO6XYUQ2GX+q+T9A==",
+    "tarball": "https://registry.npmjs.org/js-beautify/-/js-beautify-1.14.7.tgz"
+  },
+  "ident": "js-beautify",
+  "key": "js-beautify/1.14.7",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "js-beautify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-OftgNUHzOQIy5P6JlalSL/dcHJwzuPtJeVs253m1TrE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js-beautify/-/js-beautify-1.14.7.tgz"
+  }
+}

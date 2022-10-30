@@ -1,0 +1,49 @@
+{
+  "name": "jest-leak-detector",
+  "version": "29.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/jest-leak-detector"
+  },
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "jest-get-type": "^29.2.0",
+    "pretty-format": "^29.2.1"
+  },
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "gitHead": "4551c0fdd4d25b7206824957c7bcc6baf61e63bf",
+  "description": "Module for verifying whether an object has been garbage collected or not.",
+  "_id": "jest-leak-detector@29.2.1",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-1YvSqYoiurxKOJtySc+CGVmw/e1v4yNY27BjWTVzp0aTduQeA7pdieLiW05wTYG/twlKOp2xS/pWuikQEmklug==",
+    "tarball": "https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-29.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "jest-leak-detector",
+  "key": "jest-leak-detector/29.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jest-leak-detector",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-RtGiXiJcwml/KVk3CLMhkNCHCZ7ouUJDP7OZ7zfBzsI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-29.2.1.tgz"
+  }
+}

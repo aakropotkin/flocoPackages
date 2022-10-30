@@ -1,0 +1,51 @@
+{
+  "name": "passport-local",
+  "version": "1.0.0",
+  "description": "Local username and password authentication strategy for Passport.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/passport-local.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-strategy": "1.x.x"
+  },
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "chai": "1.x.x",
+    "chai-passport-strategy": "0.1.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js"
+  },
+  "_id": "passport-local@1.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/passport-local/-/passport-local-1.0.0.tgz",
+    "integrity": "sha512-9wCE6qKznvf9mQYYbgJ3sVOHmCWoUNMVFoZzNoznmISbhnNNPhN9xfY3sLmScHMetEJeoY7CXwfhCe7argfQow=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.2.25",
+  "directories": {},
+  "ident": "passport-local",
+  "key": "passport-local/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "passport-local",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zOyXPtBsKZ7AlRNhZ5SU6iQkm3XoMa2OSO7qlg/pI6g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/passport-local/-/passport-local-1.0.0.tgz"
+  }
+}

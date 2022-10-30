@@ -1,0 +1,48 @@
+{
+  "name": "semver-diff",
+  "version": "4.0.0",
+  "description": "Get the diff type of two semver versions: 0.0.1 0.0.2 → patch",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/semver-diff.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "semver": "^7.3.5"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.39.1"
+  },
+  "gitHead": "1f2ac09e19213122094b9c49c7ac9bf4089da93b",
+  "_id": "semver-diff@4.0.0",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-0Ju4+6A8iOnpL/Thra7dZsSlOHYAHIeMxfhWQRI1/VLcT3WDBZKKtQt/QkBOsiIN9ZpuvHE6cGZ0x4glCMmfiA==",
+    "tarball": "https://registry.npmjs.org/semver-diff/-/semver-diff-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "semver-diff",
+  "key": "semver-diff/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "semver-diff",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-KLYa0xbXAvcOSPD4LNqmMQpBS9ahCaGoZGMAyu0qevU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/semver-diff/-/semver-diff-4.0.0.tgz"
+  }
+}

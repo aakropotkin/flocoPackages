@@ -1,0 +1,47 @@
+{
+  "name": "base64url",
+  "version": "3.0.1",
+  "description": "For encoding to/from base64urls",
+  "main": "index.js",
+  "types": "./dist/base64url.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -f dist/*",
+    "test": "npm run clean && npm run build && tap test/*.test.js",
+    "prepublishOnly": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianloveswords/base64url.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.0.0",
+    "tap": "^12.1.0"
+  },
+  "gitHead": "a79519a6c1dc14b6a7c9f3b697013f62767cf2c6",
+  "_id": "base64url@3.0.1",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "11.1.0",
+  "dist": {
+    "integrity": "sha512-ir1UPr3dkwexU7FdV8qBBbNDRUhMmIekYMFZfi+C/sLNnRESKPl23nB9b2pltqfOQNnGzsDdId90AEtG5tCx4A==",
+    "tarball": "https://registry.npmjs.org/base64url/-/base64url-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "base64url",
+  "key": "base64url/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "base64url",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-SSQ9qq8TE9xkYKurBeTYyLgxSQKV+007gf3GpA5Oc+o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/base64url/-/base64url-3.0.1.tgz"
+  }
+}

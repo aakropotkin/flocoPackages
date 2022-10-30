@@ -1,0 +1,76 @@
+{
+  "name": "npm-packlist",
+  "version": "7.0.2",
+  "description": "Get a list of the files to add from a folder into an npm package",
+  "directories": {
+    "test": "test"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "ignore-walk": "^6.0.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@npmcli/arborist": "^6.0.0 || ^6.0.0-pre.0",
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.7.1",
+    "mutate-fs": "^2.1.1",
+    "tap": "^16.0.1"
+  },
+  "scripts": {
+    "test": "tap",
+    "posttest": "npm run lint",
+    "snap": "tap",
+    "postsnap": "npm run lintfix --",
+    "eslint": "eslint",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "npmclilint": "npmcli-lint",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npm-packlist.git"
+  },
+  "tap": {
+    "test-env": [
+      "LC_ALL=sk"
+    ],
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ],
+    "files": [
+      "test/*.js"
+    ]
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.7.1"
+  },
+  "gitHead": "ef63396bd88233dadbd1b63676067433f60ccde1",
+  "_id": "npm-packlist@7.0.2",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "9.0.0",
+  "dist": {
+    "integrity": "sha512-d2+7RMySjVXssww23rV5NuIq1NzGvM04OlI5kwnvtYKfFTAPVs6Zxmxns2HRtJEA1oNj7D/BbFXeVAOLmW3N3Q==",
+    "tarball": "https://registry.npmjs.org/npm-packlist/-/npm-packlist-7.0.2.tgz"
+  },
+  "ident": "npm-packlist",
+  "key": "npm-packlist/7.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "npm-packlist",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-u2XT1bNfEZ+oUR4CUOoaOl6PNlpc6IXtF6b4ByIm2qY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/npm-packlist/-/npm-packlist-7.0.2.tgz"
+  }
+}

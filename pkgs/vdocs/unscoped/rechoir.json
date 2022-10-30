@@ -1,0 +1,60 @@
+{
+  "name": "rechoir",
+  "version": "0.8.0",
+  "description": "Prepare a node environment to require files with different extensions.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/rechoir.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "rm -rf tmp/ && npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "resolve": "^1.20.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-gulp": "^5.0.1",
+    "expect": "^27.0.0",
+    "mocha": "^8.3.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "1880cbb697c5027855a60c169202a2d8a03ce739",
+  "_id": "rechoir@0.8.0",
+  "_nodeVersion": "14.15.4",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-/vxpCXddiX8NGfGO/mTafwjq4aFa/71pvamip0++IQk3zG8cbCj0fifNPrjjF1XMXUne91jL9OoxmdykoEtifQ==",
+    "tarball": "https://registry.npmjs.org/rechoir/-/rechoir-0.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "rechoir",
+  "key": "rechoir/0.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "rechoir",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-RDytYpTJwzOgfsy9/AfMTyG8vxp7u3VmNX6wiktfI5o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rechoir/-/rechoir-0.8.0.tgz"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "grunt-contrib-uglify",
+  "description": "Minify JavaScript files with UglifyJS",
+  "version": "5.2.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruntjs/grunt-contrib-uglify.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "main": "tasks/uglify.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "maxmin": "^3.0.0",
+    "uglify-js": "^3.16.1",
+    "uri-path": "^1.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.5.2",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-internal": "^7.0.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-nodeunit": "^4.0.0"
+  },
+  "appveyor_id": "ybtf5vbvtenii561",
+  "gitHead": "4a73c8aad6d937438d0ef7150576ed5281a68564",
+  "_id": "grunt-contrib-uglify@5.2.2",
+  "_nodeVersion": "14.6.0",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-ITxiWxrjjP+RZu/aJ5GLvdele+sxlznh+6fK9Qckio5ma8f7Iv8woZjRkGfafvpuygxNefOJNc+hfjjBayRn2Q==",
+    "tarball": "https://registry.npmjs.org/grunt-contrib-uglify/-/grunt-contrib-uglify-5.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "grunt-contrib-uglify",
+  "key": "grunt-contrib-uglify/5.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "grunt-contrib-uglify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-CX0exvWU2qSj0bVW3WKuDSWu62B/n3e5RrW5kioZuA0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-contrib-uglify/-/grunt-contrib-uglify-5.2.2.tgz"
+  }
+}

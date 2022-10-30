@@ -1,0 +1,50 @@
+{
+  "name": "errno",
+  "authors": [
+    "Rod Vagg @rvagg <rod@vagg.org> (https://github.com/rvagg)"
+  ],
+  "description": "libuv errno details exposed",
+  "version": "1.0.0",
+  "main": "errno.js",
+  "dependencies": {
+    "prr": "~1.0.1"
+  },
+  "bin": {
+    "errno": "cli.js"
+  },
+  "devDependencies": {
+    "error-stack-parser": "^2.0.1",
+    "inherits": "^2.0.3",
+    "tape": "~4.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvagg/node-errno.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node --use_strict test.js"
+  },
+  "gitHead": "26ac1f13acb97044ef071a21fee6aa983bf96fe3",
+  "_id": "errno@1.0.0",
+  "_nodeVersion": "14.12.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-3zV5mFS1E8/1bPxt/B0xxzI1snsg3uSCIh6Zo1qKg6iMw93hzPANk9oBFzSFBFrwuVoQuE3rLoouAUfwOAj1wQ==",
+    "tarball": "https://registry.npmjs.org/errno/-/errno-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "errno",
+  "key": "errno/1.0.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "errno",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PpaSwQ2hmYnFBiepi6+csbPpPWlcrG7a8XRqEwFBfwY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/errno/-/errno-1.0.0.tgz"
+  }
+}

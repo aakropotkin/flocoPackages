@@ -1,0 +1,53 @@
+{
+  "name": "public-encrypt",
+  "version": "4.0.3",
+  "description": "browserify version of publicEncrypt & privateDecrypt",
+  "main": "index.js",
+  "browser": "browser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js | tspec",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-browserify/publicEncrypt.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bn.js": "^4.1.0",
+    "browserify-rsa": "^4.0.0",
+    "create-hash": "^1.1.0",
+    "parse-asn1": "^5.0.0",
+    "randombytes": "^2.0.1",
+    "safe-buffer": "^5.1.2"
+  },
+  "devDependencies": {
+    "standard": "^12.0.0",
+    "tap-spec": "^2.1.2",
+    "tape": "^3.0.3"
+  },
+  "gitHead": "aff236f8921dd1309bf61b4f56d14385ec40cbaf",
+  "_id": "public-encrypt@4.0.3",
+  "_npmVersion": "6.4.0",
+  "_nodeVersion": "10.8.0",
+  "dist": {
+    "integrity": "sha512-zVpa8oKZSz5bTMTFClc1fQOnyyEzpl5ozpi1B5YcvBrdohMjH2rfsBtyXcuNuwjsDIXmBYlF2N5FlJYhR29t8Q==",
+    "tarball": "https://registry.npmjs.org/public-encrypt/-/public-encrypt-4.0.3.tgz"
+  },
+  "ident": "public-encrypt",
+  "key": "public-encrypt/4.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "public-encrypt",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ljuFWpuidzr+0+p8EH4sTGXDQAEzWH/DYi3EXiVYWNE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/public-encrypt/-/public-encrypt-4.0.3.tgz"
+  }
+}

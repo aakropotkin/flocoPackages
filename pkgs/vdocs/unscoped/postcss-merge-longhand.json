@@ -1,0 +1,49 @@
+{
+  "name": "postcss-merge-longhand",
+  "version": "5.1.7",
+  "description": "Merge longhand properties into shorthand with PostCSS.",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssnano/cssnano.git"
+  },
+  "dependencies": {
+    "postcss-value-parser": "^4.2.0",
+    "stylehacks": "^5.1.1"
+  },
+  "engines": {
+    "node": "^10 || ^12 || >=14.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "_id": "postcss-merge-longhand@5.1.7",
+  "_integrity": "sha512-YCI9gZB+PLNskrK0BB3/2OzPnGhPkBEwmwhfYk1ilBHYVAZB7/tkTHFBAnCrvBBOmeYyMYw3DMjT55SyxMBzjQ==",
+  "_resolved": "/tmp/8f9fc70e63f75ca6cb41463851430570/postcss-merge-longhand-5.1.7.tgz",
+  "_from": "file:postcss-merge-longhand-5.1.7.tgz",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-YCI9gZB+PLNskrK0BB3/2OzPnGhPkBEwmwhfYk1ilBHYVAZB7/tkTHFBAnCrvBBOmeYyMYw3DMjT55SyxMBzjQ==",
+    "tarball": "https://registry.npmjs.org/postcss-merge-longhand/-/postcss-merge-longhand-5.1.7.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-merge-longhand",
+  "key": "postcss-merge-longhand/5.1.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-merge-longhand",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-TOZTYiUPKlOtl3OEfCWrNh8g1Un9MRkoH6JVRQ+fDVM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-merge-longhand/-/postcss-merge-longhand-5.1.7.tgz"
+  }
+}

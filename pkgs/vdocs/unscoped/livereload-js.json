@@ -1,0 +1,70 @@
+{
+  "name": "livereload-js",
+  "version": "3.4.1",
+  "description": "LiveReload JS client - auto reload browser on changes",
+  "main": "dist/livereload.js",
+  "module": "src/startup.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.9",
+    "@babel/preset-env": "^7.18.9",
+    "@babel/register": "^7.18.9",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "core-js": "^2.6.12",
+    "envify": "^4.1.0",
+    "eslint": "^8.20.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "jsdom": "^20.0.0",
+    "mocha": "^10.0.0",
+    "terser": "^5.14.2",
+    "watchify": "^4.0.0"
+  },
+  "scripts": {
+    "lint": "eslint src test/*_test.js version-bower.js",
+    "test": "mocha --require @babel/register test/*_test.js",
+    "test-manual": "NODE_ENV=production watchify -v -t envify -t babelify -o test/html/browserified/bundle.js test/html/browserified/main.js",
+    "build": "NODE_ENV=production browserify -t envify -t babelify src/startup.js > dist/livereload.js",
+    "minify": "NODE_ENV=production terser -c -m -- dist/livereload.js > dist/livereload.min.js",
+    "version-bower": "node version-bower.js",
+    "preversion": "npm run lint && npm test",
+    "version": "npm run version-bower && npm run build && npm run minify && git add dist bower.json",
+    "postversion": "git push && git push --tags"
+  },
+  "browserslist": [
+    ">= 0.2%",
+    "Firefox ESR",
+    "not dead"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/livereload/livereload-js.git"
+  },
+  "license": "MIT",
+  "gitHead": "815b09e23fe7def9e5773d84b10d938e85ea51ba",
+  "_id": "livereload-js@3.4.1",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-5MP0uUeVCec89ZbNOT/i97Mc+q3SxXmiUGhRFOTmhrGPn//uWVQdCvcLJDy64MSBR5MidFdOR7B9viumoavy6g==",
+    "tarball": "https://registry.npmjs.org/livereload-js/-/livereload-js-3.4.1.tgz"
+  },
+  "ident": "livereload-js",
+  "key": "livereload-js/3.4.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "livereload-js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-eeRD4rSm8rtO352NBYoAyTyKgJjO1qBD7JUG7udpKgA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/livereload-js/-/livereload-js-3.4.1.tgz"
+  }
+}

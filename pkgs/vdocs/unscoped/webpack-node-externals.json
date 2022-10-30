@@ -1,0 +1,51 @@
+{
+  "name": "webpack-node-externals",
+  "version": "3.0.0",
+  "description": "Easily exclude node_modules in Webpack bundle",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liady/webpack-node-externals.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^7.7.0",
+    "eslint-plugin-import": "^2.22.0",
+    "mocha": "^2.5.3",
+    "mock-fs": "^4.12.0",
+    "ncp": "^2.0.0",
+    "webpack": "^4.44.1"
+  },
+  "scripts": {
+    "unit": "mocha --colors ./test/*.spec.js",
+    "unit-watch": "mocha --colors -w ./test/*.spec.js",
+    "test": "npm run unit-watch"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "MIT",
+  "gitHead": "627f5ce6da4a7a042421ab4ebc0a827b650e1f49",
+  "_id": "webpack-node-externals@3.0.0",
+  "_nodeVersion": "14.16.0",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-LnL6Z3GGDPht/AigwRh2dvL9PQPFQ8skEpVrWZXLWBYmqcaojHNN0onvHzie6rq7EWKrrBfPYqNEzTJgiwEQDQ==",
+    "tarball": "https://registry.npmjs.org/webpack-node-externals/-/webpack-node-externals-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "webpack-node-externals",
+  "key": "webpack-node-externals/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "webpack-node-externals",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Hgvs8JZMW5BRh7oKE3UwIzO7V0e+bdSZewEK+CHEStk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/webpack-node-externals/-/webpack-node-externals-3.0.0.tgz"
+  }
+}

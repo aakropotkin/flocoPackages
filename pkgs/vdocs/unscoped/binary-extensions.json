@@ -1,0 +1,43 @@
+{
+  "name": "binary-extensions",
+  "version": "2.2.0",
+  "description": "List of binary file extensions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/binary-extensions.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "gitHead": "40e44b510d87a63dcf42300bc8fbcb105f45a61c",
+  "_id": "binary-extensions@2.2.0",
+  "_nodeVersion": "15.5.0",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA==",
+    "tarball": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "binary-extensions",
+  "key": "binary-extensions/2.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "binary-extensions",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-kDL1HV8+/e0b6CoYfVTpZymjgnwJW/QYAHRHf0R6Ih8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.2.0.tgz"
+  }
+}

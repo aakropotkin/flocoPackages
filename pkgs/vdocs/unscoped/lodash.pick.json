@@ -1,0 +1,35 @@
+{
+  "name": "lodash.pick",
+  "version": "4.4.0",
+  "description": "The lodash method `_.pick` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.pick@4.4.0",
+  "_shasum": "52f05610fff9ded422611441ed1fc123a03001b3",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.pick/-/lodash.pick-4.4.0.tgz",
+    "integrity": "sha512-hXt6Ul/5yWjfklSGvLQl8vM//l3FtyHZeuelpzK6mm99pNvN9yTDruNZPEJZD1oWrqo+izBmB7oUfWgcCX7s4Q=="
+  },
+  "ident": "lodash.pick",
+  "key": "lodash.pick/4.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.pick",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-cR2bt/G8gjSYmJK0iVnAwhulIAiNF9rtS/i5CQA2d3M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.pick/-/lodash.pick-4.4.0.tgz"
+  }
+}

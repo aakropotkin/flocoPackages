@@ -1,0 +1,40 @@
+{
+  "name": "babel-helper-explode-assignable-expression",
+  "version": "6.24.1",
+  "description": "Helper function to explode an assignable expression",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-helper-explode-assignable-expression"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-traverse": "^6.24.1",
+    "babel-runtime": "^6.22.0",
+    "babel-types": "^6.24.1"
+  },
+  "_id": "babel-helper-explode-assignable-expression@6.24.1",
+  "scripts": {},
+  "_shasum": "f25b82cf7dc10433c55f70592d5746400ac22caa",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-helper-explode-assignable-expression/-/babel-helper-explode-assignable-expression-6.24.1.tgz",
+    "integrity": "sha512-qe5csbhbvq6ccry9G7tkXbzNtcDiH4r51rrPUbwwoTzZ18AqxWYRZT6AOmxrpxKnQBW0pYlBI/8vh73Z//78nQ=="
+  },
+  "directories": {},
+  "ident": "babel-helper-explode-assignable-expression",
+  "key": "babel-helper-explode-assignable-expression/6.24.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-helper-explode-assignable-expression",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-KU5/+5ZnOTxPjtnKn2Ebd9htKQXsVT/l6Ms7rVZidcQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-helper-explode-assignable-expression/-/babel-helper-explode-assignable-expression-6.24.1.tgz"
+  }
+}

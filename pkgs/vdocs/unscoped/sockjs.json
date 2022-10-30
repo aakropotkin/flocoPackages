@@ -1,0 +1,46 @@
+{
+  "name": "sockjs",
+  "description": "SockJS-node is a server counterpart of SockJS-client a JavaScript library that provides a WebSocket-like object in the browser. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication",
+  "version": "0.3.24",
+  "dependencies": {
+    "faye-websocket": "^0.11.3",
+    "uuid": "^8.3.2",
+    "websocket-driver": "^0.7.4"
+  },
+  "devDependencies": {
+    "coffeescript": "^1.12.7"
+  },
+  "license": "MIT",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sockjs/sockjs-node.git"
+  },
+  "scripts": {
+    "version": "make build && git add Changelog",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --all && git push origin --tags"
+  },
+  "gitHead": "a01674d8bd1e10550bec397a27ba01643dd5ac73",
+  "_id": "sockjs@0.3.24",
+  "_nodeVersion": "12.18.3",
+  "_npmVersion": "7.24.0",
+  "dist": {
+    "integrity": "sha512-GJgLTZ7vYb/JtPSSZ10hsOYIvEYsjbNU+zPdIHcUaWVNUEPivzxku31865sSSud0Da0W4lEeOPlmw93zLQchuQ==",
+    "tarball": "https://registry.npmjs.org/sockjs/-/sockjs-0.3.24.tgz"
+  },
+  "directories": {},
+  "ident": "sockjs",
+  "key": "sockjs/0.3.24",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sockjs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PTzZjg3JAZ5dSTAta0MiDS0Kf4YubZFZl504pD4E4Mc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sockjs/-/sockjs-0.3.24.tgz"
+  }
+}

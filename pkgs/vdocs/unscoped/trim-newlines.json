@@ -1,0 +1,45 @@
+{
+  "name": "trim-newlines",
+  "version": "4.0.2",
+  "description": "Trim newlines from the start and/or end of a string",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/trim-newlines.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.39.1"
+  },
+  "gitHead": "abb78c1e0780e510ccb07fd84e9e3415bf3b8e96",
+  "_id": "trim-newlines@4.0.2",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-GJtWyq9InR/2HRiLZgpIKv+ufIKrVrvjQWEj7PxAXNc5dwbNJkqhAUoAGgzRmULAnoOM5EIpveYd3J2VeSAIew==",
+    "tarball": "https://registry.npmjs.org/trim-newlines/-/trim-newlines-4.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "trim-newlines",
+  "key": "trim-newlines/4.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "trim-newlines",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-FF4slzgr1/NeDYn4vLqtqneoC9UEtvzTLJdg9RbgxhU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/trim-newlines/-/trim-newlines-4.0.2.tgz"
+  }
+}

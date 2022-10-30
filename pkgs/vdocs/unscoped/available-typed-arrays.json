@@ -1,0 +1,81 @@
+{
+  "name": "available-typed-arrays",
+  "version": "1.0.5",
+  "description": "Returns an array of Typed Array names that are available in the current environment",
+  "main": "index.js",
+  "type": "commonjs",
+  "exports": {
+    ".": [
+      {
+        "default": "./index.js"
+      },
+      "./index.js"
+    ],
+    "./package": "./package.json",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "prepublish": "not-in-publish || npm run prepublishOnly",
+    "prepublishOnly": "safe-publish-latest",
+    "prelint": "evalmd README.md",
+    "lint": "eslint --ext=js,mjs .",
+    "pretest": "npm run lint",
+    "tests-only": "nyc tape 'test/**/*.js'",
+    "test:harmony": "nyc node --harmony --es-staging test",
+    "test": "npm run tests-only && npm run test:harmony",
+    "posttest": "aud --production",
+    "version": "auto-changelog && git add CHANGELOG.md",
+    "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspect-js/available-typed-arrays.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "devDependencies": {
+    "@ljharb/eslint-config": "^18.0.0",
+    "array.prototype.every": "^1.1.2",
+    "aud": "^1.1.5",
+    "auto-changelog": "^2.3.0",
+    "eslint": "^7.32.0",
+    "evalmd": "^0.0.19",
+    "isarray": "^2.0.5",
+    "nyc": "^10.3.2",
+    "safe-publish-latest": "^1.1.4",
+    "tape": "^5.3.1"
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": false,
+    "commitLimit": false,
+    "backfillLimit": false,
+    "hideCredit": true
+  },
+  "gitHead": "d0f3cb979af4322acaa149e08ae58fd4faed3715",
+  "_id": "available-typed-arrays@1.0.5",
+  "_nodeVersion": "16.8.0",
+  "_npmVersion": "7.21.0",
+  "dist": {
+    "integrity": "sha512-DMD0KiN46eipeziST1LPP/STfDU0sufISXmjSgvVsoU2tqxctQeASejWcfNtxYKqETM1UxQ8sp2OrSBWpHY6sw==",
+    "tarball": "https://registry.npmjs.org/available-typed-arrays/-/available-typed-arrays-1.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "available-typed-arrays",
+  "key": "available-typed-arrays/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "available-typed-arrays",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-2Mhjdq/W76GxYD8IyzTn23Co5WQrIDa0uXHar7RMu0s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/available-typed-arrays/-/available-typed-arrays-1.0.5.tgz"
+  }
+}

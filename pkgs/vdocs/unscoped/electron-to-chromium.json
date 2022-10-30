@@ -1,0 +1,47 @@
+{
+  "name": "electron-to-chromium",
+  "version": "1.4.284",
+  "description": "Provides a list of electron-to-chromium version mappings",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "update": "node automated-update.js",
+    "test": "nyc ava --verbose",
+    "report": "nyc report --reporter=text-lcov > coverage.lcov && codecov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilian/electron-to-chromium.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^4.0.1",
+    "codecov": "^3.8.0",
+    "electron-releases": "^3.1171.0",
+    "nyc": "^15.1.0",
+    "request": "^2.65.0",
+    "shelljs": "^0.8.4"
+  },
+  "gitHead": "107f7d7bd48c0128618554f95cfc101709597c63",
+  "_id": "electron-to-chromium@1.4.284",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "6.14.17",
+  "dist": {
+    "integrity": "sha512-M8WEXFuKXMYMVr45fo8mq0wUrrJHheiKZf6BArTKk9ZBYCKJEOU5H8cdWgDT+qCVZf7Na4lVUaZsA+h6uA9+PA==",
+    "tarball": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.284.tgz"
+  },
+  "directories": {},
+  "ident": "electron-to-chromium",
+  "key": "electron-to-chromium/1.4.284",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "electron-to-chromium",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Z+0fzj4ZAoeSElHh0dZhKM2XJrgplmkxKiaQI71qTys=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.284.tgz"
+  }
+}

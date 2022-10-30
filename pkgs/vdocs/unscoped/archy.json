@@ -1,0 +1,65 @@
+{
+  "name": "archy",
+  "version": "1.0.0",
+  "description": "render nested hierarchies `npm ls` style with unicode pipes",
+  "main": "index.js",
+  "devDependencies": {
+    "tap": "~0.3.3",
+    "tape": "~0.1.1"
+  },
+  "scripts": {
+    "test": "tap test"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": {
+      "iexplore": [
+        "6.0",
+        "7.0",
+        "8.0",
+        "9.0"
+      ],
+      "chrome": [
+        "20.0"
+      ],
+      "firefox": [
+        "10.0",
+        "15.0"
+      ],
+      "safari": [
+        "5.1"
+      ],
+      "opera": [
+        "12.0"
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/substack/node-archy.git"
+  },
+  "license": "MIT",
+  "gitHead": "30223c16191e877bf027b15b12daf077b9b55b84",
+  "_id": "archy@1.0.0",
+  "_shasum": "f9c8c13757cc1dd7bc379ac77b2c62a5c2868c40",
+  "_from": ".",
+  "_npmVersion": "1.4.25",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/archy/-/archy-1.0.0.tgz",
+    "integrity": "sha512-Xg+9RwCg/0p32teKdGMPTPnVXKD0w3DfHnFTficozsAgsvq2XenPJq/MYpzzQ/v8zrOyJn6Ds39VA4JIDwFfqw=="
+  },
+  "directories": {},
+  "ident": "archy",
+  "key": "archy/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "archy",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-p44XYAOUVxL3AhzXYY1TA5ecbkFaO3IBY3YX30oG28s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/archy/-/archy-1.0.0.tgz"
+  }
+}

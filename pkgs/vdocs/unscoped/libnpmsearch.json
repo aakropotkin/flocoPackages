@@ -1,0 +1,66 @@
+{
+  "name": "libnpmsearch",
+  "version": "6.0.0",
+  "description": "Programmatic API for searching in npm and compatible registries.",
+  "main": "lib/index.js",
+  "license": "ISC",
+  "scripts": {
+    "posttest": "node ../.. run lint",
+    "test": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "lintfix": "node ../.. run lint -- --fix",
+    "snap": "tap",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.6.2",
+    "nock": "^13.2.4",
+    "tap": "^16.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/cli.git",
+    "directory": "workspaces/libnpmsearch"
+  },
+  "dependencies": {
+    "npm-registry-fetch": "^14.0.2"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.6.2",
+    "content": "../../scripts/template-oss/index.js"
+  },
+  "tap": {
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "aa0897c550fb05d2c2d3135530a79b6c2824fe80",
+  "_id": "libnpmsearch@6.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "9.0.0",
+  "dist": {
+    "integrity": "sha512-5StJQ0cGLveCfsKCZW+H6VcmGMplrrxmAnEgWklfB3n+FUgaXn+om9tEcsYi+DEImUiGXl1H7AdHVzFFSwPCwA==",
+    "tarball": "https://registry.npmjs.org/libnpmsearch/-/libnpmsearch-6.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "libnpmsearch",
+  "key": "libnpmsearch/6.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "libnpmsearch",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-pKNvEPHrlTeQvgxDqbC1BwCTj9XteXFGb66HfH7lAfY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/libnpmsearch/-/libnpmsearch-6.0.0.tgz"
+  }
+}

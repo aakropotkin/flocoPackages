@@ -1,0 +1,49 @@
+{
+  "name": "find-versions",
+  "version": "5.1.0",
+  "description": "Find semver versions in a string: `unicorn v1.2.3` → `1.2.3`",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/find-versions.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "semver-regex": "^4.0.5"
+  },
+  "devDependencies": {
+    "ava": "^4.3.0",
+    "tsd": "^0.20.0",
+    "xo": "^0.49.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "9df7ae3611e8272ba4beaedd996526209cc0790b",
+  "_id": "find-versions@5.1.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-+iwzCJ7C5v5KgcBuueqVoNiHVoQpwiUK5XFLjf0affFTep+Wcw93tPvmb8tqujDNmzhBDPddnWV/qgWSXgq+Hg==",
+    "tarball": "https://registry.npmjs.org/find-versions/-/find-versions-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "find-versions",
+  "key": "find-versions/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "find-versions",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rSaLBB1rw8I7UrhWbYm3gjN3k8ViJVRo6aGAtNrWRSY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/find-versions/-/find-versions-5.1.0.tgz"
+  }
+}

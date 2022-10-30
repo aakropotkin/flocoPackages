@@ -1,0 +1,51 @@
+{
+  "name": "err-code",
+  "version": "3.0.1",
+  "description": "Create an error with a code",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "lint": "eslint '{./*.js,test/**/*.js}'",
+    "check": "tsc --noEmit",
+    "prepare": "tsc --emitDeclarationOnly --declarationDir dist",
+    "test": "mocha --bail",
+    "prepublishOnly": "browserify -s err-code index.js > index.umd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IndigoUnited/js-err-code.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@satazor/eslint-config": "^3.0.0",
+    "@types/expect.js": "0.3.29",
+    "@types/mocha": "8.2.0",
+    "browserify": "^17.0.0",
+    "eslint": "^7.19.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^8.2.1",
+    "typescript": "^4.1.3"
+  },
+  "gitHead": "830d141eb633c21b842df3f78aba5786fee1b31d",
+  "_id": "err-code@3.0.1",
+  "_nodeVersion": "14.15.4",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-GiaH0KJUewYok+eeY05IIgjtAe4Yltygk9Wqp1V5yVWLdhf0hYZchRjNIT9bb0mSwRcIusT3cx7PJUf3zEIfUA==",
+    "tarball": "https://registry.npmjs.org/err-code/-/err-code-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "err-code",
+  "key": "err-code/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "err-code",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-K8OlN426Y5oly6YK7+FMjkNqmpR6TuDCrz6cyJSecYo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/err-code/-/err-code-3.0.1.tgz"
+  }
+}

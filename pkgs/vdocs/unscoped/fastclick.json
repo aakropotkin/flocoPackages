@@ -1,0 +1,44 @@
+{
+  "name": "fastclick",
+  "version": "1.0.6",
+  "description": "Polyfill to remove click delays on browsers with touch UIs.",
+  "main": "lib/fastclick.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ftlabs/fastclick.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "implements": [
+    "CommonJS/Modules/1.0"
+  ],
+  "gitHead": "9977a916739360ad4ffd7aa19b0016bf375e934b",
+  "_id": "fastclick@1.0.6",
+  "scripts": {},
+  "_shasum": "161625b27b1a5806405936bda9a2c1926d06be6a",
+  "_from": ".",
+  "_npmVersion": "2.1.14",
+  "_nodeVersion": "0.10.33",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/fastclick/-/fastclick-1.0.6.tgz",
+    "integrity": "sha512-cXyDBT4g0uWl/Xe75QspBDAgAWQ0lkPi/zgp6YFEUHj6WV6VIZl7R6TiDZhdOVU3W4ehp/8tG61Jev1jit+ztQ=="
+  },
+  "directories": {},
+  "ident": "fastclick",
+  "key": "fastclick/1.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fastclick",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PMqoOix6SMXpNH+YSVmAMG/qXDPlb9TAWCkiiBfNqEw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fastclick/-/fastclick-1.0.6.tgz"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "ecdsa-sig-formatter",
+  "version": "1.0.11",
+  "description": "Translate ECDSA signatures between ASN.1/DER and JOSE-style concatenation",
+  "main": "src/ecdsa-sig-formatter.js",
+  "scripts": {
+    "check-style": "eslint .",
+    "pretest": "npm run check-style",
+    "test": "istanbul cover --root src _mocha -- spec",
+    "report-cov": "cat ./coverage/lcov.info | coveralls"
+  },
+  "typings": "./src/ecdsa-sig-formatter.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Brightspace/node-ecdsa-sig-formatter.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "safe-buffer": "^5.0.1"
+  },
+  "devDependencies": {
+    "bench": "^0.3.6",
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.9",
+    "eslint": "^2.12.0",
+    "eslint-config-brightspace": "^0.2.1",
+    "istanbul": "^0.4.3",
+    "jwk-to-pem": "^1.2.5",
+    "mocha": "^2.5.3",
+    "native-crypto": "^1.7.0"
+  },
+  "gitHead": "c730235f4a54526f33f5309d80beb12ee298db6b",
+  "_id": "ecdsa-sig-formatter@1.0.11",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.15.0",
+  "dist": {
+    "integrity": "sha512-nagl3RYrbNv6kQkeJIpt6NJZy8twLB/2vtz6yN9Z4vRKHN4/QZJIEbqohALSgwKdnksuY3k5Addp5lg8sVoVcQ==",
+    "tarball": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.11.tgz"
+  },
+  "directories": {},
+  "ident": "ecdsa-sig-formatter",
+  "key": "ecdsa-sig-formatter/1.0.11",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ecdsa-sig-formatter",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3HNMjoSIuD56Wv8pn04C+S1DqSsmpyolftcEcAiekDY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.11.tgz"
+  }
+}

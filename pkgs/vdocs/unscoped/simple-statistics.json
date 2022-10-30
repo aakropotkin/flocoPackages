@@ -1,0 +1,80 @@
+{
+  "name": "simple-statistics",
+  "version": "7.8.0",
+  "description": "Simple Statistics",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simple-statistics/simple-statistics.git"
+  },
+  "devDependencies": {
+    "@rollup/plugin-buble": "^0.21.3",
+    "cz-conventional-changelog": "^3.3.0",
+    "documentation": "^13",
+    "eslint": "^8.26.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1",
+    "random-js": "^2.1.0",
+    "rollup": "^2.77.3",
+    "rollup-plugin-terser": "^7.0.2",
+    "standard-version": "^9.5.0",
+    "tap": "^16.3.0",
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "release": "standard-version && sh ./scripts/update_website.sh",
+    "test": "rollup -c rollup.config.js && npm run lint && tap --lines 95 --branches 95 --functions 95 --statements 95 --coverage test/*.test.js --jobs=4",
+    "build": "rollup -c rollup.config.js",
+    "prepublish": "rollup -c rollup.config.js && ./scripts/update_readme.js",
+    "prelint": "tsc --skipLibCheck",
+    "lint": "eslint index.js src test && prettier --check src test \"!test/types.js\"",
+    "lint-fix": "eslint index.js src test --fix && prettier src test \"!test/types.js\" --write",
+    "postlint": "documentation lint src"
+  },
+  "source": "index.js",
+  "main": "dist/simple-statistics.js",
+  "module": "dist/simple-statistics.mjs",
+  "umd:main": "dist/simple-statistics.min.js",
+  "browser": "dist/simple-statistics.min.js",
+  "unpkg": "dist/simple-statistics.min.js",
+  "types": "index.d.ts",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "import": "./dist/simple-statistics.mjs",
+      "require": "./dist/simple-statistics.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "ISC",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "gitHead": "362641a695c3b27cba9a6ae721f7c6e8dba48f62",
+  "_id": "simple-statistics@7.8.0",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-lTWbfJc0u6GZhBojLOrlHJMTHu6PdUjSsYLrpiH902dVBiYJyWlN/LdSoG8b5VvfG1D30gIBgarqMNeNmU5nAA==",
+    "tarball": "https://registry.npmjs.org/simple-statistics/-/simple-statistics-7.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "simple-statistics",
+  "key": "simple-statistics/7.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "simple-statistics",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ajNa2cNgbUgLHLS3jsEOSv+d+4rAzMJhznW3uPHDsoc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/simple-statistics/-/simple-statistics-7.8.0.tgz"
+  }
+}

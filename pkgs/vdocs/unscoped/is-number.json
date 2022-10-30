@@ -1,0 +1,69 @@
+{
+  "name": "is-number",
+  "description": "Returns true if a number or string value is a finite number. Useful for regex matches, parsing, user input, etc.",
+  "version": "7.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-number.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "ansi": "^0.3.1",
+    "benchmark": "^2.1.4",
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.5.3"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "related": {
+      "list": [
+        "is-plain-object",
+        "is-primitive",
+        "isobject",
+        "kind-of"
+      ]
+    },
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "98e8ff1da1a89f93d1397a24d7413ed15421c139",
+  "_id": "is-number@7.0.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.0.0",
+  "dist": {
+    "integrity": "sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==",
+    "tarball": "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-number",
+  "key": "is-number/7.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-number",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-sOcAFDhYCindWvE4jW6RNeoCBP4VZEyS7M3dq7cGgNI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz"
+  }
+}

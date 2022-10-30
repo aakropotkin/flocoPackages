@@ -1,0 +1,109 @@
+{
+  "name": "json-schema-faker-bb",
+  "version": "0.5.0-rc12",
+  "description": "JSON-Schema + fake data generators",
+  "main": "lib/index.js",
+  "scripts": {
+    "dist": "npm run build && npm run build:dist",
+    "watch": "tarima watch -d VERSION=`./build/VERSION`",
+    "build": "tarima -qf VERSION=`./build/VERSION`",
+    "build:dist": "npm run build && node build/dist.js",
+    "test": "npm run test:lint && npm run build && npm run test:unit && npm run test:schema",
+    "test:lint": "tslint ts/**/*.ts",
+    "test:unit": "jasmine-node spec/unit --noStackTrace --captureExceptions",
+    "test:schema": "jasmine-node spec/schema --coffee --noStackTrace --captureExceptions",
+    "dev": "jasmine-node spec/schema --coffee --verbose --autoTest --watchFolders lib",
+    "dev:unit": "jasmine-node spec/unit --coffee --verbose --autoTest --watchFolders lib",
+    "cover:up": "codecov --file=coverage/lcov.info --disable=gcov -e TRAVIS_NODE_VERSION",
+    "cover:unit": "istanbul cover --root lib --x '**/spec/**' -- jasmine-node --coffee spec/unit",
+    "cover:schema": "istanbul cover --root lib --x '**/spec/**' -- jasmine-node --coffee spec/schema",
+    "typedoc": "typedoc --out docs/html ts/ --module commonjs",
+    "graphviz": "madge lib --dot > structure.gv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/json-schema-faker/json-schema-faker.git"
+  },
+  "license": "MIT",
+  "tarima": {
+    "from": "ts",
+    "output": "lib",
+    "watching": [
+      "spec"
+    ],
+    "bundle": true,
+    "ignore": [
+      "**/*.d.ts"
+    ],
+    "filter": [
+      "!*/*/**"
+    ],
+    "rename": [
+      "ts/**:{filepath/1}/{filename}.{extname}"
+    ],
+    "bundleOptions": {
+      "rollup": {
+        "bundle": "JSONSchemaFaker",
+        "format": "cjs",
+        "interop": false
+      }
+    }
+  },
+  "devDependencies": {
+    "chance": "^1.0.9",
+    "chokidar": "^2.0.0",
+    "clone": "^2.1.1",
+    "codecov": "^3.0.0",
+    "faker": "^4.1.0",
+    "fs-extra": "^5.0.0",
+    "glob": "^7.1.2",
+    "google-closure-compiler-js": "^20171203.0.0",
+    "istanbul": "^0.4.5",
+    "jasmine-node": "2.0.0-beta4",
+    "jayschema": "^0.3.2",
+    "lodash.template": "^4.4.0",
+    "rollup": "^0.53.0",
+    "rollup-plugin-commonjs": "^8.2.1",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "seedrandom": "^2.4.3",
+    "semver": "^5.3.0",
+    "tarima": "^4.0.3",
+    "ts-node": "^4.0.0",
+    "tslint": "^5.3.2",
+    "tv4": "^1.3.0",
+    "typedoc": "^0.9.0",
+    "typescript": "^2.3.4",
+    "z-schema": "^3.18.4"
+  },
+  "dependencies": {
+    "deref": "^0.7.1",
+    "json-schema-ref-parser": "^4.0.0",
+    "jsonpath-plus": "^0.16.0",
+    "randexp": "^0.5.1",
+    "tslib": "^1.7.1"
+  },
+  "gitHead": "56d3595152e6ef84063ab939ae07ad58dba1ac45",
+  "_id": "json-schema-faker-bb@0.5.0-rc12",
+  "_shasum": "8cccd510f4f82a503c9fc75e084d0d59a9b06fd3",
+  "_from": ".",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "7.10.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/json-schema-faker-bb/-/json-schema-faker-bb-0.5.0-rc12.tgz",
+    "integrity": "sha512-M2gi82Z7kkU8o1RavXBY961Eg8ZLmT+aMsaPLaLLoJVTW+ZcaEcccvIwumFC7oyEL3RYXiJU435NAYRKUhbevg=="
+  },
+  "directories": {},
+  "ident": "json-schema-faker-bb",
+  "key": "json-schema-faker-bb/0.5.0-rc12",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "json-schema-faker-bb",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HSd72HaCdiXiq3O6JfQj8Sy/F0v8UNn7tF/yQ6TFXcc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/json-schema-faker-bb/-/json-schema-faker-bb-0.5.0-rc12.tgz"
+  }
+}

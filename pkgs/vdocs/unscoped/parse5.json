@@ -1,0 +1,46 @@
+{
+  "name": "parse5",
+  "type": "module",
+  "description": "HTML parser and serializer.",
+  "version": "7.1.1",
+  "dependencies": {
+    "entities": "^4.4.0"
+  },
+  "license": "MIT",
+  "main": "dist/cjs/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.js",
+    "require": "./dist/cjs/index.js"
+  },
+  "scripts": {
+    "build:cjs": "tsc --module CommonJS --target ES6 --outDir dist/cjs && echo '{\"type\":\"commonjs\"}' > dist/cjs/package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inikulin/parse5.git"
+  },
+  "gitHead": "d867cdccebb05acd9088948e911f6da1b018284c",
+  "_id": "parse5@7.1.1",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "8.17.0",
+  "dist": {
+    "integrity": "sha512-kwpuwzB+px5WUg9pyK0IcK/shltJN5/OVhQagxhCQNtT9Y9QRZqNY2e1cmbu/paRh5LMnz/oVTVLBpjFmMZhSg==",
+    "tarball": "https://registry.npmjs.org/parse5/-/parse5-7.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "parse5",
+  "key": "parse5/7.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "parse5",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Jiciwah/DzvJFtDDWeSMUw7B13lDMDdBITUHSiKU0rQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parse5/-/parse5-7.1.1.tgz"
+  }
+}

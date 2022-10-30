@@ -1,0 +1,50 @@
+{
+  "name": "grunt-contrib-jshint",
+  "description": "Validate files with JSHint",
+  "version": "3.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruntjs/grunt-contrib-jshint.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "tasks/jshint.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "chalk": "~4.1.2",
+    "hooker": "^0.2.3",
+    "jshint": "~2.13.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-internal": "^7.0.0",
+    "grunt-contrib-nodeunit": "^4.0.0"
+  },
+  "appveyor_id": "j04ik7qgx21ixyfw",
+  "gitHead": "c61c15af81c56aaf29c1d5e4570d6244b70ee3c4",
+  "_id": "grunt-contrib-jshint@3.2.0",
+  "_nodeVersion": "12.22.8",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-pcXWCSZWfoMSvcV4BwH21TUtLtcX0Ms8IGuOPIcLeXK3fud9KclY7iqMKY94jFx8TxZzh028YYtpR+io8DiEaQ==",
+    "tarball": "https://registry.npmjs.org/grunt-contrib-jshint/-/grunt-contrib-jshint-3.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "grunt-contrib-jshint",
+  "key": "grunt-contrib-jshint/3.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "grunt-contrib-jshint",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Lge7oSfTrltThtt+PMVbL6K51Nlu5LMYzc5/sMkfH0U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-contrib-jshint/-/grunt-contrib-jshint-3.2.0.tgz"
+  }
+}

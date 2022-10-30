@@ -1,0 +1,51 @@
+{
+  "name": "loader-runner",
+  "version": "4.3.0",
+  "description": "Runs (webpack) loaders",
+  "main": "lib/LoaderRunner.js",
+  "scripts": {
+    "lint": "eslint lib test",
+    "pretest": "npm run lint",
+    "test": "mocha --reporter spec",
+    "precover": "npm run lint",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpack/loader-runner.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.11.5"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-plugin-node": "^3.0.5",
+    "eslint-plugin-nodeca": "^1.0.3",
+    "istanbul": "^0.4.1",
+    "mocha": "^3.2.0",
+    "should": "^8.0.2"
+  },
+  "gitHead": "913ea0d4eb269060b1e9c96f31b79dc081d0b347",
+  "_id": "loader-runner@4.3.0",
+  "_nodeVersion": "14.19.0",
+  "_npmVersion": "7.22.0",
+  "dist": {
+    "integrity": "sha512-3R/1M+yS3j5ou80Me59j7F9IMs4PXs3VqRrm0TU3AbKPxlmpoY1TNscJV/oGJXo8qCatFGTfDbY6W6ipGOYXfg==",
+    "tarball": "https://registry.npmjs.org/loader-runner/-/loader-runner-4.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "loader-runner",
+  "key": "loader-runner/4.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "loader-runner",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+qUYWtvIQHdnKZALz7KCrdP7r53J/WobXvMTP3la0Co=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/loader-runner/-/loader-runner-4.3.0.tgz"
+  }
+}

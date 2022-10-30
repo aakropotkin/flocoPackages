@@ -1,0 +1,44 @@
+{
+  "name": "gulp-match",
+  "description": "Does a vinyl file match a condition?",
+  "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robrich/gulp-match.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "minimatch": "^3.0.3"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4",
+    "mocha": "^6.1.4",
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "mocha && jshint ."
+  },
+  "license": "MIT",
+  "gitHead": "561917e782865745b2da5a6d6046ec9285d1336a",
+  "_id": "gulp-match@1.1.0",
+  "_nodeVersion": "12.5.0",
+  "_npmVersion": "6.9.2",
+  "dist": {
+    "integrity": "sha512-DlyVxa1Gj24DitY2OjEsS+X6tDpretuxD6wTfhXE/Rw2hweqc1f6D/XtsJmoiCwLWfXgR87W9ozEityPCVzGtQ==",
+    "tarball": "https://registry.npmjs.org/gulp-match/-/gulp-match-1.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "gulp-match",
+  "key": "gulp-match/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "gulp-match",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gJe3PnNMFt5lpcFv2Vfc5og6tWcQFHTuN4aKeDED4fM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-match/-/gulp-match-1.1.0.tgz"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "ansi-styles",
+  "version": "6.2.1",
+  "description": "ANSI escape codes for styling strings in the terminal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalk/ansi-styles.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd",
+    "screenshot": "svg-term --command='node screenshot' --out=screenshot.svg --padding=3 --width=55 --height=3 --at=1000 --no-cursor"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "svg-term-cli": "^2.1.1",
+    "tsd": "^0.19.0",
+    "xo": "^0.47.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "c325165daa029dad038c12118d2bf20aa4cf3a77",
+  "_id": "ansi-styles@6.2.1",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-bN798gFfQX+viw3R7yrGWRqnrN2oRkEkUjjl4JNn4E8GxxbjtG3FbrEIIY3l8/hrwUwIeCZvi4QuOTP4MErVug==",
+    "tarball": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-6.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "ansi-styles",
+  "key": "ansi-styles/6.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ansi-styles",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+yHg1S2WV0ALWEFHsQCWgixsvTWQEIuHdPG+UuIJQVk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-6.2.1.tgz"
+  }
+}

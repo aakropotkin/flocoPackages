@@ -1,0 +1,45 @@
+{
+  "name": "fn.name",
+  "version": "1.1.0",
+  "description": "Extract names from functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "watch": "mocha --watch test.js",
+    "coverage": "istanbul cover ./node_modules/.bin/_mocha -- test.js",
+    "test-travis": "istanbul cover node_modules/.bin/_mocha --report lcovonly -- test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3rd-Eden/fn.name.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "assume": "2.x.x",
+    "istanbul": "0.3.x",
+    "mocha": "5.x.x",
+    "pre-commit": "1.x.x"
+  },
+  "gitHead": "6c9f628aea39b7bbf30ddb0f177b2bf960622031",
+  "_id": "fn.name@1.1.0",
+  "_npmVersion": "6.0.0",
+  "_nodeVersion": "8.9.1",
+  "dist": {
+    "integrity": "sha512-GRnmB5gPyJpAhTQdSZTSp9uaPSvl09KoYcMQtsB9rQoOmzs9dH6ffeccH+Z+cv6P68Hu5bC6JjRh4Ah/mHSNRw==",
+    "tarball": "https://registry.npmjs.org/fn.name/-/fn.name-1.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "fn.name",
+  "key": "fn.name/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fn.name",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-NdnubAV4gxRh2FDQD/xzqgM5Hf/MOtnQU0jA2tNsJ+w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fn.name/-/fn.name-1.1.0.tgz"
+  }
+}

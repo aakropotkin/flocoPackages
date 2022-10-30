@@ -1,0 +1,53 @@
+{
+  "name": "redis-errors",
+  "version": "1.2.0",
+  "description": "Error classes used in node_redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run coverage",
+    "lint": "standard --fix",
+    "posttest": "npm run lint && npm run coverage:check",
+    "coverage": "node ./node_modules/istanbul/lib/cli.js cover --preserve-comments ./node_modules/mocha/bin/_mocha -- -R spec",
+    "coverage:check": "node ./node_modules/istanbul/lib/cli.js check-coverage --statement 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeRedis/redis-errors.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.0",
+    "mocha": "^3.1.2",
+    "standard": "^10.0.0"
+  },
+  "license": "MIT",
+  "directories": {
+    "test": "test",
+    "lib": "lib"
+  },
+  "gitHead": "bab55fccea876759b79570b172f59359f8a2503a",
+  "_id": "redis-errors@1.2.0",
+  "_shasum": "eb62d2adb15e4eaf4610c04afe1529384250abad",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.10.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/redis-errors/-/redis-errors-1.2.0.tgz",
+    "integrity": "sha512-1qny3OExCf0UvUV/5wpYKf2YwPcOqXzkwKKSmKHiE6ZMQs5heeE/c8eXK+PNllPvmjgAbfnsbpkGZWy8cBpn9w=="
+  },
+  "ident": "redis-errors",
+  "key": "redis-errors/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "redis-errors",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-T+U87bmhmQfJuAe5PE0ohLy6W/3ZNqpzC5BjmFo7tlU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/redis-errors/-/redis-errors-1.2.0.tgz"
+  }
+}

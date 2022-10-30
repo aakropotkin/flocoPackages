@@ -1,0 +1,82 @@
+{
+  "name": "vue-i18n",
+  "version": "9.2.2",
+  "description": "Internationalization plugin for Vue.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intlify/vue-i18n-next.git",
+    "directory": "packages/vue-i18n"
+  },
+  "main": "index.js",
+  "module": "dist/vue-i18n.esm-bundler.js",
+  "unpkg": "dist/vue-i18n.global.js",
+  "jsdelivr": "dist/vue-i18n.global.js",
+  "types": "dist/vue-i18n.d.ts",
+  "dependencies": {
+    "@intlify/core-base": "9.2.2",
+    "@intlify/shared": "9.2.2",
+    "@intlify/vue-devtools": "9.2.2",
+    "@vue/devtools-api": "^6.2.1"
+  },
+  "devDependencies": {
+    "@intlify/devtools-if": "9.2.2"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "engines": {
+    "node": ">= 14"
+  },
+  "buildOptions": {
+    "name": "VueI18n",
+    "formats": [
+      "esm-bundler",
+      "esm-bundler-runtime",
+      "esm-browser",
+      "esm-browser-runtime",
+      "cjs",
+      "global",
+      "global-runtime"
+    ]
+  },
+  "exports": {
+    ".": {
+      "import": {
+        "node": "./index.mjs",
+        "default": "./dist/vue-i18n.esm-bundler.js"
+      },
+      "require": "./index.js"
+    },
+    "./dist/*": "./dist/*",
+    "./index.mjs": "./index.mjs",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "vetur": {
+    "tags": "vetur/tags.json",
+    "attributes": "vetur/attributes.json"
+  },
+  "gitHead": "bb2e1770a0344b7d6993e03759cf8ba96d7a6396",
+  "_id": "vue-i18n@9.2.2",
+  "_nodeVersion": "18.4.0",
+  "_npmVersion": "8.12.1",
+  "dist": {
+    "integrity": "sha512-yswpwtj89rTBhegUAv9Mu37LNznyu3NpyLQmozF3i1hYOhwpG8RjcjIFIIfnu+2MDZJGSZPXaKWvnQA71Yv9TQ==",
+    "tarball": "https://registry.npmjs.org/vue-i18n/-/vue-i18n-9.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "vue-i18n",
+  "key": "vue-i18n/9.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "vue-i18n",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5Hu/6yr9uI6X5sIhIrEi2ebDw86bkb+OwBSSzb82sE4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vue-i18n/-/vue-i18n-9.2.2.tgz"
+  }
+}

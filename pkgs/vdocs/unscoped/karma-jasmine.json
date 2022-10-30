@@ -1,0 +1,78 @@
+{
+  "name": "karma-jasmine",
+  "version": "5.1.0",
+  "description": "A Karma plugin - adapter for Jasmine testing framework.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "grunt build",
+    "lint": "eslint \"**/*.js\"",
+    "lint:fix": "eslint --fix \"**/*.js\"",
+    "commitlint": "commitlint",
+    "test": "npm run test:unit && npm run test:e2e && npm run test:integration",
+    "test:unit": "jasmine",
+    "test:e2e": "karma start karma.conf.js",
+    "test:integration": "bash tools/integration-tests.sh",
+    "release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/karma-runner/karma-jasmine.git"
+  },
+  "dependencies": {
+    "jasmine-core": "^4.1.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-angular": "^16.2.3",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.4",
+    "@semantic-release/npm": "^9.0.1",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "eslint-plugin-standard": "^4.1.0",
+    "grunt": "^1.5.2",
+    "husky": "^4.3.8",
+    "jasmine": "^4.1.0",
+    "karma": "^6.3.18",
+    "karma-firefox-launcher": "^2.1.2",
+    "semantic-release": "^19.0.2"
+  },
+  "peerDependencies": {
+    "karma": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "license": "MIT",
+  "gitHead": "c3f702a2a567086e6069dd57b0308c2da1a90e37",
+  "_id": "karma-jasmine@5.1.0",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.6.0",
+  "dist": {
+    "integrity": "sha512-i/zQLFrfEpRyQoJF9fsCdTMOF5c2dK7C7OmsuKg2D0YSsuZSfQDiLuaiktbuio6F2wiCsZSnSnieIQ0ant/uzQ==",
+    "tarball": "https://registry.npmjs.org/karma-jasmine/-/karma-jasmine-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "karma-jasmine",
+  "key": "karma-jasmine/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "karma-jasmine",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-4kKzyAInVK8g+UCM9XBwcdjxR8v5yxPlhrRZVviy7iY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma-jasmine/-/karma-jasmine-5.1.0.tgz"
+  }
+}

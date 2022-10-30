@@ -1,0 +1,79 @@
+{
+  "name": "winston",
+  "description": "A logger for just about everything.",
+  "version": "3.8.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winstonjs/winston.git"
+  },
+  "dependencies": {
+    "@dabh/diagnostics": "^2.0.2",
+    "@colors/colors": "1.5.0",
+    "async": "^3.2.3",
+    "is-stream": "^2.0.0",
+    "logform": "^2.4.0",
+    "one-time": "^1.0.0",
+    "readable-stream": "^3.4.0",
+    "safe-stable-stringify": "^2.3.1",
+    "stack-trace": "0.0.x",
+    "triple-beam": "^1.3.0",
+    "winston-transport": "^4.5.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.7",
+    "@dabh/eslint-config-populist": "^5.0.0",
+    "@types/node": "^18.0.0",
+    "abstract-winston-transport": "^0.5.1",
+    "assume": "^2.2.0",
+    "cross-spawn-async": "^2.2.5",
+    "eslint": "^8.9.0",
+    "hock": "^1.4.1",
+    "mocha": "8.1.3",
+    "nyc": "^15.1.0",
+    "rimraf": "^3.0.2",
+    "split2": "^4.1.0",
+    "std-mocks": "^1.0.1",
+    "through2": "^4.0.2",
+    "winston-compat": "^0.1.5"
+  },
+  "main": "./lib/winston.js",
+  "browser": "./dist/winston",
+  "types": "./index.d.ts",
+  "scripts": {
+    "lint": "eslint lib/*.js lib/winston/*.js lib/winston/**/*.js --resolve-plugins-relative-to ./node_modules/@dabh/eslint-config-populist",
+    "test": "mocha",
+    "test:coverage": "nyc npm run test:unit",
+    "test:unit": "mocha test/unit",
+    "test:integration": "mocha test/integration",
+    "build": "rimraf dist && babel lib -d dist",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "license": "MIT",
+  "gitHead": "101e2f45057ae16835bcc2f35ca00e77dd004465",
+  "_id": "winston@3.8.2",
+  "_nodeVersion": "16.10.0",
+  "_npmVersion": "8.13.0",
+  "dist": {
+    "integrity": "sha512-MsE1gRx1m5jdTTO9Ld/vND4krP2To+lgDoMEHGGa4HIlAUyXJtfc7CxQcGXVyz2IBpw5hbFkj2b/AtUdQwyRew==",
+    "tarball": "https://registry.npmjs.org/winston/-/winston-3.8.2.tgz"
+  },
+  "directories": {},
+  "ident": "winston",
+  "key": "winston/3.8.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "winston",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-YczLe4P0ZfOB6BKrL5vm7BjhgAiHT90bgiuTQMe6i2A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/winston/-/winston-3.8.2.tgz"
+  }
+}

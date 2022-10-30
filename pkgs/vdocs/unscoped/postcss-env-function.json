@@ -1,0 +1,70 @@
+{
+  "name": "postcss-env-function",
+  "description": "Use env() variables in CSS",
+  "version": "4.0.6",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "postcss-value-parser": "^4.2.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.4"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.cjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-env-function"
+  },
+  "csstools": {
+    "exportName": "postcssEnvFunction",
+    "humanReadableName": "PostCSS Environment Variables"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "99a732a41a7c83b6ac5da44aa96b85881f598431",
+  "_id": "postcss-env-function@4.0.6",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-kpA6FsLra+NqcFnL81TnsU+Z7orGtDTxcOhl6pwXeEq1yFPpRMkCDpHhrz8CFQDr/Wfm0jLiNQ1OsGGPjlqPwA==",
+    "tarball": "https://registry.npmjs.org/postcss-env-function/-/postcss-env-function-4.0.6.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-env-function",
+  "key": "postcss-env-function/4.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-env-function",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-s8xfZ3Ai2mrUZwQL+Qb3gpQxwmX9sukcqa43kOeD22M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-env-function/-/postcss-env-function-4.0.6.tgz"
+  }
+}

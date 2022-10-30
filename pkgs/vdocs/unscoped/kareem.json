@@ -1,0 +1,46 @@
+{
+  "name": "kareem",
+  "version": "2.4.1",
+  "description": "Next-generation take on pre/post function hooks",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha ./test/*",
+    "test-travis": "nyc mocha ./test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vkarpov15/kareem.git"
+  },
+  "devDependencies": {
+    "@masteringjs/eslint-config": "0.0.1",
+    "acquit": "1.x",
+    "acquit-ignore": "0.1.x",
+    "eslint": "8.15.0",
+    "mocha": "9.2.0",
+    "nyc": "15.1.0"
+  },
+  "license": "Apache-2.0",
+  "gitHead": "db2dcc714f8158e50a81c2b53f47e87a06dd6772",
+  "_id": "kareem@2.4.1",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-aJ9opVoXroQUPfovYP5kaj2lM7Jn02Gw13bL0lg9v0V7SaUc0qavPs0Eue7d2DcC3NjqI6QAUElXNsuZSeM+EA==",
+    "tarball": "https://registry.npmjs.org/kareem/-/kareem-2.4.1.tgz"
+  },
+  "directories": {},
+  "ident": "kareem",
+  "key": "kareem/2.4.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "kareem",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XPwewzDg0lSHH2VWRPKBGZ+lVvuNBrXnujpN2wv5dVU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/kareem/-/kareem-2.4.1.tgz"
+  }
+}

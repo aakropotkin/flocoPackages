@@ -1,0 +1,59 @@
+{
+  "name": "imagemin",
+  "version": "8.0.1",
+  "description": "Minify images seamlessly",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagemin/imagemin.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "file-type": "^16.5.3",
+    "globby": "^12.0.0",
+    "graceful-fs": "^4.2.8",
+    "junk": "^3.1.0",
+    "p-pipe": "^4.0.0",
+    "replace-ext": "^2.0.0",
+    "slash": "^3.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "del": "^6.0.0",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-svgo": "^9.0.0",
+    "imagemin-webp": "^6.0.0",
+    "is-jpg": "^2.0.0",
+    "tempy": "^1.0.1",
+    "xo": "^0.43.0"
+  },
+  "gitHead": "6832717d644ac69afc402939f5bca0d5f297697f",
+  "_id": "imagemin@8.0.1",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-Q/QaPi+5HuwbZNtQRqUVk6hKacI6z9iWiCSQBisAv7uBynZwO7t1svkryKl7+iSQbkU/6t9DWnHz04cFs2WY7w==",
+    "tarball": "https://registry.npmjs.org/imagemin/-/imagemin-8.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "imagemin",
+  "key": "imagemin/8.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "imagemin",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ViS/dQhy8Ln2X1i2danUs+DPpWUpMynG0OjxAe4w/7o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/imagemin/-/imagemin-8.0.1.tgz"
+  }
+}

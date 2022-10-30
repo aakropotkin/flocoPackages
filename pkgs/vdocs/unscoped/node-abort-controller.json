@@ -1,0 +1,46 @@
+{
+  "name": "node-abort-controller",
+  "version": "3.0.1",
+  "description": "AbortController for Node based on EventEmitter",
+  "main": "index.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/southpolesteve/node-abort-controller.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.2.4",
+    "node-fetch": "^2.6.5",
+    "whatwg-fetch": "^3.6.2"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "32763ce5916e01a03980cea1e8eec665864b6087",
+  "_id": "node-abort-controller@3.0.1",
+  "_nodeVersion": "16.9.0",
+  "_npmVersion": "7.23.0",
+  "dist": {
+    "integrity": "sha512-/ujIVxthRs+7q6hsdjHMaj8hRG9NuWmwrz+JdRwZ14jdFoKSkm+vDsCbF9PLpnSqjaWQJuTmVtcWHNLr+vrOFw==",
+    "tarball": "https://registry.npmjs.org/node-abort-controller/-/node-abort-controller-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "node-abort-controller",
+  "key": "node-abort-controller/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "node-abort-controller",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PD+bhJ7KVr4r67l030hQOoZqlBhqpNVQOnXTG0jFz3g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-abort-controller/-/node-abort-controller-3.0.1.tgz"
+  }
+}

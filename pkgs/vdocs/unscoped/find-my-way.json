@@ -1,0 +1,67 @@
+{
+  "name": "find-my-way",
+  "version": "7.3.1",
+  "description": "Crazy fast http radix based router",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "bench": "node bench.js",
+    "bench:cmp": "node bench-cmp.js",
+    "bench:cmp:ci": "node bench-cmp.js --ci",
+    "test:lint": "standard",
+    "test:typescript": "tsd",
+    "test": "standard && tap -J test/*.test.js && npm run test:typescript",
+    "test:report": "tap -J test/*.test.js --cov --coverage-report=html --coverage-report=cobertura | tee out.tap",
+    "test:reporter": "tap-mocha-reporter xunit < out.tap > test/junit-testresults.xml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delvedor/find-my-way.git"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "benchmark": "^2.1.4",
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.4",
+    "pre-commit": "^1.2.2",
+    "simple-git": "^3.7.1",
+    "standard": "^14.3.4",
+    "tap": "^16.0.1",
+    "tap-mocha-reporter": "^5.0.1",
+    "tsd": "^0.13.1"
+  },
+  "dependencies": {
+    "fast-deep-equal": "^3.1.3",
+    "fast-querystring": "^1.0.0",
+    "safe-regex2": "^2.0.0"
+  },
+  "tsd": {
+    "directory": "test/types"
+  },
+  "gitHead": "e3daace8b70ea89a0b4f4154150b02a26c8a2f51",
+  "_id": "find-my-way@7.3.1",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-kGvM08SOkqvheLcuQ8GW9t/H901Qb9rZEbcNWbXopzy4jDRoaJpJoObPSKf4MnQLZ20ZTp7rL5MpF6rf+pqmyg==",
+    "tarball": "https://registry.npmjs.org/find-my-way/-/find-my-way-7.3.1.tgz"
+  },
+  "directories": {},
+  "ident": "find-my-way",
+  "key": "find-my-way/7.3.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "find-my-way",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-SdtetxTJQFkoMXWGa7ao8WEgWoD0IZIcvLjF9RBhroc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/find-my-way/-/find-my-way-7.3.1.tgz"
+  }
+}

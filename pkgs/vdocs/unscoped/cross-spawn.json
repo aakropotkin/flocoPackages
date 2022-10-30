@@ -1,0 +1,80 @@
+{
+  "name": "cross-spawn",
+  "version": "7.0.3",
+  "description": "Cross platform child_process#spawn and child_process#spawnSync",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moxystudio/node-cross-spawn.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest --env node --coverage",
+    "prerelease": "npm t && npm run lint",
+    "release": "standard-version",
+    "postrelease": "git push --follow-tags origin HEAD && npm publish"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "dependencies": {
+    "path-key": "^3.1.0",
+    "shebang-command": "^2.0.0",
+    "which": "^2.0.1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.1.0",
+    "@commitlint/config-conventional": "^8.1.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.9.0",
+    "babel-preset-moxy": "^3.1.0",
+    "eslint": "^5.16.0",
+    "eslint-config-moxy": "^7.1.0",
+    "husky": "^3.0.5",
+    "jest": "^24.9.0",
+    "lint-staged": "^9.2.5",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^3.0.0",
+    "standard-version": "^7.0.0"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "gitHead": "7bc42bc409d9da6ad691df8d1d5ef69003bf1dc3",
+  "_id": "cross-spawn@7.0.3",
+  "_nodeVersion": "12.16.3",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w==",
+    "tarball": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "cross-spawn",
+  "key": "cross-spawn/7.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cross-spawn",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JZEEsKxB3BAGF+e9rlh4d9UUa8JEz4dSjfAvIXrerzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.3.tgz"
+  }
+}

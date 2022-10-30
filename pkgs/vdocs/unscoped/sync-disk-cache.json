@@ -1,0 +1,65 @@
+{
+  "name": "sync-disk-cache",
+  "version": "2.1.0",
+  "description": "sync disk cache",
+  "scripts": {
+    "test": "mocha test.js",
+    "test:debug": "mocha debug test.js",
+    "test:dot": "mocha test.js --reporter dot",
+    "coverage": "istanbul cover _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanpenner/sync-disk-cache.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/stefanpenner/sync-disk-cache/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "debug": "^4.1.1",
+    "heimdalljs": "^0.2.6",
+    "mkdirp": "^0.5.0",
+    "rimraf": "^3.0.0",
+    "username-sync": "^1.0.2"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.2",
+    "should": "^13.2.3"
+  },
+  "engines": {
+    "node": "8.* || >= 10.*"
+  },
+  "jscsConfig": {
+    "preset": "google",
+    "disallowMultipleVarDecl": true,
+    "maximumLineLength": 80,
+    "requireBlocksOnNewline": true,
+    "validateLineBreaks": "LF"
+  },
+  "gitHead": "5838273ffc3b74b7cfb068b084c7cf69e1e9240b",
+  "_id": "sync-disk-cache@2.1.0",
+  "_nodeVersion": "12.16.2",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-vngT2JmkSapgq0z7uIoYtB9kWOOzMihAAYq/D3Pjm/ODOGMgS4r++B+OZ09U4hWR6EaOdy9eqQ7/8ygbH3wehA==",
+    "tarball": "https://registry.npmjs.org/sync-disk-cache/-/sync-disk-cache-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "sync-disk-cache",
+  "key": "sync-disk-cache/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sync-disk-cache",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-kShjr8zD2EE+pxuMp9rP6Rhllpxfi97cxVHrf0p99o4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sync-disk-cache/-/sync-disk-cache-2.1.0.tgz"
+  }
+}

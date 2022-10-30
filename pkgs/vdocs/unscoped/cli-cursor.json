@@ -1,0 +1,49 @@
+{
+  "name": "cli-cursor",
+  "version": "4.0.0",
+  "description": "Toggle the CLI cursor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/cli-cursor.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "restore-cursor": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "ava": "^3.15.0",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "e5722c2b3967dd43f12cc3c4a102f8089e3b7a34",
+  "_id": "cli-cursor@4.0.0",
+  "_nodeVersion": "16.7.0",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-VGtlMu3x/4DOtIUwEkRezxUZ2lBacNJCHash0N0WeZDBS+7Ux1dm3XWAgWYxLJFMMdOeXMHXorshEFhbMSGelg==",
+    "tarball": "https://registry.npmjs.org/cli-cursor/-/cli-cursor-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "cli-cursor",
+  "key": "cli-cursor/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cli-cursor",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-vf21IplCJ9ctzZ/hNSPahElmZyOer9bgHF0kaL0TQhY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-cursor/-/cli-cursor-4.0.0.tgz"
+  }
+}

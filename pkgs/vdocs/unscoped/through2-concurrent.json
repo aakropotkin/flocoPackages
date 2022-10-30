@@ -1,0 +1,47 @@
+{
+  "name": "through2-concurrent",
+  "version": "2.0.0",
+  "description": "Like through2 except runs in parallel with limited concurrency",
+  "main": "through2-concurrent.js",
+  "files": [
+    "through2-concurrent.js"
+  ],
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almost/through2-concurrent.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.2.1",
+    "underscore": "^1.8.2"
+  },
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+  "gitHead": "3a07532f80b2620405ac4aa68a2dce03ffc0b7fe",
+  "_id": "through2-concurrent@2.0.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.9.4",
+  "dist": {
+    "integrity": "sha512-R5/jLkfMvdmDD+seLwN7vB+mhbqzWop5fAjx5IX8/yQq7VhBhzDmhXgaHAOnhnWkCpRMM7gToYHycB0CS/pd+A==",
+    "tarball": "https://registry.npmjs.org/through2-concurrent/-/through2-concurrent-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "through2-concurrent",
+  "key": "through2-concurrent/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "through2-concurrent",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-wH4ZbgpL0kPlLBoaZF6mcflJEltGyPBWzvuyyIBkkJg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/through2-concurrent/-/through2-concurrent-2.0.0.tgz"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "somever",
+  "description": "Semantic versioning rules parser",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hapijs/somever.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "bounce": "1.x.x",
+    "hoek": "6.x.x"
+  },
+  "devDependencies": {
+    "code": "5.x.x",
+    "lab": "17.x.x"
+  },
+  "scripts": {
+    "test": "lab -a code -t 100 -L",
+    "test-cov-html": "lab -a code -r html -o coverage.html"
+  },
+  "license": "BSD-3-Clause",
+  "gitHead": "5c6962003673b629a759df7affb17c3dfea56572",
+  "_id": "somever@2.0.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-9JaIPP+HxwYGqCDqqK3tRaTqdtQHoK6Qy3IrXhIt2q5x8fs8RcfU7BMWlFTCOgFazK8p88zIv1tHQXvAwtXMyw==",
+    "tarball": "https://registry.npmjs.org/somever/-/somever-2.0.0.tgz"
+  },
+  "directories": {},
+  "deprecated": "This module has moved and is now available at @hapi/somever. Please update your dependencies as this version is no longer maintained an may contain bugs and security issues.",
+  "ident": "somever",
+  "key": "somever/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "somever",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-je8fjt1L4d2mEmwdbWn8sJLaC8dlrPoLzsJiuSZXeLM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/somever/-/somever-2.0.0.tgz"
+  }
+}

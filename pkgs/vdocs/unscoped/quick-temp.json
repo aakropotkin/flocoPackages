@@ -1,0 +1,40 @@
+{
+  "name": "quick-temp",
+  "description": "Create and remove temporary directories with minimal effort",
+  "version": "0.1.8",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joliss/node-quick-temp.git"
+  },
+  "dependencies": {
+    "mktemp": "~0.4.0",
+    "rimraf": "^2.5.4",
+    "underscore.string": "~3.3.4"
+  },
+  "gitHead": "c5e1f7faeea22f65b6a34c4ae7b690972159802c",
+  "_id": "quick-temp@0.1.8",
+  "scripts": {},
+  "_shasum": "bab02a242ab8fb0dd758a3c9776b32f9a5d94408",
+  "_from": ".",
+  "_npmVersion": "4.0.5",
+  "_nodeVersion": "7.4.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/quick-temp/-/quick-temp-0.1.8.tgz",
+    "integrity": "sha512-YsmIFfD9j2zaFwJkzI6eMG7y0lQP7YeWzgtFgNl38pGWZBSXJooZbOWwkcRot7Vt0Fg9L23pX0tqWU3VvLDsiA=="
+  },
+  "ident": "quick-temp",
+  "key": "quick-temp/0.1.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "quick-temp",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-H1C6vXWp4kaj/docwGOUfx5AgaPggtqgO1L6BPZpaY8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/quick-temp/-/quick-temp-0.1.8.tgz"
+  }
+}

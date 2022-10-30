@@ -1,0 +1,51 @@
+{
+  "name": "js-sha3",
+  "version": "0.8.0",
+  "description": "A simple SHA-3 / Keccak / Shake hash function for JavaScript supports UTF-8 encoding.",
+  "main": "src/sha3.js",
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "mocha": "~2.3.4",
+    "nyc": "^11.3.0",
+    "uglify-js": "^3.1.9",
+    "webworker-threads": "^0.7.13"
+  },
+  "scripts": {
+    "test": "nyc mocha tests/node-test.js",
+    "report": "nyc --reporter=html --reporter=text mocha tests/node-test.js",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls",
+    "build": "uglifyjs src/sha3.js -c -m --comments --output build/sha3.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emn178/js-sha3.git"
+  },
+  "license": "MIT",
+  "nyc": {
+    "exclude": [
+      "tests"
+    ]
+  },
+  "gitHead": "b39d0910cb4cce54a6060c21e1491d55f70269bf",
+  "_id": "js-sha3@0.8.0",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.2.1",
+  "dist": {
+    "integrity": "sha512-gF1cRrHhIzNfToc802P800N8PpXS+evLLXfsVpowqmAFR9uwbi89WvXg2QspOmXL8QL86J4T1EpFu+yUkwJY3Q==",
+    "tarball": "https://registry.npmjs.org/js-sha3/-/js-sha3-0.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "js-sha3",
+  "key": "js-sha3/0.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "js-sha3",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-IUg3cH6b+7A7mubG3UMsZIUgpMaVuxw0fZVqN7kHBhw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js-sha3/-/js-sha3-0.8.0.tgz"
+  }
+}

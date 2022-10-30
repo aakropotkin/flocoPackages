@@ -1,0 +1,57 @@
+{
+  "name": "xml2js",
+  "description": "Simple XML to JavaScript object converter.",
+  "version": "0.4.23",
+  "main": "./lib/xml2js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "build": "cake build",
+    "test": "zap",
+    "coverage": "nyc npm test && nyc report",
+    "coveralls": "nyc npm test && nyc report --reporter=text-lcov | coveralls",
+    "doc": "cake doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonidas-from-XIV/node-xml2js.git"
+  },
+  "dependencies": {
+    "sax": ">=0.6.0",
+    "xmlbuilder": "~11.0.0"
+  },
+  "devDependencies": {
+    "coffee-script": ">=1.10.0",
+    "coveralls": "^3.0.1",
+    "diff": ">=1.0.8",
+    "docco": ">=0.6.2",
+    "nyc": ">=2.2.1",
+    "zap": ">=0.2.9"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "MIT",
+  "gitHead": "8fc5b926846cd4ef9a2dbccd411705e0c110a708",
+  "_id": "xml2js@0.4.23",
+  "_nodeVersion": "13.4.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-ySPiMjM0+pLDftHgXY4By0uswI3SPKLDw/i3UXbnO8M/p28zqexCUoPmQFrYD+/1BzhGJSs2i1ERWKJAtiLrug==",
+    "tarball": "https://registry.npmjs.org/xml2js/-/xml2js-0.4.23.tgz"
+  },
+  "ident": "xml2js",
+  "key": "xml2js/0.4.23",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "xml2js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-V7YxUJLb1PWoXJG8d5GYA10p8F7Lc/1kklJ+CuVnCZA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xml2js/-/xml2js-0.4.23.tgz"
+  }
+}

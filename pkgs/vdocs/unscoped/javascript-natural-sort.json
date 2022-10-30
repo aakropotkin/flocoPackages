@@ -1,0 +1,34 @@
+{
+  "name": "javascript-natural-sort",
+  "version": "0.7.1",
+  "description": "Natural Sort algorithm for Javascript - Version 0.7 - Released under MIT license",
+  "main": "naturalSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bill4Time/javascript-natural-sort.git"
+  },
+  "license": "MIT",
+  "_id": "javascript-natural-sort@0.7.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/javascript-natural-sort/-/javascript-natural-sort-0.7.1.tgz",
+    "integrity": "sha512-nO6jcEfZWQXDhOiBtG2KvKyEptz7RVbpGP4vTD2hLBdmNQSsCiicO2Ioinv6UI4y9ukqnBpy+XZ9H6uLNgJTlw=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.3.14",
+  "ident": "javascript-natural-sort",
+  "key": "javascript-natural-sort/0.7.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "javascript-natural-sort",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-g890HFcuvzVhg8x32kzvXOfDnbGQYc8y09VUzdlgJ4c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/javascript-natural-sort/-/javascript-natural-sort-0.7.1.tgz"
+  }
+}

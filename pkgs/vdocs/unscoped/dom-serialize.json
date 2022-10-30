@@ -1,0 +1,46 @@
+{
+  "name": "dom-serialize",
+  "version": "2.2.1",
+  "description": "Serializes any DOM node into a String",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/dom-serialize.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "custom-event": "~1.0.0",
+    "ent": "~2.2.0",
+    "extend": "^3.0.0",
+    "void-elements": "^2.0.0"
+  },
+  "devDependencies": {
+    "zuul": "1"
+  },
+  "gitHead": "3e9706965c76cfc2a74a6f3c113f89bffd49cb29",
+  "_id": "dom-serialize@2.2.1",
+  "_shasum": "562ae8999f44be5ea3076f5419dcd59eb43ac95b",
+  "_from": ".",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/dom-serialize/-/dom-serialize-2.2.1.tgz",
+    "integrity": "sha512-Yra4DbvoW7/Z6LBN560ZwXMjoNOSAN2wRsKFGc4iBeso+mpIA6qj1vfdf9HpMaKAqG6wXTy+1SYEzmNpKXOSsQ=="
+  },
+  "ident": "dom-serialize",
+  "key": "dom-serialize/2.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dom-serialize",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-vh/A/+rNdC0QdkHZzlyDP5RLKf1gnQBtLJnEg2XSMek=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dom-serialize/-/dom-serialize-2.2.1.tgz"
+  }
+}

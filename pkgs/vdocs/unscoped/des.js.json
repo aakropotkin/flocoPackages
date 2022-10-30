@@ -1,0 +1,45 @@
+{
+  "name": "des.js",
+  "version": "1.0.1",
+  "description": "DES implementation",
+  "main": "lib/des.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/*-test.js && jscs lib/*.js lib/**/*.js test/*.js && jshint lib/*.js lib/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/des.js.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jscs": "^3.0.7",
+    "jshint": "^2.8.0",
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "minimalistic-assert": "^1.0.0"
+  },
+  "gitHead": "f2050549153c67518a06e7ee8972cbe51cf7e180",
+  "_id": "des.js@1.0.1",
+  "_nodeVersion": "12.11.0",
+  "_npmVersion": "6.12.1",
+  "dist": {
+    "integrity": "sha512-Q0I4pfFrv2VPd34/vfLrFOoRmlYj3OV50i7fskps1jZWK1kApMWWT9G6RRUeYedLcBDIhnSDaUvJMb3AhUlaEA==",
+    "tarball": "https://registry.npmjs.org/des.js/-/des.js-1.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "des.js",
+  "key": "des.js/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "des.js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-52W0rS946waylYTNzycmde2gt82V+Rh6tbh3jReqAA8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/des.js/-/des.js-1.0.1.tgz"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "font-awesome",
+  "description": "The iconic font and CSS framework",
+  "version": "4.7.0",
+  "style": "css/font-awesome.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
+  },
+  "license": "(OFL-1.1 AND MIT)",
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.3"
+  },
+  "gitHead": "a8386aae19e200ddb0f6845b5feeee5eb7013687",
+  "_id": "font-awesome@4.7.0",
+  "scripts": {},
+  "_shasum": "8fa8cf0411a1a31afd07b06d2902bb9fc815a133",
+  "_from": ".",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.5.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz",
+    "integrity": "sha512-U6kGnykA/6bFmg1M/oT9EkFeIYv7JlX3bozwQJWiiLz6L0w3F5vBVPxHlwyX/vtNq1ckcpRKOB9f2Qal/VtFpg=="
+  },
+  "directories": {},
+  "ident": "font-awesome",
+  "key": "font-awesome/4.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "font-awesome",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-c7VvpSJmt1Fr8PP6yzHls6U5RUZVlNBj+cC05mhb3fY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "global-prefix",
+  "description": "Get the npm global path prefix.",
+  "version": "3.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/global-prefix.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "ini": "^1.3.5",
+    "kind-of": "^6.0.2",
+    "which": "^1.3.1"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^5.2.0"
+  },
+  "gitHead": "16c419b3135f4dcb8fb430915f446b093151f613",
+  "_id": "global-prefix@3.0.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "11.4.0",
+  "dist": {
+    "integrity": "sha512-awConJSVCHVGND6x3tmMaKcQvwXLhjdkmomy2W+Goaui8YPgYgXJZewhg3fWC+DlfqqQuWg8AwqjGTD2nAPVWg==",
+    "tarball": "https://registry.npmjs.org/global-prefix/-/global-prefix-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "global-prefix",
+  "key": "global-prefix/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "global-prefix",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Zk6jkADnreFCCuKX8QWw0hQ6IaCUUjwo+pxoHtPrF8g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/global-prefix/-/global-prefix-3.0.0.tgz"
+  }
+}

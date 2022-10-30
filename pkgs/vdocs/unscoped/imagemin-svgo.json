@@ -1,0 +1,48 @@
+{
+  "name": "imagemin-svgo",
+  "version": "10.0.1",
+  "description": "SVGO imagemin plugin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagemin/imagemin-svgo.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12.20"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "is-svg": "^4.3.1",
+    "svgo": "^2.5.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "925c9110f99bf30bbb4045173ce9e6ac5235537e",
+  "_id": "imagemin-svgo@10.0.1",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.3",
+  "dist": {
+    "integrity": "sha512-v27/UTGkb3vrm5jvjsMGQ2oxaDfSOTBfJOgmFO2fYepx05bY1IqWCK13aDytVR+l9w9eOlq0NMCLbxJlghYb2g==",
+    "tarball": "https://registry.npmjs.org/imagemin-svgo/-/imagemin-svgo-10.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "imagemin-svgo",
+  "key": "imagemin-svgo/10.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "imagemin-svgo",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-72rcao1OUNdtsBD2Km7S5B+qmJf2iAsHJENopujxi5c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/imagemin-svgo/-/imagemin-svgo-10.0.1.tgz"
+  }
+}

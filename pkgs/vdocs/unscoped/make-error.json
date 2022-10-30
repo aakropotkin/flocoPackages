@@ -1,0 +1,62 @@
+{
+  "name": "make-error",
+  "version": "1.3.6",
+  "main": "index.js",
+  "license": "ISC",
+  "description": "Make your own error types!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JsCommunity/make-error.git"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3",
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "husky": "^3.0.9",
+    "jest": "^24",
+    "prettier": "^1.14.3",
+    "uglify-js": "^3.3.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "dev-test": "jest --watch",
+    "format": "prettier --write '**'",
+    "prepublishOnly": "mkdir -p dist && browserify -s makeError index.js | uglifyjs -c > dist/make-error.js",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "jest"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "npm run test"
+    }
+  },
+  "gitHead": "5ea5cebd9d9fa78e920ad2d2054b6fd66dd5c7d1",
+  "_id": "make-error@1.3.6",
+  "_nodeVersion": "8.17.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-s8UhlNe7vPKomQhC1qFelMokr/Sc3AgNbso3n74mVPA5LTZwkB9NlXf4XPamLxJE8h0gh73rM94xvwRT2CVInw==",
+    "tarball": "https://registry.npmjs.org/make-error/-/make-error-1.3.6.tgz"
+  },
+  "directories": {},
+  "ident": "make-error",
+  "key": "make-error/1.3.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "make-error",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3l3HyYAFy+3j/13XP+YBaRi7+YRK4RQvptpv6vojlgo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-error/-/make-error-1.3.6.tgz"
+  }
+}

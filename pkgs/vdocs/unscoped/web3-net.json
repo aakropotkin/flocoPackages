@@ -1,0 +1,50 @@
+{
+  "name": "web3-net",
+  "version": "1.8.0",
+  "description": "Web3 module to interact with the Ethereum nodes networking properties.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereum/web3.js.git#1.x"
+  },
+  "license": "LGPL-3.0",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "types": "types/index.d.ts",
+  "scripts": {
+    "compile": "tsc -b tsconfig.json",
+    "dtslint": "dtslint --localTs ../../node_modules/typescript/lib types"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "web3-core": "1.8.0",
+    "web3-core-method": "1.8.0",
+    "web3-utils": "1.8.0"
+  },
+  "devDependencies": {
+    "dtslint": "^3.4.1",
+    "typescript": "^3.9.5"
+  },
+  "gitHead": "59b657b8c02af05575dc2d0ed321fa7d3aa8eaf6",
+  "_id": "web3-net@1.8.0",
+  "_nodeVersion": "14.20.0",
+  "_npmVersion": "lerna/4.0.0/node@v14.20.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-kX6EAacK7QrOe7DOh0t5yHS5q2kxZmTCxPVwSz9io9xBeE4n4UhmzGJ/VfhP2eM3OPKYeypcR3LEO6zZ8xn2vw==",
+    "tarball": "https://registry.npmjs.org/web3-net/-/web3-net-1.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "web3-net",
+  "key": "web3-net/1.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "web3-net",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-EdU/Vv0ZZnHft2y3/HSzUGR90EW1PLkjy2VXV2yL2v8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/web3-net/-/web3-net-1.8.0.tgz"
+  }
+}

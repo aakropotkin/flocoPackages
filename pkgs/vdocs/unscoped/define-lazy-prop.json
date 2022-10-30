@@ -1,0 +1,45 @@
+{
+  "name": "define-lazy-prop",
+  "version": "3.0.0",
+  "description": "Define a lazily evaluated property on an object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/define-lazy-prop.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "038c2e8088b23e81100e34e7f38d1690c631157c",
+  "_id": "define-lazy-prop@3.0.0",
+  "_nodeVersion": "15.12.0",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-N+MeXYoqr3pOgn8xfyRPREN7gHakLYjhsHhWGT3fWAiL4IkAt0iDw14QiiEm2bE30c5XX5q0FtAA3CK5f9/BUg==",
+    "tarball": "https://registry.npmjs.org/define-lazy-prop/-/define-lazy-prop-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "define-lazy-prop",
+  "key": "define-lazy-prop/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "define-lazy-prop",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-g4qyble9/G/ELbdvv7M2oCU+ZLmLP/JIwSs6SbElmPI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/define-lazy-prop/-/define-lazy-prop-3.0.0.tgz"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "chai-as-promised",
+  "description": "Extends Chai with assertions about promises.",
+  "version": "7.1.1",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domenic/chai-as-promised.git"
+  },
+  "main": "./lib/chai-as-promised.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "mocha",
+    "test-travis": "npm install chai@$CHAI_VERSION && npm test",
+    "lint": "eslint .",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha && opener ./coverage/lcov-report/lib/chai-as-promised.js.html"
+  },
+  "dependencies": {
+    "check-error": "^1.0.2"
+  },
+  "peerDependencies": {
+    "chai": ">= 2.1.2 < 5"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "eslint": "^3.19.0",
+    "istanbul": "0.4.5",
+    "mocha": "^3.4.2"
+  },
+  "gitHead": "e237fd24a47924c6a625df7bbde2ae40783f7c6f",
+  "_id": "chai-as-promised@7.1.1",
+  "_npmVersion": "5.0.4",
+  "_nodeVersion": "8.1.3",
+  "dist": {
+    "integrity": "sha512-azL6xMoi+uxu6z4rhWQ1jbdUhOMhis2PvscD/xjLqNMkv3BPPp2JyyuTHOrf9BOosGpNQ11v6BKv/g57RXbiaA==",
+    "tarball": "https://registry.npmjs.org/chai-as-promised/-/chai-as-promised-7.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "chai-as-promised",
+  "key": "chai-as-promised/7.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "chai-as-promised",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-RjUlEx+d6HjGQJCvol6h2hmAEg5TRAQJ/dAyRnZPv6Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/chai-as-promised/-/chai-as-promised-7.1.1.tgz"
+  }
+}

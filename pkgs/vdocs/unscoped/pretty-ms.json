@@ -1,0 +1,49 @@
+{
+  "name": "pretty-ms",
+  "version": "8.0.0",
+  "description": "Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/pretty-ms.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "parse-ms": "^3.0.0"
+  },
+  "devDependencies": {
+    "ava": "^4.3.0",
+    "tsd": "^0.20.0",
+    "xo": "^0.49.0"
+  },
+  "gitHead": "73389247d677dd83587b43bed255b6d38b4b65a7",
+  "_id": "pretty-ms@8.0.0",
+  "_nodeVersion": "14.19.2",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-ASJqOugUF1bbzI35STMBUpZqdfYKlJugy6JBziGi2EE+AL5JPJGSzvpeVXojxrr0ViUYoToUjb5kjSEGf7Y83Q==",
+    "tarball": "https://registry.npmjs.org/pretty-ms/-/pretty-ms-8.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "pretty-ms",
+  "key": "pretty-ms/8.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pretty-ms",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Le0rLGyjcLZpvw02q4w9APzLUP0alR/itJWw7xWPR5o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pretty-ms/-/pretty-ms-8.0.0.tgz"
+  }
+}

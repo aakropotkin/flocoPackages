@@ -1,0 +1,44 @@
+{
+  "name": "postgres-interval",
+  "main": "index.js",
+  "version": "4.0.0",
+  "description": "Parse Postgres interval columns",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendrucker/postgres-interval.git"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^16.0.0",
+    "tape": "^5.0.0"
+  },
+  "gitHead": "ce744662a30ae3104fd35a718bfbae71e362b524",
+  "_id": "postgres-interval@4.0.0",
+  "_nodeVersion": "16.6.1",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-OWeL7kyEKJiY7mCmVY+c7/6uhAlt/colA/Nl/Mgls/M3jssrQzFra04iNWnD/qAmG7TsCSgWAASCyiaoBOP/sg==",
+    "tarball": "https://registry.npmjs.org/postgres-interval/-/postgres-interval-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "postgres-interval",
+  "key": "postgres-interval/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postgres-interval",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-TGZ+47d7ZTDAg94mU0UhWziE3ENeAm6Ovw9He4p8fGU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postgres-interval/-/postgres-interval-4.0.0.tgz"
+  }
+}

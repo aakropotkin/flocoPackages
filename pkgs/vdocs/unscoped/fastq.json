@@ -1,0 +1,63 @@
+{
+  "name": "fastq",
+  "version": "1.13.0",
+  "description": "Fast, in memory work queue",
+  "main": "queue.js",
+  "scripts": {
+    "lint": "standard --verbose | snazzy",
+    "unit": "nyc --lines 100 --branches 100 --functions 100 --check-coverage --reporter=text tape test/test.js test/promise.js",
+    "coverage": "nyc --reporter=html --reporter=cobertura --reporter=text tape test/test.js test/promise.js",
+    "test:report": "npm run lint && npm run unit:report",
+    "test": "npm run lint && npm run unit && npm run typescript",
+    "typescript": "tsc --project ./test/tsconfig.json",
+    "legacy": "tape test/test.js"
+  },
+  "pre-commit": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcollina/fastq.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^3.1.0",
+    "neo-async": "^2.6.1",
+    "nyc": "^15.0.0",
+    "pre-commit": "^1.2.2",
+    "snazzy": "^9.0.0",
+    "standard": "^16.0.0",
+    "tape": "^5.0.0",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "reusify": "^1.0.4"
+  },
+  "standard": {
+    "ignore": [
+      "example.mjs"
+    ]
+  },
+  "gitHead": "3b9f23d8bcf2d9399fc2095d77ded7285c35128a",
+  "_id": "fastq@1.13.0",
+  "_nodeVersion": "14.17.0",
+  "_npmVersion": "6.14.13",
+  "dist": {
+    "integrity": "sha512-YpkpUnK8od0o1hmeSc7UUs/eB/vIPWJYjKck2QKIzAf71Vm1AAQ3EbuZB3g2JIy+pg+ERD0vqI79KyZiB2e2Nw==",
+    "tarball": "https://registry.npmjs.org/fastq/-/fastq-1.13.0.tgz"
+  },
+  "directories": {},
+  "ident": "fastq",
+  "key": "fastq/1.13.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fastq",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-KRCnH3+xuadp/ULow/EsM7P9k6q/iQbifqDjvLR+JPw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fastq/-/fastq-1.13.0.tgz"
+  }
+}

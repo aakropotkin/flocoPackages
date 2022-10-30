@@ -1,0 +1,49 @@
+{
+  "name": "run-sequence",
+  "description": "Run a series of dependent gulp tasks in order",
+  "version": "2.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OverZealous/run-sequence.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "fancy-log": "^1.3.2",
+    "plugin-error": "^0.1.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^3.4.2",
+    "should": "~11.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "gitHead": "31103da22f2e06a1b66af8fd7bee22d9a1ba0da1",
+  "_id": "run-sequence@2.2.1",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.3.0",
+  "dist": {
+    "integrity": "sha512-qkzZnQWMZjcKbh3CNly2srtrkaO/2H/SI5f2eliMCapdRD3UhMrwjfOAZJAnZ2H8Ju4aBzFZkBGXUqFs9V0yxw==",
+    "tarball": "https://registry.npmjs.org/run-sequence/-/run-sequence-2.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "run-sequence",
+  "key": "run-sequence/2.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "run-sequence",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-TpahBYIAYMKSoaNWjy3ZB+5rUtET/PBkmH+rtnOJ0OI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/run-sequence/-/run-sequence-2.2.1.tgz"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "path-to-regexp",
+  "version": "6.2.1",
+  "description": "Express style path to RegExp utility",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillarjs/path-to-regexp.git"
+  },
+  "main": "dist/index.js",
+  "module": "dist.es2015/index.js",
+  "scripts": {
+    "build": "ts-scripts build",
+    "format": "ts-scripts format",
+    "lint": "ts-scripts lint",
+    "prepare": "ts-scripts install && npm run build",
+    "size": "size-limit",
+    "specs": "ts-scripts specs",
+    "test": "ts-scripts test && npm run size"
+  },
+  "devDependencies": {
+    "@borderless/ts-scripts": "^0.8.0",
+    "@size-limit/preset-small-lib": "^7.0.8",
+    "@types/jest": "^27.4.0",
+    "@types/node": "^17.0.17",
+    "@types/semver": "^7.3.1",
+    "semver": "^7.3.5",
+    "size-limit": "^7.0.8",
+    "typescript": "^4.5.5"
+  },
+  "typings": "dist/index.d.ts",
+  "sideEffects": false,
+  "size-limit": [
+    {
+      "path": "dist.es2015/index.js",
+      "limit": "2.1 kB"
+    }
+  ],
+  "ts-scripts": {
+    "dist": [
+      "dist",
+      "dist.es2015"
+    ],
+    "project": [
+      "tsconfig.build.json",
+      "tsconfig.es2015.json"
+    ]
+  },
+  "gitHead": "b0778f5e8e6c6e9ee4e2f5b34e877cc5229f8036",
+  "_id": "path-to-regexp@6.2.1",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-JLyh7xT1kizaEvcaXOQwOc2/Yhw6KZOvPf1S8401UyLk86CU79LN3vl7ztXGm/pZ+YjoyAJ4rxmHwbkBXJX+yw==",
+    "tarball": "https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-6.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "path-to-regexp",
+  "key": "path-to-regexp/6.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "path-to-regexp",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-EuUAkR/gA8LNLDUCgFwOtrcCgXgIbOQu0R+gz2b+wI4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-6.2.1.tgz"
+  }
+}

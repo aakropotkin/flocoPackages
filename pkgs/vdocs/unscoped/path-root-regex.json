@@ -1,0 +1,72 @@
+{
+  "name": "path-root-regex",
+  "description": "Regular expression for getting the root of a posix or windows filepath.",
+  "version": "0.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regexhq/path-root-regex.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.7",
+    "mocha": "^2.4.5"
+  },
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": false,
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "highlight": "path-root",
+      "list": [
+        "parse-filepath",
+        "is-absolute"
+      ]
+    },
+    "reflinks": [
+      "verb",
+      "path-root"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "0b80fcc033e8eb960696672ed9b3f0262db48933",
+  "_id": "path-root-regex@0.1.2",
+  "_shasum": "bfccdc8df5b12dc52c8b43ec38d18d72c04ba96d",
+  "_from": ".",
+  "_npmVersion": "3.6.0",
+  "_nodeVersion": "5.5.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/path-root-regex/-/path-root-regex-0.1.2.tgz",
+    "integrity": "sha512-4GlJ6rZDhQZFE0DPVKh0e9jmZ5egZfxTkp7bcRDuPlJXbAwhxcl2dINPUAsjLdejqaLsCeg8axcLjIbvBjN4pQ=="
+  },
+  "ident": "path-root-regex",
+  "key": "path-root-regex/0.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "path-root-regex",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-O4q5Me+FHeEabxOHhSrhT/tqPEgQh6LH3LvYx4F/FDc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/path-root-regex/-/path-root-regex-0.1.2.tgz"
+  }
+}

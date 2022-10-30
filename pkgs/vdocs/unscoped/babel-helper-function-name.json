@@ -1,0 +1,42 @@
+{
+  "name": "babel-helper-function-name",
+  "version": "6.24.1",
+  "description": "Helper function to change the property 'name' of every function",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-helper-function-name"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-runtime": "^6.22.0",
+    "babel-types": "^6.24.1",
+    "babel-traverse": "^6.24.1",
+    "babel-helper-get-function-arity": "^6.24.1",
+    "babel-template": "^6.24.1"
+  },
+  "_id": "babel-helper-function-name@6.24.1",
+  "scripts": {},
+  "_shasum": "d3475b8c03ed98242a25b48351ab18399d3580a9",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-helper-function-name/-/babel-helper-function-name-6.24.1.tgz",
+    "integrity": "sha512-Oo6+e2iX+o9eVvJ9Y5eKL5iryeRdsIkwRYheCuhYdVHsdEQysbc2z2QkqCLIYnNxkT5Ss3ggrHdXiDI7Dhrn4Q=="
+  },
+  "directories": {},
+  "ident": "babel-helper-function-name",
+  "key": "babel-helper-function-name/6.24.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-helper-function-name",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MlLl+W5Eerv0ZVaR3r9ckssordiaaheAt7DQ76RZPPU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-helper-function-name/-/babel-helper-function-name-6.24.1.tgz"
+  }
+}

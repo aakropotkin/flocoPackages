@@ -1,0 +1,34 @@
+{
+  "name": "keypress",
+  "version": "0.2.1",
+  "description": "Make any Node ReadableStream emit \"keypress\" events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/keypress.git"
+  },
+  "license": "MIT",
+  "_id": "keypress@0.2.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/keypress/-/keypress-0.2.1.tgz",
+    "integrity": "sha512-HjorDJFNhnM4SicvaUXac0X77NiskggxJdesG72+O5zBKpSqKFCrqmndKVqpu3pFqkla0St6uGk8Ju0sCurrmg=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.2.32",
+  "ident": "keypress",
+  "key": "keypress/0.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "keypress",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XoSjeMYWkmHFgIsgft5MMNvB+ajzMp7AZQpq8HhuhTo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/keypress/-/keypress-0.2.1.tgz"
+  }
+}

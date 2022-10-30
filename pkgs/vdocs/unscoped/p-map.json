@@ -1,0 +1,53 @@
+{
+  "name": "p-map",
+  "version": "5.5.0",
+  "description": "Map over promises concurrently",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/p-map.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "aggregate-error": "^4.0.0"
+  },
+  "devDependencies": {
+    "ava": "^4.1.0",
+    "delay": "^5.0.0",
+    "in-range": "^3.0.0",
+    "random-int": "^3.0.0",
+    "time-span": "^5.0.0",
+    "tsd": "^0.19.1",
+    "xo": "^0.48.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "a5faf425ad3f871d10b3a18e30ae10d1edc78311",
+  "_id": "p-map@5.5.0",
+  "_nodeVersion": "18.3.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-VFqfGDHlx87K66yZrNdI4YGtD70IRyd+zSvgks6mzHPRNkoKy+9EKP4SFC77/vTTQYmRmti7dvqC+m5jBrBAcg==",
+    "tarball": "https://registry.npmjs.org/p-map/-/p-map-5.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "p-map",
+  "key": "p-map/5.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "p-map",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-vqw2qgBFbVAdFCiX1Q5zTheEwE+iOppAxQcOABOpw0s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/p-map/-/p-map-5.5.0.tgz"
+  }
+}

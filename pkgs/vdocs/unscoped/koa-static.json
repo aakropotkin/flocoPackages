@@ -1,0 +1,60 @@
+{
+  "name": "koa-static",
+  "description": "Static file serving middleware for koa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koajs/static.git"
+  },
+  "version": "5.0.0",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "istanbul": "^0.4.5",
+    "koa": "^2.5.1",
+    "mocha": "^5.2.0",
+    "supertest": "^3.1.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "koa-send": "^5.0.0"
+  },
+  "scripts": {
+    "lint": "eslint --fix .",
+    "test": "mocha --harmony --reporter spec --exit",
+    "test-cov": "node --harmony ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --exit",
+    "test-travis": "node --harmony ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --exit"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "gitHead": "9b11d848086cd56ac8552b983a22d7386049aca8",
+  "_id": "koa-static@5.0.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.4.1",
+  "dist": {
+    "integrity": "sha512-UqyYyH5YEXaJrf9S8E23GoJFQZXkBVJ9zYYMPGz919MSX1KuvAcycIuS0ci150HCoPf4XQVhQ84Qf8xRPWxFaQ==",
+    "tarball": "https://registry.npmjs.org/koa-static/-/koa-static-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "koa-static",
+  "key": "koa-static/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "koa-static",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9bxOD3J0/yJ5sdSybKzvrB9/G4I2T6VWkOfvkF/2vw0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/koa-static/-/koa-static-5.0.0.tgz"
+  }
+}

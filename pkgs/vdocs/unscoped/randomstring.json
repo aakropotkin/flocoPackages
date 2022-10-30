@@ -1,0 +1,49 @@
+{
+  "name": "randomstring",
+  "version": "1.2.3",
+  "description": "A module for generating random strings",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/klughammer/node-randomstring.git"
+  },
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "array-uniq": "1.0.2",
+    "randombytes": "2.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+    "randomstring": "bin/randomstring"
+  },
+  "gitHead": "a32502e357eef244703efee459af1d156d8295ef",
+  "_id": "randomstring@1.2.3",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-3dEFySepTzp2CvH6W/ASYGguPPveBuz5MpZ7MuoUkoVehmyNl9+F9c9GFVrz2QPbM9NXTIHGcmJDY/3j4677kQ==",
+    "tarball": "https://registry.npmjs.org/randomstring/-/randomstring-1.2.3.tgz"
+  },
+  "directories": {},
+  "ident": "randomstring",
+  "key": "randomstring/1.2.3",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "randomstring",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-AzgWuleMBCkhgD/j1fqWgx/KdMGN1T2NXu7ZnInFrxo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/randomstring/-/randomstring-1.2.3.tgz"
+  }
+}

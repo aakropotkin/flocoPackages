@@ -1,0 +1,58 @@
+{
+  "name": "clean-stack",
+  "version": "5.0.1",
+  "description": "Clean up error stack traces",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/clean-stack.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "imports": {
+    "#home-directory": {
+      "node": "./home-directory.js",
+      "default": "./home-directory-browser.js"
+    }
+  },
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "escape-string-regexp": "5.0.0"
+  },
+  "devDependencies": {
+    "ava": "^4.3.3",
+    "tsd": "^0.24.1",
+    "xo": "^0.52.3"
+  },
+  "browser": {
+    "os": false
+  },
+  "gitHead": "fcc8b3a80912c4ecf1053827fde6f3bc16f2d7e8",
+  "_id": "clean-stack@5.0.1",
+  "_nodeVersion": "14.19.3",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-1FDmqRFlYUEuZJYwcofH5Oa9v/cjEdHekBMzKYN3W16A3BvleeV5fX5PqiQQNSifWx5aXAaHOS8zmlcZPmZmKA==",
+    "tarball": "https://registry.npmjs.org/clean-stack/-/clean-stack-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "clean-stack",
+  "key": "clean-stack/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "clean-stack",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xoNYXT3pjgQhiiDID2VuVeQWFEBlGuIKg8XRY/42ePk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clean-stack/-/clean-stack-5.0.1.tgz"
+  }
+}

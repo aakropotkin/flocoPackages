@@ -1,0 +1,52 @@
+{
+  "name": "media-typer",
+  "description": "Simple RFC 6838 media type parser and formatter",
+  "version": "1.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshttp/media-typer.git"
+  },
+  "devDependencies": {
+    "eslint": "5.16.0",
+    "eslint-config-standard": "12.0.0",
+    "eslint-plugin-import": "2.17.2",
+    "eslint-plugin-markdown": "1.0.0",
+    "eslint-plugin-node": "8.0.1",
+    "eslint-plugin-promise": "4.1.1",
+    "eslint-plugin-standard": "4.0.0",
+    "mocha": "6.1.4",
+    "nyc": "14.0.0"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "lint": "eslint --plugin markdown --ext js,md .",
+    "test": "mocha --reporter spec --check-leaks --bail test/",
+    "test-cov": "nyc --reporter=html --reporter=text npm test",
+    "test-travis": "nyc --reporter=text npm test"
+  },
+  "gitHead": "1332b73ed8584b7b25d556c55b6de9d64fa3ce2c",
+  "_id": "media-typer@1.1.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.16.0",
+  "dist": {
+    "integrity": "sha512-aisnrDP4GNe06UcKFnV5bfMNPBUw4jsLGaWwWfnH3v02GnBuXX2MCVn5RbrWo0j3pczUilYblq7fQ7Nw2t5XKw==",
+    "tarball": "https://registry.npmjs.org/media-typer/-/media-typer-1.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "media-typer",
+  "key": "media-typer/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "media-typer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-x+AB30eduoCzyGhnf1OvhtpZKAbrSU0ARIYUvNVs+pk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/media-typer/-/media-typer-1.1.0.tgz"
+  }
+}

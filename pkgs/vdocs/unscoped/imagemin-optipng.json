@@ -1,0 +1,47 @@
+{
+  "name": "imagemin-optipng",
+  "version": "8.0.0",
+  "description": "Imagemin plugin for OptiPNG",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagemin/imagemin-optipng.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "exec-buffer": "^3.0.0",
+    "is-png": "^2.0.0",
+    "optipng-bin": "^7.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.8.0",
+    "xo": "^0.30.0"
+  },
+  "gitHead": "abae52303e06e2b5697d32c529578e17f680fef7",
+  "_id": "imagemin-optipng@8.0.0",
+  "_nodeVersion": "12.16.1",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-CUGfhfwqlPjAC0rm8Fy+R2DJDBGjzy2SkfyT09L8rasnF9jSoHFqJ1xxSZWK6HVPZBMhGPMxCTL70OgTHlLF5A==",
+    "tarball": "https://registry.npmjs.org/imagemin-optipng/-/imagemin-optipng-8.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "imagemin-optipng",
+  "key": "imagemin-optipng/8.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "imagemin-optipng",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-248qx6rJeBSokERJ4/b63ijr5uHs4M+gKA4/Iya2e7U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/imagemin-optipng/-/imagemin-optipng-8.0.0.tgz"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "dezalgo",
+  "version": "1.0.4",
+  "description": "Contain async insanity so that the dark pony lord doesn't eat souls",
+  "main": "dezalgo.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "asap": "^2.0.0",
+    "wrappy": "1"
+  },
+  "devDependencies": {
+    "tap": "^12.4.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/dezalgo.git"
+  },
+  "license": "ISC",
+  "gitHead": "be69a7df9baf05c367b3f090ebd4a9c89da8c1df",
+  "_id": "dezalgo@1.0.4",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.6.0",
+  "dist": {
+    "integrity": "sha512-rXSP0bf+5n0Qonsb+SVVfNfIsimO4HEtmnIpPHY8Q1UCzKlQrDMfdobr8nJOOsRgWCyMRqeSBQzmWUMq7zvVig==",
+    "tarball": "https://registry.npmjs.org/dezalgo/-/dezalgo-1.0.4.tgz"
+  },
+  "ident": "dezalgo",
+  "key": "dezalgo/1.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dezalgo",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8g2xiWqdxFmYq8KNyQKo6tWWOWRDnl7y5mlnHwkuYm4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dezalgo/-/dezalgo-1.0.4.tgz"
+  }
+}

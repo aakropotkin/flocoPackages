@@ -1,0 +1,51 @@
+{
+  "name": "jsonschema",
+  "version": "1.4.1",
+  "license": "MIT",
+  "dependencies": {},
+  "main": "./lib/index.js",
+  "typings": "./lib/index.d.ts",
+  "devDependencies": {
+    "@stryker-mutator/core": "^4.0.0",
+    "@stryker-mutator/mocha-runner": "^4.0.0",
+    "chai": "~4.2.0",
+    "eslint": "^7.7.0",
+    "json-metaschema": "^1.2.0",
+    "mocha": "~8.1.1"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tdegrunt/jsonschema.git"
+  },
+  "description": "A fast and easy to use JSON Schema validator",
+  "scripts": {
+    "stryker": "stryker run",
+    "test": "mocha -R spec"
+  },
+  "gitHead": "7cad2748c6329206dab5b391e399d6fd81586a3d",
+  "_id": "jsonschema@1.4.1",
+  "_nodeVersion": "18.0.0",
+  "_npmVersion": "8.6.0",
+  "dist": {
+    "integrity": "sha512-S6cATIPVv1z0IlxdN+zUk5EPjkGCdnhN4wVSBlvoUO1tOLJootbo9CquNJmbIh4yikWHiUedhRYrNPn1arpEmQ==",
+    "tarball": "https://registry.npmjs.org/jsonschema/-/jsonschema-1.4.1.tgz"
+  },
+  "directories": {},
+  "ident": "jsonschema",
+  "key": "jsonschema/1.4.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jsonschema",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3ppbBJCWYiaT9f9fnSnrhWiW89YxXX8QkowjjQMUPSI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jsonschema/-/jsonschema-1.4.1.tgz"
+  }
+}

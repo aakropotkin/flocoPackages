@@ -1,0 +1,71 @@
+{
+  "name": "validate-npm-package-name",
+  "version": "5.0.0",
+  "description": "Give me a string and I'll tell you if it's a valid npm package name",
+  "main": "lib/",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "builtins": "^5.0.0"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "scripts": {
+    "cov:test": "TAP_FLAGS='--cov' npm run test:code",
+    "test:code": "tap ${TAP_FLAGS:-'--'} test/*.js",
+    "test:style": "standard",
+    "test": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "lintfix": "npm run lint -- --fix",
+    "snap": "tap",
+    "posttest": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/validate-npm-package-name.git"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "tap": {
+    "statements": 88,
+    "branches": 92,
+    "lines": 88,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "5e4965a8345c0f14d0b1596be48a7200137cca44",
+  "_id": "validate-npm-package-name@5.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-YuKoXDAhBYxY7SfOKxHBDoSyENFeW5VvIIQp2TGQuit8gpK6MnWaQelBKxso72DoxTZfZdcP3W90LqpSkgPzLQ==",
+    "tarball": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-5.0.0.tgz"
+  },
+  "ident": "validate-npm-package-name",
+  "key": "validate-npm-package-name/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "validate-npm-package-name",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3BNDtBVszcLmoCKQT7BK45jy91N6pkcfN4wZCrUqDaU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-5.0.0.tgz"
+  }
+}

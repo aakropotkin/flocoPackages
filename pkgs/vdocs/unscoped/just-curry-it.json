@@ -1,0 +1,46 @@
+{
+  "name": "just-curry-it",
+  "version": "5.2.1",
+  "description": "return a curried function",
+  "main": "index.js",
+  "module": "index.mjs",
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "types": "./index.d.ts",
+      "default": "./index.mjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angus-c/just.git"
+  },
+  "license": "MIT",
+  "_id": "just-curry-it@5.2.1",
+  "_nodeVersion": "16.3.0",
+  "_npmVersion": "7.15.1",
+  "dist": {
+    "integrity": "sha512-M8qhhO9WVNc3yZgf3qfiNxMIsQlHqFHJ3vMI8N/rkp852h1utOB/N3ebS8jeXGAwYSbkdd0K6zP9eZneUtjHwA==",
+    "tarball": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "just-curry-it",
+  "key": "just-curry-it/5.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "just-curry-it",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1+BwdrL50iioeRNBjWtAxn0/oL/lCd261FYB6RhVx74=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.2.1.tgz"
+  }
+}

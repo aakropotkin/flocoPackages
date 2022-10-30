@@ -1,0 +1,144 @@
+{
+  "name": "terser",
+  "description": "JavaScript parser, mangler/compressor and beautifier toolkit for ES6+",
+  "license": "BSD-2-Clause",
+  "version": "5.15.1",
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terser/terser.git"
+  },
+  "main": "dist/bundle.min.js",
+  "type": "module",
+  "module": "./main.js",
+  "exports": {
+    ".": [
+      {
+        "types": "./tools/terser.d.ts",
+        "import": "./main.js",
+        "require": "./dist/bundle.min.js"
+      },
+      "./dist/bundle.min.js"
+    ],
+    "./package": "./package.json",
+    "./package.json": "./package.json",
+    "./bin/terser": "./bin/terser"
+  },
+  "types": "tools/terser.d.ts",
+  "bin": {
+    "terser": "bin/terser"
+  },
+  "dependencies": {
+    "@jridgewell/source-map": "^0.3.2",
+    "acorn": "^8.5.0",
+    "commander": "^2.20.0",
+    "source-map-support": "~0.5.20"
+  },
+  "devDependencies": {
+    "@ls-lint/ls-lint": "^1.10.0",
+    "astring": "^1.7.5",
+    "eslint": "^7.32.0",
+    "eslump": "^3.0.0",
+    "esm": "^3.2.25",
+    "mocha": "^9.2.0",
+    "pre-commit": "^1.2.2",
+    "rimraf": "^3.0.2",
+    "rollup": "2.56.3",
+    "semver": "^7.3.4",
+    "source-map": "~0.8.0-beta.0"
+  },
+  "scripts": {
+    "test": "node test/compress.js && mocha test/mocha",
+    "test:compress": "node test/compress.js",
+    "test:mocha": "mocha test/mocha",
+    "lint": "eslint lib",
+    "lint-fix": "eslint --fix lib",
+    "ls-lint": "ls-lint",
+    "build": "rimraf dist/bundle* && rollup --config --silent",
+    "prepare": "npm run build",
+    "postversion": "echo 'Remember to update the changelog!'"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "sourceType": "module",
+      "ecmaVersion": 2020
+    },
+    "env": {
+      "node": true,
+      "browser": true,
+      "es2020": true
+    },
+    "globals": {
+      "describe": false,
+      "it": false,
+      "require": false,
+      "before": false,
+      "after": false,
+      "global": false,
+      "process": false
+    },
+    "rules": {
+      "brace-style": [
+        "error",
+        "1tbs",
+        {
+          "allowSingleLine": true
+        }
+      ],
+      "quotes": [
+        "error",
+        "double",
+        "avoid-escape"
+      ],
+      "no-debugger": "error",
+      "no-undef": "error",
+      "no-unused-vars": [
+        "error",
+        {
+          "varsIgnorePattern": "^_"
+        }
+      ],
+      "no-tabs": "error",
+      "semi": [
+        "error",
+        "always"
+      ],
+      "no-extra-semi": "error",
+      "no-irregular-whitespace": "error",
+      "space-before-blocks": [
+        "error",
+        "always"
+      ]
+    }
+  },
+  "pre-commit": [
+    "build",
+    "lint-fix",
+    "ls-lint",
+    "test"
+  ],
+  "gitHead": "4255fb3063ce1b41a5d5c9c48df443b5df0e797e",
+  "_id": "terser@5.15.1",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-K1faMUvpm/FBxjBXud0LWVAGxmvoPbZbfTCYbSgaaYQaIXI3/TdI7a7ZGA73Zrou6Q8Zmz3oeUTsp/dj+ag2Xw==",
+    "tarball": "https://registry.npmjs.org/terser/-/terser-5.15.1.tgz"
+  },
+  "directories": {},
+  "ident": "terser",
+  "key": "terser/5.15.1",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "terser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7BgP0UQRSmDt5yR8jUaa0XVw2WoNKgavfsgGrNHfN/M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/terser/-/terser-5.15.1.tgz"
+  }
+}

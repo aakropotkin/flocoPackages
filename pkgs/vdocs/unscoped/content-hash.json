@@ -1,0 +1,52 @@
+{
+  "name": "content-hash",
+  "version": "2.5.2",
+  "description": "simple tool to encode/decode content hash for EIP 1577 compliant ENS Resolvers",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pldespaigne/content-hash.git"
+  },
+  "scripts": {
+    "build": "browserify ./src/index.js --s contentHash > ./dist/index.js",
+    "demo": "static .",
+    "deploy-demo": "echo \"surge demo https://content-hash.surge.sh\"",
+    "test": "mocha",
+    "lint": "npx eslint ."
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cids": "^0.7.1",
+    "multicodec": "^0.5.5",
+    "multihashes": "^0.4.15"
+  },
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "mocha": "^5.2.0",
+    "node-static": "^0.7.11"
+  },
+  "gitHead": "26d97b0548ac6fa8a874a323fcb8afef3a40c80a",
+  "_id": "content-hash@2.5.2",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.15.3",
+  "dist": {
+    "integrity": "sha512-FvIQKy0S1JaWV10sMsA7TRx8bpU+pqPkhbsfvOJAdjRXvYxEckAwQWGwtRjiaJfh+E0DvcWUGqcdjwMGFjsSdw==",
+    "tarball": "https://registry.npmjs.org/content-hash/-/content-hash-2.5.2.tgz"
+  },
+  "directories": {},
+  "ident": "content-hash",
+  "key": "content-hash/2.5.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "content-hash",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9zIv8ZG9O0I57FWxQNw4LVgY8ptJqoMyQWsqIhoYuSQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/content-hash/-/content-hash-2.5.2.tgz"
+  }
+}

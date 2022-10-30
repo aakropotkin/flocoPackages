@@ -1,0 +1,64 @@
+{
+  "name": "yargs-unparser",
+  "description": "Converts back a yargs argv object to its original array form",
+  "version": "2.0.0",
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yargs/yargs-unparser.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint . --fix",
+    "test": "jest --env node --coverage",
+    "prerelease": "npm t && npm run lint",
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-moxy": "^7.1.0",
+    "husky": "^3.0.1",
+    "jest": "^24.9.0",
+    "lint-staged": "^9.5.0",
+    "minimist": "^1.2.5",
+    "yargs-parser": "^18.1.3"
+  },
+  "dependencies": {
+    "camelcase": "^6.0.0",
+    "decamelize": "^4.0.0",
+    "flat": "^5.0.2",
+    "is-plain-obj": "^2.1.0"
+  },
+  "gitHead": "d170685e84509b7b1e44cb85114b9fb15059ba66",
+  "_id": "yargs-unparser@2.0.0",
+  "_nodeVersion": "12.18.4",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-7pRTIA9Qc1caZ0bZ6RYRGbHJthJWuakf+WmHK0rVeLkNrrGhfoabBNdue6kdINI6r4if7ocq9aD/n7xwKOdzOA==",
+    "tarball": "https://registry.npmjs.org/yargs-unparser/-/yargs-unparser-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "yargs-unparser",
+  "key": "yargs-unparser/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "yargs-unparser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ehc+zG134sU5x9q5Mr2WcpEfAEKn8ffUkU438BFrjHo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yargs-unparser/-/yargs-unparser-2.0.0.tgz"
+  }
+}

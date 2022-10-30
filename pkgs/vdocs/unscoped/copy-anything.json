@@ -1,0 +1,101 @@
+{
+  "name": "copy-anything",
+  "sideEffects": false,
+  "type": "module",
+  "version": "3.0.2",
+  "description": "An optimised way to copy'ing an object. A small and simple integration",
+  "module": "./dist/index.es.js",
+  "main": "./dist/index.cjs",
+  "types": "./dist/types/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.es.js",
+      "require": "./dist/index.cjs",
+      "types": "./dist/types/index.d.ts"
+    }
+  },
+  "engines": {
+    "node": ">=12.13"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "lint": "tsc --noEmit && eslint ./src --ext .ts",
+    "build": "rollup -c ./scripts/build.js",
+    "release": "npm run lint && del dist && npm run build && np"
+  },
+  "dependencies": {
+    "is-what": "^4.1.6"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.1",
+    "@typescript-eslint/parser": "^5.10.1",
+    "del-cli": "^4.0.1",
+    "eslint": "^8.7.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-tree-shaking": "^1.10.0",
+    "np": "^7.6.0",
+    "prettier": "^2.5.1",
+    "rollup": "^2.66.1",
+    "rollup-plugin-typescript2": "^0.31.1",
+    "typescript": "^4.5.5",
+    "vitest": "^0.2.3"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesqueeb/copy-anything.git"
+  },
+  "np": {
+    "yarn": false,
+    "branch": "production"
+  },
+  "eslintConfig": {
+    "ignorePatterns": [
+      "node_modules",
+      "dist",
+      "scripts",
+      "test"
+    ],
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+      "@typescript-eslint",
+      "tree-shaking"
+    ],
+    "extends": [
+      "eslint:recommended",
+      "plugin:@typescript-eslint/eslint-recommended",
+      "plugin:@typescript-eslint/recommended",
+      "prettier"
+    ],
+    "rules": {
+      "@typescript-eslint/no-empty-function": "off",
+      "@typescript-eslint/no-explicit-any": "off",
+      "@typescript-eslint/ban-ts-ignore": "off",
+      "tree-shaking/no-side-effects-in-initialization": "error",
+      "@typescript-eslint/ban-ts-comment": "off"
+    }
+  },
+  "gitHead": "868d6b208bcbd7be5c0e46287855fbbdcd5942cc",
+  "_id": "copy-anything@3.0.2",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "8.3.0",
+  "dist": {
+    "integrity": "sha512-CzATjGXzUQ0EvuvgOCI6A4BGOo2bcVx8B+eC2nF862iv9fopnPQwlrbACakNCHRIJbCSBj+J/9JeDf60k64MkA==",
+    "tarball": "https://registry.npmjs.org/copy-anything/-/copy-anything-3.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "copy-anything",
+  "key": "copy-anything/3.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "copy-anything",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-/OLR8zoxmCENLyu0CUPxiYCsTwx1lbsZW8kZv4ZFr68=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/copy-anything/-/copy-anything-3.0.2.tgz"
+  }
+}

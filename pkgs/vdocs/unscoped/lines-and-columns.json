@@ -1,0 +1,69 @@
+{
+  "name": "lines-and-columns",
+  "version": "2.0.3",
+  "description": "Maps lines and columns to character offsets and back.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eventualbuddha/lines-and-columns.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "./build/index.cjs",
+  "exports": {
+    "import": "./build/index.mjs",
+    "require": "./build/index.cjs"
+  },
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "prebuild": "rm -rf build",
+    "build": "tsc --project tsconfig.build.json && mv build/index.js build/index.mjs && tsc --project tsconfig.build.json --module commonjs && mv build/index.js build/index.cjs",
+    "build:watch": "tsc --project tsconfig.build.json --watch",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "prepublishOnly": "npm run lint && npm run build",
+    "test": "is-ci test:coverage test:watch",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "esbuild": "^0.13.15",
+    "esbuild-runner": "^2.2.1",
+    "eslint": "^8.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "is-ci-cli": "^2.2.0",
+    "jest": "^27.3.1",
+    "prettier": "^2.4.1",
+    "semantic-release": "^18.0.0",
+    "typescript": "^4.5.2"
+  },
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "gitHead": "5febeb9674ded91908d3893581224f64111d95c3",
+  "_id": "lines-and-columns@2.0.3",
+  "_nodeVersion": "14.18.1",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-cNOjgCnLB+FnvWWtyRTzmB3POJ+cXxTA81LoW7u8JdmhfXzriropYwpjShnz1QLLWsQwY7nIxoDmcPTwphDK9w==",
+    "tarball": "https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-2.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "lines-and-columns",
+  "key": "lines-and-columns/2.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lines-and-columns",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uNdcQ0SzKCpQMQsHR6NFDLwJaQmP0FXjj5zUEq133LE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-2.0.3.tgz"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "postcss-minify-params",
+  "version": "5.1.4",
+  "description": "Minify at-rule params with PostCSS",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssnano/cssnano.git"
+  },
+  "dependencies": {
+    "browserslist": "^4.21.4",
+    "cssnano-utils": "^3.1.0",
+    "postcss-value-parser": "^4.2.0"
+  },
+  "engines": {
+    "node": "^10 || ^12 || >=14.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "_id": "postcss-minify-params@5.1.4",
+  "_integrity": "sha512-+mePA3MgdmVmv6g+30rn57USjOGSAyuxUmkfiWpzalZ8aiBkdPYjXWtHuwJGm1v5Ojy0Z0LaSYhHaLJQB0P8Jw==",
+  "_resolved": "/tmp/0e8eb3c6e9717516a6ff7a13f292a2f3/postcss-minify-params-5.1.4.tgz",
+  "_from": "file:postcss-minify-params-5.1.4.tgz",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-+mePA3MgdmVmv6g+30rn57USjOGSAyuxUmkfiWpzalZ8aiBkdPYjXWtHuwJGm1v5Ojy0Z0LaSYhHaLJQB0P8Jw==",
+    "tarball": "https://registry.npmjs.org/postcss-minify-params/-/postcss-minify-params-5.1.4.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-minify-params",
+  "key": "postcss-minify-params/5.1.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-minify-params",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8/Wi9A0C0G+0GGpe82qS56qyooXmqsk0F5LakGLBWQg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-params/-/postcss-minify-params-5.1.4.tgz"
+  }
+}

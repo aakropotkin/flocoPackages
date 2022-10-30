@@ -1,0 +1,40 @@
+{
+  "name": "aws-sign2",
+  "description": "AWS signing. Originally pulled from LearnBoost/knox, maintained as vendor in request, now a standalone module.",
+  "version": "0.7.0",
+  "repository": {
+    "url": "git+https://github.com/mikeal/aws-sign.git"
+  },
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "gitHead": "a0cdf4b61f80ca669cd1ed8482f978d908f0dd2b",
+  "_id": "aws-sign2@0.7.0",
+  "scripts": {},
+  "_shasum": "b46e890934a9591f2d2f6f86d7e6a9f1b3fe76a8",
+  "_from": ".",
+  "_npmVersion": "3.10.9",
+  "_nodeVersion": "6.9.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/aws-sign2/-/aws-sign2-0.7.0.tgz",
+    "integrity": "sha512-08kcGqnYf/YmjoRhfxyu+CLxBjUtHLXLXX/vUfx9l2LYzG3c1m61nrpyFUZI6zeS+Li/wWMMidD9KgrqtGq3mA=="
+  },
+  "ident": "aws-sign2",
+  "key": "aws-sign2/0.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "aws-sign2",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XTKObsATaYUtnBGqzqdzw+Md9o8y3dNjj9AjZtqGCdE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/aws-sign2/-/aws-sign2-0.7.0.tgz"
+  }
+}

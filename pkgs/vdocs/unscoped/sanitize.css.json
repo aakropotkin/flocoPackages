@@ -1,0 +1,58 @@
+{
+  "name": "sanitize.css",
+  "version": "13.0.0",
+  "description": "A best-practices CSS foundation",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/sanitize.css.git"
+  },
+  "main": "sanitize.css",
+  "style": "sanitize.css",
+  "scripts": {
+    "prepublishOnly": "npm test",
+    "test": "stylelint *.css"
+  },
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^22.0.0"
+  },
+  "stylelint": {
+    "extends": "stylelint-config-standard",
+    "rules": {
+      "font-family-no-duplicate-names": [
+        true,
+        {
+          "ignoreFontFamilyNames": [
+            "monospace"
+          ]
+        }
+      ],
+      "no-descending-specificity": [
+        null
+      ]
+    }
+  },
+  "gitHead": "38cd03c7cedb7b510da3f3c4caa5bdd87536dada",
+  "_id": "sanitize.css@13.0.0",
+  "_nodeVersion": "16.6.1",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-ZRwKbh/eQ6w9vmTjkuG0Ioi3HBwPFce0O+v//ve+aOq1oeCy7jMV2qzzAlpsNuqpqCBjjriM1lbtZbF/Q8jVyA==",
+    "tarball": "https://registry.npmjs.org/sanitize.css/-/sanitize.css-13.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "sanitize.css",
+  "key": "sanitize.css/13.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sanitize.css",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Lz+LDw8V5SKFTzND85n+8CDeDBfowePoD9RtMJ9ruwU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sanitize.css/-/sanitize.css-13.0.0.tgz"
+  }
+}

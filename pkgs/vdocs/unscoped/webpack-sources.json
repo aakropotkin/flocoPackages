@@ -1,0 +1,67 @@
+{
+  "name": "webpack-sources",
+  "version": "3.2.3",
+  "description": "Source code handling classes for webpack",
+  "main": "./lib/index.js",
+  "scripts": {
+    "pretest": "yarn lint",
+    "test": "jest",
+    "lint": "eslint --cache lib test/*.js",
+    "cover": "jest --coverage"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.2",
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-jest": "^23.20.0",
+    "eslint-plugin-mocha": "^8.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-nodeca": "^1.0.3",
+    "eslint-plugin-prettier": "^3.0.1",
+    "istanbul": "^0.4.1",
+    "jest": "^26.4.0",
+    "prettier": "^2.0.5",
+    "source-map": "^0.7.3",
+    "sourcemap-validator": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpack/webpack-sources.git"
+  },
+  "license": "MIT",
+  "jest": {
+    "forceExit": true,
+    "testMatch": [
+      "<rootDir>/test/*.js"
+    ],
+    "transformIgnorePatterns": [
+      "<rootDir>"
+    ],
+    "testEnvironment": "node"
+  },
+  "gitHead": "9f98066311d53a153fdc7c633422a1d086528027",
+  "_id": "webpack-sources@3.2.3",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "7.22.0",
+  "dist": {
+    "integrity": "sha512-/DyMEOrDgLKKIG0fmvtz+4dUX/3Ghozwgm6iPp8KRhvn+eQf9+Q7GWxVNMk3+uCPWfdXYC4ExGBckIXdFEfH1w==",
+    "tarball": "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.3.tgz"
+  },
+  "directories": {},
+  "ident": "webpack-sources",
+  "key": "webpack-sources/3.2.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "webpack-sources",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Js7pcQ0EGbwnwbrjD1IqHcu5nWzEOcjnC1mTfJL3iCw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.3.tgz"
+  }
+}

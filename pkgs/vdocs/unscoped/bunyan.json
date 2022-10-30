@@ -1,0 +1,65 @@
+{
+  "name": "bunyan",
+  "version": "1.8.15",
+  "description": "a JSON logging library for node.js services",
+  "main": "./lib/bunyan.js",
+  "bin": {
+    "bunyan": "bin/bunyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trentm/node-bunyan.git"
+  },
+  "engines": [
+    "node >=0.10.0"
+  ],
+  "license": "MIT",
+  "// dtrace-provider": "required for dtrace features",
+  "// mv": "required for RotatingFileStream",
+  "// moment": "required for local time with CLI",
+  "optionalDependencies": {
+    "dtrace-provider": "~0.8",
+    "mv": "~2",
+    "safe-json-stringify": "~1",
+    "moment": "^2.19.3"
+  },
+  "devDependencies": {
+    "ben": "0.0.0",
+    "markdown-toc": "0.12.x",
+    "tap": "^9.0.3",
+    "vasync": "1.4.3",
+    "verror": "1.3.3"
+  },
+  "scripts": {
+    "check": "make check",
+    "test": "tap test/*.test.js  # skip dtrace tests"
+  },
+  "gitHead": "7be79fb8f6a81f556faaab89d55f04ca33b0791a",
+  "dependencies": {
+    "dtrace-provider": "~0.8",
+    "mv": "~2",
+    "safe-json-stringify": "~1",
+    "moment": "^2.19.3"
+  },
+  "_id": "bunyan@1.8.15",
+  "_nodeVersion": "10.23.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-0tECWShh6wUysgucJcBAoYegf3JJoZWibxdqhTm7OHPeT42qdjkZ29QCMcKwbgU1kiH+auSIasNRXMLWXafXig==",
+    "tarball": "https://registry.npmjs.org/bunyan/-/bunyan-1.8.15.tgz"
+  },
+  "directories": {},
+  "ident": "bunyan",
+  "key": "bunyan/1.8.15",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "bunyan",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ED0FVxZLdMqFx2at3PlgLdHFdszdvDGyXrp1BClpSvc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bunyan/-/bunyan-1.8.15.tgz"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "tsscmp",
+  "version": "1.0.6",
+  "description": "Timing safe string compare using double HMAC",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/unit && node test/benchmark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryagh/tsscmp.git"
+  },
+  "engines": {
+    "node": ">=0.6.x"
+  },
+  "license": "MIT",
+  "gitHead": "53430f98f8dc4cea2cb649a7a8a2867e93f08cf8",
+  "_id": "tsscmp@1.0.6",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.3.0",
+  "dist": {
+    "integrity": "sha512-LxhtAkPDTkVCMQjt2h6eBVY28KCjikZqZfMcC15YBeNjkgUpdCfBu5HoiOTDu86v6smE8yOjyEktJ8hlbANHQA==",
+    "tarball": "https://registry.npmjs.org/tsscmp/-/tsscmp-1.0.6.tgz"
+  },
+  "directories": {},
+  "ident": "tsscmp",
+  "key": "tsscmp/1.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "tsscmp",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-52kCCQcci7xfI66uHIK8yUc9y+CnkguyA6n5jaf6IOE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tsscmp/-/tsscmp-1.0.6.tgz"
+  }
+}

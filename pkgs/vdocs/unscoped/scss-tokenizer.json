@@ -1,0 +1,52 @@
+{
+  "name": "scss-tokenizer",
+  "version": "0.4.3",
+  "description": "A tokenzier for Sass' SCSS syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "clean": "rm lib/*",
+    "build": "npm run clean; babel src/ --out-dir lib",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasstools/scss-tokenizer.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "js-base64": "^2.4.9",
+    "source-map": "^0.7.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "glob": "^7.1.3",
+    "jest": "^23.6.0",
+    "sass-spec": "3.5.1"
+  },
+  "gitHead": "3e518d908cea22d0ca1bdf927ef752b7539f0533",
+  "_id": "scss-tokenizer@0.4.3",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-raKLgf1LI5QMQnG+RxHz6oK0sL3x3I4FN2UDLqgLOGO8hodECNnNh5BXn7fAyBxrA8zVzdQizQ6XjNJQ+uBwMw==",
+    "tarball": "https://registry.npmjs.org/scss-tokenizer/-/scss-tokenizer-0.4.3.tgz"
+  },
+  "directories": {},
+  "ident": "scss-tokenizer",
+  "key": "scss-tokenizer/0.4.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "scss-tokenizer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-VTXNCJ5/IpssSZfrSmQ60002sI2Ccw9ykWA52LRkm2Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scss-tokenizer/-/scss-tokenizer-0.4.3.tgz"
+  }
+}

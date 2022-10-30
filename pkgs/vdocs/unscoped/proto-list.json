@@ -1,0 +1,40 @@
+{
+  "name": "proto-list",
+  "version": "1.2.4",
+  "description": "A utility for managing a prototype chain",
+  "main": "./proto-list.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/proto-list.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "0"
+  },
+  "gitHead": "9e4af12d4dddee2fd531f0fe0c21c9cfacb78ac0",
+  "_id": "proto-list@1.2.4",
+  "_shasum": "212d5bfe1318306a420f6402b8e26ff39647a849",
+  "_from": ".",
+  "_npmVersion": "2.10.0",
+  "_nodeVersion": "2.0.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/proto-list/-/proto-list-1.2.4.tgz",
+    "integrity": "sha512-vtK/94akxsTMhe0/cbfpR+syPuszcuwhqVjJq26CuNDgFGj682oRBXOP5MJpv2r7JtE8MsiepGIqvvOTBwn2vA=="
+  },
+  "ident": "proto-list",
+  "key": "proto-list/1.2.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "proto-list",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zsqZ6tGXA/RJxnC+gBDpJ2M8a+iXqt3wUbNuVLWenvo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/proto-list/-/proto-list-1.2.4.tgz"
+  }
+}

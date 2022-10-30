@@ -1,0 +1,49 @@
+{
+  "name": "html-tags",
+  "version": "3.2.0",
+  "description": "List of standard HTML tags",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/html-tags.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "rules": {
+      "import/extensions": "off"
+    }
+  },
+  "types": "./index.d.ts",
+  "gitHead": "95dcdd5f92b9a52a2b898c679ac505573a50924d",
+  "_id": "html-tags@3.2.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-vy7ClnArOZwCnqZgvv+ddgHgJiAFXe3Ge9ML5/mBctVJoUoYPCdxVucOywjDARn6CVoh3dRSFdPHy2sX80L0Wg==",
+    "tarball": "https://registry.npmjs.org/html-tags/-/html-tags-3.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "html-tags",
+  "key": "html-tags/3.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "html-tags",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uu5aLcTb1UzvZvhGAYYvy5OZyPzETYqX18hocKvVwoI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/html-tags/-/html-tags-3.2.0.tgz"
+  }
+}

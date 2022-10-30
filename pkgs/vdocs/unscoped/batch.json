@@ -1,0 +1,42 @@
+{
+  "name": "batch",
+  "description": "Simple async batch with concurrency control and progress reporting.",
+  "version": "0.6.1",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index",
+  "browser": {
+    "emitter": "events"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visionmedia/batch.git"
+  },
+  "gitHead": "577ea162b9be76e79d2fcc43c47ed573112e9892",
+  "_id": "batch@0.6.1",
+  "scripts": {},
+  "_shasum": "dc34314f4e679318093fc760272525f94bf25c16",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.10.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/batch/-/batch-0.6.1.tgz",
+    "integrity": "sha512-x+VAiMRL6UPkx+kudNvxTl6hB2XNNCG2r+7wixVfIYwu/2HKRXimwQyaumLjMveWvT2Hkd/cAJw+QBMfJ/EKVw=="
+  },
+  "ident": "batch",
+  "key": "batch/0.6.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "batch",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-nHBEl9IENXTwTDNOQ2mFZz1/+1MHcGZVCeg4K8axJEw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/batch/-/batch-0.6.1.tgz"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "winston-daily-rotate-file",
+  "version": "4.7.1",
+  "description": "A transport for winston which logs to a rotating file each day.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "mocha --ignore **/*.worker.js && eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/winstonjs/winston-daily-rotate-file.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "winston": "^3"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-node": "^11.1.0",
+    "mocha": "^7.2.0",
+    "rimraf": "^3.0.2",
+    "threads": "^1.7.0"
+  },
+  "dependencies": {
+    "file-stream-rotator": "^0.6.1",
+    "object-hash": "^2.0.1",
+    "triple-beam": "^1.3.0",
+    "winston-transport": "^4.4.0"
+  },
+  "gitHead": "d2182f14ef45e2131f226a4d448e57934c547abc",
+  "_id": "winston-daily-rotate-file@4.7.1",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.5.2",
+  "dist": {
+    "integrity": "sha512-7LGPiYGBPNyGHLn9z33i96zx/bd71pjBn9tqQzO3I4Tayv94WPmBNwKC7CO1wPHdP9uvu+Md/1nr6VSH9h0iaA==",
+    "tarball": "https://registry.npmjs.org/winston-daily-rotate-file/-/winston-daily-rotate-file-4.7.1.tgz"
+  },
+  "directories": {},
+  "ident": "winston-daily-rotate-file",
+  "key": "winston-daily-rotate-file/4.7.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "winston-daily-rotate-file",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DJ8wZVxO54JpfAXp7LArMjmYMMWjHq2G0QpmhqRR0Tk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/winston-daily-rotate-file/-/winston-daily-rotate-file-4.7.1.tgz"
+  }
+}

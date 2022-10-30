@@ -1,0 +1,60 @@
+{
+  "name": "mozjpeg",
+  "version": "8.0.0",
+  "description": "mozjpeg wrapper that makes it seamlessly available as a local dependency",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagemin/mozjpeg-bin.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "bin": {
+    "mozjpeg": "cli.js"
+  },
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "postinstall": "node lib/install.js",
+    "test": "xo && ava --timeout=120s",
+    "build-linux": "docker build --tag imagemin/mozjpeg docker && docker run --rm --volume $(pwd)/vendor/linux:/src/out imagemin/mozjpeg cp cjpeg /src/out"
+  },
+  "dependencies": {
+    "bin-build": "^3.0.0",
+    "bin-wrapper": "^4.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.8.0",
+    "bin-check": "^4.1.0",
+    "compare-size": "^3.0.0",
+    "execa": "^5.1.1",
+    "tempy": "^2.0.0",
+    "xo": "^0.45.0"
+  },
+  "ava": {
+    "serial": true
+  },
+  "gitHead": "c72b1f53c8faf7ede18e00d1d7fbc4552e40994b",
+  "_id": "mozjpeg@8.0.0",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-Ca2Yhah9hG0Iutgsn8MOrAl37P9ThnKsJatjXoWdUO+8X8GeG/6ahvHZrTyqvbs6leMww1SauWUCao/L9qBuFQ==",
+    "tarball": "https://registry.npmjs.org/mozjpeg/-/mozjpeg-8.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "mozjpeg",
+  "key": "mozjpeg/8.0.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "mozjpeg",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-sKTKokH8wUlBiVfovEK9hLlSZikSQcRhVndB+9lOofk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mozjpeg/-/mozjpeg-8.0.0.tgz"
+  }
+}

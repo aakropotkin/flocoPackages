@@ -1,0 +1,53 @@
+{
+  "name": "memorystream",
+  "description": "This is lightweight memory stream module for node.js.",
+  "version": "0.3.1",
+  "scripts": {
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.20.0",
+    "grunt": "~0.4",
+    "grunt-cli": "~0.1.13",
+    "grunt-mocha-test": "~0.12.2",
+    "grunt-contrib-jshint": "~0.10.0",
+    "q": "~1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JSBizon/node-memorystream.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/JSBizon/node-memorystream/raw/master/LICENSE"
+    }
+  ],
+  "gitHead": "5a7ae4a621f786cdb31ef444839ef6a92af5300f",
+  "_id": "memorystream@0.3.1",
+  "_shasum": "86d7090b30ce455d63fbae12dda51a47ddcaf9b2",
+  "_from": ".",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/memorystream/-/memorystream-0.3.1.tgz",
+    "integrity": "sha512-S3UwM3yj5mtUSEfP41UZmt/0SCoVYUcU1rkXv+BQ5Ig8ndL4sPoJNBUJERafdPb5jjHJGuMgytgKvKIf58XNBw=="
+  },
+  "ident": "memorystream",
+  "key": "memorystream/0.3.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "memorystream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MfJzjwVuSHQrDhcJ/BZhs3y1JRJ2uPTXJV1JPeST7TA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memorystream/-/memorystream-0.3.1.tgz"
+  }
+}

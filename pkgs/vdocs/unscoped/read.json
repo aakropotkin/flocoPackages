@@ -1,0 +1,50 @@
+{
+  "name": "read",
+  "version": "1.0.7",
+  "main": "lib/read.js",
+  "dependencies": {
+    "mute-stream": "~0.0.4"
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "description": "read(1) for node programs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/read.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "files": [
+    "lib/read.js"
+  ],
+  "gitHead": "b14516b9236c40140fd0666567f5d0c588a09a62",
+  "_id": "read@1.0.7",
+  "_shasum": "b3da19bd052431a97671d44a42634adf710b40c4",
+  "_from": ".",
+  "_npmVersion": "3.2.2",
+  "_nodeVersion": "2.2.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/read/-/read-1.0.7.tgz",
+    "integrity": "sha512-rSOKNYUmaxy0om1BNjMN4ezNT6VKK+2xF4GBhc81mkH7L60i6dp8qPYrkndNLT3QPphoII3maL9PVC9XmhHwVQ=="
+  },
+  "directories": {},
+  "ident": "read",
+  "key": "read/1.0.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "read",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Xmz6/B7s7BpMlEddkMDK6JbQuoqDUJPGklOIKymBlYM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/read/-/read-1.0.7.tgz"
+  }
+}

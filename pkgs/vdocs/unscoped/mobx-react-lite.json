@@ -1,0 +1,70 @@
+{
+  "name": "mobx-react-lite",
+  "version": "3.4.0",
+  "description": "Lightweight React bindings for MobX based on React 16.8+ and Hooks",
+  "source": "src/index.ts",
+  "main": "dist/index.js",
+  "umd:main": "dist/mobxreact.umd.production.min.js",
+  "unpkg": "dist/mobxreactlite.umd.production.min.js",
+  "jsdelivr": "dist/mobxreactlite.umd.production.min.js",
+  "jsnext:main": "dist/mobxreactlite.esm.production.min.js",
+  "module": "es/index.js",
+  "react-native": "es/index.js",
+  "types": "dist/index.d.ts",
+  "typings": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobxjs/mobx.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "mobx": "^6.1.0",
+    "react": "^16.8.0 || ^17 || ^18"
+  },
+  "peerDependenciesMeta": {
+    "react-dom": {
+      "optional": true
+    },
+    "react-native": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "mobx": "^6.4.0",
+    "expose-gc": "^1.0.0"
+  },
+  "scripts": {
+    "lint": "eslint src/**/* --ext .js,.ts,.tsx",
+    "build": "node ../../scripts/build.js mobxReactLite",
+    "build:test": "yarn build --target test",
+    "build:cjs": "tsc --project tsconfig.build.cjs.json",
+    "build:es": "tsc --project tsconfig.build.es.json",
+    "test": "jest",
+    "test:size": "yarn import-size --report . observer useLocalObservable",
+    "test:types": "tsc --noEmit",
+    "test:check": "yarn test:types",
+    "prepublish": "yarn build --target publish && yarn build:cjs && yarn build:es"
+  },
+  "_id": "mobx-react-lite@3.4.0",
+  "_nodeVersion": "12.22.12",
+  "_npmVersion": "6.14.16",
+  "dist": {
+    "integrity": "sha512-bRuZp3C0itgLKHu/VNxi66DN/XVkQG7xtoBVWxpvC5FhAqbOCP21+nPhULjnzEqd7xBMybp6KwytdUpZKEgpIQ==",
+    "tarball": "https://registry.npmjs.org/mobx-react-lite/-/mobx-react-lite-3.4.0.tgz"
+  },
+  "directories": {},
+  "ident": "mobx-react-lite",
+  "key": "mobx-react-lite/3.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mobx-react-lite",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7jrTpHbUr0svng88ii7esUcgG8PSklhDQqDn14Z27vY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mobx-react-lite/-/mobx-react-lite-3.4.0.tgz"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "resolve-path",
+  "description": "Resolve a relative path against a root path with validation",
+  "version": "1.4.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillarjs/resolve-path.git"
+  },
+  "dependencies": {
+    "http-errors": "~1.6.2",
+    "path-is-absolute": "1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-markdown": "1.0.0-beta.6",
+    "eslint-plugin-node": "5.2.1",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-standard": "3.0.1",
+    "istanbul": "0.4.5",
+    "mocha": "2.5.3"
+  },
+  "files": [
+    "HISTORY.md",
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "lint": "eslint --plugin markdown --ext js,md .",
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-ci": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/"
+  },
+  "gitHead": "a42cc4e93ed227a77444bdb269ce1c4723d9b76d",
+  "_id": "resolve-path@1.4.0",
+  "_shasum": "c4bda9f5efb2fce65247873ab36bb4d834fe16f7",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.11.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/resolve-path/-/resolve-path-1.4.0.tgz",
+    "integrity": "sha512-i1xevIst/Qa+nA9olDxLWnLk8YZbi8R/7JPbCMcgyWaFR6bKWaexgJgEB5oc2PKMjYdrHynyz0NY+if+H98t1w=="
+  },
+  "directories": {},
+  "ident": "resolve-path",
+  "key": "resolve-path/1.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "resolve-path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-yP1gBUxn17pnguE1gSdhd2VGPt4GFwbY5iLvKABrwEs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-path/-/resolve-path-1.4.0.tgz"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "decompress-targz",
+  "version": "4.1.1",
+  "description": "decompress tar.gz plugin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/decompress-targz.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "decompress-tar": "^4.1.1",
+    "file-type": "^5.2.0",
+    "is-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "is-jpg": "^1.0.0",
+    "pify": "^3.0.0",
+    "xo": "*"
+  },
+  "gitHead": "16d965c18735851a788f06092f00299baa509487",
+  "_id": "decompress-targz@4.1.1",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.2.1",
+  "dist": {
+    "integrity": "sha512-4z81Znfr6chWnRDNfFNqLwPvm4db3WuZkqV+UgXQzSngG3CEKdBkw5jrv3axjjL96glyiiKjsxJG3X6WBZwX3w==",
+    "tarball": "https://registry.npmjs.org/decompress-targz/-/decompress-targz-4.1.1.tgz"
+  },
+  "ident": "decompress-targz",
+  "key": "decompress-targz/4.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "decompress-targz",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BXGdWqyBtBu9wnRbcq6TE/xcyA+ODVcvk+VT0lLq6B0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decompress-targz/-/decompress-targz-4.1.1.tgz"
+  }
+}

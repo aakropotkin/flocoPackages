@@ -1,0 +1,47 @@
+{
+  "name": "debounce",
+  "description": "Creates and returns a new debounced version of the passed function that will postpone its execution until after wait milliseconds have elapsed since the last time it was invoked",
+  "version": "1.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/component/debounce.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "minijasminenode test.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "minijasminenode": "^1.1.1",
+    "sinon": "^1.17.7",
+    "mocha": "*",
+    "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "debounce/index.js": "index.js"
+    }
+  },
+  "gitHead": "8be734c4b5b5a58a517f2441e0d90242a4a564cd",
+  "_id": "debounce@1.2.1",
+  "_nodeVersion": "14.15.1",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-XRRe6Glud4rd/ZGQfiV1ruXSfbvfJedlV9Y6zOlP+2K04vBYiJEte6stfFkCP03aMnY5tsipamumUjL14fofug==",
+    "tarball": "https://registry.npmjs.org/debounce/-/debounce-1.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "debounce",
+  "key": "debounce/1.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "debounce",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-V1/tsGuzs0Dtk5EGl8vNWYVtCTzpC6xSYBe60J8SIC4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/debounce/-/debounce-1.2.1.tgz"
+  }
+}

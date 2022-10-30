@@ -1,0 +1,33 @@
+{
+  "name": "harmony-reflect",
+  "version": "1.6.2",
+  "description": "ES5 shim for ES6 (ECMAScript 6) Reflect and Proxy objects",
+  "main": "reflect.js",
+  "license": "(Apache-2.0 OR MPL-1.1)",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://tvcutsem@github.com/tvcutsem/harmony-reflect.git"
+  },
+  "_id": "harmony-reflect@1.6.2",
+  "_nodeVersion": "8.9.0",
+  "_npmVersion": "6.14.12",
+  "dist": {
+    "integrity": "sha512-HIp/n38R9kQjDEziXyDTuW3vvoxxyxjxFzXLrBr18uB47GnSt+G9D29fqrpM5ZkspMcPICud3XsBJQ4Y2URg8g==",
+    "tarball": "https://registry.npmjs.org/harmony-reflect/-/harmony-reflect-1.6.2.tgz"
+  },
+  "directories": {},
+  "ident": "harmony-reflect",
+  "key": "harmony-reflect/1.6.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "harmony-reflect",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MX2KSAZTPcKVYoKu5p7spRdlGOVmGOL3m6b1rHNDRp8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/harmony-reflect/-/harmony-reflect-1.6.2.tgz"
+  }
+}

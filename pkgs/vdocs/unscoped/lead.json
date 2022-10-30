@@ -1,0 +1,61 @@
+{
+  "name": "lead",
+  "version": "4.0.0",
+  "description": "Sink your streams.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/lead.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.4.2",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "readable-stream": "^3.6.0",
+    "streamx": "^2.12.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "a14cfb851efd699c15c2f97bbb83ddc9e2774e61",
+  "_id": "lead@4.0.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-DpMa59o5uGUWWjruMp71e6knmwKU3jRBBn1kjuLWN9EeIOxNeSAwvHf03WIl8g/ZMR2oSQC9ej3yeLBwdDc/pg==",
+    "tarball": "https://registry.npmjs.org/lead/-/lead-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "lead",
+  "key": "lead/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lead",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-/Hb8w2VxUmbbbhM5WtGKIoEj+zBAu+5ELyMIETY5hyc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lead/-/lead-4.0.0.tgz"
+  }
+}

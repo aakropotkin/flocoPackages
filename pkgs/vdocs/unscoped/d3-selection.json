@@ -1,0 +1,57 @@
+{
+  "name": "d3-selection",
+  "version": "3.0.0",
+  "description": "Data-driven DOM manipulation: select elements and join them to data.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3/d3-selection.git"
+  },
+  "license": "ISC",
+  "type": "module",
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-selection.min.js",
+  "unpkg": "dist/d3-selection.min.js",
+  "exports": {
+    "umd": "./dist/d3-selection.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "eslint": "7",
+    "jsdom": "16",
+    "mocha": "9",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "91245ee124ec4dd491e498ecbdc9679d75332b49",
+  "_id": "d3-selection@3.0.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.12",
+  "dist": {
+    "integrity": "sha512-fmTRWbNMmsmWq6xJV8D19U/gw/bwrHfNXxrIN+HfZgnzqTHp9jOmKMhsTUjXOJnZOdZY9Q28y4yebKzqDKlxlQ==",
+    "tarball": "https://registry.npmjs.org/d3-selection/-/d3-selection-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "d3-selection",
+  "key": "d3-selection/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "d3-selection",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BT6FcIookqYEzdg1cNQoaYheaIaxN5UfjB5KGvQcqhY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-selection/-/d3-selection-3.0.0.tgz"
+  }
+}

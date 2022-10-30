@@ -1,0 +1,44 @@
+{
+  "name": "stream-read-all",
+  "version": "3.0.1",
+  "description": "Returns a promise which resolves once all data in the supplied stream has been read",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/75lb/stream-read-all.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "test-runner test.js",
+    "cover": "nyc --reporter=text-lcov npm test | coveralls"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "test-runner": "^0.8.13"
+  },
+  "gitHead": "0deec1dcac824e660857e2d29c47e8786555b3b2",
+  "_id": "stream-read-all@3.0.1",
+  "_nodeVersion": "14.13.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-EWZT9XOceBPlVJRrYcykW8jyRSZYbkb/0ZK36uLEmoWVO5gxBOnntNTseNzfREsqxqdfEGQrD8SXQ3QWbBmq8A==",
+    "tarball": "https://registry.npmjs.org/stream-read-all/-/stream-read-all-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "stream-read-all",
+  "key": "stream-read-all/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "stream-read-all",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Dp5aB7iZh/kg53wgESSCRIAKOG7qp49WhYUaGvoPOq8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stream-read-all/-/stream-read-all-3.0.1.tgz"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "rgb",
+  "version": "0.1.0",
+  "description": "converts all sorts of colors to rgb format.",
+  "main": "./index.js",
+  "bin": {
+    "rgb": "./bin/rgb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamicane/rgb"
+  },
+  "license": "MIT (http://mootools.net/license.txt)",
+  "_id": "rgb@0.1.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/rgb/-/rgb-0.1.0.tgz",
+    "integrity": "sha512-F49dXX73a92N09uQkfCp2QjwXpmJcn9/i9PvjmwsSIXUGqRLCf/yx5Q9gRxuLQTq248kakqQuc8GX/U/CxSqlA=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.4.3",
+  "ident": "rgb",
+  "key": "rgb/0.1.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "rgb",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-08hqSUX5AdlbA7s+6T3fVMWN/j31Q5uqNWkhqYSsfP4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rgb/-/rgb-0.1.0.tgz"
+  }
+}

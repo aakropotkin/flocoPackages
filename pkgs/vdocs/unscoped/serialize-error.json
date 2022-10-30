@@ -1,0 +1,49 @@
+{
+  "name": "serialize-error",
+  "version": "11.0.0",
+  "description": "Serialize/deserialize an error into a plain object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/serialize-error.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "type-fest": "^2.12.2"
+  },
+  "devDependencies": {
+    "ava": "^4.2.0",
+    "tsd": "^0.20.0",
+    "xo": "^0.48.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "2a77169cae632802b75c9962b8ae9a482c978ae2",
+  "_id": "serialize-error@11.0.0",
+  "_nodeVersion": "14.19.2",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-YKrURWDqcT3VGX/s/pCwaWtpfJEEaEw5Y4gAnQDku92b/HjVj4r4UhA5QrMVMFotymK2wIWs5xthny5SMFu7Vw==",
+    "tarball": "https://registry.npmjs.org/serialize-error/-/serialize-error-11.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "serialize-error",
+  "key": "serialize-error/11.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "serialize-error",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BYQEO1+bzu4RPh0QQPkCBtp+XSSvawgi/aobeeXpG3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-11.0.0.tgz"
+  }
+}

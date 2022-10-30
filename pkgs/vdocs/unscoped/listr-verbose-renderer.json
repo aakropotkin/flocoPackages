@@ -1,0 +1,51 @@
+{
+  "name": "listr-verbose-renderer",
+  "version": "0.6.0",
+  "description": "Listr verbose renderer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamVerschueren/listr-verbose-renderer.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cli-cursor": "^2.1.0",
+    "date-fns": "^2.0.1",
+    "figures": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "hook-std": "^1.1.0",
+    "listr": "*",
+    "strip-ansi": "^5.0.0",
+    "xo": "^0.23.0"
+  },
+  "gitHead": "49e4ede0d6f1e4fb7fd5af7bad3e7fff76db0b55",
+  "_id": "listr-verbose-renderer@0.6.0",
+  "_nodeVersion": "10.15.1",
+  "_npmVersion": "6.10.3",
+  "dist": {
+    "integrity": "sha512-P3bA/giMu432bs3gHiKXKOIHlWanCIlRhbhCfgKNgCoyvTvZsdbfkgX1BvThYXhm36cS8pOX3Z5vxXBFZC+NQw==",
+    "tarball": "https://registry.npmjs.org/listr-verbose-renderer/-/listr-verbose-renderer-0.6.0.tgz"
+  },
+  "directories": {},
+  "ident": "listr-verbose-renderer",
+  "key": "listr-verbose-renderer/0.6.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "listr-verbose-renderer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DLx77xBVsvXp6fynA/KuYgMJMUjRC5GMPdkb5dDSEXU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/listr-verbose-renderer/-/listr-verbose-renderer-0.6.0.tgz"
+  }
+}

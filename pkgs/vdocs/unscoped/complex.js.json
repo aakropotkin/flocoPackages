@@ -1,0 +1,47 @@
+{
+  "name": "complex.js",
+  "title": "complex.js",
+  "version": "2.1.1",
+  "description": "A complex numbers library",
+  "main": "complex",
+  "types": "complex.d.ts",
+  "private": false,
+  "directories": {
+    "example": "examples"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/infusion/Complex.js.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "gitHead": "d995ca105e8adef4c38d0ace50643daf84e0dd1c",
+  "_id": "complex.js@2.1.1",
+  "_nodeVersion": "16.4.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-8njCHOTtFFLtegk6zQo0kkVX1rngygb/KQI6z1qZxlFI3scluC+LVTCFbrkWjBv4vvLlbQ9t88IPMC6k95VTTg==",
+    "tarball": "https://registry.npmjs.org/complex.js/-/complex.js-2.1.1.tgz"
+  },
+  "ident": "complex.js",
+  "key": "complex.js/2.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "complex.js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-/NMeJ3O9lXSLNexb003EetHG14cIh3dzTpq2OdNtbh4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/complex.js/-/complex.js-2.1.1.tgz"
+  }
+}

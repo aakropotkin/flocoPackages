@@ -1,0 +1,46 @@
+{
+  "name": "eslint-plugin-standard",
+  "description": "ESlint Plugin for the Standard Linter",
+  "version": "5.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "mocha": "^6.2.0",
+    "standard": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/standard/eslint-plugin-standard.git"
+  },
+  "scripts": {
+    "test": "standard && mocha tests/"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.0.0"
+  },
+  "gitHead": "620b262dc21124e743fcdbe4f669e14e59978f53",
+  "_id": "eslint-plugin-standard@5.0.0",
+  "_nodeVersion": "14.15.1",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-eSIXPc9wBM4BrniMzJRBm2uoVuXz2EPa+NXPk2+itrVt+r5SbKFERx/IgrK/HmfjddyKVz2f+j+7gBRvu19xLg==",
+    "tarball": "https://registry.npmjs.org/eslint-plugin-standard/-/eslint-plugin-standard-5.0.0.tgz"
+  },
+  "directories": {},
+  "deprecated": "standard 16.0.0 and eslint-config-standard 16.0.0 no longer require the eslint-plugin-standard package. You can remove it from your dependencies with 'npm rm eslint-plugin-standard'. More info here: https://github.com/standard/standard/issues/1316",
+  "ident": "eslint-plugin-standard",
+  "key": "eslint-plugin-standard/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "eslint-plugin-standard",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-hMIE+jx3YEevlFkGej1vCf640jtmNL5lixL+B2VFtU8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-standard/-/eslint-plugin-standard-5.0.0.tgz"
+  }
+}

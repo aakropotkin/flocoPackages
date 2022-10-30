@@ -1,0 +1,51 @@
+{
+  "name": "retry",
+  "description": "Abstraction for exponential and custom retry strategies for failed operations.",
+  "license": "MIT",
+  "version": "0.13.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tim-kos/node-retry.git"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "fake": "0.2.0",
+    "istanbul": "^0.4.5",
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "test": "istanbul cover ./node_modules/tape/bin/tape ./test/integration/*.js",
+    "release:major": "env SEMANTIC=major npm run release",
+    "release:minor": "env SEMANTIC=minor npm run release",
+    "release:patch": "env SEMANTIC=patch npm run release",
+    "release": "npm version ${SEMANTIC:-patch} -m \"Release %s\" && git push && git push --tags && npm publish"
+  },
+  "gitHead": "b8e26ea7adda3f11c19086a762d15e95521f3e4e",
+  "_id": "retry@0.13.1",
+  "_nodeVersion": "12.18.0",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-XQBQ3I8W1Cge0Seh+6gjj03LbmRFWuoszgK9ooCpwYIrhhoO80pfq4cUkU5DkknwfOfFteRwlZ56PYOGYyFWdg==",
+    "tarball": "https://registry.npmjs.org/retry/-/retry-0.13.1.tgz"
+  },
+  "ident": "retry",
+  "key": "retry/0.13.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "retry",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+lJQTI6Q2kntvnFRadt8Ef4gweWtMSfZazdikacPe3U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/retry/-/retry-0.13.1.tgz"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "compress-commons",
+  "version": "4.1.1",
+  "description": "a library that defines a common interface for working with archive formats within node",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archiverjs/node-compress-commons.git"
+  },
+  "license": "MIT",
+  "main": "lib/compress-commons.js",
+  "engines": {
+    "node": ">= 10"
+  },
+  "scripts": {
+    "test": "mocha --reporter dot"
+  },
+  "dependencies": {
+    "buffer-crc32": "^0.2.13",
+    "crc32-stream": "^4.0.2",
+    "normalize-path": "^3.0.0",
+    "readable-stream": "^3.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mkdirp": "^1.0.4",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  },
+  "gitHead": "8ab831f09fb2ddad69f88d272f3bf007d1e3b6c6",
+  "_id": "compress-commons@4.1.1",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.12",
+  "dist": {
+    "integrity": "sha512-QLdDLCKNV2dtoTorqgxngQCMA+gWXkM/Nwu7FpeBhk/RdkzimqC3jueb/FDmaZeXh+uby1jkBqE3xArsLBE5wQ==",
+    "tarball": "https://registry.npmjs.org/compress-commons/-/compress-commons-4.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "compress-commons",
+  "key": "compress-commons/4.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "compress-commons",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZxuhObh4ZjH0nMZxhbTtlyjSPLISG8aLMrOEwIJ4MYY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/compress-commons/-/compress-commons-4.1.1.tgz"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "promise-inflight",
+  "version": "1.0.1",
+  "description": "One promise for multiple requests in flight to avoid async duplication",
+  "main": "inflight.js",
+  "files": [
+    "inflight.js"
+  ],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarna/promise-inflight.git"
+  },
+  "gitHead": "9de9f26d8ecfe28d067cbd84630676dfea415e4a",
+  "_id": "promise-inflight@1.0.1",
+  "_shasum": "98472870bf228132fcbdd868129bad12c3c029e3",
+  "_from": ".",
+  "_npmVersion": "4.4.0",
+  "_nodeVersion": "4.6.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/promise-inflight/-/promise-inflight-1.0.1.tgz",
+    "integrity": "sha512-6zWPyEOFaQBJYcGMHBKTKJ3u6TBsnMFOIZSa6ce1e/ZrrsOlnHRHbabMjLiBYKp+n44X9eUI6VUPaukCXHuG4g=="
+  },
+  "ident": "promise-inflight",
+  "key": "promise-inflight/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "promise-inflight",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XV8M3LYInv6Vpkkw1pPu7EwW3rny87h6tRiZAEYLkz4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promise-inflight/-/promise-inflight-1.0.1.tgz"
+  }
+}

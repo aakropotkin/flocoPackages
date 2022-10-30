@@ -1,0 +1,67 @@
+{
+  "name": "array-each",
+  "description": "Loop over each item in an array and call the given function on every element.",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/array-each.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11",
+    "mocha": "^3.2.0"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "collection-map",
+        "arr-filter",
+        "arr-map"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "a752d70897f25abfd38bfb51bb1b3a06ffcd2aed",
+  "_id": "array-each@1.0.1",
+  "_shasum": "a794af0c05ab1752846ee753a1f211a05ba0c44f",
+  "_from": ".",
+  "_npmVersion": "4.1.2",
+  "_nodeVersion": "7.5.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/array-each/-/array-each-1.0.1.tgz",
+    "integrity": "sha512-zHjL5SZa68hkKHBFBK6DJCTtr9sfTCPCaph/L7tMSLcTFgy+zX7E+6q5UArbtOtMBCtxdICpfTCspRse+ywyXA=="
+  },
+  "ident": "array-each",
+  "key": "array-each/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "array-each",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-g3HXGW2agGLLQDfQ5y54ortoIsD7lvHmn8O9iLGfg+k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-each/-/array-each-1.0.1.tgz"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "easy-extender",
+  "description": "plugin/hooks interface",
+  "version": "2.3.4",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shakyshane/easy-extender.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://github.com/shakyShane/easy-extender/blob/master/LICENSE"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "scripts": {
+    "lint": "jshint test/*",
+    "test": "npm run lint && mocha"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "jshint": "^2.5.11",
+    "mocha": "^5.2.0",
+    "sinon": "^1.10.3"
+  },
+  "gitHead": "8f35859dce8fa65e39d1c44d3b3fdc8b60e456cf",
+  "_id": "easy-extender@2.3.4",
+  "_npmVersion": "6.4.0",
+  "_nodeVersion": "8.7.0",
+  "dist": {
+    "integrity": "sha512-8cAwm6md1YTiPpOvDULYJL4ZS6WfM5/cTeVVh4JsvyYZAoqlRVUpHL9Gr5Fy7HA6xcSZicUia3DeAgO3Us8E+Q==",
+    "tarball": "https://registry.npmjs.org/easy-extender/-/easy-extender-2.3.4.tgz"
+  },
+  "directories": {},
+  "ident": "easy-extender",
+  "key": "easy-extender/2.3.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "easy-extender",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZHNx4UsU+AoTaNpKqBfD+9FMyXUvSMaqJQFkRMI51XQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/easy-extender/-/easy-extender-2.3.4.tgz"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "is-png",
+  "version": "3.0.1",
+  "description": "Check if a Buffer/Uint8Array is a PNG image",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-png.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "ava": "^3.15.0",
+    "read-chunk": "^4.0.1",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "b410a545b1d1767a7499958289f6eb70eeb267c2",
+  "_id": "is-png@3.0.1",
+  "_nodeVersion": "14.17.5",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-8TqC8+bdsm3YkpI2aECCDycFDl1hTB0HMVRnP3xRRa3Tqx2oVE7sBi1G6CuO9IqEyWSzbBZr1mGqdb3it9h/pg==",
+    "tarball": "https://registry.npmjs.org/is-png/-/is-png-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "is-png",
+  "key": "is-png/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-png",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-OLS0TgE2JnWcI1/1JS1OW8zFXw/7OsmEn5PoQ1kLk5A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-png/-/is-png-3.0.1.tgz"
+  }
+}

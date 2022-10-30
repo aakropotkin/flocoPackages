@@ -1,0 +1,38 @@
+{
+  "name": "fork-stream",
+  "version": "0.0.4",
+  "description": "Fork a stream in multiple directions according to a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/fork-stream.git"
+  },
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.12.1",
+    "chai": "~1.7.2"
+  },
+  "_id": "fork-stream@0.0.4",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/fork-stream/-/fork-stream-0.0.4.tgz",
+    "integrity": "sha512-Pqq5NnT78ehvUnAk/We/Jr22vSvanRlFTpAmQ88xBY/M1TlHe+P0ILuEyXS595ysdGfaj22634LBkGMA2GTcpA=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.2.32",
+  "ident": "fork-stream",
+  "key": "fork-stream/0.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fork-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-pCvTOxO1jMCnHHPXpeR0rcOWASTAJoBoz3m2aFtumhY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fork-stream/-/fork-stream-0.0.4.tgz"
+  }
+}

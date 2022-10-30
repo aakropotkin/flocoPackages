@@ -1,0 +1,39 @@
+{
+  "name": "strnum",
+  "version": "1.0.5",
+  "description": "Parse String to Number based on configuration",
+  "main": "strnum.js",
+  "scripts": {
+    "test": "jasmine strnum.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaturalIntelligence/strnum.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.10.0"
+  },
+  "gitHead": "3fcb88602a08c103bccffc8c36041c3f3d0f8317",
+  "_id": "strnum@1.0.5",
+  "_nodeVersion": "12.18.4",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-J8bbNyKKXl5qYcR36TIO8W3mVGVHrmmxsd5PAItGkmyzwJvybiw2IVq5nqd0i4LSNSkB/sx9VHllbfFdr9k1JA==",
+    "tarball": "https://registry.npmjs.org/strnum/-/strnum-1.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "strnum",
+  "key": "strnum/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "strnum",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7qTN/ztY2EMtDSWmfRdSRH5Tzi+Bpn7qJRje2EphHP8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strnum/-/strnum-1.0.5.tgz"
+  }
+}

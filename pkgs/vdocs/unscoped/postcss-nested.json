@@ -1,0 +1,42 @@
+{
+  "name": "postcss-nested",
+  "version": "6.0.0",
+  "description": "PostCSS plugin to unwrap nested rules like how Sass does it",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postcss/postcss-nested.git"
+  },
+  "engines": {
+    "node": ">=12.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.14"
+  },
+  "dependencies": {
+    "postcss-selector-parser": "^6.0.10"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "bed7d2664bd97d9384e8f9cdb2f7dc85eba8142c",
+  "_id": "postcss-nested@6.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-0DkamqrPcmkBDsLn+vQDIrtkSbNkv5AD/M322ySo9kqFkCIYklym2xEmWkwo+Y3/qZo34tzEPNUw4y7yMCdv5w==",
+    "tarball": "https://registry.npmjs.org/postcss-nested/-/postcss-nested-6.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-nested",
+  "key": "postcss-nested/6.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-nested",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-j3Kw4hxC5OWMVN1nw/jWO2zsC/odQzKMaPnyyql54Wo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-nested/-/postcss-nested-6.0.0.tgz"
+  }
+}

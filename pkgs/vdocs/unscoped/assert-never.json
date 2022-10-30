@@ -1,0 +1,41 @@
+{
+  "name": "assert-never",
+  "version": "1.2.1",
+  "description": "Helper function for exhaustive checks of discriminated unions in TypeScript",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aikoven/assert-never.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.2.1"
+  },
+  "gitHead": "a5197695021f865f8165bbe3b1a6803d20bb0fb6",
+  "_id": "assert-never@1.2.1",
+  "_nodeVersion": "13.13.0",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-TaTivMB6pYI1kXwrFlEhLeGfOqoDNdTxjCdwRfFFkEA30Eu+k48W34nlok2EYWJfFFzqaEmichdNM7th6M5HNw==",
+    "tarball": "https://registry.npmjs.org/assert-never/-/assert-never-1.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "assert-never",
+  "key": "assert-never/1.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "assert-never",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rSdXL+dQfkDnXHkPRrthQiUJ4oU4b3bN/YHPyFHIUHI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assert-never/-/assert-never-1.2.1.tgz"
+  }
+}

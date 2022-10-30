@@ -1,0 +1,38 @@
+{
+  "name": "doctypes",
+  "version": "1.1.0",
+  "description": "Shorthands for commonly used doctypes",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pugjs/doctypes.git"
+  },
+  "license": "MIT",
+  "gitHead": "0b70cb5191ec338f15bc91d37efef3a010c06cfe",
+  "_id": "doctypes@1.1.0",
+  "_shasum": "ea80b106a87538774e8a3a4a5afe293de489e0a9",
+  "_from": ".",
+  "_npmVersion": "3.10.5",
+  "_nodeVersion": "6.3.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/doctypes/-/doctypes-1.1.0.tgz",
+    "integrity": "sha512-LLBi6pEqS6Do3EKQ3J0NqHWV5hhb78Pi8vvESYwyOy2c31ZEZVdtitdzsQsKb7878PEERhzUk0ftqGhG6Mz+pQ=="
+  },
+  "ident": "doctypes",
+  "key": "doctypes/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "doctypes",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-a24GdqlbNACf32WqTv2zsb198Gdquo74LFx/G6AAvzk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/doctypes/-/doctypes-1.1.0.tgz"
+  }
+}

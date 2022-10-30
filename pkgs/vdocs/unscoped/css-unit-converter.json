@@ -1,0 +1,39 @@
+{
+  "name": "css-unit-converter",
+  "version": "1.1.2",
+  "description": "Converts CSS values from one unit to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyjansson/css-unit-converter.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "gitHead": "b88c04530c243fec807b43120d90a1eb338c30f4",
+  "_id": "css-unit-converter@1.1.2",
+  "_nodeVersion": "11.14.0",
+  "_npmVersion": "6.7.0",
+  "dist": {
+    "integrity": "sha512-IiJwMC8rdZE0+xiEZHeru6YoONC4rfPMqGm2W85jMIbkFvv5nFTwJVFHam2eFrN6txmoUYFAFXiv8ICVeTO0MA==",
+    "tarball": "https://registry.npmjs.org/css-unit-converter/-/css-unit-converter-1.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "css-unit-converter",
+  "key": "css-unit-converter/1.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "css-unit-converter",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-I10yAK53iZh+q28Lwi8JPLvY1i0Klu6iL3TaGXg+MRI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/css-unit-converter/-/css-unit-converter-1.1.2.tgz"
+  }
+}

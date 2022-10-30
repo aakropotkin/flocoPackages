@@ -1,0 +1,69 @@
+{
+  "name": "stable",
+  "version": "0.1.8",
+  "description": "A stable array sort for JavaScript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Two-Screen/stable.git"
+  },
+  "main": "./stable.js",
+  "types": "./index.d.ts",
+  "files": [
+    "stable.js",
+    "stable.min.js",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "rollup": "^0.57.1",
+    "standard": "^11.0.1",
+    "tape": "^4.6.3",
+    "uglify-js": "^3.3.21"
+  },
+  "scripts": {
+    "test": "standard src/ && node ./src/test.js",
+    "prepare": "npm run build && npm run minify",
+    "build": "rollup -c",
+    "minify": "uglifyjs --comments \"/^!/\" -c -m -o ./stable.min.js ./stable.js"
+  },
+  "testling": {
+    "files": "./src/test.js",
+    "browsers": [
+      "ie6",
+      "ie7",
+      "ie8",
+      "ie9",
+      "ie10",
+      "firefox/25",
+      "chrome/31",
+      "safari/6.0",
+      "opera/12.0",
+      "opera/17.0",
+      "iphone/6.0",
+      "android-browser/4.2"
+    ]
+  },
+  "license": "MIT",
+  "gitHead": "2d20475dc7646b4b5427a956182c5f274f2b6551",
+  "_id": "stable@0.1.8",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.11.1",
+  "dist": {
+    "integrity": "sha512-ji9qxRnOVfcuLDySj9qzhGSEFVobyt1kIOSkj1qZzYLzq7Tos/oUUWvotUPQLlrsidqsK6tBH89Bc9kL5zHA6w==",
+    "tarball": "https://registry.npmjs.org/stable/-/stable-0.1.8.tgz"
+  },
+  "directories": {},
+  "deprecated": "Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility",
+  "ident": "stable",
+  "key": "stable/0.1.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "stable",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qcs9uSN9ld8Q9wx+SjDw8j3vAFKpzDzN4EDiOUlPA3M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stable/-/stable-0.1.8.tgz"
+  }
+}

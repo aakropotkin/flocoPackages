@@ -1,0 +1,50 @@
+{
+  "name": "secp256k1",
+  "version": "4.0.3",
+  "description": "This module provides native bindings to ecdsa secp256k1 functions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cryptocoinjs/secp256k1-node.git"
+  },
+  "license": "MIT",
+  "main": "./index.js",
+  "browser": {
+    "./index.js": "./elliptic.js"
+  },
+  "scripts": {
+    "install": "node-gyp-build || exit 0"
+  },
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "node-addon-api": "^2.0.0",
+    "node-gyp-build": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "gypfile": true,
+  "_id": "secp256k1@4.0.3",
+  "_integrity": "sha512-NLZVf+ROMxwtEj3Xa562qgv2BK5e2WNmXPiOdVIPLgs6lyTzMvBq0aWTYMI5XCP9jZMVKOcqZLw/Wc4vDkuxhA==",
+  "_resolved": "/home/kirill/projects/secp256k1-node/secp256k1-4.0.3.tgz",
+  "_from": "file:secp256k1-4.0.3.tgz",
+  "_nodeVersion": "17.3.0",
+  "_npmVersion": "8.3.0",
+  "dist": {
+    "integrity": "sha512-NLZVf+ROMxwtEj3Xa562qgv2BK5e2WNmXPiOdVIPLgs6lyTzMvBq0aWTYMI5XCP9jZMVKOcqZLw/Wc4vDkuxhA==",
+    "tarball": "https://registry.npmjs.org/secp256k1/-/secp256k1-4.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "secp256k1",
+  "key": "secp256k1/4.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "secp256k1",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-OkrS+brOkler5G7KnImdRIlh0K9Pq8uaMGrJIB7UNIU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/secp256k1/-/secp256k1-4.0.3.tgz"
+  }
+}

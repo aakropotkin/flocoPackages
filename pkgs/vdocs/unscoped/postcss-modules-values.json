@@ -1,0 +1,63 @@
+{
+  "name": "postcss-modules-values",
+  "version": "4.0.0",
+  "description": "PostCSS plugin for CSS Modules to pass arbitrary values between your module files",
+  "main": "src/index.js",
+  "engines": {
+    "node": "^10 || ^12 || >= 14"
+  },
+  "scripts": {
+    "prettier": "prettier -l --ignore-path .gitignore .",
+    "eslint": "eslint --ignore-path .gitignore .",
+    "lint": "yarn eslint && yarn prettier",
+    "test:only": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage --collectCoverageFrom=\"src/**/*\"",
+    "pretest": "yarn lint",
+    "test": "yarn test:coverage",
+    "prepublishOnly": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css-modules/postcss-modules-values.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
+    "husky": "^4.3.0",
+    "jest": "^26.5.2",
+    "lint-staged": "^10.4.0",
+    "postcss": "^8.1.0",
+    "prettier": "^2.1.2"
+  },
+  "dependencies": {
+    "icss-utils": "^5.0.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.1.0"
+  },
+  "gitHead": "3851eecae2a57b462104dad9e2b47503eea78d21",
+  "_id": "postcss-modules-values@4.0.0",
+  "_nodeVersion": "10.15.2",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-RDxHkAiEGI78gS2ofyvCsu7iycRv7oqw5xMWn9iMoR0N/7mf9D50ecQqUo5BZ9Zh2vH4bCUR/ktCqbB9m8vJjQ==",
+    "tarball": "https://registry.npmjs.org/postcss-modules-values/-/postcss-modules-values-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-modules-values",
+  "key": "postcss-modules-values/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-modules-values",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GxDZaEOJI8sTSSvbuBDA9li37IK8aAGs8HFjFfSbN6k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-modules-values/-/postcss-modules-values-4.0.0.tgz"
+  }
+}

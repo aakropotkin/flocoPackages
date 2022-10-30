@@ -1,0 +1,40 @@
+{
+  "name": "jest-pnp-resolver",
+  "version": "1.2.2",
+  "description": "plug'n'play resolver for Webpack",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arcanis/jest-pnp-resolver.git"
+  },
+  "peerDependencies": {
+    "jest-resolve": "*"
+  },
+  "peerDependenciesMeta": {
+    "jest-resolve": {
+      "optional": true
+    }
+  },
+  "_id": "jest-pnp-resolver@1.2.2",
+  "dist": {
+    "integrity": "sha512-olV41bKSMm8BdnuMsewT4jqlZ8+3TCARAXjZGT9jcoSnrfUnRCqnMoF9XEeoWjbzObpqF9dRhHQj0Xb9QdF6/w==",
+    "tarball": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "jest-pnp-resolver",
+  "key": "jest-pnp-resolver/1.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jest-pnp-resolver",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-TWqhSIj4QZo9Hw4fGV7RywqlGA4+ocaIAPg8ji7m33c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.2.tgz"
+  }
+}

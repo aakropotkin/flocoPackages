@@ -1,0 +1,64 @@
+{
+  "name": "read-package-json-fast",
+  "version": "3.0.1",
+  "description": "Like read-package-json, but faster",
+  "main": "lib/index.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.3.0"
+  },
+  "dependencies": {
+    "json-parse-even-better-errors": "^3.0.0",
+    "npm-normalize-package-bin": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/read-package-json-fast.git"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "tap": {
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "edd40da35b5e39c3fea446d79f0429c7fb081288",
+  "_id": "read-package-json-fast@3.0.1",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-8+HW7Yo+cjfF+md8DqsZHgats2mxf7gGYow/+2JjxrftoHFZz9v4dzd0EubzYbkNaLxrTVcnllHwklXN2+7aTQ==",
+    "tarball": "https://registry.npmjs.org/read-package-json-fast/-/read-package-json-fast-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "read-package-json-fast",
+  "key": "read-package-json-fast/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "read-package-json-fast",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XbJC60ZTquTj5MT9cWfkIx4VAGb721v9f33QnPTR9fM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/read-package-json-fast/-/read-package-json-fast-3.0.1.tgz"
+  }
+}

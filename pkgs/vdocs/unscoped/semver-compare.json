@@ -1,0 +1,42 @@
+{
+  "name": "semver-compare",
+  "version": "1.0.0",
+  "description": "compare two semver version strings, returning -1, 0, or 1",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/semver-compare.git"
+  },
+  "license": "MIT",
+  "gitHead": "152c863e7c2615f9e9e81a9a370b672afaa3819a",
+  "_id": "semver-compare@1.0.0",
+  "_shasum": "0dee216a1c941ab37e9efb1788f6afc5ff5537fc",
+  "_from": ".",
+  "_npmVersion": "2.1.3",
+  "_nodeVersion": "0.10.31",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/semver-compare/-/semver-compare-1.0.0.tgz",
+    "integrity": "sha512-YM3/ITh2MJ5MtzaM429anh+x2jiLVjqILF4m4oyQB18W7Ggea7BfqdH/wGMK7dDiMghv/6WG7znWMwUDzJiXow=="
+  },
+  "directories": {},
+  "ident": "semver-compare",
+  "key": "semver-compare/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "semver-compare",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9zd84o2+8/yB2moU55u+6fCnscPwYbVteApX0XgyYJk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/semver-compare/-/semver-compare-1.0.0.tgz"
+  }
+}

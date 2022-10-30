@@ -1,0 +1,70 @@
+{
+  "name": "crc-32",
+  "version": "1.2.2",
+  "description": "Pure-JS CRC-32",
+  "bin": {
+    "crc32": "bin/crc32.njs"
+  },
+  "main": "crc32.js",
+  "types": "types/index.d.ts",
+  "typesVersions": {
+    "*": {
+      "*": [
+        "types/index.d.ts"
+      ]
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "printj": "~1.3.1",
+    "exit-on-epipe": "~1.0.1",
+    "mocha": "~2.5.3",
+    "blanket": "~1.2.3",
+    "codepage": "~1.10.0",
+    "@sheetjs/uglify-js": "~2.7.3",
+    "@types/node": "^8.0.7",
+    "dtslint": "^0.1.2",
+    "typescript": "2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SheetJS/js-crc32.git"
+  },
+  "scripts": {
+    "test": "make test",
+    "build": "make",
+    "lint": "make fullint",
+    "dtslint": "dtslint types"
+  },
+  "config": {
+    "blanket": {
+      "pattern": "crc32.js"
+    }
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "gitHead": "6a752a8568e37e824e85da3abf45ff883ae2f651",
+  "_id": "crc-32@1.2.2",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-ROmzCKrTnOwybPcJApAA6WBWij23HVfGVNKqqrZpuyZOHqK2CwHSvpGuyt/UNNvaIjEd8X5IFGp4Mh+Ie1IHJQ==",
+    "tarball": "https://registry.npmjs.org/crc-32/-/crc-32-1.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "crc-32",
+  "key": "crc-32/1.2.2",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "crc-32",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qjyyYOy3PdleireH+XZT/6OIF0UEYncSLzW0/Bd/HRw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/crc-32/-/crc-32-1.2.2.tgz"
+  }
+}

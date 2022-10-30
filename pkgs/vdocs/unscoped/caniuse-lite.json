@@ -1,0 +1,33 @@
+{
+  "name": "caniuse-lite",
+  "version": "1.0.30001427",
+  "description": "A smaller version of caniuse-db, with only the essentials!",
+  "main": "dist/unpacker/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browserslist/caniuse-lite.git"
+  },
+  "license": "CC-BY-4.0",
+  "gitHead": "3bd88e3627d5fd1b1b4bf107670c8000f173aa7b",
+  "_id": "caniuse-lite@1.0.30001427",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-lfXQ73oB9c8DP5Suxaszm+Ta2sr/4tf8+381GkIm1MLj/YdLf+rEDyDSRCzeltuyTVGm+/s18gdZ0q+Wmp8VsQ==",
+    "tarball": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001427.tgz"
+  },
+  "directories": {},
+  "ident": "caniuse-lite",
+  "key": "caniuse-lite/1.0.30001427",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "caniuse-lite",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-cAFEQv6IpPusFxmv2nDBag94BgwfeDk2CWfNnzsGHQg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001427.tgz"
+  }
+}

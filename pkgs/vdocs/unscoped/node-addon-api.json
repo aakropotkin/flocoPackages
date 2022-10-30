@@ -1,0 +1,64 @@
+{
+  "description": "Node.js API (Node-API)",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "bindings": "^1.5.0",
+    "clang-format": "^1.4.0",
+    "eslint": "^7.32.0",
+    "eslint-config-semistandard": "^16.0.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "fs-extra": "^9.0.1",
+    "path": "^0.12.7",
+    "pre-commit": "^1.2.2",
+    "safe-buffer": "^5.1.1"
+  },
+  "directories": {},
+  "gypfile": false,
+  "license": "MIT",
+  "main": "index.js",
+  "name": "node-addon-api",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodejs/node-addon-api.git"
+  },
+  "scripts": {
+    "prebenchmark": "node-gyp rebuild -C benchmark",
+    "benchmark": "node benchmark",
+    "pretest": "node-gyp rebuild -C test",
+    "test": "node test",
+    "predev": "node-gyp rebuild -C test --debug",
+    "dev": "node test",
+    "predev:incremental": "node-gyp configure build -C test --debug",
+    "dev:incremental": "node test",
+    "doc": "doxygen doc/Doxyfile",
+    "lint": "node tools/eslint-format && node tools/clang-format",
+    "lint:fix": "node tools/clang-format --fix && node tools/eslint-format --fix"
+  },
+  "pre-commit": "lint",
+  "version": "5.0.0",
+  "support": true,
+  "gitHead": "e469ee6b88c2efeb20e05c9a19c16e73a43592d5",
+  "_id": "node-addon-api@5.0.0",
+  "_nodeVersion": "18.0.0",
+  "_npmVersion": "8.6.0",
+  "dist": {
+    "integrity": "sha512-CvkDw2OEnme7ybCykJpVcKH+uAOLV2qLqiyla128dN9TkEWfrYmxG6C2boDe5KcNQqZF3orkqzGgOMvZ/JNekA==",
+    "tarball": "https://registry.npmjs.org/node-addon-api/-/node-addon-api-5.0.0.tgz"
+  },
+  "ident": "node-addon-api",
+  "key": "node-addon-api/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "node-addon-api",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ekEZWS2IaTtXFL/18cWrOr5x8ZHqFhB3CafC7gaVtxI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-addon-api/-/node-addon-api-5.0.0.tgz"
+  }
+}

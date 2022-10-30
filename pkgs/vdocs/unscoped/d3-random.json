@@ -1,0 +1,58 @@
+{
+  "name": "d3-random",
+  "version": "3.0.1",
+  "description": "Generate random numbers from various distributions.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3/d3-random.git"
+  },
+  "license": "ISC",
+  "type": "module",
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-random.min.js",
+  "unpkg": "dist/d3-random.min.js",
+  "exports": {
+    "umd": "./dist/d3-random.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "d3-array": "1 - 2",
+    "eslint": "7",
+    "jsdom": "16",
+    "mocha": "8",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "4a8ed7dd38cac562f924d69f475f9f058366240b",
+  "_id": "d3-random@3.0.1",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.12",
+  "dist": {
+    "integrity": "sha512-FXMe9GfxTxqd5D6jFsQ+DJ8BJS4E/fT5mqqdjovykEB2oFbTMDVdg1MGFxfQW+FBOGoB++k8swBrgwSHT1cUXQ==",
+    "tarball": "https://registry.npmjs.org/d3-random/-/d3-random-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "d3-random",
+  "key": "d3-random/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "d3-random",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1CYK0FljhdRsAq5RVH06+FGpRYFVcRDuHTXiAvAaMzw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-random/-/d3-random-3.0.1.tgz"
+  }
+}

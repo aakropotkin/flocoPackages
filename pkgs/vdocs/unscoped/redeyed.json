@@ -1,0 +1,51 @@
+{
+  "name": "redeyed",
+  "version": "2.1.1",
+  "description": "Takes JavaScript code, along with a config and returns the original code with tokens wrapped as configured.",
+  "main": "redeyed.js",
+  "scripts": {
+    "test": "npm run run-test && npm run lint",
+    "run-test": "tape test/*.js",
+    "lint": "standart",
+    "demo-log": "node examples/replace-log",
+    "demo": "cd examples/browser; open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/redeyed.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "cardinal": "~1.0.0",
+    "readdirp": "~2.1.0",
+    "standart": "^6.1.0",
+    "tape": "~4.9.0"
+  },
+  "dependencies": {
+    "esprima": "~4.0.0"
+  },
+  "gitHead": "c7cae77022c18e0a06093602668e5951f783969f",
+  "_id": "redeyed@2.1.1",
+  "_shasum": "8984b5815d99cb220469c99eeeffe38913e6cc0b",
+  "_from": ".",
+  "_npmVersion": "2.15.12",
+  "_nodeVersion": "10.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/redeyed/-/redeyed-2.1.1.tgz",
+    "integrity": "sha512-FNpGGo1DycYAdnrKFxCMmKYgo/mILAqtRYbkdQD8Ep/Hk2PQ5+aEAEx+IU713RTDmuBaH0c8P5ZozurNu5ObRQ=="
+  },
+  "directories": {},
+  "ident": "redeyed",
+  "key": "redeyed/2.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "redeyed",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6l0eiv7Tgr8UFQaD8bmPA1AmybwY5eQzpoji9oQtF+E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/redeyed/-/redeyed-2.1.1.tgz"
+  }
+}

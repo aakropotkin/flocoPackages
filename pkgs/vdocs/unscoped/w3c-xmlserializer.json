@@ -1,0 +1,49 @@
+{
+  "name": "w3c-xmlserializer",
+  "description": "A per-spec XML serializer implementation",
+  "version": "3.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "xml-name-validator": "^4.0.0"
+  },
+  "devDependencies": {
+    "@domenic/eslint-config": "^1.4.0",
+    "eslint": "^7.32.0",
+    "jest": "^27.2.0",
+    "jsdom": "^17.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdom/w3c-xmlserializer.git"
+  },
+  "main": "lib/serialize.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "c4bc0a92b3f373095b80bfcc8578c59bec9bfa2b",
+  "_id": "w3c-xmlserializer@3.0.0",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.21.1",
+  "dist": {
+    "integrity": "sha512-3WFqGEgSXIyGhOmAFtlicJNMjEps8b1MG31NCA0/vOF9+nKMUW1ckhi9cnNHmf88Rzw5V+dwIwsm2C7X8k9aQg==",
+    "tarball": "https://registry.npmjs.org/w3c-xmlserializer/-/w3c-xmlserializer-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "w3c-xmlserializer",
+  "key": "w3c-xmlserializer/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "w3c-xmlserializer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DB+AjBjk12iSvUHabseVuwFni5nb7iLnGsACLhEQkj0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/w3c-xmlserializer/-/w3c-xmlserializer-3.0.0.tgz"
+  }
+}

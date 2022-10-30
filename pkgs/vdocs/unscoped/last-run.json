@@ -1,0 +1,58 @@
+{
+  "name": "last-run",
+  "version": "2.0.0",
+  "description": "Capture and retrieve the last time a function was run",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/last-run.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.3.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "878f48e54e934c0f3dddd85b125a123202aad506",
+  "_id": "last-run@2.0.0",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "7.24.2",
+  "dist": {
+    "integrity": "sha512-j+y6WhTLN4Itnf9j5ZQos1BGPCS8DAwmgMroR3OzfxAsBxam0hMw7J8M3KqZl0pLQJ1jNnwIexg5DYpC/ctwEQ==",
+    "tarball": "https://registry.npmjs.org/last-run/-/last-run-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "last-run",
+  "key": "last-run/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "last-run",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zgIDb9ut1H1TevntgYWti8koPRXewfPbSWViM9DiwWw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/last-run/-/last-run-2.0.0.tgz"
+  }
+}

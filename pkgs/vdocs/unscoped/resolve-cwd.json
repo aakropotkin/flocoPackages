@@ -1,0 +1,46 @@
+{
+  "name": "resolve-cwd",
+  "version": "3.0.0",
+  "description": "Resolve the path of a module like `require.resolve()` but from the current working directory",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/resolve-cwd.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "resolve-from": "^5.0.0"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "gitHead": "55afe697667744f61fd78787526d6c4d989d75fc",
+  "_id": "resolve-cwd@3.0.0",
+  "_nodeVersion": "10.15.3",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-OrZaX2Mb+rJCpH/6CpSqt9xFVpN++x01XnN2ie9g6P5/3xelLAkXWVADpdz1IHD/KFfEXyE6V0U01OQ3UO2rEg==",
+    "tarball": "https://registry.npmjs.org/resolve-cwd/-/resolve-cwd-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "resolve-cwd",
+  "key": "resolve-cwd/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "resolve-cwd",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GRzvU5THR6GGQDxRGxEro/n8fCm34gy5wBwE8/3zvng=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-cwd/-/resolve-cwd-3.0.0.tgz"
+  }
+}

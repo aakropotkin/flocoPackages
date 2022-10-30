@@ -1,0 +1,50 @@
+{
+  "name": "fluent-ffmpeg",
+  "version": "2.1.2",
+  "description": "A fluent API to FFMPEG (http://www.ffmpeg.org)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fluent-ffmpeg/node-fluent-ffmpeg.git"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "should": "latest",
+    "jsdoc": "latest"
+  },
+  "dependencies": {
+    "async": ">=0.2.9",
+    "which": "^1.1.1"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "make test"
+  },
+  "gitHead": "77018ccf5b927b0d5f0c0cb843a0006484a96b46",
+  "_id": "fluent-ffmpeg@2.1.2",
+  "_shasum": "c952de2240f812ebda0aa8006d7776ee2acf7d74",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.10.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/fluent-ffmpeg/-/fluent-ffmpeg-2.1.2.tgz",
+    "integrity": "sha512-IZTB4kq5GK0DPp7sGQ0q/BWurGHffRtQQwVkiqDgeO6wYJLLV5ZhgNOQ65loZxxuPMKZKZcICCUnaGtlxBiR0Q=="
+  },
+  "directories": {},
+  "ident": "fluent-ffmpeg",
+  "key": "fluent-ffmpeg/2.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fluent-ffmpeg",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BKiU1B1ErdRkh1TSJqxIlXzAfwe7xmqkk21iT8OkwB8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fluent-ffmpeg/-/fluent-ffmpeg-2.1.2.tgz"
+  }
+}

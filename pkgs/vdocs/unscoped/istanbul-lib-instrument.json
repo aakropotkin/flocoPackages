@@ -1,0 +1,57 @@
+{
+  "name": "istanbul-lib-instrument",
+  "version": "5.2.1",
+  "description": "Core istanbul API for JS code coverage",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/parser": "^7.14.7",
+    "@istanbuljs/schema": "^0.1.2",
+    "istanbul-lib-coverage": "^3.2.0",
+    "semver": "^6.3.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "chai": "^4.2.0",
+    "clone": "^2.1.2",
+    "debug": "^4.1.1",
+    "documentation": "^12.1.4",
+    "js-yaml": "^3.13.1",
+    "mocha": "^6.2.3",
+    "nopt": "^4.0.1",
+    "nyc": "^15.1.0"
+  },
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/istanbuljs/istanbuljs.git",
+    "directory": "packages/istanbul-lib-instrument"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "_id": "istanbul-lib-instrument@5.2.1",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "6.14.17",
+  "dist": {
+    "integrity": "sha512-pzqtp31nLv/XFOzXGuvhCb8qhjmTVo5vjVk19XE4CRlSWz0KoeJ3bw9XsA7nOp9YBf4qHjwBxkDzKcME/J29Yg==",
+    "tarball": "https://registry.npmjs.org/istanbul-lib-instrument/-/istanbul-lib-instrument-5.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "istanbul-lib-instrument",
+  "key": "istanbul-lib-instrument/5.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "istanbul-lib-instrument",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PS2ATZvRq78EeJLAAtnWYVq5FRvdU8Rl6LSkqUIapwI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/istanbul-lib-instrument/-/istanbul-lib-instrument-5.2.1.tgz"
+  }
+}

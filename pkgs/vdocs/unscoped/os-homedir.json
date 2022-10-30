@@ -1,0 +1,44 @@
+{
+  "name": "os-homedir",
+  "version": "2.0.0",
+  "description": "Node.js 4 `os.homedir()` ponyfill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/os-homedir.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "path-exists": "^2.0.0",
+    "xo": "^0.16.0"
+  },
+  "gitHead": "e7277f6db9df0b8a5b30aad9fb16429dd3c057b1",
+  "_id": "os-homedir@2.0.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-saRNz0DSC5C/I++gFIaJTXoFJMRwiP5zHar5vV3xQ2TkgEw6hDCcU5F272JjUylpiVgBrZNQHnfjkLabTfb92Q==",
+    "tarball": "https://registry.npmjs.org/os-homedir/-/os-homedir-2.0.0.tgz"
+  },
+  "directories": {},
+  "deprecated": "This is not needed anymore. Use `require('os').homedir()` instead.",
+  "ident": "os-homedir",
+  "key": "os-homedir/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "os-homedir",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Z8eP2zz17iKO0NXGQt4/Mimky3kBuFfoGarIDO3d/yg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/os-homedir/-/os-homedir-2.0.0.tgz"
+  }
+}

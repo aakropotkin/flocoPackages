@@ -1,0 +1,57 @@
+{
+  "name": "read-pkg",
+  "version": "7.1.0",
+  "description": "Read a package.json file",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/read-pkg.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12.20"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "@types/normalize-package-data": "^2.4.1",
+    "normalize-package-data": "^3.0.2",
+    "parse-json": "^5.2.0",
+    "type-fest": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "xo": {
+    "ignores": [
+      "test/test.js"
+    ]
+  },
+  "types": "./index.d.ts",
+  "gitHead": "f50f5ffd4d5d25ef3387562c2e32e22ba68552dd",
+  "_id": "read-pkg@7.1.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-5iOehe+WF75IccPc30bWTbpdDQLOCc3Uu8bi3Dte3Eueij81yx1Mrufk8qBx/YAbR4uL1FdUr+7BKXDwEtisXg==",
+    "tarball": "https://registry.npmjs.org/read-pkg/-/read-pkg-7.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "read-pkg",
+  "key": "read-pkg/7.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "read-pkg",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BLT9qUT8tWHrjsZdTAyxkvpA/YIvdQ6R0dzG+5xZhbI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/read-pkg/-/read-pkg-7.1.0.tgz"
+  }
+}

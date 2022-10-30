@@ -1,0 +1,43 @@
+{
+  "name": "wide-align",
+  "version": "1.1.5",
+  "description": "A wide-character aware text alignment function for use on the console or with fixed width fonts.",
+  "main": "align.js",
+  "scripts": {
+    "test": "tap --coverage test/*.js"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarna/wide-align.git"
+  },
+  "//": "But not version 5 of string-width, as that's ESM only",
+  "dependencies": {
+    "string-width": "^1.0.2 || 2 || 3 || 4"
+  },
+  "devDependencies": {
+    "tap": "*"
+  },
+  "gitHead": "c1bf09df8a2c549d68a7a0e65315db89d0eff457",
+  "_id": "wide-align@1.1.5",
+  "_nodeVersion": "13.13.0",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-eDMORYaPNZ4sQIuuYPDHdQvf4gyCF9rEEV/yPxGfwPkRodwEgiMUUXTx/dex+Me0wxx53S+NgUHaP7y3MGlDmg==",
+    "tarball": "https://registry.npmjs.org/wide-align/-/wide-align-1.1.5.tgz"
+  },
+  "directories": {},
+  "ident": "wide-align",
+  "key": "wide-align/1.1.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "wide-align",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uHa8iuh3X8Zzmok/1A4ml8nER3SqYaiDysZU2tmzyWY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/wide-align/-/wide-align-1.1.5.tgz"
+  }
+}

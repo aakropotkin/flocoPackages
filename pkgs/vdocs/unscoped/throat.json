@@ -1,0 +1,54 @@
+{
+  "name": "throat",
+  "version": "6.0.1",
+  "description": "Throttle the parallelism of an asynchronous (promise returning) function / functions",
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "flow-bin": "^0.73.0",
+    "istanbul": "^0.4.5",
+    "jest": "^22.1.4",
+    "promise": "^8.0.0",
+    "sauce-test": "^1.0.0",
+    "test-result": "^2.0.0",
+    "testit": "^3.1.0",
+    "typescript": "^3.4.5"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "tsc": "tsc --noEmit",
+    "flow": "flow",
+    "test": "node test/index.js && npm run test:types",
+    "test:types": "jest",
+    "coverage": "istanbul cover test/index.js",
+    "coveralls": "npm run coverage && cat ./coverage/lcov.info | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForbesLindesay/throat.git"
+  },
+  "license": "MIT",
+  "gitHead": "8fd7a02dce52ce26743b368f62a33f8752c68a4e",
+  "_id": "throat@6.0.1",
+  "_nodeVersion": "12.20.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-8hmiGIJMDlwjg7dlJ4yKGLK8EsYqKgPWbG3b4wjJddKNwc7N7Dpn08Df4szr/sZdMVeOstrdYSsqzX6BYbcB+w==",
+    "tarball": "https://registry.npmjs.org/throat/-/throat-6.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "throat",
+  "key": "throat/6.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "throat",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rutCq5k7cgiVv/uAVhz2B0e5KZRemhfmyOU+N+Ypldw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/throat/-/throat-6.0.1.tgz"
+  }
+}

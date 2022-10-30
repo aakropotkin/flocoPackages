@@ -1,0 +1,52 @@
+{
+  "name": "streamsearch",
+  "version": "1.1.0",
+  "description": "Streaming Boyer-Moore-Horspool searching for node.js",
+  "main": "./lib/sbmh.js",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "devDependencies": {
+    "@mscdex/eslint-config": "^1.1.0",
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "test": "node test/test.js",
+    "lint": "eslint --cache --report-unused-disable-directives --ext=.js .eslintrc.js lib test",
+    "lint:fix": "npm run lint -- --fix"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/mscdex/streamsearch/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mscdex/streamsearch.git"
+  },
+  "_resolved": "",
+  "_integrity": "",
+  "_from": "https://github.com/mscdex/streamsearch/tarball/v1.1.0",
+  "_id": "streamsearch@1.1.0",
+  "_nodeVersion": "10.22.1",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg==",
+    "tarball": "https://registry.npmjs.org/streamsearch/-/streamsearch-1.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "streamsearch",
+  "key": "streamsearch/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "streamsearch",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-79vktBOYiUIv4NTm8wdH6icmGjNB4Znf9d6zJLXFuHs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/streamsearch/-/streamsearch-1.1.0.tgz"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "web3-core-subscriptions",
+  "version": "1.8.0",
+  "description": "Manages web3 subscriptions. This is an internal package.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereum/web3.js.git#1.x"
+  },
+  "license": "LGPL-3.0",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "types": "types/index.d.ts",
+  "scripts": {
+    "compile": "tsc -b tsconfig.json",
+    "dtslint": "dtslint --localTs ../../node_modules/typescript/lib types"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "eventemitter3": "4.0.4",
+    "web3-core-helpers": "1.8.0"
+  },
+  "devDependencies": {
+    "dtslint": "^3.4.1",
+    "typescript": "^3.9.5"
+  },
+  "gitHead": "59b657b8c02af05575dc2d0ed321fa7d3aa8eaf6",
+  "_id": "web3-core-subscriptions@1.8.0",
+  "_nodeVersion": "14.20.0",
+  "_npmVersion": "lerna/4.0.0/node@v14.20.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-7lHVRzDdg0+Gcog55lG6Q3D8JV+jN+4Ly6F8cSn9xFUAwOkdbgdWsjknQG7t7CDWy21DQkvdiY2BJF8S68AqOA==",
+    "tarball": "https://registry.npmjs.org/web3-core-subscriptions/-/web3-core-subscriptions-1.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "web3-core-subscriptions",
+  "key": "web3-core-subscriptions/1.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "web3-core-subscriptions",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-wX5isA9OaGfMiSiXaJiFfGCNUytxq878nCGX3sAHFTY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/web3-core-subscriptions/-/web3-core-subscriptions-1.8.0.tgz"
+  }
+}

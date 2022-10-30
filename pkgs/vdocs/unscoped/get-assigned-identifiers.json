@@ -1,0 +1,41 @@
+{
+  "name": "get-assigned-identifiers",
+  "description": "get a list of identifiers that are initialised by a JavaScript AST node.",
+  "version": "1.2.0",
+  "devDependencies": {
+    "acorn": "^5.4.1",
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goto-bus-stop/get-assigned-identifiers.git"
+  },
+  "scripts": {
+    "test": "standard && tape test/*.js"
+  },
+  "gitHead": "dd3f228ca9fd40541e98f2f4406069c82fe52f35",
+  "_id": "get-assigned-identifiers@1.2.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.5.0",
+  "dist": {
+    "integrity": "sha512-mBBwmeGTrxEMO4pMaaf/uUEFHnYtwr8FTe8Y/mer4rcV/bye0qGm6pw1bGZFGStxC5O76c5ZAVBGnqHmOaJpdQ==",
+    "tarball": "https://registry.npmjs.org/get-assigned-identifiers/-/get-assigned-identifiers-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "get-assigned-identifiers",
+  "key": "get-assigned-identifiers/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "get-assigned-identifiers",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uPAy/71714MfzmiYn6YM5FjKaBA8xyBrlPWmW4IwgRA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/get-assigned-identifiers/-/get-assigned-identifiers-1.2.0.tgz"
+  }
+}

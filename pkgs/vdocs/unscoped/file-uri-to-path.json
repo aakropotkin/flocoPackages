@@ -1,0 +1,62 @@
+{
+  "name": "file-uri-to-path",
+  "version": "2.0.0",
+  "description": "Convert a file: URI to a file path",
+  "main": "dist/src/index",
+  "typings": "dist/src/index",
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsc",
+    "postbuild": "cpy --parents src test '!**/*.ts' dist",
+    "test": "mocha --reporter spec dist/test/*.js",
+    "test-lint": "eslint src --ext .js,.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/file-uri-to-path.git"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^10.5.3",
+    "@typescript-eslint/eslint-plugin": "1.6.0",
+    "@typescript-eslint/parser": "1.1.0",
+    "cpy-cli": "^2.0.0",
+    "eslint": "5.16.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-prettier": "4.1.0",
+    "eslint-import-resolver-typescript": "1.1.1",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jsx-a11y": "6.2.1",
+    "eslint-plugin-react": "7.12.4",
+    "mocha": "^6.2.0",
+    "rimraf": "^3.0.0",
+    "typescript": "^3.5.3"
+  },
+  "gitHead": "701a2d8e6927a74b40f605e7f6071ec57cd978f0",
+  "_id": "file-uri-to-path@2.0.0",
+  "_nodeVersion": "10.16.3",
+  "_npmVersion": "6.11.3",
+  "dist": {
+    "integrity": "sha512-hjPFI8oE/2iQPVe4gbrJ73Pp+Xfub2+WI2LlXDbsaJBwT5wuMh35WNWVYYTpnz895shtwfyutMFLFywpQAFdLg==",
+    "tarball": "https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "file-uri-to-path",
+  "key": "file-uri-to-path/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "file-uri-to-path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-i02HsbCsN7RL5o/+fQNGGyXWQGHAXV46JyYi2+lk7dU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-2.0.0.tgz"
+  }
+}

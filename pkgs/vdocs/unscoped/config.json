@@ -1,0 +1,59 @@
+{
+  "name": "config",
+  "version": "3.3.8",
+  "main": "./lib/config.js",
+  "description": "Configuration control for production node deployments",
+  "directories": {
+    "lib": "./lib"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json5": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.8",
+    "coffeescript": "2.2.4",
+    "cson": "^3.0.1",
+    "hjson": "^1.2.0",
+    "js-yaml": "^3.2.2",
+    "properties": "~1.2.1",
+    "semver": "5.3.0",
+    "toml": "^2.0.6",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2",
+    "underscore": "^1.8.3",
+    "vows": ">=0.8.1",
+    "x2js": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/node-config/node-config.git"
+  },
+  "engines": {
+    "node": ">= 10.0.0"
+  },
+  "scripts": {
+    "test": "./node_modules/vows/bin/vows test/*.js --spec"
+  },
+  "gitHead": "6b2397a89073a0b534d49eb33711c62281149188",
+  "_id": "config@3.3.8",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-rFzF6VESOdp7wAXFlB9IOZI4ouL05g3A03v2eRcTHj2JBQaTNJ40zhAUl5wRbWHqLZ+uqp/7OE0BWWtAVgrong==",
+    "tarball": "https://registry.npmjs.org/config/-/config-3.3.8.tgz"
+  },
+  "ident": "config",
+  "key": "config/3.3.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "config",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-dCqlzNq/nP9bUUNAKXHmMRUm2ae21ksheBTrB2Xe8v0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/config/-/config-3.3.8.tgz"
+  }
+}

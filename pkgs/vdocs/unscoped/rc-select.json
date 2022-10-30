@@ -1,0 +1,79 @@
+{
+  "name": "rc-select",
+  "version": "14.1.13",
+  "description": "React Select",
+  "engines": {
+    "node": ">=8.x"
+  },
+  "main": "./lib/index",
+  "module": "./es/index",
+  "types": "./lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/react-component/select.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "dumi dev",
+    "build": "dumi build",
+    "compile": "father build",
+    "prepublishOnly": "npm run compile && np --yolo --no-publish",
+    "lint": "eslint src/ docs/examples/ --ext .tsx,.ts,.jsx,.js",
+    "test": "father test",
+    "tsc": "tsc --noEmit",
+    "now-build": "npm run build"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.10.1",
+    "classnames": "2.x",
+    "rc-motion": "^2.0.1",
+    "rc-overflow": "^1.0.0",
+    "rc-trigger": "^5.0.4",
+    "rc-util": "^5.16.1",
+    "rc-virtual-list": "^3.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "12",
+    "@types/enzyme": "^3.10.9",
+    "@types/jest": "^26.0.24",
+    "@types/react": "^17.0.15",
+    "@types/react-dom": "^17.0.3",
+    "cross-env": "^7.0.0",
+    "dumi": "^1.1.32",
+    "enzyme": "^3.3.0",
+    "enzyme-to-json": "^3.4.0",
+    "eslint": "^7.1.0",
+    "father": "^2.13.2",
+    "jsonp": "^0.2.1",
+    "np": "^7.5.0",
+    "prettier": "^2.7.1",
+    "rc-dialog": "^8.1.1",
+    "typescript": "^4.2.3"
+  },
+  "gitHead": "2a07ffe7cd5578caf4abf61ffb927cb21028deda",
+  "_id": "rc-select@14.1.13",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-WMEsC3gTwA1dbzWOdVIXDmWyidYNLq68AwvvUlRROw790uGUly0/vmqDozXrIr0QvN/A3CEULx12o+WtLCAefg==",
+    "tarball": "https://registry.npmjs.org/rc-select/-/rc-select-14.1.13.tgz"
+  },
+  "directories": {},
+  "ident": "rc-select",
+  "key": "rc-select/14.1.13",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "rc-select",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Urcy25RrIl2qvnmgXk3Dr1ldpfaZ3ysh3O8e6AGOZvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rc-select/-/rc-select-14.1.13.tgz"
+  }
+}

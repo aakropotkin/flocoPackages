@@ -1,0 +1,47 @@
+{
+  "name": "isnumeric",
+  "description": "Determine if a JavaScript object is numeric",
+  "version": "0.3.3",
+  "license": "MIT",
+  "main": "isNumeric.min.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leecrossley/isNumeric.git"
+  },
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jasmine": "^2.1.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.1",
+    "gulp-header": "^1.7.1"
+  },
+  "gitHead": "24b2ae77909f2a1c4579a45e95f3962e3b947bc8",
+  "_id": "isnumeric@0.3.3",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.2.1",
+  "dist": {
+    "integrity": "sha512-GTxMCA0SsHdQWdsb6CDavRbeq4mQ2pryJUqwpcRHfKNnvdnNnI+3zT8K2zR/o9zZxTM6HKW7GRRetObb8E7p9Q==",
+    "tarball": "https://registry.npmjs.org/isnumeric/-/isnumeric-0.3.3.tgz"
+  },
+  "directories": {},
+  "ident": "isnumeric",
+  "key": "isnumeric/0.3.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "isnumeric",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-n8+Z4dscJaGEJ38jqzHrLAr4YS+IWNw3twPv6zlULPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/isnumeric/-/isnumeric-0.3.3.tgz"
+  }
+}

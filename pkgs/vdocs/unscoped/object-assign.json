@@ -1,0 +1,50 @@
+{
+  "name": "object-assign",
+  "version": "4.1.1",
+  "description": "ES2015 `Object.assign()` ponyfill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/object-assign.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "bench": "matcha bench.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "lodash": "^4.16.4",
+    "matcha": "^0.7.0",
+    "xo": "^0.16.0"
+  },
+  "gitHead": "a89774b252c91612203876984bbd6addbe3b5a0e",
+  "_id": "object-assign@4.1.1",
+  "_shasum": "2109adc7965887cfc05cbbd442cac8bfbb360863",
+  "_from": ".",
+  "_npmVersion": "2.15.11",
+  "_nodeVersion": "4.6.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
+    "integrity": "sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg=="
+  },
+  "directories": {},
+  "ident": "object-assign",
+  "key": "object-assign/4.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "object-assign",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-fy4mKEXjhbY13vj3gcgJUn+6sWqwAFywEe9ioQJAia4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz"
+  }
+}

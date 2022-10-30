@@ -1,0 +1,48 @@
+{
+  "name": "jose",
+  "version": "4.10.4",
+  "description": "'JSON Web Almost Everything' - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panva/jose.git"
+  },
+  "license": "MIT",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/types/index.d.ts",
+      "deno": "./dist/browser/index.js",
+      "browser": "./dist/browser/index.js",
+      "worker": "./dist/browser/index.js",
+      "import": "./dist/node/esm/index.js",
+      "require": "./dist/node/cjs/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/node/cjs/index.js",
+  "browser": "./dist/browser/index.js",
+  "types": "./dist/types/index.d.ts",
+  "deno": "./dist/browser/index.js",
+  "gitHead": "2bea7283ce8e599d4125095aff69a6b0d2d075d2",
+  "_id": "jose@4.10.4",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-eBH77Xs9Yc/oTDvukhAEDVMijhekPuNktXJL4tUlB22jqKP1k48v5nmsUmc8feoJPsxB3HsfEt2LbVSoz+1mng==",
+    "tarball": "https://registry.npmjs.org/jose/-/jose-4.10.4.tgz"
+  },
+  "directories": {},
+  "ident": "jose",
+  "key": "jose/4.10.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jose",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-r/MH6qbfysh4cy3G6ZXbWvcnrRqcSSe203M1CEOslP0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jose/-/jose-4.10.4.tgz"
+  }
+}

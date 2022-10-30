@@ -1,0 +1,51 @@
+{
+  "name": "aggregate-error",
+  "version": "4.0.1",
+  "description": "Create an error from multiple errors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/aggregate-error.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "//test": "xo && ava && tsd",
+    "test": "ava && tsd"
+  },
+  "dependencies": {
+    "clean-stack": "^4.0.0",
+    "indent-string": "^5.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "9b3a3f61ce85831cf61e8350b158de3ef4f8a1bd",
+  "_id": "aggregate-error@4.0.1",
+  "_nodeVersion": "14.19.1",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-0poP0T7el6Vq3rstR8Mn4V/IQrpBLO6POkUSrN7RhyY+GF/InCFShQzsQ39T25gkHhLgSLByyAz+Kjb+c2L98w==",
+    "tarball": "https://registry.npmjs.org/aggregate-error/-/aggregate-error-4.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "aggregate-error",
+  "key": "aggregate-error/4.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "aggregate-error",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WNUhvPxeYPwdhY59JUu9uEmK9IuO16nbJdKfp9Xyh54=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/aggregate-error/-/aggregate-error-4.0.1.tgz"
+  }
+}

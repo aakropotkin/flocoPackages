@@ -1,0 +1,50 @@
+{
+  "name": "getobject",
+  "description": "get.and.set.deep.objects.easily = true",
+  "version": "1.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cowboy/node-getobject.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/cowboy/node-getobject/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/getobject",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~3.2.0",
+    "grunt-contrib-nodeunit": "~4.0.0",
+    "grunt-contrib-watch": "~1.1.0",
+    "grunt": "~1.5.2"
+  },
+  "gitHead": "dc56940b616f4b002db2807391a2c7421a514ef9",
+  "_id": "getobject@1.1.1",
+  "_nodeVersion": "12.22.8",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-Rftr+NsUMxFcCmFopFmyCCfsJPaqUmf7TW61CtKMu0aE93ir62I6VjXt2koiCQgcunGgVog/U6g24tBPq67rlg==",
+    "tarball": "https://registry.npmjs.org/getobject/-/getobject-1.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "getobject",
+  "key": "getobject/1.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "getobject",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6clSh2rxX5HyH2fyvyzlxDXH1cjqo5J0LhhRt3EAkTg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/getobject/-/getobject-1.1.1.tgz"
+  }
+}

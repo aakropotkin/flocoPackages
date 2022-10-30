@@ -1,0 +1,60 @@
+{
+  "name": "icss-utils",
+  "version": "5.1.0",
+  "description": "ICSS utils for postcss ast",
+  "main": "src/index.js",
+  "engines": {
+    "node": "^10 || ^12 || >= 14"
+  },
+  "scripts": {
+    "prettier": "prettier -l --ignore-path .gitignore . \"!test/test-cases\"",
+    "eslint": "eslint --ignore-path .gitignore .",
+    "lint": "yarn eslint && yarn prettier",
+    "test:only": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage --collectCoverageFrom=\"src/**/*\"",
+    "pretest": "yarn lint",
+    "test": "yarn test:coverage",
+    "prepublishOnly": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css-modules/icss-utils.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.12.0",
+    "husky": "^4.3.0",
+    "jest": "^26.4.2",
+    "lint-staged": "^10.4.0",
+    "postcss": "^8.1.0",
+    "prettier": "^2.1.2"
+  },
+  "peerDependencies": {
+    "postcss": "^8.1.0"
+  },
+  "gitHead": "913a175f0cc2d70fad80b6190e9dce122454a0e0",
+  "_id": "icss-utils@5.1.0",
+  "_nodeVersion": "12.19.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-soFhflCVWLfRNOPU3iv5Z9VUdT44xFRbzjLsEzSr5AQmgqPMTHdU3PMT1Cf1ssx8fLNJDA1juftYl+PUcv3MqA==",
+    "tarball": "https://registry.npmjs.org/icss-utils/-/icss-utils-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "icss-utils",
+  "key": "icss-utils/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "icss-utils",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Q/kOvK6P0QzAszT55YpTDlsOyPNqQrYsC4BZPP7U4WA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/icss-utils/-/icss-utils-5.1.0.tgz"
+  }
+}

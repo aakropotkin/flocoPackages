@@ -1,0 +1,75 @@
+{
+  "name": "read-package-json",
+  "version": "6.0.0",
+  "description": "The thing npm uses to read package.json files with semantics and defaults and validation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/read-package-json.git"
+  },
+  "main": "lib/read-json.js",
+  "scripts": {
+    "prerelease": "npm t",
+    "postrelease": "npm publish && git push --follow-tags",
+    "release": "standard-version -s",
+    "test": "tap",
+    "npmclilint": "npmcli-lint",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "postsnap": "npm run lintfix --",
+    "postlint": "template-oss-check",
+    "snap": "tap",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "dependencies": {
+    "glob": "^8.0.1",
+    "json-parse-even-better-errors": "^3.0.0",
+    "normalize-package-data": "^5.0.0",
+    "npm-normalize-package-bin": "^3.0.0"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "tap": {
+    "branches": 68,
+    "functions": 83,
+    "lines": 76,
+    "statements": 77,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "bfb37335dd4c7f091a395f3a5f91aa707d5d6f48",
+  "_id": "read-package-json@6.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-b/9jxWJ8EwogJPpv99ma+QwtqB7FSl3+V6UXS7Aaay8/5VwMY50oIFooY1UKXMWpfNCM6T/PoGqa5GD1g9xf9w==",
+    "tarball": "https://registry.npmjs.org/read-package-json/-/read-package-json-6.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "read-package-json",
+  "key": "read-package-json/6.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "read-package-json",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xgU9d7bfecRkIWkaMP0L7KwtXsek+hPQJI4LvTa+tjE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/read-package-json/-/read-package-json-6.0.0.tgz"
+  }
+}

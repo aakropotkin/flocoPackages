@@ -1,0 +1,54 @@
+{
+  "name": "inspect-with-kind",
+  "version": "1.0.5",
+  "description": "`util.inspect` with additional type information",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinnn/inspect-with-kind.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "nyc --reporter=html --reporter=text node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "kind-of": "^6.0.2"
+  },
+  "devDependencies": {
+    "@shinnn/eslint-config-node": "^6.0.0",
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.4.0",
+    "nyc": "^13.0.1",
+    "tape": "^4.9.1",
+    "zen-observable": "^0.8.9"
+  },
+  "eslintConfig": {
+    "extends": "@shinnn/node",
+    "parser": "babel-eslint"
+  },
+  "gitHead": "a20ebf53e8dba372c3e51fcb35c5e8269c12d50a",
+  "_id": "inspect-with-kind@1.0.5",
+  "_npmVersion": "6.4.0",
+  "_nodeVersion": "10.9.0",
+  "dist": {
+    "integrity": "sha512-MAQUJuIo7Xqk8EVNP+6d3CKq9c80hi4tjIbIAT6lmGW9W6WzlHiu9PS8uSuUYU+Do+j1baiFp3H25XEVxDIG2g==",
+    "tarball": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "inspect-with-kind",
+  "key": "inspect-with-kind/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "inspect-with-kind",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-o3ROjgKqHFol4kaByU41NVgeyXKLTnT5Qb2GQY11+3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.5.tgz"
+  }
+}

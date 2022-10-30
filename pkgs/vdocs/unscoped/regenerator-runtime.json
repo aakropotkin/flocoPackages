@@ -1,0 +1,34 @@
+{
+  "name": "regenerator-runtime",
+  "description": "Runtime for Regenerator-compiled generator and async functions.",
+  "version": "0.13.10",
+  "main": "runtime.js",
+  "sideEffects": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/regenerator.git#master"
+  },
+  "license": "MIT",
+  "gitHead": "53cf890f79bcd132c51ed1700b4368594f755a3b",
+  "_id": "regenerator-runtime@0.13.10",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-KepLsg4dU12hryUO7bp/axHAKvwGOCV0sGloQtpagJ12ai+ojVDqkeGSiRX1zlq+kjIMZ1t7gpze+26QqtdGqw==",
+    "tarball": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.10.tgz"
+  },
+  "directories": {},
+  "ident": "regenerator-runtime",
+  "key": "regenerator-runtime/0.13.10",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "regenerator-runtime",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZS3QD6POG1MzhV6OyD+ukz594F/nroYWxc2mmUx28zA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.10.tgz"
+  }
+}

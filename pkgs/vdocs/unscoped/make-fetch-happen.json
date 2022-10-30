@@ -1,0 +1,88 @@
+{
+  "name": "make-fetch-happen",
+  "version": "11.0.1",
+  "description": "Opinionated, caching, retrying fetch client",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tap",
+    "posttest": "npm run lint",
+    "eslint": "eslint",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "postlint": "template-oss-check",
+    "snap": "tap",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/make-fetch-happen.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "agentkeepalive": "^4.2.1",
+    "cacache": "^17.0.0",
+    "http-cache-semantics": "^4.1.0",
+    "http-proxy-agent": "^5.0.0",
+    "https-proxy-agent": "^5.0.0",
+    "is-lambda": "^1.0.1",
+    "lru-cache": "^7.7.1",
+    "minipass": "^3.1.6",
+    "minipass-collect": "^1.0.2",
+    "minipass-fetch": "^3.0.0",
+    "minipass-flush": "^1.0.5",
+    "minipass-pipeline": "^1.2.4",
+    "negotiator": "^0.6.3",
+    "promise-retry": "^2.0.1",
+    "socks-proxy-agent": "^7.0.0",
+    "ssri": "^10.0.0"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.5.1",
+    "mkdirp": "^1.0.4",
+    "nock": "^13.2.4",
+    "rimraf": "^3.0.2",
+    "safe-buffer": "^5.2.1",
+    "standard-version": "^9.3.2",
+    "tap": "^16.0.0"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "tap": {
+    "color": 1,
+    "files": "test/*.js",
+    "check-coverage": true,
+    "timeout": 60,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "10ff2e4993855614cf04b60ab4a7eb1988aafd40",
+  "_id": "make-fetch-happen@11.0.1",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-clv3IblugXn2CDUmqFhNzii3rjKa46u5wNeivc+QlLXkGI5FjLX3rGboo+y2kwf1pd8W0iDiC384cemeDtw9kw==",
+    "tarball": "https://registry.npmjs.org/make-fetch-happen/-/make-fetch-happen-11.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "make-fetch-happen",
+  "key": "make-fetch-happen/11.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "make-fetch-happen",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9CtOOlEmM4zsWZ26KucA2+M3T+bcw0B02pKa/YcE0Cg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-fetch-happen/-/make-fetch-happen-11.0.1.tgz"
+  }
+}

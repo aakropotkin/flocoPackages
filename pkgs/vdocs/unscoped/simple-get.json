@@ -1,0 +1,50 @@
+{
+  "name": "simple-get",
+  "description": "Simplest way to make http get requests. Supports HTTPS, redirects, gzip/deflate, streams in < 100 lines.",
+  "version": "4.0.1",
+  "browser": {
+    "decompress-response": false
+  },
+  "dependencies": {
+    "decompress-response": "^6.0.0",
+    "once": "^1.3.1",
+    "simple-concat": "^1.0.0"
+  },
+  "devDependencies": {
+    "self-signed-https": "^1.0.5",
+    "standard": "*",
+    "string-to-stream": "^3.0.0",
+    "tape": "^5.0.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/simple-get.git"
+  },
+  "scripts": {
+    "test": "standard && tape test/*.js"
+  },
+  "gitHead": "2cf41cd0a950c8694b17526fed6b975867f356dc",
+  "_id": "simple-get@4.0.1",
+  "_nodeVersion": "17.3.0",
+  "_npmVersion": "8.3.0",
+  "dist": {
+    "integrity": "sha512-brv7p5WgH0jmQJr1ZDDfKDOSeWWg+OVypG99A/5vYGPqJ6pxiaHLy8nxtFjBA7oMa01ebA9gfh1uMCFqOuXxvA==",
+    "tarball": "https://registry.npmjs.org/simple-get/-/simple-get-4.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "simple-get",
+  "key": "simple-get/4.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "simple-get",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zaiktkv5aVFkI0KQJrve56rS0QnzgW/T6QhgTO+790g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/simple-get/-/simple-get-4.0.1.tgz"
+  }
+}

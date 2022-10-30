@@ -1,0 +1,49 @@
+{
+  "name": "is-hex-prefixed",
+  "version": "1.0.0",
+  "description": "A simple method to check if a string is hex prefixed.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha src/tests/**/**.js",
+    "test-travis": "node ./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- src/tests/**/*.js",
+    "coveralls": "npm run test-travis && cat ./coverage/lcov.info | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SilentCicero/is-hex-prefixed.git"
+  },
+  "engines": {
+    "npm": ">=3",
+    "node": ">=6.5.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0",
+    "istanbul": "0.4.5",
+    "coveralls": "2.11.9"
+  },
+  "gitHead": "ee0b92c34415b7ee25600febd60aaf99894f17cb",
+  "_id": "is-hex-prefixed@1.0.0",
+  "_shasum": "7d8d37e6ad77e5d127148913c573e082d777f554",
+  "_from": ".",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.5.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/is-hex-prefixed/-/is-hex-prefixed-1.0.0.tgz",
+    "integrity": "sha512-WvtOiug1VFrE9v1Cydwm+FnXd3+w9GaeVUss5W4v/SLy3UW00vP+6iNF2SdnfiBoLy4bTqVdkftNGTUeOFVsbA=="
+  },
+  "ident": "is-hex-prefixed",
+  "key": "is-hex-prefixed/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-hex-prefixed",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uTPG8jZNSWL942t53lF6bw9Ekz7ZE+T7fI1vpLP8Fr8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-hex-prefixed/-/is-hex-prefixed-1.0.0.tgz"
+  }
+}

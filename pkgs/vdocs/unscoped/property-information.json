@@ -1,0 +1,96 @@
+{
+  "name": "property-information",
+  "version": "6.1.1",
+  "description": "Info on the properties and attributes of the web platform",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooorm/property-information.git"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@types/concat-stream": "^1.0.0",
+    "@types/mdast": "^3.0.0",
+    "@types/node": "^16.0.0",
+    "@types/tape": "^4.0.0",
+    "@types/unist": "^2.0.0",
+    "alpha-sort": "^5.0.0",
+    "bail": "^2.0.0",
+    "c8": "^7.0.0",
+    "concat-stream": "^2.0.0",
+    "html-element-attributes": "^3.0.0",
+    "html-event-attributes": "^2.0.0",
+    "mdast-zone": "^5.0.0",
+    "prettier": "^2.0.0",
+    "remark-cli": "^10.0.0",
+    "remark-preset-wooorm": "^9.0.0",
+    "rimraf": "^3.0.0",
+    "svg-element-attributes": "^2.0.0",
+    "svg-event-attributes": "^2.0.0",
+    "tape": "^5.0.0",
+    "type-coverage": "^2.0.0",
+    "typescript": "^4.0.0",
+    "unist-builder": "^3.0.0",
+    "xo": "^0.46.0"
+  },
+  "scripts": {
+    "prepublishOnly": "npm run build && npm run format",
+    "generate": "node script/generate-react.js && node script/generate-exceptions.js",
+    "build": "rimraf \"{lib/**/,script/**,}*.d.ts\" && tsc && type-coverage",
+    "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
+    "test-api": "node --conditions development test.js",
+    "test-coverage": "c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov npm run test-api",
+    "test": "npm run generate && npm run build && npm run format && npm run test-coverage"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": false,
+    "trailingComma": "none"
+  },
+  "xo": {
+    "prettier": true,
+    "rules": {
+      "no-bitwise": "off"
+    }
+  },
+  "remarkConfig": {
+    "plugins": [
+      "preset-wooorm",
+      "./script/list.js"
+    ]
+  },
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true,
+    "ignoreCatch": true
+  },
+  "gitHead": "897a42b366dced388eeed571dd07cb06845f6486",
+  "_id": "property-information@6.1.1",
+  "_nodeVersion": "17.0.1",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-hrzC564QIl0r0vy4l6MvRLhafmUowhO/O3KgVSoXIbbA2Sz4j8HGpJc6T2cubRVwMwpdiG/vKGfhT4IixmKN9w==",
+    "tarball": "https://registry.npmjs.org/property-information/-/property-information-6.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "property-information",
+  "key": "property-information/6.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "property-information",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-V/517w48o/AC3IjB06U1czlxOUoOtsBd+ZiUaZds3jk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/property-information/-/property-information-6.1.1.tgz"
+  }
+}

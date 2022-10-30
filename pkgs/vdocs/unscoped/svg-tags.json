@@ -1,0 +1,50 @@
+{
+  "name": "svg-tags",
+  "version": "1.0.0",
+  "description": "List of standard SVG tags.",
+  "scripts": {
+    "test": "mocha",
+    "test-cov": "istanbul cover ./node_modules/.bin/_mocha --dir ./reports/coverage -- -R spec",
+    "coveralls": "istanbul cover ./node_modules/.bin/_mocha --dir ./reports/coveralls/coverage --report lcovonly -- -R spec && cat ./reports/coveralls/coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./reports/coveralls"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/element-io/svg-tags.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "1.x.x",
+    "coveralls": "^2.11.1",
+    "istanbul": "^0.3.0",
+    "mocha": "1.x.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "gitHead": "4b0689c15babf6066c64c5f054a1489b10b6c2a8",
+  "_id": "svg-tags@1.0.0",
+  "_shasum": "58f71cee3bd519b59d4b2a843b6c7de64ac04764",
+  "_from": ".",
+  "_npmVersion": "1.5.0-alpha-1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/svg-tags/-/svg-tags-1.0.0.tgz",
+    "integrity": "sha512-ovssysQTa+luh7A5Weu3Rta6FJlFBBbInjOh722LIt6klpU2/HtdUbszju/G4devcvk8PGt7FCLv5wftu3THUA=="
+  },
+  "ident": "svg-tags",
+  "key": "svg-tags/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "svg-tags",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XqFEu4fKYAmxxua/33V/ysZttPbUk8d4Zwm2cuzbREU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-tags/-/svg-tags-1.0.0.tgz"
+  }
+}

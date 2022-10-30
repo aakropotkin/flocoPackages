@@ -1,0 +1,48 @@
+{
+  "name": "slugify",
+  "version": "1.6.5",
+  "description": "Slugifies a String",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simov/slugify.git"
+  },
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "mocha": "^7.2.0",
+    "nyc": "^15.1.0"
+  },
+  "main": "./slugify.js",
+  "types": "slugify.d.ts",
+  "scripts": {
+    "build": "node bin/build",
+    "test:ci": "npx mocha --recursive",
+    "test:cov": "npx nyc --reporter=lcov --reporter=text-summary mocha -- --recursive",
+    "test": "npm run build && npm run test:ci"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "gitHead": "fe95a7ea45ef3db25dc4f39cc62cbc6f414064ff",
+  "_id": "slugify@1.6.5",
+  "_nodeVersion": "12.22.8",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-8mo9bslnBO3tr5PEVFzMPIWwWnipGS0xVbYf65zxDqfNwmzYn1LpiKNrR6DlClusuvo+hDHd1zKpmfAe83NQSQ==",
+    "tarball": "https://registry.npmjs.org/slugify/-/slugify-1.6.5.tgz"
+  },
+  "directories": {},
+  "ident": "slugify",
+  "key": "slugify/1.6.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "slugify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Gi+pXf6oVrEgEXTGFuv8lDKXy7h9OwkxW8XgrMP4FBY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/slugify/-/slugify-1.6.5.tgz"
+  }
+}

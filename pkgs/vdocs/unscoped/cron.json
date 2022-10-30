@@ -1,0 +1,70 @@
+{
+  "name": "cron",
+  "description": "Cron jobs for your node",
+  "version": "2.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kelektiv/node-cron.git"
+  },
+  "main": "lib/cron",
+  "scripts": {
+    "lint": "eslint {lib,tests}/*.js",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "luxon": "^1.23.x"
+  },
+  "devDependencies": {
+    "chai": "~4.2.x",
+    "eslint": "~6.8.x",
+    "eslint-config-prettier": "^6.11.x",
+    "eslint-config-standard": "~14.1.x",
+    "eslint-module-utils": "~2.6.x",
+    "eslint-plugin-import": "~2.20.x",
+    "eslint-plugin-jest": "~23.8.x",
+    "eslint-plugin-node": "~11.1.x",
+    "eslint-plugin-prettier": "~3.1.x",
+    "eslint-plugin-promise": "~4.2.x",
+    "eslint-plugin-standard": "~4.0.x",
+    "jest": "~28.0.x",
+    "prettier": "~2.0.x",
+    "sinon": "^9.0.x"
+  },
+  "license": "MIT",
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "lib/*.js"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "statements": 80,
+        "branches": 80,
+        "functions": 70,
+        "lines": 80
+      }
+    }
+  },
+  "gitHead": "0077b6386f9e509bf87991cf184cbcfd97a78caf",
+  "_id": "cron@2.1.0",
+  "_nodeVersion": "16.13.2",
+  "_npmVersion": "8.10.0",
+  "dist": {
+    "integrity": "sha512-Hq7u3P8y7UWYvsZbSKHHJDVG0VO9O7tp2qljxzTScelcTODBfCme8AIhnZsFwmQ9NchZ3hr2uNr+s3DSms7q6w==",
+    "tarball": "https://registry.npmjs.org/cron/-/cron-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "cron",
+  "key": "cron/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cron",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-LzzIPrlOLYA7GI1wGXehhhYzOt8ngFfPe4+BnwJlihQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cron/-/cron-2.1.0.tgz"
+  }
+}

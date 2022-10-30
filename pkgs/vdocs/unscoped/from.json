@@ -1,0 +1,43 @@
+{
+  "name": "from",
+  "version": "0.1.7",
+  "description": "Easy way to make a Readable Stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "asynct test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/from.git"
+  },
+  "devDependencies": {
+    "asynct": "1",
+    "stream-spec": "0",
+    "assertions": "~2.3.0"
+  },
+  "license": "MIT",
+  "gitHead": "b14b530f53dccb45cad5eab62544bcdf0da918db",
+  "_id": "from@0.1.7",
+  "_shasum": "83c60afc58b9c56997007ed1a768b3ab303a44fe",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.4",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/from/-/from-0.1.7.tgz",
+    "integrity": "sha512-twe20eF1OxVxp/ML/kq2p1uc6KvFK/+vs8WjEbeKmV2He22MKm7YF2ANIt+EOqhJ5L3K/SuuPhk0hWQDjOM23g=="
+  },
+  "directories": {},
+  "ident": "from",
+  "key": "from/0.1.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "from",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qkZ2ScCpbLLtcERkvZsWxyyrptAQv3U5wqAjoPYIXWw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/from/-/from-0.1.7.tgz"
+  }
+}

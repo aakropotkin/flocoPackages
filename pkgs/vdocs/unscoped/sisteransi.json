@@ -1,0 +1,41 @@
+{
+  "name": "sisteransi",
+  "version": "1.0.5",
+  "description": "ANSI escape codes for some terminal swag",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "tape test/*.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terkelg/sisteransi.git"
+  },
+  "types": "./src/sisteransi.d.ts",
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.13.2"
+  },
+  "gitHead": "58a3aff12121a7e876c1b47612571bf2757c916a",
+  "_id": "sisteransi@1.0.5",
+  "_nodeVersion": "13.7.0",
+  "_npmVersion": "6.14.2",
+  "dist": {
+    "integrity": "sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==",
+    "tarball": "https://registry.npmjs.org/sisteransi/-/sisteransi-1.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "sisteransi",
+  "key": "sisteransi/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sisteransi",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-jrhjMBkYGoTeR1ym+MkEd90+qydMYnNKN0p9vmHUqp8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sisteransi/-/sisteransi-1.0.5.tgz"
+  }
+}

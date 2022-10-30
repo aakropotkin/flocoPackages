@@ -1,0 +1,48 @@
+{
+  "name": "vinyl-source-stream",
+  "description": "Use conventional text streams at the start of your gulp or vinyl pipelines",
+  "version": "2.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {
+    "vinyl": "^2.1.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp-rename": "~0.2.1",
+    "tape": "~2.3.2",
+    "vinyl-fs": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/vinyl-source-stream.git"
+  },
+  "gitHead": "502f2e5e798a7daab9ae11eeb6bd16a7e6105903",
+  "_id": "vinyl-source-stream@2.0.0",
+  "_shasum": "f38a5afb9dd1e93b65d550469ac6182ac4f54b8e",
+  "_from": ".",
+  "_npmVersion": "2.15.1",
+  "_nodeVersion": "0.10.48",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/vinyl-source-stream/-/vinyl-source-stream-2.0.0.tgz",
+    "integrity": "sha512-Y5f1wRGajOfYukhv8biIGA7iZiY8UOIc3zJ6zcUNIbRG1BVuXzBsfSfe7MUJTttVkuy64k/pGQtJdd/aIt+hbw=="
+  },
+  "directories": {},
+  "ident": "vinyl-source-stream",
+  "key": "vinyl-source-stream/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "vinyl-source-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-P7+O5R+LW0Z4meLS2Lmj+VTQYtMc1hS1mDzHRwG9/ks=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-source-stream/-/vinyl-source-stream-2.0.0.tgz"
+  }
+}

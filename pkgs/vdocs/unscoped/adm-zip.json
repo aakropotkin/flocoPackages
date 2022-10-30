@@ -1,0 +1,49 @@
+{
+  "name": "adm-zip",
+  "version": "0.5.9",
+  "description": "Javascript implementation of zip for nodejs with support for electron original-fs. Allows user to create or extract zip files both in memory or to/from disk",
+  "scripts": {
+    "test": "mocha -R spec",
+    "test:format": "npm run format:prettier:raw -- --check",
+    "format": "npm run format:prettier",
+    "format:prettier": "npm run format:prettier:raw -- --write",
+    "format:prettier:raw": "prettier \"**/*.{js,yml,json}\""
+  },
+  "license": "MIT",
+  "main": "adm-zip.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cthackers/adm-zip.git"
+  },
+  "engines": {
+    "node": ">=6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "prettier": "^2.2.1",
+    "rimraf": "^3.0.2"
+  },
+  "gitHead": "bebbabf600a6ae5d64ee31cbc89a1274bd1d8c1f",
+  "_id": "adm-zip@0.5.9",
+  "_nodeVersion": "14.16.0",
+  "_npmVersion": "7.24.1",
+  "dist": {
+    "integrity": "sha512-s+3fXLkeeLjZ2kLjCBwQufpI5fuN+kIGBxu6530nVQZGVol0d7Y/M88/xw9HGGUcJjKf8LutN3VPRUBq6N7Ajg==",
+    "tarball": "https://registry.npmjs.org/adm-zip/-/adm-zip-0.5.9.tgz"
+  },
+  "directories": {},
+  "ident": "adm-zip",
+  "key": "adm-zip/0.5.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "adm-zip",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-urVxLFjE6Ax1JF+PFLqxMPwLtOknqwWrwSsCdMmoKL4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/adm-zip/-/adm-zip-0.5.9.tgz"
+  }
+}

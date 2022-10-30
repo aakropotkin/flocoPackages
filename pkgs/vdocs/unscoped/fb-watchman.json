@@ -1,0 +1,35 @@
+{
+  "name": "fb-watchman",
+  "version": "2.0.2",
+  "description": "Bindings for the Watchman file watching service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/facebook/watchman.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bser": "2.1.1"
+  },
+  "_id": "fb-watchman@2.0.2",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-p5161BqbuCaSnB8jIbzQHOlpgsPmK5rJVDfDKO91Axs5NC1uu3HRQm6wt9cd9/+GtQQIO53JdGXXoyDpTAsgYA==",
+    "tarball": "https://registry.npmjs.org/fb-watchman/-/fb-watchman-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "fb-watchman",
+  "key": "fb-watchman/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fb-watchman",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Kj2gr0cIacdte4HN/EIVHEB+ijMg60KZ0yo+Rbo93kE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fb-watchman/-/fb-watchman-2.0.2.tgz"
+  }
+}

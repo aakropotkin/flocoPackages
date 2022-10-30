@@ -1,0 +1,46 @@
+{
+  "name": "is-interactive",
+  "version": "2.0.0",
+  "description": "Check if stdout or stderr is interactive",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-interactive.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "@types/node": "^15.0.1",
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.39.1"
+  },
+  "gitHead": "0001ea8ec644168c0f3567f355c608a346aecddd",
+  "_id": "is-interactive@2.0.0",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-qP1vozQRI+BMOPcjFzrjXuQvdak2pHNUMZoeG2eRbiSqyvbEf/wQtEOTOX1guk6E3t36RkaqiSt8A/6YElNxLQ==",
+    "tarball": "https://registry.npmjs.org/is-interactive/-/is-interactive-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-interactive",
+  "key": "is-interactive/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-interactive",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lCE4FlWudK8Wn+JPTQ6YXvFw+KK9ZiPD9HsdY5JV5l4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-interactive/-/is-interactive-2.0.0.tgz"
+  }
+}

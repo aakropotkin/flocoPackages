@@ -1,0 +1,68 @@
+{
+  "name": "escalade",
+  "version": "3.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeed/escalade.git"
+  },
+  "description": "A tiny (183B to 210B) and fast utility to ascend parent directories",
+  "module": "dist/index.mjs",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "exports": {
+    ".": [
+      {
+        "import": "./dist/index.mjs",
+        "require": "./dist/index.js"
+      },
+      "./dist/index.js"
+    ],
+    "./sync": [
+      {
+        "import": "./sync/index.mjs",
+        "require": "./sync/index.js"
+      },
+      "./sync/index.js"
+    ]
+  },
+  "modes": {
+    "sync": "src/sync.js",
+    "default": "src/async.js"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "build": "bundt",
+    "pretest": "npm run build",
+    "test": "uvu -r esm test -i fixtures"
+  },
+  "devDependencies": {
+    "bundt": "1.1.1",
+    "esm": "3.2.25",
+    "uvu": "0.3.3"
+  },
+  "gitHead": "2477005062cdbd8407afc90d3f48f4930354252b",
+  "_id": "escalade@3.1.1",
+  "_nodeVersion": "14.10.1",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-k0er2gUkLf8O0zKJiAhmkTnJlTvINGv7ygDNPbeIsX/TJjGJZHuh9B2UxbsaEkmlEo9MfhrSzmhIlhRlI2GXnw==",
+    "tarball": "https://registry.npmjs.org/escalade/-/escalade-3.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "escalade",
+  "key": "escalade/3.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "escalade",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5BSRjy0hMk0+ydgMP5t57Y4ea7VnLGGH3YIkNT9a11E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/escalade/-/escalade-3.1.1.tgz"
+  }
+}

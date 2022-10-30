@@ -1,0 +1,84 @@
+{
+  "name": "quill-delta",
+  "version": "5.0.0",
+  "description": "Format for representing rich text documents and changes.",
+  "main": "dist/Delta.js",
+  "dependencies": {
+    "fast-diff": "1.2.0",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.isequal": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.10.3",
+    "@types/lodash.clonedeep": "^4.5.6",
+    "@types/lodash.isequal": "^4.5.5",
+    "@types/node": "^17.0.21",
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint": "^8.10.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jasmine": "^4.0.2",
+    "nyc": "^15.1.0",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  },
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "lint": "eslint 'src/**/*.ts'",
+    "test": "jasmine --config=jasmine.json",
+    "test:coverage": "nyc npm run test",
+    "test:coverage:report": "nyc report --reporter=lcov"
+  },
+  "eslintConfig": {
+    "parser": "@typescript-eslint/parser",
+    "extends": [
+      "plugin:@typescript-eslint/recommended",
+      "plugin:prettier/recommended"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module"
+    },
+    "rules": {
+      "@typescript-eslint/no-namespace": "off"
+    }
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quilljs/delta.git"
+  },
+  "types": "./dist/Delta.d.ts",
+  "gitHead": "b99aac6ba8dfe0f17fca72a1228bda1c48c0b2a2",
+  "_id": "quill-delta@5.0.0",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-lVORU8dBPJdxPmwtdGhfRcz2cekn8Osuj5kwHoPMQ3MNlDT/IZ0CGUnQ/tLsAaTn31LWcDC1KyL+gkiGbBlBBw==",
+    "tarball": "https://registry.npmjs.org/quill-delta/-/quill-delta-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "quill-delta",
+  "key": "quill-delta/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "quill-delta",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-27aeT3W6+GVtXlynJUDt0PI29/gYap97mKK5lEgzINM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/quill-delta/-/quill-delta-5.0.0.tgz"
+  }
+}

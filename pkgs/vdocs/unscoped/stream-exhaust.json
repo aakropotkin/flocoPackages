@@ -1,0 +1,40 @@
+{
+  "name": "stream-exhaust",
+  "version": "1.0.2",
+  "description": "Ensure that a stream is flowing data without mutating it",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdickinson/stream-exhaust.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "readable-stream": "^1.0.31",
+    "tape": "^2.14.0",
+    "through2": "^0.5.1"
+  },
+  "gitHead": "3142d2e2ac0eb301d561ddf501407fbd75ebb1ee",
+  "_id": "stream-exhaust@1.0.2",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.3.0",
+  "dist": {
+    "integrity": "sha512-b/qaq/GlBK5xaq1yrK9/zFcyRSTNxmcZwFLGSTG0mXgZl/4Z6GgiyYOXOvY7N3eEvFRAG1bkDRz5EPGSvPYQlw==",
+    "tarball": "https://registry.npmjs.org/stream-exhaust/-/stream-exhaust-1.0.2.tgz"
+  },
+  "ident": "stream-exhaust",
+  "key": "stream-exhaust/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "stream-exhaust",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DBD117k+nZKbcXYEg2BOD+3xXyHy8K+5iN1PKkGn7T0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stream-exhaust/-/stream-exhaust-1.0.2.tgz"
+  }
+}

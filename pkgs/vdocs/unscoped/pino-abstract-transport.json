@@ -1,0 +1,54 @@
+{
+  "name": "pino-abstract-transport",
+  "version": "1.0.0",
+  "description": "Write Pino transports easily",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "standard | snazzy && tap test/*.test.js  && tsd",
+    "test-ci": "standard | snazzy && tap test/*.test.js --coverage-report=lcovonly && tsd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinojs/pino-abstract-transport.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "readable-stream": "^4.0.0",
+    "split2": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "husky": "^8.0.0",
+    "snazzy": "^9.0.0",
+    "standard": "^17.0.0",
+    "tap": "^16.0.0",
+    "tsd": "^0.21.0"
+  },
+  "tsd": {
+    "directory": "./test/types"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "404395ac6756b10718d7ea7a52130ef282a1252d",
+  "_id": "pino-abstract-transport@1.0.0",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-c7vo5OpW4wIS42hUVcT5REsL8ZljsUfBjqV/e2sFxmFEFZiq1XLUp5EYLtuDH6PEHq9W1egWqRbnLUP5FuZmOA==",
+    "tarball": "https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "pino-abstract-transport",
+  "key": "pino-abstract-transport/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pino-abstract-transport",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-29hC9cEYSPMV8q4rQ8cFyoYXDh8OtcCzmiEQXaqYTzc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-1.0.0.tgz"
+  }
+}

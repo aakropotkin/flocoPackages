@@ -1,0 +1,61 @@
+{
+  "name": "webpack-hot-middleware",
+  "version": "2.25.2",
+  "description": "Webpack hot reloading you can attach to your own server",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "nyc npm run test",
+    "lint": "eslint . --max-warnings 0",
+    "prettier": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpack-contrib/webpack-hot-middleware.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ansi-html-community": "0.0.8",
+    "html-entities": "^2.1.0",
+    "strip-ansi": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0",
+    "prettier": "^2.2.1",
+    "sinon": "^9.2.4",
+    "supertest": "^6.1.3",
+    "webpack": "^4.20.2",
+    "webpack-dev-middleware": "^3.4.0"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "arrowParens": "always"
+  },
+  "gitHead": "2fbab92211782e36386496c919ddd92f960a2115",
+  "_id": "webpack-hot-middleware@2.25.2",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-CVgm3NAQyfdIonRvXisRwPTUYuSbyZ6BY7782tMeUzWOO7RmVI2NaBYuCp41qyD4gYCkJyTneAJdK69A13B0+A==",
+    "tarball": "https://registry.npmjs.org/webpack-hot-middleware/-/webpack-hot-middleware-2.25.2.tgz"
+  },
+  "directories": {},
+  "ident": "webpack-hot-middleware",
+  "key": "webpack-hot-middleware/2.25.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "webpack-hot-middleware",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Pjqqf6DC+EeOJxyHiILnFITxlYWtixbqOcbUUG+cBtQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/webpack-hot-middleware/-/webpack-hot-middleware-2.25.2.tgz"
+  }
+}

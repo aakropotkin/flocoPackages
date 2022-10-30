@@ -1,0 +1,51 @@
+{
+  "name": "metro-transform-plugins",
+  "version": "0.73.3",
+  "description": "🚇 Transform plugins for Metro.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/facebook/metro.git"
+  },
+  "scripts": {
+    "prepare-release": "test -d build && rm -rf src.real && mv src src.real && mv build src",
+    "cleanup-release": "test ! -e build && mv src build && mv src.real src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/generator": "^7.14.0",
+    "@babel/template": "^7.0.0",
+    "@babel/traverse": "^7.14.0",
+    "nullthrows": "^1.1.1"
+  },
+  "devDependencies": {
+    "@babel/code-frame": "^7.0.0",
+    "@babel/plugin-syntax-nullish-coalescing-operator": "^7.0.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.0.0",
+    "@babel/types": "^7.0.0",
+    "metro": "0.73.3"
+  },
+  "gitHead": "a09e07fb91addee7a29ab70b78c143f1f8e8c7bc",
+  "_id": "metro-transform-plugins@0.73.3",
+  "_nodeVersion": "16.18.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-zes8OxN07nLcPq/BD7FgFusoVlVYbmQpdW290SRCsnnQK7ul4amzm9clygX54WYjYm8aHXSEmVrZtd/80Q+rZw==",
+    "tarball": "https://registry.npmjs.org/metro-transform-plugins/-/metro-transform-plugins-0.73.3.tgz"
+  },
+  "directories": {},
+  "ident": "metro-transform-plugins",
+  "key": "metro-transform-plugins/0.73.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "metro-transform-plugins",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HCUSn5L0vom4iRQDP7GtqCJqJY4DMBESooz/wv0Ya98=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/metro-transform-plugins/-/metro-transform-plugins-0.73.3.tgz"
+  }
+}

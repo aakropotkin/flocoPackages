@@ -1,0 +1,46 @@
+{
+  "name": "require-directory",
+  "version": "2.1.1",
+  "description": "Recursively iterates over specified directory, require()'ing each file, and returning a nested hash structure containing those modules.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/troygoode/node-require-directory.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "jshint index.js test/test.js"
+  },
+  "gitHead": "cc71c23dd0c16cefd26855303c16ca1b9b50a36d",
+  "_id": "require-directory@2.1.1",
+  "_shasum": "8c64ad5fd30dab1c976e2344ffe7f792a6a6df42",
+  "_from": ".",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/require-directory/-/require-directory-2.1.1.tgz",
+    "integrity": "sha512-fGxEI7+wsG9xrvdjsrlmL22OMTTiHRwAMroiEeMgq8gzoLC/PQr7RsRDSTLUg/bZAZtF+TVIkHc6/4RIKrui+Q=="
+  },
+  "directories": {},
+  "ident": "require-directory",
+  "key": "require-directory/2.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "require-directory",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-nAP28KKDIP7JZZfCTBI0EHdJcuAa6hsYOVfXNdVn7xY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-directory/-/require-directory-2.1.1.tgz"
+  }
+}

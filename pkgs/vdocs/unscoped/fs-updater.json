@@ -1,0 +1,56 @@
+{
+  "name": "fs-updater",
+  "description": "Incrementally update a directory based on an in-memory representation.",
+  "version": "1.0.4",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broccolijs/node-fs-updater.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "can-symlink": "^1.0.0",
+    "clean-up-path": "^1.0.0",
+    "heimdalljs": "^0.2.5",
+    "heimdalljs-logger": "^0.1.9",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "fixturify": "^0.3.4",
+    "mocha": "^5.0.1",
+    "mocha-eslint": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "test:debug": "mocha debug"
+  },
+  "gitHead": "3970467908281bc93d59aff9b566f30d99b752f2",
+  "_id": "fs-updater@1.0.4",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.5.0",
+  "dist": {
+    "integrity": "sha512-0pJX4mJF/qLsNEwTct8CdnnRdagfb+LmjRPJ8sO+nCnAZLW0cTmz4rTgU25n+RvTuWSITiLKrGVJceJPBIPlKg==",
+    "tarball": "https://registry.npmjs.org/fs-updater/-/fs-updater-1.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "fs-updater",
+  "key": "fs-updater/1.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fs-updater",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XEuhFS+5MiD+nm9I5OBdEJ8UF3B3pdcvjQUMWRpQBn4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fs-updater/-/fs-updater-1.0.4.tgz"
+  }
+}

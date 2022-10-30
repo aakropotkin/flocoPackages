@@ -1,0 +1,52 @@
+{
+  "name": "micromark-util-normalize-identifier",
+  "version": "1.0.0",
+  "description": "micromark utility normalize identifiers (as found in references, definitions)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micromark/micromark.git#main"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "dev/index.d.ts",
+  "exports": {
+    "development": "./dev/index.js",
+    "default": "./index.js"
+  },
+  "dependencies": {
+    "micromark-util-symbol": "^1.0.0"
+  },
+  "scripts": {
+    "build": "rimraf \"*.d.ts\" \"{dev/,lib/}**/*.d.ts\" && tsc && micromark-build && type-coverage"
+  },
+  "xo": false,
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true,
+    "ignoreCatch": true
+  },
+  "_id": "micromark-util-normalize-identifier@1.0.0",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "7.18.1",
+  "dist": {
+    "integrity": "sha512-yg+zrL14bBTFrQ7n35CmByWUTFsgst5JhA4gJYoty4Dqzj4Z4Fr/DHekSS5aLfH9bdlfnSvKAWsAgJhIbogyBg==",
+    "tarball": "https://registry.npmjs.org/micromark-util-normalize-identifier/-/micromark-util-normalize-identifier-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "micromark-util-normalize-identifier",
+  "key": "micromark-util-normalize-identifier/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "micromark-util-normalize-identifier",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3mE5/fq2I9Yrv6JtDrxatTrYZrUPG6Avq1pKPVx+f80=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-util-normalize-identifier/-/micromark-util-normalize-identifier-1.0.0.tgz"
+  }
+}

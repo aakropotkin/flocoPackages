@@ -1,0 +1,50 @@
+{
+  "name": "whatwg-encoding",
+  "description": "Decode strings according to the WHATWG Encoding Standard",
+  "version": "2.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdom/whatwg-encoding.git"
+  },
+  "main": "lib/whatwg-encoding.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint .",
+    "prepare": "node scripts/update.js"
+  },
+  "dependencies": {
+    "iconv-lite": "0.6.3"
+  },
+  "devDependencies": {
+    "@domenic/eslint-config": "^1.3.0",
+    "eslint": "^7.32.0",
+    "minipass-fetch": "^1.4.1",
+    "mocha": "^9.1.1"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "8d9446b437a613d6337044b60e2d1f2267ea1ddd",
+  "_id": "whatwg-encoding@2.0.0",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.21.1",
+  "dist": {
+    "integrity": "sha512-p41ogyeMUrw3jWclHWTQg1k05DSVXPLcVxRTYsXUk+ZooOCZLcoYgPZ/HL/D/N+uQPOtcp1me1WhBEaX02mhWg==",
+    "tarball": "https://registry.npmjs.org/whatwg-encoding/-/whatwg-encoding-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "whatwg-encoding",
+  "key": "whatwg-encoding/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "whatwg-encoding",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-cEj5td96Mpdh7bP/MZRCSz3NoUHv6UylqP6d6SmsaTw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/whatwg-encoding/-/whatwg-encoding-2.0.0.tgz"
+  }
+}

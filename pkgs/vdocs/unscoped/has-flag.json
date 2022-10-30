@@ -1,0 +1,45 @@
+{
+  "name": "has-flag",
+  "version": "5.0.1",
+  "description": "Check if argv has a specific flag",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/has-flag.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "0c7d032214c51d14b458364c9f6575ea9afa08b1",
+  "_id": "has-flag@5.0.1",
+  "_nodeVersion": "14.16.1",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-CsNUt5x9LUdx6hnk/E2SZLsDyvfqANZSUq4+D3D8RzDJ2M+HDTIkF60ibS1vHaK55vzgiZw1bEPFG9yH7l33wA==",
+    "tarball": "https://registry.npmjs.org/has-flag/-/has-flag-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "has-flag",
+  "key": "has-flag/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "has-flag",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-snCJsVzy1QqGtc6tL5TqpPuUxla4p9BbRayLzjRMo3s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/has-flag/-/has-flag-5.0.1.tgz"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "log-driver",
+  "description": "log-driver is a simple logging framework for logging to stdout",
+  "version": "1.2.7",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cainus/logdriver.git"
+  },
+  "scripts": {
+    "test": "make test-codecov"
+  },
+  "devDependencies": {
+    "codecov.io": "0.0.1",
+    "jshint": "2.4.4",
+    "istanbul": "0.2.6",
+    "coveralls": "2.10.0",
+    "sinon-restore": "1.0.1",
+    "mocha": "1.20.1",
+    "should": "1.1.0"
+  },
+  "engines": {
+    "node": ">=0.8.6"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC",
+  "gitHead": "57f5883457d314440f06e1e55910ad65194a3ceb",
+  "_id": "log-driver@1.2.7",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.4.0",
+  "dist": {
+    "integrity": "sha512-U7KCmLdqsGHBLeWqYlFA0V0Sl6P08EE1ZrmA9cxjUE0WVqT9qnyVDPz1kzpFEP0jdJuFnasWIfSd7fsaNXkpbg==",
+    "tarball": "https://registry.npmjs.org/log-driver/-/log-driver-1.2.7.tgz"
+  },
+  "ident": "log-driver",
+  "key": "log-driver/1.2.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "log-driver",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-oqnRvP5HR5zUcbYMFcGNymSaMhmHnj2N7BAoYhSqH1I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/log-driver/-/log-driver-1.2.7.tgz"
+  }
+}

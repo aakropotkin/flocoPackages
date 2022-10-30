@@ -1,0 +1,45 @@
+{
+  "name": "builtin-modules",
+  "version": "3.3.0",
+  "description": "List of the Node.js builtin modules",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/builtin-modules.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd",
+    "make": "node make.js"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "0d234f3ad3965c57d8cc5b9ca198c505fe032452",
+  "_id": "builtin-modules@3.3.0",
+  "_nodeVersion": "18.1.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-zhaCDicdLuWN5UbN5IMnFqNMhNfo919sH85y2/ea+5Yg9TsTkeZxpL+JLbp6cgYFS4sRLp3YV4S6yDuqVWHYOw==",
+    "tarball": "https://registry.npmjs.org/builtin-modules/-/builtin-modules-3.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "builtin-modules",
+  "key": "builtin-modules/3.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "builtin-modules",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+qfcZEJ1TO3KnLuSZt4pXtlj1yd2dAnkMfEGxPI24QI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/builtin-modules/-/builtin-modules-3.3.0.tgz"
+  }
+}

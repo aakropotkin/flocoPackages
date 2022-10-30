@@ -1,0 +1,46 @@
+{
+  "name": "material-colors",
+  "version": "1.2.6",
+  "description": "Colors of Google's Material Design made available to coders",
+  "main": "dist/colors.js",
+  "module": "dist/colors.es2015.js",
+  "scripts": {
+    "start": "grunt",
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuhei/material-colors.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "rollup": "^0.40.2",
+    "tape": "^4.6.3",
+    "tmp": "0.0.31"
+  },
+  "gitHead": "9f2e78eebe547c27834991e7cc434d30565fc880",
+  "_id": "material-colors@1.2.6",
+  "_npmVersion": "6.0.0",
+  "_nodeVersion": "8.6.0",
+  "dist": {
+    "integrity": "sha512-6qE4B9deFBIa9YSpOc9O0Sgc43zTeVYbgDT5veRKSlB2+ZuHNoVVxA1L/ckMUayV9Ay9y7Z/SZCLcGteW9i7bg==",
+    "tarball": "https://registry.npmjs.org/material-colors/-/material-colors-1.2.6.tgz"
+  },
+  "directories": {},
+  "ident": "material-colors",
+  "key": "material-colors/1.2.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "material-colors",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MM7WOmODFnwaYBWIshyIPDXT4LFJWfeAj58WGipQQNk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/material-colors/-/material-colors-1.2.6.tgz"
+  }
+}

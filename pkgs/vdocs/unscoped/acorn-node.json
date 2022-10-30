@@ -1,0 +1,61 @@
+{
+  "name": "acorn-node",
+  "description": "the acorn javascript parser, preloaded with plugins for syntax parity with recent node versions",
+  "version": "2.0.1",
+  "dependencies": {
+    "acorn": "^7.0.0",
+    "acorn-walk": "^7.0.0",
+    "xtend": "^4.0.2"
+  },
+  "devDependencies": {
+    "acorn-bigint": "^0.4.0",
+    "acorn-class-fields": "^0.3.1",
+    "acorn-export-ns-from": "^0.2.0",
+    "acorn-import-meta": "^1.0.0",
+    "acorn-numeric-separator": "^0.3.0",
+    "acorn-private-class-elements": "^0.2.5",
+    "acorn-static-class-features": "^0.2.0",
+    "buble": "^0.19.8",
+    "mkdirp": "^0.5.1",
+    "standard": "^13.1.0",
+    "tape": "^4.11.0"
+  },
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browserify/acorn-node.git"
+  },
+  "scripts": {
+    "test": "standard && node test/index.js",
+    "prepublishOnly": "npm run build",
+    "build": "node build.js"
+  },
+  "standard": {
+    "ignore": [
+      "lib/*/*.js"
+    ]
+  },
+  "gitHead": "11b3621c828b717e1f4e3e38c478745854eefc13",
+  "_id": "acorn-node@2.0.1",
+  "_nodeVersion": "14.3.0",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-VLR5sHqjk+8c5hrKeP2fWaIHb8eewsoxnZ8r2qpwRHXMHuC7KyOPflnOx9dLssVQUurzJ7rO0OzIFjHcndafWw==",
+    "tarball": "https://registry.npmjs.org/acorn-node/-/acorn-node-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "acorn-node",
+  "key": "acorn-node/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "acorn-node",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-q94PPS76SIm09vgfHliEc0Iync0l+6fJFfWQDcWM5UU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-node/-/acorn-node-2.0.1.tgz"
+  }
+}

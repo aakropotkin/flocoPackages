@@ -1,0 +1,42 @@
+{
+  "name": "foreachasync",
+  "version": "5.1.3",
+  "description": "A node- and browser-ready async (now with promises) counterpart of Array.prototype.forEach",
+  "main": "foreachasync.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coolaj86.com/coolaj86/foreachasync.js.git"
+  },
+  "trulyOptionalDependencies": {
+    "bluebird": "^3.5.1"
+  },
+  "license": "(MIT OR Apache-2.0)",
+  "dependencies": {},
+  "gitHead": "e534d3a4b3e0f1e0c441dfedcf80a5894e897296",
+  "_id": "foreachasync@5.1.3",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.13.0",
+  "dist": {
+    "integrity": "sha512-q3/l5D2pyZG8aYe9xZQDAnS/KyP7QJakLUNrU/qGkd4bQUTzCUmvVFjagRggoxxjtb1ZrJB+jQeG4ojOLWkztw==",
+    "tarball": "https://registry.npmjs.org/foreachasync/-/foreachasync-5.1.3.tgz"
+  },
+  "ident": "foreachasync",
+  "key": "foreachasync/5.1.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "foreachasync",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-QryVuzC0v6upvSg04LPKuUNREe8jvRVPHf1XsrIK3yI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/foreachasync/-/foreachasync-5.1.3.tgz"
+  }
+}

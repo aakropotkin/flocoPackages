@@ -1,0 +1,51 @@
+{
+  "name": "maxmin",
+  "version": "4.0.0",
+  "description": "Get a pretty output of the original, minified, gzipped size of a string or buffer: 130 B → 91 B → 53 B (gzip)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/maxmin.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "figures": "^3.2.0",
+    "gzip-size": "^6.0.0",
+    "pretty-bytes": "^5.6.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "strip-ansi": "^7.0.0",
+    "xo": "^0.39.1"
+  },
+  "gitHead": "cb46b5aecaf2056411f926d776fb7eac5eb141ca",
+  "_id": "maxmin@4.0.0",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-+PBstm8/IM6AFVGpOBqk7ddJHZu6KSGWDHQzncOQKAY6AlMgZC7dWS2Y2MrJll4rJZqWcF76g+zWCQn9lIsfEQ==",
+    "tarball": "https://registry.npmjs.org/maxmin/-/maxmin-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "maxmin",
+  "key": "maxmin/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "maxmin",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rT6SVZV4/6wKvqGzdqgBi1lpJdKtQeD0NfCvU9S50gg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/maxmin/-/maxmin-4.0.0.tgz"
+  }
+}

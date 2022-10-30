@@ -1,0 +1,89 @@
+{
+  "name": "uvu",
+  "version": "0.5.6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeed/uvu.git"
+  },
+  "description": "uvu is an extremely fast and lightweight test runner for Node.js and the browser",
+  "module": "dist/index.mjs",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "bin": {
+    "uvu": "bin.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs"
+    },
+    "./assert": {
+      "types": "./assert/index.d.ts",
+      "require": "./assert/index.js",
+      "import": "./assert/index.mjs"
+    },
+    "./diff": {
+      "types": "./diff/index.d.ts",
+      "require": "./diff/index.js",
+      "import": "./diff/index.mjs"
+    },
+    "./parse": {
+      "types": "./parse/index.d.ts",
+      "require": "./parse/index.js",
+      "import": "./parse/index.mjs"
+    },
+    "./run": {
+      "types": "./run/index.d.ts",
+      "require": "./run/index.js",
+      "import": "./run/index.mjs"
+    }
+  },
+  "modes": {
+    "diff": "src/diff.js",
+    "assert": "src/assert.js",
+    "default": "src/index.js"
+  },
+  "scripts": {
+    "build": "bundt",
+    "test": "node test"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "dequal": "^2.0.0",
+    "diff": "^5.0.0",
+    "kleur": "^4.0.3",
+    "sade": "^1.7.3"
+  },
+  "devDependencies": {
+    "bundt": "1.1.1",
+    "esm": "3.2.25",
+    "module-alias": "2.2.2",
+    "totalist": "2.0.0"
+  },
+  "gitHead": "56e1cb25ecd76cbf5cd3fd28c7a4c07db405c5c3",
+  "_id": "uvu@0.5.6",
+  "_nodeVersion": "18.3.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-+g8ENReyr8YsOc6fv/NVJs2vFdHBnBNdfE49rshrTzDWOlUx4Gq7KOS2GD8eqhy2j+Ejq29+SbKH8yjkAqXqoA==",
+    "tarball": "https://registry.npmjs.org/uvu/-/uvu-0.5.6.tgz"
+  },
+  "directories": {},
+  "ident": "uvu",
+  "key": "uvu/0.5.6",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "uvu",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-j9T9lBid8XTaend58vuJAx7tc2QdOYxqyz3UE8igd6w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/uvu/-/uvu-0.5.6.tgz"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "postcss-pseudoelements",
+  "version": "5.0.0",
+  "description": "PostCSS plugin to add single-colon CSS 2.1 syntax pseudo selectors (i.e. :before)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/axa-ch/postcss-pseudoelements.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^5.0.0"
+  },
+  "dependencies": {
+    "postcss": "^6.0.0"
+  },
+  "gitHead": "205eeaa85ee047e524c97eb2f7e81bdd984414c5",
+  "_id": "postcss-pseudoelements@5.0.0",
+  "_shasum": "eef194e8d524645ca520a949e95e518e812402cb",
+  "_from": ".",
+  "_npmVersion": "4.2.0",
+  "_nodeVersion": "7.10.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-5.0.0.tgz",
+    "integrity": "sha512-XHKyn37k6nm8R9C1g+PXisjp5Y8ISOpeuQe9IVCAe5I2+t2WVBtF3YhS1TsRz3asMkW1zg+tIe6g7eX/sT/QOg=="
+  },
+  "ident": "postcss-pseudoelements",
+  "key": "postcss-pseudoelements/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-pseudoelements",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8lomGHSA+kbj975vLzXiYH/+O5hX5/tifSI3HVoxp0w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-5.0.0.tgz"
+  }
+}

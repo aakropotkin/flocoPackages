@@ -1,0 +1,67 @@
+{
+  "name": "ssri",
+  "version": "10.0.0",
+  "description": "Standard Subresource Integrity library -- parses, serializes, generates, and verifies integrity metadata according to the SRI spec.",
+  "main": "lib/index.js",
+  "scripts": {
+    "prerelease": "npm t",
+    "postrelease": "npm publish",
+    "posttest": "npm run lint",
+    "test": "tap",
+    "coverage": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "lintfix": "npm run lint -- --fix",
+    "snap": "tap"
+  },
+  "tap": {
+    "check-coverage": true,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/ssri.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "minipass": "^3.1.1"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "2ab09218ea4cc9fba029843872d8dc8719904469",
+  "_id": "ssri@10.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-64ghGOpqW0k+jh7m5jndBGdVEoPikWwGQmBNN5ks6jyUSMymzHDTlnNHOvzp+6MmHOljr2MokUzvRksnTwG0Iw==",
+    "tarball": "https://registry.npmjs.org/ssri/-/ssri-10.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "ssri",
+  "key": "ssri/10.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ssri",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qFuhpUPGRxQmYl0Pax4ETU/lVYd1psDRhu1hY0FeOOg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ssri/-/ssri-10.0.0.tgz"
+  }
+}

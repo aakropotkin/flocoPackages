@@ -1,0 +1,54 @@
+{
+  "name": "generic-pool",
+  "description": "Generic resource pooling for Node.JS",
+  "version": "3.9.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/coopernurse/node-pool.git"
+  },
+  "devDependencies": {
+    "@types/node": "^8.5.1",
+    "eslint": "^4.9.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-promise": "^3.3.0",
+    "prettier": "^1.7.4",
+    "tap": "^8.0.0",
+    "typescript": "^2.6.2"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint lib test index.js .eslintrc.js",
+    "lint-fix": "eslint --fix lib test index.js .eslintrc.js",
+    "test": "tap test/*-test.js "
+  },
+  "types": "./index.d.ts",
+  "_id": "generic-pool@3.9.0",
+  "_integrity": "sha512-hymDOu5B53XvN4QT9dBmZxPX4CWhBPPLguTZ9MMFeFa/Kg0xWVfylOVNlJji/E7yTZWFd/q9GO5TxDLq156D7g==",
+  "_resolved": "/private/var/folders/wl/c4tw_5s97c9b26n2cj99x4180000gn/T/ee4ea90b50daed0298d193184ce69033/generic-pool-3.9.0.tgz",
+  "_from": "file:generic-pool-3.9.0.tgz",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-hymDOu5B53XvN4QT9dBmZxPX4CWhBPPLguTZ9MMFeFa/Kg0xWVfylOVNlJji/E7yTZWFd/q9GO5TxDLq156D7g==",
+    "tarball": "https://registry.npmjs.org/generic-pool/-/generic-pool-3.9.0.tgz"
+  },
+  "directories": {},
+  "ident": "generic-pool",
+  "key": "generic-pool/3.9.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "generic-pool",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-hxwUieAHneLyyFWqZ8PCXVMLsMyCoX0KtvYteb/0TyI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/generic-pool/-/generic-pool-3.9.0.tgz"
+  }
+}

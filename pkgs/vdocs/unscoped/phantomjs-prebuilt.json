@@ -1,0 +1,59 @@
+{
+  "name": "phantomjs-prebuilt",
+  "version": "2.1.16",
+  "description": "Headless WebKit with JS API",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Medium/phantomjs.git"
+  },
+  "license": "Apache-2.0",
+  "main": "lib/phantomjs",
+  "bin": {
+    "phantomjs": "./bin/phantomjs"
+  },
+  "scripts": {
+    "install": "node install.js",
+    "test": "nodeunit --reporter=minimal test/tests.js && eslint ."
+  },
+  "dependencies": {
+    "es6-promise": "^4.0.3",
+    "extract-zip": "^1.6.5",
+    "fs-extra": "^1.0.0",
+    "hasha": "^2.2.0",
+    "kew": "^0.7.0",
+    "progress": "^1.1.8",
+    "request": "^2.81.0",
+    "request-progress": "^2.0.1",
+    "which": "^1.2.10"
+  },
+  "devDependencies": {
+    "eslint": "2.7.0",
+    "nodeunit": "0.9.1",
+    "webdriverio": "~4.2.3"
+  },
+  "gitHead": "0cc1407f107f8399747015f131390247d0ff60c4",
+  "_id": "phantomjs-prebuilt@2.1.16",
+  "_shasum": "efd212a4a3966d3647684ea8ba788549be2aefef",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.11.5",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/phantomjs-prebuilt/-/phantomjs-prebuilt-2.1.16.tgz",
+    "integrity": "sha512-PIiRzBhW85xco2fuj41FmsyuYHKjKuXWmhjy3A/Y+CMpN/63TV+s9uzfVhsUwFe0G77xWtHBG8xmXf5BqEUEuQ=="
+  },
+  "directories": {},
+  "deprecated": "this package is now deprecated",
+  "ident": "phantomjs-prebuilt",
+  "key": "phantomjs-prebuilt/2.1.16",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "phantomjs-prebuilt",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GepvRddkKnIBpE7Xvgo3HJt4P8H6SFJW5Hv0a9+geC0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/phantomjs-prebuilt/-/phantomjs-prebuilt-2.1.16.tgz"
+  }
+}

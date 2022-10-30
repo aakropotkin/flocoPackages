@@ -1,0 +1,49 @@
+{
+  "name": "lru-memoizer",
+  "description": "Memoize functions results using an lru-cache.",
+  "version": "2.1.4",
+  "repository": {
+    "url": "git://github.com/jfromaniello/lru-memoizer.git"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "prepare": "tsc",
+    "test": "npm run prepare && mocha"
+  },
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
+    "lru-cache": "~4.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash.clonedeep": "^4.5.6",
+    "@types/lru-cache": "^5.1.0",
+    "@types/node": "^12.0.10",
+    "chai": "^3.5.0",
+    "mocha": "^6.1.4",
+    "sinon": "^7.3.2",
+    "typescript": "^3.5.2"
+  },
+  "gitHead": "38fd44bee1d50b2f53e128ec1b7a0a05c88a199d",
+  "_id": "lru-memoizer@2.1.4",
+  "_nodeVersion": "10.21.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-IXAq50s4qwrOBrXJklY+KhgZF+5y98PDaNo0gi/v2KQBFLyWr+JyFvijZXkGKjQj/h9c0OwoE+JZbwUXce76hQ==",
+    "tarball": "https://registry.npmjs.org/lru-memoizer/-/lru-memoizer-2.1.4.tgz"
+  },
+  "directories": {},
+  "ident": "lru-memoizer",
+  "key": "lru-memoizer/2.1.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lru-memoizer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-eAHBpA/IGcOHbQOX8OmY3meivY6NN5duE/nYetbp8hM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lru-memoizer/-/lru-memoizer-2.1.4.tgz"
+  }
+}

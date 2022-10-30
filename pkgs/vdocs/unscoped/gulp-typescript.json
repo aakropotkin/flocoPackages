@@ -1,0 +1,68 @@
+{
+  "name": "gulp-typescript",
+  "version": "6.0.0-alpha.1",
+  "description": "A typescript compiler for gulp with incremental compilation support.",
+  "license": "MIT",
+  "main": "release/main.js",
+  "types": "release/main.d.ts",
+  "typings": "release/main.d.ts",
+  "engines": {
+    "node": ">= 8"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "plugin-error": "^1.0.1",
+    "source-map": "^0.7.3",
+    "through2": "^3.0.1",
+    "vinyl-fs": "^3.0.3",
+    "vinyl": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "12.7.5",
+    "@types/plugin-error": "0.1.1",
+    "@types/through2": "2.0.34",
+    "@types/vinyl": "2.0.3",
+    "@types/vinyl-fs": "2.4.11",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-diff": "^1.0.0",
+    "gulp-header": "^2.0.9",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "merge-stream": "^2.0.0",
+    "rimraf": "^3.0.0",
+    "typescript": "3.6.3"
+  },
+  "peerDependencies": {
+    "typescript": "~2.7.1 || >=2.8.0-dev || >=2.9.0-dev || ~3.0.0 || >=3.0.0-dev || >=3.1.0-dev || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.7.0-dev "
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivogabe/gulp-typescript.git"
+  },
+  "gitHead": "ea5783efe5e43cc6e2b1a15164d1d4032a701264",
+  "_id": "gulp-typescript@6.0.0-alpha.1",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.11.0",
+  "dist": {
+    "integrity": "sha512-KoT0TTfjfT7w3JItHkgFH1T/zK4oXWC+a8xxKfniRfVcA0Fa1bKrIhztYelYmb+95RB80OLMBreknYkdwzdi2Q==",
+    "tarball": "https://registry.npmjs.org/gulp-typescript/-/gulp-typescript-6.0.0-alpha.1.tgz"
+  },
+  "directories": {},
+  "ident": "gulp-typescript",
+  "key": "gulp-typescript/6.0.0-alpha.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "gulp-typescript",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Clh1PS2eGEmcqvr1hFVqIFGRNxs0ozS8dhkUXBBnSas=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-typescript/-/gulp-typescript-6.0.0-alpha.1.tgz"
+  }
+}

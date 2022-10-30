@@ -1,0 +1,50 @@
+{
+  "name": "is-ci",
+  "version": "3.0.1",
+  "description": "Detect if the current environment is a CI server",
+  "bin": {
+    "is-ci": "bin.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/is-ci.git"
+  },
+  "coordinates": [
+    55.778272,
+    12.593116
+  ],
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "ci-info": "^3.2.0"
+  },
+  "devDependencies": {
+    "clear-module": "^4.1.1",
+    "standard": "^16.0.4"
+  },
+  "gitHead": "6bae6da07ef8dc03f9cb0f6cd9fb1db0393ecd22",
+  "_id": "is-ci@3.0.1",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-ZYvCgrefwqoQ6yTyYUbQu64HsITZ3NfKX1lzaEYdkTDcfKzzCI/wthRRYKkdjHKFVgNiXKAKm65Zo1pk2as/QQ==",
+    "tarball": "https://registry.npmjs.org/is-ci/-/is-ci-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "is-ci",
+  "key": "is-ci/3.0.1",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "is-ci",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-oWtoQiouwKnomF8HZShjx0cqhcC4ts4Il59X64G4LSg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-ci/-/is-ci-3.0.1.tgz"
+  }
+}

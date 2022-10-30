@@ -1,0 +1,34 @@
+{
+  "name": "railroad-diagrams",
+  "version": "1.0.0",
+  "description": "A small JS+SVG library for drawing railroad syntax diagrams.",
+  "main": "railroad-diagrams.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tabatkins/railroad-diagrams.git"
+  },
+  "license": "CC0-1.0",
+  "gitHead": "c20d5f11a1350e0b0e5818937e5b1c419adc8d94",
+  "_id": "railroad-diagrams@1.0.0",
+  "scripts": {},
+  "_shasum": "eb7e6267548ddedfb899c1b90e57374559cddb7e",
+  "_from": ".",
+  "_npmVersion": "1.4.28",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/railroad-diagrams/-/railroad-diagrams-1.0.0.tgz",
+    "integrity": "sha512-cz93DjNeLY0idrCNOH6PviZGRN9GJhsdm9hpn1YCS879fj4W+x5IFJhhkRZcwVgMmFF7R82UA/7Oh+R8lLZg6A=="
+  },
+  "ident": "railroad-diagrams",
+  "key": "railroad-diagrams/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "railroad-diagrams",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lUOJkTMEOxUR0HNPLwUqxCXXy5st/vLKiphEX0yzhpY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/railroad-diagrams/-/railroad-diagrams-1.0.0.tgz"
+  }
+}

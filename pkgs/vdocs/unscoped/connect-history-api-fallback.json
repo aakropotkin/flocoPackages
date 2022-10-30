@@ -1,0 +1,52 @@
+{
+  "name": "connect-history-api-fallback",
+  "version": "2.0.0",
+  "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
+  "keyswords": [
+    "connect",
+    "express",
+    "html5",
+    "history api",
+    "fallback",
+    "spa"
+  ],
+  "engines": {
+    "node": ">=0.8"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest && eslint lib/*.js test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bripkens/connect-history-api-fallback.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0",
+    "sinon": "^7.3.2"
+  },
+  "gitHead": "6b58bc97d4a2ff2be0a68dc661df5c7857758a55",
+  "_id": "connect-history-api-fallback@2.0.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-U73+6lQFmfiNPrYbXqr6kZ1i1wiRqXnp2nhMsINseWXO8lDau0LGEffJ8kQi4EjLZympVgRdvqjAgiZ1tgzDDA==",
+    "tarball": "https://registry.npmjs.org/connect-history-api-fallback/-/connect-history-api-fallback-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "connect-history-api-fallback",
+  "key": "connect-history-api-fallback/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "connect-history-api-fallback",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-NQvodWPtCYg2gh3k0v3QiuYhMf450ZY5/PwdMGBGrms=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/connect-history-api-fallback/-/connect-history-api-fallback-2.0.0.tgz"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "domino",
+  "version": "2.1.6",
+  "license": "BSD-2-Clause",
+  "description": "Server-side DOM implementation based on Mozilla's dom.js",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgnass/domino.git"
+  },
+  "scripts": {
+    "lint": "jshint lib test/*.js",
+    "mocha": "mocha",
+    "mocha-spec": "mocha -R spec",
+    "test": "npm run lint && npm run mocha",
+    "test-spec": "npm run lint && npm run mocha-spec",
+    "regen-html5lib-tests": "node test/tools/update-html5lib-tests.js test/html5lib-tests.json",
+    "bump-version": "npm version patch -m 'Release domino %s.' && tools/bump-version.js && npm run version && git add package.json && git commit -m 'Bump version after release.'",
+    "version": "tools/update-changelog.js && git add CHANGELOG.md"
+  },
+  "types": "lib/index.d.ts",
+  "devDependencies": {
+    "jquery": "^3.5.1",
+    "jshint": "^2.11.1",
+    "mocha": "^6.2.3",
+    "should": "^13.2.3"
+  },
+  "gitHead": "ba4fbd8daa04409cd4d24af7bbdb2e48fcb32093",
+  "_id": "domino@2.1.6",
+  "_nodeVersion": "14.5.0",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-3VdM/SXBZX2omc9JF9nOPCtDaYQ67BGp5CoLpIQlO2KCAPETs8TcDHacF26jXadGbvUteZzRTeos2fhID5+ucQ==",
+    "tarball": "https://registry.npmjs.org/domino/-/domino-2.1.6.tgz"
+  },
+  "directories": {},
+  "ident": "domino",
+  "key": "domino/2.1.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "domino",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BY/bhXWWRvTGezOlH5DIJIoFzezR8VCUPN9YoWCGmjw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/domino/-/domino-2.1.6.tgz"
+  }
+}

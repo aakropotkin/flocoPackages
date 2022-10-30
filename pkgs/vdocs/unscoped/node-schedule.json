@@ -1,0 +1,56 @@
+{
+  "name": "node-schedule",
+  "version": "2.1.0",
+  "description": "A cron-like and not-cron-like job scheduler for Node.",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js",
+    "test:browser": "airtap test/cancel-long-running-jobs.js test/convenience-method-test.js test/date-convenience-methods-test.js test/range-test.js test/recurrence-rule-test.js test/schedule-cron-jobs.js test/start-end-test.js",
+    "coveralls": "nyc report --reporter=lcov",
+    "test:coverage": "nyc tape test/*.js",
+    "lint": "eslint lib test",
+    "lint:fix": "eslint --fix lib test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-schedule/node-schedule.git"
+  },
+  "dependencies": {
+    "cron-parser": "^3.5.0",
+    "long-timeout": "0.1.1",
+    "sorted-array-functions": "^1.3.0"
+  },
+  "devDependencies": {
+    "airtap": "^4.0.4",
+    "eslint": "^8.3.0",
+    "nyc": "^15.1.0",
+    "sinon": "^9.2.4",
+    "tape": "^5.3.2"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "gitHead": "032fff36a6d92e10aead4f8dde9fb16978579be4",
+  "_id": "node-schedule@2.1.0",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-nl4JTiZ7ZQDc97MmpTq9BQjYhq7gOtoh7SiPH069gBFBj0PzD8HI7zyFs6rzqL8Y5tTiEEYLxgtbx034YPrbyQ==",
+    "tarball": "https://registry.npmjs.org/node-schedule/-/node-schedule-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "node-schedule",
+  "key": "node-schedule/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "node-schedule",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3CYWIeFAcmbpkaCX8Ew8hxWfpPjcyuYCu+W2yLQ2Fu8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-schedule/-/node-schedule-2.1.0.tgz"
+  }
+}

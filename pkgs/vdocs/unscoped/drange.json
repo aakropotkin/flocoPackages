@@ -1,0 +1,45 @@
+{
+  "name": "drange",
+  "version": "2.0.1",
+  "description": "For adding, subtracting, and indexing discontinuous ranges of numbers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "istanbul cover node_modules/.bin/_mocha -- test/*-test.js",
+    "dtslint": "dtslint types"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fent/node-drange.git"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "MIT",
+  "types": "./types",
+  "gitHead": "3546637a6188df35c2dcb25a9aefeef7be77f8b2",
+  "_id": "drange@2.0.1",
+  "_nodeVersion": "14.3.0",
+  "_npmVersion": "6.14.6",
+  "dist": {
+    "integrity": "sha512-s/Gs2VG0zdUXxWz4cK3vcwniF914RKWLNYY6YAVTTLo2HjqsynfUzUcSvNFEdktQXKDbJMKF9wmg67Rv32VhEQ==",
+    "tarball": "https://registry.npmjs.org/drange/-/drange-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "drange",
+  "key": "drange/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "drange",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Xl3TiPFAPi9jS7J1rnGppTbsTqcdNzoHO0/68l6SmPQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/drange/-/drange-2.0.1.tgz"
+  }
+}

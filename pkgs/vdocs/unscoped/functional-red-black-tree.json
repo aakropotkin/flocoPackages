@@ -1,0 +1,42 @@
+{
+  "name": "functional-red-black-tree",
+  "version": "1.0.1",
+  "description": "A fully persistent balanced binary search tree",
+  "main": "rbtree.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "iota-array": "^0.0.1",
+    "tape": "^2.12.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/functional-red-black-tree.git"
+  },
+  "license": "MIT",
+  "_id": "functional-red-black-tree@1.0.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz",
+    "integrity": "sha512-dsKNQNdj6xA3T+QlADDA7mOSlX0qiMINjn0cgr+eGHGsbSHzTabcIogz2+p/iqP1Xs6EP/sS2SbqH+brGTbq0g=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.4.3",
+  "ident": "functional-red-black-tree",
+  "key": "functional-red-black-tree/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "functional-red-black-tree",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-4tfQ3pJyebQvay60I7ohYa1WW+y/G0FatgcOX8Y4pv8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz"
+  }
+}

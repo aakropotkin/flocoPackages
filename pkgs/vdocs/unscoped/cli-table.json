@@ -1,0 +1,45 @@
+{
+  "name": "cli-table",
+  "description": "Pretty unicode tables for the CLI",
+  "version": "0.3.11",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Automattic/cli-table.git"
+  },
+  "dependencies": {
+    "colors": "1.0.3"
+  },
+  "devDependencies": {
+    "expresso": "~0.9",
+    "should": "~0.6"
+  },
+  "main": "lib",
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": ">= 0.2.0"
+  },
+  "gitHead": "8d8fcd820dac4968f301369af2543514175b0582",
+  "_id": "cli-table@0.3.11",
+  "_nodeVersion": "14.17.3",
+  "_npmVersion": "7.24.0",
+  "dist": {
+    "integrity": "sha512-IqLQi4lO0nIB4tcdTpN4LCB9FI3uqrJZK7RC515EnhZ6qBaglkIgICb1wjeAqpdoOabm1+SuQtkXIPdYC93jhQ==",
+    "tarball": "https://registry.npmjs.org/cli-table/-/cli-table-0.3.11.tgz"
+  },
+  "directories": {},
+  "ident": "cli-table",
+  "key": "cli-table/0.3.11",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cli-table",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-93oBoZGT9YuEY8JeDqEOColoN5q2GVByA66zEawDTJs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-table/-/cli-table-0.3.11.tgz"
+  }
+}

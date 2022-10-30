@@ -1,0 +1,48 @@
+{
+  "name": "first-chunk-stream",
+  "version": "5.0.0",
+  "description": "Buffer and transform the n first bytes of a stream",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/first-chunk-stream.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && nyc ava && tsd"
+  },
+  "devDependencies": {
+    "@types/node": "^16.6.1",
+    "ava": "^3.15.0",
+    "nyc": "^15.1.0",
+    "streamtest": "^2.0.0",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "91cd5d0cd51c796768f43cc7d6e314eff325460c",
+  "_id": "first-chunk-stream@5.0.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-WdHo4ejd2cG2Dl+sLkW79SctU7mUQDfr4s1i26ffOZRs5mgv+BRttIM9gwcq0rDbemo0KlpVPaa3LBVLqPXzcQ==",
+    "tarball": "https://registry.npmjs.org/first-chunk-stream/-/first-chunk-stream-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "first-chunk-stream",
+  "key": "first-chunk-stream/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "first-chunk-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+6QEAloiQhm+nq7graFbA0DFnZ+1QeXNaQtzwTWDy0E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/first-chunk-stream/-/first-chunk-stream-5.0.0.tgz"
+  }
+}

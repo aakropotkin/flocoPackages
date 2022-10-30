@@ -1,0 +1,43 @@
+{
+  "name": "resolve-from",
+  "version": "5.0.0",
+  "description": "Resolve the path of a module like `require.resolve()` but from a given path",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/resolve-from.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "gitHead": "53f4a1b40f972dbfc4dda9627d24068000eae897",
+  "_id": "resolve-from@5.0.0",
+  "_nodeVersion": "8.15.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-qYg9KP24dD5qka9J47d0aVky0N+b4fTU89LN9iDnjB5waksiC49rvMB0PrUJQGoTmH50XPiqOvAjDfaijGxYZw==",
+    "tarball": "https://registry.npmjs.org/resolve-from/-/resolve-from-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "resolve-from",
+  "key": "resolve-from/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "resolve-from",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-bab+/K+W0XuYFqBwFe2syabeEX2GjtK2SdfQmN6NiVI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-from/-/resolve-from-5.0.0.tgz"
+  }
+}

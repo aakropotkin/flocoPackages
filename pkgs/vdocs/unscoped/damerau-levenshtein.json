@@ -1,0 +1,40 @@
+{
+  "name": "damerau-levenshtein",
+  "version": "1.0.8",
+  "description": "Damerau - Levenshtein distance by The Spanish Inquisition + relative distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --use_strict",
+    "version": "scripts/update-changelog.sh"
+  },
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tad-lispy/node-damerau-levenshtein.git"
+  },
+  "gitHead": "4ddd4fc312edff1564030917233746e8193d6496",
+  "_id": "damerau-levenshtein@1.0.8",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA==",
+    "tarball": "https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz"
+  },
+  "directories": {},
+  "ident": "damerau-levenshtein",
+  "key": "damerau-levenshtein/1.0.8",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "damerau-levenshtein",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ztLc9UYtOBIyFKSJ7WnN2JwOWKNgfPO4AQC+mkEE3rY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz"
+  }
+}

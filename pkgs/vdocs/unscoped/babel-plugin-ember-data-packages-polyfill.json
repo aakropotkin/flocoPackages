@@ -1,0 +1,80 @@
+{
+  "name": "babel-plugin-ember-data-packages-polyfill",
+  "version": "0.1.2",
+  "description": "Polyfill for EmberData Packages API.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ember-data/babel-plugin-ember-data-packages-polyfill.git"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "changelog": "lerna-changelog",
+    "start": "qunit --watch tests/**/*-test.js",
+    "test": "qunit tests/**/*-test.js"
+  },
+  "dependencies": {
+    "@ember-data/rfc395-data": "^0.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/plugin-transform-modules-amd": "^7.8.3",
+    "lerna-changelog": "^0.8.3",
+    "qunit": "^2.9.3",
+    "qunit-eslint": "^2.0.0"
+  },
+  "engines": {
+    "node": "6.* || 8.* || 10.* || >= 12.*"
+  },
+  "changelog": {
+    "repo": "ember-data/babel-plugin-ember-data-packages-polyfill",
+    "labels": {
+      "breaking": ":boom: Breaking Change",
+      "enhancement": ":rocket: Enhancement",
+      "bug": ":bug: Bug Fix",
+      "documentation": ":memo: Documentation",
+      "internal": ":house: Internal"
+    }
+  },
+  "release-it": {
+    "plugins": {
+      "release-it-lerna-changelog": {
+        "infile": "CHANGELOG.md"
+      }
+    },
+    "git": {
+      "tagName": "v${version}"
+    },
+    "github": {
+      "release": true
+    }
+  },
+  "volta": {
+    "node": "13.6.0",
+    "yarn": "1.21.1"
+  },
+  "gitHead": "90065ae26c79d3c69186895c776bd81f093029b4",
+  "_id": "babel-plugin-ember-data-packages-polyfill@0.1.2",
+  "_nodeVersion": "13.6.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-kTHnOwoOXfPXi00Z8yAgyD64+jdSXk3pknnS7NlqnCKAU6YDkXZ4Y7irl66kaZjZn0FBBt0P4YOZFZk85jYOww==",
+    "tarball": "https://registry.npmjs.org/babel-plugin-ember-data-packages-polyfill/-/babel-plugin-ember-data-packages-polyfill-0.1.2.tgz"
+  },
+  "ident": "babel-plugin-ember-data-packages-polyfill",
+  "key": "babel-plugin-ember-data-packages-polyfill/0.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-ember-data-packages-polyfill",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-cwT6eLynXKgfqxzpOymgzJxNB0+F6d8kK5GrxLXdow8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-ember-data-packages-polyfill/-/babel-plugin-ember-data-packages-polyfill-0.1.2.tgz"
+  }
+}

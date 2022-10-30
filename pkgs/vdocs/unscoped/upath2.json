@@ -1,0 +1,61 @@
+{
+  "name": "upath2",
+  "version": "3.1.19",
+  "description": "A proxy to `path`, replacing `\\` with `/` for all results",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/ws-iconv.git",
+    "directory": "packages/upath2"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:jest": "jest --passWithNoTests",
+    "test:jest:snapshot": "yarn run test:jest -- -u",
+    "test:snapshot": "yarn run test -- -u",
+    "test:tsd": "ynpx tsd",
+    "npm:publish": "npm publish",
+    "npm:publish:lerna": "lerna publish --yes --cd-version patch",
+    "preversion": "yarn run test",
+    "prepublish:lockfile": "ynpx sync-lockfile .",
+    "postpublish_": "git commit -m \"chore(release): publish\" .",
+    "ncu": "yarn-tool ncu -u",
+    "sort-package-json": "yarn-tool sort"
+  },
+  "dependencies": {
+    "@types/node": "*",
+    "path-is-network-drive": "^1.0.20",
+    "path-strip-sep": "^1.0.17",
+    "tslib": "^2"
+  },
+  "devDependencies": {
+    "upath": "^2.0.1"
+  },
+  "gitHead": "253aa6190c165c31a8e790065b05b19e627dea86",
+  "types": "./index.d.ts",
+  "_id": "upath2@3.1.19",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "lerna/5.5.1/node@v18.10.0+x64 (win32)",
+  "dist": {
+    "integrity": "sha512-d23dQLi8nDWSRTIQwXtaYqMrHuca0As53fNiTLLFDmsGBbepsZepISaB2H1x45bDFN/n3Qw9bydvyZEacTrEWQ==",
+    "tarball": "https://registry.npmjs.org/upath2/-/upath2-3.1.19.tgz"
+  },
+  "ident": "upath2",
+  "key": "upath2/3.1.19",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "upath2",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GRpqS9tG2SHUymosFkZpJ66tQABJ0V1HqxyUv5+bnv4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/upath2/-/upath2-3.1.19.tgz"
+  }
+}

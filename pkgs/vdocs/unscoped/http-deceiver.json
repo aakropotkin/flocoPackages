@@ -1,0 +1,43 @@
+{
+  "name": "http-deceiver",
+  "version": "1.2.7",
+  "description": "Deceive HTTP parser",
+  "main": "lib/deceiver.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/http-deceiver.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "handle-thing": "^1.0.1",
+    "mocha": "^2.2.5",
+    "readable-stream": "^2.0.1",
+    "stream-pair": "^1.0.0"
+  },
+  "gitHead": "8ace40ad41c0e1cfb0d2f130fcf60b63fcb3ecf1",
+  "_id": "http-deceiver@1.2.7",
+  "_shasum": "fa7168944ab9a519d337cb0bec7284dc3e723d87",
+  "_from": ".",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "6.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.7.tgz",
+    "integrity": "sha512-LmpOGxTfbpgtGVxJrj5k7asXHCgNZp5nLfp+hWc8QQRqtb7fUy6kRY3BO1h9ddF6yIPYUARgxGOwB42DnxIaNw=="
+  },
+  "ident": "http-deceiver",
+  "key": "http-deceiver/1.2.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "http-deceiver",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-RmrxwrL6b0mNCst7uS9wz/fV48mH+KZ53+UYKjJVerc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.7.tgz"
+  }
+}

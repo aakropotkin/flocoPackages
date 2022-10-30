@@ -1,0 +1,56 @@
+{
+  "name": "postcss-initial",
+  "version": "3.0.4",
+  "description": "PostCSS plugin to fallback initial keyword.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximkoretskiy/postcss-initial.git"
+  },
+  "dependencies": {
+    "postcss": "^7.0.2"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "eslint": "^4.18.2",
+    "mocha": "^3.3.0",
+    "husky": "^3.0.9",
+    "standard-version": "^8.0.1"
+  },
+  "scripts": {
+    "lint": "eslint *.js ./lib/ ./test/",
+    "test": "npm run lint && mocha",
+    "tdd": "mocha -w --watch-extensions js,json,css",
+    "release": "standard-version"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test",
+      "pre-push": "npm test"
+    }
+  },
+  "standard-version": {
+    "scripts": {
+      "prerelease": "npm test"
+    }
+  },
+  "_id": "postcss-initial@3.0.4",
+  "dist": {
+    "integrity": "sha512-3RLn6DIpMsK1l5UUy9jxQvoDeUN4gP939tDcKUHD/kM8SGSKbFAnvkpFpj3Bhtz3HGk1jWY5ZNWX6mPta5M9fg==",
+    "tarball": "https://registry.npmjs.org/postcss-initial/-/postcss-initial-3.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-initial",
+  "key": "postcss-initial/3.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-initial",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-N5PUaYmSqMzHwDTGrtX4QNQPblDB78U1omew8FcNykM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-initial/-/postcss-initial-3.0.4.tgz"
+  }
+}

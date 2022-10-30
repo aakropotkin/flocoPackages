@@ -1,0 +1,40 @@
+{
+  "name": "history",
+  "version": "5.3.0",
+  "description": "Manage session history with JavaScript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remix-run/history.git"
+  },
+  "license": "MIT",
+  "main": "main.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "unpkg": "umd/history.production.min.js",
+  "sideEffects": false,
+  "dependencies": {
+    "@babel/runtime": "^7.7.6"
+  },
+  "gitHead": "c9bc27dfcf81f540ee275978f651d3fed27e93a9",
+  "_id": "history@5.3.0",
+  "_nodeVersion": "14.19.0",
+  "_npmVersion": "7.24.2",
+  "dist": {
+    "integrity": "sha512-ZqaKwjjrAYUYfLG+htGaIIZ4nioX2L70ZUMIFysS3xvBsSG4x/n1V6TXV3N8ZYNuFGlDirFg32T7B6WOUPDYcQ==",
+    "tarball": "https://registry.npmjs.org/history/-/history-5.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "history",
+  "key": "history/5.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "history",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-RnspCMa4cJzZa0RDyFLIDsR1XSiSwfjESBx0uNYVdWY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/history/-/history-5.3.0.tgz"
+  }
+}

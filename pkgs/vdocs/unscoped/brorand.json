@@ -1,0 +1,43 @@
+{
+  "name": "brorand",
+  "version": "1.1.0",
+  "description": "Random number generator for browsers and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/**/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/brorand.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "browser": {
+    "crypto": false
+  },
+  "gitHead": "ddc4f9344287769d7e2c2ea987d26bbeec5456b4",
+  "_id": "brorand@1.1.0",
+  "_shasum": "12c25efe40a45e3c323eb8675a0a0ce57b22371f",
+  "_from": ".",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "7.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/brorand/-/brorand-1.1.0.tgz",
+    "integrity": "sha512-cKV8tMCEpQs4hK/ik71d6LrPOnpkpGBR0wzxqr68g2m/LB2GxVYQroAjMJZRVM1Y4BCjCKc3vAamxSzOY2RP+w=="
+  },
+  "ident": "brorand",
+  "key": "brorand/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "brorand",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-57rPXQslcpYCO1Qe6sfPi1r0rqdsiBupd5WB6iueeIQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/brorand/-/brorand-1.1.0.tgz"
+  }
+}

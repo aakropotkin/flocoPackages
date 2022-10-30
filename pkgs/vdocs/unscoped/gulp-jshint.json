@@ -1,0 +1,56 @@
+{
+  "name": "gulp-jshint",
+  "description": "JSHint plugin for gulp",
+  "version": "2.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spalger/gulp-jshint.git"
+  },
+  "main": "./src/index.js",
+  "dependencies": {
+    "lodash": "^4.12.0",
+    "minimatch": "^3.0.3",
+    "plugin-error": "^0.1.2",
+    "rcloader": "^0.2.2",
+    "through2": "^2.0.0"
+  },
+  "peerDependencies": {
+    "jshint": "2.x"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "jshint": "^2.9.4",
+    "mocha": "^3.0.0",
+    "should": "^11.0.0",
+    "vinyl": "^2.1.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "license": "MIT",
+  "gitHead": "32a25b0ab904416b392a947f656e9e65f1d42db0",
+  "_id": "gulp-jshint@2.1.0",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "8.9.2",
+  "dist": {
+    "integrity": "sha512-sP3NK8Y/1e58O0PH9t6s7DAr/lKDSUbIY207oWSeufM6/VclB7jJrIBcPCsyhrFTCDUl9DauePbt6VqP2vPM5w==",
+    "tarball": "https://registry.npmjs.org/gulp-jshint/-/gulp-jshint-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "gulp-jshint",
+  "key": "gulp-jshint/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "gulp-jshint",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Ykh6RIg5R3o1toAVroqNxV9ZpiP2wH0jUIAX25jxYOU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-jshint/-/gulp-jshint-2.1.0.tgz"
+  }
+}

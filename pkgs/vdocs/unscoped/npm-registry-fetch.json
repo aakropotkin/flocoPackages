@@ -1,0 +1,80 @@
+{
+  "name": "npm-registry-fetch",
+  "version": "14.0.2",
+  "description": "Fetch-based http client for use with npm registry APIs",
+  "main": "lib",
+  "scripts": {
+    "eslint": "eslint",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "test": "tap",
+    "posttest": "npm run lint",
+    "npmclilint": "npmcli-lint",
+    "postsnap": "npm run lintfix --",
+    "postlint": "template-oss-check",
+    "snap": "tap",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npm-registry-fetch.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "make-fetch-happen": "^11.0.0",
+    "minipass": "^3.1.6",
+    "minipass-fetch": "^3.0.0",
+    "minipass-json-stream": "^1.0.1",
+    "minizlib": "^2.1.2",
+    "npm-package-arg": "^10.0.0",
+    "proc-log": "^3.0.0"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.6.1",
+    "cacache": "^17.0.0",
+    "mkdirp": "^1.0.4",
+    "nock": "^13.2.4",
+    "require-inject": "^1.4.4",
+    "rimraf": "^3.0.2",
+    "ssri": "^10.0.0",
+    "tap": "^16.0.1"
+  },
+  "tap": {
+    "check-coverage": true,
+    "test-ignore": "test[\\\\/](util|cache)[\\\\/]",
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.6.1"
+  },
+  "gitHead": "dad9be5dbb5bc9fdd5bbe6d412a9608f199515c4",
+  "_id": "npm-registry-fetch@14.0.2",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "9.0.0-pre.4",
+  "dist": {
+    "integrity": "sha512-TMenrMagFA9KF81E2bkS5XRyzERK4KXu70vgXt5+i8FcrFeLNgNsc6e5hekTqjDwPDkL3HGn/holWcXDMfnFgw==",
+    "tarball": "https://registry.npmjs.org/npm-registry-fetch/-/npm-registry-fetch-14.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "npm-registry-fetch",
+  "key": "npm-registry-fetch/14.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "npm-registry-fetch",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-CWZjFURUsrfFUhoQyfaLNT1u971IEkXM92A4hWYVkS4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/npm-registry-fetch/-/npm-registry-fetch-14.0.2.tgz"
+  }
+}

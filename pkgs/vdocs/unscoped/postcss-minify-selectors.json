@@ -1,0 +1,48 @@
+{
+  "name": "postcss-minify-selectors",
+  "version": "5.2.1",
+  "description": "Minify selectors with PostCSS.",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssnano/cssnano.git"
+  },
+  "dependencies": {
+    "postcss-selector-parser": "^6.0.5"
+  },
+  "engines": {
+    "node": "^10 || ^12 || >=14.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "_id": "postcss-minify-selectors@5.2.1",
+  "_integrity": "sha512-nPJu7OjZJTsVUmPdm2TcaiohIwxP+v8ha9NehQ2ye9szv4orirRU3SDdtUmKH+10nzn0bAyOXZ0UEr7OpvLehg==",
+  "_resolved": "/tmp/e79cbde55a41a5d51d4d47e7744f13ff/postcss-minify-selectors-5.2.1.tgz",
+  "_from": "file:postcss-minify-selectors-5.2.1.tgz",
+  "_nodeVersion": "18.2.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-nPJu7OjZJTsVUmPdm2TcaiohIwxP+v8ha9NehQ2ye9szv4orirRU3SDdtUmKH+10nzn0bAyOXZ0UEr7OpvLehg==",
+    "tarball": "https://registry.npmjs.org/postcss-minify-selectors/-/postcss-minify-selectors-5.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-minify-selectors",
+  "key": "postcss-minify-selectors/5.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-minify-selectors",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-nRwU31t7qdlSNs5SJRXwjcH71OVmJmHSk+AfaR9WPlo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-selectors/-/postcss-minify-selectors-5.2.1.tgz"
+  }
+}

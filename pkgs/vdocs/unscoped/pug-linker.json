@@ -1,0 +1,40 @@
+{
+  "name": "pug-linker",
+  "version": "4.0.0",
+  "description": "Link multiple pug ASTs together using include/extends",
+  "dependencies": {
+    "pug-error": "^2.0.0",
+    "pug-walk": "^2.0.0"
+  },
+  "devDependencies": {
+    "pug-lexer": "^5.0.0",
+    "pug-load": "^3.0.0",
+    "pug-parser": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pugjs/pug/tree/master/packages/pug-linker"
+  },
+  "license": "MIT",
+  "_id": "pug-linker@4.0.0",
+  "_nodeVersion": "12.16.3",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-gjD1yzp0yxbQqnzBAdlhbgoJL5qIFJw78juN1NpTLt/mfPJ5VgC4BvkoD3G23qKzJtIIXBbcCt6FioLSFLOHdw==",
+    "tarball": "https://registry.npmjs.org/pug-linker/-/pug-linker-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "pug-linker",
+  "key": "pug-linker/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pug-linker",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ET/0SnJIn5VEukAIY8NtElO4AXW1PlMCQS7kLY6yy4s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-linker/-/pug-linker-4.0.0.tgz"
+  }
+}

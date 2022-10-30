@@ -1,0 +1,45 @@
+{
+  "name": "taffydb",
+  "version": "2.7.3",
+  "description": "TaffyDB is an opensouce library that brings database features into your JavaScript applications.",
+  "main": "taffy.js",
+  "scripts": {
+    "test": "nodeunit test/t.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/typicaljoe/taffydb.git"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {},
+  "devDependencies": {
+    "jslint": "^0.9.3",
+    "nodeunit": "^0.9.1",
+    "nodeunit-b": "^4.0.0",
+    "node-inspector": "^0.12.5",
+    "uglifyjs": "^2.4.10"
+  },
+  "gitHead": "c88fd85462f4aa495064f39c4dd7af3131304151",
+  "_id": "taffydb@2.7.3",
+  "_shasum": "2ad37169629498fca5bc84243096d3cde0ec3a34",
+  "_from": ".",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.6.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/taffydb/-/taffydb-2.7.3.tgz",
+    "integrity": "sha512-GQ3gtYFSOAxSMN/apGtDKKkbJf+8izz5YfbGqIsUc7AMiQOapARZ76dhilRY2h39cynYxBFdafQo5HUL5vgkrg=="
+  },
+  "ident": "taffydb",
+  "key": "taffydb/2.7.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "taffydb",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uDF6aAlCAlDem19KN2odimLMjV40yXDUsd7O1VOkyj8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/taffydb/-/taffydb-2.7.3.tgz"
+  }
+}

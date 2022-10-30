@@ -1,0 +1,56 @@
+{
+  "name": "optipng-bin",
+  "version": "9.0.0",
+  "description": "OptiPNG wrapper that makes it seamlessly available as a local dependency",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagemin/optipng-bin.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "bin": {
+    "optipng": "cli.js"
+  },
+  "engines": {
+    "node": "^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "postinstall": "node lib/install.js",
+    "test": "xo && ava --timeout=120s"
+  },
+  "dependencies": {
+    "bin-build": "^3.0.0",
+    "bin-wrapper": "^4.0.0"
+  },
+  "devDependencies": {
+    "ava": "^4.2.0",
+    "bin-check": "^4.0.1",
+    "compare-size": "^3.0.0",
+    "execa": "^6.1.0",
+    "tempy": "^3.0.0",
+    "xo": "^0.48.0"
+  },
+  "gitHead": "8f19248039fe0d6f8bc700b3bcc05bcff0bdbd32",
+  "_id": "optipng-bin@9.0.0",
+  "_nodeVersion": "16.13.2",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-uDcmcNK4MRSM5ezLThUPI7fc9ZxlQMqnxhWxIc7foCcUZZ2LvzbcJwwVEsU78tC3t9B68dwE4y/m6at10Z93UA==",
+    "tarball": "https://registry.npmjs.org/optipng-bin/-/optipng-bin-9.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "optipng-bin",
+  "key": "optipng-bin/9.0.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "optipng-bin",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7iv8R9zl3dtZAmxpNa5dtD3GpADyhzAPIj8T74ECGAk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/optipng-bin/-/optipng-bin-9.0.0.tgz"
+  }
+}

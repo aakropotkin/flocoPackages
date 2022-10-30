@@ -1,0 +1,40 @@
+{
+  "name": "pull-stream",
+  "description": "minimal pull stream",
+  "version": "3.6.14",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pull-stream/pull-stream.git"
+  },
+  "devDependencies": {
+    "fastbench": "^1.0.1",
+    "pull-abortable": "~2.0.0",
+    "tape": "~2.12.3"
+  },
+  "scripts": {
+    "test": "set -e; for t in test/*.js; do node $t; done"
+  },
+  "license": "MIT",
+  "gitHead": "a82b8b4d790fe91f6e8451cc5b084db4d59a3c54",
+  "_id": "pull-stream@3.6.14",
+  "_npmVersion": "5.10.0",
+  "_nodeVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-KIqdvpqHHaTUA2mCYcLG1ibEbu/LCKoJZsBWyv9lSYtPkJPBq8m3Hxa103xHi6D2thj5YXa0TqK3L3GUkwgnew==",
+    "tarball": "https://registry.npmjs.org/pull-stream/-/pull-stream-3.6.14.tgz"
+  },
+  "directories": {},
+  "ident": "pull-stream",
+  "key": "pull-stream/3.6.14",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pull-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HF4ERZN/iWes2nACKS4dbwjZZTA1FQb4xTq3BWpmssk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pull-stream/-/pull-stream-3.6.14.tgz"
+  }
+}

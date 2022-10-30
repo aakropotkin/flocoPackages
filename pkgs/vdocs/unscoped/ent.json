@@ -1,0 +1,53 @@
+{
+  "name": "ent",
+  "description": "Encode and decode HTML entities",
+  "version": "2.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/substack/node-ent.git"
+  },
+  "main": "./index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "tape test/*.js",
+    "prepublish": "node build/index.js"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/6..latest",
+      "ff/3.5",
+      "ff/latest",
+      "chrome/10",
+      "chrome/latest",
+      "safari/latest",
+      "opera/latest"
+    ]
+  },
+  "devDependencies": {
+    "tape": "~2.3.2"
+  },
+  "gitHead": "bf59099130ea3cff66fecd868acd093810245d2a",
+  "_id": "ent@2.2.0",
+  "_shasum": "e964219325a21d05f44466a2f686ed6ce5f5dd1d",
+  "_from": ".",
+  "_npmVersion": "1.4.28",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/ent/-/ent-2.2.0.tgz",
+    "integrity": "sha512-GHrMyVZQWvTIdDtpiEXdHZnFQKzeO09apj8Cbl4pKWy4i0Oprcq17usfDt5aO63swf0JOeMWjWQE/LzgSRuWpA=="
+  },
+  "directories": {},
+  "ident": "ent",
+  "key": "ent/2.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ent",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-nRO25HhboVlNPSW0fOoMMFkvF0jtY10kk4Q+rVmn8I4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ent/-/ent-2.2.0.tgz"
+  }
+}

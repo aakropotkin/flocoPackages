@@ -1,0 +1,57 @@
+{
+  "name": "fixturify",
+  "description": "Convert objects into directory structures and back again",
+  "version": "3.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joliss/node-fixturify.git"
+  },
+  "dependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "@types/minimatch": "^3.0.3",
+    "@types/rimraf": "^3.0.2",
+    "fs-extra": "^10.1.0",
+    "matcher-collection": "^2.0.1",
+    "walk-sync": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.7",
+    "rimraf": "^3.0.2",
+    "tap": "^16.3.0",
+    "typescript": "^4.8.4"
+  },
+  "engines": {
+    "node": "14.* || >= 16.*"
+  },
+  "scripts": {
+    "prepare": "tsc -b .",
+    "test": "tap --timeout 10 ./test.js"
+  },
+  "tap": {
+    "coverage": false
+  },
+  "gitHead": "46818777755d4f7246a4a919e08a32f7a7d6f6b1",
+  "_id": "fixturify@3.0.0",
+  "_nodeVersion": "14.15.4",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-PFOf/DT9/t2NCiVyiQ5cBMJtGZfWh3aeOV8XVqQQOPBlTv8r6l0k75/hm36JOaiJlrWFk/8aYFyOKAvOkrkjrw==",
+    "tarball": "https://registry.npmjs.org/fixturify/-/fixturify-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "fixturify",
+  "key": "fixturify/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fixturify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-a6fdQURe9j2yztwC3LTUhA845vRfmpnk+Q9hNUHwI9M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fixturify/-/fixturify-3.0.0.tgz"
+  }
+}

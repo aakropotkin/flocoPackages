@@ -1,0 +1,55 @@
+{
+  "name": "fast-redact",
+  "version": "3.1.2",
+  "description": "very fast object redaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test",
+    "posttest": "standard index.js 'lib/*.js' 'example/*.js' benchmark/index.js test/index.js | snazzy",
+    "cov": "tap --cov test",
+    "cov-ui": "tap --coverage-report=html test",
+    "ci": "tap --cov --100 test",
+    "bench": "node benchmark"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "fastbench": "^1.0.1",
+    "pino-noir": "^2.2.1",
+    "snazzy": "^8.0.0",
+    "standard": "^12.0.1",
+    "tap": "^12.5.2"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/fast-redact.git"
+  },
+  "gitHead": "9ee9c1a5e126bedbb134efe3701c68a47194736d",
+  "_id": "fast-redact@3.1.2",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.17.0",
+  "dist": {
+    "integrity": "sha512-+0em+Iya9fKGfEQGcd62Yv6onjBmmhV1uh86XVfOU8VwAe6kaFdQCWI9s0/Nnugx5Vd9tdbZ7e6gE2tR9dzXdw==",
+    "tarball": "https://registry.npmjs.org/fast-redact/-/fast-redact-3.1.2.tgz"
+  },
+  "ident": "fast-redact",
+  "key": "fast-redact/3.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fast-redact",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-NkbM/WdiTbSTf1uBG+9r71rVIRM08JjXBvHi7whJdGY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-redact/-/fast-redact-3.1.2.tgz"
+  }
+}

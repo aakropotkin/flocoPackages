@@ -1,0 +1,43 @@
+{
+  "name": "babel-plugin-transform-class-constructor-call",
+  "version": "6.24.1",
+  "description": "This plugin allows Babel to transform class constructors (deprecated)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-constructor-call"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-template": "^6.24.1",
+    "babel-plugin-syntax-class-constructor-call": "^6.18.0",
+    "babel-runtime": "^6.22.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.24.1"
+  },
+  "_id": "babel-plugin-transform-class-constructor-call@6.24.1",
+  "scripts": {},
+  "_shasum": "80dc285505ac067dcb8d6c65e2f6f11ab7765ef9",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-class-constructor-call/-/babel-plugin-transform-class-constructor-call-6.24.1.tgz",
+    "integrity": "sha512-RvYukT1Nh7njz8P8326ztpQUGCKwmjgu6aRIx1lkvylWITYcskg29vy1Kp8WXIq7FvhXsz0Crf2kS94bjB690A=="
+  },
+  "directories": {},
+  "ident": "babel-plugin-transform-class-constructor-call",
+  "key": "babel-plugin-transform-class-constructor-call/6.24.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-transform-class-constructor-call",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Cf/dydpzu5UBbDx5OYxUZ5fFfGn1ZJfnzVOMLZK9aCc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-class-constructor-call/-/babel-plugin-transform-class-constructor-call-6.24.1.tgz"
+  }
+}

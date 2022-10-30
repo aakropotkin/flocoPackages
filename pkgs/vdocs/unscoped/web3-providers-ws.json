@@ -1,0 +1,50 @@
+{
+  "name": "web3-providers-ws",
+  "version": "1.8.0",
+  "description": "Module to handle web3 RPC connections over WebSockets.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereum/web3.js.git#1.x"
+  },
+  "license": "LGPL-3.0",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "compile": "tsc -b tsconfig.json",
+    "dtslint": "dtslint --localTs ../../node_modules/typescript/lib types"
+  },
+  "types": "types/index.d.ts",
+  "main": "lib/index.js",
+  "dependencies": {
+    "eventemitter3": "4.0.4",
+    "web3-core-helpers": "1.8.0",
+    "websocket": "^1.0.32"
+  },
+  "devDependencies": {
+    "dtslint": "^3.4.1",
+    "typescript": "^3.9.5"
+  },
+  "gitHead": "59b657b8c02af05575dc2d0ed321fa7d3aa8eaf6",
+  "_id": "web3-providers-ws@1.8.0",
+  "_nodeVersion": "14.20.0",
+  "_npmVersion": "lerna/4.0.0/node@v14.20.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-bcZtSifsqyJxwkfQYamfdIRp4nhj9eJd7cxHg1uUkfLJK125WP96wyJL1xbPt7qt0MpfnTFn8/UuIqIB6nFENg==",
+    "tarball": "https://registry.npmjs.org/web3-providers-ws/-/web3-providers-ws-1.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "web3-providers-ws",
+  "key": "web3-providers-ws/1.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "web3-providers-ws",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xNkDJVTSqX1BHM0cOboDU+O6Q9Iu4X2aD03j6YnZEjc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/web3-providers-ws/-/web3-providers-ws-1.8.0.tgz"
+  }
+}

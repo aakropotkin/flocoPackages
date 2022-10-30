@@ -1,0 +1,45 @@
+{
+  "name": "syntax-error",
+  "version": "1.4.0",
+  "description": "detect and report syntax errors in source code strings",
+  "main": "index.js",
+  "dependencies": {
+    "acorn-node": "^1.2.0"
+  },
+  "devDependencies": {
+    "tap": "^1.1.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/node-syntax-error.git"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  },
+  "gitHead": "d3f21ced797a7c96b23deac1e836f2d4403d7dce",
+  "_id": "syntax-error@1.4.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.5.0",
+  "dist": {
+    "integrity": "sha512-YPPlu67mdnHGTup2A8ff7BC2Pjq0e0Yp/IyTFN03zWO0RcK07uLcbi7C2KpGR2FvWbaB0+bfE27a+sBKebSo7w==",
+    "tarball": "https://registry.npmjs.org/syntax-error/-/syntax-error-1.4.0.tgz"
+  },
+  "directories": {},
+  "ident": "syntax-error",
+  "key": "syntax-error/1.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "syntax-error",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-4nMaY9ZE3uTPSIrrshHygiCZVLIGnEptsY9ubma6u48=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/syntax-error/-/syntax-error-1.4.0.tgz"
+  }
+}

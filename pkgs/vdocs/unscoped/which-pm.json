@@ -1,0 +1,48 @@
+{
+  "name": "which-pm",
+  "version": "2.0.0",
+  "description": "Detects what package manager was used for installation",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "standard && preview && node test"
+  },
+  "engines": {
+    "node": ">=8.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zkochan/packages/tree/master/which-pm"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "load-yaml-file": "^0.2.0",
+    "path-exists": "^4.0.0"
+  },
+  "devDependencies": {
+    "package-preview": "2.0.0",
+    "standard": "^12.0.1",
+    "tape": "^4.8.0"
+  },
+  "_id": "which-pm@2.0.0",
+  "_nodeVersion": "10.12.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-Lhs9Pmyph0p5n5Z3mVnN0yWcbQYUAD7rbQUiMsQxOJ3T57k7RFe35SUwWMf7dsbDZks1uOmw4AecB/JMDj3v/w==",
+    "tarball": "https://registry.npmjs.org/which-pm/-/which-pm-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "which-pm",
+  "key": "which-pm/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "which-pm",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9BnkJuMiCoZMIpLFQuHU1aBYQ/RGMBv7GOuo8p4JXEo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/which-pm/-/which-pm-2.0.0.tgz"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "connect",
+  "description": "High performance middleware framework",
+  "version": "3.7.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senchalabs/connect.git"
+  },
+  "dependencies": {
+    "debug": "2.6.9",
+    "finalhandler": "1.1.2",
+    "parseurl": "~1.3.3",
+    "utils-merge": "1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "4.19.1",
+    "mocha": "6.1.4",
+    "nyc": "14.1.1",
+    "supertest": "4.0.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --require test/support/env --reporter spec --bail --check-leaks test/",
+    "test-cov": "nyc --reporter=html --reporter=text npm test",
+    "test-travis": "nyc --reporter=text npm test"
+  },
+  "gitHead": "fa8916e6350e01262e86ccee82f490c65e04c728",
+  "_id": "connect@3.7.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.16.0",
+  "dist": {
+    "integrity": "sha512-ZqRXc+tZukToSNmh5C2iWMSoV3X1YUcPbqEM4DkEG5tNQXrQUZCNVGGv3IuicnkMtPfGf3Xtp8WCXs295iQ1pQ==",
+    "tarball": "https://registry.npmjs.org/connect/-/connect-3.7.0.tgz"
+  },
+  "directories": {},
+  "ident": "connect",
+  "key": "connect/3.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "connect",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-x45HxeV7LY3w7Ktmgirhhprx0PK8vA0ssDvGpnYeYfI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/connect/-/connect-3.7.0.tgz"
+  }
+}

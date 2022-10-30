@@ -1,0 +1,65 @@
+{
+  "name": "stream-browserify",
+  "version": "3.0.0",
+  "description": "the stream module from node core for browsers",
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "~2.0.4",
+    "readable-stream": "^3.5.0"
+  },
+  "devDependencies": {
+    "airtap": "^1.0.2",
+    "safe-buffer": "^5.1.2",
+    "tape": "^4.13.0",
+    "through": "^2.3.8"
+  },
+  "scripts": {
+    "test": "node test",
+    "test:browsers": "airtap -- test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browserify/stream-browserify.git"
+  },
+  "license": "MIT",
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/3.5",
+      "firefox/10",
+      "firefox/nightly",
+      "chrome/10",
+      "chrome/latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  },
+  "gitHead": "a3625cb4181c4bcdf09884e677d4320c641b8724",
+  "_id": "stream-browserify@3.0.0",
+  "_nodeVersion": "13.13.0",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-H73RAHsVBapbim0tU2JwwOiXUj+fikfiaoYAKHF3VJfA0pe2BCzkhAHBlLG6REzE+2WNZcxOXjK7lkso+9euLA==",
+    "tarball": "https://registry.npmjs.org/stream-browserify/-/stream-browserify-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "stream-browserify",
+  "key": "stream-browserify/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "stream-browserify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3witARvFq9Vjr7OYBXtf3oVQRuxxpr+NFgEFhCyGMbw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stream-browserify/-/stream-browserify-3.0.0.tgz"
+  }
+}

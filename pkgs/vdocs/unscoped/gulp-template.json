@@ -1,0 +1,52 @@
+{
+  "name": "gulp-template",
+  "version": "5.0.0",
+  "description": "Render/precompile Lodash/Underscore templates",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/gulp-template.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "lodash": "^4.8.2",
+    "plugin-error": "^0.1.2",
+    "safe-buffer": "^5.1.1",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp-data": "^1.0.2",
+    "mocha": "*",
+    "vinyl": "^2.1.0",
+    "xo": "*"
+  },
+  "gitHead": "55805eeccc892b9acdad094d4561d72854a556a1",
+  "_id": "gulp-template@5.0.0",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "8.9.0",
+  "dist": {
+    "integrity": "sha512-BsE+HrFZG0ItM0fBhRMfqWWR5MQ2W3O3ss1T3XdNqi4p9WCIFYjcdI1L5PikXMNUU93A4NoVLeWPwUmqGAKwGA==",
+    "tarball": "https://registry.npmjs.org/gulp-template/-/gulp-template-5.0.0.tgz"
+  },
+  "ident": "gulp-template",
+  "key": "gulp-template/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "gulp-template",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-FvL8t4ZQOqudz/+k8haD+OS5KNMz9hUm17ZV1gOoRaE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-5.0.0.tgz"
+  }
+}

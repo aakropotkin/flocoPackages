@@ -1,0 +1,58 @@
+{
+  "name": "bfj",
+  "version": "7.0.2",
+  "description": "Big-friendly JSON. Asynchronous streaming functions for large JSON data sets.",
+  "license": "MIT",
+  "main": "./src",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/philbooth/bfj.git"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "check-types": "^11.1.1",
+    "hoopy": "^0.1.4",
+    "tryer": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.0.1",
+    "mocha": "^6.1.4",
+    "please-release-me": "^2.1.2",
+    "proxyquire": "^2.1.0",
+    "request": "^2.88.0",
+    "spooks": "^2.0.0"
+  },
+  "scripts": {
+    "lint": "eslint src",
+    "test": "npm run unit && npm run integration",
+    "unit": "mocha --ui tdd --reporter spec --recursive --colors --slow 120 test/unit",
+    "integration": "mocha --ui tdd --reporter spec --colors test/integration",
+    "perf": "wget -O test/mtg.json http://mtgjson.com/json/AllSets-x.json && node test/performance mtg"
+  },
+  "gitHead": "4a27164b59ee4296ac38a82fe08b13ce0fe49ff3",
+  "_id": "bfj@7.0.2",
+  "_nodeVersion": "8.16.0",
+  "_npmVersion": "6.10.3",
+  "dist": {
+    "integrity": "sha512-+e/UqUzwmzJamNF50tBV6tZPTORow7gQ96iFow+8b562OdMpEK0BcJEq2OSPEDmAbSMBQ7PKZ87ubFkgxpYWgw==",
+    "tarball": "https://registry.npmjs.org/bfj/-/bfj-7.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "bfj",
+  "key": "bfj/7.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bfj",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-O00fdtI4j+JnaquD6n4ViiiTkLILMPpPK+0NVJj90F8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bfj/-/bfj-7.0.2.tgz"
+  }
+}

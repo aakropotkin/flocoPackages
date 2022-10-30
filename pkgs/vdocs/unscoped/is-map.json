@@ -1,0 +1,67 @@
+{
+  "name": "is-map",
+  "version": "2.0.2",
+  "description": "Is this value a JS Map? This module works cross-realm/iframe, and despite ES6 @@toStringTag.",
+  "main": "index.js",
+  "scripts": {
+    "version": "auto-changelog && git add CHANGELOG.md",
+    "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\"",
+    "prepublish": "safe-publish-latest",
+    "pretest": "npm run lint",
+    "lint": "eslint --ext=js,mjs .",
+    "tests-only": "nyc tape 'test/**/*.js'",
+    "tests:shims": "nyc tape --require=es5-shim --require=es5-shim 'test/**/*.js'",
+    "tests:corejs": "nyc tape --require=core-js 'test/**/*.js'",
+    "test": "npm run tests-only && npm run tests:shims && npm run tests:corejs",
+    "posttest": "aud --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspect-js/is-map.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@ljharb/eslint-config": "^17.3.0",
+    "aud": "^1.1.3",
+    "auto-changelog": "^2.2.1",
+    "core-js": "^2.6.12",
+    "es5-shim": "^4.5.14",
+    "es6-shim": "^0.35.6",
+    "eslint": "^7.15.0",
+    "for-each": "^0.3.3",
+    "nyc": "^10.3.2",
+    "object-inspect": "^1.9.0",
+    "safe-publish-latest": "^1.1.4",
+    "tape": "^5.0.1"
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": false,
+    "commitLimit": false,
+    "backfillLimit": false,
+    "hideCredit": true
+  },
+  "gitHead": "d76d9443208f4cee581d551c549d4f41bc214b95",
+  "_id": "is-map@2.0.2",
+  "_nodeVersion": "14.15.1",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-cOZFQQozTha1f4MxLFzlgKYPTyj26picdZTx82hbc/Xf4K/tZOOXSCkMvU4pKioRXGDLJRn0GM7Upe7kR721yg==",
+    "tarball": "https://registry.npmjs.org/is-map/-/is-map-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "is-map",
+  "key": "is-map/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-map",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-E1hx+b8tJAW/vy7qWnKkC7mtn6i2kKEwW1tsZCLGUDU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-map/-/is-map-2.0.2.tgz"
+  }
+}

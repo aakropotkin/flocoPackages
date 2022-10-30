@@ -1,0 +1,45 @@
+{
+  "name": "path-exists",
+  "version": "5.0.0",
+  "description": "Check if a path exists",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/path-exists.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "7c95f5c1f5f811c7f4dac78ab5b9e258491f03af",
+  "_id": "path-exists@5.0.0",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-RjhtfwJOxzcFmNOi6ltcbcu4Iu+FL3zEj83dk4kAS+fVpTxXLO1b38RvJgT/0QwvV/L3aY9TAnyv0EOqW4GoMQ==",
+    "tarball": "https://registry.npmjs.org/path-exists/-/path-exists-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "path-exists",
+  "key": "path-exists/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "path-exists",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-beZ+08wH20LY32CUX949Q1Qv7rejYDZiFzKlUtzX+Ik=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/path-exists/-/path-exists-5.0.0.tgz"
+  }
+}

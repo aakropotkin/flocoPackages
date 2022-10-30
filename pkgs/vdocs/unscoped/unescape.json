@@ -1,0 +1,73 @@
+{
+  "name": "unescape",
+  "description": "Convert HTML entities to HTML characters, e.g. `&gt;` converts to `>`.",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/unescape.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11",
+    "mocha": "^3.2.0"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "html-elements",
+        "html-tag",
+        "html-toc",
+        "is-self-closing"
+      ]
+    },
+    "reflinks": [
+      "ent",
+      "html-entities"
+    ]
+  },
+  "dependencies": {
+    "extend-shallow": "^2.0.1"
+  },
+  "gitHead": "729b8db41a70afde32e158d576654909ca3d9a0e",
+  "_id": "unescape@1.0.1",
+  "_npmVersion": "5.0.3",
+  "_nodeVersion": "7.7.3",
+  "dist": {
+    "integrity": "sha512-O0+af1Gs50lyH1nUu3ZyYS1cRh01Q/kUKatTOkSs7jukXE6/NebucDVxyiDsA9AQ4JC1V1jUH9EO8JX2nMDgGQ==",
+    "tarball": "https://registry.npmjs.org/unescape/-/unescape-1.0.1.tgz"
+  },
+  "ident": "unescape",
+  "key": "unescape/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "unescape",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-B6I7KJMVGYvhz5sq6tWFbe2Ywu2oRjFUbQdPnw7Bx9A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unescape/-/unescape-1.0.1.tgz"
+  }
+}

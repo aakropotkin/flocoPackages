@@ -1,0 +1,56 @@
+{
+  "name": "rss-parser",
+  "version": "3.12.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha --exit",
+    "build": "./scripts/build.sh"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/xml2js": "^0.4.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^3.4.1",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "puppeteer": "^5.2.1",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "entities": "^2.0.3",
+    "xml2js": "^0.4.19"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobby-brennan/rss-parser.git"
+  },
+  "description": "A lightweight RSS parser, for Node and the browser",
+  "gitHead": "09450b1680914f4e55a997a403d6e63b6681b960",
+  "_id": "rss-parser@3.12.0",
+  "_nodeVersion": "10.23.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-aqD3E8iavcCdkhVxNDIdg1nkBI17jgqF+9OqPS1orwNaOgySdpvq6B+DoONLhzjzwV8mWg37sb60e4bmLK117A==",
+    "tarball": "https://registry.npmjs.org/rss-parser/-/rss-parser-3.12.0.tgz"
+  },
+  "ident": "rss-parser",
+  "key": "rss-parser/3.12.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "rss-parser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-hdfLObW98u1eJ1jP/PxCF144uVhe/IGOL3OBYUeTJgo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rss-parser/-/rss-parser-3.12.0.tgz"
+  }
+}

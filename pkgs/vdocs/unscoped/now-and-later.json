@@ -1,0 +1,61 @@
+{
+  "name": "now-and-later",
+  "version": "3.0.0",
+  "description": "Map over an array or object of values in parallel or series, passing each through the async iterator, with optional lifecycle hooks.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/now-and-later.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "once": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.4.2",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "6036d78f17f27df135fc37be5a44b131775206a7",
+  "_id": "now-and-later@3.0.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-pGO4pzSdaxhWTGkfSfHx3hVzJVslFPwBp2Myq9MYN/ChfJZF87ochMAXnvz6/58RJSf5ik2q9tXprBBrk2cpcg==",
+    "tarball": "https://registry.npmjs.org/now-and-later/-/now-and-later-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "now-and-later",
+  "key": "now-and-later/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "now-and-later",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+Kmd3P8369O52yua+LoWuuVVpxUhzZzZWqsfRtSYYfc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/now-and-later/-/now-and-later-3.0.0.tgz"
+  }
+}

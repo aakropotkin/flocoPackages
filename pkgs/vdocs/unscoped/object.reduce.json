@@ -1,0 +1,64 @@
+{
+  "name": "object.reduce",
+  "description": "Reduces an object to a value that is the accumulated result of running each property in the object through a callback.",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/object.reduce.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "for-own": "^1.0.0",
+    "make-iterator": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11",
+    "mocha": "^3.2.0"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "46f15d587816e56957c5b569af8b7a9656b569e9",
+  "_id": "object.reduce@1.0.1",
+  "_shasum": "6fe348f2ac7fa0f95ca621226599096825bb03ad",
+  "_from": ".",
+  "_npmVersion": "4.2.0",
+  "_nodeVersion": "7.7.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/object.reduce/-/object.reduce-1.0.1.tgz",
+    "integrity": "sha512-naLhxxpUESbNkRqc35oQ2scZSJueHGQNUfMW/0U37IgN6tE2dgDWg3whf+NEliy3F/QysrO48XKUz/nGPe+AQw=="
+  },
+  "ident": "object.reduce",
+  "key": "object.reduce/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "object.reduce",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UftB3QOhneUdVaahQhB6gCIpHizPctw7usXBF2DFYRM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object.reduce/-/object.reduce-1.0.1.tgz"
+  }
+}

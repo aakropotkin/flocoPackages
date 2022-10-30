@@ -1,0 +1,81 @@
+{
+  "name": "execa",
+  "version": "6.1.0",
+  "description": "Process execution for humans",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/execa.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && c8 ava && tsd"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "get-stream": "^6.0.1",
+    "human-signals": "^3.0.1",
+    "is-stream": "^3.0.0",
+    "merge-stream": "^2.0.0",
+    "npm-run-path": "^5.1.0",
+    "onetime": "^6.0.0",
+    "signal-exit": "^3.0.7",
+    "strip-final-newline": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "ava": "^4.0.1",
+    "c8": "^7.11.0",
+    "get-node": "^12.0.0",
+    "is-running": "^2.1.0",
+    "p-event": "^5.0.1",
+    "semver": "^7.3.5",
+    "tempfile": "^4.0.0",
+    "tsd": "^0.19.1",
+    "xo": "^0.48.0"
+  },
+  "c8": {
+    "reporter": [
+      "text",
+      "lcov"
+    ],
+    "exclude": [
+      "**/fixtures/**",
+      "**/test.js",
+      "**/test/**"
+    ]
+  },
+  "xo": {
+    "rules": {
+      "unicorn/no-empty-file": "off",
+      "@typescript-eslint/ban-types": "off"
+    }
+  },
+  "types": "./index.d.ts",
+  "gitHead": "484f28de7c35da5150155e7a523cbb20de161a4f",
+  "_id": "execa@6.1.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-QVWlX2e50heYJcCPG0iWtf8r0xjEYfz/OYLGDYH+IyjWezzPNxz63qNFOu0l4YftGWuizFVZHHs8PrLU5p2IDA==",
+    "tarball": "https://registry.npmjs.org/execa/-/execa-6.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "execa",
+  "key": "execa/6.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "execa",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-NjRTzlrHIBbxygkVgGF2IZTHsqlYiiLiPLpal771UZE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/execa/-/execa-6.1.0.tgz"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "lodash.isarguments",
+  "version": "3.1.0",
+  "description": "The lodash method `_.isArguments` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.isarguments@3.1.0",
+  "_shasum": "2f573d85c6a24289ff00663b491c1d338ff3458a",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.isarguments/-/lodash.isarguments-3.1.0.tgz",
+    "integrity": "sha512-chi4NHZlZqZD18a0imDHnZPrDeBbTtVN7GXMwuGdRH9qotxAjYs3aVLKc7zNOG9eddR5Ksd8rvFEBc9SsggPpg=="
+  },
+  "ident": "lodash.isarguments",
+  "key": "lodash.isarguments/3.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.isarguments",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-i6wWYLdm5cJVMXppj9jRevkMRnNq7T+s9I18KDl9I9c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.isarguments/-/lodash.isarguments-3.1.0.tgz"
+  }
+}

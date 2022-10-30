@@ -1,0 +1,51 @@
+{
+  "name": "ipaddr.js",
+  "description": "A library for manipulating IPv4 and IPv6 addresses in JavaScript.",
+  "version": "2.0.1",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "*",
+    "mocha": "*",
+    "uglify-es": "*"
+  },
+  "scripts": {
+    "lint": "npx eslint lib test",
+    "lintfix": "npx eslint --fix lib test",
+    "build": "npx uglifyjs --compress --mangle --wrap=window -o ipaddr.min.js lib/ipaddr.js",
+    "test": "npx _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/whitequark/ipaddr.js.git"
+  },
+  "main": "./lib/ipaddr.js",
+  "engines": {
+    "node": ">= 10"
+  },
+  "license": "MIT",
+  "types": "./lib/ipaddr.js.d.ts",
+  "gitHead": "5237e6d21d44ca1675adf881651a746cb3699d20",
+  "_id": "ipaddr.js@2.0.1",
+  "_nodeVersion": "10.24.0",
+  "_npmVersion": "6.14.9",
+  "dist": {
+    "integrity": "sha512-1qTgH9NG+IIJ4yfKs2e6Pp1bZg8wbDbKHT21HrLIeYBTRLgMYKnMTPAuI3Lcs61nfx5h1xlXnbJtH1kX5/d/ng==",
+    "tarball": "https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-2.0.1.tgz"
+  },
+  "ident": "ipaddr.js",
+  "key": "ipaddr.js/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ipaddr.js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MqeST3KPl5UGze3opSPMef8UXIBocUytr3KqmJYnfiY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-2.0.1.tgz"
+  }
+}

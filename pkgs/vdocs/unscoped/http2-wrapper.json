@@ -1,0 +1,91 @@
+{
+  "name": "http2-wrapper",
+  "version": "2.1.11",
+  "description": "HTTP2 client, just with the familiar `https` API",
+  "main": "source",
+  "types": "index.d.ts",
+  "engines": {
+    "node": ">=10.19.0"
+  },
+  "scripts": {
+    "test": "xo && nyc --reporter=lcovonly --reporter=text --reporter=html ava && tsd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szmarczak/http2-wrapper.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "quick-lru": "^5.1.1",
+    "resolve-alpn": "^1.2.0"
+  },
+  "devDependencies": {
+    "@sindresorhus/is": "^4.0.1",
+    "ava": "^3.15.0",
+    "benchmark": "^2.1.4",
+    "get-stream": "^6.0.1",
+    "got": "^11.8.2",
+    "http2-proxy": "^5.0.53",
+    "https-proxy-agent": "^5.0.0",
+    "lolex": "^6.0.0",
+    "many-keys-map": "^1.0.3",
+    "nyc": "^15.1.0",
+    "p-event": "^4.2.0",
+    "tempy": "^1.0.1",
+    "to-readable-stream": "^2.1.0",
+    "tsd": "^0.17.0",
+    "websocket-stream": "^5.5.2",
+    "ws": "^7.5.3",
+    "xo": "0.39.1"
+  },
+  "ava": {
+    "timeout": "10s"
+  },
+  "nyc": {
+    "include": [
+      "source"
+    ]
+  },
+  "xo": {
+    "rules": {
+      "unicorn/no-for-loop": "off",
+      "unicorn/prefer-module": "off",
+      "comma-dangle": "off",
+      "@typescript-eslint/comma-dangle": "off",
+      "quotes": [
+        "error",
+        "single",
+        {
+          "avoidEscape": true,
+          "allowTemplateLiterals": true
+        }
+      ],
+      "operator-linebreak": [
+        "error",
+        "before"
+      ]
+    }
+  },
+  "gitHead": "c6b70d3bef12876534e1f75f873965741af3c2ee",
+  "_id": "http2-wrapper@2.1.11",
+  "_nodeVersion": "17.9.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-aNAk5JzLturWEUiuhAN73Jcbq96R7rTitAoXV54FYMatvihnpD2+6PUgU4ce3D/m5VDbw+F5CsyKSF176ptitQ==",
+    "tarball": "https://registry.npmjs.org/http2-wrapper/-/http2-wrapper-2.1.11.tgz"
+  },
+  "directories": {},
+  "ident": "http2-wrapper",
+  "key": "http2-wrapper/2.1.11",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "http2-wrapper",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-2OqHcv3Zwm7Ypuunj5gOU4Hu9ZnJX2vnJ3cgIeRcJnA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http2-wrapper/-/http2-wrapper-2.1.11.tgz"
+  }
+}

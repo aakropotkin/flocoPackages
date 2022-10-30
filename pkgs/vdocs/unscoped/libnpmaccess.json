@@ -1,0 +1,67 @@
+{
+  "name": "libnpmaccess",
+  "version": "7.0.0",
+  "description": "programmatic library for `npm access` commands",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint \"**/*.js\"",
+    "test": "tap",
+    "postlint": "template-oss-check",
+    "lintfix": "node ../.. run lint -- --fix",
+    "snap": "tap",
+    "posttest": "node ../.. run lint",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.6.2",
+    "nock": "^13.2.4",
+    "tap": "^16.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/cli.git",
+    "directory": "workspaces/libnpmaccess"
+  },
+  "dependencies": {
+    "npm-package-arg": "^10.0.0",
+    "npm-registry-fetch": "^14.0.2"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.6.2",
+    "content": "../../scripts/template-oss/index.js"
+  },
+  "tap": {
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "aa0897c550fb05d2c2d3135530a79b6c2824fe80",
+  "_id": "libnpmaccess@7.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "9.0.0",
+  "dist": {
+    "integrity": "sha512-WwDa6CExp74s0FKI1eP2pbJ4hMiq5x6kl9XqE0F7RDpmk8sgqvNcCAr/JmMdfpUTqUq6KNddT3bnYBCT/pxniQ==",
+    "tarball": "https://registry.npmjs.org/libnpmaccess/-/libnpmaccess-7.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "libnpmaccess",
+  "key": "libnpmaccess/7.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "libnpmaccess",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-cwDHz6/u3x7WjkRfSsUbwwNzXX2cql9jB1nQg0VlCH4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/libnpmaccess/-/libnpmaccess-7.0.0.tgz"
+  }
+}

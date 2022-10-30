@@ -1,0 +1,74 @@
+{
+  "name": "ignore-walk",
+  "version": "6.0.0",
+  "description": "Nested/recursive `.gitignore`/`.npmignore` parsing and filtering.",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "mkdirp": "^1.0.4",
+    "mutate-fs": "^2.1.1",
+    "rimraf": "^3.0.2",
+    "tap": "^16.0.1"
+  },
+  "scripts": {
+    "test": "tap",
+    "posttest": "npm run lint",
+    "lint": "eslint \"**/*.js\"",
+    "eslint": "eslint",
+    "lintfix": "npm run lint -- --fix",
+    "npmclilint": "npmcli-lint",
+    "postsnap": "npm run lintfix --",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "snap": "tap"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/ignore-walk.git"
+  },
+  "dependencies": {
+    "minimatch": "^5.0.1"
+  },
+  "tap": {
+    "test-env": "LC_ALL=sk",
+    "before": "test/00-setup.js",
+    "after": "test/zz-cleanup.js",
+    "jobs": 1,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1",
+    "windowsCI": false
+  },
+  "gitHead": "d2d454ccee0af8a32f3a5af0d614ab370e4d2c2b",
+  "_id": "ignore-walk@6.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-bTf9UWe/UP1yxG3QUrj/KOvEhTAUWPcv+WvbFZ28LcqznXabp7Xu6o9y1JEC18+oqODuS7VhTpekV5XvFwsxJg==",
+    "tarball": "https://registry.npmjs.org/ignore-walk/-/ignore-walk-6.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "ignore-walk",
+  "key": "ignore-walk/6.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ignore-walk",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-R96OU/sqnriyxoknkT3qty3J7aQcvxl+nxafGQFBqAw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ignore-walk/-/ignore-walk-6.0.0.tgz"
+  }
+}

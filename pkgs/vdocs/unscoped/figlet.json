@@ -1,0 +1,49 @@
+{
+  "name": "figlet",
+  "version": "1.5.2",
+  "description": "Creates ASCII Art from text. A full implementation of the FIGfont spec.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patorjk/figlet.js.git"
+  },
+  "license": "MIT",
+  "main": "./lib/node-figlet.js",
+  "browser": "./lib/figlet.js",
+  "dependencies": {},
+  "devDependencies": {
+    "async": "~0.9.0",
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "^4.0.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "gitHead": "fd9cddca37d56a98657263721d26cc7e27120640",
+  "_id": "figlet@1.5.2",
+  "_nodeVersion": "12.12.0",
+  "_npmVersion": "6.11.3",
+  "dist": {
+    "integrity": "sha512-WOn21V8AhyE1QqVfPIVxe3tupJacq1xGkPTB4iagT6o+P2cAgEOOwIxMftr4+ZCTI6d551ij9j61DFr0nsP2uQ==",
+    "tarball": "https://registry.npmjs.org/figlet/-/figlet-1.5.2.tgz"
+  },
+  "directories": {},
+  "ident": "figlet",
+  "key": "figlet/1.5.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "figlet",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Wixb6vF8IqgrZVXqY+2rjYrtWNnP0u/BgJ9zJkFUCMY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/figlet/-/figlet-1.5.2.tgz"
+  }
+}

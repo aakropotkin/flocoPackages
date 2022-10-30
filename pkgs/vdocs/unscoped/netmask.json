@@ -1,0 +1,45 @@
+{
+  "name": "netmask",
+  "description": "Parse and lookup IP network blocks",
+  "version": "2.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rs/node-netmask.git"
+  },
+  "main": "./lib/netmask",
+  "scripts": {
+    "prepublish": "coffee -c lib/*.coffee",
+    "test": "coffee -c lib/*.coffee && vows --spec test/* && mocha tests/*"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "devDependencies": {
+    "coffee-script": ">=1.2.0",
+    "mocha": "^8.3.2",
+    "vows": "*"
+  },
+  "gitHead": "cfc331d64edcb5d09237d8e0f407370d6af6d235",
+  "_id": "netmask@2.0.2",
+  "_nodeVersion": "12.20.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-dBpDMdxv9Irdq66304OLfEmQ9tbNRFnFTuZiLo+bD+r332bBmMJ8GBLXklIXXgxd3+v9+KUnZaUR5PJMa75Gsg==",
+    "tarball": "https://registry.npmjs.org/netmask/-/netmask-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "netmask",
+  "key": "netmask/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "netmask",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-mGDJjIxoiBLMtyKMytm2ErqxOzLvqKpjDUd7PQtkW9U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/netmask/-/netmask-2.0.2.tgz"
+  }
+}

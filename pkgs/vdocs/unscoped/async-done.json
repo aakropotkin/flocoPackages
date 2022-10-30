@@ -1,0 +1,71 @@
+{
+  "name": "async-done",
+  "version": "2.0.0",
+  "description": "Allows libraries to handle various caller provided asynchronous functions uniformly. Maps promises, observables, child processes and streams, and callbacks to callback style.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/async-done.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only",
+    "test-types": "tsc -p test/types"
+  },
+  "dependencies": {
+    "end-of-stream": "^1.4.4",
+    "once": "^1.4.0",
+    "stream-exhaust": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.3.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "pumpify": "^2.0.1",
+    "rxjs": "^7.4.0",
+    "streamx": "^2.12.0",
+    "through2": "^4.0.2",
+    "typescript": "^4.4.4"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "592afb00be2b836b99587d9a70650324db80cf99",
+  "_id": "async-done@2.0.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-j0s3bzYq9yKIVLKGE/tWlCpa3PfFLcrDZLTSVdnnCTGagXuXBJO4SsY9Xdk/fQBirCkH4evW5xOeJXqlAQFdsw==",
+    "tarball": "https://registry.npmjs.org/async-done/-/async-done-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "async-done",
+  "key": "async-done/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "async-done",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-VZ4YQlKAJj4pg9zjiMKvF5bdc2NMhyHFs9LebZ/UVMQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-done/-/async-done-2.0.0.tgz"
+  }
+}

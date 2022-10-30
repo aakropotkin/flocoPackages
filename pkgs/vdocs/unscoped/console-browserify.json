@@ -1,0 +1,72 @@
+{
+  "name": "console-browserify",
+  "version": "1.2.0",
+  "description": "Emulate console for all the browsers",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browserify/console-browserify.git"
+  },
+  "main": "index",
+  "devDependencies": {
+    "tape": "^2.12.3",
+    "jsonify": "0.0.0",
+    "tap-spec": "^0.1.8",
+    "run-browser": "^1.3.0",
+    "tap-dot": "^0.2.1"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/browserify/console-browserify/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "test": "node ./test/index.js | tap-spec",
+    "dot": "node ./test/index.js | tap-dot",
+    "start": "node ./index.js",
+    "cover": "istanbul cover --report none --print detail ./test/index.js",
+    "view-cover": "istanbul report html && google-chrome ./coverage/index.html",
+    "browser": "run-browser test/index.js",
+    "phantom": "run-browser test/index.js -b | tap-spec",
+    "build": "browserify test/index.js -o test/static/bundle.js",
+    "testem": "testem"
+  },
+  "testling": {
+    "files": "test/index.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/16..latest",
+      "firefox/nightly",
+      "chrome/22..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  },
+  "gitHead": "ee8033921697e97f52e3a4ecc641faf649a03ac3",
+  "_id": "console-browserify@1.2.0",
+  "_nodeVersion": "12.13.0",
+  "_npmVersion": "6.12.0",
+  "dist": {
+    "integrity": "sha512-ZMkYO/LkF17QvCPqM0gxw8yUzigAOZOSWSHg91FH6orS7vcEj5dVZTidN2fQ14yBSdg97RqhSNwLUXInd52OTA==",
+    "tarball": "https://registry.npmjs.org/console-browserify/-/console-browserify-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "console-browserify",
+  "key": "console-browserify/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "console-browserify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-q0/I3N5G9rkili3JVVCCf4uHmtnO0QSV/hHh/UJZp1Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/console-browserify/-/console-browserify-1.2.0.tgz"
+  }
+}

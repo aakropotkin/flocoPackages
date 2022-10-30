@@ -1,0 +1,71 @@
+{
+  "name": "inquirer",
+  "type": "module",
+  "version": "9.1.4",
+  "description": "A collection of common interactive command line user interfaces.",
+  "main": "lib/inquirer.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-string": "^1.5.0",
+    "chalk-pipe": "^5.1.2",
+    "cmdify": "^0.0.4",
+    "mocha": "^10.1.0",
+    "mockery": "^2.1.0",
+    "nyc": "^15.0.0",
+    "sinon": "^14.0.1",
+    "terminal-link": "^3.0.0"
+  },
+  "scripts": {
+    "test": "nyc mocha --es-module-specifier-resolution=node test/**/* -r ./test/before",
+    "posttest": "mkdir -p ../../coverage/ && nyc report --reporter=text-lcov > ../../coverage/nyc-report.lcov",
+    "prepublishOnly": "cp ../../README.md .",
+    "postpublish": "rm -f README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBoudrias/Inquirer.js.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ansi-escapes": "^6.0.0",
+    "chalk": "^5.1.2",
+    "cli-cursor": "^4.0.0",
+    "cli-width": "^4.0.0",
+    "external-editor": "^3.0.3",
+    "figures": "^5.0.0",
+    "lodash": "^4.17.21",
+    "mute-stream": "0.0.8",
+    "ora": "^6.1.2",
+    "run-async": "^2.4.0",
+    "rxjs": "^7.5.7",
+    "string-width": "^5.1.2",
+    "strip-ansi": "^7.0.1",
+    "through": "^2.3.6",
+    "wrap-ansi": "^8.0.1"
+  },
+  "gitHead": "f532af8be2d622caa5e54adf4c084d588c9ffad6",
+  "_id": "inquirer@9.1.4",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "lerna/6.0.1/node@v16.17.1+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-9hiJxE5gkK/cM2d1mTEnuurGTAoHebbkX0BYl3h7iEg7FYfuNIom+nDfBCSWtvSnoSrWCeBxqqBZu26xdlJlXA==",
+    "tarball": "https://registry.npmjs.org/inquirer/-/inquirer-9.1.4.tgz"
+  },
+  "directories": {},
+  "ident": "inquirer",
+  "key": "inquirer/9.1.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "inquirer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zf3ha0cMnzdtdT3EZn9LI33vOAQewEzQigGyVZSCt1A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inquirer/-/inquirer-9.1.4.tgz"
+  }
+}

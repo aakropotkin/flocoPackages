@@ -1,0 +1,47 @@
+{
+  "name": "shallow-element-equals",
+  "version": "1.0.1",
+  "description": "Efficient shallow equality algorithm that also allows checks for react element equality of children props",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelandrichardson/shallow-element-equals.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "style-equal": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-preset-airbnb": "^2.1.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0",
+    "react": "^15.3.2"
+  },
+  "gitHead": "0657c032ca6ea41fd923c8c5ae48c2ee04c82788",
+  "_id": "shallow-element-equals@1.0.1",
+  "_shasum": "50739b7d94ad7567a134173d3f4422387ed57ce6",
+  "_from": ".",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.4.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/shallow-element-equals/-/shallow-element-equals-1.0.1.tgz",
+    "integrity": "sha512-TwyvU5ZIISuZAmX7juTupVggTW9avkp+Swz0amKicADbQrnhP5kAPkPbL8gKSFv9QkkzhTg2u3Se6TjGhn1xlQ=="
+  },
+  "ident": "shallow-element-equals",
+  "key": "shallow-element-equals/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "shallow-element-equals",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-98RLjmLldKvZDP5HgwP3LoF+jKt83Ozo/j/3PFP+FuA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/shallow-element-equals/-/shallow-element-equals-1.0.1.tgz"
+  }
+}

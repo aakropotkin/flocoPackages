@@ -1,0 +1,51 @@
+{
+  "name": "executable",
+  "version": "4.1.1",
+  "description": "Check if a file is executable",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/executable.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "pify": "^2.2.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "gitHead": "049ea0878a7b0d65b57d4dcfce3010bfc0333ac2",
+  "_id": "executable@4.1.1",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.9.4",
+  "dist": {
+    "integrity": "sha512-8iA79xD3uAch729dUG8xaaBBFGaEa0wdD2VkYLFHwlqosEj/jT66AzcreRDSgV7ehnNLBW2WR5jIXwGKjVdTLg==",
+    "tarball": "https://registry.npmjs.org/executable/-/executable-4.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "executable",
+  "key": "executable/4.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "executable",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HVRlaUaC8lvmZ5tvOBmjPOA8FA56K3IfwvWboFIR5NY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/executable/-/executable-4.1.1.tgz"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "cli",
+  "description": "A tool for rapidly building command line apps",
+  "version": "1.0.1",
+  "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/node-js-libs/cli.git"
+  },
+  "dependencies": {
+    "glob": "^7.1.1",
+    "exit": "0.1.2"
+  },
+  "engines": {
+    "node": ">=0.2.5"
+  },
+  "license": "MIT",
+  "gitHead": "470db35ec032a81a3d5aebb4f48f90f905945248",
+  "_id": "cli@1.0.1",
+  "scripts": {},
+  "_shasum": "22817534f24bfa4950c34d532d48ecbc621b8c14",
+  "_from": ".",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/cli/-/cli-1.0.1.tgz",
+    "integrity": "sha512-41U72MB56TfUMGndAKK8vJ78eooOD4Z5NOL4xEfjc0c23s+6EYKXlXsmACBVclLP1yOfWCgEganVzddVrSNoTg=="
+  },
+  "directories": {},
+  "ident": "cli",
+  "key": "cli/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cli",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-0E0Fga22r+cN7S/MmIGsWn7qRRpCOCif8d42eMfuTFo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli/-/cli-1.0.1.tgz"
+  }
+}

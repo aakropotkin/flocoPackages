@@ -1,0 +1,66 @@
+{
+  "name": "parse-conflict-json",
+  "version": "3.0.0",
+  "description": "Parse a JSON string that has git merge conflicts, resolving if possible",
+  "license": "ISC",
+  "main": "lib",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "tap": {
+    "check-coverage": true,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "dependencies": {
+    "json-parse-even-better-errors": "^3.0.0",
+    "just-diff": "^5.0.1",
+    "just-diff-apply": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/parse-conflict-json.git"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "708bbe1e24371c2dfa55aff950707bbb8afdc9f9",
+  "_id": "parse-conflict-json@3.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-ipcKLCmZbAj7n+h9qQREvdvsBUMPetGk9mM4ljCvs5inZznAlkHPk5XPc7ROtknUKw7kO6Jnz10Y3Eec7tky/A==",
+    "tarball": "https://registry.npmjs.org/parse-conflict-json/-/parse-conflict-json-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "parse-conflict-json",
+  "key": "parse-conflict-json/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "parse-conflict-json",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1oPBxsgqBDeZ2A4i2OjxPqtmGnzUEGc7Su4itTF4BGU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parse-conflict-json/-/parse-conflict-json-3.0.0.tgz"
+  }
+}

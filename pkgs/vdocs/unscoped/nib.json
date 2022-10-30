@@ -1,0 +1,51 @@
+{
+  "name": "nib",
+  "description": "Stylus mixins and utilities",
+  "version": "1.2.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stylus/nib.git"
+  },
+  "peerDependencies": {
+    "stylus": "*"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "connect": "^3.7.0",
+    "mocha": "^10.0.0",
+    "pug": "^3.0.2",
+    "serve-static": "^1.15.0",
+    "stylus": "^0.57.0"
+  },
+  "main": "lib/nib.js",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "mocha",
+    "test-server": "node test/server.js"
+  },
+  "gitHead": "e678998b6bfde90f5428c00fcf4ad85f1b2cc305",
+  "_id": "nib@1.2.0",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-7HgrnMl/3yOmWykueO8/D0q+0iWwe7Z+CK2Eaq/xQV8w1hK80WN1oReRQkfkrztbAAnp/nTHkUSl5EcVkor6JQ==",
+    "tarball": "https://registry.npmjs.org/nib/-/nib-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "nib",
+  "key": "nib/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "nib",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JIo8TJtX40wzw9lX4/XvOuZ1LM6a8/k6JRxvUJQcPs4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/nib/-/nib-1.2.0.tgz"
+  }
+}

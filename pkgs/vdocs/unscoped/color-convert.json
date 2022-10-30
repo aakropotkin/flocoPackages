@@ -1,0 +1,53 @@
+{
+  "name": "color-convert",
+  "description": "Plain color conversion functions",
+  "version": "2.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qix-/color-convert.git"
+  },
+  "scripts": {
+    "pretest": "xo",
+    "test": "node test/basic.js"
+  },
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "xo": {
+    "rules": {
+      "default-case": 0,
+      "no-inline-comments": 0,
+      "operator-linebreak": 0
+    }
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "xo": "^0.24.0"
+  },
+  "dependencies": {
+    "color-name": "~1.1.4"
+  },
+  "gitHead": "e1cb7846258e1d7aa25873814684d4fbbbca53ed",
+  "_id": "color-convert@2.0.1",
+  "_nodeVersion": "12.4.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==",
+    "tarball": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "color-convert",
+  "key": "color-convert/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "color-convert",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-EU7d3q55UXpfbMmk+wu8nYaxXGBK3Pwu2pIe5TVZiwc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz"
+  }
+}

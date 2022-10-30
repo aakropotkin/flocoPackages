@@ -1,0 +1,61 @@
+{
+  "name": "nanoid",
+  "version": "4.0.0",
+  "description": "A tiny (116 bytes), secure URL-friendly unique string ID generator",
+  "type": "module",
+  "engines": {
+    "node": "^14 || ^16 || >=18"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai/nanoid.git"
+  },
+  "exports": {
+    ".": {
+      "browser": "./index.browser.js",
+      "default": "./index.js"
+    },
+    "./async": {
+      "browser": "./async/index.browser.js",
+      "default": "./async/index.js"
+    },
+    "./non-secure": "./non-secure/index.js",
+    "./package.json": "./package.json"
+  },
+  "browser": {
+    "./index.js": "./index.browser.js",
+    "./async/index.js": "./async/index.browser.js",
+    "./async/index.cjs": "./async/index.browser.cjs"
+  },
+  "react-native": {
+    "./async/index.js": "./async/index.native.js"
+  },
+  "bin": {
+    "nanoid": "bin/nanoid.js"
+  },
+  "sideEffects": false,
+  "types": "./index.d.ts",
+  "gitHead": "fd80ce3f462d3309c31d07dc3b3ec2f3e0a0fc9f",
+  "_id": "nanoid@4.0.0",
+  "_nodeVersion": "18.3.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-IgBP8piMxe/gf73RTQx7hmnhwz0aaEXYakvqZyE302IXW3HyVNhdNGC+O2MwMAVhLEnvXlvKtGbtJf6wvHihCg==",
+    "tarball": "https://registry.npmjs.org/nanoid/-/nanoid-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "nanoid",
+  "key": "nanoid/4.0.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "nanoid",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BebZGINz/autOr1Yo+zY9PCJ5qAA2MT5dkUgP8JZD0Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/nanoid/-/nanoid-4.0.0.tgz"
+  }
+}

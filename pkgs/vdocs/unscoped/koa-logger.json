@@ -1,0 +1,62 @@
+{
+  "name": "koa-logger",
+  "description": "Logging middleware for koa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koajs/logger.git"
+  },
+  "version": "3.2.1",
+  "scripts": {
+    "lint": "eslint --fix .",
+    "test": "mocha test.js --exit"
+  },
+  "devDependencies": {
+    "boom": "^7.3.0",
+    "chai": "^4.2.0",
+    "eslint": "^6.0.1",
+    "eslint-config-standard": "^13.0.1",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "koa": "^2.7.0",
+    "koa-compress": "^3.0.0",
+    "koa-route": "^3.2.0",
+    "mocha": "^6.1.4",
+    "sinon": "^7.3.2",
+    "sinon-chai": "^3.3.0",
+    "supertest": "^4.0.2"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bytes": "^3.1.0",
+    "chalk": "^2.4.2",
+    "humanize-number": "0.0.2",
+    "passthrough-counter": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "gitHead": "e7b24bd5a112e5928ebbc19e810bcf9fc4bba189",
+  "_id": "koa-logger@3.2.1",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.15.3",
+  "dist": {
+    "integrity": "sha512-MjlznhLLKy9+kG8nAXKJLM0/ClsQp/Or2vI3a5rbSQmgl8IJBQO0KI5FA70BvW+hqjtxjp49SpH2E7okS6NmHg==",
+    "tarball": "https://registry.npmjs.org/koa-logger/-/koa-logger-3.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "koa-logger",
+  "key": "koa-logger/3.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "koa-logger",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-t3oPZoSivL44Pg1zKwgxG3K8U6FG3Vi88/xaJOhTcGE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/koa-logger/-/koa-logger-3.2.1.tgz"
+  }
+}

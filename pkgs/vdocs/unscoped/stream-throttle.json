@@ -1,0 +1,47 @@
+{
+  "name": "stream-throttle",
+  "description": "A rate limiter for Node.js streams.",
+  "version": "0.1.3",
+  "license": "BSD-3-Clause",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/tjgq/node-stream-throttle.git"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "bin": {
+    "throttleproxy": "./bin/throttleproxy.js"
+  },
+  "dependencies": {
+    "commander": "^2.2.0",
+    "limiter": "^1.0.5"
+  },
+  "devDependencies": {
+    "async": "^0.6.2"
+  },
+  "_id": "stream-throttle@0.1.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/stream-throttle/-/stream-throttle-0.1.3.tgz",
+    "integrity": "sha512-889+B9vN9dq7/vLbGyuHeZ6/ctf5sNuGWsDy89uNxkFTAgzy0eK7+w5fL3KLNRTkLle7EgZGvHUphZW0Q26MnQ=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.4.3",
+  "ident": "stream-throttle",
+  "key": "stream-throttle/0.1.3",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "stream-throttle",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-aNM9IUcis8fX5xHUaZBQ2CBGUjbVUQ7xu9RskakQo4k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stream-throttle/-/stream-throttle-0.1.3.tgz"
+  }
+}

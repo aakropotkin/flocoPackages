@@ -1,0 +1,47 @@
+{
+  "name": "labeled-stream-splicer",
+  "version": "2.0.2",
+  "description": "stream splicer with labels",
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "stream-splicer": "^2.0.0"
+  },
+  "devDependencies": {
+    "browser-pack": "^6.1.0",
+    "concat-stream": "^1.4.6",
+    "module-deps": "^6.2.0",
+    "tape": "^4.10.1",
+    "through2": "^1.0.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browserify/labeled-stream-splicer.git"
+  },
+  "license": "MIT",
+  "gitHead": "31dbd99c6dabb11e1bd7f4fa8194c5dd0d877296",
+  "_id": "labeled-stream-splicer@2.0.2",
+  "_nodeVersion": "11.15.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-Ca4LSXFFZUjPScRaqOcFxneA0VpKZr4MMYCljyQr4LIewTLb3Y0IUTIsnBBsVubIeEfxeSZpSjSsRM8APEQaAw==",
+    "tarball": "https://registry.npmjs.org/labeled-stream-splicer/-/labeled-stream-splicer-2.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "labeled-stream-splicer",
+  "key": "labeled-stream-splicer/2.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "labeled-stream-splicer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-VGZXJ7bD4q6eVY7FsFuSypr+vbS7U+gB+Mlmznwc0Nk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/labeled-stream-splicer/-/labeled-stream-splicer-2.0.2.tgz"
+  }
+}

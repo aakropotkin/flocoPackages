@@ -1,0 +1,39 @@
+{
+  "name": "in-publish",
+  "version": "2.0.1",
+  "description": "Detect if we were run as a result of `npm publish`",
+  "main": "index.js",
+  "bin": {
+    "in-publish": "in-publish.js",
+    "in-install": "in-install.js",
+    "not-in-publish": "not-in-publish.js",
+    "not-in-install": "not-in-install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarna/in-publish.git"
+  },
+  "license": "ISC",
+  "gitHead": "4f6a0558a81324c3fc09cc5f4df869812b7a7889",
+  "_id": "in-publish@2.0.1",
+  "_nodeVersion": "12.7.0",
+  "_npmVersion": "6.10.2-next.1",
+  "dist": {
+    "integrity": "sha512-oDM0kUSNFC31ShNxHKUyfZKy8ZeXZBWMjMdZHKLOk13uvT27VTL/QzRGfRUcevJhpkZAvlhPYuXkF7eNWrtyxQ==",
+    "tarball": "https://registry.npmjs.org/in-publish/-/in-publish-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "in-publish",
+  "key": "in-publish/2.0.1",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "in-publish",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gGFtpaLNCfQtWwz3QfLkjHX4No5EtxmZvrbOagX4reU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/in-publish/-/in-publish-2.0.1.tgz"
+  }
+}

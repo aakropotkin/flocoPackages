@@ -1,0 +1,42 @@
+{
+  "version": "5.0.0",
+  "name": "email-addresses",
+  "description": "An email address parser based on rfc5322",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackbearheart/email-addresses.git"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/email-addresses.js",
+  "devDependencies": {
+    "libxmljs": "~0.19.7",
+    "tap": "^14.8.2"
+  },
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "license": "MIT",
+  "typings": "./lib/email-addresses.d.ts",
+  "_id": "email-addresses@5.0.0",
+  "_nodeVersion": "14.11.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-4OIPYlA6JXqtVn8zpHpGiI7vE6EQOAg16aGnDMIAlZVinnoZ8208tW1hAbjWydgN/4PLTT9q+O1K6AH/vALJGw==",
+    "tarball": "https://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz"
+  },
+  "ident": "email-addresses",
+  "key": "email-addresses/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "email-addresses",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ibeeYnHXyEyUGsclo2HPRf5RgPWBSmc3a1XvLAjCTe4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "minipass-pipeline",
+  "version": "1.2.4",
+  "description": "create a pipeline of streams using Minipass",
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --follow-tags"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "devDependencies": {
+    "tap": "^14.6.9"
+  },
+  "dependencies": {
+    "minipass": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "gitHead": "ead0263f019a9ec1eeb6db5da34c62479bb0a967",
+  "_id": "minipass-pipeline@1.2.4",
+  "_nodeVersion": "14.2.0",
+  "_npmVersion": "7.0.0-beta",
+  "dist": {
+    "integrity": "sha512-xuIq7cIOt09RPRJ19gdi4b+RiNvDFYe5JH+ggNvBqGqpQXcru3PcRmOZuHBKWK1Txf9+cQ+HMVN4d6z46LZP7A==",
+    "tarball": "https://registry.npmjs.org/minipass-pipeline/-/minipass-pipeline-1.2.4.tgz"
+  },
+  "directories": {},
+  "ident": "minipass-pipeline",
+  "key": "minipass-pipeline/1.2.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "minipass-pipeline",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-IN08aDTxhlMOrhne44r0a7akG3u8PO6y4Rh4NNFqyvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/minipass-pipeline/-/minipass-pipeline-1.2.4.tgz"
+  }
+}

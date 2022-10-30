@@ -1,0 +1,36 @@
+{
+  "name": "fs-constants",
+  "version": "1.0.0",
+  "description": "Require constants across node and the browser",
+  "main": "index.js",
+  "browser": "browser.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafintosh/fs-constants.git"
+  },
+  "license": "MIT",
+  "gitHead": "3636fd76cf948ebfc143c1913af6d3c4450b1c46",
+  "_id": "fs-constants@1.0.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.11.1",
+  "dist": {
+    "integrity": "sha512-y6OAwoSIf7FyjMIv94u+b5rdheZEjzR63GTyZJm5qh4Bi+2YgwLCcI/fPFZkL5PSixOt6ZNKm+w+Hfp/Bciwow==",
+    "tarball": "https://registry.npmjs.org/fs-constants/-/fs-constants-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "fs-constants",
+  "key": "fs-constants/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fs-constants",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-X8BGzfIVaEnEGeipji8Cvwk145KuhhsGd2282pZJy20=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fs-constants/-/fs-constants-1.0.0.tgz"
+  }
+}

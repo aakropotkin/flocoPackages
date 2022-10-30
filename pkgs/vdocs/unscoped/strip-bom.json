@@ -1,0 +1,45 @@
+{
+  "name": "strip-bom",
+  "version": "5.0.0",
+  "description": "Strip UTF-8 byte order mark (BOM) from a string",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/strip-bom.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "b80d7bc94e79b4744d92a2dc6328c91d9afe9775",
+  "_id": "strip-bom@5.0.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-p+byADHF7SzEcVnLvc/r3uognM1hUhObuHXxJcgLCfD194XAkaLbjq3Wzb0N5G2tgIjH0dgT708Z51QxMeu60A==",
+    "tarball": "https://registry.npmjs.org/strip-bom/-/strip-bom-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "strip-bom",
+  "key": "strip-bom/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "strip-bom",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-CsbrYoPQ0MzUdWcyi7xQNVR4E0o7lUZ/QLP6+fpHdr4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strip-bom/-/strip-bom-5.0.0.tgz"
+  }
+}

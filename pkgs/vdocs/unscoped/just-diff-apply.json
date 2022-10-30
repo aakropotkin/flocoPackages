@@ -1,0 +1,46 @@
+{
+  "name": "just-diff-apply",
+  "version": "5.4.1",
+  "description": "Apply a diff to an object. Optionally supports jsonPatch protocol",
+  "main": "index.js",
+  "module": "index.mjs",
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "types": "./index.d.ts",
+      "default": "./index.mjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angus-c/just.git"
+  },
+  "license": "MIT",
+  "_id": "just-diff-apply@5.4.1",
+  "_nodeVersion": "16.3.0",
+  "_npmVersion": "7.15.1",
+  "dist": {
+    "integrity": "sha512-AAV5Jw7tsniWwih8Ly3fXxEZ06y+6p5TwQMsw0dzZ/wPKilzyDgdAnL0Ug4NNIquPUOh1vfFWEHbmXUqM5+o8g==",
+    "tarball": "https://registry.npmjs.org/just-diff-apply/-/just-diff-apply-5.4.1.tgz"
+  },
+  "directories": {},
+  "ident": "just-diff-apply",
+  "key": "just-diff-apply/5.4.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "just-diff-apply",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-q3cnvafSK1atY57S5ChP1hOrqHREfQGTl5GrbuokBo4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-diff-apply/-/just-diff-apply-5.4.1.tgz"
+  }
+}

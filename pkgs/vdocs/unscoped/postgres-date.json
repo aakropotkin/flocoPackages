@@ -1,0 +1,46 @@
+{
+  "name": "postgres-date",
+  "main": "index.js",
+  "version": "2.1.0",
+  "description": "Postgres date column parser",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendrucker/postgres-date.git"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "standard && tape test.js && tsd"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^16.0.0",
+    "tape": "^5.0.0",
+    "tsd": "^0.19.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "40dc4f66d74dbc4b9b2926fb628aad7fd1563d11",
+  "_id": "postgres-date@2.1.0",
+  "_nodeVersion": "16.10.0",
+  "_npmVersion": "7.24.0",
+  "dist": {
+    "integrity": "sha512-K7Juri8gtgXVcDfZttFKVmhglp7epKb1K4pgrkLxehjqkrgPhfG6OO8LHLkfaqkbpjNRnra018XwAr1yQFWGcA==",
+    "tarball": "https://registry.npmjs.org/postgres-date/-/postgres-date-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "postgres-date",
+  "key": "postgres-date/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postgres-date",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rFZO+wKBRKD1f3Z7XtrHmh+qOmaYSPtFsUGAjwduC5I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postgres-date/-/postgres-date-2.1.0.tgz"
+  }
+}

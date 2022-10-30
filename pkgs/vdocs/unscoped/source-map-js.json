@@ -1,0 +1,50 @@
+{
+  "name": "source-map-js",
+  "description": "Generates and consumes source maps",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7rulnik/source-map-js.git"
+  },
+  "main": "./source-map.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "test": "npm run build && node test/run-tests.js",
+    "build": "webpack --color",
+    "toc": "doctoc --title '## Table of Contents' README.md && doctoc --title '## Table of Contents' CONTRIBUTING.md"
+  },
+  "devDependencies": {
+    "clean-publish": "^3.1.0",
+    "doctoc": "^0.15.0",
+    "webpack": "^1.12.0"
+  },
+  "clean-publish": {
+    "cleanDocs": true
+  },
+  "typings": "source-map.d.ts",
+  "gitHead": "04907d5b2dc88bef63e5399452fa6a696f90bf66",
+  "_id": "source-map-js@1.0.2",
+  "_nodeVersion": "14.17.0",
+  "_npmVersion": "6.14.13",
+  "dist": {
+    "integrity": "sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==",
+    "tarball": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "source-map-js",
+  "key": "source-map-js/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "source-map-js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gT4AthiqS/fwwos9E1ub0GC3sX14QIkJxiByo5/2IGc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.0.2.tgz"
+  }
+}

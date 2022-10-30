@@ -1,0 +1,80 @@
+{
+  "name": "unist-util-position",
+  "version": "4.0.3",
+  "description": "unist utility to get the position of a node",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntax-tree/unist-util-position.git"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "@types/unist": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/tape": "^4.0.0",
+    "c8": "^7.0.0",
+    "prettier": "^2.0.0",
+    "remark-cli": "^10.0.0",
+    "remark-preset-wooorm": "^9.0.0",
+    "rimraf": "^3.0.0",
+    "tape": "^5.0.0",
+    "type-coverage": "^2.0.0",
+    "typescript": "^4.0.0",
+    "xo": "^0.48.0"
+  },
+  "scripts": {
+    "prepack": "npm run build && npm run format",
+    "build": "rimraf \"*.d.ts\" && tsc && type-coverage",
+    "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
+    "test-api": "node test.js",
+    "test-coverage": "c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov node test.js",
+    "test": "npm run build && npm run format && npm run test-coverage"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": false,
+    "trailingComma": "none"
+  },
+  "xo": {
+    "prettier": true
+  },
+  "remarkConfig": {
+    "plugins": [
+      "preset-wooorm"
+    ]
+  },
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true
+  },
+  "gitHead": "958e7792abafa3ea76f18b8dc0d9a5ffe9fca529",
+  "_id": "unist-util-position@4.0.3",
+  "_nodeVersion": "17.4.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-p/5EMGIa1qwbXjA+QgcBXaPWjSnZfQ2Sc3yBEEfgPwsEmJd8Qh+DSk3LGnmOM4S1bY2C0AjmMnB8RuEYxpPwXQ==",
+    "tarball": "https://registry.npmjs.org/unist-util-position/-/unist-util-position-4.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "unist-util-position",
+  "key": "unist-util-position/4.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "unist-util-position",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-18ezpzBRTAVzXkNbo60Y8VhhA7ncSSCBkY1kq8cu7/Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unist-util-position/-/unist-util-position-4.0.3.tgz"
+  }
+}

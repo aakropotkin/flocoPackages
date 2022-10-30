@@ -1,0 +1,47 @@
+{
+  "name": "nigel",
+  "description": "BoyerMooreHorspool algorithms",
+  "version": "3.0.4",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hapijs/nigel.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "hoek": "6.x.x",
+    "vise": "3.x.x"
+  },
+  "devDependencies": {
+    "code": "5.x.x",
+    "lab": "17.x.x",
+    "teamwork": "3.x.x"
+  },
+  "scripts": {
+    "test": "lab -a code -t 100 -L",
+    "test-cov-html": "lab -a code -r html -o coverage.html"
+  },
+  "license": "BSD-3-Clause",
+  "gitHead": "e18def835a81eee7eed46f45d80dbec742a6b0b3",
+  "_id": "nigel@3.0.4",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-3SZCCS/duVDGxFpTROHEieC+itDo4UqL9JNUyQJv3rljudQbK6aqus5B4470OxhESPJLN93Qqxg16rH7DUjbfQ==",
+    "tarball": "https://registry.npmjs.org/nigel/-/nigel-3.0.4.tgz"
+  },
+  "directories": {},
+  "deprecated": "This module has moved and is now available at @hapi/nigel. Please update your dependencies as this version is no longer maintained an may contain bugs and security issues.",
+  "ident": "nigel",
+  "key": "nigel/3.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "nigel",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-RlBQhgZSgH+UCn/XiCWvaVX4tAT/sw5tD+RJcgeGOJI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/nigel/-/nigel-3.0.4.tgz"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "length-sort",
+  "version": "2.0.0",
+  "description": "Sort an array of strings by length",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/length-sort.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "fa1c9779aeed2f110b6ca6f12f01a0bf31eb8637",
+  "_id": "length-sort@2.0.0",
+  "_npmVersion": "5.0.3",
+  "_nodeVersion": "8.0.0",
+  "dist": {
+    "integrity": "sha512-6YpARKXYERdcLDs2UpySsWRBHpUfsNDKjJSEiqs9sbRCZ87demnuESTWVaXC/Ma7QvY5rjTjAhNfe/Ood9ng/A==",
+    "tarball": "https://registry.npmjs.org/length-sort/-/length-sort-2.0.0.tgz"
+  },
+  "ident": "length-sort",
+  "key": "length-sort/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "length-sort",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7roEdoMv4knPITyj3oOzRd1a7Fe9nPSqE//CbZovitg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/length-sort/-/length-sort-2.0.0.tgz"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "encoding",
+  "version": "0.1.13",
+  "description": "Convert encodings, uses iconv-lite",
+  "main": "lib/encoding.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andris9/encoding.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.6.2"
+  },
+  "devDependencies": {
+    "nodeunit": "0.11.3"
+  },
+  "gitHead": "a7554ca9083bab4847705d562d02f0924271cbaa",
+  "_id": "encoding@0.1.13",
+  "_nodeVersion": "14.5.0",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-ETBauow1T35Y/WZMkio9jiM0Z5xjHHmJ4XmjZOq1l/dXz3lr2sRn87nJy20RupqSh1F2m3HHPSp8ShIPQJrJ3A==",
+    "tarball": "https://registry.npmjs.org/encoding/-/encoding-0.1.13.tgz"
+  },
+  "directories": {},
+  "ident": "encoding",
+  "key": "encoding/0.1.13",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "encoding",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MAzreXe5/aRMilKcvPhyhuN2uoNwHEdnw9Fsb9p8U34=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/encoding/-/encoding-0.1.13.tgz"
+  }
+}

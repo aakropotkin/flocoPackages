@@ -1,0 +1,40 @@
+{
+  "name": "secure-compare",
+  "version": "3.0.1",
+  "description": "Securely compare two strings, copied from cryptiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vdemedes/secure-compare.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  },
+  "gitHead": "13176da54bc4223f435d082a224559b6e168a490",
+  "_id": "secure-compare@3.0.1",
+  "_shasum": "f1a0329b308b221fae37b9974f3d578d0ca999e3",
+  "_from": ".",
+  "_npmVersion": "2.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/secure-compare/-/secure-compare-3.0.1.tgz",
+    "integrity": "sha512-AckIIV90rPDcBcglUwXPF3kg0P0qmPsPXAj6BBEENQE1p5yA1xfmDJzfi1Tappj37Pv2mVbKpL3Z1T+Nn7k1Qw=="
+  },
+  "ident": "secure-compare",
+  "key": "secure-compare/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "secure-compare",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-pnUWGBFB8oQwTVT7xHtPxHq6/BDvrJ8KAqvStMssnGs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/secure-compare/-/secure-compare-3.0.1.tgz"
+  }
+}

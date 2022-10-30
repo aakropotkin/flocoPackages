@@ -1,0 +1,41 @@
+{
+  "name": "dom-helpers",
+  "version": "5.2.1",
+  "description": "tiny modular DOM lib for ie9+",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-bootstrap/dom-helpers.git"
+  },
+  "license": "MIT",
+  "main": "cjs/index.js",
+  "types": "cjs/index.d.ts",
+  "module": "esm/index.js",
+  "release": {
+    "conventionalCommits": true
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.8.7",
+    "csstype": "^3.0.2"
+  },
+  "_id": "dom-helpers@5.2.1",
+  "_nodeVersion": "14.15.0",
+  "_npmVersion": "6.14.13",
+  "dist": {
+    "integrity": "sha512-nRCa7CK3VTrM2NmGkIy4cbK7IZlgBE/PYMn55rrXefr5xXDP0LdtfPnblFDoVdcAfslJ7or6iqAUnx0CCGIWQA==",
+    "tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-5.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "dom-helpers",
+  "key": "dom-helpers/5.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dom-helpers",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DkzZGz1U902BcMC2nssAs+hULM4tJ17H+3dVUzwMopg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-5.2.1.tgz"
+  }
+}

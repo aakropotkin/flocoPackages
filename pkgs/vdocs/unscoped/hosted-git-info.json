@@ -1,0 +1,66 @@
+{
+  "name": "hosted-git-info",
+  "version": "6.1.1",
+  "description": "Provides metadata and conversions from repository urls for GitHub, Bitbucket and GitLab",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/hosted-git-info.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "posttest": "npm run lint",
+    "snap": "tap",
+    "test": "tap",
+    "test:coverage": "tap --coverage-report=html",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "lintfix": "npm run lint -- --fix",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "dependencies": {
+    "lru-cache": "^7.5.1"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.7.1",
+    "tap": "^16.0.1"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "tap": {
+    "color": 1,
+    "coverage": true,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.7.1"
+  },
+  "gitHead": "16db940210955fb611b772976223cd9ac98f0ea7",
+  "_id": "hosted-git-info@6.1.1",
+  "_nodeVersion": "18.12.0",
+  "_npmVersion": "9.0.1",
+  "dist": {
+    "integrity": "sha512-r0EI+HBMcXadMrugk0GCQ+6BQV39PiWAZVfq7oIckeGiN7sjRGyQxPdft3nQekFTCQbYxLBH+/axZMeH8UX6+w==",
+    "tarball": "https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-6.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "hosted-git-info",
+  "key": "hosted-git-info/6.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "hosted-git-info",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-4mDwVQeSAmKdEUwmrAoe+lPkKkEmw3ydtAF2R2HotMY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-6.1.1.tgz"
+  }
+}

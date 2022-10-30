@@ -1,0 +1,84 @@
+{
+  "name": "token-types",
+  "version": "5.0.1",
+  "description": "Common token types for decoding and encoding numeric and string values",
+  "scripts": {
+    "clean": "del-cli lib/**/*.js lib/***.js.map *.d.ts test/**/*.d.ts test/**/*.js test/**/*.js.map .nyc_output",
+    "build": "npm run compile",
+    "compile-src": "tsc --p lib",
+    "compile-test": "tsc --p test",
+    "compile": "npm run compile-src && npm run compile-test",
+    "eslint": "eslint lib test --ext .ts --ignore-pattern *.d.ts",
+    "lint-ts": "tslint lib/index.ts --exclude '*.d.ts' 'test/**/*.ts' --exclude 'test/**/*.d.ts'",
+    "lint-md": "remark -u preset-lint-recommended .",
+    "lint": "npm run lint-md && npm run eslint",
+    "test": "mocha",
+    "test-coverage": "c8 npm run test",
+    "send-codacy": "c8 report --reports-dir=./.coverage --reporter=text-lcov | codacy-coverage"
+  },
+  "engines": {
+    "node": ">=14.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borewit/token-types.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "exports": "./lib/index.js",
+  "types": "lib/index.d.ts",
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.0",
+    "@types/node": "^18.6.3",
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
+    "c8": "^7.12.0",
+    "chai": "^4.3.6",
+    "del-cli": "^5.0.0",
+    "eslint": "^8.9.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^3.4.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsdoc": "^39.3.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-unicorn": "^43.0.2",
+    "mocha": "^10.0.0",
+    "remark-cli": "^11.0.0",
+    "remark-preset-lint-recommended": "^6.1.2",
+    "source-map-support": "^0.5.21",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@tokenizer/token": "^0.3.0",
+    "ieee754": "^1.2.1"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "preset-lint-recommended"
+    ]
+  },
+  "gitHead": "df7b58e07cde01d5a3c72366a616a538654ce70c",
+  "_id": "token-types@5.0.1",
+  "_nodeVersion": "14.19.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-Y2fmSnZjQdDb9W4w4r1tswlMHylzWIeOKpx0aZH9BgGtACHhrk3OkT52AzwcuqTRBZtvvnTjDBh8eynMulu8Vg==",
+    "tarball": "https://registry.npmjs.org/token-types/-/token-types-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "token-types",
+  "key": "token-types/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "token-types",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-P5sTNN4ISBNJvdEZisg9nsDCxcqwl7+XjpKPVWCOhkg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/token-types/-/token-types-5.0.1.tgz"
+  }
+}

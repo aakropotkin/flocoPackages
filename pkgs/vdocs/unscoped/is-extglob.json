@@ -1,0 +1,71 @@
+{
+  "name": "is-extglob",
+  "description": "Returns true if a string has an extglob.",
+  "version": "2.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-extglob.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.10",
+    "mocha": "^3.0.2"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "has-glob",
+        "is-glob",
+        "micromatch"
+      ]
+    },
+    "reflinks": [
+      "verb",
+      "verb-generate-readme"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "10a74787acbe79abf02141c5d487950d1b197b15",
+  "_id": "is-extglob@2.1.1",
+  "_shasum": "a88c02535791f02ed37c76a1b9ea9773c833f8c2",
+  "_from": ".",
+  "_npmVersion": "3.10.9",
+  "_nodeVersion": "6.9.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz",
+    "integrity": "sha512-SbKbANkN603Vi4jEZv49LeVJMn4yGwsbzZworEoyEiutsN3nJYdbO36zfhGJ6QEDpOZIFkDtnq5JRxmvl3jsoQ=="
+  },
+  "ident": "is-extglob",
+  "key": "is-extglob/2.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-extglob",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-vY1Bx1tKKhqfbF3itxnDzWl3wA8dMl1GiNL93Bdb+1A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz"
+  }
+}

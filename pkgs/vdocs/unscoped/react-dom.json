@@ -1,0 +1,67 @@
+{
+  "name": "react-dom",
+  "version": "18.2.0",
+  "description": "React package for working with the DOM.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git",
+    "directory": "packages/react-dom"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "loose-envify": "^1.1.0",
+    "scheduler": "^0.23.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./server": {
+      "deno": "./server.browser.js",
+      "worker": "./server.browser.js",
+      "browser": "./server.browser.js",
+      "default": "./server.node.js"
+    },
+    "./server.browser": "./server.browser.js",
+    "./server.node": "./server.node.js",
+    "./profiling": "./profiling.js",
+    "./test-utils": "./test-utils.js",
+    "./package.json": "./package.json"
+  },
+  "browser": {
+    "./server.js": "./server.browser.js"
+  },
+  "browserify": {
+    "transform": [
+      "loose-envify"
+    ]
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "gitHead": "be229c5655074642ee664f532f2e7411dd7dccc7",
+  "_id": "react-dom@18.2.0",
+  "_nodeVersion": "17.1.0",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==",
+    "tarball": "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "react-dom",
+  "key": "react-dom/18.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "react-dom",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-HDf0V4CIsZPnNqNr2YpXvyGY1wwI+wDrvJ/VO0CDSbw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz"
+  }
+}

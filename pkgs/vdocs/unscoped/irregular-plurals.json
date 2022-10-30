@@ -1,0 +1,48 @@
+{
+  "name": "irregular-plurals",
+  "version": "3.3.0",
+  "description": "Map of nouns to their irregular plural form",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/irregular-plurals.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "tsd": {
+    "compilerOptions": {
+      "resolveJsonModule": true
+    }
+  },
+  "gitHead": "7618493a715852ee701cb8c9d48d31c52aa0a7af",
+  "_id": "irregular-plurals@3.3.0",
+  "_nodeVersion": "15.12.0",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-MVBLKUTangM3EfRPFROhmWQQKRDsrgI83J8GS3jXy+OwYqiR2/aoWndYQ5416jLE3uaGgLH7ncme3X9y09gZ3g==",
+    "tarball": "https://registry.npmjs.org/irregular-plurals/-/irregular-plurals-3.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "irregular-plurals",
+  "key": "irregular-plurals/3.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "irregular-plurals",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-yg4YcRQkoHctqw78ZV1WKd+AsR4+IxyBAhfpa7LZ4T0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/irregular-plurals/-/irregular-plurals-3.3.0.tgz"
+  }
+}

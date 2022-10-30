@@ -1,0 +1,51 @@
+{
+  "name": "os-name",
+  "version": "5.0.1",
+  "description": "Get the name of the current operating system. Example: macOS Sierra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/os-name.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "macos-release": "^3.0.1",
+    "windows-release": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "ava": "^3.15.0",
+    "tsd": "^0.18.0",
+    "xo": "^0.46.4"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "737b7d249f081416259ddd6ee8412dddcbeb7c08",
+  "_id": "os-name@5.0.1",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-0EQpaHUHq7olp2/YFUr+0vZi9tMpDTblHGz+Ch5RntKxiRXOAY0JOz1UlxhSjMSksHvkm13eD6elJj3M8Ht/kw==",
+    "tarball": "https://registry.npmjs.org/os-name/-/os-name-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "os-name",
+  "key": "os-name/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "os-name",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BID4F4P95WqdRF9DB9EqNcSQcRrLhzRpoCr0p5GDEaI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/os-name/-/os-name-5.0.1.tgz"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "md5.js",
+  "version": "1.3.5",
+  "description": "node style md5 on pure JavaScript",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-browserify/md5.js.git"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint && npm run unit",
+    "unit": "node test/*.js"
+  },
+  "dependencies": {
+    "hash-base": "^3.0.0",
+    "inherits": "^2.0.1",
+    "safe-buffer": "^5.1.2"
+  },
+  "devDependencies": {
+    "hash-test-vectors": "^1.3.2",
+    "standard": "^7.0.0",
+    "tape": "^4.2.0"
+  },
+  "gitHead": "48df1d6b8c4af2cf52638092d590c528420c61ed",
+  "_id": "md5.js@1.3.5",
+  "_npmVersion": "6.4.0",
+  "_nodeVersion": "10.8.0",
+  "dist": {
+    "integrity": "sha512-xitP+WxNPcTTOgnTJcrhM0xvdPepipPSf3I8EIpGKeFLjt3PlJLIDG3u8EX53ZIubkb+5U2+3rELYpEhHhzdkg==",
+    "tarball": "https://registry.npmjs.org/md5.js/-/md5.js-1.3.5.tgz"
+  },
+  "directories": {},
+  "ident": "md5.js",
+  "key": "md5.js/1.3.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "md5.js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-vi6UhlmEuUjsr2BEMSOTjXcv/3/tMaZ0NFSW0Vk7vQM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/md5.js/-/md5.js-1.3.5.tgz"
+  }
+}

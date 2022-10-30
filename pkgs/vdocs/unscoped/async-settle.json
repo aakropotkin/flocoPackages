@@ -1,0 +1,61 @@
+{
+  "name": "async-settle",
+  "version": "2.0.0",
+  "description": "Settle an async function.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/async-settle.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . ",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "async-done": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.4.2",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "72b98659acbaea9ac1b5ab3b8105bac2625e2bf5",
+  "_id": "async-settle@2.0.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-Obu/KE8FurfQRN6ODdHN9LuXqwC+JFIM9NRyZqJJ4ZfLJmIYN9Rg0/kb+wF70VV5+fJusTMQlJ1t5rF7J/ETdg==",
+    "tarball": "https://registry.npmjs.org/async-settle/-/async-settle-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "async-settle",
+  "key": "async-settle/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "async-settle",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7fo+W0o+5wyfil7DwlvtYFqcPs9yIwYVOvePMdxQ3go=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-settle/-/async-settle-2.0.0.tgz"
+  }
+}

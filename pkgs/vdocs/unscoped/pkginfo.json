@@ -1,0 +1,44 @@
+{
+  "name": "pkginfo",
+  "version": "0.4.1",
+  "license": "MIT",
+  "description": "An easy way to expose properties on a module from a package.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indexzero/node-pkginfo.git"
+  },
+  "devDependencies": {
+    "vows": "0.8.0"
+  },
+  "main": "./lib/pkginfo.js",
+  "scripts": {
+    "test": "vows test/*-test.js --spec"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "gitHead": "f4e90ac77034ee9eb3dd7aafc56657d7376795a8",
+  "_id": "pkginfo@0.4.1",
+  "_shasum": "b5418ef0439de5425fc4995042dced14fb2a84ff",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.10.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/pkginfo/-/pkginfo-0.4.1.tgz",
+    "integrity": "sha512-8xCNE/aT/EXKenuMDZ+xTVwkT8gsoHN2z/Q29l80u0ppGEXVvsKRzNMbtKhg8LS8k1tJLAHHylf6p4VFmP6XUQ=="
+  },
+  "directories": {},
+  "ident": "pkginfo",
+  "key": "pkginfo/0.4.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pkginfo",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zHLRlpLXNTsxHC3zLDMbvVwqHqyPTVyoqyfsTvLz0Io=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pkginfo/-/pkginfo-0.4.1.tgz"
+  }
+}

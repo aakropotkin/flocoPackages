@@ -1,0 +1,31 @@
+{
+  "name": "pug-error",
+  "version": "2.0.0",
+  "description": "Standard error objects for pug",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pugjs/pug/tree/master/packages/pug-error"
+  },
+  "license": "MIT",
+  "_id": "pug-error@2.0.0",
+  "_nodeVersion": "12.16.3",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-sjiUsi9M4RAGHktC1drQfCr5C5eriu24Lfbt4s+7SykztEOwVZtbFk1RRq0tzLxcMxMYTBR+zMQaG07J/btayQ==",
+    "tarball": "https://registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "pug-error",
+  "key": "pug-error/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pug-error",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-pyKFUrRSAvNwMrqSvXAE/U7cgx9v7Hup7HoS3frl8L8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz"
+  }
+}

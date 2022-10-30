@@ -1,0 +1,45 @@
+{
+  "name": "postcss-normalize-display-values",
+  "version": "5.1.0",
+  "description": "Normalize multiple value display syntaxes into single values.",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "postcss-value-parser": "^4.2.0"
+  },
+  "repository": "cssnano/cssnano",
+  "engines": {
+    "node": "^10 || ^12 || >=14.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "_id": "postcss-normalize-display-values@5.1.0",
+  "_integrity": "sha512-WP4KIM4o2dazQXWmFaqMmcvsKmhdINFblgSeRgn8BJ6vxaMyaJkwAzpPpuvSIoG/rmX3M+IrRZEz2H0glrQNEA==",
+  "_resolved": "/home/ludovico/projects/scratch/cssnano/packages/postcss-normalize-display-values/postcss-normalize-display-values-5.1.0.tgz",
+  "_from": "file:postcss-normalize-display-values-5.1.0.tgz",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-WP4KIM4o2dazQXWmFaqMmcvsKmhdINFblgSeRgn8BJ6vxaMyaJkwAzpPpuvSIoG/rmX3M+IrRZEz2H0glrQNEA==",
+    "tarball": "https://registry.npmjs.org/postcss-normalize-display-values/-/postcss-normalize-display-values-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-normalize-display-values",
+  "key": "postcss-normalize-display-values/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-normalize-display-values",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ai5ktWieqGJkis5FRMLxmdFdzMH+Pm7F14cPUjdkW9I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-display-values/-/postcss-normalize-display-values-5.1.0.tgz"
+  }
+}

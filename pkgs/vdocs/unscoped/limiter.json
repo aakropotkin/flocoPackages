@@ -1,0 +1,64 @@
+{
+  "name": "limiter",
+  "description": "A generic rate limiter for the web and node.js. Useful for API clients, web crawling, or other tasks that need to be throttled",
+  "version": "2.1.0",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "browser": "./dist/esm/index.js",
+  "exports": {
+    "import": "./dist/esm/index.js",
+    "require": "./dist/cjs/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhurliman/node-rate-limiter.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --fix src",
+    "prepack": "yarn ttsc -p tsconfig.json && ttsc -p tsconfig.cjs.json",
+    "test": "jest src"
+  },
+  "dependencies": {
+    "just-performance": "4.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-typescript": "^7.13.0",
+    "@types/babel__generator": "^7.6.2",
+    "@types/jest": "^26.0.23",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "@zoltu/typescript-transformer-append-js-extension": "^1.0.1",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.25.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1",
+    "ttypescript": "^1.5.12",
+    "typescript": "^4.2.4"
+  },
+  "gitHead": "f448369e0cf1a66e014888d11641bce35c623954",
+  "_id": "limiter@2.1.0",
+  "_nodeVersion": "14.16.0",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-361TYz6iay6n+9KvUUImqdLuFigK+K79qrUtBsXhJTLdH4rIt/r1y8r1iozwh8KbZNpujbFTSh74mJ7bwbAMOw==",
+    "tarball": "https://registry.npmjs.org/limiter/-/limiter-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "limiter",
+  "key": "limiter/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "limiter",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-A2cEtSItZgwSrMDt8yBvO7IgJQy8+ItkD225G5I3DDU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/limiter/-/limiter-2.1.0.tgz"
+  }
+}

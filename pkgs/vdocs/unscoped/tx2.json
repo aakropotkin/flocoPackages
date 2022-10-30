@@ -1,0 +1,41 @@
+{
+  "name": "tx2",
+  "version": "1.0.5",
+  "description": "Metrics, Issues, Actions, Events reporting library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.mocha.js",
+    "doc": "npx jsdoc2md src/* > API.md"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json-stringify-safe": "^5.0.1"
+  },
+  "devDependencies": {
+    "jsdoc-to-markdown": "^6.0.1",
+    "mocha": "8",
+    "should": "13"
+  },
+  "gitHead": "e0744395d4c9d10e55018eb36757ba5a6a1b8307",
+  "_id": "tx2@1.0.5",
+  "_nodeVersion": "14.18.1",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-sJ24w0y03Md/bxzK4FU8J8JveYYUbSs2FViLJ2D/8bytSiyPRbuE3DyL/9UKYXTZlV3yXq0L8GLlhobTnekCVg==",
+    "tarball": "https://registry.npmjs.org/tx2/-/tx2-1.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "tx2",
+  "key": "tx2/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "tx2",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Dy0ADIWUxr7w4ydDCuZWNe+yrQ88cZ96JOvNr5Dp6mY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tx2/-/tx2-1.0.5.tgz"
+  }
+}

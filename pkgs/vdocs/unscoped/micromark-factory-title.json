@@ -1,0 +1,57 @@
+{
+  "name": "micromark-factory-title",
+  "version": "1.0.2",
+  "description": "micromark factory to parse markdown titles (found in resources, definitions)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micromark/micromark.git#main"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "dev/index.d.ts",
+  "exports": {
+    "development": "./dev/index.js",
+    "default": "./index.js"
+  },
+  "dependencies": {
+    "micromark-factory-space": "^1.0.0",
+    "micromark-util-character": "^1.0.0",
+    "micromark-util-symbol": "^1.0.0",
+    "micromark-util-types": "^1.0.0",
+    "uvu": "^0.5.0"
+  },
+  "scripts": {
+    "build": "rimraf \"*.d.ts\" \"{dev/,lib/}**/*.d.ts\" && tsc && micromark-build && type-coverage"
+  },
+  "xo": false,
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true,
+    "ignoreCatch": true
+  },
+  "gitHead": "77d9d891dd5279ac0715b337a03ec0cc5080c92f",
+  "_id": "micromark-factory-title@1.0.2",
+  "_nodeVersion": "16.9.0",
+  "_npmVersion": "7.23.0",
+  "dist": {
+    "integrity": "sha512-zily+Nr4yFqgMGRKLpTVsNl5L4PMu485fGFDOQJQBl2NFpjGte1e86zC0da93wf97jrc4+2G2GQudFMHn3IX+A==",
+    "tarball": "https://registry.npmjs.org/micromark-factory-title/-/micromark-factory-title-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "micromark-factory-title",
+  "key": "micromark-factory-title/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "micromark-factory-title",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PJxc+RyHjcx8oYzRIAoVzzD8cb5+UCt4XcxvS3FYPSY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-factory-title/-/micromark-factory-title-1.0.2.tgz"
+  }
+}

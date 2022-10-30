@@ -1,0 +1,49 @@
+{
+  "name": "metro-config",
+  "version": "0.73.3",
+  "description": "🚇 Config parser for Metro.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/facebook/metro.git"
+  },
+  "scripts": {
+    "prepare-release": "test -d build && rm -rf src.real && mv src src.real && mv build src",
+    "cleanup-release": "test ! -e build && mv src build && mv src.real src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cosmiconfig": "^5.0.5",
+    "jest-validate": "^26.5.2",
+    "metro": "0.73.3",
+    "metro-cache": "0.73.3",
+    "metro-core": "0.73.3",
+    "metro-runtime": "0.73.3"
+  },
+  "devDependencies": {
+    "pretty-format": "^26.5.2",
+    "strip-ansi": "^6.0.0"
+  },
+  "gitHead": "a09e07fb91addee7a29ab70b78c143f1f8e8c7bc",
+  "_id": "metro-config@0.73.3",
+  "_nodeVersion": "16.18.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-k1OSBNVe/i+Vm1IPA35qt1eD/3yjtEA0qfzvLeTmuvarE+twBpXupJViKqtfqvo6rldk0VoYX/UlnqzkaJ1hIg==",
+    "tarball": "https://registry.npmjs.org/metro-config/-/metro-config-0.73.3.tgz"
+  },
+  "directories": {},
+  "ident": "metro-config",
+  "key": "metro-config/0.73.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "metro-config",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3l9s58YIV8OCyEv1goMZU7H/SXLQq58c34uao9s+YiM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/metro-config/-/metro-config-0.73.3.tgz"
+  }
+}

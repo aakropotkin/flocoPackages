@@ -1,0 +1,54 @@
+{
+  "name": "react",
+  "description": "React is a JavaScript library for building user interfaces.",
+  "version": "18.2.0",
+  "license": "MIT",
+  "main": "index.js",
+  "exports": {
+    ".": {
+      "react-server": "./react.shared-subset.js",
+      "default": "./index.js"
+    },
+    "./package.json": "./package.json",
+    "./jsx-runtime": "./jsx-runtime.js",
+    "./jsx-dev-runtime": "./jsx-dev-runtime.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git",
+    "directory": "packages/react"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "loose-envify": "^1.1.0"
+  },
+  "browserify": {
+    "transform": [
+      "loose-envify"
+    ]
+  },
+  "gitHead": "be229c5655074642ee664f532f2e7411dd7dccc7",
+  "_id": "react@18.2.0",
+  "_nodeVersion": "17.1.0",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==",
+    "tarball": "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "react",
+  "key": "react/18.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "react",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xu467N3gZPKlkRpCGepCleV8dYW1zlZFTWTypSzAJnY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
+  }
+}

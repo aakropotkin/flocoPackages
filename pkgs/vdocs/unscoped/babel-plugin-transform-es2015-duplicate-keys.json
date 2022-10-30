@@ -1,0 +1,42 @@
+{
+  "name": "babel-plugin-transform-es2015-duplicate-keys",
+  "version": "6.24.1",
+  "description": "Compile objects with duplicate keys to valid strict ES5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-duplicate-keys"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-runtime": "^6.22.0",
+    "babel-types": "^6.24.1"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.24.1"
+  },
+  "_id": "babel-plugin-transform-es2015-duplicate-keys@6.24.1",
+  "scripts": {},
+  "_shasum": "73eb3d310ca969e3ef9ec91c53741a6f1576423e",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-duplicate-keys/-/babel-plugin-transform-es2015-duplicate-keys-6.24.1.tgz",
+    "integrity": "sha512-ossocTuPOssfxO2h+Z3/Ea1Vo1wWx31Uqy9vIiJusOP4TbF7tPs9U0sJ9pX9OJPf4lXRGj5+6Gkl/HHKiAP5ug=="
+  },
+  "directories": {},
+  "ident": "babel-plugin-transform-es2015-duplicate-keys",
+  "key": "babel-plugin-transform-es2015-duplicate-keys/6.24.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-transform-es2015-duplicate-keys",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3UvzhOHCCnpCE4h+s/BH8CyYNNo50n05buJAQJheKzA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-duplicate-keys/-/babel-plugin-transform-es2015-duplicate-keys-6.24.1.tgz"
+  }
+}

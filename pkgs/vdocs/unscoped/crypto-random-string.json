@@ -1,0 +1,54 @@
+{
+  "name": "crypto-random-string",
+  "version": "5.0.0",
+  "description": "Generate a cryptographically strong random string",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/crypto-random-string.git"
+  },
+  "type": "module",
+  "exports": {
+    "types": "./index.d.ts",
+    "node": "./index.js",
+    "browser": "./browser.js"
+  },
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "type-fest": "^2.12.2"
+  },
+  "devDependencies": {
+    "ava": "^4.2.0",
+    "dot-prop": "^7.2.0",
+    "tsd": "^0.20.0",
+    "xo": "^0.48.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "25f8930282bc3803d03b9080e710db8426430b63",
+  "_id": "crypto-random-string@5.0.0",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-KWjTXWwxFd6a94m5CdRGW/t82Tr8DoBc9dNnPCAbFI1EBweN6v1tv8y4Y1m7ndkp/nkIBRxUxAzpaBnR2k3bcQ==",
+    "tarball": "https://registry.npmjs.org/crypto-random-string/-/crypto-random-string-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "crypto-random-string",
+  "key": "crypto-random-string/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "crypto-random-string",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZPvWzGOlhcAynMbq9ugc2vVS8F6/Q/73RC6Tz0wCEcY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/crypto-random-string/-/crypto-random-string-5.0.0.tgz"
+  }
+}

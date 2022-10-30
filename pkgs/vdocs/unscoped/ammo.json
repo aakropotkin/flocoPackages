@@ -1,0 +1,46 @@
+{
+  "name": "ammo",
+  "description": "HTTP Range processing utilities",
+  "version": "3.0.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hapijs/ammo.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "hoek": "6.x.x"
+  },
+  "devDependencies": {
+    "code": "5.x.x",
+    "lab": "17.x.x",
+    "wreck": "14.x.x"
+  },
+  "scripts": {
+    "test": "lab -a code -t 100 -L",
+    "test-cov-html": "lab -a code -r html -o coverage.html"
+  },
+  "license": "BSD-3-Clause",
+  "gitHead": "3c00297b0ac058ba251217838b8767014d682d81",
+  "_id": "ammo@3.0.3",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-vo76VJ44MkUBZL/BzpGXaKzMfroF4ZR6+haRuw9p+eSWfoNaH2AxVc8xmiEPC08jhzJSeM6w7/iMUGet8b4oBQ==",
+    "tarball": "https://registry.npmjs.org/ammo/-/ammo-3.0.3.tgz"
+  },
+  "directories": {},
+  "deprecated": "This module has moved and is now available at @hapi/ammo. Please update your dependencies as this version is no longer maintained an may contain bugs and security issues.",
+  "ident": "ammo",
+  "key": "ammo/3.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ammo",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-bwJ0KR/KyYdZa1U2SaFZenkxCux9MZr+XVDhq3EAYlU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ammo/-/ammo-3.0.3.tgz"
+  }
+}

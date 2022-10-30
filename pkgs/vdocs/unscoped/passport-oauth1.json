@@ -1,0 +1,56 @@
+{
+  "name": "passport-oauth1",
+  "version": "1.2.0",
+  "description": "OAuth 1.0 authentication strategy for Passport.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/passport-oauth1.git"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-strategy": "1.x.x",
+    "oauth": "0.9.x",
+    "utils-merge": "1.x.x"
+  },
+  "devDependencies": {
+    "make-node": "0.4.6",
+    "mocha": "2.x.x",
+    "chai": "2.x.x",
+    "chai-passport-strategy": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "gitHead": "7d74eb0f1c88c5510410ea295db67f3ec2eda257",
+  "_id": "passport-oauth1@1.2.0",
+  "_nodeVersion": "14.16.1",
+  "_npmVersion": "6.14.12",
+  "dist": {
+    "integrity": "sha512-Sv2YWodC6jN12M/OXwmR4BIXeeIHjjbwYTQw4kS6tHK4zYzSEpxBgSJJnknBjICA5cj0ju3FSnG1XmHgIhYnLg==",
+    "tarball": "https://registry.npmjs.org/passport-oauth1/-/passport-oauth1-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "passport-oauth1",
+  "key": "passport-oauth1/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "passport-oauth1",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-e0Y1IXuHvs/xtwebhm7ZW0iijvL4qiUNXst8SSO/Hzw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/passport-oauth1/-/passport-oauth1-1.2.0.tgz"
+  }
+}

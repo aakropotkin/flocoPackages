@@ -1,0 +1,45 @@
+{
+  "description": "A wrapper and enhancements for fs.watch",
+  "license": "MIT",
+  "name": "node-watch",
+  "repository": {
+    "url": "git://github.com/yuanchuan/node-watch.git",
+    "type": "git"
+  },
+  "version": "0.7.3",
+  "url": "https://github.com/yuanchuan/node-watch",
+  "main": "./lib/watch",
+  "types": "./lib/watch.d.ts",
+  "scripts": {
+    "test": "mocha test/test.js --exit --slow 500"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "devDependencies": {
+    "fs-extra": "^7.0.1",
+    "mocha": "^5.2.0"
+  },
+  "gitHead": "87f687ab5e53554342778d2b1a73a1e5b805842d",
+  "_id": "node-watch@0.7.3",
+  "_nodeVersion": "16.5.0",
+  "_npmVersion": "7.19.1",
+  "dist": {
+    "integrity": "sha512-3l4E8uMPY1HdMMryPRUAl+oIHtXtyiTlIiESNSVSNxcPfzAFzeTbXFQkZfAwBbo0B1qMSG8nUABx+Gd+YrbKrQ==",
+    "tarball": "https://registry.npmjs.org/node-watch/-/node-watch-0.7.3.tgz"
+  },
+  "directories": {},
+  "ident": "node-watch",
+  "key": "node-watch/0.7.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "node-watch",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-he0QQmar82EqL9S8lDpfuFGXZAYTaeJ6uVL9QYMhJMc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-watch/-/node-watch-0.7.3.tgz"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "url-template",
+  "version": "3.1.0",
+  "description": "A URI template implementation (RFC 6570 compliant)",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  },
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bramstein/url-template.git"
+  },
+  "type": "module",
+  "main": "./lib/url-template.js",
+  "exports": "./lib/url-template.js",
+  "types": "./lib/url-template.d.ts",
+  "sideEffects": false,
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "node --experimental-json-modules node_modules/mocha/bin/mocha --reporter spec"
+  },
+  "gitHead": "5a4490c0c440592669f5f60bc89d0073e7feabbe",
+  "_id": "url-template@3.1.0",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-vB/eHWttzhN+NZzk9FcQB2h1cSEgb7zDYyvyxPhw02LYw7YqIzO+w1AqkcKvZ51gPH8o4+nyiWve/xuQqMdJZw==",
+    "tarball": "https://registry.npmjs.org/url-template/-/url-template-3.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "url-template",
+  "key": "url-template/3.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "url-template",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-hQirNE/UC1RnTDYsjW+J19/9cLKzasRD0/EJIoBZ8d8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-template/-/url-template-3.1.0.tgz"
+  }
+}

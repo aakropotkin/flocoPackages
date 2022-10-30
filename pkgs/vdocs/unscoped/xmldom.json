@@ -1,0 +1,61 @@
+{
+  "name": "xmldom",
+  "version": "0.6.0",
+  "description": "A pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xmldom/xmldom.git"
+  },
+  "main": "lib/dom-parser.js",
+  "scripts": {
+    "lint": "npm-run-all lint:eslint",
+    "lint:eslint": "eslint lib test",
+    "start": "nodemon --watch package.json --watch lib --watch test --exec 'npm --silent run test'",
+    "stryker": "stryker run",
+    "test": "npm-run-all test:unit lint",
+    "test:unit": "npm-run-all test:jest",
+    "test:jest": "jest"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@stryker-mutator/core": "^4.5.1",
+    "dom-js": "0.0.9",
+    "eslint": "^7.23.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-es5": "^1.5.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "get-stream": "^6.0.0",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.2.1",
+    "xmltest": "^1.5.0",
+    "yauzl": "^2.10.0"
+  },
+  "license": "MIT",
+  "gitHead": "c80a161172cc4d8733583bf0cf59abfa589f6d9e",
+  "_id": "xmldom@0.6.0",
+  "_nodeVersion": "10.24.1",
+  "_npmVersion": "6.14.12",
+  "dist": {
+    "integrity": "sha512-iAcin401y58LckRZ0TkI4k0VSM1Qg0KGSc3i8rU+xrxe19A/BN1zHyVSJY7uoutVlaTSzYyk/v5AmkewAP7jtg==",
+    "tarball": "https://registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz"
+  },
+  "directories": {},
+  "ident": "xmldom",
+  "key": "xmldom/0.6.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "xmldom",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-cZaGUXfsBBR/ScrxDuDOPqqrJuHA6fGpK54Cry1I/dM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz"
+  }
+}

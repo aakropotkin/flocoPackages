@@ -1,0 +1,71 @@
+{
+  "name": "agent-base",
+  "version": "6.0.2",
+  "description": "Turn a function into an `http.Agent` instance",
+  "main": "dist/src/index",
+  "typings": "dist/src/index",
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsc",
+    "postbuild": "cpy --parents src test '!**/*.ts' dist",
+    "test": "mocha --reporter spec dist/test/*.js",
+    "test-lint": "eslint src --ext .js,.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/node-agent-base.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "4"
+  },
+  "devDependencies": {
+    "@types/debug": "4",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^14.0.20",
+    "@types/semver": "^7.1.0",
+    "@types/ws": "^6.0.3",
+    "@typescript-eslint/eslint-plugin": "1.6.0",
+    "@typescript-eslint/parser": "1.1.0",
+    "async-listen": "^1.2.0",
+    "cpy-cli": "^2.0.0",
+    "eslint": "5.16.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-prettier": "4.1.0",
+    "eslint-import-resolver-typescript": "1.1.1",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jsx-a11y": "6.2.1",
+    "eslint-plugin-react": "7.12.4",
+    "mocha": "^6.2.0",
+    "rimraf": "^3.0.0",
+    "semver": "^7.1.2",
+    "typescript": "^3.5.3",
+    "ws": "^3.0.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "gitHead": "c4b8ea2e1a11bae023bb09b708050a50418204e9",
+  "_id": "agent-base@6.0.2",
+  "_nodeVersion": "15.0.1",
+  "_npmVersion": "7.0.3",
+  "dist": {
+    "integrity": "sha512-RZNwNclF7+MS/8bDg70amg32dyeZGZxiDuQmZxKLAlQjr3jGyLx+4Kkk58UO7D2QdgFIQCovuSuZESne6RG6XQ==",
+    "tarball": "https://registry.npmjs.org/agent-base/-/agent-base-6.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "agent-base",
+  "key": "agent-base/6.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "agent-base",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-AQld7XJmKIUaV57uNtAsbtxHDp/V8psPWC/xn8srfhE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/agent-base/-/agent-base-6.0.2.tgz"
+  }
+}

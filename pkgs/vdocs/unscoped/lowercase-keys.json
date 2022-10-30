@@ -1,0 +1,45 @@
+{
+  "name": "lowercase-keys",
+  "version": "3.0.0",
+  "description": "Lowercase the keys of an object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/lowercase-keys.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.18.0",
+    "xo": "^0.45.0"
+  },
+  "gitHead": "c9e3b274e719911f92d8cc1d0397a34fea95d823",
+  "_id": "lowercase-keys@3.0.0",
+  "_nodeVersion": "16.10.0",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-ozCC6gdQ+glXOQsveKD0YsDy8DSQFjDTz4zyzEHNV5+JP5D62LmfDZ6o1cycFx9ouG940M5dE8C8CTewdj2YWQ==",
+    "tarball": "https://registry.npmjs.org/lowercase-keys/-/lowercase-keys-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "lowercase-keys",
+  "key": "lowercase-keys/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lowercase-keys",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GX9taXzUGans1zOT8xULI7hqePxh3xDNT9D+yjl84As=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lowercase-keys/-/lowercase-keys-3.0.0.tgz"
+  }
+}

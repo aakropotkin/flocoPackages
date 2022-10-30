@@ -1,0 +1,78 @@
+{
+  "name": "mem-fs-editor",
+  "version": "9.5.0",
+  "description": "File edition helpers working on top of mem-fs",
+  "scripts": {
+    "fix": "eslint . --fix",
+    "pretest": "eslint .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBoudrias/mem-fs-editor.git"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "binaryextensions": "^4.16.0",
+    "commondir": "^1.0.1",
+    "deep-extend": "^0.6.0",
+    "ejs": "^3.1.8",
+    "globby": "^11.1.0",
+    "isbinaryfile": "^4.0.8",
+    "minimatch": "^3.1.2",
+    "multimatch": "^5.0.0",
+    "normalize-path": "^3.0.0",
+    "textextensions": "^5.13.0"
+  },
+  "peerDependencies": {
+    "mem-fs": "^2.1.0"
+  },
+  "peerDependenciesMeta": {
+    "mem-fs": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.3",
+    "escape-regexp": "0.0.1",
+    "eslint": "^8.5.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-xo": "^0.39.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jest": "^27.0.6",
+    "mem-fs": "^2.2.1",
+    "prettier": "^2.5.1",
+    "sinon": "^12.0.1"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageDirectory": "coverage",
+    "testEnvironment": "node"
+  },
+  "engines": {
+    "node": ">=12.10.0"
+  },
+  "gitHead": "a35e71e8eac83dcb67d2a560d19006279b68df74",
+  "_id": "mem-fs-editor@9.5.0",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "8.12.1",
+  "dist": {
+    "integrity": "sha512-7p+bBDqsSisO20YIZf2ntYvST27fFJINn7CKE21XdPUQDcLV62b/yB5sTOooQeEoiZ3rldZQ+4RfONgL/gbRoA==",
+    "tarball": "https://registry.npmjs.org/mem-fs-editor/-/mem-fs-editor-9.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "mem-fs-editor",
+  "key": "mem-fs-editor/9.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mem-fs-editor",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zg3FA3bL2g8Cx+ckEO51ynb2TpnYSOF0WcIMfAvYRVs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mem-fs-editor/-/mem-fs-editor-9.5.0.tgz"
+  }
+}

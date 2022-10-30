@@ -1,0 +1,42 @@
+{
+  "name": "resolve-alpn",
+  "version": "1.2.1",
+  "description": "Detects the ALPN protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && nyc --reporter=lcovonly --reporter=text --reporter=html ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szmarczak/resolve-alpn.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "nyc": "^15.1.0",
+    "pem": "1.14.3",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "778781a0521c713ca7605fc3ba31fb8e4be37d6b",
+  "_id": "resolve-alpn@1.2.1",
+  "_nodeVersion": "16.8.0",
+  "_npmVersion": "7.21.0",
+  "dist": {
+    "integrity": "sha512-0a1F4l73/ZFZOakJnQ3FvkJ2+gSTQWz/r2KE5OdDY0TxPm5h4GkqkWWfM47T7HsbnOtcJVEF4epCVy6u7Q3K+g==",
+    "tarball": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "resolve-alpn",
+  "key": "resolve-alpn/1.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "resolve-alpn",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WHig4YH6PXowoDUelUCxdlEqmaLN+A+AQZVktW/ztYc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.2.1.tgz"
+  }
+}

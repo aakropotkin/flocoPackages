@@ -1,0 +1,45 @@
+{
+  "name": "postcss-unique-selectors",
+  "version": "5.1.1",
+  "description": "Ensure CSS selectors are unique.",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "repository": "cssnano/cssnano",
+  "dependencies": {
+    "postcss-selector-parser": "^6.0.5"
+  },
+  "engines": {
+    "node": "^10 || ^12 || >=14.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2.15"
+  },
+  "_id": "postcss-unique-selectors@5.1.1",
+  "_integrity": "sha512-5JiODlELrz8L2HwxfPnhOWZYWDxVHWL83ufOv84NrcgipI7TaeRsatAhK4Tr2/ZiYldpK/wBvw5BD3qfaK96GA==",
+  "_resolved": "/home/ludovico/projects/scratch/cssnano/packages/postcss-unique-selectors/postcss-unique-selectors-5.1.1.tgz",
+  "_from": "file:postcss-unique-selectors-5.1.1.tgz",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-5JiODlELrz8L2HwxfPnhOWZYWDxVHWL83ufOv84NrcgipI7TaeRsatAhK4Tr2/ZiYldpK/wBvw5BD3qfaK96GA==",
+    "tarball": "https://registry.npmjs.org/postcss-unique-selectors/-/postcss-unique-selectors-5.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-unique-selectors",
+  "key": "postcss-unique-selectors/5.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-unique-selectors",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-2myezMzrNcevlCxE9g4Nh6XKiARk9K+0pX6ov6wqzBs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-unique-selectors/-/postcss-unique-selectors-5.1.1.tgz"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "sade",
+  "version": "1.8.1",
+  "description": "Smooth (CLI) operator 🎶",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeed/sade.git"
+  },
+  "module": "lib/index.mjs",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "tape -r esm test/*.js | tap-spec"
+  },
+  "dependencies": {
+    "mri": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "devDependencies": {
+    "esm": "3.2.25",
+    "rollup": "1.32.1",
+    "tap-spec": "4.1.2",
+    "tape": "4.14.0",
+    "terser": "4.8.0"
+  },
+  "gitHead": "1cdf3e464ca899dcd6e758a50eb82cf7cf484771",
+  "_id": "sade@1.8.1",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-xal3CZX1Xlo/k4ApwCFrHVACi9fBqJ7V+mwhBsuf/1IOKbBy098Fex+Wa/5QMubw09pSZ/u8EY8PWgevJsXp1A==",
+    "tarball": "https://registry.npmjs.org/sade/-/sade-1.8.1.tgz"
+  },
+  "directories": {},
+  "ident": "sade",
+  "key": "sade/1.8.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sade",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Yboqi3els68hdZTMx0T14DdOzu31DQ0mRmJaYZMwWM4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sade/-/sade-1.8.1.tgz"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "resp-modifier",
+  "description": "Middleware for modifying a HTML response",
+  "version": "6.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakyshane/resp-modifier.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/shakyshane/resp-modifier/blob/master/LICENSE-MIT"
+    }
+  ],
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "jshint test/*.js index.js && mocha"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "minimatch": "^3.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "chai": "^2.3.0",
+    "express": "^4.13.3",
+    "jshint": "^2.6.0",
+    "mocha": "^2.1.0",
+    "multiline": "^1.0.2",
+    "serve-static": "^1.8.1",
+    "supertest": "^1.0.1"
+  },
+  "gitHead": "4a000203c9db630bcfc3b6bb8ea2abc090ae0139",
+  "_id": "resp-modifier@6.0.2",
+  "_shasum": "b124de5c4fbafcba541f48ffa73970f4aa456b4f",
+  "_from": ".",
+  "_npmVersion": "2.15.5",
+  "_nodeVersion": "4.4.5",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/resp-modifier/-/resp-modifier-6.0.2.tgz",
+    "integrity": "sha512-U1+0kWC/+4ncRFYqQWTx/3qkfE6a4B/h3XXgmXypfa0SPZ3t7cbbaFk297PjQS/yov24R18h6OZe6iZwj3NSLw=="
+  },
+  "ident": "resp-modifier",
+  "key": "resp-modifier/6.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "resp-modifier",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lx1lHD/eX3ArwPIpzKTs+gzCYxelia6GSuz+KE0NRmo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resp-modifier/-/resp-modifier-6.0.2.tgz"
+  }
+}

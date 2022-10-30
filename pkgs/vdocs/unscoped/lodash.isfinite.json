@@ -1,0 +1,35 @@
+{
+  "name": "lodash.isfinite",
+  "version": "3.3.2",
+  "description": "The lodash method `_.isFinite` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.isfinite@3.3.2",
+  "_shasum": "fb89b65a9a80281833f0b7478b3a5104f898ebb3",
+  "_from": ".",
+  "_npmVersion": "2.15.9",
+  "_nodeVersion": "4.2.4",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.isfinite/-/lodash.isfinite-3.3.2.tgz",
+    "integrity": "sha512-7FGG40uhC8Mm633uKW1r58aElFlBlxCrg9JfSi3P6aYiWmfiWF0PgMd86ZUsxE5GwWPdHoS2+48bwTh2VPkIQA=="
+  },
+  "ident": "lodash.isfinite",
+  "key": "lodash.isfinite/3.3.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.isfinite",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WywdbjIGVmQM4J49UurdYRapVAcgpGe5iCJZfXRhFT8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.isfinite/-/lodash.isfinite-3.3.2.tgz"
+  }
+}

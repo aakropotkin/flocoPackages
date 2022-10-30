@@ -1,0 +1,46 @@
+{
+  "name": "is-url-superb",
+  "version": "6.1.0",
+  "description": "Check if a string is a URL",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-url-superb.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "3f65908bc2e66c0c5f58d9f97db11ab9772f4821",
+  "_id": "is-url-superb@6.1.0",
+  "_nodeVersion": "17.0.1",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-LXdhGlYqUPdvEyIhWPEEwYYK3yrUiPcBjmFGlZNv1u5GtIL5qQRf7ddDyPNAvsMFqdzS923FROpTQU97tLe3JQ==",
+    "tarball": "https://registry.npmjs.org/is-url-superb/-/is-url-superb-6.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-url-superb",
+  "key": "is-url-superb/6.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-url-superb",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-eHzpxp84/QJxAnUeaw5cgBp0BqyaUimH4g6l1qmEtZI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-url-superb/-/is-url-superb-6.1.0.tgz"
+  }
+}

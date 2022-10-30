@@ -1,0 +1,58 @@
+{
+  "name": "sparkles",
+  "version": "2.0.0",
+  "description": "Namespaced global event emitter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/sparkles.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.3.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "9f18a7d8434772dfa500e0352c7abef97db9708a",
+  "_id": "sparkles@2.0.0",
+  "_nodeVersion": "14.18.3",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-rqUsosNTLY8KIT6qhuJlXzIUjYJNHTDoHmPnJwfnD7bEvSSvhUOMKuPMCsmLR3vDhyTGi0oAqAbLjgiIXnL2wQ==",
+    "tarball": "https://registry.npmjs.org/sparkles/-/sparkles-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "sparkles",
+  "key": "sparkles/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sparkles",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-le6p6eXUnbZDOm+sz+DPXQJjA/WUiCPxhXdMF4mX+gw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparkles/-/sparkles-2.0.0.tgz"
+  }
+}

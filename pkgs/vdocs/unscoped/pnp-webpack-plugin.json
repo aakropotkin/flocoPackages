@@ -1,0 +1,45 @@
+{
+  "name": "pnp-webpack-plugin",
+  "version": "1.7.0",
+  "description": "plug'n'play resolver for Webpack",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arcanis/pnp-webpack-plugin.git"
+  },
+  "dependencies": {
+    "ts-pnp": "^1.1.6"
+  },
+  "devDependencies": {
+    "enhanced-resolve": "^4.1.0",
+    "jest": "^23.6.0",
+    "jest-environment-node": "^23.4.0",
+    "jest-pnp-resolver": "^1.0.1",
+    "source-map": "^0.7.3"
+  },
+  "installConfig": {
+    "pnp": true
+  },
+  "_id": "pnp-webpack-plugin@1.7.0",
+  "dist": {
+    "integrity": "sha512-2Rb3vm+EXble/sMXNSu6eoBx8e79gKqhNq9F5ZWW6ERNCTE/Q0wQNne5541tE5vKjfM8hpNCYL+LGc1YTfI0dg==",
+    "tarball": "https://registry.npmjs.org/pnp-webpack-plugin/-/pnp-webpack-plugin-1.7.0.tgz"
+  },
+  "directories": {},
+  "ident": "pnp-webpack-plugin",
+  "key": "pnp-webpack-plugin/1.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pnp-webpack-plugin",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ukLAoJjtH1c2XsNrqXnIueZAREWLyZBLsqnmef9tCVo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pnp-webpack-plugin/-/pnp-webpack-plugin-1.7.0.tgz"
+  }
+}

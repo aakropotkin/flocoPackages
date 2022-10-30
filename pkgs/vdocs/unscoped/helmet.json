@@ -1,0 +1,76 @@
+{
+  "name": "helmet",
+  "description": "help secure Express/Connect apps with various HTTP headers",
+  "version": "6.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/helmetjs/helmet.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.3.3",
+    "@types/connect": "^3.4.35",
+    "@types/jest": "^28.1.6",
+    "@types/supertest": "^2.0.12",
+    "@typescript-eslint/eslint-plugin": "^5.30.7",
+    "@typescript-eslint/parser": "^5.30.7",
+    "connect": "^3.7.0",
+    "eslint": "^8.20.0",
+    "jest": "^28.1.3",
+    "prettier": "^2.7.1",
+    "rollup": "^2.77.0",
+    "supertest": "^6.2.4",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "pretest": "npm run lint",
+    "prepublishOnly": "npm run build-helmet",
+    "lint": "npm run lint:eslint && npm run lint:prettier",
+    "lint:eslint": "eslint .",
+    "lint:prettier": "prettier --check .",
+    "format": "prettier --write .",
+    "clean": "node ./bin/clean.js",
+    "build-helmet": "npm run clean && node ./bin/build-helmet.js && prettier --write --config .prettierrc-dist.cjs --ignore-path /dev/null dist",
+    "build-middleware-package": "npm run clean && tsc --emitDeclarationOnly -p tsconfig-types.json && node ./bin/build-middleware-package.js",
+    "test": "jest"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/types/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.js",
+      "types": "./dist/types/index.d.ts"
+    }
+  },
+  "_id": "helmet@6.0.0",
+  "_integrity": "sha512-FO9RpR1wNJepH/GbLPQVtkE2eESglXL641p7SdyoT4LngHFJcZheHMoyUcjCZF4qpuMMO1u5q6RK0l9Ux8JBcg==",
+  "_resolved": "/private/var/folders/qq/x5403kds2yldd8j97x9_y5hh0000gn/T/tmp.1lsJs2Nu5s/helmet-6.0.0.tar.gz",
+  "_from": "file:helmet-6.0.0.tar.gz",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-FO9RpR1wNJepH/GbLPQVtkE2eESglXL641p7SdyoT4LngHFJcZheHMoyUcjCZF4qpuMMO1u5q6RK0l9Ux8JBcg==",
+    "tarball": "https://registry.npmjs.org/helmet/-/helmet-6.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "helmet",
+  "key": "helmet/6.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "helmet",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PaW8nuaqOaBy4fzg5lZLZCaEGVGFgkpZ4+/IHtnf9Zs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/helmet/-/helmet-6.0.0.tgz"
+  }
+}

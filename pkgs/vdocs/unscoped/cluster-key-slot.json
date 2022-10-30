@@ -1,0 +1,56 @@
+{
+  "name": "cluster-key-slot",
+  "version": "1.1.1",
+  "description": "Generates CRC hashes for strings - for use by node redis clients to determine key slots.",
+  "main": "lib/index.js",
+  "scripts": {
+    "benchmark": "node ./benchmark",
+    "posttest": "eslint ./lib && npm run coveralls",
+    "coveralls": "cat ./coverage/lcov.info | coveralls",
+    "test": "node ./node_modules/istanbul/lib/cli.js cover --preserve-comments ./node_modules/mocha/bin/_mocha -- -R spec",
+    "coverage:check": "node ./node_modules/istanbul/lib/cli.js check-coverage --branch 100 --statement 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salakar/cluster-key-slot.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "codeclimate-test-reporter": "^0.3.1",
+    "coveralls": "^2.11.9",
+    "eslint": "^3.5.0",
+    "eslint-config-airbnb-base": "^7.1.0",
+    "eslint-plugin-import": "^1.8.0",
+    "istanbul": "^0.4.0",
+    "mocha": "^3.0.2"
+  },
+  "license": "Apache-2.0",
+  "directories": {
+    "test": "test",
+    "lib": "lib"
+  },
+  "gitHead": "29c10bbd5c2948ec274bad51539e1a449f1b2a29",
+  "_id": "cluster-key-slot@1.1.1",
+  "_nodeVersion": "14.19.1",
+  "_npmVersion": "6.14.16",
+  "dist": {
+    "integrity": "sha512-rwHwUfXL40Chm1r08yrhU3qpUvdVlgkKNeyeGPOxnW8/SyVDvgRaed/Uz54AqWNaTCAThlj6QAs3TZcKI0xDEw==",
+    "tarball": "https://registry.npmjs.org/cluster-key-slot/-/cluster-key-slot-1.1.1.tgz"
+  },
+  "ident": "cluster-key-slot",
+  "key": "cluster-key-slot/1.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cluster-key-slot",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DuDhu0uFIYSUi6/EHXssTB7aAJjbe+NiCfOoSkXONds=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cluster-key-slot/-/cluster-key-slot-1.1.1.tgz"
+  }
+}

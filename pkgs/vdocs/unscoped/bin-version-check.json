@@ -1,0 +1,49 @@
+{
+  "name": "bin-version-check",
+  "version": "5.0.0",
+  "description": "Check whether a binary version satisfies a semver range",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/bin-version-check.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "bin-version": "^6.0.0",
+    "semver": "^7.3.5",
+    "semver-truncate": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "xo": "^0.39.1"
+  },
+  "gitHead": "f8443a154166253902335462d87ee77671411bbb",
+  "_id": "bin-version-check@5.0.0",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-Q3FMQnS5eZmrBGqmDXLs4dbAn/f+52voP6ykJYmweSA60t6DyH4UTSwZhtbK5UH+LBoWvDljILUQMLRUtsynsA==",
+    "tarball": "https://registry.npmjs.org/bin-version-check/-/bin-version-check-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "bin-version-check",
+  "key": "bin-version-check/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bin-version-check",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WeJROhFC8chrfbKniDzuE32Cferb8L1x2h5Tcx5UGBc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bin-version-check/-/bin-version-check-5.0.0.tgz"
+  }
+}

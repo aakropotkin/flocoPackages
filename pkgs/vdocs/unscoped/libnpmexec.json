@@ -1,0 +1,81 @@
+{
+  "name": "libnpmexec",
+  "version": "5.0.1",
+  "main": "lib/index.js",
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "description": "npm exec (npx) programmatic API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/cli.git",
+    "directory": "workspaces/libnpmexec"
+  },
+  "license": "ISC",
+  "scripts": {
+    "lint": "eslint \"**/*.js\"",
+    "posttest": "node ../.. run lint",
+    "test": "tap",
+    "snap": "tap",
+    "postlint": "template-oss-check",
+    "lintfix": "node ../.. run lint -- --fix",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "tap": {
+    "color": true,
+    "files": "test/*.js",
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.6.2",
+    "bin-links": "^4.0.1",
+    "minify-registry-metadata": "^2.2.0",
+    "mkdirp": "^1.0.4",
+    "tap": "^16.0.1"
+  },
+  "dependencies": {
+    "@npmcli/arborist": "^6.1.0",
+    "@npmcli/ci-detect": "^3.0.0",
+    "@npmcli/run-script": "^5.0.0",
+    "chalk": "^4.1.0",
+    "npm-package-arg": "^10.0.0",
+    "npmlog": "^7.0.1",
+    "pacote": "^15.0.2",
+    "proc-log": "^3.0.0",
+    "read": "^1.0.7",
+    "read-package-json-fast": "^3.0.1",
+    "semver": "^7.3.7",
+    "walk-up-path": "^1.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.6.2",
+    "content": "../../scripts/template-oss/index.js"
+  },
+  "gitHead": "903a31c4674f3b3318f83bd46d289e85bcdc67ea",
+  "_id": "libnpmexec@5.0.1",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "9.0.1",
+  "dist": {
+    "integrity": "sha512-rap6LbejLenP+2KZ9pmyCM6yDHYwrJhzMzommUFzAUTlNfwnyVCtonv9N6mbZI2Kdn+NFQbSjxYeaU2BvQ3xrQ==",
+    "tarball": "https://registry.npmjs.org/libnpmexec/-/libnpmexec-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "libnpmexec",
+  "key": "libnpmexec/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "libnpmexec",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-TYC+cFdFthUVVSgkBZqCYv7gDaqvzvVKSf+TNlQPfE0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/libnpmexec/-/libnpmexec-5.0.1.tgz"
+  }
+}

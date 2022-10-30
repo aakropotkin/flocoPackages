@@ -1,0 +1,48 @@
+{
+  "name": "sort-keys",
+  "version": "5.0.0",
+  "description": "Sort the keys of an object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/sort-keys.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "is-plain-obj": "^4.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "0efa286f2923d83a825a3efd30e5c52f1f9a9307",
+  "_id": "sort-keys@5.0.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-Pdz01AvCAottHTPQGzndktFNdbRA75BgOfeT1hH+AMnJFv8lynkPi42rfeEhpx1saTEI3YNMWxfqu0sFD1G8pw==",
+    "tarball": "https://registry.npmjs.org/sort-keys/-/sort-keys-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "sort-keys",
+  "key": "sort-keys/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sort-keys",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uj9ce/XLhi7LPaCwZsThDMAGVI7i1nCXDPMr2qPQRbM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sort-keys/-/sort-keys-5.0.0.tgz"
+  }
+}

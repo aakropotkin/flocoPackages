@@ -1,0 +1,40 @@
+{
+  "name": "scrypt-js",
+  "version": "3.0.1",
+  "description": "The scrypt password-based key derivation function with sync and cancellable async.",
+  "main": "scrypt.js",
+  "scripts": {
+    "test": "mocha test/test-scrypt.js"
+  },
+  "types": "scrypt.d.ts",
+  "devDependencies": {
+    "mocha": "6.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricmoo/scrypt-js.git"
+  },
+  "license": "MIT",
+  "gitHead": "dc830dd5bed0a74b901aeabf64776debbb246e18",
+  "_id": "scrypt-js@3.0.1",
+  "_nodeVersion": "10.16.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-cdwTTnqPu0Hyvf5in5asVdZocVDTNRmR7XEcJuIzMjJeSHybHl7vpB66AzwTaIg6CLSbtjcxc8fqcySfnTkccA==",
+    "tarball": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "scrypt-js",
+  "key": "scrypt-js/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "scrypt-js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MVRAq/SsDzmVkOi+9FIRWMd7l/LE/a3n2FhZ4Ff5pvE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-3.0.1.tgz"
+  }
+}

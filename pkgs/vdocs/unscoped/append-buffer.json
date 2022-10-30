@@ -1,0 +1,63 @@
+{
+  "name": "append-buffer",
+  "description": "Append a buffer to another buffer ensuring to preserve line ending characters.",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doowb/append-buffer.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {
+    "buffer-equal": "^1.0.0"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "ee617be915a410b5aef59e8f02a551299dd7424e",
+  "_id": "append-buffer@1.0.2",
+  "_shasum": "d8220cf466081525efea50614f3de6514dfa58f1",
+  "_from": ".",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.10.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/append-buffer/-/append-buffer-1.0.2.tgz",
+    "integrity": "sha512-WLbYiXzD3y/ATLZFufV/rZvWdZOs+Z/+5v1rBZ463Jn398pa6kcde27cvozYnBoxXblGZTFfoPpsaEw0orU5BA=="
+  },
+  "ident": "append-buffer",
+  "key": "append-buffer/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "append-buffer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XEqd5RXEBjqCALiXeBN5V+nH3i6d0HxPqjVWeElgFa0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/append-buffer/-/append-buffer-1.0.2.tgz"
+  }
+}

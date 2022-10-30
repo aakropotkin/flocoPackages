@@ -1,0 +1,90 @@
+{
+  "name": "anser",
+  "version": "2.1.1",
+  "description": "A low level parser for ANSI sequences.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IonicaBizau/anser.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "jshint": "*",
+    "jslint": "*"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "blah": {
+    "description": [
+      {
+        "h2": ":rocket: Features"
+      },
+      {
+        "ul": [
+          "Converts text containing [ANSI color escape codes](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors) into equivalent HTML elements.",
+          "Allows converting the input into JSON output.",
+          "HTML escaping",
+          "Converts links into HTML elements",
+          "Friendly APIs to use with  virtual dom libraries"
+        ]
+      }
+    ],
+    "example": [
+      "When using **TypeScript** without --esModuleInterop enabled you can do the following:",
+      {
+        "code": {
+          "content": [
+            "import Anser = require('anser');",
+            "const txt = \"\\u001b[38;5;196mHello\\u001b[39m \\u001b[48;5;226mWorld\\u001b[49m\";",
+            "console.log(Anser.ansiToHtml(txt));",
+            "// <span style=\"color:rgb(255, 0, 0)\">Hello</span> <span style=\"background-color:rgb(255, 255, 0)\">World</span>"
+          ],
+          "language": "ts"
+        }
+      },
+      "Or with --esModuleInterop enabled you can do the following:",
+      {
+        "code": {
+          "content": [
+            "import Anser from 'anser';",
+            "const txt = \"\\u001b[38;5;196mHello\\u001b[39m \\u001b[48;5;226mWorld\\u001b[49m\";",
+            "console.log(Anser.ansiToHtml(txt));",
+            "// <span style=\"color:rgb(255, 0, 0)\">Hello</span> <span style=\"background-color:rgb(255, 255, 0)\">World</span>"
+          ],
+          "language": "ts"
+        }
+      }
+    ],
+    "thanks": "This project is highly based on [`ansi_up`](https://github.com/drudru/ansi_up), by [@drudru](https://github.com/drudru/). Thanks! :cake:"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "gitHead": "ac20b53394a933ac9a2364159f49dd6903f08682",
+  "_id": "anser@2.1.1",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-nqLm4HxOTpeLOxcmB3QWmV5TcDFhW9y/fyQ+hivtDFcK4OQ+pQ5fzPnXHM1Mfcm0VkLtvVi1TCPr++Qy0Q/3EQ==",
+    "tarball": "https://registry.npmjs.org/anser/-/anser-2.1.1.tgz"
+  },
+  "ident": "anser",
+  "key": "anser/2.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "anser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UmsuuVH7tsLZSlNqDIqv2DpcqabgXmQTwqm2KcI9Ps8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/anser/-/anser-2.1.1.tgz"
+  }
+}

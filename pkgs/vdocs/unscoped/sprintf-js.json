@@ -1,0 +1,52 @@
+{
+  "name": "sprintf-js",
+  "version": "1.1.2",
+  "description": "JavaScript sprintf implementation",
+  "main": "src/sprintf.js",
+  "scripts": {
+    "test": "mocha test/*.js",
+    "pretest": "npm run lint",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexei/sprintf.js.git"
+  },
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "eslint": "^5.10.0",
+    "gulp": "^3.9.1",
+    "gulp-benchmark": "^1.1.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-header": "^2.0.5",
+    "gulp-mocha": "^6.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "mocha": "^5.2.0"
+  },
+  "gitHead": "ceb9b805e6d594a9c24cdde02890d3c00c6643b7",
+  "_id": "sprintf-js@1.1.2",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "9.0.0",
+  "dist": {
+    "integrity": "sha512-VE0SOVEHCk7Qc8ulkWw3ntAzXuqf7S2lvwQaDLRnUeIEaKNQJzV6BwmLKhOqT61aGhfUMrXeaBk+oDGCzvhcug==",
+    "tarball": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "sprintf-js",
+  "key": "sprintf-js/1.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sprintf-js",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JxP7r7OypQYzDJjYkgWHFKv5UTQRqK70/rcTS5dcl6c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.1.2.tgz"
+  }
+}

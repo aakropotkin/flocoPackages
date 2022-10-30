@@ -1,0 +1,63 @@
+{
+  "name": "color",
+  "version": "4.2.3",
+  "description": "Color conversion and manipulation with CSS string support",
+  "sideEffects": false,
+  "authors": [
+    "Josh Junon <josh@junon.me>",
+    "Heather Arthur <fayearthur@gmail.com>",
+    "Maxime Thirouin"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qix-/color.git"
+  },
+  "xo": {
+    "rules": {
+      "no-cond-assign": 0,
+      "new-cap": 0,
+      "unicorn/prefer-module": 0,
+      "no-mixed-operators": 0,
+      "complexity": 0,
+      "unicorn/numeric-separators-style": 0
+    }
+  },
+  "scripts": {
+    "pretest": "xo",
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=12.5.0"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "color-string": "^1.9.0"
+  },
+  "devDependencies": {
+    "mocha": "9.0.2",
+    "xo": "0.42.0"
+  },
+  "gitHead": "561a34c111c3d4f736b7d7516cafd1d290392186",
+  "_id": "color@4.2.3",
+  "_nodeVersion": "17.3.1",
+  "_npmVersion": "8.3.0",
+  "dist": {
+    "integrity": "sha512-1rXeuUUiGGrykh+CeBdu5Ie7OJwinCgQY0bc7GCRxy5xVHy+moaqkpL/jqQq0MtQOeYcrqEz4abc5f0KtU7W4A==",
+    "tarball": "https://registry.npmjs.org/color/-/color-4.2.3.tgz"
+  },
+  "directories": {},
+  "ident": "color",
+  "key": "color/4.2.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "color",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-EL/kqFGtZ/5zWC6a8GctsfM1088q2YHFReeSn7vohok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/color/-/color-4.2.3.tgz"
+  }
+}

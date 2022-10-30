@@ -1,0 +1,52 @@
+{
+  "name": "dot-prop",
+  "version": "7.2.0",
+  "description": "Get, set, or delete a property from a nested object using a dot path",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/dot-prop.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsc",
+    "bench": "node benchmark.js"
+  },
+  "dependencies": {
+    "type-fest": "^2.11.2"
+  },
+  "devDependencies": {
+    "ava": "^4.0.1",
+    "benchmark": "^2.1.4",
+    "expect-type": "^0.13.0",
+    "typescript": "^4.5.5",
+    "xo": "^0.48.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "aff8acb5076257d14dd5f9cfefbbe5526b81aa04",
+  "_id": "dot-prop@7.2.0",
+  "_nodeVersion": "14.17.5",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-Ol/IPXUARn9CSbkrdV4VJo7uCy1I3VuSiWCaFSg+8BdUOzF9n3jefIpcgAydvUZbTdEBZs2vEiTiS9m61ssiDA==",
+    "tarball": "https://registry.npmjs.org/dot-prop/-/dot-prop-7.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "dot-prop",
+  "key": "dot-prop/7.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dot-prop",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-o8dpXkqxPa7LuF6McMyY/udQOcYb8RDDlh34ap9Kx0I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dot-prop/-/dot-prop-7.2.0.tgz"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "faye-websocket",
+  "description": "Standards-compliant WebSocket server and client",
+  "license": "Apache-2.0",
+  "version": "0.11.4",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "./lib/faye/websocket",
+  "dependencies": {
+    "websocket-driver": ">=0.5.1"
+  },
+  "devDependencies": {
+    "jstest": "*",
+    "pace": "*",
+    "permessage-deflate": "*"
+  },
+  "scripts": {
+    "test": "jstest spec/runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/faye/faye-websocket-node.git"
+  },
+  "_id": "faye-websocket@0.11.4",
+  "_integrity": "sha512-CzbClwlXAuiRQAlUyfqPgvPoNKTckTPGfwZV4ZdAhVcP2lh9KUxJg2b5GkE7XbjKQ3YJnQ9z6D9ntLAlB+tP8g==",
+  "_resolved": "/Users/jcoglan/projects/faye/node/websocket/faye-websocket-0.11.4.tgz",
+  "_from": "file:faye-websocket-0.11.4.tgz",
+  "_nodeVersion": "16.1.0",
+  "_npmVersion": "7.11.2",
+  "dist": {
+    "integrity": "sha512-CzbClwlXAuiRQAlUyfqPgvPoNKTckTPGfwZV4ZdAhVcP2lh9KUxJg2b5GkE7XbjKQ3YJnQ9z6D9ntLAlB+tP8g==",
+    "tarball": "https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.11.4.tgz"
+  },
+  "directories": {},
+  "ident": "faye-websocket",
+  "key": "faye-websocket/0.11.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "faye-websocket",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-W4dSAHZKFJJvsZmnJhkbPC0SJcR10mZZ0TIUyWIulFI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.11.4.tgz"
+  }
+}

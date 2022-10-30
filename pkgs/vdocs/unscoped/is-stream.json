@@ -1,0 +1,47 @@
+{
+  "name": "is-stream",
+  "version": "3.0.0",
+  "description": "Check if something is a Node.js stream",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-stream.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "ava": "^3.15.0",
+    "tempy": "^1.0.1",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "6913e344ab2dd63041bb7c03095876ce5a7e0a8b",
+  "_id": "is-stream@3.0.0",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "7.13.0",
+  "dist": {
+    "integrity": "sha512-LnQR4bZ9IADDRSkvpqMGvt/tEJWclzklNgSw48V5EAaAeDd6qGvN8ei6k5p0tvxSR171VmGyHuTiAOfxAbr8kA==",
+    "tarball": "https://registry.npmjs.org/is-stream/-/is-stream-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-stream",
+  "key": "is-stream/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1vnXxC/Da9IMv3J4hSA9lMDFmDrk+fxRkTAt0OLYcPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-stream/-/is-stream-3.0.0.tgz"
+  }
+}

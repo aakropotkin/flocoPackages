@@ -1,0 +1,54 @@
+{
+  "name": "micromark-util-classify-character",
+  "version": "1.0.0",
+  "description": "micromark utility to classify whether a character is whitespace or punctuation",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micromark/micromark.git#main"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "dev/index.d.ts",
+  "exports": {
+    "development": "./dev/index.js",
+    "default": "./index.js"
+  },
+  "dependencies": {
+    "micromark-util-character": "^1.0.0",
+    "micromark-util-symbol": "^1.0.0",
+    "micromark-util-types": "^1.0.0"
+  },
+  "scripts": {
+    "build": "rimraf \"*.d.ts\" \"{dev/,lib/}**/*.d.ts\" && tsc && micromark-build && type-coverage"
+  },
+  "xo": false,
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true,
+    "ignoreCatch": true
+  },
+  "_id": "micromark-util-classify-character@1.0.0",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "7.18.1",
+  "dist": {
+    "integrity": "sha512-F8oW2KKrQRb3vS5ud5HIqBVkCqQi224Nm55o5wYLzY/9PwHGXC01tr3d7+TqHHz6zrKQ72Okwtvm/xQm6OVNZA==",
+    "tarball": "https://registry.npmjs.org/micromark-util-classify-character/-/micromark-util-classify-character-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "micromark-util-classify-character",
+  "key": "micromark-util-classify-character/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "micromark-util-classify-character",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-AFPcOXHKqoydGJoSK1QwDJvZQwpz6z5AxJ4tvR+QoUs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-util-classify-character/-/micromark-util-classify-character-1.0.0.tgz"
+  }
+}

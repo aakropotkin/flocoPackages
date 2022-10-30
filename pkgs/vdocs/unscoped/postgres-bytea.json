@@ -1,0 +1,49 @@
+{
+  "name": "postgres-bytea",
+  "main": "index.js",
+  "version": "3.0.0",
+  "description": "Postgres bytea parser",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendrucker/postgres-bytea.git"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "scripts": {
+    "test": "standard && tape *.js"
+  },
+  "dependencies": {
+    "obuf": "~1.1.2"
+  },
+  "devDependencies": {
+    "concat-stream": "2.0.0",
+    "standard": "^14.0.0",
+    "stream-to-promise": "^3.0.0",
+    "tape": "^5.0.0",
+    "tape-promise": "4.0.0"
+  },
+  "gitHead": "03af680e296ca262c1519ee7a88d4c82eb2ea88f",
+  "_id": "postgres-bytea@3.0.0",
+  "_nodeVersion": "12.16.2",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-CNd4jim9RFPkObHSjVHlVrxoVQXz7quwNFpz7RY1okNNme49+sVyiTvTRobiLV548Hx/hb1BG+iE7h9493WzFw==",
+    "tarball": "https://registry.npmjs.org/postgres-bytea/-/postgres-bytea-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "postgres-bytea",
+  "key": "postgres-bytea/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postgres-bytea",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-h494SXfW/dlJLSwU7H85F0H/7FplD8dFdC0sHP7gMS8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postgres-bytea/-/postgres-bytea-3.0.0.tgz"
+  }
+}

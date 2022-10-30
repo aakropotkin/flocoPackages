@@ -1,0 +1,46 @@
+{
+  "name": "b64",
+  "description": "Base64 streaming encoder and decoder",
+  "version": "4.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hapijs/b64.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "hoek": "6.x.x"
+  },
+  "devDependencies": {
+    "code": "5.x.x",
+    "lab": "17.x.x",
+    "wreck": "14.x.x"
+  },
+  "scripts": {
+    "test": "lab -a code -t 100 -L",
+    "test-cov-html": "lab -a code -r html -o coverage.html"
+  },
+  "license": "BSD-3-Clause",
+  "gitHead": "37bdf322ea01cddb2154057a4b893cf03e36ed50",
+  "_id": "b64@4.1.2",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-+GUspBxlH3CJaxMUGUE1EBoWM6RKgWiYwUDal0qdf8m3ArnXNN1KzKVo5HOnE/FSq4HHyWf3TlHLsZI8PKQgrQ==",
+    "tarball": "https://registry.npmjs.org/b64/-/b64-4.1.2.tgz"
+  },
+  "directories": {},
+  "deprecated": "This module has moved and is now available at @hapi/b64. Please update your dependencies as this version is no longer maintained an may contain bugs and security issues.",
+  "ident": "b64",
+  "key": "b64/4.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "b64",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-m2pbO2w6nUHoJ1rSMCUpXm5LGl/ZQMwMhjqSp4fMHNo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/b64/-/b64-4.1.2.tgz"
+  }
+}

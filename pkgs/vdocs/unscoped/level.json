@@ -1,0 +1,60 @@
+{
+  "name": "level",
+  "version": "8.0.0",
+  "description": "Universal abstract-level database for Node.js and browsers",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "standard && ts-standard *.ts && nyc node test.js",
+    "test-browsers-local": "airtap --coverage test.js && nyc report",
+    "coverage": "nyc report -r lcovonly"
+  },
+  "browser": "browser.js",
+  "dependencies": {
+    "browser-level": "^1.0.1",
+    "classic-level": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@voxpelli/tsconfig": "^3.1.0",
+    "airtap": "^4.0.1",
+    "airtap-playwright": "^1.0.1",
+    "hallmark": "^4.0.0",
+    "nyc": "^15.0.0",
+    "standard": "^16.0.3",
+    "tape": "^5.0.1",
+    "ts-standard": "^11.0.0",
+    "typescript": "^4.5.5",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Level/level.git"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "a5b9f418f7b3924bb30c4bf94bcac824f8680366",
+  "_id": "level@8.0.0",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.21.1",
+  "dist": {
+    "integrity": "sha512-ypf0jjAk2BWI33yzEaaotpq7fkOPALKAgDBxggO6Q9HGX2MRXn0wbP1Jn/tJv1gtL867+YOjOB49WaUF3UoJNQ==",
+    "tarball": "https://registry.npmjs.org/level/-/level-8.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "level",
+  "key": "level/8.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "level",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PbqqhlQiDSlOR7/RsTScTG0JweYSTaedwSqOKhKtShk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level/-/level-8.0.0.tgz"
+  }
+}

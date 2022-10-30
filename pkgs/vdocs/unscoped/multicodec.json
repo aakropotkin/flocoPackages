@@ -1,0 +1,82 @@
+{
+  "name": "multicodec",
+  "version": "3.2.1",
+  "description": "JavaScript implementation of the multicodec specification",
+  "leadMaintainer": "Henrique Dias <hacdias@gmail.com>",
+  "main": "src/index.js",
+  "types": "dist/src/index.d.ts",
+  "typesVersions": {
+    "*": {
+      "src/*": [
+        "dist/src/*",
+        "dist/src/*/index"
+      ],
+      "src/": [
+        "dist/src/index"
+      ]
+    }
+  },
+  "scripts": {
+    "lint": "aegir lint",
+    "test": "aegir test",
+    "test:node": "aegir test --target node",
+    "test:browser": "aegir test --target browser",
+    "build": "aegir build",
+    "docs": "aegir docs",
+    "release": "aegir release",
+    "release-minor": "aegir release --type minor",
+    "release-major": "aegir release --type major",
+    "update-table": "node tools/update-table.js"
+  },
+  "pre-push": [
+    "lint",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multiformats/js-multicodec.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "uint8arrays": "^3.0.0",
+    "varint": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/varint": "^6.0.0",
+    "aegir": "^32.2.0",
+    "bent": "^7.3.12",
+    "pre-push": "~0.1.1",
+    "util": "^0.12.3"
+  },
+  "eslintConfig": {
+    "extends": "ipfs"
+  },
+  "aegir": {
+    "build": {
+      "bundlesizeMax": "15kB"
+    }
+  },
+  "gitHead": "2945d8b4f65552cb93ae60892f69ee6fac24b359",
+  "_id": "multicodec@3.2.1",
+  "_nodeVersion": "16.8.0",
+  "_npmVersion": "7.21.0",
+  "dist": {
+    "integrity": "sha512-+expTPftro8VAW8kfvcuNNNBgb9gPeNYV9dn+z1kJRWF2vih+/S79f2RVeIwmrJBUJ6NT9IUPWnZDQvegEh5pw==",
+    "tarball": "https://registry.npmjs.org/multicodec/-/multicodec-3.2.1.tgz"
+  },
+  "directories": {},
+  "deprecated": "This module has been superseded by the multiformats module",
+  "ident": "multicodec",
+  "key": "multicodec/3.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "multicodec",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-KvaHquaKe6oWE0/dzuVnqfbQH9JBUBAN0sBRzRfn2TM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/multicodec/-/multicodec-3.2.1.tgz"
+  }
+}

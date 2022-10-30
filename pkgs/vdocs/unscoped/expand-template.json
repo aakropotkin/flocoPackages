@@ -1,0 +1,44 @@
+{
+  "name": "expand-template",
+  "version": "2.0.3",
+  "description": "Expand placeholders in a template string",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphtheninja/expand-template.git"
+  },
+  "scripts": {
+    "test": "tape test.js && standard"
+  },
+  "license": "(MIT OR WTFPL)",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^12.0.0",
+    "tape": "^4.2.2"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "gitHead": "f0c2ecd522fa54b46100555a9bfd0b10680aabd2",
+  "_id": "expand-template@2.0.3",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.13.0",
+  "dist": {
+    "integrity": "sha512-XYfuKMvj4O35f/pOXLObndIRvyQ+/+6AhODh+OKWj9S9498pHHn/IMszH+gt0fBCRWMNfk1ZSp5x3AifmnI2vg==",
+    "tarball": "https://registry.npmjs.org/expand-template/-/expand-template-2.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "expand-template",
+  "key": "expand-template/2.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "expand-template",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gU2LbFCK8EUPpRGikfU6jDmwTtANLWXAvzzRv27Wl3A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/expand-template/-/expand-template-2.0.3.tgz"
+  }
+}

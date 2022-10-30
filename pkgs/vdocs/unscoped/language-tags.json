@@ -1,0 +1,48 @@
+{
+  "name": "language-tags",
+  "version": "1.0.5",
+  "implements": [
+    "CommonJS/Modules/1.0"
+  ],
+  "description": "Work with IANA language tags.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattcg/language-tags.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "language-subtag-registry": "~0.3.2"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "istanbul": "~0.4.2",
+    "coveralls": "~2.11.6"
+  },
+  "gitHead": "5ae08f97f41ea6fce164e9b87d975c9bc21bf8d1",
+  "_id": "language-tags@1.0.5",
+  "_shasum": "d321dbc4da30ba8bf3024e040fa5c14661f9193a",
+  "_from": ".",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.4.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/language-tags/-/language-tags-1.0.5.tgz",
+    "integrity": "sha512-qJhlO9cGXi6hBGKoxEG/sKZDAHD5Hnu9Hs4WbOY3pCWXDhw0N8x1NenNzm2EnNLkLkk7J2SdxAkDSbb6ftT+UQ=="
+  },
+  "ident": "language-tags",
+  "key": "language-tags/1.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "language-tags",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7LVx9miRFYOI8+O086LCWuB541C+p2hfR+v54YPGUgs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/language-tags/-/language-tags-1.0.5.tgz"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "metro-minify-terser",
+  "version": "0.73.3",
+  "description": "🚇 Minifier for Metro based on Terser.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/facebook/metro.git"
+  },
+  "scripts": {
+    "prepare-release": "test -d build && rm -rf src.real && mv src src.real && mv build src",
+    "cleanup-release": "test ! -e build && mv src build && mv src.real src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "terser": "^5.15.0"
+  },
+  "gitHead": "a09e07fb91addee7a29ab70b78c143f1f8e8c7bc",
+  "_id": "metro-minify-terser@0.73.3",
+  "_nodeVersion": "16.18.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-EDA+G7WM9ACtlvIc735u002UNedTIKBXx4RaIFFnLbp8Z+0csrTnFY0hsasxwkFR1KcL42TppLiY0L+iO5TuJw==",
+    "tarball": "https://registry.npmjs.org/metro-minify-terser/-/metro-minify-terser-0.73.3.tgz"
+  },
+  "directories": {},
+  "ident": "metro-minify-terser",
+  "key": "metro-minify-terser/0.73.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "metro-minify-terser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gIKMU722uS9xcoU6GgkQ1KOKX2n4QXEvD+0uJWjLnG4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/metro-minify-terser/-/metro-minify-terser-0.73.3.tgz"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "rfdc",
+  "version": "1.3.0",
+  "description": "Really Fast Deep Clone",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./default": "./default.js"
+  },
+  "scripts": {
+    "test": "tap -R min test && npm run lint && tsd",
+    "bench": "node benchmark",
+    "lint": "standard --fix",
+    "cov": "tap --100 test",
+    "cov-ui": "tap --coverage-report=html test",
+    "ci": "standard && tap --100 --coverage-report=text-lcov test | codecov --pipe"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "clone-deep": "^4.0.1",
+    "codecov": "^3.4.0",
+    "deep-copy": "^1.4.2",
+    "fast-copy": "^1.2.1",
+    "fastbench": "^1.0.1",
+    "lodash.clonedeep": "^4.5.0",
+    "standard": "^11.0.1",
+    "tap": "^12.0.1",
+    "tsd": "^0.7.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/rfdc.git"
+  },
+  "gitHead": "8a6b767318340ccfc04219d162b93ec1c500551e",
+  "_id": "rfdc@1.3.0",
+  "_nodeVersion": "12.20.2",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-V2hovdzFbOi77/WajaSMXk2OLm+xNIeQdMMuB7icj7bk6zi2F8GGAxigcnDFpJHbNyNcgyJDiP+8nOrY5cZGrA==",
+    "tarball": "https://registry.npmjs.org/rfdc/-/rfdc-1.3.0.tgz"
+  },
+  "ident": "rfdc",
+  "key": "rfdc/1.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "rfdc",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-AYSQmWimbWE6vb6/+52ZCfWWNYpAK9Ryn2huWx7o+F0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rfdc/-/rfdc-1.3.0.tgz"
+  }
+}

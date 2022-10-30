@@ -1,0 +1,39 @@
+{
+  "name": "buffer-more-ints",
+  "version": "1.0.0",
+  "description": "Add support for more integer widths to Buffer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpw/node-buffer-more-ints.git"
+  },
+  "main": "buffer-more-ints.js",
+  "devDependencies": {
+    "nodeunit": ""
+  },
+  "scripts": {
+    "test": "node ./node_modules/nodeunit/bin/nodeunit buffer-more-ints-tests.js"
+  },
+  "gitHead": "b9da8e1dcb666c313127fe6ce7549f043bab230a",
+  "_id": "buffer-more-ints@1.0.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.11.1",
+  "dist": {
+    "integrity": "sha512-EMetuGFz5SLsT0QTnXzINh4Ksr+oo4i+UGTXEshiGCQWnsgSs7ZhJ8fzlwQ+OzEMs0MpDAMr1hxnblp5a4vcHg==",
+    "tarball": "https://registry.npmjs.org/buffer-more-ints/-/buffer-more-ints-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "buffer-more-ints",
+  "key": "buffer-more-ints/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "buffer-more-ints",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9LmB3IHTkpux3OgLNVql2CgIBD8oYEkXRNXUkM9Q9jk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-more-ints/-/buffer-more-ints-1.0.0.tgz"
+  }
+}

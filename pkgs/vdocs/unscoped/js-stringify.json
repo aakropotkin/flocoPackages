@@ -1,0 +1,38 @@
+{
+  "name": "js-stringify",
+  "version": "1.0.2",
+  "description": "Stringify an object so it can be safely inlined in JavaScript code",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadejs/js-stringify.git"
+  },
+  "license": "MIT",
+  "gitHead": "7fea7dc2fb40d565dd1cd404c1011af496846e9a",
+  "_id": "js-stringify@1.0.2",
+  "_shasum": "1736fddfd9724f28a3682adc6230ae7e4e9679db",
+  "_from": ".",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/js-stringify/-/js-stringify-1.0.2.tgz",
+    "integrity": "sha512-rtS5ATOo2Q5k1G+DADISilDA6lv79zIiwFd6CcjuIxGKLFm5C+RLImRscVap9k55i+MOZwgliw+NejvkLuGD5g=="
+  },
+  "ident": "js-stringify",
+  "key": "js-stringify/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "js-stringify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-28BZPFTaxPvHMH1WMC5dw/tepfvgfk5A9dJKcMTAkAE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js-stringify/-/js-stringify-1.0.2.tgz"
+  }
+}

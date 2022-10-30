@@ -1,0 +1,54 @@
+{
+  "name": "d3-regression",
+  "version": "1.3.10",
+  "description": "Calculate statistical regressions for two-dimensional data",
+  "scripts": {
+    "pretest": "rm -rf dist && mkdir dist && rollup -c --banner \"$(preamble)\"",
+    "test": "tape 'test/**/*-test.js'",
+    "prepublishOnly": "npm run test && uglifyjs dist/d3-regression.js -c -m -o dist/d3-regression.min.js",
+    "postpublish": "zip -j dist/d3-regression.zip -- LICENSE README.md dist/d3-regression.js dist/d3-regression.min.js dist/d3-regression.cjs.js dist/d3-regression.esm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryStevens/d3-regression.git"
+  },
+  "browser": "dist/d3-regression.js",
+  "module": "dist/d3-regression.esm.js",
+  "main": "dist/d3-regression.cjs.js",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel": "^6.23.0",
+    "package-preamble": "^0.1.0",
+    "rollup": "^2.10.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "tape": "^4.10.1",
+    "uglify-js": "^2.8.29"
+  },
+  "dependencies": {},
+  "gitHead": "638dbe69324ad2de9ad204c0b628e2928136d51f",
+  "_id": "d3-regression@1.3.10",
+  "_nodeVersion": "12.21.0",
+  "_npmVersion": "8.3.0",
+  "dist": {
+    "integrity": "sha512-PF8GWEL70cHHWpx2jUQXc68r1pyPHIA+St16muk/XRokETzlegj5LriNKg7o4LR0TySug4nHYPJNNRz/W+/Niw==",
+    "tarball": "https://registry.npmjs.org/d3-regression/-/d3-regression-1.3.10.tgz"
+  },
+  "directories": {},
+  "ident": "d3-regression",
+  "key": "d3-regression/1.3.10",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "d3-regression",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-wZ165H9SC9q3t/XDwArWM4g5RX0tuKUAD9xtgh2C99E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-regression/-/d3-regression-1.3.10.tgz"
+  }
+}

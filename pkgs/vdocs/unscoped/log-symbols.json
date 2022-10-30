@@ -1,0 +1,54 @@
+{
+  "name": "log-symbols",
+  "version": "5.1.0",
+  "description": "Colored symbols for various log levels. Example: `✔︎ Success`",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/log-symbols.git"
+  },
+  "type": "module",
+  "exports": {
+    "node": "./index.js",
+    "default": "./browser.js"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "is-unicode-supported": "^1.1.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "strip-ansi": "^7.0.1",
+    "tsd": "^0.19.0",
+    "xo": "^0.47.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "9fef1176a7fcd7796bc2804c5b0694233a57995b",
+  "_id": "log-symbols@5.1.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-l0x2DvrW294C9uDCoQe1VSU4gf529FkSZ6leBl4TiqZH/e+0R7hSfHQBNut2mNygDgHwvYHfFLn6Oxb3VWj2rA==",
+    "tarball": "https://registry.npmjs.org/log-symbols/-/log-symbols-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "log-symbols",
+  "key": "log-symbols/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "log-symbols",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-dghLCHxF0l6QkCeSEyojco4WJBZsly9tBmDi/LuxXNw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/log-symbols/-/log-symbols-5.1.0.tgz"
+  }
+}

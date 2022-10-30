@@ -1,0 +1,86 @@
+{
+  "name": "is-symbol",
+  "version": "1.0.4",
+  "description": "Determine if a value is an ES6 Symbol or not.",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "safe-publish-latest",
+    "prepublish": "not-in-publish || npm run prepublishOnly",
+    "pretest": "npm run lint",
+    "tests-only": "nyc tape 'test/**/*.js'",
+    "test": "npm run tests-only",
+    "posttest": "npx aud --production",
+    "lint": "eslint .",
+    "version": "auto-changelog && git add CHANGELOG.md",
+    "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inspect-js/is-symbol.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "has-symbols": "^1.0.2"
+  },
+  "devDependencies": {
+    "@ljharb/eslint-config": "^17.6.0",
+    "aud": "^1.1.5",
+    "auto-changelog": "^2.2.1",
+    "eslint": "^7.26.0",
+    "nyc": "^10.3.2",
+    "object-inspect": "^1.10.3",
+    "safe-publish-latest": "^1.1.4",
+    "tape": "^5.2.2"
+  },
+  "testling": {
+    "files": "test/index.js",
+    "browsers": [
+      "iexplore/6.0..latest",
+      "firefox/3.0..6.0",
+      "firefox/15.0..latest",
+      "firefox/nightly",
+      "chrome/4.0..10.0",
+      "chrome/20.0..latest",
+      "chrome/canary",
+      "opera/10.0..latest",
+      "opera/next",
+      "safari/4.0..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2"
+    ]
+  },
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": false,
+    "commitLimit": false,
+    "backfillLimit": false,
+    "hideCredit": true
+  },
+  "gitHead": "962084d30f3a2a83dff90d59504d03b85ffa5c17",
+  "_id": "is-symbol@1.0.4",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-C/CPBqKWnvdcxqIARxyOh4v1UUEOCHpgDa0WYgpKDFMszcrPcffg5uhwSgPCLD2WWxmq6isisz87tzT01tuGhg==",
+    "tarball": "https://registry.npmjs.org/is-symbol/-/is-symbol-1.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "is-symbol",
+  "key": "is-symbol/1.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-symbol",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-D6RS2woSBBiF6Sd9vb7CRmQDpk7qEkvkcF+2eNufyZk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-symbol/-/is-symbol-1.0.4.tgz"
+  }
+}

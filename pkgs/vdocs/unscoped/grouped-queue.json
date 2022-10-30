@@ -1,0 +1,43 @@
+{
+  "name": "grouped-queue",
+  "version": "2.0.0",
+  "description": "In memory queue system prioritizing tasks",
+  "main": "lib/queue.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBoudrias/grouped-queue.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "sinon": "^9.0.2"
+  },
+  "gitHead": "bd05f9fbed77a77a3020385de7cf7ba932645ab8",
+  "_id": "grouped-queue@2.0.0",
+  "_nodeVersion": "14.15.4",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-/PiFUa7WIsl48dUeCvhIHnwNmAAzlI/eHoJl0vu3nsFA366JleY7Ff8EVTplZu5kO0MIdZjKTTnzItL61ahbnw==",
+    "tarball": "https://registry.npmjs.org/grouped-queue/-/grouped-queue-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "grouped-queue",
+  "key": "grouped-queue/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "grouped-queue",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Tj4016nzHc2fkHClH16vJjd44X9I7XkPOd6v2FcLNBI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grouped-queue/-/grouped-queue-2.0.0.tgz"
+  }
+}

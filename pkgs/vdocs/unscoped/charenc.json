@@ -1,0 +1,44 @@
+{
+  "name": "charenc",
+  "description": "character encoding utilities",
+  "tags": [
+    "utf8",
+    "binary",
+    "byte",
+    "string"
+  ],
+  "version": "0.0.2",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pvorb/node-charenc.git"
+  },
+  "main": "charenc.js",
+  "engines": {
+    "node": "*"
+  },
+  "gitHead": "01d66efb429d0cb242b2dd5af2ce338554fd3e54",
+  "_id": "charenc@0.0.2",
+  "scripts": {},
+  "_shasum": "c0a1d2f3a7092e03774bfa83f14c0fc5790a8667",
+  "_from": ".",
+  "_npmVersion": "3.9.3",
+  "_nodeVersion": "4.4.5",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/charenc/-/charenc-0.0.2.tgz",
+    "integrity": "sha512-yrLQ/yVUFXkzg7EDQsPieE/53+0RlaWTs+wBrvW36cyilJ2SaDWfl4Yj7MtLTXleV9uEKefbAGUPv2/iWSooRA=="
+  },
+  "ident": "charenc",
+  "key": "charenc/0.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "charenc",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-TG1iG2jGmBmqhCCGsKFzzhJSBAhCwcOvD4EI12Qx4gs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/charenc/-/charenc-0.0.2.tgz"
+  }
+}

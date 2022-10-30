@@ -1,0 +1,48 @@
+{
+  "name": "sort-keys-length",
+  "version": "2.0.0",
+  "description": "Sort objecy keys by length",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/sort-keys-length.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "length-sort": "^2.0.0",
+    "sort-keys": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "120e7ae11d3e7a725943348f6abec374e58041c3",
+  "_id": "sort-keys-length@2.0.0",
+  "_npmVersion": "5.0.3",
+  "_nodeVersion": "8.0.0",
+  "dist": {
+    "integrity": "sha512-+ebc02C2ftAXFvzw5bW3JEsEuZnlJ0rAB+nlb/tm4b9U1zs7wQYkxurxce8KX38zi736BZv9ABYb9iBDUb5OMA==",
+    "tarball": "https://registry.npmjs.org/sort-keys-length/-/sort-keys-length-2.0.0.tgz"
+  },
+  "ident": "sort-keys-length",
+  "key": "sort-keys-length/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sort-keys-length",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-kci1O1zdqtoPdjxph/kV0KLi8nMH4sUcskMQH6eeoYM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sort-keys-length/-/sort-keys-length-2.0.0.tgz"
+  }
+}

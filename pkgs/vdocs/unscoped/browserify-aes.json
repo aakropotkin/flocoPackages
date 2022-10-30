@@ -1,0 +1,54 @@
+{
+  "name": "browserify-aes",
+  "version": "1.2.0",
+  "description": "aes, for browserify",
+  "browser": "browser.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "standard": "standard",
+    "unit": "node test/index.js | tspec",
+    "test": "npm run standard && npm run unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crypto-browserify/browserify-aes.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "buffer-xor": "^1.0.3",
+    "cipher-base": "^1.0.0",
+    "create-hash": "^1.1.0",
+    "evp_bytestokey": "^1.0.3",
+    "inherits": "^2.0.1",
+    "safe-buffer": "^5.0.1"
+  },
+  "devDependencies": {
+    "standard": "^9.0.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.3"
+  },
+  "gitHead": "aff6836a7017aa9e55289aec357ddb199e15bd98",
+  "_id": "browserify-aes@1.2.0",
+  "_npmVersion": "5.8.0",
+  "_nodeVersion": "8.11.1",
+  "dist": {
+    "integrity": "sha512-+7CHXqGuspUn/Sl5aO7Ea0xWGAtETPXNSAjHo48JfLdPWcMng33Xe4znFvQweqc/uzk5zSOI3H52CYnjCfb5hA==",
+    "tarball": "https://registry.npmjs.org/browserify-aes/-/browserify-aes-1.2.0.tgz"
+  },
+  "ident": "browserify-aes",
+  "key": "browserify-aes/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "browserify-aes",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ybpq2VFz2w7GEOVoa5oFz7yshE25eTNdJYxrO6g0wOA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/browserify-aes/-/browserify-aes-1.2.0.tgz"
+  }
+}

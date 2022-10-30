@@ -1,0 +1,48 @@
+{
+  "name": "global-dirs",
+  "version": "3.0.0",
+  "description": "Get the directory of globally installed packages and binaries",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/global-dirs.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "ini": "2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "execa": "^5.0.0",
+    "import-fresh": "^3.3.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.37.1"
+  },
+  "gitHead": "be2b88509773bc38c4582f3c1483b08e0025792e",
+  "_id": "global-dirs@3.0.0",
+  "_nodeVersion": "10.22.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-v8ho2DS5RiCjftj1nD9NmnfaOzTdud7RRnVd9kFNOjqZbISlx5DQ+OrTkywgd0dIt7oFCvKetZSHoHcP3sDdiA==",
+    "tarball": "https://registry.npmjs.org/global-dirs/-/global-dirs-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "global-dirs",
+  "key": "global-dirs/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "global-dirs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-m3a07kGSP6vU5i5hkPYpeRMFNtY0oD+BClvqOpsHHgU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/global-dirs/-/global-dirs-3.0.0.tgz"
+  }
+}

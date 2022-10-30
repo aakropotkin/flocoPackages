@@ -1,0 +1,73 @@
+{
+  "name": "rc-mentions",
+  "version": "1.10.0",
+  "description": "React Mentions",
+  "main": "./lib/index",
+  "module": "./es/index",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/react-component/mentions.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "father doc dev --storybook",
+    "build": "father doc build --storybook",
+    "compile": "father build",
+    "lint": "eslint src/ --ext .tsx,.ts",
+    "test": "father test",
+    "now-build": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@types/classnames": "^2.2.6",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.3",
+    "@types/warning": "^3.0.0",
+    "@umijs/fabric": "^2.0.8",
+    "eslint": "^7.0.0",
+    "father": "^2.13.6",
+    "jest": "^28.0.3",
+    "lodash.debounce": "^4.0.8",
+    "np": "^7.0.0",
+    "prettier": "^2.0.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.10.1",
+    "classnames": "^2.2.6",
+    "rc-menu": "~9.6.0",
+    "rc-textarea": "^0.4.0",
+    "rc-trigger": "^5.0.4",
+    "rc-util": "^5.22.5"
+  },
+  "types": "./lib/index.d.ts",
+  "gitHead": "5f1a10184d92f9e976265eb7b873a1271d2482d6",
+  "_id": "rc-mentions@1.10.0",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-oMlYWnwXSxP2NQVlgxOTzuG/u9BUc3ySY78K3/t7MNhJWpZzXTao+/Bic6tyZLuNCO89//hVQJBdaR2rnFQl6Q==",
+    "tarball": "https://registry.npmjs.org/rc-mentions/-/rc-mentions-1.10.0.tgz"
+  },
+  "directories": {},
+  "ident": "rc-mentions",
+  "key": "rc-mentions/1.10.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "rc-mentions",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PPC7AG+Sn9D4ZljbrvD+dbdqmkroDvKqybofLrSozSU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rc-mentions/-/rc-mentions-1.10.0.tgz"
+  }
+}

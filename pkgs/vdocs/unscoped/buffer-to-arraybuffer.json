@@ -1,0 +1,41 @@
+{
+  "name": "buffer-to-arraybuffer",
+  "version": "0.0.6",
+  "description": "Convert Buffer to ArrayBuffer",
+  "main": "buffer-to-arraybuffer.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelmota/buffer-to-arraybuffer.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.7.0"
+  },
+  "gitHead": "77a1f24b0e0a410e75d3e59f93c8e2c6ccaa8783",
+  "_id": "buffer-to-arraybuffer@0.0.6",
+  "_nodeVersion": "11.15.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-i/ndmmCF5QC1D75QCO1EPwYRPIVRVs2yLwkl2bc8R5P1ORHGZZAbTwmYM/vpXt7KzCe+Y57E8YPGTJywgWBNRw==",
+    "tarball": "https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.6.tgz"
+  },
+  "ident": "buffer-to-arraybuffer",
+  "key": "buffer-to-arraybuffer/0.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "buffer-to-arraybuffer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-oBRuTAzTU60SnGXhvBHMyKc45L2cbnCTAwLj4M5GHpQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.6.tgz"
+  }
+}

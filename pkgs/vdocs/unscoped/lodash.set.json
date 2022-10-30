@@ -1,0 +1,35 @@
+{
+  "name": "lodash.set",
+  "version": "4.3.2",
+  "description": "The lodash method `_.set` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.set@4.3.2",
+  "_shasum": "d8757b1da807dde24816b0d6a84bea1a76230b23",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.set/-/lodash.set-4.3.2.tgz",
+    "integrity": "sha512-4hNPN5jlm/N/HLMCO43v8BXKq9Z7QdAGc/VGrRD61w8gN9g/6jF9A4L1pbUgBLCffi0w9VsXfTOij5x8iTyFvg=="
+  },
+  "ident": "lodash.set",
+  "key": "lodash.set/4.3.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.set",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Eh88c58A7ampKW+Hmk3umorA+upQvCZ/Tqb5e8nKhKw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.set/-/lodash.set-4.3.2.tgz"
+  }
+}

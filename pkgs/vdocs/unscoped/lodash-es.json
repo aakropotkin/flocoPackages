@@ -1,0 +1,40 @@
+{
+  "name": "lodash-es",
+  "version": "4.17.21",
+  "description": "Lodash exported as ES modules.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "jsnext:main": "lodash.js",
+  "main": "lodash.js",
+  "module": "lodash.js",
+  "sideEffects": false,
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash-archive/lodash-cli for testing details.\""
+  },
+  "gitHead": "11eb817cdfacf56c02d7005cbe520ffbeb0fe59a",
+  "_id": "lodash-es@4.17.21",
+  "_nodeVersion": "14.15.5",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==",
+    "tarball": "https://registry.npmjs.org/lodash-es/-/lodash-es-4.17.21.tgz"
+  },
+  "directories": {},
+  "ident": "lodash-es",
+  "key": "lodash-es/4.17.21",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash-es",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-2l4E89z3xMFn6MP9E0rVVNFWnB1oUINVGzno0F9CL3g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash-es/-/lodash-es-4.17.21.tgz"
+  }
+}

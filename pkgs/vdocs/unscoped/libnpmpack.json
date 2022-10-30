@@ -1,0 +1,70 @@
+{
+  "name": "libnpmpack",
+  "version": "5.0.1",
+  "description": "Programmatic API for the bits behind npm pack",
+  "main": "lib/index.js",
+  "license": "ISC",
+  "scripts": {
+    "lint": "eslint \"**/*.js\"",
+    "test": "tap",
+    "posttest": "node ../.. run lint",
+    "postlint": "template-oss-check",
+    "lintfix": "node ../.. run lint -- --fix",
+    "snap": "tap",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.6.2",
+    "nock": "^13.0.7",
+    "spawk": "^1.7.1",
+    "tap": "^16.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/cli.git",
+    "directory": "workspaces/libnpmpack"
+  },
+  "dependencies": {
+    "@npmcli/arborist": "^6.1.0",
+    "@npmcli/run-script": "^5.0.0",
+    "npm-package-arg": "^10.0.0",
+    "pacote": "^15.0.2"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.6.2",
+    "content": "../../scripts/template-oss/index.js"
+  },
+  "tap": {
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "903a31c4674f3b3318f83bd46d289e85bcdc67ea",
+  "_id": "libnpmpack@5.0.1",
+  "_nodeVersion": "16.16.0",
+  "_npmVersion": "9.0.1",
+  "dist": {
+    "integrity": "sha512-/VChUTLa3E13bpL+TT4KhJbBWRsT5djNzPK6GuiXSk+LVt4ZygyYvqjYR9k7itONE3kQyaeQR941Yc0w7jhrXA==",
+    "tarball": "https://registry.npmjs.org/libnpmpack/-/libnpmpack-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "libnpmpack",
+  "key": "libnpmpack/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "libnpmpack",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-OMmfDPLFUpnBxAZ0cOuMuP5NOZajcr7f1AknGKTJ8S0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/libnpmpack/-/libnpmpack-5.0.1.tgz"
+  }
+}

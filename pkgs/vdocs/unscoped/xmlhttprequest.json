@@ -1,0 +1,42 @@
+{
+  "name": "xmlhttprequest",
+  "description": "XMLHttpRequest for Node",
+  "version": "1.8.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/driverdan/node-XMLHttpRequest.git"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "directories": {
+    "lib": "./lib",
+    "example": "./example"
+  },
+  "main": "./lib/XMLHttpRequest.js",
+  "gitHead": "86ff70effb6dd529b34650242b9e3b1f0b8b6e86",
+  "_id": "xmlhttprequest@1.8.0",
+  "scripts": {},
+  "_shasum": "67fe075c5c24fef39f9d65f5f7b7fe75171968fc",
+  "_from": ".",
+  "_npmVersion": "2.7.5",
+  "_nodeVersion": "0.12.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz",
+    "integrity": "sha512-58Im/U0mlVBLM38NdZjHyhuMtCqa61469k2YP/AaPbvCoV9aQGUpbJBj1QRm2ytRiVQBD/fsw7L2bJGDVQswBA=="
+  },
+  "ident": "xmlhttprequest",
+  "key": "xmlhttprequest/1.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "xmlhttprequest",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JbPyJcKuOloQxr87RXrEx2tZgKjXfUVaTUu0PTdJAk0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz"
+  }
+}

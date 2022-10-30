@@ -1,0 +1,43 @@
+{
+  "name": "rw",
+  "version": "1.3.3",
+  "description": "Now stdin and stdout are files.",
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mbostock/rw.git"
+  },
+  "scripts": {
+    "test": "test/run-tests && eslint index.js lib",
+    "prepublish": "npm test",
+    "postpublish": "git push && git push --tags"
+  },
+  "devDependencies": {
+    "d3-queue": "3",
+    "eslint": "3"
+  },
+  "gitHead": "59819802cb6718a44aad42bb75ccb4f93f6efad5",
+  "_id": "rw@1.3.3",
+  "_shasum": "3f862dfa91ab766b14885ef4d01124bfda074fb4",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "7.3.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/rw/-/rw-1.3.3.tgz",
+    "integrity": "sha512-PdhdWy89SiZogBLaw42zdeqtRJ//zFd2PgQavcICDUgJT5oW10QCRKbJ6bg4r0/UY2M6BWd5tkxuGFRvCkgfHQ=="
+  },
+  "ident": "rw",
+  "key": "rw/1.3.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "rw",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BrX0OuyEXA2Ck5TMSOOwLKTtu6LPQKVfjmisYlnauWg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rw/-/rw-1.3.3.tgz"
+  }
+}

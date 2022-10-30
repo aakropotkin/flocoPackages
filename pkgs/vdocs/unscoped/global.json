@@ -1,0 +1,76 @@
+{
+  "name": "global",
+  "version": "4.4.0",
+  "description": "Require global variables",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Raynos/global.git"
+  },
+  "main": "window.js",
+  "browser": {
+    "min-document": false,
+    "individual": false
+  },
+  "dependencies": {
+    "min-document": "^2.19.0",
+    "process": "^0.11.10"
+  },
+  "devDependencies": {
+    "tape": "^2.12.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./test",
+    "build": "browserify test/index.js -o test/static/bundle.js",
+    "testem": "testem"
+  },
+  "testling": {
+    "files": "test/index.js",
+    "browsers": {
+      "ie": [
+        "8",
+        "9",
+        "10"
+      ],
+      "firefox": [
+        "16",
+        "17",
+        "nightly"
+      ],
+      "chrome": [
+        "22",
+        "23",
+        "canary"
+      ],
+      "opera": [
+        "12",
+        "next"
+      ],
+      "safari": [
+        "5.1"
+      ]
+    }
+  },
+  "gitHead": "91c4362aa2720f7c7a3a085707de7e04f5e77cf3",
+  "_id": "global@4.4.0",
+  "_nodeVersion": "10.15.3",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-wv/LAoHdRE3BeTGz53FAamhGlPLhlssK45usmGFThIi4XqnBmjKQ16u+RNbP7WvigRZDxUsM0J3gcQ5yicaL0w==",
+    "tarball": "https://registry.npmjs.org/global/-/global-4.4.0.tgz"
+  },
+  "directories": {},
+  "ident": "global",
+  "key": "global/4.4.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "global",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1Zg44p5v69SYCMUEH3VIuhuiXnGRD2AcbkpSgLw+qbQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/global/-/global-4.4.0.tgz"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "regenerate",
+  "version": "1.4.2",
+  "description": "Generate JavaScript-compatible regular expressions based on a given set of Unicode symbols or code points.",
+  "main": "regenerate.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasbynens/regenerate.git"
+  },
+  "scripts": {
+    "cover": "istanbul cover --report html --verbose --dir coverage tests/tests.js",
+    "test": "node tests/tests.js"
+  },
+  "devDependencies": {
+    "codecov": "^1.0.1",
+    "grunt": "^0.4.5",
+    "grunt-shell": "^1.1.1",
+    "istanbul": "^0.4.3",
+    "qunit-extras": "^1.1.0",
+    "qunitjs": "~1.11.0",
+    "requirejs": "^2.1.15"
+  },
+  "gitHead": "11567339f40fd262435934d544885bc047cb4220",
+  "_id": "regenerate@1.4.2",
+  "_nodeVersion": "14.15.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-zrceR/XhGYU/d/opr2EKO7aRHUeiBI8qjtfHqADTwZd6Szfy16la6kqD0MIUs5z5hx6AaKa+PixpPrR289+I0A==",
+    "tarball": "https://registry.npmjs.org/regenerate/-/regenerate-1.4.2.tgz"
+  },
+  "directories": {},
+  "ident": "regenerate",
+  "key": "regenerate/1.4.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "regenerate",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZgZUGEYcroWOiXCvijvT9WdroEySMRBn0hlbpB41i3g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/regenerate/-/regenerate-1.4.2.tgz"
+  }
+}

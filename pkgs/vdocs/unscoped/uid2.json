@@ -1,0 +1,42 @@
+{
+  "name": "uid2",
+  "description": "strong uid",
+  "tags": [
+    "uid"
+  ],
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreh/uid2.git"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "gitHead": "15bb82196282ae7462f48223e695dfffc60d1f80",
+  "_id": "uid2@1.0.0",
+  "_nodeVersion": "14.17.5",
+  "_npmVersion": "6.14.14",
+  "dist": {
+    "integrity": "sha512-+I6aJUv63YAcY9n4mQreLUt0d4lvwkkopDNmpomkAUz0fAkEMV9pRWxN0EjhW1YfRhcuyHg2v3mwddCDW1+LFQ==",
+    "tarball": "https://registry.npmjs.org/uid2/-/uid2-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "uid2",
+  "key": "uid2/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "uid2",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-rEBcHTPRyY0sqhHpWDnZXuLcotnyu1A31RzFG4J9JUY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/uid2/-/uid2-1.0.0.tgz"
+  }
+}

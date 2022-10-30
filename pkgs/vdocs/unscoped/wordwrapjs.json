@@ -1,0 +1,59 @@
+{
+  "name": "wordwrapjs",
+  "version": "5.1.0",
+  "description": "Word-wrapping for javascript.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/75lb/wordwrapjs.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "import": "./index.js",
+    "require": "./dist/index.cjs"
+  },
+  "engines": {
+    "node": ">=12.17"
+  },
+  "scripts": {
+    "test": "npm run dist && npm run test:ci",
+    "test:ci": "test-runner test/test.?js",
+    "docs": "jsdoc2md -t README.hbs index.js > README.md",
+    "dist": "rollup -c"
+  },
+  "devDependencies": {
+    "jsdoc-to-markdown": "^7.0.1",
+    "rollup": "^2.56.2",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "test-runner": "^0.9.8"
+  },
+  "standard": {
+    "ignore": [
+      "dist",
+      "tmp"
+    ],
+    "envs": []
+  },
+  "gitHead": "a56f25b228eb7bece43a8174d5574fde4bb353ff",
+  "_id": "wordwrapjs@5.1.0",
+  "_nodeVersion": "16.6.2",
+  "_npmVersion": "7.20.6",
+  "dist": {
+    "integrity": "sha512-JNjcULU2e4KJwUNv6CHgI46UvDGitb6dGryHajXTDiLgg1/RiGoPSDw4kZfYnwGtEXf2ZMeIewDQgFGzkCB2Sg==",
+    "tarball": "https://registry.npmjs.org/wordwrapjs/-/wordwrapjs-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "wordwrapjs",
+  "key": "wordwrapjs/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "wordwrapjs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qBqiWhHJfuphgTse/3VHCg5vuaGpWnAk/Ee+luXHrYY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/wordwrapjs/-/wordwrapjs-5.1.0.tgz"
+  }
+}

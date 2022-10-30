@@ -1,0 +1,64 @@
+{
+  "name": "camelcase-keys",
+  "version": "8.0.2",
+  "description": "Convert object keys to camel case",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/camelcase-keys.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd",
+    "bench": "matcha bench/bench.js"
+  },
+  "dependencies": {
+    "camelcase": "^7.0.0",
+    "map-obj": "^4.3.0",
+    "quick-lru": "^6.1.1",
+    "type-fest": "^2.13.0"
+  },
+  "devDependencies": {
+    "ava": "^4.3.0",
+    "matcha": "^0.7.0",
+    "tsd": "^0.23.0",
+    "xo": "^0.49.0"
+  },
+  "xo": {
+    "overrides": [
+      {
+        "files": "bench/bench.js",
+        "rules": {
+          "import/no-unresolved": "off"
+        }
+      }
+    ]
+  },
+  "gitHead": "015d7901a509642a6fda41d6bae56e7c06793a7c",
+  "_id": "camelcase-keys@8.0.2",
+  "_nodeVersion": "14.19.3",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-qMKdlOfsjlezMqxkUGGMaWWs17i2HoL15tM+wtx8ld4nLrUwU58TFdvyGOz/piNP842KeO8yXvggVQSdQ828NA==",
+    "tarball": "https://registry.npmjs.org/camelcase-keys/-/camelcase-keys-8.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "camelcase-keys",
+  "key": "camelcase-keys/8.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "camelcase-keys",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BxUUbBNqYXXOZjTHYwO4kmB2DmZArosXBWZY8fys9/A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelcase-keys/-/camelcase-keys-8.0.2.tgz"
+  }
+}

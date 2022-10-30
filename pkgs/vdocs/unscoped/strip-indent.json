@@ -1,0 +1,48 @@
+{
+  "name": "strip-indent",
+  "version": "4.0.0",
+  "description": "Strip leading whitespace from each line in a string",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/strip-indent.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "min-indent": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.39.1"
+  },
+  "gitHead": "10584084ff795abfb7b3ae1862d554eaaebb9696",
+  "_id": "strip-indent@4.0.0",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-mnVSV2l+Zv6BLpSD/8V87CW/y9EmmbYzGCIavsnsI6/nwn26DwffM/yztm30Z/I2DY9wdS3vXVCMnHDgZaVNoA==",
+    "tarball": "https://registry.npmjs.org/strip-indent/-/strip-indent-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "strip-indent",
+  "key": "strip-indent/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "strip-indent",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-U1I3PgEkue5Z41hbMaeIjKIfCfH1mWK0YYIN3U1KDo8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strip-indent/-/strip-indent-4.0.0.tgz"
+  }
+}

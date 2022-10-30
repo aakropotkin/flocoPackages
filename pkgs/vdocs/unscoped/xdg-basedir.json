@@ -1,0 +1,49 @@
+{
+  "name": "xdg-basedir",
+  "version": "5.1.0",
+  "description": "Get XDG Base Directory paths",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/xdg-basedir.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "import-fresh": "^3.0.0",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "ava": {
+    "serial": true
+  },
+  "gitHead": "8cceade858e4da18cb971bf1844f086e9e213563",
+  "_id": "xdg-basedir@5.1.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-GCPAHLvrIH13+c0SuacwvRYj2SxJXQ4kaVTT5xgL3kPrz56XxkF21IGhjSE1+W0aw7gpBWRGXLCPnPby6lSpmQ==",
+    "tarball": "https://registry.npmjs.org/xdg-basedir/-/xdg-basedir-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "xdg-basedir",
+  "key": "xdg-basedir/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "xdg-basedir",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-wRN63TWzwlBLMl9xUXZuuhhNKbLbWVtz+RBSbt0uK4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xdg-basedir/-/xdg-basedir-5.1.0.tgz"
+  }
+}

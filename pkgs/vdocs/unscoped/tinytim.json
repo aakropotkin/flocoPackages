@@ -1,0 +1,41 @@
+{
+  "name": "tinytim",
+  "description": "Node.js port of tinytim (A tiny, secure JavaScript micro-templating script)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baryon/node-tinytim"
+  },
+  "version": "0.1.1",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.20.x"
+  },
+  "main": "./lib/index",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "engines": {
+    "node": ">= 0.2.0"
+  },
+  "_id": "tinytim@0.1.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/tinytim/-/tinytim-0.1.1.tgz",
+    "integrity": "sha512-NIpsp9lBIxPNzB++HnMmUd4byzJSVbbO4F+As1Gb1IG/YQT5QvmBDjpx8SpDS8fhGC+t+Qw8ldQgbcAIaU+2cA=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.3.21",
+  "ident": "tinytim",
+  "key": "tinytim/0.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "tinytim",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-F0hmrdNm434LzHL9XfCvi8YoCzdRp7/yOyGjZN93Ep8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tinytim/-/tinytim-0.1.1.tgz"
+  }
+}

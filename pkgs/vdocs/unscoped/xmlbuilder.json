@@ -1,0 +1,63 @@
+{
+  "name": "xmlbuilder",
+  "version": "15.1.1",
+  "description": "An XML builder for node.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oozcitak/xmlbuilder-js.git"
+  },
+  "main": "./lib/index",
+  "typings": "./typings/index.d.ts",
+  "engines": {
+    "node": ">=8.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-coverage": "*",
+    "coffeescript": "2.4.1",
+    "coveralls": "*",
+    "istanbul": "*",
+    "mocha": "*",
+    "nyc": "*",
+    "xpath": "*",
+    "git-state": "*"
+  },
+  "mocha": {
+    "require": [
+      "coffeescript/register",
+      "coffee-coverage/register-istanbul",
+      "test/common.coffee"
+    ],
+    "recursive": true,
+    "ui": "tdd",
+    "reporter": "dot"
+  },
+  "scripts": {
+    "prepublishOnly": "coffee -co lib src",
+    "test": "nyc mocha \"test/**/*.coffee\"",
+    "perf": "coffee ./perf/index.coffee"
+  },
+  "gitHead": "e4ddc615b3668c63c63e627fb1b6fc078d586ba3",
+  "_id": "xmlbuilder@15.1.1",
+  "_nodeVersion": "12.15.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-yMqGBqtXyeN1e3TGYvgNgDVZ3j84W4cwkOXQswghol6APgZWaff9lnbvN7MHYJOiXsvGPXtjTYJEiC9J2wv9Eg==",
+    "tarball": "https://registry.npmjs.org/xmlbuilder/-/xmlbuilder-15.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "xmlbuilder",
+  "key": "xmlbuilder/15.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "xmlbuilder",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5pDgZDKCaFLr5t2TUWHr/1ZwBeQ+37m0symV2pupzeg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xmlbuilder/-/xmlbuilder-15.1.1.tgz"
+  }
+}

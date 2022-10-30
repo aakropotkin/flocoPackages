@@ -1,0 +1,37 @@
+{
+  "name": "path-platform",
+  "version": "0.11.15",
+  "license": "MIT",
+  "description": "Provide access to win32 and posix path operations; sourced directly from upstream Node.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/tjfontaine/node-path-platform.git"
+  },
+  "main": "path.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "gitHead": "901e4d8a69ed3906bbbec5f65e9b7eec6d033474",
+  "_id": "path-platform@0.11.15",
+  "scripts": {},
+  "_shasum": "e864217f74c36850f0852b78dc7bf7d4a5721bf2",
+  "_from": ".",
+  "_npmVersion": "1.4.28",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/path-platform/-/path-platform-0.11.15.tgz",
+    "integrity": "sha512-Y30dB6rab1A/nfEKsZxmr01nUotHX0c/ZiIAsCTatEe1CmS5Pm5He7fZ195bPT7RdquoaL8lLxFCMQi/bS7IJg=="
+  },
+  "ident": "path-platform",
+  "key": "path-platform/0.11.15",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "path-platform",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PnOZ0bhHZ88jgz3Jdh+m+ajcpKL6iuu6ucqCV5uobkE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/path-platform/-/path-platform-0.11.15.tgz"
+  }
+}

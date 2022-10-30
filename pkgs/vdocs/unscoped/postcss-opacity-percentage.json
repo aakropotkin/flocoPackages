@@ -1,0 +1,59 @@
+{
+  "name": "postcss-opacity-percentage",
+  "version": "1.1.2",
+  "description": "PostCSS plugin to transform percentage-based opacity values to more compatible floating-point values.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcgrtz/postcss-opacity-percentage.git"
+  },
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "index.js",
+  "scripts": {
+    "format": "xo --fix",
+    "test": "xo && c8 ava",
+    "coverage": "c8 report --reporter=lcov",
+    "publish": "clean-publish"
+  },
+  "devDependencies": {
+    "ava": "^4.0.1",
+    "c8": "^7.10.0",
+    "clean-publish": "^4.0.0",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.0.2",
+    "postcss": "^8.4.5",
+    "xo": "^0.47.0"
+  },
+  "lint-staged": {
+    "*.js": "xo --fix"
+  },
+  "xo": {
+    "rules": {
+      "unicorn/prefer-module": "off"
+    }
+  },
+  "gitHead": "c25a3862c8d4eb968dd86f69af56a6dea53607c0",
+  "_id": "postcss-opacity-percentage@1.1.2",
+  "_nodeVersion": "17.3.0",
+  "_npmVersion": "8.4.0",
+  "dist": {
+    "integrity": "sha512-lyUfF7miG+yewZ8EAk9XUBIlrHyUE6fijnesuz+Mj5zrIHIEw6KcIZSOk/elVMqzLvREmXB83Zi/5QpNRYd47w==",
+    "tarball": "https://registry.npmjs.org/postcss-opacity-percentage/-/postcss-opacity-percentage-1.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-opacity-percentage",
+  "key": "postcss-opacity-percentage/1.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-opacity-percentage",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MVzd4QcrFfwj9U6jgyef5rmz4TiGab/Aqkrh+VUOBoY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-opacity-percentage/-/postcss-opacity-percentage-1.1.2.tgz"
+  }
+}

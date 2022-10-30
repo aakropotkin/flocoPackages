@@ -1,0 +1,78 @@
+{
+  "name": "ember-rfc176-data",
+  "version": "0.3.17",
+  "description": "JSON data for Ember.js RFC #176",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ember-cli/ember-rfc176-data.git"
+  },
+  "license": "MIT",
+  "main": "mappings.json",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "eslint": "^7.21.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-jest": "^23.20.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "got": "^11.8.2",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1",
+    "release-it": "^14.4.1",
+    "release-it-lerna-changelog": "^2.4.0"
+  },
+  "changelog": {
+    "repo": "ember-cli/ember-rfc176-data",
+    "labels": {
+      "breaking": ":boom: Breaking Change",
+      "enhancement": ":rocket: Enhancement",
+      "bug": ":bug: Bug Fix",
+      "documentation": ":memo: Documentation",
+      "internal": ":house: Internal"
+    }
+  },
+  "release-it": {
+    "hooks": {
+      "after:bump": "node scripts/update-readme.js"
+    },
+    "plugins": {
+      "release-it-lerna-changelog": {
+        "infile": "CHANGELOG.md",
+        "launchEditor": true
+      }
+    },
+    "git": {
+      "tagName": "v${version}"
+    },
+    "github": {
+      "release": true,
+      "tokenRef": "GITHUB_AUTH"
+    }
+  },
+  "gitHead": "d1498e5aa2eae6fa201f24f9a8be1c607b6b3e07",
+  "_id": "ember-rfc176-data@0.3.17",
+  "_nodeVersion": "14.16.0",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-EVzTTKqxv9FZbEh6Ktw56YyWRAA0MijKvl7H8C06wVF+8f/cRRz3dXxa4nkwjzyVwx4rzKGuIGq77hxJAQhWWw==",
+    "tarball": "https://registry.npmjs.org/ember-rfc176-data/-/ember-rfc176-data-0.3.17.tgz"
+  },
+  "directories": {},
+  "ident": "ember-rfc176-data",
+  "key": "ember-rfc176-data/0.3.17",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ember-rfc176-data",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ctWjKMGiCejlSCYO+CY5RiIpO4ssfca+k/NV4G0zpI0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ember-rfc176-data/-/ember-rfc176-data-0.3.17.tgz"
+  }
+}

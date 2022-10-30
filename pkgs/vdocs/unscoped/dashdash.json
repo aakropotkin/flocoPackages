@@ -1,0 +1,52 @@
+{
+  "name": "dashdash",
+  "description": "A light, featureful and explicit option parsing library.",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trentm/node-dashdash.git"
+  },
+  "main": "./lib/dashdash.js",
+  "dependencies": {
+    "assert-plus": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5",
+    "tap": "^14.x"
+  },
+  "engines": {
+    "node": ">=10.x"
+  },
+  "scripts": {
+    "test": "tap test/*.test.js",
+    "check": "eslint lib test",
+    "lint": "eslint --rule 'prettier/prettier: off' lib test",
+    "fmt": "eslint --fix lib test"
+  },
+  "license": "MIT",
+  "gitHead": "3cc3b7edd4ea11c8eddc6f1a9d2983b2184f7fb6",
+  "_id": "dashdash@2.0.0",
+  "_nodeVersion": "10.20.1",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-ElMoAPlrzmF4l0OscF5pPBZv8LhUJBnwh7rHKllUOrwabAr47R1aQIIwC53rc59ycCb7k5Sj1/es+A3Bep/x5w==",
+    "tarball": "https://registry.npmjs.org/dashdash/-/dashdash-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "dashdash",
+  "key": "dashdash/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dashdash",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZaNwb4gGwY6zg5EK8qI5p6F5EneVZuUhSEPVJSYToIQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dashdash/-/dashdash-2.0.0.tgz"
+  }
+}

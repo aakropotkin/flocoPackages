@@ -1,0 +1,47 @@
+{
+  "name": "spdx-correct",
+  "description": "correct invalid SPDX expressions",
+  "version": "3.1.1",
+  "dependencies": {
+    "spdx-expression-parse": "^3.0.0",
+    "spdx-license-ids": "^3.0.0"
+  },
+  "devDependencies": {
+    "defence-cli": "^2.0.1",
+    "replace-require-self": "^1.0.0",
+    "standard": "^11.0.0",
+    "standard-markdown": "^4.0.2",
+    "tape": "^4.9.0"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jslicense/spdx-correct.js.git"
+  },
+  "scripts": {
+    "lint": "standard && standard-markdown README.md",
+    "test": "defence README.md | replace-require-self | node && node test.js"
+  },
+  "gitHead": "24954c75aba5ace68365345154ff21bcd3580302",
+  "_id": "spdx-correct@3.1.1",
+  "_nodeVersion": "12.13.1",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-cOYcUWwhCuHCXi49RhFRCyJEK3iPj1Ziz9DpViV3tbZOwXD49QzIN3MpOLJNxh2qwq2lJJZaKMVw9qNi4jTC0w==",
+    "tarball": "https://registry.npmjs.org/spdx-correct/-/spdx-correct-3.1.1.tgz"
+  },
+  "directories": {},
+  "ident": "spdx-correct",
+  "key": "spdx-correct/3.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "spdx-correct",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-LRoJS+j5IDHTdE7dudfp5OB6pzaztCGOpJnlR5UzShI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/spdx-correct/-/spdx-correct-3.1.1.tgz"
+  }
+}

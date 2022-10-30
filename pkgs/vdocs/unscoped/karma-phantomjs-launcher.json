@@ -1,0 +1,62 @@
+{
+  "name": "karma-phantomjs-launcher",
+  "version": "1.0.4",
+  "description": "A Karma plugin. Launcher for PhantomJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/karma-runner/karma-phantomjs-launcher.git"
+  },
+  "dependencies": {
+    "lodash": "^4.0.1",
+    "phantomjs-prebuilt": "^2.1.7"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^1.0.0",
+    "eslint-config-standard": "^4.0.0",
+    "eslint-plugin-react": "^3.2.0",
+    "eslint-plugin-standard": "^1.3.1",
+    "grunt": "~0.4.1",
+    "grunt-auto-release": "~0.0.2",
+    "grunt-bump": "~0.3.1",
+    "grunt-conventional-changelog": "^1.2.2",
+    "grunt-eslint": "^17.0.0",
+    "grunt-karma": "1.x || ^0.12.1",
+    "grunt-npm": "~0.0.2",
+    "jasmine-core": "^2.3.4",
+    "karma": "1.x || ^0.13.6",
+    "karma-jasmine": "1.x || ^0.3.5",
+    "load-grunt-tasks": "^3.2.0"
+  },
+  "gitHead": "eb0ca03d1938ed7b18da572284d3d52e2c1b70c9",
+  "_id": "karma-phantomjs-launcher@1.0.4",
+  "_shasum": "d23ca34801bda9863ad318e3bb4bd4062b13acd2",
+  "_from": ".",
+  "_npmVersion": "4.3.0",
+  "_nodeVersion": "7.2.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/karma-phantomjs-launcher/-/karma-phantomjs-launcher-1.0.4.tgz",
+    "integrity": "sha512-tf4P3plsE7wb5Pqh8GJ6RnElxfI/UM4MtVnjbSIZFpdFJlKnjRzfIx8MLCcSYJBwZ1+qSKFz4uBe3XNoq2t3KA=="
+  },
+  "directories": {},
+  "ident": "karma-phantomjs-launcher",
+  "key": "karma-phantomjs-launcher/1.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "karma-phantomjs-launcher",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-m8WU3jOzUyploDt6gOGZF3yKeQMnotj1+4ypCEfZL6c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma-phantomjs-launcher/-/karma-phantomjs-launcher-1.0.4.tgz"
+  }
+}

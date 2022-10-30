@@ -1,0 +1,67 @@
+{
+  "name": "loglevel",
+  "description": "Minimal lightweight logging for JavaScript, adding reliable log level methods to any available console.log methods",
+  "version": "1.8.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pimterry/loglevel.git"
+  },
+  "license": "MIT",
+  "main": "lib/loglevel.js",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test && tsc --noEmit ./test/type-test.ts",
+    "ci": "grunt ci",
+    "dist": "grunt dist",
+    "watch": "grunt watch"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/core-js": "2.5.0",
+    "@types/node": "^12.0.4",
+    "grunt": "~0.4.5",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-connect": "~0.8.0",
+    "grunt-contrib-jasmine": "~0.5.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-qunit": "~0.5.2",
+    "grunt-contrib-uglify": "~0.5.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-coveralls": "^1.0.0",
+    "grunt-jasmine-node": "~0.2.1",
+    "grunt-open": "~0.2.3",
+    "grunt-preprocess": "^4.0.0",
+    "grunt-saucelabs": "^8.2.0",
+    "grunt-template-jasmine-istanbul": "~0.2.5",
+    "grunt-template-jasmine-requirejs": "~0.1.6",
+    "qunitjs": "1.14.0",
+    "typescript": "^3.5.1"
+  },
+  "gitHead": "f5a642299bf77a81118d68766a168c9568ecd21b",
+  "_id": "loglevel@1.8.0",
+  "_nodeVersion": "8.17.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-G6A/nJLRgWOuuwdNuA6koovfEV1YpqqAG4pRUlFaz3jj2QNZ8M4vBqnVA+HBTmU/AMNUtlOsMmSpF6NyOjztbA==",
+    "tarball": "https://registry.npmjs.org/loglevel/-/loglevel-1.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "loglevel",
+  "key": "loglevel/1.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "loglevel",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-AYlCAOwhgWgvO3K7e7ARfoB/mtJyeW8ZG+RVfYKHCso=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/loglevel/-/loglevel-1.8.0.tgz"
+  }
+}

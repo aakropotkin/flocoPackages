@@ -1,0 +1,36 @@
+{
+  "name": "lodash.throttle",
+  "version": "4.1.1",
+  "description": "The lodash method `_.throttle` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.throttle@4.1.1",
+  "_shasum": "c23e91b710242ac70c37f1e1cda9274cc39bf2f4",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.throttle/-/lodash.throttle-4.1.1.tgz",
+    "integrity": "sha512-wIkUCfVKpVsWo3JSZlc+8MB5it+2AN5W8J7YVMST30UrvcQNZ1Okbj+rbVniijTWE6FGYy4XJq/rHkas8qJMLQ=="
+  },
+  "directories": {},
+  "ident": "lodash.throttle",
+  "key": "lodash.throttle/4.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.throttle",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-YLJxG119m1fx734QmWkFFGwl2uC510teTTC2E7/fvq4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.throttle/-/lodash.throttle-4.1.1.tgz"
+  }
+}

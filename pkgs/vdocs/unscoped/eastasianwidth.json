@@ -1,0 +1,41 @@
+{
+  "name": "eastasianwidth",
+  "version": "0.2.0",
+  "description": "Get East Asian Width from a character.",
+  "main": "eastasianwidth.js",
+  "files": [
+    "eastasianwidth.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/komagata/eastasianwidth.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "gitHead": "b89f04d44dc786885615e94cd6e2ba1ef7866fa4",
+  "_id": "eastasianwidth@0.2.0",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "8.9.1",
+  "dist": {
+    "integrity": "sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==",
+    "tarball": "https://registry.npmjs.org/eastasianwidth/-/eastasianwidth-0.2.0.tgz"
+  },
+  "ident": "eastasianwidth",
+  "key": "eastasianwidth/0.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "eastasianwidth",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-K8RhT0DtdMLA9mogEkPPCsbmgp4ge3vui9UWWrjY32Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eastasianwidth/-/eastasianwidth-0.2.0.tgz"
+  }
+}

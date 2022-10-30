@@ -1,0 +1,69 @@
+{
+  "name": "before-after-hook",
+  "type": "module",
+  "version": "3.0.2",
+  "description": "asynchronous before/error/after hooks for internal functionality",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "npm run test:code && npm run test:tsc && npm run test:tsd && npm run lint",
+    "test:code": "c8 --100 ava test/*.test.js",
+    "test:tsc": "tsc --allowJs --noEmit --esModuleInterop --skipLibCheck --lib es2020 index.js",
+    "test:tsd": "tsd",
+    "lint": "prettier --check \"*.{js,json,ts,md}\" \".github/**/*.yml\"",
+    "lint:fix": "prettier --write \"*.{js,json,ts,md}\" \".github/**/*.yml\"",
+    "coverage": "c8 report --reporter html",
+    "postcoverage": "open-cli coverage/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr2m/before-after-hook.git"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "ava": "^4.3.3",
+    "c8": "^7.12.0",
+    "prettier": "^2.0.0",
+    "sinon": "^14.0.1",
+    "tsd": "^0.24.1",
+    "typescript": "^4.8.4"
+  },
+  "release": {
+    "branches": [
+      "+([0-9]).x",
+      "main",
+      "next",
+      {
+        "name": "beta",
+        "prerelease": true
+      }
+    ]
+  },
+  "renovate": {
+    "extends": [
+      "github>gr2m/.github"
+    ]
+  },
+  "gitHead": "42497f5727952ea7d789d40b6b20d0b3bd0cda86",
+  "_id": "before-after-hook@3.0.2",
+  "_nodeVersion": "16.17.1",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-Nik3Sc0ncrMK4UUdXQmAnRtzmNQTAAXmXIopizwZ1W1t8QmfJj+zL4OA2I7XPTPW5z5TDqv4hRo/JzouDJnX3A==",
+    "tarball": "https://registry.npmjs.org/before-after-hook/-/before-after-hook-3.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "before-after-hook",
+  "key": "before-after-hook/3.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "before-after-hook",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ssgEIJP8X8qWXmLhDUq/VeNfBPGeY6oS9oumDUFm6uY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/before-after-hook/-/before-after-hook-3.0.2.tgz"
+  }
+}

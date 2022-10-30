@@ -1,0 +1,56 @@
+{
+  "name": "portscanner",
+  "description": "Asynchronous port scanner for Node.js",
+  "scripts": {
+    "coverage": "nyc npm run test",
+    "test": "ava",
+    "lint": "standard"
+  },
+  "version": "2.2.0",
+  "preferGlobal": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/baalexander/node-portscanner.git"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/portscanner.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "is-number-like": "^1.0.3"
+  },
+  "devDependencies": {
+    "ava": "^0.4.2",
+    "nyc": "^11.3.0",
+    "eslint": "^3.10.2",
+    "eslint-config-standard": "^6.2.1",
+    "standard": "^8.5.0"
+  },
+  "engines": {
+    "node": ">=0.4",
+    "npm": ">=1.0.0"
+  },
+  "license": "MIT",
+  "gitHead": "692d7c9b9b9e68cadc9b72ac49d66d00e769e7e0",
+  "_id": "portscanner@2.2.0",
+  "_npmVersion": "6.0.0",
+  "_nodeVersion": "10.0.0",
+  "dist": {
+    "integrity": "sha512-IFroCz/59Lqa2uBvzK3bKDbDDIEaAY8XJ1jFxcLWTqosrsc32//P4VuSB2vZXoHiHqOmx8B5L5hnKOxL/7FlPw==",
+    "tarball": "https://registry.npmjs.org/portscanner/-/portscanner-2.2.0.tgz"
+  },
+  "ident": "portscanner",
+  "key": "portscanner/2.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "portscanner",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-IN2MK47FMsWKvaX9NA22xtYKLrodkvjLA3GoXIWghEc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/portscanner/-/portscanner-2.2.0.tgz"
+  }
+}

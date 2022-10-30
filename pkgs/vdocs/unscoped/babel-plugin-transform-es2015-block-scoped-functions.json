@@ -1,0 +1,41 @@
+{
+  "name": "babel-plugin-transform-es2015-block-scoped-functions",
+  "version": "6.22.0",
+  "description": "Babel plugin to ensure function declarations at the block level are block scoped",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoped-functions"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-runtime": "^6.22.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.22.0"
+  },
+  "_id": "babel-plugin-transform-es2015-block-scoped-functions@6.22.0",
+  "scripts": {},
+  "_shasum": "bbc51b49f964d70cb8d8e0b94e820246ce3a6141",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.22.0.tgz",
+    "integrity": "sha512-2+ujAT2UMBzYFm7tidUsYh+ZoIutxJ3pN9IYrF1/H6dCKtECfhmB8UkHVpyxDwkj0CYbQG35ykoz925TUnBc3A=="
+  },
+  "directories": {},
+  "ident": "babel-plugin-transform-es2015-block-scoped-functions",
+  "key": "babel-plugin-transform-es2015-block-scoped-functions/6.22.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-transform-es2015-block-scoped-functions",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gQVz0Ba1bXWGA/ihuIdmnBpMBxIflJgy0WzOf3v0D9E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.22.0.tgz"
+  }
+}

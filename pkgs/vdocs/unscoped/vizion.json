@@ -1,0 +1,54 @@
+{
+  "name": "vizion",
+  "version": "2.2.1",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "description": "Git/Subversion/Mercurial repository metadata parser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keymetrics/vizion.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "cover": "nyc --reporter=html npm test",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "async": "^2.6.3",
+    "git-node-fs": "^1.0.0",
+    "ini": "^1.3.5",
+    "js-git": "^0.7.8"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "^6.0.0",
+    "nyc": "~15",
+    "shelljs": "~0.8.4",
+    "should": "~13.2.3",
+    "sinon": "~9.2.4"
+  },
+  "license": "Apache-2.0",
+  "gitHead": "4d587b439e27b9ff06a5989db0e80099916b78fd",
+  "_id": "vizion@2.2.1",
+  "_nodeVersion": "15.4.0",
+  "_npmVersion": "7.0.15",
+  "dist": {
+    "integrity": "sha512-sfAcO2yeSU0CSPFI/DmZp3FsFE9T+8913nv1xWBOyzODv13fwkn6Vl7HqxGpkr9F608M+8SuFId3s+BlZqfXww==",
+    "tarball": "https://registry.npmjs.org/vizion/-/vizion-2.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "vizion",
+  "key": "vizion/2.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "vizion",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-G70Z4N8pQw7xFBOeEWqIS8zyuZy1jl5q6HlFFSnoG2Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vizion/-/vizion-2.2.1.tgz"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "babel-helper-regex",
+  "version": "6.26.0",
+  "description": "Helper function to check for literal RegEx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-helper-regex"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "lodash": "^4.17.4"
+  },
+  "_id": "babel-helper-regex@6.26.0",
+  "scripts": {},
+  "_shasum": "325c59f902f82f24b74faceed0363954f6495e72",
+  "_from": ".",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-helper-regex/-/babel-helper-regex-6.26.0.tgz",
+    "integrity": "sha512-VlPiWmqmGJp0x0oK27Out1D+71nVVCTSdlbhIVoaBAj2lUgrNjBCRR9+llO4lTSb2O4r7PJg+RobRkhBrf6ofg=="
+  },
+  "directories": {},
+  "ident": "babel-helper-regex",
+  "key": "babel-helper-regex/6.26.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-helper-regex",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gPJIOyFf1AZILPKMmoIdbGlPzFarRExS/xekBghgpn8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-helper-regex/-/babel-helper-regex-6.26.0.tgz"
+  }
+}

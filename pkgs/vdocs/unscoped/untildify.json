@@ -1,0 +1,44 @@
+{
+  "name": "untildify",
+  "version": "4.0.0",
+  "description": "Convert a tilde path to an absolute path: `~/dev` → `/Users/sindresorhus/dev`",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/untildify.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "rewire": "^4.0.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "gitHead": "65f6157c8716a122368c8be05a3ad71279196bf9",
+  "_id": "untildify@4.0.0",
+  "_nodeVersion": "10.15.3",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-KK8xQ1mkzZeg9inewmFVDNkg3l5LUhoq9kN6iWYB/CC9YMG8HA+c1Q8HwDe6dEX7kErrEVNVBO3fWsVq5iDgtw==",
+    "tarball": "https://registry.npmjs.org/untildify/-/untildify-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "untildify",
+  "key": "untildify/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "untildify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BUTJoKCtI9QKW5ntqWK9CfSZrjoJh+41L8ZpDIbbB9M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/untildify/-/untildify-4.0.0.tgz"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "style-mod",
+  "version": "4.0.0",
+  "description": "A minimal CSS module shim",
+  "main": "dist/style-mod.cjs",
+  "type": "module",
+  "exports": {
+    "import": "./src/style-mod.js",
+    "require": "./dist/style-mod.cjs"
+  },
+  "module": "src/style-mod.js",
+  "types": "src/style-mod.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run build && mocha test/test-*.js",
+    "build": "mkdir -p dist; buble --no modules src/style-mod.js | sed -e 's/export var StyleModule/var StyleModule = exports.StyleModule/' > dist/style-mod.cjs",
+    "prepare": "npm run build && npm run build-readme",
+    "build-readme": "builddocs --name style-mod --main src/README.md --format markdown src/*.js > README.md"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "buble": "^0.19.6",
+    "builddocs": "^0.3.2",
+    "ist": "^1.1.1",
+    "mocha": "^7.2.0"
+  },
+  "gitHead": "988b18d101b782dc47642761a87f1fb273d8e86a",
+  "_id": "style-mod@4.0.0",
+  "_nodeVersion": "15.5.0",
+  "_npmVersion": "7.5.3",
+  "dist": {
+    "integrity": "sha512-OPhtyEjyyN9x3nhPsu76f52yUGXiZcgvsrFVtvTkyGRQJ0XK+GPc6ov1z+lRpbeabka+MYEQxOYRnt5nF30aMw==",
+    "tarball": "https://registry.npmjs.org/style-mod/-/style-mod-4.0.0.tgz"
+  },
+  "ident": "style-mod",
+  "key": "style-mod/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "style-mod",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-nPo9Ssx7F1lCZ5VexdyitKPHcXP6QhpvosoqQ7cypTQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/style-mod/-/style-mod-4.0.0.tgz"
+  }
+}

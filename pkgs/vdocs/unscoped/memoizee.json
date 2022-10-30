@@ -1,0 +1,64 @@
+{
+  "name": "memoizee",
+  "version": "0.4.15",
+  "description": "Memoize/cache function results",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/memoizee.git"
+  },
+  "dependencies": {
+    "d": "^1.0.1",
+    "es5-ext": "^0.10.53",
+    "es6-weak-map": "^2.0.3",
+    "event-emitter": "^0.3.5",
+    "is-promise": "^2.2.2",
+    "lru-queue": "^0.1.0",
+    "next-tick": "^1.1.0",
+    "timers-ext": "^0.1.7"
+  },
+  "devDependencies": {
+    "bluebird": "^3.7.2",
+    "eslint": "^5.16.0",
+    "eslint-config-medikoo-es5": "^1.7.3",
+    "plain-promise": "^0.1.1",
+    "tad": "^2.0.1"
+  },
+  "eslintConfig": {
+    "extends": "medikoo-es5",
+    "root": true,
+    "globals": {
+      "setTimeout": true,
+      "clearTimeout": true
+    },
+    "rules": {
+      "max-lines-per-function": "off"
+    }
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path=.gitignore .",
+    "test": "tad"
+  },
+  "license": "ISC",
+  "gitHead": "cd7cc2738c183fd00f7e8bf5ba6a96935f2b3dab",
+  "_id": "memoizee@0.4.15",
+  "_nodeVersion": "15.5.1",
+  "_npmVersion": "7.3.0",
+  "dist": {
+    "integrity": "sha512-UBWmJpLZd5STPm7PMUlOw/TSy972M+z8gcyQ5veOnSDRREz/0bmpyTfKt3/51DhEBqCZQn1udM/5flcSPYhkdQ==",
+    "tarball": "https://registry.npmjs.org/memoizee/-/memoizee-0.4.15.tgz"
+  },
+  "directories": {},
+  "ident": "memoizee",
+  "key": "memoizee/0.4.15",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "memoizee",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-YCoVCYZn1GZc/TJIsKSavE4yJzbMe7mRHWV8bkMFKkI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memoizee/-/memoizee-0.4.15.tgz"
+  }
+}

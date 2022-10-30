@@ -1,0 +1,49 @@
+{
+  "name": "listr-silent-renderer",
+  "version": "1.1.1",
+  "description": "Supress Listr rendering output",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samverschueren/listr-silent-renderer.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "gitHead": "16c8dd8c76038ff84442f679d2d983b340afaedc",
+  "_id": "listr-silent-renderer@1.1.1",
+  "_shasum": "924b5a3757153770bf1a8e3fbf74b8bbf3f9242e",
+  "_from": ".",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/listr-silent-renderer/-/listr-silent-renderer-1.1.1.tgz",
+    "integrity": "sha512-L26cIFm7/oZeSNVhWB6faeorXhMg4HNlb/dS/7jHhr708jxlXrtrBWo4YUxZQkc6dGoxEAe6J/D3juTRBUzjtA=="
+  },
+  "ident": "listr-silent-renderer",
+  "key": "listr-silent-renderer/1.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "listr-silent-renderer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-g6A9tDuDVyfKXatqbhvkCgq14Co4D+SVbqSo3oPbCs4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/listr-silent-renderer/-/listr-silent-renderer-1.1.1.tgz"
+  }
+}

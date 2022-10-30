@@ -1,0 +1,48 @@
+{
+  "name": "clsx",
+  "version": "1.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeed/clsx.git"
+  },
+  "description": "A tiny (228B) utility for constructing className strings conditionally.",
+  "module": "dist/clsx.m.js",
+  "unpkg": "dist/clsx.min.js",
+  "main": "dist/clsx.js",
+  "types": "clsx.d.ts",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "build": "node bin",
+    "test": "uvu -r esm test"
+  },
+  "devDependencies": {
+    "esm": "3.2.25",
+    "terser": "4.8.0",
+    "uvu": "0.5.4"
+  },
+  "gitHead": "6da37d67472ea9eb177a4ea9a9fa2f3f4a3c445e",
+  "_id": "clsx@1.2.1",
+  "_nodeVersion": "18.3.0",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-EcR6r5a8bj6pu3ycsa/E/cKVGuTgZJZdsyUYHOksG/UHIiKfjxzRxYJpyVBwYaQeOvghal9fcc4PidlgzugAQg==",
+    "tarball": "https://registry.npmjs.org/clsx/-/clsx-1.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "clsx",
+  "key": "clsx/1.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "clsx",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WEAV9N4OVLHG5OXzZxDVM67DaLVxmuau4NW7rFTI20A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clsx/-/clsx-1.2.1.tgz"
+  }
+}

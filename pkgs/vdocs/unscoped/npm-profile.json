@@ -1,0 +1,66 @@
+{
+  "name": "npm-profile",
+  "version": "7.0.1",
+  "description": "Library for updating an npmjs.com profile",
+  "license": "ISC",
+  "dependencies": {
+    "npm-registry-fetch": "^14.0.0",
+    "proc-log": "^3.0.0"
+  },
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npm-profile.git"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.5.1",
+    "nock": "^13.2.4",
+    "tap": "^16.0.1"
+  },
+  "scripts": {
+    "posttest": "npm run lint",
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "lintfix": "npm run lint -- --fix",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "tap": {
+    "check-coverage": true,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "dd687acc49e74c179dba7743fd9f69f50b71629e",
+  "_id": "npm-profile@7.0.1",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-VReArOY/fCx5dWL66cbJ2OMogTQAVVQA//8jjmjkarboki3V7UJ0XbGFW+khRwiAJFQjuH0Bqr/yF7Y5RZdkMQ==",
+    "tarball": "https://registry.npmjs.org/npm-profile/-/npm-profile-7.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "npm-profile",
+  "key": "npm-profile/7.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "npm-profile",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-QmUU8MQ1NfJTGBIawcKzljHakIkOE32kC7ADd2LhbMA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/npm-profile/-/npm-profile-7.0.1.tgz"
+  }
+}

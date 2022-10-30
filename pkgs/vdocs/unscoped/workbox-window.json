@@ -1,0 +1,43 @@
+{
+  "name": "workbox-window",
+  "version": "6.5.4",
+  "license": "MIT",
+  "description": "Simplifies communications with Workbox packages running in the service worker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlechrome/workbox.git"
+  },
+  "workbox": {
+    "packageType": "window",
+    "primaryBuild": "build/workbox-window.prod.mjs"
+  },
+  "main": "build/workbox-window.prod.umd.js",
+  "module": "build/workbox-window.prod.es5.mjs",
+  "types": "index.d.ts",
+  "dependencies": {
+    "@types/trusted-types": "^2.0.2",
+    "workbox-core": "6.5.4"
+  },
+  "gitHead": "5e69c3f6a74ea0e6b1a0d3261a6cde11d8075859",
+  "_id": "workbox-window@6.5.4",
+  "_nodeVersion": "14.17.2",
+  "_npmVersion": "lerna/3.22.1/node@v14.17.2+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-HnLZJDwYBE+hpG25AQBO8RUWBJRaCsI9ksQJEp3aCOFCaG5kqaToAYXFRAHxzRluM2cQbGzdQF5rjKPWPA1fug==",
+    "tarball": "https://registry.npmjs.org/workbox-window/-/workbox-window-6.5.4.tgz"
+  },
+  "directories": {},
+  "ident": "workbox-window",
+  "key": "workbox-window/6.5.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "workbox-window",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Xn/i00eecyxN5ildQGrLv9ThS7BAUB8FhxhRxtmCSGI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/workbox-window/-/workbox-window-6.5.4.tgz"
+  }
+}

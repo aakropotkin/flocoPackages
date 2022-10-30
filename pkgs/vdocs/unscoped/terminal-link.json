@@ -1,0 +1,53 @@
+{
+  "name": "terminal-link",
+  "version": "3.0.0",
+  "description": "Create clickable links in the terminal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/terminal-link.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "//test": "xo && ava && tsd",
+    "test": "xo && tsd"
+  },
+  "dependencies": {
+    "ansi-escapes": "^5.0.0",
+    "supports-hyperlinks": "^2.2.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "ava": {
+    "serial": true
+  },
+  "gitHead": "a925ecd9f2e6975505d801b5e352a05a9ff5921a",
+  "_id": "terminal-link@3.0.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-flFL3m4wuixmf6IfhFJd1YPiLiMuxEc8uHRM1buzIeZPm22Au2pDqBJQgdo7n1WfPU1ONFGv7YDwpFBmHGF6lg==",
+    "tarball": "https://registry.npmjs.org/terminal-link/-/terminal-link-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "terminal-link",
+  "key": "terminal-link/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "terminal-link",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-fKde1ke+8G0whWbKQzXr7JG2W7iPPaZYMcCeayK1NgE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/terminal-link/-/terminal-link-3.0.0.tgz"
+  }
+}

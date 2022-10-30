@@ -1,0 +1,56 @@
+{
+  "name": "d3-path",
+  "version": "3.0.1",
+  "description": "Serialize Canvas path commands to SVG.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3/d3-path.git"
+  },
+  "license": "ISC",
+  "type": "module",
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-path.min.js",
+  "unpkg": "dist/d3-path.min.js",
+  "exports": {
+    "umd": "./dist/d3-path.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "eslint": "7",
+    "mocha": "8",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "6230b3c3952011ec917fcf5ba50c837051dc9b78",
+  "_id": "d3-path@3.0.1",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.12",
+  "dist": {
+    "integrity": "sha512-gq6gZom9AFZby0YLduxT1qmrp4xpBA1YZr19OI717WIdKE2OM5ETq5qrHLb301IgxhLwcuxvGZVLeeWc/k1I6w==",
+    "tarball": "https://registry.npmjs.org/d3-path/-/d3-path-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "d3-path",
+  "key": "d3-path/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "d3-path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-eS3EfdgVuxmVPjUtiqoNLVGqF4RCz8gThAXZuzBgE4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-path/-/d3-path-3.0.1.tgz"
+  }
+}

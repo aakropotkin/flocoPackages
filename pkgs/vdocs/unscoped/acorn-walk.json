@@ -1,0 +1,51 @@
+{
+  "name": "acorn-walk",
+  "description": "ECMAScript (ESTree) AST walker",
+  "main": "dist/walk.js",
+  "types": "dist/walk.d.ts",
+  "module": "dist/walk.mjs",
+  "exports": {
+    ".": [
+      {
+        "import": "./dist/walk.mjs",
+        "require": "./dist/walk.js",
+        "default": "./dist/walk.js"
+      },
+      "./dist/walk.js"
+    ],
+    "./package.json": "./package.json"
+  },
+  "version": "8.2.0",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acornjs/acorn.git"
+  },
+  "scripts": {
+    "prepare": "cd ..; npm run build:walk"
+  },
+  "license": "MIT",
+  "_id": "acorn-walk@8.2.0",
+  "_nodeVersion": "16.4.0",
+  "_npmVersion": "7.18.1",
+  "dist": {
+    "integrity": "sha512-k+iyHEuPgSw6SbuDpGQM+06HQUa04DZ3o+F6CSzXMvvI5KMvnaEqXe+YVe555R9nn6GPt404fos4wcgpw12SDA==",
+    "tarball": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "acorn-walk",
+  "key": "acorn-walk/8.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "acorn-walk",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-r0AD0ghO/QtrsmNIpAR8ZRPKo67l9fqf1Z5RSSgBImM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.2.0.tgz"
+  }
+}

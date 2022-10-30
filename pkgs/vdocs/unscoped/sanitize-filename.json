@@ -1,0 +1,49 @@
+{
+  "name": "sanitize-filename",
+  "version": "1.6.3",
+  "description": "Sanitize a string for use as a filename",
+  "license": "WTFPL OR ISC",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/parshap/node-sanitize-filename.git"
+  },
+  "scripts": {
+    "test": "tape test.js",
+    "test-browser": "airtap --local --open -- test.js",
+    "test-browser-sauce": "airtap -- test.js"
+  },
+  "dependencies": {
+    "truncate-utf8-bytes": "^1.0.0"
+  },
+  "devDependencies": {
+    "airtap": "^2.0.3",
+    "browserify": "^14.0.0",
+    "concat-stream": "^1.5.1",
+    "mktemp": "^0.4.0",
+    "tape": "^4.2.2"
+  },
+  "gitHead": "88bba56da0bad941ea5c8302983dc66af331c7e9",
+  "_id": "sanitize-filename@1.6.3",
+  "_npmVersion": "5.10.0",
+  "_nodeVersion": "10.0.0",
+  "dist": {
+    "integrity": "sha512-y/52Mcy7aw3gRm7IrcGDFx/bCk4AhRh2eI9luHOQM86nZsqwiRkkq2GekHXBBD+SmPidc8i2PqtYZl+pWJ8Oeg==",
+    "tarball": "https://registry.npmjs.org/sanitize-filename/-/sanitize-filename-1.6.3.tgz"
+  },
+  "directories": {},
+  "ident": "sanitize-filename",
+  "key": "sanitize-filename/1.6.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "sanitize-filename",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Mb8FSZuT3VavU3lSBzGUjuNhg0OkDE8uvTAKgmbCphQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sanitize-filename/-/sanitize-filename-1.6.3.tgz"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "mri",
+  "version": "1.2.0",
+  "description": "Quickly scan for CLI flags and arguments",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeed/mri.git"
+  },
+  "module": "lib/index.mjs",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "build": "bundt",
+    "bench": "node bench",
+    "pretest": "npm run build",
+    "test": "tape test/*.js | tap-spec"
+  },
+  "devDependencies": {
+    "bundt": "1.0.2",
+    "tap-spec": "4.1.2",
+    "tape": "4.13.3"
+  },
+  "gitHead": "e73e9f9d5b02124d14ac17dac2c4801687d3e99a",
+  "_id": "mri@1.2.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.13.0",
+  "dist": {
+    "integrity": "sha512-tzzskb3bG8LvYGFF/mDTpq3jpI6Q9wc3LEmBaghu+DdCssd1FakN7Bc0hVNmEyGq1bq3RgfkCb3cmQLpNPOroA==",
+    "tarball": "https://registry.npmjs.org/mri/-/mri-1.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "mri",
+  "key": "mri/1.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mri",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-W2D0+TF+nUcdPWPlGRgJF1l0BatRq1V7Vc7o+Dwubh8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mri/-/mri-1.2.0.tgz"
+  }
+}

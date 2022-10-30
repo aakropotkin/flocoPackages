@@ -1,0 +1,37 @@
+{
+  "name": "broccoli-node-api",
+  "version": "1.7.0",
+  "description": "Broccoli Plugin API Types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broccolijs/broccoli-node-api.git"
+  },
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "gitHead": "22a5def0dbf2466d645090d8b8930e4be64494b4",
+  "_id": "broccoli-node-api@1.7.0",
+  "_nodeVersion": "12.8.0",
+  "_npmVersion": "6.10.2",
+  "dist": {
+    "integrity": "sha512-QIqLSVJWJUVOhclmkmypJJH9u9s/aWH4+FH6Q6Ju5l+Io4dtwqdPUNmDfw40o6sxhbZHhqGujDJuHTML1wG8Yw==",
+    "tarball": "https://registry.npmjs.org/broccoli-node-api/-/broccoli-node-api-1.7.0.tgz"
+  },
+  "directories": {},
+  "ident": "broccoli-node-api",
+  "key": "broccoli-node-api/1.7.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "broccoli-node-api",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5TkJSQesu9nUT4jEI0Ofvkyp635l+DMLyamdmJIIoL0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/broccoli-node-api/-/broccoli-node-api-1.7.0.tgz"
+  }
+}

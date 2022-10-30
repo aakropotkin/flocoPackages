@@ -1,0 +1,60 @@
+{
+  "name": "download",
+  "version": "8.0.0",
+  "description": "Download and extract files",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/download.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "archive-type": "^4.0.0",
+    "content-disposition": "^0.5.2",
+    "decompress": "^4.2.1",
+    "ext-name": "^5.0.0",
+    "file-type": "^11.1.0",
+    "filenamify": "^3.0.0",
+    "get-stream": "^4.1.0",
+    "got": "^8.3.1",
+    "make-dir": "^2.1.0",
+    "p-event": "^2.1.0",
+    "pify": "^4.0.1"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "is-zip": "^1.0.0",
+    "nock": "^10.0.6",
+    "path-exists": "^3.0.0",
+    "random-buffer": "^0.1.0",
+    "rimraf": "^3.0.0",
+    "xo": "^0.24.0"
+  },
+  "gitHead": "94e9081e461719b61e62050704cdfcc6a464d6a7",
+  "_id": "download@8.0.0",
+  "_nodeVersion": "10.19.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-ASRY5QhDk7FK+XrQtQyvhpDKanLluEEQtWl/J7Lxuf/b+i8RYh997QeXvL85xitrmRKVlx9c7eTrcRdq2GS4eA==",
+    "tarball": "https://registry.npmjs.org/download/-/download-8.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "download",
+  "key": "download/8.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "download",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-/Zh4mSooCs9r3gLI6OfBMSGjF36gE/tOXRADQRA87YA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/download/-/download-8.0.0.tgz"
+  }
+}

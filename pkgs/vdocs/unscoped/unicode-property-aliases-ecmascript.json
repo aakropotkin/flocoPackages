@@ -1,0 +1,46 @@
+{
+  "name": "unicode-property-aliases-ecmascript",
+  "version": "2.1.0",
+  "description": "Unicode property alias mappings in JavaScript format for property names that are supported in ECMAScript RegExp property escapes.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasbynens/unicode-property-aliases-ecmascript.git"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "jsesc": "^3.0.2",
+    "unicode-canonical-property-names-ecmascript": "^2.0.0"
+  },
+  "scripts": {
+    "download": "curl http://unicode.org/Public/15.0.0/ucd/PropertyAliases.txt > data/PropertyAliases.txt",
+    "build": "node scripts/build.js",
+    "test": "ava tests/tests.js"
+  },
+  "gitHead": "a8d4655582563dbd190f6ce159f10a025a8f380f",
+  "_id": "unicode-property-aliases-ecmascript@2.1.0",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-6t3foTQI9qne+OZoVQB/8x8rk2k1eVy1gRXhV3oFQ5T6R1dqQ1xtin3XqSlx3+ATBkliTaR/hHyJBm+LVPNM8w==",
+    "tarball": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "unicode-property-aliases-ecmascript",
+  "key": "unicode-property-aliases-ecmascript/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "unicode-property-aliases-ecmascript",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-KXoG76rhjyrwKek+9IZ1Hjd1Re5E/UWp2OdoqL71cio=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-2.1.0.tgz"
+  }
+}

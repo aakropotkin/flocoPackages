@@ -1,0 +1,34 @@
+{
+  "name": "absolute-path",
+  "version": "0.0.0",
+  "description": "Node.js 0.11.x path.isAbsolute as a separate module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filearts/node-absolute-path"
+  },
+  "license": "MIT",
+  "_id": "absolute-path@0.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/absolute-path/-/absolute-path-0.0.0.tgz",
+    "integrity": "sha512-HQiug4c+/s3WOvEnDRxXVmNtSG5s2gJM9r19BTcqjp7BWcE48PB+Y2G6jE65kqI0LpsQeMZygt/b60Gi4KxGyA=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.3.14",
+  "ident": "absolute-path",
+  "key": "absolute-path/0.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "absolute-path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-a4TSGxzUDl8EkFtoNVV6N67G63lawYCIFa8f68Q8l2o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/absolute-path/-/absolute-path-0.0.0.tgz"
+  }
+}

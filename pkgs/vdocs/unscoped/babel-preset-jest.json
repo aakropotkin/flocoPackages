@@ -1,0 +1,48 @@
+{
+  "name": "babel-preset-jest",
+  "version": "29.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/babel-preset-jest"
+  },
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "babel-plugin-jest-hoist": "^29.2.0",
+    "babel-preset-current-node-syntax": "^1.0.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "gitHead": "ee5b37a4f4433afcfffb0356cea47739d8092287",
+  "description": "> Babel preset for all Jest plugins. This preset is automatically included when using [babel-jest](https://github.com/facebook/jest/tree/main/packages/babel-jest).",
+  "_id": "babel-preset-jest@29.2.0",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-z9JmMJppMxNv8N7fNRHvhMg9cvIkMxQBXgFkane3yKVEvEOP+kB50lk8DFRvF9PGqbyXxlmebKWhuDORO8RgdA==",
+    "tarball": "https://registry.npmjs.org/babel-preset-jest/-/babel-preset-jest-29.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "babel-preset-jest",
+  "key": "babel-preset-jest/29.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-preset-jest",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-nbDzVWjdYwo90su5ynFefJSniOSfrG2CbW0RDftPP3I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-jest/-/babel-preset-jest-29.2.0.tgz"
+  }
+}

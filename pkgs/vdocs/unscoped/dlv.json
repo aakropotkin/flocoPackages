@@ -1,0 +1,45 @@
+{
+  "name": "dlv",
+  "version": "1.1.3",
+  "description": "Safely get a dot-notated property within an object.",
+  "main": "dist/dlv.js",
+  "browser": "dist/dlv.umd.js",
+  "module": "dist/dlv.es.js",
+  "scripts": {
+    "dev": "microbundle watch",
+    "build": "microbundle",
+    "prepublish": "npm run build",
+    "test": "node test",
+    "release": "npm run build && npm test && git commit -am $npm_package_version && git tag $npm_package_version && git push && git push --tags && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developit/dlv.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  },
+  "gitHead": "e636db817a96e4ca4710b407163fb992748b3b80",
+  "_id": "dlv@1.1.3",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.13.0",
+  "dist": {
+    "integrity": "sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA==",
+    "tarball": "https://registry.npmjs.org/dlv/-/dlv-1.1.3.tgz"
+  },
+  "directories": {},
+  "ident": "dlv",
+  "key": "dlv/1.1.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "dlv",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-73fK/T8ssF3XuCUZgDMkPRGUo4FnecMYktBEJySouBM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dlv/-/dlv-1.1.3.tgz"
+  }
+}

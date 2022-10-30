@@ -1,0 +1,42 @@
+{
+  "name": "filelist",
+  "version": "1.0.4",
+  "description": "Lazy-evaluating list of files, based on globs or regex patterns",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jake test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mde/filelist.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "minimatch": "^5.0.1"
+  },
+  "_id": "filelist@1.0.4",
+  "_integrity": "sha512-w1cEuf3S+DrLCQL7ET6kz+gmlJdbq9J7yXCSjK/OZCPA+qEN1WyF4ZAf0YYJa4/shHJra2t/d/r8SV4Ji+x+8Q==",
+  "_resolved": "/Users/mde/Documents/filelist/pkg/FileList-v1.0.4.tar.gz",
+  "_from": "file:pkg/FileList-v1.0.4.tar.gz",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-w1cEuf3S+DrLCQL7ET6kz+gmlJdbq9J7yXCSjK/OZCPA+qEN1WyF4ZAf0YYJa4/shHJra2t/d/r8SV4Ji+x+8Q==",
+    "tarball": "https://registry.npmjs.org/filelist/-/filelist-1.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "filelist",
+  "key": "filelist/1.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "filelist",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BsDpLCSF+jsfrBeNMjBrD5TQ+6sCw5Qv8/RDTr8wSz4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/filelist/-/filelist-1.0.4.tgz"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "on-exit-leak-free",
+  "version": "2.1.0",
+  "description": "Execute a function on exit without leaking memory, allowing all objects to be garbage collected",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard | snazzy && tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcollina/on-exit-or-gc.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "snazzy": "^9.0.0",
+    "standard": "^17.0.0",
+    "tap": "^16.0.0"
+  },
+  "gitHead": "223fd00d674f841b8785eeb3d7b0f8e2f2b9e003",
+  "_id": "on-exit-leak-free@2.1.0",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-VuCaZZAjReZ3vUwgOB8LxAosIurDiAW0s13rI1YwmaP++jvcxP77AWoQvenZebpCA2m8WC1/EosPYPMjnRAp/w==",
+    "tarball": "https://registry.npmjs.org/on-exit-leak-free/-/on-exit-leak-free-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "on-exit-leak-free",
+  "key": "on-exit-leak-free/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "on-exit-leak-free",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Fmc8M61KVfwOrmqW1Tp2F/G3tWWTe6I8SxHKM4bccaA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/on-exit-leak-free/-/on-exit-leak-free-2.1.0.tgz"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version": "0.9.0",
+  "name": "catharsis",
+  "description": "A JavaScript parser for Google Closure Compiler and JSDoc type expressions.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegemonic/catharsis.git"
+  },
+  "main": "catharsis.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "ajv": "^6.12.2",
+    "mocha": "^8.0.1",
+    "pegjs": "^0.10.0",
+    "should": "^13.2.3",
+    "should-equal": "^2.0.0"
+  },
+  "engines": {
+    "node": ">= 10"
+  },
+  "scripts": {
+    "prepare": "./node_modules/pegjs/bin/pegjs ./lib/parser.pegjs",
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "license": "MIT",
+  "gitHead": "84b65effa9fa14b66c5e79a117c577527dc1e24a",
+  "_id": "catharsis@0.9.0",
+  "_nodeVersion": "12.16.3",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-prMTQVpcns/tzFgFVkVp6ak6RykZyWb3gu8ckUpd6YkTlacOd3DXGJjIpD4Q6zJirizvaiAjSSHlOsA+6sNh2A==",
+    "tarball": "https://registry.npmjs.org/catharsis/-/catharsis-0.9.0.tgz"
+  },
+  "directories": {},
+  "ident": "catharsis",
+  "key": "catharsis/0.9.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "catharsis",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qWVHRZwAgs72jHHeHpwWA2wFdJ9SY6nnt2Wy6I3KQWs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/catharsis/-/catharsis-0.9.0.tgz"
+  }
+}

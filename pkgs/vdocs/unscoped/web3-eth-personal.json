@@ -1,0 +1,53 @@
+{
+  "name": "web3-eth-personal",
+  "version": "1.8.0",
+  "description": "Web3 module to interact with the Ethereum blockchain accounts stored in the node.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereum/web3.js.git#1.x"
+  },
+  "license": "LGPL-3.0",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "types": "types/index.d.ts",
+  "scripts": {
+    "compile": "tsc -b tsconfig.json",
+    "dtslint": "dtslint --localTs ../../node_modules/typescript/lib types"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "@types/node": "^12.12.6",
+    "web3-core": "1.8.0",
+    "web3-core-helpers": "1.8.0",
+    "web3-core-method": "1.8.0",
+    "web3-net": "1.8.0",
+    "web3-utils": "1.8.0"
+  },
+  "devDependencies": {
+    "dtslint": "^3.4.1",
+    "typescript": "^3.9.5"
+  },
+  "gitHead": "59b657b8c02af05575dc2d0ed321fa7d3aa8eaf6",
+  "_id": "web3-eth-personal@1.8.0",
+  "_nodeVersion": "14.20.0",
+  "_npmVersion": "lerna/4.0.0/node@v14.20.0+x64 (linux)",
+  "dist": {
+    "integrity": "sha512-L7FT4nR3HmsfZyIAhFpEctKkYGOjRC2h6iFKs9gnFCHZga8yLcYcGaYOBIoYtaKom99MuGBoosayWt/Twh7F5A==",
+    "tarball": "https://registry.npmjs.org/web3-eth-personal/-/web3-eth-personal-1.8.0.tgz"
+  },
+  "directories": {},
+  "ident": "web3-eth-personal",
+  "key": "web3-eth-personal/1.8.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "web3-eth-personal",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-y80DXVX1I/L1e5rRu96tpe3X3gkbAOHe7h+rEqBc55A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/web3-eth-personal/-/web3-eth-personal-1.8.0.tgz"
+  }
+}

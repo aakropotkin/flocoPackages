@@ -1,0 +1,44 @@
+{
+  "name": "walk",
+  "description": "A node port of python's os.walk",
+  "url": "http://git.coolaj86.com/coolaj86/fs-walk.js",
+  "dependencies": {
+    "foreachasync": "^3.0.0"
+  },
+  "lib": ".",
+  "main": "./lib/walk.js",
+  "version": "2.3.15",
+  "repository": {
+    "url": "https://git.coolaj86.com/coolaj86/fs-walk.js.git"
+  },
+  "license": "(MIT OR Apache-2.0)",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./test/walk-test.sh"
+  },
+  "gitHead": "7db92bab0643a02e1a858b9bd78069316e1325ff",
+  "_id": "walk@2.3.15",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.21.1",
+  "dist": {
+    "integrity": "sha512-4eRTBZljBfIISK1Vnt69Gvr2w/wc3U6Vtrw7qiN5iqYJPH7LElcYh/iU4XWhdCy2dZqv1ToMyYlybDylfG/5Vg==",
+    "tarball": "https://registry.npmjs.org/walk/-/walk-2.3.15.tgz"
+  },
+  "ident": "walk",
+  "key": "walk/2.3.15",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "walk",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-cvfTet4VjYChfZFO+aCOoKBrqx4YnpFytiM1gZtIAJ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/walk/-/walk-2.3.15.tgz"
+  }
+}

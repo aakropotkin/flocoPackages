@@ -1,0 +1,70 @@
+{
+  "name": "postcss-place",
+  "description": "Use a place-* shorthand for align-* and justify-* in CSS",
+  "version": "7.0.5",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "postcss-value-parser": "^4.2.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-place"
+  },
+  "csstools": {
+    "exportName": "postcssPlace",
+    "humanReadableName": "PostCSS Place Properties"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "3bad4b893b7f34248abc8054101c2e9fe54fdc2a",
+  "_id": "postcss-place@7.0.5",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-wR8igaZROA6Z4pv0d+bvVrvGY4GVHihBCBQieXFY3kuSuMyOmEnnfFzHl/tQuqHZkfkIVBEbDvYcFfHmpSet9g==",
+    "tarball": "https://registry.npmjs.org/postcss-place/-/postcss-place-7.0.5.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-place",
+  "key": "postcss-place/7.0.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-place",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-VHk6jW26XCijajnwr4q1H+pVQUCNoy0n7FlIOIzJzdo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-place/-/postcss-place-7.0.5.tgz"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "iron",
+  "description": "Encapsulated tokens (encrypted and mac'ed objects)",
+  "version": "5.0.6",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hueniverse/iron.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "hoek": "6.x.x",
+    "b64": "4.x.x",
+    "boom": "7.x.x",
+    "cryptiles": "4.x.x"
+  },
+  "devDependencies": {
+    "code": "5.x.x",
+    "hapitoc": "1.x.x",
+    "lab": "17.x.x"
+  },
+  "scripts": {
+    "test": "lab -a code -t 100 -L",
+    "test-cov-html": "lab -a code -r html -o coverage.html",
+    "toc": "hapitoc"
+  },
+  "license": "BSD-3-Clause",
+  "gitHead": "e2fe69f320be37d0d07ac5e0c1ae26ccc5aba3c0",
+  "_id": "iron@5.0.6",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-zYUMOSkEXGBdwlV/AXF9zJC0aLuTJUKHkGeYS5I2g225M5i6SrxQyGJGhPgOR8BK1omL6N5i6TcwfsXbP8/Exw==",
+    "tarball": "https://registry.npmjs.org/iron/-/iron-5.0.6.tgz"
+  },
+  "directories": {},
+  "deprecated": "This module has moved and is now available at @hapi/iron. Please update your dependencies as this version is no longer maintained an may contain bugs and security issues.",
+  "ident": "iron",
+  "key": "iron/5.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "iron",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9Ae1ilFVV0qpdopthtdawWn+NqBL6wiKrF9Qzda1dFs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/iron/-/iron-5.0.6.tgz"
+  }
+}

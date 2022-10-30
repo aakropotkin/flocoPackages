@@ -1,0 +1,48 @@
+{
+  "name": "imagemin-gifsicle",
+  "version": "7.0.0",
+  "description": "Imagemin plugin for Gifsicle",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagemin/imagemin-gifsicle.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "execa": "^1.0.0",
+    "gifsicle": "^5.0.0",
+    "is-gif": "^3.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "pify": "^4.0.0",
+    "xo": "^0.25.3"
+  },
+  "gitHead": "c91e5b2c1c8e7f0d2221ea779d19d3e6d1ab41be",
+  "_id": "imagemin-gifsicle@7.0.0",
+  "_nodeVersion": "10.17.0",
+  "_npmVersion": "6.11.3",
+  "dist": {
+    "integrity": "sha512-LaP38xhxAwS3W8PFh4y5iQ6feoTSF+dTAXFRUEYQWYst6Xd+9L/iPk34QGgK/VO/objmIlmq9TStGfVY2IcHIA==",
+    "tarball": "https://registry.npmjs.org/imagemin-gifsicle/-/imagemin-gifsicle-7.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "imagemin-gifsicle",
+  "key": "imagemin-gifsicle/7.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "imagemin-gifsicle",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-366//su/ZHvBSNCVMvsbClhWgmpcNMtdEu3YZwk7ov0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/imagemin-gifsicle/-/imagemin-gifsicle-7.0.0.tgz"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "babel-plugin-transform-decorators",
+  "version": "6.24.1",
+  "description": "Compile class and object decorators to ES5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-decorators"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-types": "^6.24.1",
+    "babel-plugin-syntax-decorators": "^6.13.0",
+    "babel-helper-explode-class": "^6.24.1",
+    "babel-template": "^6.24.1",
+    "babel-runtime": "^6.22.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.24.1"
+  },
+  "_id": "babel-plugin-transform-decorators@6.24.1",
+  "scripts": {},
+  "_shasum": "788013d8f8c6b5222bdf7b344390dfd77569e24d",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.24.1.tgz",
+    "integrity": "sha512-skQ2CImwDkCHu0mkWvCOlBCpBIHW4/49IZWVwV4A/EnWjL9bB6UBvLyMNe3Td5XDStSZNhe69j4bfEW8dvUbew=="
+  },
+  "directories": {},
+  "ident": "babel-plugin-transform-decorators",
+  "key": "babel-plugin-transform-decorators/6.24.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-transform-decorators",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UssBIyN5efbIPIL2WasImiSvRba+MEisM77/Op95GGc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.24.1.tgz"
+  }
+}

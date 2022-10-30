@@ -1,0 +1,45 @@
+{
+  "name": "scoped-regex",
+  "version": "3.0.0",
+  "description": "Regular expression for matching scoped npm package names",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/scoped-regex.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "5de0e0ed76382ad751c3a7122b7c46ed7de94b04",
+  "_id": "scoped-regex@3.0.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-yEsN6TuxZhZ1Tl9iB81frTNS292m0I/IG7+w8lTvfcJQP2x3vnpOoevjBoE3Np5A6KnZM2+RtVenihj9t6NiYg==",
+    "tarball": "https://registry.npmjs.org/scoped-regex/-/scoped-regex-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "scoped-regex",
+  "key": "scoped-regex/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "scoped-regex",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uGib6ERPw67Ec0hI0J2ujzCQYWMUc2JTAAqg+y8qZJ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scoped-regex/-/scoped-regex-3.0.0.tgz"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "module-details-from-path",
+  "version": "1.0.3",
+  "description": "Extract the Node.js module details like name and base path given an abosulte path to a file inside the module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "tape": "^4.6.0"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/module-details-from-path.git"
+  },
+  "license": "MIT",
+  "coordinates": [
+    55.666507,
+    12.5798711
+  ],
+  "gitHead": "6b231a35fae6b7f5b6b12b55fbb75fd4913afe5a",
+  "_id": "module-details-from-path@1.0.3",
+  "_shasum": "114c949673e2a8a35e9d35788527aa37b679da2b",
+  "_from": ".",
+  "_npmVersion": "2.15.5",
+  "_nodeVersion": "4.4.5",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/module-details-from-path/-/module-details-from-path-1.0.3.tgz",
+    "integrity": "sha512-ySViT69/76t8VhE1xXHK6Ch4NcDd26gx0MzKXLO+F7NOtnqH68d9zF94nT8ZWSxXh8ELOERsnJO/sWt1xZYw5A=="
+  },
+  "ident": "module-details-from-path",
+  "key": "module-details-from-path/1.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "module-details-from-path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qDWCJyLILg8nphd8PT7ja8zcC0KJ8knAyOrtfyMkx58=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/module-details-from-path/-/module-details-from-path-1.0.3.tgz"
+  }
+}

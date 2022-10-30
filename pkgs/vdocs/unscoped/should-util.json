@@ -1,0 +1,47 @@
+{
+  "name": "should-util",
+  "version": "1.0.1",
+  "description": "Utility functions",
+  "main": "cjs/should-util.js",
+  "module": "es6/should-util.js",
+  "jsnext:main": "es6/should-util.js",
+  "scripts": {
+    "cjs": "rollup --format=cjs --output=cjs/should-util.js index.js",
+    "es6": "rollup --format=es --output=es6/should-util.js index.js",
+    "build": "npm run cjs && npm run es6",
+    "prepublish": "npm run build",
+    "pretest": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shouldjs/util.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "eslint-config-shouldjs": "^1.0.2",
+    "rollup": "^0.34.7"
+  },
+  "gitHead": "edf33080e507a3dbc188c6c6abb27da3c3feb10e",
+  "_id": "should-util@1.0.1",
+  "_nodeVersion": "10.16.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-oXF8tfxx5cDk8r2kYqlkUJzZpDBqVY/II2WhvU0n9Y3XYvAYRmeaf1PvvIvTgPnv4KJ+ES5M0PyDq5Jp+Ygy2g==",
+    "tarball": "https://registry.npmjs.org/should-util/-/should-util-1.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "should-util",
+  "key": "should-util/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "should-util",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qUr/i4rO5Le7+XYLaOi3deJIoPPeyHeFDqrUJFxDXV4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/should-util/-/should-util-1.0.1.tgz"
+  }
+}

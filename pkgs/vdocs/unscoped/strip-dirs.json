@@ -1,0 +1,53 @@
+{
+  "name": "strip-dirs",
+  "version": "3.0.0",
+  "description": "Remove leading directory components from a path, like tar's --strip-components option",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinnn/node-strip-dirs.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "nyc node test.js"
+  },
+  "dependencies": {
+    "inspect-with-kind": "^1.0.5",
+    "is-plain-obj": "^1.1.0"
+  },
+  "devDependencies": {
+    "@shinnn/eslint-config": "^6.7.0",
+    "eslint": "^5.5.0",
+    "nyc": "^13.0.1",
+    "nyc-config-common": "^1.0.0",
+    "tape": "^4.9.1"
+  },
+  "eslintConfig": {
+    "extends": "@shinnn"
+  },
+  "nyc": {
+    "extends": "nyc-config-common"
+  },
+  "gitHead": "a923eb0794fae7cfeda5a44572b2100058eec404",
+  "_id": "strip-dirs@3.0.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.10.0",
+  "dist": {
+    "integrity": "sha512-I0sdgcFTfKQlUPZyAqPJmSG3HLO9rWDFnxonnIbskYNM3DwFOeTNB5KzVq3dA1GdRAc/25b5Y7UO2TQfKWw4aQ==",
+    "tarball": "https://registry.npmjs.org/strip-dirs/-/strip-dirs-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "strip-dirs",
+  "key": "strip-dirs/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "strip-dirs",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GGU8c4uPM/kmPDrT4pl7VHYSSdB46RQ0hUA7sEiuHYI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strip-dirs/-/strip-dirs-3.0.0.tgz"
+  }
+}

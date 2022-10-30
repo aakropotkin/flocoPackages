@@ -1,0 +1,46 @@
+{
+  "name": "node-gyp-build",
+  "version": "4.5.0",
+  "description": "Build tool and bindings loader for node-gyp that supports prebuilds",
+  "main": "index.js",
+  "devDependencies": {
+    "array-shuffle": "^1.0.1",
+    "standard": "^14.0.0",
+    "tape": "^5.0.0"
+  },
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "bin": {
+    "node-gyp-build": "bin.js",
+    "node-gyp-build-optional": "optional.js",
+    "node-gyp-build-test": "build-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prebuild/node-gyp-build.git"
+  },
+  "license": "MIT",
+  "gitHead": "0078d7884dfeb0e708477b3e20bfc4f520c1e2f8",
+  "_id": "node-gyp-build@4.5.0",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.21.1",
+  "dist": {
+    "integrity": "sha512-2iGbaQBV+ITgCz76ZEjmhUKAKVf7xfY1sRl4UiKQspfZMH2h06SyhNsnSVy50cwkFQDGLyif6m/6uFXHkOZ6rg==",
+    "tarball": "https://registry.npmjs.org/node-gyp-build/-/node-gyp-build-4.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "node-gyp-build",
+  "key": "node-gyp-build/4.5.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "node-gyp-build",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-uXj/ek9b4nVYkVbnvx+SYRIWBOnXLLY2W7l+0t/slB8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-gyp-build/-/node-gyp-build-4.5.0.tgz"
+  }
+}

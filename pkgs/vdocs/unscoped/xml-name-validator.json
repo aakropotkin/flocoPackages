@@ -1,0 +1,46 @@
+{
+  "name": "xml-name-validator",
+  "description": "Validates whether a string matches the production for an XML name or qualified name",
+  "version": "4.0.0",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdom/xml-name-validator.git"
+  },
+  "main": "lib/xml-name-validator.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@domenic/eslint-config": "^1.4.0",
+    "benchmark": "^2.1.4",
+    "eslint": "^7.32.0",
+    "mocha": "^9.1.1"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "6b0e370056299556c01ca9300256b10f80800549",
+  "_id": "xml-name-validator@4.0.0",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.21.1",
+  "dist": {
+    "integrity": "sha512-ICP2e+jsHvAj2E2lIHxa5tjXRlKDJo4IdvPvCXbXQGdzSfmSpNVyIKMvoZHjDY9DP0zV17iI85o90vRFXNccRw==",
+    "tarball": "https://registry.npmjs.org/xml-name-validator/-/xml-name-validator-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "xml-name-validator",
+  "key": "xml-name-validator/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "xml-name-validator",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7l58PAx3xz7p3eNjCJl2SNCrYz+mpgL+Rgp7nn2UJMQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xml-name-validator/-/xml-name-validator-4.0.0.tgz"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "section-matter",
+  "description": "Like front-matter, but supports multiple sections in a document.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/section-matter.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "extend-shallow": "^2.0.1",
+    "kind-of": "^6.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "js-yaml": "^3.10.0",
+    "mocha": "^4.0.1"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "gray-matter",
+        "assemble",
+        "verb"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "9d5031ce958ed91b2b8a8a1bc3aeebad7d54b4a1",
+  "_id": "section-matter@1.0.0",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "8.7.0",
+  "dist": {
+    "integrity": "sha512-vfD3pmTzGpufjScBh50YHKzEu2lxBWhVEHsNGoEXmCmn2hKGfeNLYMzCJpe8cD7gqX7TJluOVpBkAequ6dgMmA==",
+    "tarball": "https://registry.npmjs.org/section-matter/-/section-matter-1.0.0.tgz"
+  },
+  "ident": "section-matter",
+  "key": "section-matter/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "section-matter",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-0qqkDRj6fkedX9uzQmYQD8JFavZdyFed2+k8AoN+w5Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/section-matter/-/section-matter-1.0.0.tgz"
+  }
+}

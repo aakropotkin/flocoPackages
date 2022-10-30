@@ -1,0 +1,41 @@
+{
+  "name": "url-set-query",
+  "version": "1.0.0",
+  "description": "small function to append a query string to a URL",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/url-set-query.git"
+  },
+  "gitHead": "26c88abaaec85fa845890ff4d8496206c713f6e3",
+  "_id": "url-set-query@1.0.0",
+  "_shasum": "016e8cfd7c20ee05cafe7795e892bd0702faa339",
+  "_from": ".",
+  "_npmVersion": "2.1.18",
+  "_nodeVersion": "0.10.32",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/url-set-query/-/url-set-query-1.0.0.tgz",
+    "integrity": "sha512-3AChu4NiXquPfeckE5R5cGdiHCMWJx1dwCWOmWIL4KHAziJNOFIYJlpGFeKDvwLPHovZRCxK3cYlwzqI9Vp+Gg=="
+  },
+  "ident": "url-set-query",
+  "key": "url-set-query/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "url-set-query",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9ufCzk1+haMagAVON0HeK/GSX/rGnKaaEq9xGtT2bzI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-set-query/-/url-set-query-1.0.0.tgz"
+  }
+}

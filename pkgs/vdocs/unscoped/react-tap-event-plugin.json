@@ -1,0 +1,53 @@
+{
+  "name": "react-tap-event-plugin",
+  "version": "3.0.3",
+  "description": "Facebook's TapEventPlugin, temporarily available on npm until its made public in their repo",
+  "main": "src/injectTapEventPlugin.js",
+  "files": [
+    "src/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zilverline/react-tap-event-plugin.git"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0-0 < 16.4.0",
+    "react-dom": "^16.0.0-0 < 16.4.0"
+  },
+  "dependencies": {
+    "fbjs": "^0.8.6"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "gitHead": "f0c34c2e5c815895b6ba998e24b8251b63d12dcf",
+  "_id": "react-tap-event-plugin@3.0.3",
+  "_shasum": "bc5fd0ee3fd3ab5224c1c2ff6f0750204ae89802",
+  "_from": ".",
+  "_npmVersion": "3.10.9",
+  "_nodeVersion": "7.1.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/react-tap-event-plugin/-/react-tap-event-plugin-3.0.3.tgz",
+    "integrity": "sha512-buPvJ+Jj8xpCbuN8D820OQcFngdP98me+kq9BQSKz4HSzqWkEoQEl7I3pzFyu5kLpamSZEytkWVxm24TRWDZFQ=="
+  },
+  "directories": {},
+  "ident": "react-tap-event-plugin",
+  "key": "react-tap-event-plugin/3.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "react-tap-event-plugin",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ki0VDWfDcn8sWH+9maDlrV6Pw0voTEt4FElU4w1zSJA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-tap-event-plugin/-/react-tap-event-plugin-3.0.3.tgz"
+  }
+}

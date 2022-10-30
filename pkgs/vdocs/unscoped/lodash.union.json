@@ -1,0 +1,35 @@
+{
+  "name": "lodash.union",
+  "version": "4.6.0",
+  "description": "The lodash method `_.union` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.union@4.6.0",
+  "_shasum": "48bb5088409f16f1821666641c44dd1aaae3cd88",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.union/-/lodash.union-4.6.0.tgz",
+    "integrity": "sha512-c4pB2CdGrGdjMKYLA+XiRDO7Y0PRQbm/Gzg8qMj+QH+pFVAoTp5sBpO0odL3FjoPCGjK96p6qsP+yQoiLoOBcw=="
+  },
+  "ident": "lodash.union",
+  "key": "lodash.union/4.6.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.union",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+Zw8gGtERIruzclS5D7R+JSL7G2iXJFskhTWqpW4fqU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.union/-/lodash.union-4.6.0.tgz"
+  }
+}

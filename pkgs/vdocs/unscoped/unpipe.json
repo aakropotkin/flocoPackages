@@ -1,0 +1,51 @@
+{
+  "name": "unpipe",
+  "description": "Unpipe a stream from all destinations",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stream-utils/unpipe"
+  },
+  "devDependencies": {
+    "istanbul": "0.3.15",
+    "mocha": "2.2.5",
+    "readable-stream": "1.1.13"
+  },
+  "files": [
+    "HISTORY.md",
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/"
+  },
+  "gitHead": "d2df901c06487430e78dca62b6edb8bb2fc5e99d",
+  "_id": "unpipe@1.0.0",
+  "_shasum": "b2bf4ee8514aae6165b4817829d21b2ef49904ec",
+  "_from": ".",
+  "_npmVersion": "1.4.28",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/unpipe/-/unpipe-1.0.0.tgz",
+    "integrity": "sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ=="
+  },
+  "ident": "unpipe",
+  "key": "unpipe/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "unpipe",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-bBPabs5uQY/6/wyuCm1y8ij8j6q9kfV1aiQZw0X8YBY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unpipe/-/unpipe-1.0.0.tgz"
+  }
+}

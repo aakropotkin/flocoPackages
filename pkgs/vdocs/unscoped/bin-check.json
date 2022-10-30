@@ -1,0 +1,48 @@
+{
+  "name": "bin-check",
+  "version": "4.1.0",
+  "description": "Check if a binary is working",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevva/bin-check.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "execa": "^0.7.0",
+    "executable": "^4.1.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "7c9a7122d11a78a1c067b10d4a0c41847edd79a8",
+  "_id": "bin-check@4.1.0",
+  "_npmVersion": "5.0.3",
+  "_nodeVersion": "8.0.0",
+  "dist": {
+    "integrity": "sha512-b6weQyEUKsDGFlACWSIOfveEnImkJyK/FGW6FAG42loyoquvjdtOIqO6yBFzHyqyVVhNgNkQxxx09SFLK28YnA==",
+    "tarball": "https://registry.npmjs.org/bin-check/-/bin-check-4.1.0.tgz"
+  },
+  "ident": "bin-check",
+  "key": "bin-check/4.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bin-check",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8UC2DeXMtlUHtTr0bDJurdYGtpk7CY5rMwD+QUZzTfg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bin-check/-/bin-check-4.1.0.tgz"
+  }
+}

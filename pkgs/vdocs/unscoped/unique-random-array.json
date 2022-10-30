@@ -1,0 +1,48 @@
+{
+  "name": "unique-random-array",
+  "version": "3.0.0",
+  "description": "Get consecutively unique elements from an array",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/unique-random-array.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "unique-random": "^3.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "8d08e8c1cc1ad1aadf5a731d8cd61eba79a1b0b7",
+  "_id": "unique-random-array@3.0.0",
+  "_nodeVersion": "15.12.0",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-AETNmMf8dV7VfCu4pM5SO1nKkZZp3lZsbHk9VxkvR2ZjMYy4mzWwzez0g+ZtYIr+RaVH+UN8A003E7woM/ud7Q==",
+    "tarball": "https://registry.npmjs.org/unique-random-array/-/unique-random-array-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "unique-random-array",
+  "key": "unique-random-array/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "unique-random-array",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-LK6uK3BiZqUfi0Sl6AuOCDPhgl7rlHfAFaihPYldCZk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-random-array/-/unique-random-array-3.0.0.tgz"
+  }
+}

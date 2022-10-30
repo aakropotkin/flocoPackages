@@ -1,0 +1,44 @@
+{
+  "name": "metro-cache",
+  "version": "0.73.3",
+  "description": "🚇 Cache layers for Metro.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/facebook/metro.git"
+  },
+  "scripts": {
+    "prepare-release": "test -d build && rm -rf src.real && mv src src.real && mv build src",
+    "cleanup-release": "test ! -e build && mv src build && mv src.real src"
+  },
+  "dependencies": {
+    "metro-core": "0.73.3",
+    "rimraf": "^3.0.2"
+  },
+  "devDependencies": {
+    "metro-memory-fs": "0.73.3"
+  },
+  "license": "MIT",
+  "gitHead": "a09e07fb91addee7a29ab70b78c143f1f8e8c7bc",
+  "_id": "metro-cache@0.73.3",
+  "_nodeVersion": "16.18.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-nRLxn1B8J4LxFZo02OCFryalqaJKW1ddAteS5zdSmsJLdaDwvKH+J73Rp/XOR5Puu1A05A7BF4/aYKzwY/HU4A==",
+    "tarball": "https://registry.npmjs.org/metro-cache/-/metro-cache-0.73.3.tgz"
+  },
+  "directories": {},
+  "ident": "metro-cache",
+  "key": "metro-cache/0.73.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "metro-cache",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-oIwfa6P3J8EaOuxK21ZFmeS9wGlczOslB9kHhjIksg0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/metro-cache/-/metro-cache-0.73.3.tgz"
+  }
+}

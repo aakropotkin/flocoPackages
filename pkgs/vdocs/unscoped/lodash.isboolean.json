@@ -1,0 +1,35 @@
+{
+  "name": "lodash.isboolean",
+  "version": "3.0.3",
+  "description": "The lodash method `_.isBoolean` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.isboolean@3.0.3",
+  "_shasum": "6c2e171db2a257cd96802fd43b01b20d5f5870f6",
+  "_from": ".",
+  "_npmVersion": "2.14.15",
+  "_nodeVersion": "5.4.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.isboolean/-/lodash.isboolean-3.0.3.tgz",
+    "integrity": "sha512-Bz5mupy2SVbPHURB98VAcw+aHh4vRV5IPNhILUCsOzRmsTmSQ17jIuqopAentWoehktxGd9e/hbIXq980/1QJg=="
+  },
+  "ident": "lodash.isboolean",
+  "key": "lodash.isboolean/3.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.isboolean",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-wPBDF4qqkEDtlh0EHopAPcRkDztqead3V/dfEMZD5BM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.isboolean/-/lodash.isboolean-3.0.3.tgz"
+  }
+}

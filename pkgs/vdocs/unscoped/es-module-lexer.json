@@ -1,0 +1,64 @@
+{
+  "name": "es-module-lexer",
+  "version": "1.1.0",
+  "description": "Lexes ES modules returning their import/export metadata",
+  "main": "dist/lexer.cjs",
+  "module": "dist/lexer.js",
+  "types": "types/lexer.d.ts",
+  "exports": {
+    ".": {
+      "types": "./types/lexer.d.ts",
+      "module": "./dist/lexer.js",
+      "import": "./dist/lexer.js",
+      "require": "./dist/lexer.cjs"
+    },
+    "./js": "./dist/lexer.asm.js"
+  },
+  "scripts": {
+    "build": "npm install -g chomp ; chomp build",
+    "test": "npm install -g chomp ; chomp test"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.5.0",
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.224",
+    "@types/node": "^18.7.1",
+    "kleur": "^2.0.2",
+    "mocha": "^5.2.0",
+    "terser": "^5.14.2",
+    "typescript": "^4.7.4"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guybedford/es-module-lexer.git"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "gitHead": "df0dab401f7037f40974a13acc62719bc9cce69d",
+  "_id": "es-module-lexer@1.1.0",
+  "_nodeVersion": "18.7.0",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-fJg+1tiyEeS8figV+fPcPpm8WqJEflG3yPU0NOm5xMvrNkuiy7HzX/Ljng4Y0hAoiw4/3hQTCFYw+ub8+a2pRA==",
+    "tarball": "https://registry.npmjs.org/es-module-lexer/-/es-module-lexer-1.1.0.tgz"
+  },
+  "ident": "es-module-lexer",
+  "key": "es-module-lexer/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "es-module-lexer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UUPYQ7642TNZdI79+O06Oeu5zUsVv1j7JtGNOFlzBsM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/es-module-lexer/-/es-module-lexer-1.1.0.tgz"
+  }
+}

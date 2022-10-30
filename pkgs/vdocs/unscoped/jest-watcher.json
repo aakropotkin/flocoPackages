@@ -1,0 +1,55 @@
+{
+  "name": "jest-watcher",
+  "description": "Delightful JavaScript Testing.",
+  "version": "29.2.2",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@jest/test-result": "^29.2.1",
+    "@jest/types": "^29.2.1",
+    "@types/node": "*",
+    "ansi-escapes": "^4.2.1",
+    "chalk": "^4.0.0",
+    "emittery": "^0.13.1",
+    "jest-util": "^29.2.1",
+    "string-length": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/jest.git",
+    "directory": "packages/jest-watcher"
+  },
+  "engines": {
+    "node": "^14.15.0 || ^16.10.0 || >=18.0.0"
+  },
+  "license": "MIT",
+  "gitHead": "0a8edbe0ac434394a16cc173a03ff54a9cc50e41",
+  "_id": "jest-watcher@29.2.2",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "lerna/1.11.3/node@v16.17.0+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-j2otfqh7mOvMgN2WlJ0n7gIx9XCMWntheYGlBK7+5g3b1Su13/UAK7pdKGyd4kDlrLwtH2QPvRv5oNIxWvsJ1w==",
+    "tarball": "https://registry.npmjs.org/jest-watcher/-/jest-watcher-29.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "jest-watcher",
+  "key": "jest-watcher/29.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "jest-watcher",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-dvw85C5My792zYTalWm2MK0Q28W/cdF+wXolGYbzmyM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-watcher/-/jest-watcher-29.2.2.tgz"
+  }
+}

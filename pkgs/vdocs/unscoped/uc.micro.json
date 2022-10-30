@@ -1,0 +1,41 @@
+{
+  "name": "uc.micro",
+  "version": "1.0.6",
+  "description": "Micro subset of unicode data files for markdown-it projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markdown-it/uc.micro.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha",
+    "update": "node update.js && npm test"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0",
+    "shelljs": "^0.8.1",
+    "unicode-11.0.0": "^0.7.8"
+  },
+  "gitHead": "4cf1080e1b1765fc7699d0ec7482e3a18fc9e2ee",
+  "_id": "uc.micro@1.0.6",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.11.0",
+  "dist": {
+    "integrity": "sha512-8Y75pvTYkLJW2hWQHXxoqRgV7qb9B+9vFEtidML+7koHUFapnVJAZ6cKs+Qjz5Aw3aZWHMC6u0wJE3At+nSGwA==",
+    "tarball": "https://registry.npmjs.org/uc.micro/-/uc.micro-1.0.6.tgz"
+  },
+  "directories": {},
+  "ident": "uc.micro",
+  "key": "uc.micro/1.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "uc.micro",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-jE5fgxzl43Aw6PF7ag8HSDv0Pq73gYMo4juoY3pn48g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/uc.micro/-/uc.micro-1.0.6.tgz"
+  }
+}

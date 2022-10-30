@@ -1,0 +1,50 @@
+{
+  "name": "postcss-page-break",
+  "version": "3.0.4",
+  "description": "PostCSS plugin postcss-page-break to fallback `break-` properties with `page-break-` alias",
+  "scripts": {
+    "test": "jest && npm run lint",
+    "lint": "eslint *.js",
+    "lint:fix": "eslint *.js --fix"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrpne/postcss-page-break.git"
+  },
+  "peerDependencies": {
+    "postcss": "^8"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-jest": "^24.0.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-unicorn": "^22.0.0",
+    "jest": "^26.4.2",
+    "postcss": "^8.1.0"
+  },
+  "gitHead": "6c94b15011513b3d78763a8f7d91d150e01b7375",
+  "_id": "postcss-page-break@3.0.4",
+  "_nodeVersion": "12.18.3",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-1JGu8oCjVXLa9q9rFTo4MbeeA5FMe00/9C7lN4va606Rdb+HkxXtXsmEDrIraQ11fGz/WvKWa8gMuCKkrXpTsQ==",
+    "tarball": "https://registry.npmjs.org/postcss-page-break/-/postcss-page-break-3.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-page-break",
+  "key": "postcss-page-break/3.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-page-break",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-iXHSFtS3j7HVyZzhEzxO6pZwsv2BFqqge7o8x2c6oVY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-page-break/-/postcss-page-break-3.0.4.tgz"
+  }
+}

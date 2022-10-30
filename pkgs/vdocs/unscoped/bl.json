@@ -1,0 +1,138 @@
+{
+  "name": "bl",
+  "version": "6.0.0",
+  "description": "Buffer List: collect buffers and access with a standard readable Buffer interface, streamable too!",
+  "license": "MIT",
+  "main": "bl.js",
+  "scripts": {
+    "lint": "standard *.js test/*.js",
+    "test": "npm run lint && npm run test:types && node test/test.js | faucet",
+    "test:ci": "npm run lint && node test/test.js && npm run test:types",
+    "test:types": "tsc --target esnext --moduleResolution node --allowJs --noEmit test/test.js",
+    "build": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvagg/bl.git"
+  },
+  "authors": [
+    "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)",
+    "Matteo Collina <matteo.collina@gmail.com> (https://github.com/mcollina)",
+    "Jarett Cruger <jcrugzz@gmail.com> (https://github.com/jcrugzz)"
+  ],
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "inherits": "^2.0.4",
+    "readable-stream": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/readable-stream": "^2.3.13",
+    "faucet": "~0.0.1",
+    "standard": "^17.0.0",
+    "tape": "^5.2.2",
+    "typescript": "~4.8.4"
+  },
+  "release": {
+    "branches": [
+      "master"
+    ],
+    "plugins": [
+      [
+        "@semantic-release/commit-analyzer",
+        {
+          "preset": "conventionalcommits",
+          "releaseRules": [
+            {
+              "breaking": true,
+              "release": "major"
+            },
+            {
+              "revert": true,
+              "release": "patch"
+            },
+            {
+              "type": "feat",
+              "release": "minor"
+            },
+            {
+              "type": "fix",
+              "release": "patch"
+            },
+            {
+              "type": "chore",
+              "release": "patch"
+            },
+            {
+              "type": "docs",
+              "release": "patch"
+            },
+            {
+              "type": "test",
+              "release": "patch"
+            },
+            {
+              "scope": "no-release",
+              "release": false
+            }
+          ]
+        }
+      ],
+      [
+        "@semantic-release/release-notes-generator",
+        {
+          "preset": "conventionalcommits",
+          "presetConfig": {
+            "types": [
+              {
+                "type": "feat",
+                "section": "Features"
+              },
+              {
+                "type": "fix",
+                "section": "Bug Fixes"
+              },
+              {
+                "type": "chore",
+                "section": "Trivial Changes"
+              },
+              {
+                "type": "docs",
+                "section": "Trivial Changes"
+              },
+              {
+                "type": "test",
+                "section": "Tests"
+              }
+            ]
+          }
+        }
+      ],
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/github",
+      "@semantic-release/git"
+    ]
+  },
+  "gitHead": "a59710d5abddf33e7ed71963b9071d53926156aa",
+  "_id": "bl@6.0.0",
+  "_nodeVersion": "14.20.1",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-Ik9BVIMdcWzSOCpzDv2XpQ4rJ4oZBuk3ck6MgiOv0EopdgtohN2uSCrrLlkH1Jf0KnpZZMBA3D0bUMbCdj/jgA==",
+    "tarball": "https://registry.npmjs.org/bl/-/bl-6.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "bl",
+  "key": "bl/6.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bl",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GHFZT4fFQ/QhMD9aw089rpEJPrZWTDcmiYbOEnpIGVY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bl/-/bl-6.0.0.tgz"
+  }
+}

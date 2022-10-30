@@ -1,0 +1,42 @@
+{
+  "name": "acorn-globals",
+  "version": "7.0.1",
+  "description": "Detect global variables in JavaScript using acorn",
+  "dependencies": {
+    "acorn": "^8.1.0",
+    "acorn-walk": "^8.0.2"
+  },
+  "devDependencies": {
+    "testit": "^3.1.0"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForbesLindesay/acorn-globals.git"
+  },
+  "license": "MIT",
+  "gitHead": "8de559f1655841506ba56493d3433bb6d54cc56e",
+  "_id": "acorn-globals@7.0.1",
+  "_nodeVersion": "12.22.12",
+  "_npmVersion": "6.14.16",
+  "dist": {
+    "integrity": "sha512-umOSDSDrfHbTNPuNpC2NSnnA3LUrqpevPb4T9jRx4MagXNS0rs+gwiTcAvqCRmsD6utzsrzNt+ebm00SNWiC3Q==",
+    "tarball": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-7.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "acorn-globals",
+  "key": "acorn-globals/7.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "acorn-globals",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-4ytjUrbdKJMmGPyyb0bgh8HBFbGk4DalCeEzszIsgGw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-7.0.1.tgz"
+  }
+}

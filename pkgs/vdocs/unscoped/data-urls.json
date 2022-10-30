@@ -1,0 +1,67 @@
+{
+  "name": "data-urls",
+  "description": "Parses data: URLs",
+  "version": "3.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdom/data-urls.git"
+  },
+  "main": "lib/parser.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage",
+    "lint": "eslint .",
+    "pretest": "node scripts/get-latest-platform-tests.js"
+  },
+  "dependencies": {
+    "abab": "^2.0.6",
+    "whatwg-mimetype": "^3.0.0",
+    "whatwg-url": "^11.0.0"
+  },
+  "devDependencies": {
+    "@domenic/eslint-config": "^2.0.0",
+    "eslint": "^8.14.0",
+    "jest": "^27.5.1",
+    "minipass-fetch": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "jest": {
+    "coverageDirectory": "coverage",
+    "coverageReporters": [
+      "lcov",
+      "text-summary"
+    ],
+    "testEnvironment": "node",
+    "testMatch": [
+      "<rootDir>/test/**/*.js"
+    ],
+    "coveragePathIgnorePatterns": [
+      "<rootDir>/node_modules/(?!(abab/lib/atob.js))"
+    ]
+  },
+  "gitHead": "f061877a7d517b3160ce7a7752fee0262308886c",
+  "_id": "data-urls@3.0.2",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-Jy/tj3ldjZJo63sVAvg6LHt2mHvl4V6AgRAmNDtLdm7faqtsx+aJG42rsyCo9JCoRVKwPFzKlIPx3DIibwSIaQ==",
+    "tarball": "https://registry.npmjs.org/data-urls/-/data-urls-3.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "data-urls",
+  "key": "data-urls/3.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "data-urls",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-fs3T/4QfDub2kcInnI0g7LFkdCOmhPy3lf4R0auWQsU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-urls/-/data-urls-3.0.2.tgz"
+  }
+}

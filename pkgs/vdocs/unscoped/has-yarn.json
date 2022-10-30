@@ -1,0 +1,45 @@
+{
+  "name": "has-yarn",
+  "version": "3.0.0",
+  "description": "Check if a project is using Yarn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/has-yarn.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "45d143fe0ce34cb6083c29838bfeb39f4012ae88",
+  "_id": "has-yarn@3.0.0",
+  "_nodeVersion": "14.17.5",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-IrsVwUHhEULx3R8f/aA8AHuEzAorplsab/v8HBzEiIukwq5i/EC+xmOW+HfP1OaDP+2JkgT1yILHN2O3UFIbcA==",
+    "tarball": "https://registry.npmjs.org/has-yarn/-/has-yarn-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "has-yarn",
+  "key": "has-yarn/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "has-yarn",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-s+zyPHJT5bwPFnsDPa43Gn+CHwkNY+2P790Z92Wa1QU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/has-yarn/-/has-yarn-3.0.0.tgz"
+  }
+}

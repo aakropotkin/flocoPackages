@@ -1,0 +1,48 @@
+{
+  "name": "help-me",
+  "version": "4.1.0",
+  "description": "Help command for node, partner of minimist and commist",
+  "main": "help-me.js",
+  "scripts": {
+    "test": "standard && node test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcollina/help-me.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "commist": "^2.0.0",
+    "concat-stream": "^2.0.0",
+    "pre-commit": "^1.1.3",
+    "standard": "^16.0.0",
+    "tap-spec": "^5.0.0",
+    "tape": "^5.0.0"
+  },
+  "dependencies": {
+    "glob": "^8.0.0",
+    "readable-stream": "^3.6.0"
+  },
+  "gitHead": "77fb124c082988d11005889dfa2ac3acaf3425b1",
+  "_id": "help-me@4.1.0",
+  "_nodeVersion": "16.17.0",
+  "_npmVersion": "8.15.0",
+  "dist": {
+    "integrity": "sha512-5HMrkOks2j8Fpu2j5nTLhrBhT7VwHwELpqnSnx802ckofys5MO2SkLpgSz3dgNFHV7IYFX2igm5CM75SmuYidw==",
+    "tarball": "https://registry.npmjs.org/help-me/-/help-me-4.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "help-me",
+  "key": "help-me/4.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "help-me",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-814Ifdfye5Ztk64dRxCN1NXjA6QlY5DbxSs5uqFHfL0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/help-me/-/help-me-4.1.0.tgz"
+  }
+}

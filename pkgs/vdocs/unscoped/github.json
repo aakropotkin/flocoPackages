@@ -1,0 +1,32 @@
+{
+  "name": "github",
+  "version": "14.0.0",
+  "description": "DEPRECATED: renamed to @octokit/rest",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octokit/rest.js.git"
+  },
+  "deprecated": "'github' has been renamed to '@octokit/rest' (https://git.io/vNB11)",
+  "gitHead": "fa09dd892d5650059eca81025a94ff3d3e737eeb",
+  "_id": "github@14.0.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.9.4",
+  "dist": {
+    "integrity": "sha512-34/VqwhYGeYN0VHBSH49TmRWMF7emy32qjK6POiW47T/QI2u/cpuKsmrWt7a218ew/73dF4dQSJE68/HXdNfPw==",
+    "tarball": "https://registry.npmjs.org/github/-/github-14.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "github",
+  "key": "github/14.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "github",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-CwkA88rFy33IdIitIqYO4BLF/+H/dtD8/yQC3Xe5AP8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/github/-/github-14.0.0.tgz"
+  }
+}

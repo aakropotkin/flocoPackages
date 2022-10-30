@@ -1,0 +1,42 @@
+{
+  "name": "spark-md5",
+  "version": "3.0.2",
+  "description": "Lightning fast normal and incremental md5 for javascript",
+  "main": "spark-md5.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/satazor/js-spark-md5.git"
+  },
+  "license": "(WTFPL OR MIT)",
+  "scripts": {
+    "min": "uglifyjs spark-md5.js > spark-md5.min.js",
+    "test": "open test/index.html"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.0.0"
+  },
+  "gitHead": "9315385868fe11076674d4ddd763005319a462a7",
+  "_id": "spark-md5@3.0.2",
+  "_nodeVersion": "16.1.0",
+  "_npmVersion": "7.19.1",
+  "dist": {
+    "integrity": "sha512-wcFzz9cDfbuqe0FZzfi2or1sgyIrsDwmPwfZC4hiNidPdPINjeUwNfv5kldczoEAcjl9Y1L3SM7Uz2PUEQzxQw==",
+    "tarball": "https://registry.npmjs.org/spark-md5/-/spark-md5-3.0.2.tgz"
+  },
+  "ident": "spark-md5",
+  "key": "spark-md5/3.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "spark-md5",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Lm/SKO9K6nVE/c4u5+pSz69axWnDo3vTh2KbZwEEfmY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/spark-md5/-/spark-md5-3.0.2.tgz"
+  }
+}

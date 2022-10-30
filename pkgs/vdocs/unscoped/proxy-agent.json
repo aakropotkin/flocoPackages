@@ -1,0 +1,56 @@
+{
+  "name": "proxy-agent",
+  "version": "5.0.0",
+  "description": "Maps proxy protocols to `http.Agent` implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/node-proxy-agent.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "agent-base": "^6.0.0",
+    "debug": "4",
+    "http-proxy-agent": "^4.0.0",
+    "https-proxy-agent": "^5.0.0",
+    "lru-cache": "^5.1.1",
+    "pac-proxy-agent": "^5.0.0",
+    "proxy-from-env": "^1.0.0",
+    "socks-proxy-agent": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/agent-base": "^4.2.0",
+    "mocha": "^6.2.1",
+    "proxy": "^1.0.1",
+    "socksv5": "0.0.6",
+    "stream-to-buffer": "0.1.0"
+  },
+  "gitHead": "3f4571097d22c9b9ac399d5b060c36b6e2caa993",
+  "_id": "proxy-agent@5.0.0",
+  "_nodeVersion": "14.17.3",
+  "_npmVersion": "7.18.1",
+  "dist": {
+    "integrity": "sha512-gkH7BkvLVkSfX9Dk27W6TyNOWWZWRilRfk1XxGNWOYJ2TuedAv1yFpCaU9QSBmBe716XOTNpYNOzhysyw8xn7g==",
+    "tarball": "https://registry.npmjs.org/proxy-agent/-/proxy-agent-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "proxy-agent",
+  "key": "proxy-agent/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "proxy-agent",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6FX0gaFMEMZ7Cw5+Dd5RIRtaME421YxRD1tbHJZXPVw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/proxy-agent/-/proxy-agent-5.0.0.tgz"
+  }
+}

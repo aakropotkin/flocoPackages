@@ -1,0 +1,73 @@
+{
+  "name": "postcss-attribute-case-insensitive",
+  "description": "Enable support for case insensitive attribute matching in selectors",
+  "version": "5.0.2",
+  "license": "MIT",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "postcss-selector-parser": "^6.0.10"
+  },
+  "peerDependencies": {
+    "postcss": "^8.2"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs && node ../../.github/bin/generate-docs/readme.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-attribute-case-insensitive"
+  },
+  "csstools": {
+    "cssdbId": "case-insensitive-attributes",
+    "exportName": "postcssAttributeCaseInsensitive",
+    "humanReadableName": "PostCSS Attribute Case Insensitive",
+    "specUrl": "https://www.w3.org/TR/selectors4/#attribute-case"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "3fc4ddf7f5c7cd789ef5454186a89c6ddf4b8ed0",
+  "_id": "postcss-attribute-case-insensitive@5.0.2",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-XIidXV8fDr0kKt28vqki84fRK8VW8eTuIa4PChv2MqKuT6C9UjmSKzen6KaWhWEoYvwxFCa7n/tC1SZ3tyq4SQ==",
+    "tarball": "https://registry.npmjs.org/postcss-attribute-case-insensitive/-/postcss-attribute-case-insensitive-5.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-attribute-case-insensitive",
+  "key": "postcss-attribute-case-insensitive/5.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-attribute-case-insensitive",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9PYW2BvTfvqqQqllpSrqw+V3LbD9JoCeGMkPHayIv1k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-attribute-case-insensitive/-/postcss-attribute-case-insensitive-5.0.2.tgz"
+  }
+}

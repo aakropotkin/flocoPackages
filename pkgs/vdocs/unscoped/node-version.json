@@ -1,0 +1,62 @@
+{
+  "name": "node-version",
+  "version": "2.0.0",
+  "description": "Get Node current version",
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srod/node-version.git"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "eslint": "eslint index.js || true",
+    "pretest": "npm run eslint",
+    "test": "jest",
+    "release-patch": "npm version patch -m 'Bump %s' && git push --tags origin HEAD:master",
+    "release-minor": "npm version minor -m 'Bump %s' && git push --tags origin HEAD:master",
+    "release-major": "npm version major -m 'Bump %s' && git push --tags origin HEAD:master",
+    "publish-latest": "npm publish",
+    "publish-beta": "npm publish --tag beta"
+  },
+  "devDependencies": {
+    "codecov": "3.6.1",
+    "eslint": "6.4.0",
+    "jest": "24.9.0"
+  },
+  "jest": {
+    "notify": true,
+    "verbose": true,
+    "testEnvironment": "node",
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true,
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      ".history"
+    ]
+  },
+  "gitHead": "a9cb68ec3abe55edc6947258e8211725fe958450",
+  "_id": "node-version@2.0.0",
+  "_nodeVersion": "12.6.0",
+  "_npmVersion": "6.11.3",
+  "dist": {
+    "integrity": "sha512-uQqN+/BiN+5gChfO8RQUR7kHoaC7ln41ox0+/2vEGyHGZ3sSDlaFW5v7qkJx3TfdOns4qiGWzsVAHNwTVG3juA==",
+    "tarball": "https://registry.npmjs.org/node-version/-/node-version-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "node-version",
+  "key": "node-version/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "node-version",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6++AncP8kklLS4lKyNQn5dPKizvyJcyCcHjYGiqKgMI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-version/-/node-version-2.0.0.tgz"
+  }
+}

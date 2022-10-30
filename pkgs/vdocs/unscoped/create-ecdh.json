@@ -1,0 +1,46 @@
+{
+  "name": "create-ecdh",
+  "version": "4.0.4",
+  "description": "createECDH but browserifiable",
+  "main": "index.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "standard && node test.js | tspec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-browserify/createECDH.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bn.js": "^4.1.0",
+    "elliptic": "^6.5.3"
+  },
+  "devDependencies": {
+    "tap-spec": "^1.0.1",
+    "tape": "^3.0.1",
+    "standard": "^5.4.1"
+  },
+  "gitHead": "51b8c81594beb156f2f531e4662c8e8497a05dad",
+  "_id": "create-ecdh@4.0.4",
+  "_nodeVersion": "12.16.0",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-mf+TCx8wWc9VpuxfP2ht0iSISLZnt0JgWlrOKZiNqyUZWnjIaCIVNQArMHnCZKfEYRg6IM7A+NeJoN8gf/Ws0A==",
+    "tarball": "https://registry.npmjs.org/create-ecdh/-/create-ecdh-4.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "create-ecdh",
+  "key": "create-ecdh/4.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "create-ecdh",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9X0VVsQTpvtFidcECJKBnBBTKVqv8H5iZA4W26givFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-ecdh/-/create-ecdh-4.0.4.tgz"
+  }
+}

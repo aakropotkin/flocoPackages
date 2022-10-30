@@ -1,0 +1,46 @@
+{
+  "name": "is-binary-path",
+  "version": "2.1.0",
+  "description": "Check if a file path is a binary file",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-binary-path.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "binary-extensions": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "gitHead": "efe99d8b3d0ef825925e8b986d047e39bee173c3",
+  "_id": "is-binary-path@2.1.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.16.0",
+  "dist": {
+    "integrity": "sha512-ZMERYes6pDydyuGidse7OsHxtbI7WVeUEozgR/g7rd0xUimYNlvZRE/K2MgZTjWy725IfelLeVcEM97mmtRGXw==",
+    "tarball": "https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-binary-path",
+  "key": "is-binary-path/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-binary-path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-sw0xKthTgrk2Z3NKJLg5XXpyAcTpC5aQkG0LDEGA8Lk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz"
+  }
+}

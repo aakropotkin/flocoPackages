@@ -1,0 +1,55 @@
+{
+  "name": "wkx",
+  "version": "0.5.0",
+  "description": "A WKT/WKB/EWKT/EWKB/TWKB/GeoJSON parser and serializer",
+  "main": "lib/wkx.js",
+  "types": "lib/wkx.d.ts",
+  "scripts": {
+    "test": "jshint . && nyc mocha",
+    "build": "mkdirp ./dist && browserify -r buffer -r ./lib/wkx.js:wkx ./lib/wkx.js > ./dist/wkx.js && uglifyjs -c -m -- ./dist/wkx.js > ./dist/wkx.min.js",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^3.2.0",
+    "browserify": "^16.5.0",
+    "coveralls": "^3.0.11",
+    "deep-eql": "^4.0.0",
+    "jshint": "^2.11.0",
+    "json-stringify-pretty-compact": "^2.0.0",
+    "mkdirp": "^1.0.3",
+    "mocha": "^7.1.1",
+    "nyc": "^15.0.0",
+    "pg": "^7.18.2",
+    "uglify-js": "^3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cschwarz/wkx.git"
+  },
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "gitHead": "b85b7b93af101a87a7a0fffa2a6d68c551b3f8d3",
+  "_id": "wkx@0.5.0",
+  "_nodeVersion": "12.16.1",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-Xng/d4Ichh8uN4l0FToV/258EjMGU9MGcA0HV2d9B/ZpZB3lqQm7nkOdZdm5GhKtLLhAE7PiVQwN4eN+2YJJUg==",
+    "tarball": "https://registry.npmjs.org/wkx/-/wkx-0.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "wkx",
+  "key": "wkx/0.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "wkx",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-oZbZOBQCt+9mIdahO+YGm+i6i7CYyXMbRPbRS43EgME=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/wkx/-/wkx-0.5.0.tgz"
+  }
+}

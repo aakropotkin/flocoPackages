@@ -1,0 +1,49 @@
+{
+  "name": "readdir-glob",
+  "description": "Recursive fs.readdir with streaming API and glob filtering.",
+  "version": "1.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Yqnn/node-readdir-glob.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "minimatch": "^5.1.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.9.0",
+    "mkdirp": "^1.0.4",
+    "nyc": "^15.1.0",
+    "rimraf": "^3.0.2",
+    "tick": "0.0.6"
+  },
+  "scripts": {
+    "test": "npx nyc --reporter=lcov --reporter=text-summary --reporter=html jasmine --config=jasmine.json",
+    "test-regen": "TEST_REGEN=1 jest --coverage",
+    "bench": "bash scripts/benchmark.sh",
+    "profile": "bash scripts/profile.sh && cat profile.txt"
+  },
+  "license": "Apache-2.0",
+  "gitHead": "b87c97e5ee47834d0b8aa48212d5244204566d1c",
+  "_id": "readdir-glob@1.1.2",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-6RLVvwJtVwEDfPdn6X6Ille4/lxGl0ATOY4FN/B9nxQcgOazvvI0nodiD19ScKq0PvA/29VpaOQML36o5IzZWA==",
+    "tarball": "https://registry.npmjs.org/readdir-glob/-/readdir-glob-1.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "readdir-glob",
+  "key": "readdir-glob/1.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "readdir-glob",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9g6vOTviriJ0V+JuagPgTObi2PTBB2n+eO5HfrR6K5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readdir-glob/-/readdir-glob-1.1.2.tgz"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "debuglog",
+  "version": "1.0.1",
+  "description": "backport of util.debuglog from node v0.11",
+  "license": "MIT",
+  "main": "debuglog.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sam-github/node-debuglog.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "browser": {
+    "util": false
+  },
+  "_id": "debuglog@1.0.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/debuglog/-/debuglog-1.0.1.tgz",
+    "integrity": "sha512-syBZ+rnAK3EgMsH2aYEOLUW7mZSY9Gb+0wUMCFsZvcmiz+HigA0LOcq/HoQqVuGG+EKykunc7QG2bzrponfaSw=="
+  },
+  "_from": ".",
+  "_npmVersion": "1.4.3",
+  "directories": {},
+  "ident": "debuglog",
+  "key": "debuglog/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "debuglog",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-NN/tGVF2xKvryHWfej8wmIbVFtUVOjoazInI91aTM+A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/debuglog/-/debuglog-1.0.1.tgz"
+  }
+}

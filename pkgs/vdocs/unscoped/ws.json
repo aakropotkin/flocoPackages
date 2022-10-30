@@ -1,0 +1,72 @@
+{
+  "name": "ws",
+  "version": "8.10.0",
+  "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websockets/ws.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "exports": {
+    ".": {
+      "import": "./wrapper.mjs",
+      "require": "./index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "browser": "browser.js",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "test": "nyc --reporter=lcov --reporter=text mocha --throw-deprecation test/*.test.js",
+    "integration": "mocha --throw-deprecation test/*.integration.js",
+    "lint": "eslint --ignore-path .gitignore . && prettier --check --ignore-path .gitignore \"**/*.{json,md,yaml,yml}\""
+  },
+  "peerDependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2"
+  },
+  "peerDependenciesMeta": {
+    "bufferutil": {
+      "optional": true
+    },
+    "utf-8-validate": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "bufferutil": "^4.0.1",
+    "eslint": "^8.0.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "mocha": "^8.4.0",
+    "nyc": "^15.0.0",
+    "prettier": "^2.0.5",
+    "utf-8-validate": "^5.0.2"
+  },
+  "gitHead": "cdca711ad434fe4f691392807cba3f83a515eebe",
+  "_id": "ws@8.10.0",
+  "_nodeVersion": "18.11.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-+s49uSmZpvtAsd2h37vIPy1RBusaLawVe8of+GyEPsaJTCMpj/2v8NpeK1SHXjBlQ95lQTmQofOJnFiLoaN3yw==",
+    "tarball": "https://registry.npmjs.org/ws/-/ws-8.10.0.tgz"
+  },
+  "directories": {},
+  "ident": "ws",
+  "key": "ws/8.10.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ws",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-FIum5NTPHFNW/UzBaNm5tqfdVDFbPENGMwlrF4QMQDQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ws/-/ws-8.10.0.tgz"
+  }
+}

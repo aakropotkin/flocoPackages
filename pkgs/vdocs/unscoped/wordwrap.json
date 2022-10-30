@@ -1,0 +1,45 @@
+{
+  "name": "wordwrap",
+  "description": "Wrap those words. Show them at what columns to start and stop.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/node-wordwrap.git"
+  },
+  "main": "./index.js",
+  "directories": {
+    "lib": ".",
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "expresso"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "license": "MIT",
+  "gitHead": "9f02667e901f2f10d87c33f7093fcf94788ab2f8",
+  "_id": "wordwrap@1.0.0",
+  "_shasum": "27584810891456a4171c8d0226441ade90cbcaeb",
+  "_from": ".",
+  "_npmVersion": "2.9.0",
+  "_nodeVersion": "2.0.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/wordwrap/-/wordwrap-1.0.0.tgz",
+    "integrity": "sha512-gvVzJFlPycKc5dZN4yPkP8w7Dc37BtP1yczEneOb4uq34pXZcvrtRTmWV8W+Ume+XCxKgbjM+nevkyFPMybd4Q=="
+  },
+  "ident": "wordwrap",
+  "key": "wordwrap/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "wordwrap",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WaWNUrhwYZHhwDowUV9OJb9MqQbULTfGBYeyUtBNDO8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/wordwrap/-/wordwrap-1.0.0.tgz"
+  }
+}

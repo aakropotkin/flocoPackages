@@ -1,0 +1,35 @@
+{
+  "name": "lodash.snakecase",
+  "version": "4.1.1",
+  "description": "The lodash method `_.snakeCase` exported as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash.snakecase@4.1.1",
+  "_shasum": "39d714a35357147837aefd64b5dcbb16becd8f8d",
+  "_from": ".",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash.snakecase/-/lodash.snakecase-4.1.1.tgz",
+    "integrity": "sha512-QZ1d4xoBHYUeuouhEq3lk3Uq7ldgyFXGBhg04+oRLnIz8o9T65Eh+8YdroUwn846zchkA9yDsDl5CVVaV2nqYw=="
+  },
+  "ident": "lodash.snakecase",
+  "key": "lodash.snakecase/4.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash.snakecase",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-b36WFK8zWFup/6Y1MWKiGBnCBiEmkpaCTd/xhZxa4+A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.snakecase/-/lodash.snakecase-4.1.1.tgz"
+  }
+}

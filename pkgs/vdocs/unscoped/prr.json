@@ -1,0 +1,40 @@
+{
+  "name": "prr",
+  "description": "A better Object.defineProperty()",
+  "version": "1.0.1",
+  "main": "./prr.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvagg/prr.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "*"
+  },
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "license": "MIT",
+  "gitHead": "b69ba0edc7aacbda0c98d550579e452b8597c126",
+  "_id": "prr@1.0.1",
+  "_shasum": "d3fc114ba06995a45ec6893f484ceb1d78f5f476",
+  "_from": ".",
+  "_npmVersion": "1.4.14",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/prr/-/prr-1.0.1.tgz",
+    "integrity": "sha512-yPw4Sng1gWghHQWj0B3ZggWUm4qVbPwPFcRG8KyxiU7J2OHFSoEHKS+EZ3fv5l1t9CyCiop6l/ZYeWbrgoQejw=="
+  },
+  "ident": "prr",
+  "key": "prr/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "prr",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6FRJUs1BEtOdHkoiVAKBO7/1Sx9ugCnqfvs9RrlXjWU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/prr/-/prr-1.0.1.tgz"
+  }
+}

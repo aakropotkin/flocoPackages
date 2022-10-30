@@ -1,0 +1,58 @@
+{
+  "name": "should-equal",
+  "version": "2.0.0",
+  "description": "Deep comparison of 2 instances for should.js",
+  "main": "cjs/should-equal.js",
+  "jsnext:main": "es6/should-equal.js",
+  "module": "es6/should-equal.js",
+  "scripts": {
+    "test": "mocha --ui bdd -R mocha-better-spec-reporter test.js",
+    "cjs": "rollup --format=cjs --output=cjs/should-equal.js index.js",
+    "es6": "rollup --format=es --output=es6/should-equal.js index.js",
+    "build": "npm run cjs && npm run es6",
+    "prepare": "npm run build",
+    "pretest": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shouldjs/equal.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.0.0",
+    "eslint-config-shouldjs": "^1.0.2",
+    "mocha": "^3.5.0",
+    "mocha-better-spec-reporter": "^3.1.0",
+    "rollup": "0.34.7"
+  },
+  "dependencies": {
+    "should-type": "^1.4.0"
+  },
+  "files": [
+    "cjs/*",
+    "es6/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "gitHead": "3f20f3c59e114397d9b7a02d3e4858db07ad8953",
+  "_id": "should-equal@2.0.0",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.4.0",
+  "dist": {
+    "integrity": "sha512-ZP36TMrK9euEuWQYBig9W55WPC7uo37qzAEmbjHz4gfyuXrEUgF8cUvQVO+w+d3OMfPvSRQJ22lSm8MQJ43LTA==",
+    "tarball": "https://registry.npmjs.org/should-equal/-/should-equal-2.0.0.tgz"
+  },
+  "ident": "should-equal",
+  "key": "should-equal/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "should-equal",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8qfOCzx55EfI1kXmZHmMGdBJyKbtDtafq0YbLqj9uDc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/should-equal/-/should-equal-2.0.0.tgz"
+  }
+}

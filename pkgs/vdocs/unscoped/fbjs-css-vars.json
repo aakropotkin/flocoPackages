@@ -1,0 +1,35 @@
+{
+  "name": "fbjs-css-vars",
+  "version": "1.0.2",
+  "description": "This package exports a few of the CSS variables that we use in Facebook projects. This is not the full list we have internally but focused on making available the minimum set needed by our open source projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/fbjs.git"
+  },
+  "license": "MIT",
+  "_id": "fbjs-css-vars@1.0.2",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "11.4.0",
+  "dist": {
+    "integrity": "sha512-b2XGFAFdWZWg0phtAWLHCk836A1Xann+I+Dgd3Gk64MHKZO44FfoD1KxyvbSh0qZsIoXQGGlVztIY+oitJPpRQ==",
+    "tarball": "https://registry.npmjs.org/fbjs-css-vars/-/fbjs-css-vars-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "fbjs-css-vars",
+  "key": "fbjs-css-vars/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fbjs-css-vars",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-INiK68YRPxUMDjdv3e1Xy9yWvAx+lMEiHfwb6HZ9wM8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fbjs-css-vars/-/fbjs-css-vars-1.0.2.tgz"
+  }
+}

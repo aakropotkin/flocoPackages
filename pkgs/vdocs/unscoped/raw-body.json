@@ -1,0 +1,62 @@
+{
+  "name": "raw-body",
+  "description": "Get and validate the raw body of a readable stream.",
+  "version": "2.5.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stream-utils/raw-body.git"
+  },
+  "dependencies": {
+    "bytes": "3.1.2",
+    "http-errors": "2.0.0",
+    "iconv-lite": "0.4.24",
+    "unpipe": "1.0.0"
+  },
+  "devDependencies": {
+    "bluebird": "3.7.2",
+    "eslint": "7.32.0",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-markdown": "2.2.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "5.2.0",
+    "eslint-plugin-standard": "4.1.0",
+    "mocha": "9.2.1",
+    "nyc": "15.1.0",
+    "readable-stream": "2.3.7",
+    "safe-buffer": "5.2.1"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --trace-deprecation --reporter spec --bail --check-leaks test/",
+    "test-ci": "nyc --reporter=lcovonly --reporter=text npm test",
+    "test-cov": "nyc --reporter=html --reporter=text npm test"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "67254cad860abbe8b1bbeb54e2638af702d3ac7c",
+  "_id": "raw-body@2.5.1",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-qqJBtEyVgS0ZmPGdCFPWJ3FreoqvG4MVQln/kCgF7Olq95IbOp0/BWyMwbdtn4VTvkM8Y7khCQ2Xgk/tcrCXig==",
+    "tarball": "https://registry.npmjs.org/raw-body/-/raw-body-2.5.1.tgz"
+  },
+  "directories": {},
+  "ident": "raw-body",
+  "key": "raw-body/2.5.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "raw-body",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-OEV777oKd64EPOeZPDmDr64ws4kowOg5ZxBb50L6Va4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/raw-body/-/raw-body-2.5.1.tgz"
+  }
+}

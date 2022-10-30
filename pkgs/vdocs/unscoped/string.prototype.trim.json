@@ -1,0 +1,91 @@
+{
+  "name": "string.prototype.trim",
+  "version": "1.2.6",
+  "description": "ES5 spec-compliant shim for String.prototype.trim",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "not-in-publish || npm run prepublishOnly",
+    "prepublishOnly": "safe-publish-latest",
+    "pretest": "npm run lint",
+    "test": "npm run tests-only",
+    "posttest": "aud --production",
+    "tests-only": "nyc tape 'test/**/*.js'",
+    "lint": "eslint --ext=js,mjs .",
+    "postlint": "es-shim-api --bound",
+    "version": "auto-changelog && git add CHANGELOG.md",
+    "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/es-shims/String.prototype.trim.git"
+  },
+  "dependencies": {
+    "call-bind": "^1.0.2",
+    "define-properties": "^1.1.4",
+    "es-abstract": "^1.19.5"
+  },
+  "devDependencies": {
+    "@es-shims/api": "^2.2.3",
+    "@ljharb/eslint-config": "^21.0.0",
+    "aud": "^2.0.0",
+    "auto-changelog": "^2.4.0",
+    "eslint": "=8.8.0",
+    "functions-have-names": "^1.2.3",
+    "has-strict-mode": "^1.0.1",
+    "nyc": "^10.3.2",
+    "safe-publish-latest": "^2.0.0",
+    "tape": "^5.5.3"
+  },
+  "testling": {
+    "files": "test/index.js",
+    "browsers": [
+      "iexplore/9.0..latest",
+      "firefox/4.0..6.0",
+      "firefox/15.0..latest",
+      "firefox/nightly",
+      "chrome/4.0..10.0",
+      "chrome/20.0..latest",
+      "chrome/canary",
+      "opera/11.6..latest",
+      "opera/next",
+      "safari/5.0..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2"
+    ]
+  },
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": false,
+    "commitLimit": false,
+    "backfillLimit": false,
+    "hideCredit": true
+  },
+  "gitHead": "fa3c01f38aeabc8704dcd7bead21887d1f60a1b6",
+  "_id": "string.prototype.trim@1.2.6",
+  "_nodeVersion": "18.0.0",
+  "_npmVersion": "8.3.1",
+  "dist": {
+    "integrity": "sha512-8lMR2m+U0VJTPp6JjvJTtGyc4FIGq9CdRt7O9p6T0e6K4vjU+OP+SQJpbe/SBmRcCUIvNUnjsbmY6lnMp8MhsQ==",
+    "tarball": "https://registry.npmjs.org/string.prototype.trim/-/string.prototype.trim-1.2.6.tgz"
+  },
+  "directories": {},
+  "ident": "string.prototype.trim",
+  "key": "string.prototype.trim/1.2.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "string.prototype.trim",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-XyFf7V+NyVsKaJtMZcbN19e6n4Ihx5+0uOOkPBptzNo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/string.prototype.trim/-/string.prototype.trim-1.2.6.tgz"
+  }
+}

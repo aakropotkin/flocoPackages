@@ -1,0 +1,49 @@
+{
+  "name": "react-reconciler",
+  "description": "React package for creating custom renderers.",
+  "version": "0.29.0",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git",
+    "directory": "packages/react-reconciler"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "loose-envify": "^1.1.0",
+    "scheduler": "^0.23.0"
+  },
+  "browserify": {
+    "transform": [
+      "loose-envify"
+    ]
+  },
+  "gitHead": "be229c5655074642ee664f532f2e7411dd7dccc7",
+  "_id": "react-reconciler@0.29.0",
+  "_nodeVersion": "17.1.0",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-wa0fGj7Zht1EYMRhKWwoo1H9GApxYLBuhoAuXN0TlltESAjDssB+Apf0T/DngVqaMyPypDmabL37vw/2aRM98Q==",
+    "tarball": "https://registry.npmjs.org/react-reconciler/-/react-reconciler-0.29.0.tgz"
+  },
+  "directories": {},
+  "ident": "react-reconciler",
+  "key": "react-reconciler/0.29.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "react-reconciler",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-KsfJRE8UuO5j57gdOazEt5oTEuru47t/Wn4nl6bJedM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-reconciler/-/react-reconciler-0.29.0.tgz"
+  }
+}

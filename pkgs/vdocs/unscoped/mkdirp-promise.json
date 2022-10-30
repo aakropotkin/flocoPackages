@@ -1,0 +1,56 @@
+{
+  "version": "5.0.1",
+  "name": "mkdirp-promise",
+  "description": "Promise version of mkdirp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadnassri/mkdirp-promise.git"
+  },
+  "license": "ISC",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "pretest": "snazzy && echint",
+    "test": "tap test",
+    "coverage": "tap test --reporter silent --coverage"
+  },
+  "devDependencies": {
+    "echint": "^2.1.0",
+    "rimraf": "^2.5.4",
+    "snazzy": "^6.0.0",
+    "tap": "^9.0.2"
+  },
+  "dependencies": {
+    "mkdirp": "*"
+  },
+  "gitHead": "069da6bb03aff578084b7bfc8a0edd7cd09f90e6",
+  "_id": "mkdirp-promise@5.0.1",
+  "_shasum": "e9b8f68e552c68a9c1713b84883f7a1dd039b8a1",
+  "_from": ".",
+  "_npmVersion": "4.0.5",
+  "_nodeVersion": "7.4.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/mkdirp-promise/-/mkdirp-promise-5.0.1.tgz",
+    "integrity": "sha512-Hepn5kb1lJPtVW84RFT40YG1OddBNTOVUZR2bzQUHc+Z03en8/3uX0+060JDhcEzyO08HmipsN9DcnFMxhIL9w=="
+  },
+  "directories": {},
+  "deprecated": "This package is broken and no longer maintained. 'mkdirp' itself supports promises now, please switch to that.",
+  "ident": "mkdirp-promise",
+  "key": "mkdirp-promise/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mkdirp-promise",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZGmsNXnXQNtc10UW2oxE1VwZQl55CK0OfksbnCytGdE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mkdirp-promise/-/mkdirp-promise-5.0.1.tgz"
+  }
+}

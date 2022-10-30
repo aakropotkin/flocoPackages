@@ -1,0 +1,45 @@
+{
+  "name": "detect-newline",
+  "version": "4.0.0",
+  "description": "Detect the dominant newline character of a string",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/detect-newline.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.18.0",
+    "xo": "^0.45.0"
+  },
+  "gitHead": "dd540459b7b095b82a487e7e47642ed8b946ca55",
+  "_id": "detect-newline@4.0.0",
+  "_nodeVersion": "14.17.5",
+  "_npmVersion": "7.20.3",
+  "dist": {
+    "integrity": "sha512-1aXUEPdfGdzVPFpzGJJNgq9o81bGg1s09uxTWsqBlo9PI332uyJRQq13+LK/UN4JfxJbFdCXonUFQ9R/p7yCtw==",
+    "tarball": "https://registry.npmjs.org/detect-newline/-/detect-newline-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "detect-newline",
+  "key": "detect-newline/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "detect-newline",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-tUw+p2QwJOYR0tBWEmU5lGHHhX18j+p7mc/JDZHHvrU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/detect-newline/-/detect-newline-4.0.0.tgz"
+  }
+}

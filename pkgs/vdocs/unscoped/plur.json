@@ -1,0 +1,49 @@
+{
+  "name": "plur",
+  "version": "5.1.0",
+  "description": "Pluralize a word",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/plur.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "irregular-plurals": "^3.3.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.18.0",
+    "xo": "^0.46.4"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "65138139bcca03f76f1cf7d0f94503daa2944e55",
+  "_id": "plur@5.1.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-VP/72JeXqak2KiOzjgKtQen5y3IZHn+9GOuLDafPv0eXa47xq0At93XahYBs26MsifCQ4enGKwbjBTKgb9QJXg==",
+    "tarball": "https://registry.npmjs.org/plur/-/plur-5.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "plur",
+  "key": "plur/5.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "plur",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-exegpEnYCOsmjebZ8Bnct22mxMqa1kkvGyWp6yWt+SM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/plur/-/plur-5.1.0.tgz"
+  }
+}

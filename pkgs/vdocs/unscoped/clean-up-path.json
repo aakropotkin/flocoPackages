@@ -1,0 +1,46 @@
+{
+  "name": "clean-up-path",
+  "description": "Make paths absolute and normalize them.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broccoli/node-clean-up-path.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1",
+    "mocha-eslint": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "test:debug": "mocha debug"
+  },
+  "gitHead": "41e71fc2fc2a4a1208775917598aa45f9854358c",
+  "_id": "clean-up-path@1.0.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.5.0",
+  "dist": {
+    "integrity": "sha512-PHGlEF0Z6976qQyN6gM7kKH6EH0RdfZcc8V+QhFe36eRxV0SMH5OUBZG7Bxa9YcreNzyNbK63cGiZxdSZgosRw==",
+    "tarball": "https://registry.npmjs.org/clean-up-path/-/clean-up-path-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "clean-up-path",
+  "key": "clean-up-path/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "clean-up-path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Qf9TfiIli41vQsg30DGP6Nuxq98WYlLfmdAXCo7eoh8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clean-up-path/-/clean-up-path-1.0.0.tgz"
+  }
+}

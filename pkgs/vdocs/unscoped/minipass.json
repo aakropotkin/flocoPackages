@@ -1,0 +1,69 @@
+{
+  "name": "minipass",
+  "version": "3.3.4",
+  "description": "minimal implementation of a PassThrough stream",
+  "main": "index.js",
+  "dependencies": {
+    "yallist": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.41",
+    "end-of-stream": "^1.4.0",
+    "prettier": "^2.6.2",
+    "tap": "^16.2.0",
+    "through2": "^2.0.3",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  },
+  "scripts": {
+    "test": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish --tag=next",
+    "postpublish": "git push origin --follow-tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/minipass.git"
+  },
+  "license": "ISC",
+  "tap": {
+    "check-coverage": true
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "prettier": {
+    "semi": false,
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "bracketSameLine": true,
+    "arrowParens": "avoid",
+    "endOfLine": "lf"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "66a65348ec33823db3f8dc90e5a60348eb2da600",
+  "_id": "minipass@3.3.4",
+  "_nodeVersion": "18.4.0",
+  "_npmVersion": "8.12.1",
+  "dist": {
+    "integrity": "sha512-I9WPbWHCGu8W+6k1ZiGpPu0GkoKBeorkfKNuAFBNS1HNFJvke82sxvI5bzcCNpWPorkOO5QQ+zomzzwRxejXiw==",
+    "tarball": "https://registry.npmjs.org/minipass/-/minipass-3.3.4.tgz"
+  },
+  "directories": {},
+  "ident": "minipass",
+  "key": "minipass/3.3.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "minipass",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9StEk5VI6gUt0//qZy9vJds5ErqJOIoVPOujJxuVPBg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/minipass/-/minipass-3.3.4.tgz"
+  }
+}

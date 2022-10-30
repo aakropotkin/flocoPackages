@@ -1,0 +1,48 @@
+{
+  "name": "webidl-conversions",
+  "version": "7.0.0",
+  "description": "Implements the WebIDL algorithms for converting to and from JavaScript values",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha test/*.js",
+    "test-no-sab": "mocha --parallel --jobs 2 --require test/helpers/delete-sab.js test/*.js",
+    "coverage": "nyc mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdom/webidl-conversions.git"
+  },
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "@domenic/eslint-config": "^1.3.0",
+    "eslint": "^7.32.0",
+    "mocha": "^9.1.1",
+    "nyc": "^15.1.0"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "7b8f708ffd7476fb60d18cef75bbdf4e60831191",
+  "_id": "webidl-conversions@7.0.0",
+  "_nodeVersion": "16.9.1",
+  "_npmVersion": "7.21.1",
+  "dist": {
+    "integrity": "sha512-VwddBukDzu71offAQR975unBIGqfKZpM+8ZX6ySk8nYhVoo5CYaZyzt3YBvYtRtO+aoGlqxPg/B87NGVZ/fu6g==",
+    "tarball": "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-7.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "webidl-conversions",
+  "key": "webidl-conversions/7.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "webidl-conversions",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-GD0Sli2FgnGuwbJrALGXal1IRwUhcZstqJ1bek+kXSU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-7.0.0.tgz"
+  }
+}

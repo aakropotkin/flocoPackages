@@ -1,0 +1,58 @@
+{
+  "name": "apollo-utilities",
+  "version": "1.3.4",
+  "description": "Utilities for working with GraphQL ASTs",
+  "license": "MIT",
+  "main": "./lib/bundle.cjs.js",
+  "module": "./lib/bundle.esm.js",
+  "typings": "./lib/index.d.ts",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollographql/apollo-client.git"
+  },
+  "scripts": {
+    "prepare": "npm run lint && npm run build",
+    "test": "tsc -p tsconfig.json --noEmit && jest",
+    "coverage": "jest --coverage",
+    "lint": "tslint -c \"../../config/tslint.json\" -p tsconfig.json src/*.ts",
+    "prebuild": "npm run clean",
+    "build": "tsc -b .",
+    "postbuild": "npm run bundle",
+    "bundle": "npx rollup -c rollup.config.js",
+    "watch": "../../node_modules/tsc-watch/index.js --onSuccess \"npm run postbuild\"",
+    "clean": "rm -rf coverage/* lib/*",
+    "prepublishOnly": "npm run clean && npm run build"
+  },
+  "peerDependencies": {
+    "graphql": "^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0"
+  },
+  "dependencies": {
+    "@wry/equality": "^0.1.2",
+    "fast-json-stable-stringify": "^2.0.0",
+    "ts-invariant": "^0.4.0",
+    "tslib": "^1.10.0"
+  },
+  "gitHead": "d22394c419ff7d678afb5e7d4cd1df16ed803ead",
+  "_id": "apollo-utilities@1.3.4",
+  "_nodeVersion": "10.15.3",
+  "_npmVersion": "lerna/3.20.2/node@v10.15.3+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-pk2hiWrCXMAy2fRPwEyhvka+mqwzeP60Jr1tRYi5xru+3ko94HI9o6lK0CT33/w4RDlxWchmdhDCrvdr+pHCig==",
+    "tarball": "https://registry.npmjs.org/apollo-utilities/-/apollo-utilities-1.3.4.tgz"
+  },
+  "directories": {},
+  "ident": "apollo-utilities",
+  "key": "apollo-utilities/1.3.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "apollo-utilities",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-VMiOFxS9xaUOGt5xo6MiSl3NbRzTLxrKVY/Id1hC5os=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/apollo-utilities/-/apollo-utilities-1.3.4.tgz"
+  }
+}

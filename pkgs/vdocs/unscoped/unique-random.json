@@ -1,0 +1,45 @@
+{
+  "name": "unique-random",
+  "version": "3.0.0",
+  "description": "Generate random numbers that are consecutively unique",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/unique-random.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "gitHead": "e4dfe9653ac4e0faa87d5f941a22ecdf195d9a62",
+  "_id": "unique-random@3.0.0",
+  "_nodeVersion": "15.12.0",
+  "_npmVersion": "6.14.10",
+  "dist": {
+    "integrity": "sha512-4vjtE3pH6xO5OmsSmjc6KPgHy2rbCw66BbMRLIyXkuq+WzOKA1oNkqQ+Y7Lh+sE0DrOrWMSpFkivhhzCF7J6HA==",
+    "tarball": "https://registry.npmjs.org/unique-random/-/unique-random-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "unique-random",
+  "key": "unique-random/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "unique-random",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9jRARtxgea9UJqw723jqfi95tYUB+QTj3A+Grv3khUg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-random/-/unique-random-3.0.0.tgz"
+  }
+}

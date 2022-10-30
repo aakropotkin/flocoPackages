@@ -1,0 +1,52 @@
+{
+  "name": "beeper",
+  "version": "3.0.0",
+  "description": "Make your terminal beep",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/beeper.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "yoctodelay": "^1.2.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "hooker": "^0.2.3",
+    "tsd": "^0.14.0",
+    "xo": "^0.39.1"
+  },
+  "ava": {
+    "serial": true
+  },
+  "gitHead": "fa2e75d46affd1d4f92ad3c0b988fca159ab41ff",
+  "_id": "beeper@3.0.0",
+  "_nodeVersion": "16.0.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-8d0BXEuBIiPfmKvATnSCN58sGKCB3vy+lwORdSvfC5uN6OMlPj9/aVMXsmvt5dIvjjyxiuKYfMVWpiAh/kJr5w==",
+    "tarball": "https://registry.npmjs.org/beeper/-/beeper-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "beeper",
+  "key": "beeper/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "beeper",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ihBcOxn3v8xbfUKLUwOoZ2TXBxt6jFy9a4tjQgauAAU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/beeper/-/beeper-3.0.0.tgz"
+  }
+}

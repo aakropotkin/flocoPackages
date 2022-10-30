@@ -1,0 +1,55 @@
+{
+  "name": "duplexer",
+  "version": "0.1.2",
+  "description": "Creates a duplex stream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Raynos/duplexer.git"
+  },
+  "main": "index",
+  "devDependencies": {
+    "tape": "0.3.3",
+    "through": "~0.1.4"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node test"
+  },
+  "testling": {
+    "files": "test/index.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/16..latest",
+      "firefox/nightly",
+      "chrome/22..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest"
+    ]
+  },
+  "gitHead": "c95eea6d766499ec24832df1022771225b77f1bf",
+  "_id": "duplexer@0.1.2",
+  "_nodeVersion": "12.8.1",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-jtD6YG370ZCIi/9GTaJKQxWTZD045+4R4hTk/x1UyoqadyJ9x9CgSi1RlVDQF8U2sxLLSnFkCaMihqljHIWgMg==",
+    "tarball": "https://registry.npmjs.org/duplexer/-/duplexer-0.1.2.tgz"
+  },
+  "directories": {},
+  "ident": "duplexer",
+  "key": "duplexer/0.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "duplexer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PQZbW7oPvpHa9yXNSwWemotO23UwUd7s98eL2odyNCM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/duplexer/-/duplexer-0.1.2.tgz"
+  }
+}

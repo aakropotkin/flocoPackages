@@ -1,0 +1,33 @@
+{
+  "name": "https",
+  "version": "1.0.0",
+  "description": "https mediation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "_id": "https@1.0.0",
+  "_shasum": "3c37c7ae1a8eeb966904a2ad1e975a194b7ed3a4",
+  "_from": ".",
+  "_npmVersion": "2.1.18",
+  "_nodeVersion": "0.10.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/https/-/https-1.0.0.tgz",
+    "integrity": "sha512-4EC57ddXrkaF0x83Oj8sM6SLQHAWXw90Skqu2M4AEWENZ3F02dFJE/GARA8igO79tcgYqGrD7ae4f5L3um2lgg=="
+  },
+  "directories": {},
+  "ident": "https",
+  "key": "https/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "https",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-hMaoZ/D83eCsXEN4J5hUom8jXvNkscnRQL7ZDuS6/VI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/https/-/https-1.0.0.tgz"
+  }
+}

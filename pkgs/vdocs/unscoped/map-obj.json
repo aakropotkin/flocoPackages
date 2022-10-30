@@ -1,0 +1,46 @@
+{
+  "name": "map-obj",
+  "version": "5.0.2",
+  "description": "Map object keys and values into a new object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/map-obj.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.18.0",
+    "xo": "^0.45.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "4257d4dd8564efa2372c6964eb16463cb3af898d",
+  "_id": "map-obj@5.0.2",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-K6K2NgKnTXimT3779/4KxSvobxOtMmx1LBZ3NwRxT/MDIR3Br/fQ4Q+WCX5QxjyUR8zg5+RV9Tbf2c5pAWTD2A==",
+    "tarball": "https://registry.npmjs.org/map-obj/-/map-obj-5.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "map-obj",
+  "key": "map-obj/5.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "map-obj",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-t+Pi4OsOSxCOGWgrDG2UzmgX69aYOqRygpoulAXfK6U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/map-obj/-/map-obj-5.0.2.tgz"
+  }
+}

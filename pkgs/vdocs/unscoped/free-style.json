@@ -1,0 +1,100 @@
+{
+  "name": "free-style",
+  "version": "4.1.0",
+  "description": "Make CSS easier and more maintainable by using JavaScript",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "module": "dist.module/index.js",
+  "jsnext:main": "dist.module/index.js",
+  "sideEffects": false,
+  "scripts": {
+    "prettier": "prettier --write",
+    "lint": "eslint \"./src/**/*.{js,jsx,ts,tsx}\" --quiet --fix",
+    "format": "npm run prettier -- \"{,{src,benchmarks}/**/}*.{js,jsx,ts,tsx,json,md,yml,yaml}\"",
+    "build": "rimraf dist/ dist.module/ dist.es5/ && tsc && tsc -P tsconfig.module.json && tsc -P tsconfig.es5.json",
+    "bench:hash": "ts-node benchmarks/hash.ts",
+    "bench:perf": "ts-node benchmarks/perf.ts",
+    "specs": "jest --coverage",
+    "test": "npm run build && npm run lint && npm run specs && npm run size",
+    "size": "size-limit",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/free-style.git"
+  },
+  "license": "MIT",
+  "size-limit": [
+    {
+      "path": "dist/index.js",
+      "limit": "1.6 kB"
+    }
+  ],
+  "jest": {
+    "roots": [
+      "<rootDir>/src/"
+    ],
+    "transform": {
+      "\\.tsx?$": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(tsx?|jsx?)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,md,yml,yaml}": "npm run prettier"
+  },
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^4.4.5",
+    "@types/jest": "^26.0.20",
+    "@types/node": "^14.14.22",
+    "@typescript-eslint/eslint-plugin": "^4.14.0",
+    "@typescript-eslint/parser": "^4.14.0",
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "husky": "^4.2.3",
+    "jest": "^26.6.3",
+    "just-css-properties": "^1.0.0",
+    "lint-staged": "^10.0.8",
+    "prettier": "^2.0.2",
+    "rimraf": "^3.0.0",
+    "size-limit": "^4.0.2",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  },
+  "gitHead": "2ffed7e32efe50997027e2e260c3bc4dbdb38ba7",
+  "_id": "free-style@4.1.0",
+  "_nodeVersion": "15.6.0",
+  "_npmVersion": "6.14.9",
+  "dist": {
+    "integrity": "sha512-Irv8vaifjszJimKa+6lcax5bEIpMb1oQ7N6zLFQK3ovCnYDPsy1M5DiuHV1mDSYvEFtQ2/mu37kn+UEooeJ6Ww==",
+    "tarball": "https://registry.npmjs.org/free-style/-/free-style-4.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "free-style",
+  "key": "free-style/4.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "free-style",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lkazHHAsiPbNaDi6I0b4ps/yrARWw0mNACcu1UN8IYE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/free-style/-/free-style-4.1.0.tgz"
+  }
+}

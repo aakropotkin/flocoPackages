@@ -1,0 +1,44 @@
+{
+  "name": "builtins",
+  "version": "5.0.1",
+  "description": "List of node.js builtin modules",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliangruber/builtins.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier-standard && standard && node-core-test"
+  },
+  "dependencies": {
+    "semver": "^7.0.0"
+  },
+  "devDependencies": {
+    "node-core-test": "^1.4.0",
+    "prettier-standard": "^15.0.1",
+    "standard": "^14.3.4"
+  },
+  "gitHead": "5a2ba635222ab0a97efdc9f812cbfa1410779a2f",
+  "_id": "builtins@5.0.1",
+  "_nodeVersion": "18.0.0",
+  "_npmVersion": "8.6.0",
+  "dist": {
+    "integrity": "sha512-qwVpFEHNfhYJIzNRBvd2C1kyo6jz3ZSMPyyuR47OPdiKWlbYnZNyDWuyR175qDnAJLiCo5fBBqPb3RiXgWlkOQ==",
+    "tarball": "https://registry.npmjs.org/builtins/-/builtins-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "builtins",
+  "key": "builtins/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "builtins",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9zWNomp2xLZvtlfjovg0EczcXEfAUiS7wpDmMb33RXI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/builtins/-/builtins-5.0.1.tgz"
+  }
+}

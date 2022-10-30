@@ -1,0 +1,40 @@
+{
+  "name": "path",
+  "description": "Node.JS path module",
+  "license": "MIT",
+  "version": "0.12.7",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jinder/path.git"
+  },
+  "main": "./path.js",
+  "dependencies": {
+    "process": "^0.11.1",
+    "util": "^0.10.3"
+  },
+  "gitHead": "7fbaede3ca9d224494cbdd47d7ca803ee96d2055",
+  "_id": "path@0.12.7",
+  "scripts": {},
+  "_shasum": "d4dc2a506c4ce2197eb481ebfcd5b36c0140b10f",
+  "_from": ".",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/path/-/path-0.12.7.tgz",
+    "integrity": "sha512-aXXC6s+1w7otVF9UletFkFcDsJeO7lSZBPUQhtb5O0xJe8LtYhj/GxldoL09bBj9+ZmE2hNoHqQSFMN5fikh4Q=="
+  },
+  "directories": {},
+  "ident": "path",
+  "key": "path/0.12.7",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-V9/vDwel0uEntna5Md+7OlGtuoMvsGzu1uPVtR9FMVw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/path/-/path-0.12.7.tgz"
+  }
+}

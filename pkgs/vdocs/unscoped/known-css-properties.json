@@ -1,0 +1,48 @@
+{
+  "name": "known-css-properties",
+  "version": "0.25.0",
+  "description": "List of known CSS properties",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/known-css/known-css-properties.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "bump": "npm version patch && npm publish && git push && git push --tags",
+    "download-w3c-data": "node scripts/download-w3c-data",
+    "generate": "node scripts/generate",
+    "lint": "eslint index.js scripts/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "0.27.2",
+    "eslint": "8.14.0",
+    "globby": "13.1.1",
+    "lodash.sortby": "4.7.0",
+    "lodash.uniq": "4.5.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "ba07b0a61326b6df68caac3dc2081962b2be3e78",
+  "_id": "known-css-properties@0.25.0",
+  "_nodeVersion": "16.13.2",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-b0/9J1O9Jcyik1GC6KC42hJ41jKwdO/Mq8Mdo5sYN+IuRTXs2YFHZC3kZSx6ueusqa95x3wLYe/ytKjbAfGixA==",
+    "tarball": "https://registry.npmjs.org/known-css-properties/-/known-css-properties-0.25.0.tgz"
+  },
+  "directories": {},
+  "ident": "known-css-properties",
+  "key": "known-css-properties/0.25.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "known-css-properties",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ZBYKAO/uCfs/SHeBcUhpHIhlRoLG+cMLGB/FC42JSXs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/known-css-properties/-/known-css-properties-0.25.0.tgz"
+  }
+}

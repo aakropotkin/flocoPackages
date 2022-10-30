@@ -1,0 +1,58 @@
+{
+  "name": "ini",
+  "description": "An ini encoder/decoder for node",
+  "version": "3.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/ini.git"
+  },
+  "main": "lib/ini.js",
+  "scripts": {
+    "eslint": "eslint",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "test": "tap",
+    "snap": "tap",
+    "posttest": "npm run lint",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "prepublishOnly": "git push origin --follow-tags",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "3.5.0",
+    "tap": "^16.0.1"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": "^12.13.0 || ^14.15.0 || >=16.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "3.5.0"
+  },
+  "gitHead": "153678b91f53c1827c1e8e089f721fe7dcc33cd4",
+  "_id": "ini@3.0.1",
+  "_nodeVersion": "18.6.0",
+  "_npmVersion": "8.18.0",
+  "dist": {
+    "integrity": "sha512-it4HyVAUTKBc6m8e1iXWvXSTdndF7HbdN713+kvLrymxTaU4AUBWrJ4vEooP+V7fexnVD3LKcBshjGGPefSMUQ==",
+    "tarball": "https://registry.npmjs.org/ini/-/ini-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "ini",
+  "key": "ini/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ini",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xlY6VOWkwvGJx6kTzo0a1EgFWGcYI5nZ+8KjbWVD9jI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ini/-/ini-3.0.1.tgz"
+  }
+}

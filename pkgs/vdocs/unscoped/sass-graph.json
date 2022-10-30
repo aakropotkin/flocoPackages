@@ -1,0 +1,58 @@
+{
+  "name": "sass-graph",
+  "version": "4.0.1",
+  "description": "Parse sass files and extract a graph of imports",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzyfer/sass-graph.git"
+  },
+  "main": "sass-graph.js",
+  "directories": {
+    "bin": "./bin"
+  },
+  "scripts": {
+    "test": "nyc mocha",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "dependencies": {
+    "glob": "^7.0.0",
+    "lodash": "^4.17.11",
+    "scss-tokenizer": "^0.4.3",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "mocha": "^5.2.0",
+    "nyc": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "bin": {
+    "sassgraph": "bin/sassgraph"
+  },
+  "gitHead": "32af0208e2961ebe8f3eb45d8cb4a6a219aa02d0",
+  "_id": "sass-graph@4.0.1",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-5YCfmGBmxoIRYHnKK2AKzrAkCoQ8ozO+iumT8K4tXJXRVCPf+7s1/9KxTSW3Rbvf+7Y7b4FR3mWyLnQr3PHocA==",
+    "tarball": "https://registry.npmjs.org/sass-graph/-/sass-graph-4.0.1.tgz"
+  },
+  "ident": "sass-graph",
+  "key": "sass-graph/4.0.1",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "sass-graph",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-H77BcwODpNByXJ50/ZjaDCTdtwOz9gJApRW0FEnAnkY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sass-graph/-/sass-graph-4.0.1.tgz"
+  }
+}

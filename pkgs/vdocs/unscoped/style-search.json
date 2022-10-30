@@ -1,0 +1,40 @@
+{
+  "name": "style-search",
+  "version": "0.1.0",
+  "description": "Search CSS(-like) strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtheclark/style-search.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "gitHead": "e7e02010544c9204bbbc323cf3b18ae1a0fcb39b",
+  "_id": "style-search@0.1.0",
+  "_shasum": "7958c793e47e32e07d2b5cafe5c0bf8e12e77902",
+  "_from": ".",
+  "_npmVersion": "2.15.6",
+  "_nodeVersion": "4.4.5",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/style-search/-/style-search-0.1.0.tgz",
+    "integrity": "sha512-Dj1Okke1C3uKKwQcetra4jSuk0DqbzbYtXipzFlFMZtowbF1x7BKJwB9AayVMyFARvU8EDrZdcax4At/452cAg=="
+  },
+  "ident": "style-search",
+  "key": "style-search/0.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "style-search",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UX2l3AH0izrkJ6dCgLzH1AaJXj6sVbTHuuv6xvsGV2g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/style-search/-/style-search-0.1.0.tgz"
+  }
+}

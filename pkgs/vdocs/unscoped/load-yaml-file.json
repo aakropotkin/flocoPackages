@@ -1,0 +1,50 @@
+{
+  "name": "load-yaml-file",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinusU/load-yaml-file.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "standard && mocha && ts-readme-generator --check"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.2.8",
+    "js-yaml": "^4.1.0",
+    "strip-bom": "^5.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.0",
+    "standard": "^16.0.3",
+    "ts-readme-generator": "^0.6.1"
+  },
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "gitHead": "a0a351b7477a24747e8d2de34587e9f70cdd0fd2",
+  "description": "Read and parse a YAML file.",
+  "_id": "load-yaml-file@1.0.0",
+  "_nodeVersion": "16.5.0",
+  "_npmVersion": "7.19.1",
+  "dist": {
+    "integrity": "sha512-Xw+A/X4c5R6GWu7ZUQgw1rnbfUr1P/hAZbDTrreo+/fP/YSGgxAKoWe2IcT+bt4RHuyIca6S7SMGcWx+QI3WIw==",
+    "tarball": "https://registry.npmjs.org/load-yaml-file/-/load-yaml-file-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "load-yaml-file",
+  "key": "load-yaml-file/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "load-yaml-file",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1ljlWEUUQI4gEg2mNatolL56aqA5mGRhKN75PVi2F0s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/load-yaml-file/-/load-yaml-file-1.0.0.tgz"
+  }
+}

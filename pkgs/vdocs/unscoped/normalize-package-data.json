@@ -1,0 +1,72 @@
+{
+  "name": "normalize-package-data",
+  "version": "5.0.0",
+  "description": "Normalizes data that can be found in package.json files.",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/normalize-package-data.git"
+  },
+  "main": "lib/normalize.js",
+  "scripts": {
+    "test": "tap",
+    "npmclilint": "npmcli-lint",
+    "lint": "eslint \"**/*.js\"",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "postsnap": "npm run lintfix --",
+    "postlint": "template-oss-check",
+    "snap": "tap",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "dependencies": {
+    "hosted-git-info": "^6.0.0",
+    "is-core-module": "^2.8.1",
+    "semver": "^7.3.5",
+    "validate-npm-package-license": "^3.0.4"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "tap": {
+    "branches": 86,
+    "functions": 92,
+    "lines": 86,
+    "statements": 86,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "9b8074b4c236c9471701571105ce09b5e6a5c5cf",
+  "_id": "normalize-package-data@5.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-h9iPVIfrVZ9wVYQnxFgtw1ugSvGEMOlyPWWtm8BMJhnwyEL/FLbYbTY3V3PpjI/BUK67n9PEWDu6eHzu1fB15Q==",
+    "tarball": "https://registry.npmjs.org/normalize-package-data/-/normalize-package-data-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "normalize-package-data",
+  "key": "normalize-package-data/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "normalize-package-data",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BOtPsAQpWDBmrjKXy5ORmbWB4dRoxef6+6XnLU5ojhE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/normalize-package-data/-/normalize-package-data-5.0.0.tgz"
+  }
+}

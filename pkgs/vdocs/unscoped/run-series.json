@@ -1,0 +1,45 @@
+{
+  "name": "run-series",
+  "description": "Run an array of functions in series",
+  "version": "1.1.9",
+  "dependencies": {},
+  "devDependencies": {
+    "airtap": "^3.0.0",
+    "standard": "*",
+    "tape": "^5.0.1"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/run-series.git"
+  },
+  "scripts": {
+    "test": "standard && npm run test-node && npm run test-browser",
+    "test-browser": "airtap -- test/*.js",
+    "test-browser-local": "airtap --local -- test/*.js",
+    "test-node": "tape test/*.js"
+  },
+  "gitHead": "4b70d478f54d4341ebdc62bada960b388e87cc4e",
+  "_id": "run-series@1.1.9",
+  "_nodeVersion": "14.14.0",
+  "_npmVersion": "6.14.8",
+  "dist": {
+    "integrity": "sha512-Arc4hUN896vjkqCYrUXquBFtRZdv1PfLbTYP71efP6butxyQ0kWpiNJyAgsxscmQg1cqvHY32/UCBzXedTpU2g==",
+    "tarball": "https://registry.npmjs.org/run-series/-/run-series-1.1.9.tgz"
+  },
+  "directories": {},
+  "ident": "run-series",
+  "key": "run-series/1.1.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "run-series",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-evljQGAawbWP+6+ZwiEw3sLq0LYq3wTcI3G7q9FztTI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/run-series/-/run-series-1.1.9.tgz"
+  }
+}

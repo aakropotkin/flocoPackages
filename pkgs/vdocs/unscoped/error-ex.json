@@ -1,0 +1,57 @@
+{
+  "name": "error-ex",
+  "description": "Easy error subclassing and stack customization",
+  "version": "1.3.2",
+  "license": "MIT",
+  "scripts": {
+    "pretest": "xo",
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "xo": {
+    "rules": {
+      "operator-linebreak": [
+        0
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qix-/node-error-ex.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "should": "^7.0.1",
+    "xo": "^0.7.1"
+  },
+  "dependencies": {
+    "is-arrayish": "^0.2.1"
+  },
+  "gitHead": "3953ebb9e4a33287e67676a70a8ad72bbbe38075",
+  "_id": "error-ex@1.3.2",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.6.1",
+  "dist": {
+    "integrity": "sha512-7dFHNmqeFSEt2ZBsCriorKnn3Z2pj+fd9kmI6QoWw4//DL+icEBfc0U7qJCisqrTsKTjw4fNFy2pW9OqStD84g==",
+    "tarball": "https://registry.npmjs.org/error-ex/-/error-ex-1.3.2.tgz"
+  },
+  "directories": {},
+  "ident": "error-ex",
+  "key": "error-ex/1.3.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "error-ex",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-daqjq1BAM46eXv0Nt+56+SGe+PTSy7sK4X6E66WwGSw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/error-ex/-/error-ex-1.3.2.tgz"
+  }
+}

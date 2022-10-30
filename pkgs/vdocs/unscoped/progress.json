@@ -1,0 +1,37 @@
+{
+  "name": "progress",
+  "version": "2.0.3",
+  "description": "Flexible ascii progress bar",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/visionmedia/node-progress.git"
+  },
+  "dependencies": {},
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "license": "MIT",
+  "gitHead": "0790207ef077cbfb7ebde24a1dd9895ebf4643e1",
+  "_id": "progress@2.0.3",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.9.4",
+  "dist": {
+    "integrity": "sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==",
+    "tarball": "https://registry.npmjs.org/progress/-/progress-2.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "progress",
+  "key": "progress/2.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "progress",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-AtFLPjyC2TcSpxjkvY2WPEOcqocgn4byo4cb2TZsZ+w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress/-/progress-2.0.3.tgz"
+  }
+}

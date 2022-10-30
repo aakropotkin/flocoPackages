@@ -1,0 +1,41 @@
+{
+  "name": "file-stream-rotator",
+  "version": "0.6.1",
+  "description": "Automated stream rotation useful for log files",
+  "main": "FileStreamRotator.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rogerc/file-stream-rotator.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "_resolved": "",
+  "_integrity": "",
+  "_from": "git+https://github.com/rogerc/file-stream-rotator.git",
+  "_id": "file-stream-rotator@0.6.1",
+  "_nodeVersion": "12.22.9",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-u+dBid4PvZw17PmDeRcNOtCP9CCK/9lRN2w+r1xIS7yOL9JFrIBKTvrYsxT4P0pGtThYTn++QS5ChHaUov3+zQ==",
+    "tarball": "https://registry.npmjs.org/file-stream-rotator/-/file-stream-rotator-0.6.1.tgz"
+  },
+  "directories": {},
+  "ident": "file-stream-rotator",
+  "key": "file-stream-rotator/0.6.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "file-stream-rotator",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6H1TjjvzpdNr3gnTQlDzN4a6YWuY2Vpq3GhBSn4KCm8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/file-stream-rotator/-/file-stream-rotator-0.6.1.tgz"
+  }
+}

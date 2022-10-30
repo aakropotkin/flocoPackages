@@ -1,0 +1,85 @@
+{
+  "name": "babel-plugin-debug-macros",
+  "version": "0.3.4",
+  "description": "Debug macros and feature flag stripping",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadhietala/babel-debug-macros.git"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "changelog": "lerna-changelog",
+    "lint": "eslint .",
+    "test": "npm-run-all lint test:jest",
+    "test:jest": "jest"
+  },
+  "jest": {
+    "testMatch": [
+      "<rootDir>/tests/**/*-test.js"
+    ]
+  },
+  "dependencies": {
+    "semver": "^5.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.2.0",
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-prettier": "^2.6.0",
+    "jest": "^21.0.0",
+    "lerna-changelog": "^0.8.2",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^1.12.1",
+    "release-it": "^14.2.1",
+    "release-it-lerna-changelog": "^3.1.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "release-it": {
+    "plugins": {
+      "release-it-lerna-changelog": {
+        "infile": "CHANGELOG.md",
+        "launchEditor": true
+      }
+    },
+    "git": {
+      "tagName": "v${version}"
+    },
+    "github": {
+      "release": true,
+      "tokenRef": "GITHUB_AUTH"
+    }
+  },
+  "gitHead": "ea04b3e47c9c3ccc8cfc753a0c50e830c1eb8592",
+  "_id": "babel-plugin-debug-macros@0.3.4",
+  "_nodeVersion": "12.16.2",
+  "_npmVersion": "6.14.4",
+  "dist": {
+    "integrity": "sha512-wfel/vb3pXfwIDZUrkoDrn5FHmlWI96PCJ3UCDv2a86poJ3EQrnArNW5KfHSVJ9IOgxHbo748cQt7sDU+0KCEw==",
+    "tarball": "https://registry.npmjs.org/babel-plugin-debug-macros/-/babel-plugin-debug-macros-0.3.4.tgz"
+  },
+  "directories": {},
+  "ident": "babel-plugin-debug-macros",
+  "key": "babel-plugin-debug-macros/0.3.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-debug-macros",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+nBYW3INTa8K7ebPbTpmtlqKUY+MpGrNGzVq4gokAzc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-debug-macros/-/babel-plugin-debug-macros-0.3.4.tgz"
+  }
+}

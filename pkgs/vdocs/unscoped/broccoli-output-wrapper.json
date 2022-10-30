@@ -1,0 +1,56 @@
+{
+  "name": "broccoli-output-wrapper",
+  "version": "3.2.5",
+  "description": "Output wrapper is a library to write output file to outputpath.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "test": "yarn clean && yarn build && mocha -r ts-node/register",
+    "test:debug": "yarn build && mocha --inspect-brk -r ts-node/register"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "heimdalljs-logger": "^0.1.10",
+    "symlink-or-copy": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.0.1",
+    "@types/node": "^12.11.1",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1",
+    "tmp": "^0.1.0",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "engines": {
+    "node": "10.* || >= 12.*"
+  },
+  "volta": {
+    "node": "10.12.0"
+  },
+  "gitHead": "f9876eabb7f484669d2338bb747da77d697080ba",
+  "_id": "broccoli-output-wrapper@3.2.5",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.12.0",
+  "dist": {
+    "integrity": "sha512-bQAtwjSrF4Nu0CK0JOy5OZqw9t5U0zzv2555EA/cF8/a8SLDTIetk9UgrtMVw7qKLKdSpOZ2liZNeZZDaKgayw==",
+    "tarball": "https://registry.npmjs.org/broccoli-output-wrapper/-/broccoli-output-wrapper-3.2.5.tgz"
+  },
+  "directories": {},
+  "ident": "broccoli-output-wrapper",
+  "key": "broccoli-output-wrapper/3.2.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "broccoli-output-wrapper",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lmaCwKmt/u0mJpkiC3oYFh1zlk4y2Gan3YAtluecgCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/broccoli-output-wrapper/-/broccoli-output-wrapper-3.2.5.tgz"
+  }
+}

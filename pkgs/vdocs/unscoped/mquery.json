@@ -1,0 +1,50 @@
+{
+  "name": "mquery",
+  "version": "4.0.3",
+  "description": "Expressive query building for MongoDB",
+  "main": "lib/mquery.js",
+  "scripts": {
+    "test": "mocha test/index.js test/*.test.js",
+    "fix-lint": "eslint . --fix",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aheckmann/mquery.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "debug": "4.x"
+  },
+  "devDependencies": {
+    "eslint": "8.x",
+    "eslint-plugin-mocha-no-only": "1.1.1",
+    "mocha": "9.x",
+    "mongodb": "4.x"
+  },
+  "license": "MIT",
+  "gitHead": "270cae6b1150946e938cb275d3fe17b9866b8a92",
+  "_id": "mquery@4.0.3",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-J5heI+P08I6VJ2Ky3+33IpCdAvlYGTSUjwTPxkAr8i8EoduPMBX2OY/wa3IKZIQl7MU4SbFk8ndgSKyB/cl1zA==",
+    "tarball": "https://registry.npmjs.org/mquery/-/mquery-4.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "mquery",
+  "key": "mquery/4.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mquery",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xKsEYh37+Et8i97sRO22fqavdk1W4X8MEBQJtJ40aBc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mquery/-/mquery-4.0.3.tgz"
+  }
+}

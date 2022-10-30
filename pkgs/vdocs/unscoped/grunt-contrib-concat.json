@@ -1,0 +1,54 @@
+{
+  "name": "grunt-contrib-concat",
+  "description": "Concatenate files.",
+  "version": "2.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruntjs/grunt-contrib-concat.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "main": "tasks/concat.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "source-map": "^0.5.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-internal": "^7.0.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-nodeunit": "^4.0.0"
+  },
+  "peerDependencies": {
+    "grunt": ">=1.4.1"
+  },
+  "appveyor_id": "l42173901ms416km",
+  "gitHead": "75eaca2f9b7c5bb56ce1feb307f2a9106ba0b755",
+  "_id": "grunt-contrib-concat@2.1.0",
+  "_nodeVersion": "12.22.8",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-Vnl95JIOxfhEN7bnYIlCgQz41kkbi7tsZ/9a4usZmxNxi1S2YAIOy8ysFmO8u4MN26Apal1O106BwARdaNxXQw==",
+    "tarball": "https://registry.npmjs.org/grunt-contrib-concat/-/grunt-contrib-concat-2.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "grunt-contrib-concat",
+  "key": "grunt-contrib-concat/2.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "grunt-contrib-concat",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6ZB7rubU8wX4p1qRfJewzQJnjDGRpYtFzHRddA8BdwY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-contrib-concat/-/grunt-contrib-concat-2.1.0.tgz"
+  }
+}

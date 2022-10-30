@@ -1,0 +1,62 @@
+{
+  "name": "treeverse",
+  "version": "3.0.0",
+  "description": "Walk any kind of tree structure depth- or breadth-first. Supports promises and advanced map-reduce operations with a very small API.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/treeverse.git"
+  },
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint"
+  },
+  "tap": {
+    "100": true,
+    "coverage-map": "test/coverage-map.js",
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "gitHead": "bdce5a4a448021e04b1aa60ae10803053e579aef",
+  "_id": "treeverse@3.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-gcANaAnd2QDZFmHFEOF4k7uc1J/6a6z3DJMd/QwEyxLoKGiptJRwid582r7QIsFlFMIZ3SnxfS52S4hm2DHkuQ==",
+    "tarball": "https://registry.npmjs.org/treeverse/-/treeverse-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "treeverse",
+  "key": "treeverse/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "treeverse",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8Ud2UqaCSFHNmf7WxezHT+3679fRZVaST4XlpLAASsA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/treeverse/-/treeverse-3.0.0.tgz"
+  }
+}

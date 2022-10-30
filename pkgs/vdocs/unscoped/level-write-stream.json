@@ -1,0 +1,47 @@
+{
+  "name": "level-write-stream",
+  "version": "1.0.0",
+  "description": "A writeStream implementation for leveldb",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Raynos/level-write-stream.git"
+  },
+  "main": "index",
+  "dependencies": {
+    "end-stream": "~0.1.0"
+  },
+  "devDependencies": {
+    "tap": "~0.3.1"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/level-write-stream/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "test": "tap --stderr --tap ./test"
+  },
+  "gitHead": "965bb2de5c97df5555b2b6875e0efe256e798824",
+  "_id": "level-write-stream@1.0.0",
+  "_shasum": "3f7fbb679a55137c0feb303dee766e12ee13c1dc",
+  "_from": ".",
+  "_npmVersion": "1.4.23",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/level-write-stream/-/level-write-stream-1.0.0.tgz",
+    "integrity": "sha512-bBNKOEOMl8msO+uIM9YX/gUO6ckokZ/4pCwTm/lwvs46x6Xs8Zy0sn3Vh37eDqse4mhy4fOMIb/JsSM2nyQFtw=="
+  },
+  "ident": "level-write-stream",
+  "key": "level-write-stream/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "level-write-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DvXEIthKllV1e91VcW2HjQ54QMy1vavrdQ8C5eMyEjU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-write-stream/-/level-write-stream-1.0.0.tgz"
+  }
+}

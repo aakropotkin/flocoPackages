@@ -1,0 +1,49 @@
+{
+  "name": "querystring",
+  "id": "querystring",
+  "version": "0.2.1",
+  "description": "Node's querystring module for all engines.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Gozala/querystring.git",
+    "web": "https://github.com/Gozala/querystring"
+  },
+  "devDependencies": {
+    "test": "~0.x.0",
+    "retape": "~0.x.0",
+    "tape": "~0.1.5"
+  },
+  "engines": {
+    "node": ">=0.4.x"
+  },
+  "scripts": {
+    "test": "npm run test-node && npm run test-tap",
+    "test-node": "node ./test/common-index.js",
+    "test-tap": "node ./test/tap-index.js"
+  },
+  "license": "MIT",
+  "gitHead": "2875f763cc23add72c7c848e0c5779fa3a08516e",
+  "_id": "querystring@0.2.1",
+  "_nodeVersion": "14.15.5",
+  "_npmVersion": "6.14.11",
+  "dist": {
+    "integrity": "sha512-wkvS7mL/JMugcup3/rMitHmd9ecIGd2lhFhK9N3UUQ450h66d1r3Y9nvXzQAW1Lq+wyx61k/1pfKS5KuKiyEbg==",
+    "tarball": "https://registry.npmjs.org/querystring/-/querystring-0.2.1.tgz"
+  },
+  "directories": {},
+  "deprecated": "The querystring API is considered Legacy. new code should use the URLSearchParams API instead.",
+  "ident": "querystring",
+  "key": "querystring/0.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "querystring",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-DCrHM0+6O10iN35Edi4raqOTOpnc1lUhhWwKZizOB0w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/querystring/-/querystring-0.2.1.tgz"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "yallist",
+  "version": "4.0.0",
+  "description": "Yet Another Linked List",
+  "main": "yallist.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^12.1.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js --100",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --all; git push origin --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/yallist.git"
+  },
+  "license": "ISC",
+  "gitHead": "1649cc57394b5affeca2c573943ebe3ed7d39119",
+  "_id": "yallist@4.0.0",
+  "_nodeVersion": "12.8.1",
+  "_npmVersion": "6.12.0-next.0",
+  "dist": {
+    "integrity": "sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==",
+    "tarball": "https://registry.npmjs.org/yallist/-/yallist-4.0.0.tgz"
+  },
+  "ident": "yallist",
+  "key": "yallist/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "yallist",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-JQNNkqswg1ZH4o8PQS2R8WsZWJtv/5R3vRgc4d1vDR0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yallist/-/yallist-4.0.0.tgz"
+  }
+}

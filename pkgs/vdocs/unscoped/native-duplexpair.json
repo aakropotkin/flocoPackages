@@ -1,0 +1,45 @@
+{
+  "name": "native-duplexpair",
+  "version": "1.0.0",
+  "description": "Make a full duplex stream with 2 Duplex endpoints, using the native version of `Duplex`",
+  "engine": ">=4.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "nyc": "^11.3.0"
+  },
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tediousjs/native-duplexpair.git"
+  },
+  "license": "MIT",
+  "gitHead": "96f40bf5dd241dad69ad540054dfe33738682738",
+  "_id": "native-duplexpair@1.0.0",
+  "_shasum": "7899078e64bf3c8a3d732601b3d40ff05db58fa0",
+  "_from": ".",
+  "_npmVersion": "2.15.11",
+  "_nodeVersion": "4.8.4",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/native-duplexpair/-/native-duplexpair-1.0.0.tgz",
+    "integrity": "sha512-E7QQoM+3jvNtlmyfqRZ0/U75VFgCls+fSkbml2MpgWkWyz3ox8Y58gNhfuziuQYGNNQAbFZJQck55LHCnCK6CA=="
+  },
+  "ident": "native-duplexpair",
+  "key": "native-duplexpair/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "native-duplexpair",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7evNHgLn+hWDX2jIacuLeNopSGzCCswtfRgwf123tT0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/native-duplexpair/-/native-duplexpair-1.0.0.tgz"
+  }
+}

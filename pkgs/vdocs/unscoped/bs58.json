@@ -1,0 +1,46 @@
+{
+  "name": "bs58",
+  "version": "5.0.0",
+  "description": "Base 58 encoding / decoding",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.4",
+    "tape": "^4.6.3"
+  },
+  "repository": {
+    "url": "git+https://github.com/cryptocoinjs/bs58.git",
+    "type": "git"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "standard": "standard",
+    "test": "npm run standard && npm run unit",
+    "unit": "tape test/index.js"
+  },
+  "dependencies": {
+    "base-x": "^4.0.0"
+  },
+  "gitHead": "d77eedfe19f3cc419e25628bc9bc44bea2df5fdd",
+  "_id": "bs58@5.0.0",
+  "_nodeVersion": "12.22.7",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-r+ihvQJvahgYT50JD05dyJNKlmmSlMoOGwn1lCcEzanPglg7TxYjioQUYehQ9mAR/+hOSd2jRc/Z2y5UxBymvQ==",
+    "tarball": "https://registry.npmjs.org/bs58/-/bs58-5.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "bs58",
+  "key": "bs58/5.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bs58",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qMjqWAK+iUwxD1yAenLs7UZ2Q0UYa/8sp6iUSqVi+BM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs58/-/bs58-5.0.0.tgz"
+  }
+}

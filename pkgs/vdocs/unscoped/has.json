@@ -1,0 +1,55 @@
+{
+  "name": "has",
+  "description": "Object.prototype.hasOwnProperty.call shortcut",
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tarruda/has.git"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tarruda/has/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "./src",
+  "dependencies": {
+    "function-bind": "^1.1.1"
+  },
+  "devDependencies": {
+    "@ljharb/eslint-config": "^12.2.1",
+    "eslint": "^4.19.1",
+    "tape": "^4.9.0"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "tape test"
+  },
+  "gitHead": "4edf96f2dec87ad6b6e68482e8f6d7c8eb7e07e6",
+  "_id": "has@1.0.3",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.3.0",
+  "dist": {
+    "integrity": "sha512-f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw==",
+    "tarball": "https://registry.npmjs.org/has/-/has-1.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "has",
+  "key": "has/1.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "has",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-z8QWvFmgxmKtQJ34TpRAZljXFJmXY0WUMPj1K64SHx4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/has/-/has-1.0.3.tgz"
+  }
+}

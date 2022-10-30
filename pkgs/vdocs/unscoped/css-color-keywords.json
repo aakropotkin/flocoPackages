@@ -1,0 +1,46 @@
+{
+  "name": "css-color-keywords",
+  "version": "1.0.0",
+  "description": "A list of all CSS color keywords.",
+  "license": "ISC",
+  "files": [
+    "colors.json",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonicdoe/css-color-keywords.git"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "gitHead": "e8723175f17d0ee17c59ba9a36968452332b7d84",
+  "_id": "css-color-keywords@1.0.0",
+  "_shasum": "fea2616dc676b2962686b3af8dbdbe180b244e05",
+  "_from": ".",
+  "_npmVersion": "3.10.9",
+  "_nodeVersion": "7.2.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/css-color-keywords/-/css-color-keywords-1.0.0.tgz",
+    "integrity": "sha512-FyyrDHZKEjXDpNJYvVsV960FiqQyXc/LlYmsxl2BcdMb2WPx0OGRVgTg55rPSyLSNMqP52R9r8geSp7apN3Ofg=="
+  },
+  "ident": "css-color-keywords",
+  "key": "css-color-keywords/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "css-color-keywords",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-dU8K2MqFtEmpAUkSPIzZWu/cOPYHkbk5xKmbVbcPYeI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/css-color-keywords/-/css-color-keywords-1.0.0.tgz"
+  }
+}

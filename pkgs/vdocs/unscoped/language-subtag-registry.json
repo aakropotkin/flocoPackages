@@ -1,0 +1,41 @@
+{
+  "name": "language-subtag-registry",
+  "version": "0.3.22",
+  "implements": [
+    "CommonJS/Modules/1.0"
+  ],
+  "description": "Full BCP 47 language subtag data from the official IANA repository, in JSON format with multiple indices.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattcg/language-subtag-registry.git"
+  },
+  "license": "CC0-1.0",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "jsonlint": "1.x.x"
+  },
+  "gitHead": "6d06daf44528a6d9d18baba0e4c61fb38607f1ff",
+  "_id": "language-subtag-registry@0.3.22",
+  "_nodeVersion": "18.4.0",
+  "_npmVersion": "8.12.1",
+  "dist": {
+    "integrity": "sha512-tN0MCzyWnoz/4nHS6uxdlFWoUZT7ABptwKPQ52Ea7URk6vll88bWBVhodtnlfEuCcKWNGoc+uGbw1cwa9IKh/w==",
+    "tarball": "https://registry.npmjs.org/language-subtag-registry/-/language-subtag-registry-0.3.22.tgz"
+  },
+  "directories": {},
+  "ident": "language-subtag-registry",
+  "key": "language-subtag-registry/0.3.22",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "language-subtag-registry",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-t6o6KNRUVs+U/IJbZH6ctsJFr90Czezi5LAR7CjppQY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/language-subtag-registry/-/language-subtag-registry-0.3.22.tgz"
+  }
+}

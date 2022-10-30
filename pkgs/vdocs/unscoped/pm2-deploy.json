@@ -1,0 +1,58 @@
+{
+  "name": "pm2-deploy",
+  "version": "1.0.2",
+  "description": "Deployment system for PM2",
+  "main": "deploy.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unitech/pm2-deploy.git"
+  },
+  "scripts": {
+    "lint": "eslint \"**/*.js\"",
+    "test": "mocha",
+    "docs": "documentation readme ./deploy.js --section=API"
+  },
+  "dependencies": {
+    "run-series": "^1.1.8",
+    "tv4": "^1.3.0"
+  },
+  "devDependencies": {
+    "better-assert": "^1.0.2",
+    "documentation": "^11.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-semistandard": "^13.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  },
+  "license": "MIT",
+  "gitHead": "987428a6ce402b47bb195ab93a8eafa5ad79c6f5",
+  "_id": "pm2-deploy@1.0.2",
+  "_nodeVersion": "13.6.0",
+  "_npmVersion": "6.13.4",
+  "dist": {
+    "integrity": "sha512-YJx6RXKrVrWaphEYf++EdOOx9EH18vM8RSZN/P1Y+NokTKqYAca/ejXwVLyiEpNju4HPZEk3Y2uZouwMqUlcgg==",
+    "tarball": "https://registry.npmjs.org/pm2-deploy/-/pm2-deploy-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "pm2-deploy",
+  "key": "pm2-deploy/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pm2-deploy",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-KbNh/E/XZWdR570V9eMY6ukDSIDzYRof+CiU0tLABaI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pm2-deploy/-/pm2-deploy-1.0.2.tgz"
+  }
+}

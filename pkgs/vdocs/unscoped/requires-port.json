@@ -1,0 +1,48 @@
+{
+  "name": "requires-port",
+  "version": "1.0.0",
+  "description": "Check if a protocol requires a certain port number to be added to an URL.",
+  "main": "index.js",
+  "scripts": {
+    "100%": "istanbul check-coverage --statements 100 --functions 100 --lines 100 --branches 100",
+    "test-travis": "istanbul cover _mocha --report lcovonly -- test.js",
+    "coverage": "istanbul cover _mocha -- test.js",
+    "watch": "mocha --watch test.js",
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unshiftio/requires-port.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "assume": "1.3.x",
+    "istanbul": "0.4.x",
+    "mocha": "2.3.x",
+    "pre-commit": "1.1.x"
+  },
+  "gitHead": "3a552b935dd2ddba8f2ddf9096932f0f2024edfd",
+  "_id": "requires-port@1.0.0",
+  "_shasum": "925d2601d39ac485e091cf0da5c6e694dc3dcaff",
+  "_from": ".",
+  "_npmVersion": "2.14.3",
+  "_nodeVersion": "0.12.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/requires-port/-/requires-port-1.0.0.tgz",
+    "integrity": "sha512-KigOCHcocU3XODJxsu8i/j8T9tzT4adHiecwORRQ0ZZFcp7ahwXuRU1m+yuO90C5ZUyGeGfocHDI14M3L3yDAQ=="
+  },
+  "directories": {},
+  "ident": "requires-port",
+  "key": "requires-port/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "requires-port",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6fzmTXxJW03boM52AacVplc9Ymrmh7JL64iu3EJ6E14=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/requires-port/-/requires-port-1.0.0.tgz"
+  }
+}

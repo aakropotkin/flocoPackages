@@ -1,0 +1,64 @@
+{
+  "name": "numeral",
+  "version": "2.0.6",
+  "description": "Format and manipulate numbers.",
+  "main": "./numeral.js",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamwdraper/Numeral-js.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "latest",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-nodeunit": "1.0.0",
+    "grunt-contrib-uglify": "latest",
+    "grunt-karma": "^2.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "grunt-saucelabs": "*",
+    "grunt-string-replace": "^1.3.1",
+    "karma": "^1.3.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-mocha": "^1.3.0",
+    "karma-mocha-reporter": "^2.2.1",
+    "karma-sauce-launcher": "^1.1.0",
+    "load-grunt-tasks": "^3.5.2",
+    "mocha": "^3.1.2",
+    "uglify-js": "latest"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "ender": "./ender.js",
+  "_id": "numeral@2.0.6",
+  "_from": ".",
+  "gitHead": "30956925463d19d4cf84488dcd8005da40cf9728",
+  "_shasum": "4ad080936d443c2561aed9f2197efffe25f4e506",
+  "_npmVersion": "3.10.9",
+  "_nodeVersion": "6.9.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/numeral/-/numeral-2.0.6.tgz",
+    "integrity": "sha512-qaKRmtYPZ5qdw4jWJD6bxEf1FJEqllJrwxCLIm0sQU/A7v2/czigzOb+C2uSiFsa9lBUzeH7M1oK+Q+OLxL3kA=="
+  },
+  "directories": {},
+  "ident": "numeral",
+  "key": "numeral/2.0.6",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "numeral",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-vftiPIpsLJlIznYp1H7WFwL+JmvEWwmJRHT3sVEWJh4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/numeral/-/numeral-2.0.6.tgz"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "promise-all-reject-late",
+  "version": "1.0.1",
+  "description": "Like Promise.all, but save rejections until all promises are resolved",
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "prepublishOnly": "git push origin --follow-tags"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "devDependencies": {
+    "tap": "^14.10.5"
+  },
+  "gitHead": "c892a9db86650c9229ab4cc70395106684d6818a",
+  "_id": "promise-all-reject-late@1.0.1",
+  "_nodeVersion": "12.14.1",
+  "_npmVersion": "6.13.6",
+  "dist": {
+    "integrity": "sha512-vuf0Lf0lOxyQREH7GDIOUMLS7kz+gs8i6B+Yi8dC68a2sychGrHTJYghMBD6k7eUcH0H5P73EckCA48xijWqXw==",
+    "tarball": "https://registry.npmjs.org/promise-all-reject-late/-/promise-all-reject-late-1.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "promise-all-reject-late",
+  "key": "promise-all-reject-late/1.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "promise-all-reject-late",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-o87t4CCrYn/LDwq9PJNUyDj3twhWmzAQl9mdiposayU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promise-all-reject-late/-/promise-all-reject-late-1.0.1.tgz"
+  }
+}

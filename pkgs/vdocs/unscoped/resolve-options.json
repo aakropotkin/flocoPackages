@@ -1,0 +1,61 @@
+{
+  "name": "resolve-options",
+  "version": "2.0.0",
+  "description": "Resolve an options object based on configuration.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/resolve-options.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "value-or-function": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.5.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "b056ffca3975b7fffcc5ed356ac3c311d3a926f9",
+  "_id": "resolve-options@2.0.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-/FopbmmFOQCfsCx77BRFdKOniglTiHumLgwvd6IDPihy1GKkadZbgQJBcTb2lMzSR1pndzd96b1nZrreZ7+9/A==",
+    "tarball": "https://registry.npmjs.org/resolve-options/-/resolve-options-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "resolve-options",
+  "key": "resolve-options/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "resolve-options",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-hMYlndjtHaH9xOwfi8Rc9yWGy3OhHe9B0QPIBV4aMGg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-options/-/resolve-options-2.0.0.tgz"
+  }
+}

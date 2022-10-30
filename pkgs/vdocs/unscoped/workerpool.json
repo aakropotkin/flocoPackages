@@ -1,0 +1,58 @@
+{
+  "name": "workerpool",
+  "license": "Apache-2.0",
+  "version": "6.3.0",
+  "description": "Offload tasks to a pool of workers on node.js and in the browser",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/josdejong/workerpool.git"
+  },
+  "main": "src/index.js",
+  "browser": "dist/workerpool.js",
+  "scripts": {
+    "build": "gulp",
+    "watch": "gulp watch",
+    "test": "npm run build && mocha test --timeout 2000",
+    "test:debug": "npm run build && mocha debug test --timeout 10000",
+    "coverage": "npm run build && istanbul cover _mocha -- test; echo \"\nCoverage report is available at ./coverage/lcov-report/index.html\"",
+    "prepublishOnly": "npm run test"
+  },
+  "devDependencies": {
+    "@babel/core": "7.19.6",
+    "@babel/preset-env": "7.19.4",
+    "babel-loader": "8.2.5",
+    "date-format": "4.0.14",
+    "del": "6.1.1",
+    "fancy-log": "2.0.0",
+    "find-process": "1.4.7",
+    "gulp": "4.0.2",
+    "handlebars": "4.7.7",
+    "istanbul": "0.4.5",
+    "mocha": "9.2.2",
+    "uglify-js": "3.17.4",
+    "webpack": "5.74.0"
+  },
+  "dependencies": {},
+  "gitHead": "bc22074af7d2a2eaf4ce0c0d37e187a5f1b94c75",
+  "_id": "workerpool@6.3.0",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.5.0",
+  "dist": {
+    "integrity": "sha512-2rVusseHGwxEEESx/szO2SHfi982WQavL2YlWGHsZE2ynZ4gaHT7kmCXph9k9fUivKOwx7PBn6vn4nXUxxdKcw==",
+    "tarball": "https://registry.npmjs.org/workerpool/-/workerpool-6.3.0.tgz"
+  },
+  "directories": {},
+  "ident": "workerpool",
+  "key": "workerpool/6.3.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "workerpool",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-lLKS7zQoGwtt1lt8wuMj1A5E/3XQs9tcZYvP58GuOzA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/workerpool/-/workerpool-6.3.0.tgz"
+  }
+}

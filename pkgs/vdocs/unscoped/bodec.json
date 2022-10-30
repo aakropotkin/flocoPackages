@@ -1,0 +1,36 @@
+{
+  "name": "bodec",
+  "version": "1.1.0",
+  "main": "bodec.js",
+  "browser": "bodec-browser.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creationix/bodec.git"
+  },
+  "license": "MIT",
+  "gitHead": "19f94a638f1ab3454b759ff4baf61ee09e8b3ae5",
+  "description": "bodec =====",
+  "_id": "bodec@1.1.0",
+  "scripts": {},
+  "_shasum": "185bbc36ab70acde4fe5792375453f835c5add5a",
+  "_from": ".",
+  "_npmVersion": "2.1.17",
+  "_nodeVersion": "0.10.28",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/bodec/-/bodec-1.1.0.tgz",
+    "integrity": "sha512-qXTDTFIfmCO97PJgbIBzlpeYpjlgM7188EWUcmYzI369yCjEtbELq/Wg6JCcBr4YYpWAzyATVeFQSWoj9a19/w=="
+  },
+  "ident": "bodec",
+  "key": "bodec/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "bodec",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-+rcgP3gn5P1GzsAeE412t9miLvAUA1e+muVbp+GpnRA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bodec/-/bodec-1.1.0.tgz"
+  }
+}

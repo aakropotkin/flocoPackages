@@ -1,0 +1,63 @@
+{
+  "name": "viewport-dimensions",
+  "version": "0.2.0",
+  "description": "Simple utility for watching and retrieving browser viewport width, height, vmin and vmax",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp dev",
+    "coveralls": "if [ ! -f ./test/coverage/lcov.info ]; then npm test; fi; cat ./test/coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexdunphy/viewport.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.5.2",
+    "chai": "^3.2.0",
+    "coveralls": "^2.11.4",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-header": "^1.7.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.0",
+    "gulp-util": "^3.0.6",
+    "karma": "^0.13.9",
+    "karma-coverage": "^0.5.1",
+    "karma-mocha": "^0.2.0",
+    "karma-mocha-reporter": "^1.1.1",
+    "karma-notify-reporter": "^0.1.1",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-sauce-launcher": "^0.2.14",
+    "karma-sinon-chai": "^1.0.0",
+    "lodash": "^3.10.1",
+    "mocha": "^2.3.0",
+    "phantomjs": "^1.9.18",
+    "run-sequence": "^1.1.2",
+    "webpack": "^1.12.0"
+  },
+  "gitHead": "66f8ccc6e35cb15d3a2b8889e7d59706c43486d8",
+  "_id": "viewport-dimensions@0.2.0",
+  "_shasum": "de740747db5387fd1725f5175e91bac76afdf36c",
+  "_from": ".",
+  "_npmVersion": "2.8.4",
+  "_nodeVersion": "0.12.2",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/viewport-dimensions/-/viewport-dimensions-0.2.0.tgz",
+    "integrity": "sha512-94JqlKxEP4m7WO+N3rm4tFRGXZmXXwSPQCoV+EPxDnn8YAGiLU3T+Ha1imLreAjXsHl0K+ELnIqv64i1XZHLFQ=="
+  },
+  "ident": "viewport-dimensions",
+  "key": "viewport-dimensions/0.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "viewport-dimensions",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-g1j9pZ+rhnc0N8zYrPGZ3pv5lfJlSY86t3ldv9q4OOg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/viewport-dimensions/-/viewport-dimensions-0.2.0.tgz"
+  }
+}

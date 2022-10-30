@@ -1,0 +1,77 @@
+{
+  "name": "supports-preserve-symlinks-flag",
+  "version": "1.0.0",
+  "description": "Determine if the current node version supports the `--preserve-symlinks` flag.",
+  "main": "./index.js",
+  "browser": "./browser.js",
+  "exports": {
+    ".": [
+      {
+        "browser": "./browser.js",
+        "default": "./index.js"
+      },
+      "./index.js"
+    ],
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "prepublishOnly": "safe-publish-latest",
+    "prepublish": "not-in-publish || npm run prepublishOnly",
+    "lint": "eslint --ext=js,mjs .",
+    "pretest": "npm run lint",
+    "tests-only": "nyc tape 'test/**/*.js'",
+    "test": "npm run tests-only",
+    "posttest": "aud --production",
+    "version": "auto-changelog && git add CHANGELOG.md",
+    "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspect-js/node-supports-preserve-symlinks-flag.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@ljharb/eslint-config": "^20.1.0",
+    "aud": "^1.1.5",
+    "auto-changelog": "^2.3.0",
+    "eslint": "^8.6.0",
+    "nyc": "^10.3.2",
+    "safe-publish-latest": "^2.0.0",
+    "semver": "^6.3.0",
+    "tape": "^5.4.0"
+  },
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": false,
+    "commitLimit": false,
+    "backfillLimit": false,
+    "hideCredit": true
+  },
+  "gitHead": "1f7cac19c0c298cf40b3f2f3c735477ad579ac61",
+  "_id": "supports-preserve-symlinks-flag@1.0.0",
+  "_nodeVersion": "17.3.0",
+  "_npmVersion": "8.3.0",
+  "dist": {
+    "integrity": "sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==",
+    "tarball": "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "supports-preserve-symlinks-flag",
+  "key": "supports-preserve-symlinks-flag/1.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "supports-preserve-symlinks-flag",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-Gwf/IHn+m17+KsKxcOrhCxAjvH8uxQx8Bud+qeCNwKg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "flagged-respawn",
+  "version": "2.0.0",
+  "description": "A tool for respawning node binaries when special flags are present.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/flagged-respawn.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.3.1",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "v8flags": "^4.0.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "bc99cb3e088ef2ddaf4b039002653517241314e9",
+  "_id": "flagged-respawn@2.0.0",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "7.24.2",
+  "dist": {
+    "integrity": "sha512-Gq/a6YCi8zexmGHMuJwahTGzXlAZAOsbCVKduWXC6TlLCjjFRlExMJc4GC2NYPYZ0r/brw9P7CpRgQmlPVeOoA==",
+    "tarball": "https://registry.npmjs.org/flagged-respawn/-/flagged-respawn-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "flagged-respawn",
+  "key": "flagged-respawn/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "flagged-respawn",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-c46XlmcFBwL6YwZXGHSUoXp7pwdkBsz6IOzH/aiV2Xo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/flagged-respawn/-/flagged-respawn-2.0.0.tgz"
+  }
+}

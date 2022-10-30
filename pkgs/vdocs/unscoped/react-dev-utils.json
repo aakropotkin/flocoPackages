@@ -1,0 +1,69 @@
+{
+  "name": "react-dev-utils",
+  "version": "12.0.1",
+  "description": "webpack utilities used by Create React App",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/create-react-app.git",
+    "directory": "packages/react-dev-utils"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "@babel/code-frame": "^7.16.0",
+    "address": "^1.1.2",
+    "browserslist": "^4.18.1",
+    "chalk": "^4.1.2",
+    "cross-spawn": "^7.0.3",
+    "detect-port-alt": "^1.1.6",
+    "escape-string-regexp": "^4.0.0",
+    "filesize": "^8.0.6",
+    "find-up": "^5.0.0",
+    "fork-ts-checker-webpack-plugin": "^6.5.0",
+    "global-modules": "^2.0.0",
+    "globby": "^11.0.4",
+    "gzip-size": "^6.0.0",
+    "immer": "^9.0.7",
+    "is-root": "^2.1.0",
+    "loader-utils": "^3.2.0",
+    "open": "^8.4.0",
+    "pkg-up": "^3.1.0",
+    "prompts": "^2.4.2",
+    "react-error-overlay": "^6.0.11",
+    "recursive-readdir": "^2.2.2",
+    "shell-quote": "^1.7.3",
+    "strip-ansi": "^6.0.1",
+    "text-table": "^0.2.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^27.4.3"
+  },
+  "scripts": {
+    "test": "cross-env FORCE_COLOR=true jest"
+  },
+  "gitHead": "19fa58d527ae74f2b6baa0867463eea1d290f9a5",
+  "_id": "react-dev-utils@12.0.1",
+  "_nodeVersion": "16.13.0",
+  "_npmVersion": "lerna/4.0.0/node@v16.13.0+arm64 (darwin)",
+  "dist": {
+    "integrity": "sha512-84Ivxmr17KjUupyqzFode6xKhjwuEJDROWKJy/BthkL7Wn6NJ8h4WE6k/exAv6ImS+0oZLRRW5j/aINMHyeGeQ==",
+    "tarball": "https://registry.npmjs.org/react-dev-utils/-/react-dev-utils-12.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "react-dev-utils",
+  "key": "react-dev-utils/12.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "react-dev-utils",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-MA9Ya7lVbBzDO4zHzBDwU4cF0s9k1A/onah3gFvM2p4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-dev-utils/-/react-dev-utils-12.0.1.tgz"
+  }
+}

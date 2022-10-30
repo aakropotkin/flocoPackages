@@ -1,0 +1,59 @@
+{
+  "name": "es6-error",
+  "version": "4.1.1",
+  "description": "Easily-extendable error for use with ES6 classes",
+  "main": "./lib/index",
+  "module": "./es6/index.js",
+  "typings": "./typings/index.d.ts",
+  "files": [
+    "lib",
+    "es6",
+    "typings"
+  ],
+  "scripts": {
+    "test": "cross-env BABEL_ENV=test mocha --require babel-core/register --recursive",
+    "clean": "rimraf lib es6",
+    "build": "npm run clean && npm run build:cjs && npm run build:es6",
+    "build:cjs": "mkdir -p lib && cross-env BABEL_ENV=cjs babel src/index.js -o lib/index.js",
+    "build:es6": "mkdir -p es6 && cross-env BABEL_ENV=es6 babel src/index.js -o es6/index.js",
+    "prepublishOnly": "npm run build && npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjyoungblood/es6-error.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-builtin-extend": "^1.1.2",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "cross-env": "^5.1.1",
+    "mocha": "^4.0.1",
+    "rimraf": "^2.6.2"
+  },
+  "dependencies": {},
+  "gitHead": "5b553293429bac6b15d8caeab8a4174faeb38fa0",
+  "_id": "es6-error@4.1.1",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "9.2.1",
+  "dist": {
+    "integrity": "sha512-Um/+FxMr9CISWh0bi5Zv0iOD+4cFh5qLeks1qhAopKVAJw3drgKbKySikp7wGhDL0HPeaja0P5ULZrxLkniUVg==",
+    "tarball": "https://registry.npmjs.org/es6-error/-/es6-error-4.1.1.tgz"
+  },
+  "ident": "es6-error",
+  "key": "es6-error/4.1.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "es6-error",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-M/yEXffMh3xiUhJYq/u1UPKiGdywuvAu+2obvrbnemc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/es6-error/-/es6-error-4.1.1.tgz"
+  }
+}

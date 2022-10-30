@@ -1,0 +1,71 @@
+{
+  "name": "for-in",
+  "description": "Iterate over the own and inherited enumerable properties of an object, and return an object with properties that evaluate to true from the callback. Exit early by returning `false`. JavaScript/Node.js",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/for-in.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11",
+    "mocha": "^3.2.0"
+  },
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "arr-flatten",
+        "collection-map",
+        "for-own"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "5f97ad4f6556e938d9b71614259ddd8044a081e3",
+  "_id": "for-in@1.0.2",
+  "_shasum": "81068d295a8142ec0ac726c6e2200c30fb6d5e80",
+  "_from": ".",
+  "_npmVersion": "4.1.2",
+  "_nodeVersion": "7.5.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/for-in/-/for-in-1.0.2.tgz",
+    "integrity": "sha512-7EwmXrOjyL+ChxMhmG5lnW9MPt1aIeZEwKhQzoBUdTV0N3zuwWDZYVJatDvZ2OyzPUvdIAZDsCetk3coyMfcnQ=="
+  },
+  "ident": "for-in",
+  "key": "for-in/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "for-in",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-AASJRvEqnzDTszWRn3ksGLkYexihCAI0PcG2EepEG68=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/for-in/-/for-in-1.0.2.tgz"
+  }
+}

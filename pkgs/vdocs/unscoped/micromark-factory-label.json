@@ -1,0 +1,56 @@
+{
+  "name": "micromark-factory-label",
+  "version": "1.0.2",
+  "description": "micromark factory to parse labels (found in media, definitions)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micromark/micromark.git#main"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "dev/index.d.ts",
+  "exports": {
+    "development": "./dev/index.js",
+    "default": "./index.js"
+  },
+  "dependencies": {
+    "micromark-util-character": "^1.0.0",
+    "micromark-util-symbol": "^1.0.0",
+    "micromark-util-types": "^1.0.0",
+    "uvu": "^0.5.0"
+  },
+  "scripts": {
+    "build": "rimraf \"*.d.ts\" \"{dev/,lib/}**/*.d.ts\" && tsc && micromark-build && type-coverage"
+  },
+  "xo": false,
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "strict": true,
+    "ignoreCatch": true
+  },
+  "gitHead": "5082478a15237c25cc93fedd2be3250839759748",
+  "_id": "micromark-factory-label@1.0.2",
+  "_nodeVersion": "16.9.0",
+  "_npmVersion": "7.23.0",
+  "dist": {
+    "integrity": "sha512-CTIwxlOnU7dEshXDQ+dsr2n+yxpP0+fn271pu0bwDIS8uqfFcumXpj5mLn3hSC8iw2MUr6Gx8EcKng1dD7i6hg==",
+    "tarball": "https://registry.npmjs.org/micromark-factory-label/-/micromark-factory-label-1.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "micromark-factory-label",
+  "key": "micromark-factory-label/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "micromark-factory-label",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-UH+LtBhLRGL4QUdsd3wdBkxXz8eGR7+EsJIbKAHspMw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-factory-label/-/micromark-factory-label-1.0.2.tgz"
+  }
+}

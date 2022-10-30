@@ -1,0 +1,42 @@
+{
+  "name": "nwsapi",
+  "version": "2.2.2",
+  "description": "Fast CSS Selectors API Engine",
+  "main": "./src/nwsapi",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://javascript.nwbox.com/nwsapi/MIT-LICENSE"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dperini/nwsapi.git"
+  },
+  "scripts": {
+    "lint": "eslint ./src/nwsapi.js"
+  },
+  "gitHead": "410638fc214f9d8cd8a403af67f0d0ea852f13c0",
+  "_id": "nwsapi@2.2.2",
+  "_nodeVersion": "16.14.0",
+  "_npmVersion": "8.14.0",
+  "dist": {
+    "integrity": "sha512-90yv+6538zuvUMnN+zCr8LuV6bPFdq50304114vJYJ8RDyK8D5O9Phpbd6SZWgI7PwzmmfN1upeOJlvybDSgCw==",
+    "tarball": "https://registry.npmjs.org/nwsapi/-/nwsapi-2.2.2.tgz"
+  },
+  "directories": {},
+  "ident": "nwsapi",
+  "key": "nwsapi/2.2.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "nwsapi",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-M+NFrv557aOmVCsKKpU8LSrY9b4K9W7SMQy7YsGytN0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/nwsapi/-/nwsapi-2.2.2.tgz"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "vue-property-decorator",
+  "version": "9.1.2",
+  "description": "property decorators for Vue Component",
+  "main": "lib/index.umd.js",
+  "module": "lib/index.js",
+  "license": "MIT",
+  "directories": {
+    "tests": "tests"
+  },
+  "scripts": {
+    "build": "tsc -p ./src/tsconfig.json && rollup -c",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "@types/node": "^14.14.9",
+    "jest": "^26.6.3",
+    "reflect-metadata": "^0.1.13",
+    "rollup": "^2.33.3",
+    "ts-jest": "^26.4.4",
+    "typescript": "^4.1.2",
+    "vue": "^2.6.10",
+    "vue-class-component": "^7.2.3"
+  },
+  "typings": "./lib/index.d.ts",
+  "dependencies": {},
+  "peerDependencies": {
+    "vue": "*",
+    "vue-class-component": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaorun343/vue-property-decorator.git"
+  },
+  "gitHead": "e0bf1d4a3d575de3ce36a3efde4649127e4211be",
+  "_id": "vue-property-decorator@9.1.2",
+  "_nodeVersion": "14.5.0",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-xYA8MkZynPBGd/w5QFJ2d/NM0z/YeegMqYTphy7NJQXbZcuU6FC6AOdUAcy4SXP+YnkerC6AfH+ldg7PDk9ESQ==",
+    "tarball": "https://registry.npmjs.org/vue-property-decorator/-/vue-property-decorator-9.1.2.tgz"
+  },
+  "ident": "vue-property-decorator",
+  "key": "vue-property-decorator/9.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "vue-property-decorator",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-BPOZ0E9HrzA8Ws1KS5vh8jztAuAmmd5/DHJhs3PHiV8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vue-property-decorator/-/vue-property-decorator-9.1.2.tgz"
+  }
+}

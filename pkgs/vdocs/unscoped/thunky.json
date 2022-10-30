@@ -1,0 +1,40 @@
+{
+  "name": "thunky",
+  "version": "1.1.0",
+  "description": "delay the evaluation of a paramless async function and cache the result",
+  "main": "index.js",
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^4.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mafintosh/thunky.git"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "license": "MIT",
+  "gitHead": "4f24392fd09949e3785598d99b087e8256599989",
+  "_id": "thunky@1.1.0",
+  "_nodeVersion": "10.16.3",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-eHY7nBftgThBqOyHGVN+l8gF0BucP09fMo0oO/Lb0w1OF80dJv+lDVpXG60WMQvkcxAkNybKsrEIE3ZtKGmPrA==",
+    "tarball": "https://registry.npmjs.org/thunky/-/thunky-1.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "thunky",
+  "key": "thunky/1.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "thunky",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-21Lcws4j553OZb2WY6igFAPZJ8VcChoC72iJwTkunes=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thunky/-/thunky-1.1.0.tgz"
+  }
+}

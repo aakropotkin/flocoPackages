@@ -1,0 +1,35 @@
+{
+  "name": "lodash._reescape",
+  "version": "3.0.0",
+  "description": "The modern build of lodash’s internal `reEscape` as a module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lodash/lodash"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "_id": "lodash._reescape@3.0.0",
+  "_shasum": "2b1d6f5dfe07c8a355753e5f27fac7f1cde1616a",
+  "_from": ".",
+  "_npmVersion": "2.3.0",
+  "_nodeVersion": "0.10.35",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lodash._reescape/-/lodash._reescape-3.0.0.tgz",
+    "integrity": "sha512-Sjlavm5y+FUVIF3vF3B75GyXrzsfYV8Dlv3L4mEpuB9leg8N6yf/7rU06iLPx9fY0Mv3khVp9p7Dx0mGV6V5OQ=="
+  },
+  "ident": "lodash._reescape",
+  "key": "lodash._reescape/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "lodash._reescape",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-iHOT3rMqHULCPIWfMt2R3XRj6Bym2B1gb7prFvUiDH0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash._reescape/-/lodash._reescape-3.0.0.tgz"
+  }
+}

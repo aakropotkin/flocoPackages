@@ -1,0 +1,54 @@
+{
+  "name": "prompts",
+  "version": "2.4.2",
+  "description": "Lightweight, beautiful and user-friendly prompts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terkelg/prompts.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "build": "babel lib -d dist",
+    "prepublishOnly": "npm run build",
+    "test": "tape test/*.js | tap-spec"
+  },
+  "dependencies": {
+    "kleur": "^3.0.3",
+    "sisteransi": "^1.0.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "tap-spec": "^2.2.2",
+    "tape": "^4.13.3"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "gitHead": "66ccf0bda0e1aa18d9efcf128018dfbad4f7ca0e",
+  "_id": "prompts@2.4.2",
+  "_nodeVersion": "16.10.0",
+  "_npmVersion": "7.24.0",
+  "dist": {
+    "integrity": "sha512-NxNv/kLguCA7p3jE8oL2aEBsrJWgAakBpgmgK6lpPWV+WuOmY6r2/zbAVnP+T8bQlA0nzHXSJSJW0Hq7ylaD2Q==",
+    "tarball": "https://registry.npmjs.org/prompts/-/prompts-2.4.2.tgz"
+  },
+  "directories": {},
+  "ident": "prompts",
+  "key": "prompts/2.4.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "prompts",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-E/G2OK8TyexZ9g/C3SYchJOBGLzfFsEhaUxgZrLCf7c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/prompts/-/prompts-2.4.2.tgz"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "fs-mkdirp-stream",
+  "version": "2.0.1",
+  "description": "Ensure directories exist before writing to them.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/fs-mkdirp-stream.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.2.8",
+    "streamx": "^2.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-gulp": "^5.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "expect": "^27.4.2",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "readable-stream": "^3.6.0",
+    "rimraf": "^3.0.2",
+    "sinon": "^12.0.1"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "gitHead": "13e59eeea3c163ed5edf0b8069387c7ee8cf82a6",
+  "_id": "fs-mkdirp-stream@2.0.1",
+  "_nodeVersion": "16.14.2",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-UTOY+59K6IA94tec8Wjqm0FSh5OVudGNB0NL/P6fB3HiE3bYOY3VYBGijsnOHNkQSwC1FKkU77pmq7xp9CskLw==",
+    "tarball": "https://registry.npmjs.org/fs-mkdirp-stream/-/fs-mkdirp-stream-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "fs-mkdirp-stream",
+  "key": "fs-mkdirp-stream/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "fs-mkdirp-stream",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7loM5URbvIVuNbsR52PFggXY5FBsLe74SNS5TKSUiMg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fs-mkdirp-stream/-/fs-mkdirp-stream-2.0.1.tgz"
+  }
+}

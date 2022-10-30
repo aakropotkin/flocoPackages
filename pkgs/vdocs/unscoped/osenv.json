@@ -1,0 +1,51 @@
+{
+  "name": "osenv",
+  "version": "0.1.5",
+  "main": "osenv.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "os-homedir": "^1.0.0",
+    "os-tmpdir": "^1.0.0"
+  },
+  "devDependencies": {
+    "tap": "^11.1.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --all; git push origin --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/osenv.git"
+  },
+  "license": "ISC",
+  "description": "Look up environment settings specific to different operating systems",
+  "files": [
+    "osenv.js"
+  ],
+  "gitHead": "1c642b8f5ddb1f99671a300a466bf42ffb9f5ea2",
+  "_id": "osenv@0.1.5",
+  "_npmVersion": "5.6.0-canary.11",
+  "_nodeVersion": "8.9.1",
+  "dist": {
+    "integrity": "sha512-0CWcCECdMVc2Rw3U5w9ZjqX6ga6ubk1xDVKxtBQPK7wis/0F2r9T6k4ydGYhecl7YUBxBVxhL5oisPsNxAPe2g==",
+    "tarball": "https://registry.npmjs.org/osenv/-/osenv-0.1.5.tgz"
+  },
+  "ident": "osenv",
+  "key": "osenv/0.1.5",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "osenv",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WWH9i1HCzZplLz9t7qGY5pMtr0xmsHHURTdFahowtSs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/osenv/-/osenv-0.1.5.tgz"
+  }
+}

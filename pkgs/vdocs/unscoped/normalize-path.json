@@ -1,0 +1,72 @@
+{
+  "name": "normalize-path",
+  "description": "Normalize slashes in a file path to be posix/unix-like forward slashes. Also condenses repeat slashes to a single slash and removes and trailing slashes, unless disabled.",
+  "version": "3.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/normalize-path.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "minimist": "^1.2.0",
+    "mocha": "^3.5.3"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "description": "Other useful path-related libraries:",
+      "list": [
+        "contains-path",
+        "is-absolute",
+        "is-relative",
+        "parse-filepath",
+        "path-ends-with",
+        "path-ends-with",
+        "unixify"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "0979eb807a1725d83d5a996347d41067cf773d1f",
+  "_id": "normalize-path@3.0.0",
+  "_npmVersion": "5.8.0",
+  "_nodeVersion": "9.9.0",
+  "dist": {
+    "integrity": "sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==",
+    "tarball": "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "normalize-path",
+  "key": "normalize-path/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "normalize-path",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-dEESYAs01W+lUXWyDzFkbIwz/dIe85OeDKy23RRoa6E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz"
+  }
+}

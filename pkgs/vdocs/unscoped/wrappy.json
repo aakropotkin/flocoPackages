@@ -1,0 +1,47 @@
+{
+  "name": "wrappy",
+  "version": "1.0.2",
+  "description": "Callback wrapping utility",
+  "main": "wrappy.js",
+  "files": [
+    "wrappy.js"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^2.3.1"
+  },
+  "scripts": {
+    "test": "tap --coverage test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/wrappy.git"
+  },
+  "license": "ISC",
+  "gitHead": "71d91b6dc5bdeac37e218c2cf03f9ab55b60d214",
+  "_id": "wrappy@1.0.2",
+  "_shasum": "b5243d8f3ec1aa35f1364605bc0d1036e30ab69f",
+  "_from": ".",
+  "_npmVersion": "3.9.1",
+  "_nodeVersion": "5.10.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz",
+    "integrity": "sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ=="
+  },
+  "ident": "wrappy",
+  "key": "wrappy/1.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "wrappy",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-8EvxGsoK2efCTAOoAHPbfbCoPOJvkmOLPM4XA1rEcVU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz"
+  }
+}

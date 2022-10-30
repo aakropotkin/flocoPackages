@@ -1,0 +1,42 @@
+{
+  "name": "react-test-renderer",
+  "version": "18.2.0",
+  "description": "React package for snapshot testing.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git",
+    "directory": "packages/react-test-renderer"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react-is": "^18.2.0",
+    "react-shallow-renderer": "^16.15.0",
+    "scheduler": "^0.23.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "gitHead": "be229c5655074642ee664f532f2e7411dd7dccc7",
+  "_id": "react-test-renderer@18.2.0",
+  "_nodeVersion": "17.1.0",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-JWD+aQ0lh2gvh4NM3bBM42Kx+XybOxCpgYK7F8ugAlpaTSnWsX+39Z4XkOykGZAHrjwwTZT3x3KxswVWxHPUqA==",
+    "tarball": "https://registry.npmjs.org/react-test-renderer/-/react-test-renderer-18.2.0.tgz"
+  },
+  "directories": {},
+  "ident": "react-test-renderer",
+  "key": "react-test-renderer/18.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "react-test-renderer",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-zwZ0p59mnU9q6cCMvQBHztVA3chUh6crL/NRLg3sU/Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-test-renderer/-/react-test-renderer-18.2.0.tgz"
+  }
+}

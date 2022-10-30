@@ -1,0 +1,66 @@
+{
+  "name": "pidusage",
+  "version": "3.0.2",
+  "description": "Cross-platform process cpu % and memory usage of a PID",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyuka/pidusage.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "nyc ava -m \"!*benchmark*\"",
+    "coverage": "codecov",
+    "bench": "ava -m \"*benchmark*\""
+  },
+  "dependencies": {
+    "safe-buffer": "^5.2.1"
+  },
+  "devDependencies": {
+    "ava": "^3.10.1",
+    "codecov": "^3.7.0",
+    "mockdate": "^2.0.5",
+    "mockery": "^2.1.0",
+    "nyc": "^15.1.0",
+    "pify": "^3.0.0",
+    "standard": "^16.0.4",
+    "string-to-stream": "^1.1.1",
+    "through": "^2.3.8",
+    "time-span": "^2.0.0"
+  },
+  "ava": {
+    "verbose": true
+  },
+  "nyc": {
+    "reporter": [
+      "lcovonly",
+      "text"
+    ]
+  },
+  "gitHead": "0f0b8176cb96f59575323790bf79defc404d4079",
+  "_id": "pidusage@3.0.2",
+  "_nodeVersion": "18.11.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-g0VU+y08pKw5M8EZ2rIGiEBaB8wrQMjYGFfW2QVIfyT8V+fq8YFLkvlz4bz5ljvFDJYNFCWT3PWqcRr2FKO81w==",
+    "tarball": "https://registry.npmjs.org/pidusage/-/pidusage-3.0.2.tgz"
+  },
+  "directories": {},
+  "ident": "pidusage",
+  "key": "pidusage/3.0.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pidusage",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-xjmbIeU/e67DnRX8syym06VHOG0yWHAOvQbE1qMmYt0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pidusage/-/pidusage-3.0.2.tgz"
+  }
+}

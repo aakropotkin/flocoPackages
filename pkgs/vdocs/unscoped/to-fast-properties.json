@@ -1,0 +1,44 @@
+{
+  "name": "to-fast-properties",
+  "version": "4.0.0",
+  "description": "Force V8 to use fast properties for an object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/to-fast-properties.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12.20"
+  },
+  "scripts": {
+    "test": "node --allow-natives-syntax test.js && tsd"
+  },
+  "devDependencies": {
+    "ava": "0.0.4",
+    "tsd": "^0.10.0"
+  },
+  "gitHead": "bec19f4a16261c906a2bc1e87bb8ce64cf77d381",
+  "_id": "to-fast-properties@4.0.0",
+  "_nodeVersion": "12.22.1",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-y4PM/CFhbderIl3OTBsHbdrh+pTCiv4pNlrPNlEUQCRxZc1o41fJDG7YNDunH2LVERQ4pR0n3G/yIKjxv8fgJw==",
+    "tarball": "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "to-fast-properties",
+  "key": "to-fast-properties/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "to-fast-properties",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-qJIuNMMF2MFjYuV+r6p2y+6+BuBszgMzgIPa2iapYbQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-4.0.0.tgz"
+  }
+}

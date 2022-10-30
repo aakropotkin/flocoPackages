@@ -1,0 +1,47 @@
+{
+  "name": "workbox-recipes",
+  "version": "6.5.4",
+  "license": "MIT",
+  "description": "A service worker helper library to manage common request and caching patterns",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlechrome/workbox.git"
+  },
+  "workbox": {
+    "browserNamespace": "workbox.recipes",
+    "packageType": "sw"
+  },
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "dependencies": {
+    "workbox-cacheable-response": "6.5.4",
+    "workbox-core": "6.5.4",
+    "workbox-expiration": "6.5.4",
+    "workbox-precaching": "6.5.4",
+    "workbox-routing": "6.5.4",
+    "workbox-strategies": "6.5.4"
+  },
+  "gitHead": "5e69c3f6a74ea0e6b1a0d3261a6cde11d8075859",
+  "_id": "workbox-recipes@6.5.4",
+  "_nodeVersion": "14.17.2",
+  "_npmVersion": "lerna/3.22.1/node@v14.17.2+x64 (darwin)",
+  "dist": {
+    "integrity": "sha512-QZNO8Ez708NNwzLNEXTG4QYSKQ1ochzEtRLGaq+mr2PyoEIC1xFW7MrWxrONUxBFOByksds9Z4//lKAX8tHyUA==",
+    "tarball": "https://registry.npmjs.org/workbox-recipes/-/workbox-recipes-6.5.4.tgz"
+  },
+  "directories": {},
+  "ident": "workbox-recipes",
+  "key": "workbox-recipes/6.5.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "workbox-recipes",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-2sul++CLvoNCt6T4ntgp7NTHCBkcuxiwDn+/l4Ugvfg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/workbox-recipes/-/workbox-recipes-6.5.4.tgz"
+  }
+}

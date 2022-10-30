@@ -1,0 +1,82 @@
+{
+  "name": "chance",
+  "main": "./chance.js",
+  "version": "1.1.9",
+  "description": "Chance - Utility library to generate anything random",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chancejs/chancejs.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "babel-eslint": "^7.2.3",
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.2",
+    "dirty-chai": "^1.2.2",
+    "docpress": "0.7.1",
+    "eslint": "^6.3.0",
+    "git-update-ghpages": "1.3.0",
+    "gulp": "^4.0.0",
+    "gulp-ava": "^0.17.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "jshint-stylish": "^2.2.1",
+    "lodash": "^4.17.4",
+    "nyc": "^10.3.2",
+    "pump": "^1.0.2"
+  },
+  "scripts": {
+    "coverage": "nyc npm test && nyc report --reporter=text-lcov --report-dir=./coverage > ./coverage/lcov.info",
+    "docs": "docpress build",
+    "docs:publish": "git-update-ghpages -e",
+    "lint": "eslint --ignore-path .gitignore chance.js",
+    "test": "ava"
+  },
+  "jam": {
+    "main": "chance.js"
+  },
+  "github": "https://github.com/chancejs/chancejs",
+  "spm": {
+    "main": "chance.js",
+    "ignore": [
+      "test"
+    ]
+  },
+  "docpress": {
+    "scripts": [
+      "chance.js",
+      "analytics.js",
+      "https://platform.twitter.com/widgets.js"
+    ],
+    "github": "chancejs/chancejs",
+    "css": [
+      "docs/chance.css"
+    ]
+  },
+  "gitHead": "9dde97f9d57c786d8aa88efe7c769da2f779fb2a",
+  "_id": "chance@1.1.9",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-TfxnA/DcZXRTA4OekA2zL9GH8qscbbl6X0ZqU4tXhGveVY/mXWvEQLt5GwZcYXTEyEFflVtj+pG8nc8EwSm1RQ==",
+    "tarball": "https://registry.npmjs.org/chance/-/chance-1.1.9.tgz"
+  },
+  "directories": {},
+  "ident": "chance",
+  "key": "chance/1.1.9",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "chance",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-0WquxX4Gw6bNQro756XlT+HTMukaDDcDqJPPWYi4PW4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/chance/-/chance-1.1.9.tgz"
+  }
+}

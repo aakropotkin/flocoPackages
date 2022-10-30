@@ -1,0 +1,65 @@
+{
+  "name": "pac-resolver",
+  "version": "5.0.1",
+  "description": "Generates an asynchronous resolver function from a PAC file",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "dependencies": {
+    "degenerator": "^3.0.2",
+    "ip": "^1.1.5",
+    "netmask": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/debug": "4",
+    "@types/ip": "^1.1.0",
+    "@types/netmask": "^1.0.30",
+    "@types/node": "^17.0.19",
+    "@typescript-eslint/eslint-plugin": "5.12.0",
+    "@typescript-eslint/parser": "5.12.0",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-prettier": "8.4.0",
+    "eslint-import-resolver-typescript": "2.5.0",
+    "eslint-plugin-import": "2.25.4",
+    "mocha": "^9.2.1",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsc",
+    "test": "mocha --reporter spec",
+    "test-lint": "eslint src --ext .js,.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/node-pac-resolver.git"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "license": "MIT",
+  "gitHead": "f483e349205a9a13f7f6ff3445c2187a3b77a55f",
+  "_id": "pac-resolver@5.0.1",
+  "_nodeVersion": "16.15.0",
+  "_npmVersion": "8.10.0",
+  "dist": {
+    "integrity": "sha512-cy7u00ko2KVgBAjuhevqpPeHIkCIqPe1v24cydhWjmeuzaBfmUWFCZJ1iAh5TuVzVZoUzXIW7K8sMYOZ84uZ9Q==",
+    "tarball": "https://registry.npmjs.org/pac-resolver/-/pac-resolver-5.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "pac-resolver",
+  "key": "pac-resolver/5.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pac-resolver",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-5zooM52EJRFbTNKCxpFCEG1ewC0epocAKY9Sysfckno=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pac-resolver/-/pac-resolver-5.0.1.tgz"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "intl-messageformat",
+  "version": "10.2.1",
+  "description": "Formats ICU Message strings with number, date, plural, and select placeholders to create localized messages.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:formatjs/formatjs.git"
+  },
+  "main": "index.js",
+  "module": "lib/index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "@formatjs/ecma402-abstract": "1.13.0",
+    "@formatjs/fast-memoize": "1.2.6",
+    "@formatjs/icu-messageformat-parser": "2.1.10",
+    "tslib": "2.4.0"
+  },
+  "sideEffects": false,
+  "license": "BSD-3-Clause",
+  "gitHead": "a7842673d8ad205171ad7c8cb8bb2f318b427c0c",
+  "_id": "intl-messageformat@10.2.1",
+  "_integrity": "sha512-1lrJG2qKzcC1TVzYu1VuB1yiY68LU5rwpbHa2THCzA67Vutkz7+1lv5U20K3Lz5RAiH78zxNztMEtchokMWv8A==",
+  "_resolved": "/private/var/folders/7r/h76yx7tx2dg03b2t1cgk89380000gq/T/4726a6792364edd0046dc4f62bd65085/intl-messageformat-10.2.1.tgz",
+  "_from": "file:intl-messageformat-10.2.1.tgz",
+  "_nodeVersion": "16.12.0",
+  "_npmVersion": "8.1.0",
+  "dist": {
+    "integrity": "sha512-1lrJG2qKzcC1TVzYu1VuB1yiY68LU5rwpbHa2THCzA67Vutkz7+1lv5U20K3Lz5RAiH78zxNztMEtchokMWv8A==",
+    "tarball": "https://registry.npmjs.org/intl-messageformat/-/intl-messageformat-10.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "intl-messageformat",
+  "key": "intl-messageformat/10.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "intl-messageformat",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-1x2UrMAxdamWXJsb83IMeJ7xXCt064ytayW7dF0cFIM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat/-/intl-messageformat-10.2.1.tgz"
+  }
+}

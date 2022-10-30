@@ -1,0 +1,45 @@
+{
+  "name": "pumpify",
+  "version": "2.0.1",
+  "description": "Combine an array of streams into a single duplex stream using pump and duplexify",
+  "main": "index.js",
+  "dependencies": {
+    "duplexify": "^4.1.1",
+    "inherits": "^2.0.3",
+    "pump": "^3.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.10.2",
+    "through2": "^3.0.1"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mafintosh/pumpify.git"
+  },
+  "license": "MIT",
+  "gitHead": "106097fbb7a09edf7c5f6f387ea2533fde4d0d47",
+  "_id": "pumpify@2.0.1",
+  "_nodeVersion": "10.16.3",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-m7KOje7jZxrmutanlkS1daj1dS6z6BgslzOXmcSEpIlCxM3VJH7lG5QLeck/6hgF6F4crFf01UtQmNsJfweTAw==",
+    "tarball": "https://registry.npmjs.org/pumpify/-/pumpify-2.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "pumpify",
+  "key": "pumpify/2.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "pumpify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-2hWhy+syPACnjDSS6dRlcLKM37xmA1r7itqZ/oHwhqU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pumpify/-/pumpify-2.0.1.tgz"
+  }
+}

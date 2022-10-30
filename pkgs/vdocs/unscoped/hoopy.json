@@ -1,0 +1,47 @@
+{
+  "name": "hoopy",
+  "version": "0.1.4",
+  "license": "MIT",
+  "description": "Like an array, but rounder.",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --es_staging --ui tdd test.js",
+    "release": "release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/philbooth/hoopy.git"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^3.19.0",
+    "mocha": "^5.2.0",
+    "please-release-me": "^2.0.2"
+  },
+  "gitHead": "534d67d737551706bce0f3aba675c1301ca2c5b8",
+  "_id": "hoopy@0.1.4",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "8.11.1",
+  "dist": {
+    "integrity": "sha512-HRcs+2mr52W0K+x8RzcLzuPPmVIKMSv97RGHy0Ea9y/mpcaK+xTrjICA04KAHi4GRzxliNqNJEFYWHghy3rSfQ==",
+    "tarball": "https://registry.npmjs.org/hoopy/-/hoopy-0.1.4.tgz"
+  },
+  "directories": {},
+  "ident": "hoopy",
+  "key": "hoopy/0.1.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "hoopy",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-7x8liyDn5zHV0eZEVsYxtNVA4W6wWtriFv55PIzi9g4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hoopy/-/hoopy-0.1.4.tgz"
+  }
+}

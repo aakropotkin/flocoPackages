@@ -1,0 +1,61 @@
+{
+  "name": "proc-log",
+  "version": "3.0.0",
+  "main": "lib/index.js",
+  "description": "just emit 'log' events on the process object",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/proc-log.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "posttest": "npm run lint",
+    "postsnap": "eslint index.js test/*.js --fix",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "lintfix": "npm run lint -- --fix",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^3.0.1",
+    "@npmcli/template-oss": "4.5.1",
+    "tap": "^16.0.1"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.5.1"
+  },
+  "tap": {
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "gitHead": "a3318aac6541572d897f404c1db7d905016c5cfe",
+  "_id": "proc-log@3.0.0",
+  "_nodeVersion": "18.10.0",
+  "_npmVersion": "8.19.2",
+  "dist": {
+    "integrity": "sha512-++Vn7NS4Xf9NacaU9Xq3URUuqZETPsf8L4j5/ckhaRYsfPeRyzGw+iDjFhV/Jr3uNmTvvddEJFWh5R1gRgUH8A==",
+    "tarball": "https://registry.npmjs.org/proc-log/-/proc-log-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "proc-log",
+  "key": "proc-log/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "proc-log",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-nwflclHxUNnCIgTKLplQ6vSZSiPRsbLddajMrVddWrM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/proc-log/-/proc-log-3.0.0.tgz"
+  }
+}

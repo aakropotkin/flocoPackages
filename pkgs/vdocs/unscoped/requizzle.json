@@ -1,0 +1,45 @@
+{
+  "name": "requizzle",
+  "version": "0.2.3",
+  "description": "Swizzle a little something into your require() calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hegemonic/requizzle.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.14"
+  },
+  "devDependencies": {
+    "expectations": "^1.0.0",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-mocha": "^6.0.0"
+  },
+  "gitHead": "f6157db86369eaff60dd6d439a7b589ebf9418ea",
+  "_id": "requizzle@0.2.3",
+  "_nodeVersion": "8.16.0",
+  "_npmVersion": "6.10.0",
+  "dist": {
+    "integrity": "sha512-YanoyJjykPxGHii0fZP0uUPEXpvqfBDxWV7s6GKAiiOsiqhX6vHNyW3Qzdmqp/iq/ExbhaGbVrjB4ruEVSM4GQ==",
+    "tarball": "https://registry.npmjs.org/requizzle/-/requizzle-0.2.3.tgz"
+  },
+  "directories": {},
+  "ident": "requizzle",
+  "key": "requizzle/0.2.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "requizzle",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-6Ooa3H5JlcPjAnolvz0RAGa+zOZRm05Xf7fHBqOo8wE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/requizzle/-/requizzle-0.2.3.tgz"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "lcov-parse",
+  "description": "Parse lcov results files and return JSON",
+  "version": "1.0.0",
+  "bin": {
+    "lcov-parse": "./bin/cli.js"
+  },
+  "main": "./lib/index",
+  "tags": [
+    "lcov",
+    "json",
+    "coverage",
+    "parser"
+  ],
+  "devDependencies": {
+    "istanbul": "^0.2.10",
+    "jshint": "^2.5.1",
+    "vows": "*",
+    "yui-lint": "~0.1.1"
+  },
+  "scripts": {
+    "pretest": "jshint --config ./node_modules/yui-lint/jshint.json ./lib/",
+    "test": "istanbul cover --print both ./node_modules/vows/bin/vows -- --spec ./tests/*.js"
+  },
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davglass/lcov-parse.git"
+  },
+  "gitHead": "80d039574ed9e9aea0c15840808aac82d14a231f",
+  "_id": "lcov-parse@1.0.0",
+  "_shasum": "eb0d46b54111ebc561acb4c408ef9363bdc8f7e0",
+  "_from": ".",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.10.3",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/lcov-parse/-/lcov-parse-1.0.0.tgz",
+    "integrity": "sha512-aprLII/vPzuQvYZnDRU78Fns9I2Ag3gi4Ipga/hxnVMCZC8DnR2nI7XBqrPoywGfxqIx/DgarGvDJZAD3YBTgQ=="
+  },
+  "ident": "lcov-parse",
+  "key": "lcov-parse/1.0.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "lcov-parse",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-t4cLgun/syfqnpy7eCfuc5DXA3g4AtnjfPEBXq3Gy1I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lcov-parse/-/lcov-parse-1.0.0.tgz"
+  }
+}

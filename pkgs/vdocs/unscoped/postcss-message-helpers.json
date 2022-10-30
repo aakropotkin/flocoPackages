@@ -1,0 +1,48 @@
+{
+  "name": "postcss-message-helpers",
+  "version": "2.0.0",
+  "description": "PostCSS helpers to throw or output GNU style messages",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoOx/postcss-message-helpers.git"
+  },
+  "files": [
+    "CHANGELOG.md",
+    "LICENSE",
+    "index.js"
+  ],
+  "devDependencies": {
+    "jscs": "^1.6.2",
+    "jshint": "^2.5.6",
+    "postcss": "^4.0.2",
+    "tape": "^3.0.0"
+  },
+  "scripts": {
+    "lint": "jscs *.js **/*.js && jshint . --exclude-path .gitignore",
+    "test": "npm run lint && tape test"
+  },
+  "gitHead": "5f9d44c18e0aba563ac13550617378b69a4f9744",
+  "_id": "postcss-message-helpers@2.0.0",
+  "_shasum": "a4f2f4fab6e4fe002f0aed000478cdf52f9ba60e",
+  "_from": ".",
+  "_npmVersion": "2.1.18",
+  "_nodeVersion": "0.10.35",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/postcss-message-helpers/-/postcss-message-helpers-2.0.0.tgz",
+    "integrity": "sha512-tPLZzVAiIJp46TBbpXtrUAKqedXSyW5xDEo1sikrfEfnTs+49SBZR/xDdqCiJvSSbtr615xDsaMF3RrxS2jZlA=="
+  },
+  "ident": "postcss-message-helpers",
+  "key": "postcss-message-helpers/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-message-helpers",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-2Ik8omMd2HvjPiXKEGwfR1L+JQuEkENrZwWy96o+qf0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-message-helpers/-/postcss-message-helpers-2.0.0.tgz"
+  }
+}

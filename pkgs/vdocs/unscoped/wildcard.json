@@ -1,0 +1,66 @@
+{
+  "name": "wildcard",
+  "description": "Wildcard matching tools",
+  "version": "2.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "testling": {
+    "files": "test/all.js",
+    "browsers": {
+      "ie": [
+        "latest"
+      ],
+      "ff": [
+        "latest",
+        "nightly"
+      ],
+      "chrome": [
+        "latest",
+        "canary"
+      ],
+      "opera": [
+        "latest",
+        "next"
+      ],
+      "safari": [
+        "latest"
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DamonOehlman/wildcard.git"
+  },
+  "scripts": {
+    "test": "node test/all.js",
+    "gendocs": "gendocs > README.md"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "gitHead": "becc50830de8a919b236dd53611dfaab24214946",
+  "_id": "wildcard@2.0.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.15.3",
+  "dist": {
+    "integrity": "sha512-JcKqAHLPxcdb9KM49dufGXn2x3ssnfjbcaQdLlfZsL9rH9wgDQjUtDxbo8NE0F6SFvydeu1VhZe7hZuHsB2/pw==",
+    "tarball": "https://registry.npmjs.org/wildcard/-/wildcard-2.0.0.tgz"
+  },
+  "ident": "wildcard",
+  "key": "wildcard/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "wildcard",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gOwRMRBvpVaVgqXZOFIroJDIme6HD318nKghexqr8DU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/wildcard/-/wildcard-2.0.0.tgz"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "global-modules",
+  "description": "The directory used by npm for globally installed npm modules.",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/global-modules.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "global-prefix": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^5.2.0"
+  },
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "git-config-path",
+        "global-prefix",
+        "npm-paths"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "7455e827f0ce0366d224aea035a8fecd233aa24a",
+  "_id": "global-modules@2.0.0",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "11.4.0",
+  "dist": {
+    "integrity": "sha512-NGbfmJBp9x8IxyJSd1P+otYK8vonoJactOogrVfFRIAEY1ukil8RSKDz2Yo7wh1oihl51l/r6W4epkeKJHqL8A==",
+    "tarball": "https://registry.npmjs.org/global-modules/-/global-modules-2.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "global-modules",
+  "key": "global-modules/2.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "global-modules",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-yFwSBa5fYzVcfl1P84dGBo9dEXblY9LvSH5lZeYuCcc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/global-modules/-/global-modules-2.0.0.tgz"
+  }
+}

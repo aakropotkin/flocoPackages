@@ -1,0 +1,74 @@
+{
+  "name": "socket.io-parser",
+  "version": "4.2.1",
+  "description": "socket.io protocol parser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socketio/socket.io-parser.git"
+  },
+  "main": "./build/cjs/index.js",
+  "module": "./build/esm/index.js",
+  "types": "./build/esm/index.d.ts",
+  "exports": {
+    "import": {
+      "node": "./build/esm-debug/index.js",
+      "default": "./build/esm/index.js"
+    },
+    "require": "./build/cjs/index.js"
+  },
+  "dependencies": {
+    "@socket.io/component-emitter": "~3.1.0",
+    "debug": "~4.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.6",
+    "@babel/preset-env": "~7.9.6",
+    "@types/debug": "^4.1.5",
+    "@types/node": "^14.11.1",
+    "babelify": "~10.0.0",
+    "benchmark": "2.1.2",
+    "expect.js": "0.3.1",
+    "mocha": "3.2.0",
+    "prettier": "^2.1.2",
+    "rimraf": "^3.0.2",
+    "socket.io-browsers": "^1.0.0",
+    "typescript": "^4.0.3",
+    "zuul": "3.11.1",
+    "zuul-ngrok": "4.0.0"
+  },
+  "scripts": {
+    "compile": "rimraf ./build && tsc && tsc -p tsconfig.esm.json && ./postcompile.sh",
+    "test": "npm run format:check && npm run compile && if test \"$BROWSERS\" = \"1\" ; then npm run test:browser; else npm run test:node; fi",
+    "test:node": "mocha --reporter dot --bail test/index.js",
+    "test:browser": "zuul test/index.js --no-coverage",
+    "format:fix": "prettier --write --parser typescript 'lib/**/*.ts' 'test/**/*.js'",
+    "format:check": "prettier --check --parser typescript 'lib/**/*.ts' 'test/**/*.js'",
+    "prepack": "npm run compile"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "gitHead": "5a2ccff9d1d8fdbadd3faad9290a9e3b165cf9a2",
+  "_id": "socket.io-parser@4.2.1",
+  "_nodeVersion": "16.15.1",
+  "_npmVersion": "8.11.0",
+  "dist": {
+    "integrity": "sha512-V4GrkLy+HeF1F/en3SpUaM+7XxYXpuMUWLGde1kSSh5nQMN4hLrbPIkD+otwh6q9R6NOQBN4AMaOZ2zVjui82g==",
+    "tarball": "https://registry.npmjs.org/socket.io-parser/-/socket.io-parser-4.2.1.tgz"
+  },
+  "directories": {},
+  "ident": "socket.io-parser",
+  "key": "socket.io-parser/4.2.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "socket.io-parser",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-X3QLzUpJlfJNzhXH+yev7FzK8oy+HVJy82tqgv7/hn4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/socket.io-parser/-/socket.io-parser-4.2.1.tgz"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "heavy",
+  "description": "Measure process load",
+  "version": "6.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hapijs/heavy.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "boom": "7.x.x",
+    "hoek": "6.x.x",
+    "joi": "14.x.x"
+  },
+  "devDependencies": {
+    "code": "5.x.x",
+    "lab": "17.x.x"
+  },
+  "scripts": {
+    "test": "lab -t 100 -a code -L",
+    "test-cov-html": "lab -t 100 -a code -L -r html -o coverage.html"
+  },
+  "license": "BSD-3-Clause",
+  "gitHead": "17cbfa518b92ed9187422ee3c1f81e25e72bb3c4",
+  "_id": "heavy@6.1.2",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "8.12.0",
+  "dist": {
+    "integrity": "sha512-cJp884bqhiebNcEHydW0g6V1MUGYOXRPw9c7MFiHQnuGxtbWuSZpsbojwb2kxb3AA1/Rfs8CNiV9MMOF8pFRDg==",
+    "tarball": "https://registry.npmjs.org/heavy/-/heavy-6.1.2.tgz"
+  },
+  "directories": {},
+  "deprecated": "This module has moved and is now available at @hapi/heavy. Please update your dependencies as this version is no longer maintained an may contain bugs and security issues.",
+  "ident": "heavy",
+  "key": "heavy/6.1.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "heavy",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-iR9Jj+PmgYkNqkIVV9irs9lcHc7CtNen4ZeobNh+ckY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/heavy/-/heavy-6.1.2.tgz"
+  }
+}

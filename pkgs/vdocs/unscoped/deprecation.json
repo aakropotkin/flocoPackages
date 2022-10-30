@@ -1,0 +1,46 @@
+{
+  "name": "deprecation",
+  "description": "Log a deprecation message with stack",
+  "version": "2.3.1",
+  "license": "ISC",
+  "esnext": "dist-src/index.js",
+  "main": "dist-node/index.js",
+  "module": "dist-web/index.js",
+  "types": "dist-types/index.d.ts",
+  "pika": true,
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr2m/deprecation.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@pika/pack": "^0.3.7",
+    "@pika/plugin-build-node": "^0.4.0",
+    "@pika/plugin-build-types": "^0.4.0",
+    "@pika/plugin-build-web": "^0.4.0",
+    "@pika/plugin-standard-pkg": "^0.4.0",
+    "semantic-release": "^15.13.3"
+  },
+  "_id": "deprecation@2.3.1",
+  "_nodeVersion": "10.16.0",
+  "_npmVersion": "6.9.0",
+  "dist": {
+    "integrity": "sha512-xmHIy4F3scKVwMsQ4WnVaS8bHOx0DmVwRywosKhaILI0ywMDWPtBSku2HNxRvF7jtwDRsoEwYQSfbxj8b7RlJQ==",
+    "tarball": "https://registry.npmjs.org/deprecation/-/deprecation-2.3.1.tgz"
+  },
+  "directories": {},
+  "ident": "deprecation",
+  "key": "deprecation/2.3.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "deprecation",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-ePCI+2A+28tjJ2Y5xAQCvWyOJ6oAx9yvaI+CbDAbCq8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/deprecation/-/deprecation-2.3.1.tgz"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "loose-envify",
+  "version": "1.4.0",
+  "description": "Fast (and loose) selective `process.env` replacer using js-tokens instead of an AST",
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "loose-envify": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zertosh/loose-envify.git"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {
+    "js-tokens": "^3.0.0 || ^4.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "envify": "^3.4.0",
+    "tap": "^8.0.0"
+  },
+  "gitHead": "a8fdd02e3a435195f526053882d64537d627b3e6",
+  "_id": "loose-envify@1.4.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.6.0",
+  "dist": {
+    "integrity": "sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==",
+    "tarball": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz"
+  },
+  "directories": {},
+  "ident": "loose-envify",
+  "key": "loose-envify/1.4.0",
+  "hasBin": true,
+  "isSimple": false,
+  "flocoPkgType": "bin",
+  "bname": "loose-envify",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-abQxb8UZImSEBRMsA9wep5NK2rpyd9JG0YeTGqz+jDk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz"
+  }
+}

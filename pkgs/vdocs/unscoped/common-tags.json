@@ -1,0 +1,80 @@
+{
+  "name": "common-tags",
+  "description": "a few common utility template tags for ES2015",
+  "version": "1.8.2",
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-eslint": "8.2.3",
+    "babel-plugin-add-module-exports": "0.2.1",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "babel-plugin-transform-export-extensions": "6.22.0",
+    "babel-preset-env": "1.7.0",
+    "babel-register": "6.26.0",
+    "codecov": "3.0.2",
+    "cross-env": "5.1.6",
+    "doctoc": "1.3.1",
+    "eslint": "4.19.1",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-prettier": "2.6.0",
+    "jest": "23.0.0",
+    "micromatch": "3.1.10",
+    "prettier": "1.12.1",
+    "rimraf": "2.6.2",
+    "rollup": "0.59.3",
+    "rollup-plugin-babel": "3.0.4",
+    "rollup-plugin-node-resolve": "3.3.0",
+    "rollup-plugin-uglify": "4.0.0",
+    "when": "3.7.8"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "MIT",
+  "main": "lib",
+  "jsnext:main": "es",
+  "module": "es",
+  "unpkg": "dist/common-tags.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zspecza/common-tags.git"
+  },
+  "scripts": {
+    "clear": "rimraf lib && rimraf es",
+    "build": "npm run clear && npm run build:cjs && npm run build:es && npm run build:unpkg",
+    "build:cjs": "babel src -d lib --ignore *.test.js",
+    "build:es": "cross-env BABEL_ENV=es babel src -d es --ignore *.test.js",
+    "build:unpkg": "cross-env BABEL_ENV=es rollup --config",
+    "codecov": "codecov",
+    "doctoc": "doctoc readme.md --title \"## Table of Contents\"",
+    "lint": "eslint .*rc.js src/**/*.js --ignore-pattern '!.*rc.js'",
+    "lint:fix": "eslint --fix .*rc.js src/**/*.js --ignore-pattern '!.*rc.js'",
+    "prerelease": "npm run build",
+    "preversion": "npm run doctoc  && npm test",
+    "release": "npm publish",
+    "test": "npm run lint && jest"
+  },
+  "gitHead": "8741ca454a14bcc1ce8dc1c54d025bfad95b3455",
+  "_id": "common-tags@1.8.2",
+  "_nodeVersion": "14.17.6",
+  "_npmVersion": "6.14.5",
+  "dist": {
+    "integrity": "sha512-gk/Z852D2Wtb//0I+kRFNKKE9dIIVirjoqPoA1wJU+XePVXZfGeBpk45+A1rKO4Q43prqWBNY/MiIeRLbPWUaA==",
+    "tarball": "https://registry.npmjs.org/common-tags/-/common-tags-1.8.2.tgz"
+  },
+  "ident": "common-tags",
+  "key": "common-tags/1.8.2",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "common-tags",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-wQwPXG1Rct5Hp4Gv31l/MrtIRtzMH5M8g9m5HJeUb24=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/common-tags/-/common-tags-1.8.2.tgz"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "mdn-data",
+  "version": "2.0.30",
+  "description": "Open Web data by the Mozilla Developer Network",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdn/data.git"
+  },
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "ajv": "^6.12.6",
+    "better-ajv-errors": "^1.1.2"
+  },
+  "scripts": {
+    "lint": "node test/lint",
+    "test": "npm run lint"
+  },
+  "gitHead": "7ccf3c5d61da1c5e2cbb5c11d7ccb1147fcccff2",
+  "_id": "mdn-data@2.0.30",
+  "_nodeVersion": "12.22.12",
+  "_npmVersion": "6.14.16",
+  "dist": {
+    "integrity": "sha512-GaqWWShW4kv/G9IEucWScBx9G1/vsFZZJUO+tD26M8J8z3Kw5RDQjaoZe03YAClgeS/SWPOcb4nkFBTEi5DUEA==",
+    "tarball": "https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.30.tgz"
+  },
+  "directories": {},
+  "ident": "mdn-data",
+  "key": "mdn-data/2.0.30",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "mdn-data",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-0W9nWqgZsHk9muCEEKnj6wQxNOCqTQCrlBTiO4Y6qiA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.30.tgz"
+  }
+}

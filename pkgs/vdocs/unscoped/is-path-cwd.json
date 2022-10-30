@@ -1,0 +1,45 @@
+{
+  "name": "is-path-cwd",
+  "version": "3.0.0",
+  "description": "Check if a path is the current working directory",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-path-cwd.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.17.0",
+    "xo": "^0.44.0"
+  },
+  "gitHead": "a052163c5065fe2fec7b282564e04cb4b3e70706",
+  "_id": "is-path-cwd@3.0.0",
+  "_nodeVersion": "16.2.0",
+  "_npmVersion": "7.10.0",
+  "dist": {
+    "integrity": "sha512-kyiNFFLU0Ampr6SDZitD/DwUo4Zs1nSdnygUBqsu3LooL00Qvb5j+UnvApUn/TTj1J3OuE6BTdQ5rudKmU2ZaA==",
+    "tarball": "https://registry.npmjs.org/is-path-cwd/-/is-path-cwd-3.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "is-path-cwd",
+  "key": "is-path-cwd/3.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "is-path-cwd",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-llneOe4ouXFc2zjM9ggAmVZiuLfRHV1CJI2erFicJx0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-path-cwd/-/is-path-cwd-3.0.0.tgz"
+  }
+}

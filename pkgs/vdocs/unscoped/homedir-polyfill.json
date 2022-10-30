@@ -1,0 +1,68 @@
+{
+  "name": "homedir-polyfill",
+  "description": "Node.js os.homedir polyfill for older versions of node.js.",
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doowb/homedir-polyfill.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11",
+    "mocha": "^3.1.2"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "parse-passwd"
+      ]
+    },
+    "reflinks": [
+      "verb",
+      "verb-generate-readme"
+    ]
+  },
+  "dependencies": {
+    "parse-passwd": "^1.0.0"
+  },
+  "gitHead": "e7d6e97f4cd8db18cf695a121fc8dc2addaa754b",
+  "_id": "homedir-polyfill@1.0.3",
+  "_npmVersion": "6.4.1",
+  "_nodeVersion": "10.14.2",
+  "dist": {
+    "integrity": "sha512-eSmmWE5bZTK2Nou4g0AI3zZ9rswp7GRKoKXS1BLUkvPviOqs4YTN1djQIqrXy9k5gEtdLPy86JjRwsNM9tnDcA==",
+    "tarball": "https://registry.npmjs.org/homedir-polyfill/-/homedir-polyfill-1.0.3.tgz"
+  },
+  "directories": {},
+  "ident": "homedir-polyfill",
+  "key": "homedir-polyfill/1.0.3",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "homedir-polyfill",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WOZ84cGUdrly+yokQl3N2k8nk6LiT40frikByipvW5c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/homedir-polyfill/-/homedir-polyfill-1.0.3.tgz"
+  }
+}

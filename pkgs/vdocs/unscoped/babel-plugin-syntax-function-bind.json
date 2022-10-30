@@ -1,0 +1,37 @@
+{
+  "name": "babel-plugin-syntax-function-bind",
+  "version": "6.13.0",
+  "description": "Allow parsing of function bind",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-function-bind"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "_id": "babel-plugin-syntax-function-bind@6.13.0",
+  "scripts": {},
+  "_shasum": "48c495f177bdf31a981e732f55adc0bdd2601f46",
+  "_from": ".",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "5.11.1",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/babel-plugin-syntax-function-bind/-/babel-plugin-syntax-function-bind-6.13.0.tgz",
+    "integrity": "sha512-m8yMoh9LIiNyeLdQs5I9G+3YXo4nqVsKQkk7YplrG4qAFbNi9hkZlow8HDHxhH9QOVFPHmy8+03NzRCdyChIKw=="
+  },
+  "directories": {},
+  "ident": "babel-plugin-syntax-function-bind",
+  "key": "babel-plugin-syntax-function-bind/6.13.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "babel-plugin-syntax-function-bind",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-PE4s59I9t/8kSEJKz5ru2PR3mHH13erKm8DtpllVJh0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-function-bind/-/babel-plugin-syntax-function-bind-6.13.0.tgz"
+  }
+}

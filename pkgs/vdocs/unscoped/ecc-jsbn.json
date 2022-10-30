@@ -1,0 +1,39 @@
+{
+  "name": "ecc-jsbn",
+  "version": "0.2.0",
+  "description": "ECC JS code based on JSBN",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quartzjer/ecc-jsbn.git"
+  },
+  "scripts": {
+    "preversion": "node ./test.js"
+  },
+  "dependencies": {
+    "jsbn": "~0.1.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "_id": "ecc-jsbn@0.2.0",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/ecc-jsbn/-/ecc-jsbn-0.2.0.tgz",
+    "integrity": "sha512-UWXb2tKr7ou/9RbgTd1iPw3Yf9p1ZJFPS/8CwsA0hS2OQrXcpTi7vjRUnFdRG0q/tqzNHgPWMYsOwgzgKaClOg=="
+  },
+  "directories": {},
+  "ident": "ecc-jsbn",
+  "key": "ecc-jsbn/0.2.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ecc-jsbn",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-y7gngKCwG0QDE2p21xhWh3OeGg/pNx4ZWazfVp/JNKQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecc-jsbn/-/ecc-jsbn-0.2.0.tgz"
+  }
+}

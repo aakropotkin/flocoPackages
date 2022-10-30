@@ -1,0 +1,51 @@
+{
+  "name": "read-pkg-up",
+  "version": "9.1.0",
+  "description": "Read the closest package.json file",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/read-pkg-up.git"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "dependencies": {
+    "find-up": "^6.3.0",
+    "read-pkg": "^7.1.0",
+    "type-fest": "^2.5.0"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "tsd": "^0.18.0",
+    "xo": "^0.45.0"
+  },
+  "types": "./index.d.ts",
+  "gitHead": "1eed68d3bc9bd36449a1c6437d9fef33435bd2ea",
+  "_id": "read-pkg-up@9.1.0",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.3.2",
+  "dist": {
+    "integrity": "sha512-vaMRR1AC1nrd5CQM0PhlRsO5oc2AAigqr7cCrZ/MW/Rsaflz4RlgzkpL4qoU/z1F6wrbd85iFv1OQj/y5RdGvg==",
+    "tarball": "https://registry.npmjs.org/read-pkg-up/-/read-pkg-up-9.1.0.tgz"
+  },
+  "directories": {},
+  "ident": "read-pkg-up",
+  "key": "read-pkg-up/9.1.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "read-pkg-up",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-gQ+iR+GeY9elGARsefQAwYe7uxpxHg+iMrHPoPVX4O4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/read-pkg-up/-/read-pkg-up-9.1.0.tgz"
+  }
+}

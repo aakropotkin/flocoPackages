@@ -1,0 +1,56 @@
+{
+  "name": "http-assert",
+  "description": "assert with status codes",
+  "version": "1.5.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshttp/http-assert.git"
+  },
+  "dependencies": {
+    "deep-equal": "~1.0.1",
+    "http-errors": "~1.8.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-import": "2.24.2",
+    "eslint-plugin-markdown": "2.2.0",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "4.3.1",
+    "eslint-plugin-standard": "4.1.0",
+    "istanbul": "0.4.5",
+    "mocha": "9.1.0"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-ci": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/"
+  },
+  "gitHead": "976df0b5017be9ee53d8d17ff0d2c03aa8b689e4",
+  "_id": "http-assert@1.5.0",
+  "_nodeVersion": "16.1.0",
+  "_npmVersion": "7.11.2",
+  "dist": {
+    "integrity": "sha512-uPpH7OKX4H25hBmU6G1jWNaqJGpTXxey+YOUizJUAgu0AjLUeC8D73hTrhvDS5D+GJN1DN1+hhc/eF/wpxtp0w==",
+    "tarball": "https://registry.npmjs.org/http-assert/-/http-assert-1.5.0.tgz"
+  },
+  "directories": {},
+  "ident": "http-assert",
+  "key": "http-assert/1.5.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "http-assert",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-WeJJ5qY3pWjdhKY6AjGW+cagTUSjfzWxm+2M3A2fa5Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-assert/-/http-assert-1.5.0.tgz"
+  }
+}

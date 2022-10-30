@@ -1,0 +1,73 @@
+{
+  "name": "postcss-color-hex-alpha",
+  "description": "Use 4 & 8 character hex color notation in CSS",
+  "version": "8.0.4",
+  "license": "MIT",
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    }
+  },
+  "dependencies": {
+    "postcss-value-parser": "^4.2.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.4"
+  },
+  "scripts": {
+    "build": "rollup -c ../../rollup/default.js",
+    "clean": "node -e \"fs.rmSync('./dist', { recursive: true, force: true });\"",
+    "docs": "node ../../.github/bin/generate-docs/install.mjs && node ../../.github/bin/generate-docs/readme.mjs",
+    "lint": "npm run lint:eslint && npm run lint:package-json",
+    "lint:eslint": "eslint ./src --ext .js --ext .ts --ext .mjs --no-error-on-unmatched-pattern",
+    "lint:package-json": "node ../../.github/bin/format-package-json.mjs",
+    "prepublishOnly": "npm run clean && npm run build && npm run test",
+    "test": "node .tape.mjs && npm run test:exports",
+    "test:exports": "node ./test/_import.mjs && node ./test/_require.cjs",
+    "test:rewrite-expects": "REWRITE_EXPECTS=true node .tape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csstools/postcss-plugins.git",
+    "directory": "plugins/postcss-color-hex-alpha"
+  },
+  "csstools": {
+    "cssdbId": "hexadecimal-alpha-notation",
+    "exportName": "postcssColorHexAlpha",
+    "humanReadableName": "PostCSS Color Hex Alpha",
+    "specUrl": "https://www.w3.org/TR/css-color-4/#hex-notation"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "gitHead": "3e1e446c89bea2672c5c56f6bbf9c066c07179a4",
+  "_id": "postcss-color-hex-alpha@8.0.4",
+  "_nodeVersion": "16.13.1",
+  "_npmVersion": "8.1.2",
+  "dist": {
+    "integrity": "sha512-nLo2DCRC9eE4w2JmuKgVA3fGL3d01kGq752pVALF68qpGLmx2Qrk91QTKkdUqqp45T1K1XV8IhQpcu1hoAQflQ==",
+    "tarball": "https://registry.npmjs.org/postcss-color-hex-alpha/-/postcss-color-hex-alpha-8.0.4.tgz"
+  },
+  "directories": {},
+  "ident": "postcss-color-hex-alpha",
+  "key": "postcss-color-hex-alpha/8.0.4",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "postcss-color-hex-alpha",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-3l5xqt5bqywBHW/Lm8hHV67xCQ+Ug8dxgOS0omwZvdc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-hex-alpha/-/postcss-color-hex-alpha-8.0.4.tgz"
+  }
+}

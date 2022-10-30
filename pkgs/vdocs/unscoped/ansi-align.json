@@ -1,0 +1,50 @@
+{
+  "name": "ansi-align",
+  "version": "3.0.1",
+  "description": "align-text with ANSI support for CLIs",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard",
+    "test": "nyc ava",
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexdrew/ansi-align.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "string-width": "^4.1.0"
+  },
+  "devDependencies": {
+    "ava": "^2.0.0",
+    "chalk": "^2.4.2",
+    "coveralls": "^3.0.3",
+    "nyc": "^14.0.0",
+    "standard": "^14.0.0",
+    "standard-version": "^7.0.0"
+  },
+  "gitHead": "f79021ac88b3c36c0ccd35c640fc0a82e20f5c0d",
+  "_id": "ansi-align@3.0.1",
+  "_nodeVersion": "14.17.6",
+  "_npmVersion": "6.14.15",
+  "dist": {
+    "integrity": "sha512-IOfwwBF5iczOjp/WeY4YxyjqAFMQoZufdQWDd19SEExbVLNXqvpzSJ/M7Za4/sCPmQ0+GRquoA7bGcINcxew6w==",
+    "tarball": "https://registry.npmjs.org/ansi-align/-/ansi-align-3.0.1.tgz"
+  },
+  "directories": {},
+  "ident": "ansi-align",
+  "key": "ansi-align/3.0.1",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "ansi-align",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-prY4UMX21aXHPHuZD40ktWTu9NrxyeDGdTGw4Ic5iME=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ansi-align/-/ansi-align-3.0.1.tgz"
+  }
+}

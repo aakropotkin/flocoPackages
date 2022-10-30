@@ -1,0 +1,53 @@
+{
+  "name": "cli-width",
+  "version": "4.0.0",
+  "description": "Get stdout window width, with two fallbacks, tty and then a default.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test | tspec",
+    "coverage": "nyc node test | tspec",
+    "coveralls": "npm run coverage -s && coveralls < coverage/lcov.info",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/knownasilya/cli-width.git"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">= 12"
+  },
+  "devDependencies": {
+    "coveralls": "^3.1.1",
+    "nyc": "^15.1.0",
+    "standard-version": "^9.3.2",
+    "tap-spec": "^5.0.0",
+    "tape": "^5.5.2"
+  },
+  "volta": {
+    "node": "12.22.11",
+    "npm": "8.5.5"
+  },
+  "gitHead": "dd703b65969d4f8f2be3d78f292e64aebb4385e9",
+  "_id": "cli-width@4.0.0",
+  "_nodeVersion": "12.22.11",
+  "_npmVersion": "8.5.5",
+  "dist": {
+    "integrity": "sha512-ZksGS2xpa/bYkNzN3BAw1wEjsLV/ZKOf/CCrJ/QOBsxx6fOARIkwTutxp1XIOIohi6HKmOFjMoK/XaqDVUpEEw==",
+    "tarball": "https://registry.npmjs.org/cli-width/-/cli-width-4.0.0.tgz"
+  },
+  "directories": {},
+  "ident": "cli-width",
+  "key": "cli-width/4.0.0",
+  "hasBin": false,
+  "isSimple": true,
+  "flocoPkgType": "simple",
+  "bname": "cli-width",
+  "scope": null,
+  "scopeDir": "",
+  "fetchInfo": {
+    "narHash": "sha256-9ykSPBwArH8a+K3sYyx3VGpKWx2/eQawxRZ/4eG/dM0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-width/-/cli-width-4.0.0.tgz"
+  }
+}
