@@ -45,13 +45,13 @@
     "nan--latest": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-wqj1iyBB6KCNPGztsJOXYq/1P/SGvf1ob6uuxYgH4a8=",
+        "narHash": "sha256-5r+kH/G43Jk8vchs/zzepgd/5ouh0hIG7lWc6OfxLJ0=",
         "type": "tarball",
-        "url": "https://registry.npmjs.org/nan/-/nan-2.16.0.tgz"
+        "url": "https://registry.npmjs.org/nan/-/nan-2.17.0.tgz"
       },
       "original": {
         "type": "tarball",
-        "url": "https://registry.npmjs.org/nan/-/nan-2.16.0.tgz"
+        "url": "https://registry.npmjs.org/nan/-/nan-2.17.0.tgz"
       }
     },
     "nixpkgs": {
