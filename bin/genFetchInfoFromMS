@@ -43,7 +43,7 @@ asJSON() {
 eval echo $(
   asJSON|jq -cr '
 del( .__meta )
-|map( "{ \\\"\(.key)\\\": $( nix-prefetch-tree -K \(.sourceInfo.url); ) }" )[]
+|map( "{ \\\"\(.key)\\\": $( nix-prefetch-tree -K \(.fetchInfo.url); ) }" )[]
 ';
 );
 

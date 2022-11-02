@@ -21,7 +21,7 @@
     ident = "function-bind";
     key = "function-bind/1.1.1";
     scoped = false;
-    sourceInfo = {
+    fetchInfo = {
       entSubtype = "registry-tarball";
       hash = "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==";
       sha512 = "yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==";
@@ -41,7 +41,7 @@
     ident = "has";
     key = "has/1.0.3";
     scoped = false;
-    sourceInfo = {
+    fetchInfo = {
       entSubtype = "registry-tarball";
       hash = "sha512-f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw==";
       sha512 = "f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw==";
@@ -61,7 +61,7 @@
     ident = "is-core-module";
     key = "is-core-module/2.11.0";
     scoped = false;
-    sourceInfo = {
+    fetchInfo = {
       entSubtype = "registry-tarball";
       hash = "sha512-RRjxlvLDkD1YJwDbroBHMb+cukurkDWNyHx7D3oNB5x9rb5ogcksMC5wHCadcXoo67gVr/+3GFySh3134zi6rw==";
       sha512 = "RRjxlvLDkD1YJwDbroBHMb+cukurkDWNyHx7D3oNB5x9rb5ogcksMC5wHCadcXoo67gVr/+3GFySh3134zi6rw==";
@@ -76,7 +76,7 @@
     ident = "path-parse";
     key = "path-parse/1.0.7";
     scoped = false;
-    sourceInfo = {
+    fetchInfo = {
       entSubtype = "registry-tarball";
       hash = "sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==";
       sha512 = "LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==";
@@ -108,7 +108,7 @@
     ident = "resolve";
     key = "resolve/2.0.0-next.4";
     scoped = false;
-    sourceInfo = {
+    fetchInfo = {
       entSubtype = "registry-tarball";
       hash = "sha512-iMDbmAWtfU+MHpxt/I5iWI7cY6YVEZUQ3MBgPQ++XD1PELuJHIl82xBmObyP2KyQmkNB2dsqF7seoQQiAn5yDQ==";
       sha512 = "iMDbmAWtfU+MHpxt/I5iWI7cY6YVEZUQ3MBgPQ++XD1PELuJHIl82xBmObyP2KyQmkNB2dsqF7seoQQiAn5yDQ==";
@@ -123,7 +123,7 @@
     ident = "supports-preserve-symlinks-flag";
     key = "supports-preserve-symlinks-flag/1.0.0";
     scoped = false;
-    sourceInfo = {
+    fetchInfo = {
       entSubtype = "registry-tarball";
       hash = "sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==";
       sha512 = "ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==";

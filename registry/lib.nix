@@ -35,9 +35,9 @@ let
     self = let
       asId = { id, ref ? null, ... }:
         if ref == null then id else "${id}/${ref}";
-      proc = acc: { from, to, sourceInfo ? {} } @ tree: let
+      proc = acc: { from, to, fetchInfo ? {} } @ tree: let
         base  = if to.type == "indirect" then self."${asId to}" else to;
-        value = base // sourceInfo;
+        value = base // fetchInfo;
       in acc // { "${asId from}" = value; };
     in builtins.foldl' proc {} ( lib.readTreelockFor scope bname ).trees;
   in self;
@@ -45,17 +45,17 @@ let
 
 # ---------------------------------------------------------------------------- #
 
-  # Fill missing `sourceInfo' fields in treelock.
-  addSourceInfoToTreelock = tlock:
+  # Fill missing `fetchInfo' fields in treelock.
+  addFetchInfoToTreelock = tlock:
     tlock // {
       trees = map ( { from, to, ... } @ ent:
-        if ent ? sourceInfo then ent else ent // {
-          sourceInfo = removeAttrs ( builtins.fetchTree to ) ["outPath"];
+        if ent ? fetchInfo then ent else ent // {
+          fetchInfo = removeAttrs ( builtins.fetchTree to ) ["outPath"];
         } ) tlock.trees;
     };
 
-  # Fill missing `sourceInfo' fields for a set of treelocks.
-  addSourceInfoToTreelocks = builtins.mapAttrs ( _: addSourceInfoToTreelock );
+  # Fill missing `fetchInfo' fields for a set of treelocks.
+  addFetchInfoToTreelocks = builtins.mapAttrs ( _: addFetchInfoToTreelock );
 
 
 # ---------------------------------------------------------------------------- #
