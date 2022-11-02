@@ -13,28 +13,83 @@
   inputs.at-node-nix.url = "github:aameen-tulip/at-node-nix";
   inputs.floco.follows   = "/at-node-nix";
 
+
+# ---------------------------------------------------------------------------- #
+
   outputs = { floco, fsevents-src, nan-src, ... }: let
-    inherit (floco) lib;
-    overlays = {
-      fsevents = final: prev: {
-        flocoPackages = lib.addFlocoPackages prev {
-          nan      = nan-src;
-          # XXX: Only builds on Darwin. Linux just copies to store.
-          fsevents = lib.callPackageWith final ./default.nix {
-            src = fsevents-src;
-            inherit (prev.darwin.apple_sdk.frameworks) CoreServices;
-          };
+
+# ---------------------------------------------------------------------------- #
+
+    fsevents-meta = let
+      pjs = floco.lib.importJSON "${fsevents-src}/package.json";
+    in {
+      ident = pjs.name;
+      key   = "${pjs.name}/${pjs.version}";
+      inherit (pjs) version;
+    };
+
+
+    nan-meta = let
+      pjs = floco.lib.importJSON "${nan-src}/package.json";
+    in {
+      ident = pjs.name;
+      key   = "${pjs.name}/${pjs.version}";
+      inherit (pjs) version;
+    };
+
+
+# ---------------------------------------------------------------------------- #
+
+    overlays.nan = final: prev: {
+      # We can't assume `flocoPackages' is defined yet.
+      flocoPackages = final.lib.addFlocoPackages prev {
+        ${nan-meta.key} = nan-meta // {
+          type       = "tarball";
+          sourceInfo = nan-src;
+          meta       = nan-meta;
+          inherit (nan-src) outPath;
         };
       };
-      default = overlays.fsevents;
     };
-  in {
+
+    overlays.deps = floco.lib.composeExtensions floco.overlays.default
+                                                overlays.nan;
+
+    overlays.fsevents = final: prev: {
+      flocoPackages = prev.flocoPackages.extend ( fpFinal: fpPrev: {
+        # XXX: Only builds on Darwin. Linux just copies to store.
+        ${fsevents-meta.key} =
+          final.lib.makeOverridable ( import ./default.nix ) {
+            src           = fsevents-src;
+            flocoPackages = fpFinal;
+            nan           = fpFinal.${nan-meta.key};
+            meta          = fsevents-meta;
+            inherit (final) lib stdenv copyOut buildGyp;
+            inherit (prev.darwin.apple_sdk.frameworks) CoreServices;
+          };
+      } );
+    };
+    
+    overlays.default = floco.lib.composeExtensions overlays.deps
+                                                   overlays.fsevents;
+
+
+# ---------------------------------------------------------------------------- #
+
+  in {  # Begin Outputs
+
     inherit overlays;
-    packages = lib.eachDefaultSystemMap ( system: let
-      pkgsFor = floco.legacyPackages.${system}.extend overlays.fsevents;
+
+    packages = floco.lib.eachDefaultSystemMap ( system: let
+      pkgsFor = floco.legacyPackages.${system}.extend overlays.default;
+      fsevents = pkgsFor.flocoPackages."${fsevents-meta.key}";
     in {
-      inherit (pkgsFor.flocoPackages) fsevents;
-      default = pkgsFor.flocoPackages.fsevents;
+      inherit fsevents;
+      default = fsevents;
     } );
-  };
+
+  };  # End Outputs
+
+# ---------------------------------------------------------------------------- #
+
 }
