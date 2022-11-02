@@ -7,8 +7,8 @@
       #entFromtype = "manifest";
       ident = name;
       key   = "${name}/${version}";
-      # FIXME: metaEnt sourceInfo needs to be renamed.
-      sourceInfo = si.sourceInfo // si.fetchInfo;
+      # FIXME: metaEnt fetchInfo needs to be renamed.
+      fetchInfo = si.fetchInfo // si.fetchInfo;
     };
   in lib.libmeta.metaEntFromSerial info;
 in metaEntFromManifest

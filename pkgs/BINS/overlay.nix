@@ -58,10 +58,10 @@ in {
   # Produces store paths from `./locked.json' tree entries.
   # In the case of `type = "file"' entries we produce a derivation of the
   # unpacked tarball; for `type = "tarball"' entries we just produce storepaths.
-  flocoBinsFetcher = { sourceInfo, ... } @ ent: let
-    fetched  = builtins.fetchTree sourceInfo;
+  flocoBinsFetcher = { fetchInfo, ... } @ ent: let
+    fetched  = builtins.fetchTree fetchInfo;
     fetchUnpacked = {
-      sourceInfo = sourceInfo // fetched;
+      fetchInfo = fetchInfo // fetched;
       inherit (fetched) outPath;
       meta.hasBin = true;
       passthru.binPermsSet = false;
@@ -74,7 +74,8 @@ in {
         meta.hasBin = true;
       };
     in u // { passthru = u.passtrhu // { binPermsSet = true; }; };
-    src = if ent.sourceInfo.type == "file" then unpacked else fetchUnpacked;
+    src = if ( ent.type or ent.fetchInfo.type ) == "file" then unpacked else
+          fetchUnpacked;
   in ent // src;
 
   flocoPackages =

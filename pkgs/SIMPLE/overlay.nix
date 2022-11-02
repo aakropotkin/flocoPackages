@@ -36,7 +36,7 @@ final: prev: let
         ${key} = final.flocoSimpleFetcher {
           ident   = dirOf key;
           version = baseNameOf key;
-          sourceInfo = keeps.${k};
+          fetchInfo = keeps.${k};
         };
       };
     in acc // ( builtins.foldl' treesProc {} ( builtins.attrNames keeps ) );
@@ -49,14 +49,14 @@ in {
   # Produces store paths from `./locked.json' tree entries.
   # In the case of `type = "file"' entries we produce a derivation of the
   # unpacked tarball; for `type = "tarball"' entries we just produce storepaths.
-  flocoSimpleFetcher = { sourceInfo, ... } @ ent: let
-    fetched  = builtins.fetchTree sourceInfo;
+  flocoSimpleFetcher = { fetchInfo, ... } @ ent: let
+    fetched  = builtins.fetchTree fetchInfo;
     unpacked = final.flocoUnpack {
       name        = "source";
       tarball     = fetched;
       setBinPerms = false;   # None of these have bins.
     };
-    src = if sourceInfo.type == "file" then unpacked else fetched;
+    src = if fetchInfo.type == "file" then unpacked else fetched;
   in ent // src;
 
   flocoPackages = final.lib.addFlocoPackages prev ents;
