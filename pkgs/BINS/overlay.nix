@@ -6,6 +6,14 @@
 
 final: prev: let
 
+# ---------------------------------------------------------------------------- #
+
+  # Packages explicitly marked for export.
+  # Essentially this means that we have audited the generated builders.
+  exports = prev.lib.importJSON ./exports.json;
+
+# ---------------------------------------------------------------------------- #
+
   # A miniature `lib' for using treelock registries.
   rlib = import ../../registry/lib.nix;
 
@@ -18,6 +26,9 @@ final: prev: let
 
   #ents = prev.lib.recursiveUpdate regEnts lockedEnts;
   sources = lockedEnts;
+
+
+# ---------------------------------------------------------------------------- #
 
   # Generic default bin installer ( does global and module install ).
   mkBinPackage = import ./mkBinPackage.nix;
@@ -47,11 +58,23 @@ final: prev: let
     # FIXME: `mkNmDir' prod
   };
 
-  #ents = let
-  #  builderDefined = { ident, version, ... }:
-  #    builtins.pathExists "${toString ./.}/${ident}/${version}/default.nix";
-  #  keeps = prev.lib.filterAttrs ( _: builderDefined ) sources;
-  #in builtins.mapAttrs mkNodePackage keeps;
+
+# ---------------------------------------------------------------------------- #
+
+  # Sources partitioned based on whether or not they have explicit defs.
+  partExplicit = let
+    builderDefined = { ident, version, ... }:
+      builtins.pathExists "${toString ./.}/${ident}/${version}/default.nix";
+    parted = builtins.partition builderDefined ( builtins.attrValues sources );
+    rekeyProc = acc: { ident, version, ... } @ ent:
+      acc // { "${ident}/${version}" = ent; };
+  in {
+    explicit = builtins.foldl' rekeyProc {} parted.right;
+    default  = builtins.foldl' rekeyProc {} parted.wrong;
+  };
+
+
+# ---------------------------------------------------------------------------- #
 
 in {
 
@@ -78,53 +101,42 @@ in {
           fetchUnpacked;
   in ent // src;
 
-  flocoPackages =
-    prev.flocoPackages.extend ( fpFinal: fpPrev: ( {
-      "acorn/8.8.0" = mkNodePackage { ident = "acorn"; version = "8.8.0"; };
-      "which/2.0.2" = mkNodePackage { ident = "which"; version = "2.0.2"; };
 
-      "typescript/4.8.3" = mkNodePackage {
-        ident   = "typescript";
-        version = "4.8.3";
-      };
-      "typescript/4.8.4" = mkNodePackage {
-        ident   = "typescript";
-        version = "4.8.4";
-      };
+# ---------------------------------------------------------------------------- #
 
-      "js-yaml/4.1.0" = mkNodePackage { ident = "js-yaml"; version = "4.1.0"; };
-      "rimraf/3.0.2"  = mkNodePackage { ident = "rimraf"; version = "3.0.2"; };
-      "json5/1.0.1"   = mkNodePackage { ident = "json5"; version = "1.0.1"; };
-      "loose-envify/1.4.0" = mkNodePackage {
-        ident = "loose-envify";
-        version = "1.4.0";
-      };
-      "semver/6.3.0"   = mkNodePackage { ident = "semver"; version = "6.3.0"; };
-      "semver/7.3.7"   = mkNodePackage { ident = "semver"; version = "7.3.7"; };
-      "eslint/8.26.0" = mkNodePackage { ident = "eslint"; version = "8.26.0"; };
-      "eslint-config-prettier/8.5.0" = mkNodePackage {
-        ident = "eslint-config-prettier";
-        version = "8.5.0";
-      };
-    } ) );
+  flocoPackages = prev.flocoPackages.extend ( fpFinal: fpPrev: let
+    procP = ident: versions: version: versions // {
+      "${ident}/${version}" = mkNodePackage { inherit ident version; };
+    };
+    proc = acc: ident: let
+      latestV = final.lib.librange.latestRelease exports.${ident};
+      addsV = builtins.foldl' ( procP ident ) {} exports.${ident};
+      extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
+    in acc // ( addsV // extra );
+    exported = builtins.foldl' proc {} ( builtins.attrNames exports );
+  in ( exported // {
+    # Add any explicit defs here.
+  } ) );
+
+
+# ---------------------------------------------------------------------------- #
+
   #flocoApps = let
   #  proc = acc: k: acc // { ${baseNameOf ( dirOf k )} = ents.${k}.global; };
   #in builtins.foldl' proc {} ( builtins.attrNames ents );
 
-  flocoApps = {
-    acorn        = final.flocoPackages."acorn/8.8.0".global;
-    which        = final.flocoPackages."which/2.0.2".global;
-    typescript   = final.flocoPackages."typescript/4.8.4".global;
-    js-yaml      = final.flocoPackages."js-yaml/4.1.0".global;
-    rimraf       = final.flocoPackages."rimraf/3.0.2".global;
-    json5        = final.flocoPackages."json5/1.0.1".global;
-    loose-envify = final.flocoPackages."loose-envify/1.4.0".global;
-    # Use newer version
-    semver = final.flocoPackages."semver/7.3.7".global;
-    eslint = final.flocoPackages."eslint/8.26.0".global;
-    eslint-config-prettier =
-      final.flocoPackages."eslint-config-prettier/8.5.0".global;
+  flocoApps = let
+    exported = let
+      inherit (final.lib.librange) latestRelease;
+      getLatest = ident: versions:
+        final.flocoPackages."${ident}/${latestRelease exports.${ident}}".global;
+    in builtins.mapAttrs getLatest exports;
+  in exported // {
+    # Add explicit defs
   };
+
+
+# ---------------------------------------------------------------------------- #
 
 }
 
