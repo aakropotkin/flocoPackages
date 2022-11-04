@@ -94,17 +94,6 @@
 
 # ---------------------------------------------------------------------------- #
 
-  in {  # Begin Outputs
-
-# ---------------------------------------------------------------------------- #
-
-    inherit overlays;
-    flocoPackagesFor = eachSupportedSystemMap ( system: let
-      pkgsFor = nixpkgs.legacyPackages.${system}.extend overlays.default;
-    in pkgsFor.flocoPackages );
-
-# ---------------------------------------------------------------------------- #
-
     # Installable Packages for Flake CLI.
     packages = eachSupportedSystemMap ( system: let
       pkgsFor = pkgsForSys system;
@@ -120,6 +109,32 @@
       } ).checkDrv;
 
     } );  # End Packages
+
+
+# ---------------------------------------------------------------------------- #
+
+  in {  # Begin Outputs
+
+# ---------------------------------------------------------------------------- #
+
+    inherit overlays packages;
+
+    flocoPackagesFor = eachSupportedSystemMap ( system: let
+      pkgsFor = nixpkgs.legacyPackages.${system}.extend overlays.default;
+    in pkgsFor.flocoPackages );
+
+# ---------------------------------------------------------------------------- #
+
+    checks = eachSupportedSystemMap ( system: {
+      inherit (packages.${system})
+        fsevents--1_2_13
+        tests
+        acorn
+        typescript
+        semver
+        eslint
+      ;
+    } );
 
 
 # ---------------------------------------------------------------------------- #
