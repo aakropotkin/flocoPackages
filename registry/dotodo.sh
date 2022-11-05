@@ -34,7 +34,7 @@ while test "$#" -gt 0; do
     -t|--tarball)    TARGET="tlocksTbJSON"; ;;
     -k|--keep-going) KEEP_GOING=:; ;;
     -C|--no-clobber) NO_CLOBBER=:; ;;
-    -f|--file)       TODOS:="$1"; shift; ;;
+    -f|--file)       TODOS:="$2"; shift; ;;
     -h|--help)       usage; exit 0; ;;
     *)
       echo "Unrecognized arg: $*" >&2;
