@@ -12,4 +12,12 @@ in {
     ignores = ["6.2.8"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
+  unscoped.aws-sdk= version: let
+    ignores = ["1.16.0"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.browser-pack = version: let
+    ignores = ["1.0.0"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
 }

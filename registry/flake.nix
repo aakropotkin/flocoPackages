@@ -78,15 +78,14 @@
 
       # We include the `packument' so that we can extract dates/rev later.
       __processArgs = self: x: let
-        nattrs = explodeName x;
-        lpath  = "${toString ./.}/${nattrs.ldir}/${nattrs.bname}";
-        pargs  = self.__thunk // x' // nattrs;
+        nattrs    = explodeName x;
+        lpath     = "${toString ./.}/${nattrs.ldir}/${nattrs.bname}.json";
+        pargs     = self.__thunk // x' // nattrs;
         packument = lib.libreg.importFetchPackument pargs;
-
         existing' = if ! ( builtins.pathExists lpath ) then {} else {
           existing = lib.importJSON lpath;
         };
-        x' = if builtins.isAttrs x then x else {};
+        x'   = if builtins.isAttrs x then x else {};
         args = self.__thunk // existing' // {
           inherit packument;
         } // x' // nattrs;

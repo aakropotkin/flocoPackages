@@ -1,15 +1,28 @@
 #! /usr/bin/env bash
 
+: "${KEEP_GOING:=}";
+
+while test "$#" -gt 0; do
+  case "$1" in
+    -k|--keep-going) KEEP_GOING=:; ;;
+    *)
+      echo "Unrecognized arg: $*" >&2;
+      exit 1;
+    ;;
+  esac
+  shift;
+done
+
 export NIX_CONFIG='
 warn-dirty = false
 ';
 
 cleanup() {
-  if test ./bads; then
+  if test -r ./bads; then
     sort -u ./bads > ./bads~;
     mv ./bads~ ./bads;
   fi
-  if test ./dones; then
+  if test -r ./dones; then
     sort -u ./dones > ./dones~;
     mv ./dones~ ./dones;
   fi
@@ -28,8 +41,12 @@ for d in $( cat ./todo|grep -v '^#'|sort -u; ); do
     rm "$PWD/result/$d.json";
     echo "$d" >> bads;
     echo "FAILED: $d" >&2;
-    cleanup;
-    exit 1
+    if test -n "${KEEP_GOING:-}"; then
+      continue;
+    else
+      cleanup;
+      exit 1;
+    fi
   };
   if ! test -r "$ldir/$bname.json"; then
     mv "$PWD/result/$d.json" "$ldir/$bname.json";
