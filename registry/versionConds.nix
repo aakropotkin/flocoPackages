@@ -124,7 +124,7 @@ in {
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
   unscoped.selenium-webdriver = version: let
-    ignores = ["2.43.1" "2.43.2"];  # Dead download link
+    ignores = ["2.43.1" "2.43.2" "2.43.3"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
   unscoped.stackframe = version: let
