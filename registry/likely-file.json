@@ -1,9 +1,4 @@
 {
-  "graphql-tools": {
-    "merge": false,
-    "schema": false,
-    "utils": false
-  },
   "grpc": {
     "grpc-js": false,
     "proto-loader": false

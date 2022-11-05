@@ -10,6 +10,6 @@ in {
 
   graphql-tools.merge = version: let
     ignores = ["6.2.8"];  # Dead download link
-  in ( isRelease version ) && ( ignoreVersions version );
+  in ( isRelease version ) && ( ignoreVersions ignores version );
 
 }
