@@ -27,10 +27,6 @@ in {
     ignores = ["6.2.8"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
-  unscoped.aws-sdk= version: let
-    ignores = ["1.16.0"];  # Dead download link
-  in ( isRelease version ) && ( ignoreVersions ignores version );
-
   unscoped.browser-pack = version: let
     ignores = ["1.0.0"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
@@ -150,6 +146,12 @@ in {
 
   types.node = version:
     builtins.elem version ( lib.importJSON ./types-node-versions.json );
+
+
+  unscoped.aws-sdk= version: let
+    keeps   = ( lib.importJSON ./aws-sdk-versions.json );
+    ignores = ["1.16.0"];  # Dead download link
+  in ( builtins.elem version keeps ) && ( ignoreVersions ignores version );
 
 
 # ---------------------------------------------------------------------------- #
