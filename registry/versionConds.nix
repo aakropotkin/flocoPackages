@@ -143,6 +143,17 @@ in {
     ignores = ["0.7.0"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
+
+# ---------------------------------------------------------------------------- #
+
+  # Excessive number of versions
+
+  types.node = version:
+    builtins.elem version ( lib.importJSON ./types-node-versions.json );
+
+
+# ---------------------------------------------------------------------------- #
+
 }  # End
 
 
