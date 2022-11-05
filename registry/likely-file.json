@@ -1,0 +1,428 @@
+{
+  "graphql-tools": {
+    "merge": false,
+    "schema": false,
+    "utils": false
+  },
+  "grpc": {
+    "grpc-js": false,
+    "proto-loader": false
+  },
+  "hapi": {
+    "hoek": false,
+    "topo": false
+  },
+  "icons": {
+    "material": false
+  },
+  "ioredis": {
+    "commands": false
+  },
+  "istanbuljs": {
+    "load-nyc-config": false,
+    "schema": false
+  },
+  "jimp": {
+    "bmp": false,
+    "core": false,
+    "custom": false,
+    "gif": false,
+    "jpeg": false,
+    "plugin-blit": false,
+    "plugin-blur": false,
+    "plugin-circle": false,
+    "plugin-color": false,
+    "plugin-contain": false,
+    "plugin-cover": false,
+    "plugin-crop": false,
+    "plugin-displace": false,
+    "plugin-dither": false,
+    "plugin-fisheye": false,
+    "plugin-flip": false,
+    "plugin-gaussian": false,
+    "plugin-invert": false,
+    "plugin-mask": false,
+    "plugin-normalize": false,
+    "plugin-print": false,
+    "plugin-resize": false,
+    "plugin-rotate": false,
+    "plugin-scale": false,
+    "plugin-shadow": false,
+    "plugin-threshold": false,
+    "plugins": false,
+    "png": false,
+    "tiff": false,
+    "types": false,
+    "utils": false
+  },
+  "js-joda": {
+    "core": false
+  },
+  "kwsites": {
+    "file-exists": false,
+    "promise-deferred": false
+  },
+  "lezer": {
+    "common": false,
+    "highlight": false,
+    "lr": false
+  },
+  "lumino": {
+    "algorithm": false,
+    "application": false,
+    "collections": false,
+    "commands": false,
+    "coreutils": false,
+    "disposable": false,
+    "domutils": false,
+    "dragdrop": false,
+    "keyboard": false,
+    "messaging": false,
+    "polling": false,
+    "properties": false,
+    "signaling": false,
+    "virtualdom": false,
+    "widgets": false
+  },
+  "material-ui": {
+    "core": false,
+    "icons": false,
+    "styles": false,
+    "system": false,
+    "types": false,
+    "utils": false
+  },
+  "netflix": {
+    "nerror": false
+  },
+  "noble": {
+    "hashes": false,
+    "secp256k1": false
+  },
+  "npmcli": {
+    "arborist": false,
+    "ci-detect": false,
+    "config": false,
+    "disparity-colors": false,
+    "fs": false,
+    "git": false,
+    "installed-package-contents": false,
+    "map-workspaces": false,
+    "metavuln-calculator": false,
+    "move-file": false,
+    "name-from-folder": false,
+    "node-gyp": false,
+    "package-json": false,
+    "promise-spawn": false,
+    "query": false,
+    "run-script": false
+  },
+  "octokit": {
+    "auth-token": false,
+    "core": false,
+    "endpoint": false,
+    "graphql": false,
+    "openapi-types": false,
+    "plugin-paginate-rest": false,
+    "plugin-request-log": false,
+    "plugin-rest-endpoint-methods": false,
+    "request-error": false,
+    "request": false,
+    "rest": false,
+    "types": false
+  },
+  "phosphor": {
+    "algorithm": false,
+    "collections": false,
+    "commands": false,
+    "coreutils": false,
+    "disposable": false,
+    "domutils": false,
+    "dragdrop": false,
+    "keyboard": false,
+    "messaging": false,
+    "properties": false,
+    "signaling": false,
+    "virtualdom": false,
+    "widgets": false
+  },
+  "pmmmwh": {
+    "react-refresh-webpack-plugin": false
+  },
+  "polka": {
+    "url": false
+  },
+  "popperjs": {
+    "core": false
+  },
+  "rc-component": {
+    "portal": false
+  },
+  "react-dnd": {
+    "asap": false,
+    "invariant": false,
+    "shallowequal": false
+  },
+  "react-native-community": {
+    "cli-clean": false,
+    "cli-config": false,
+    "cli-debugger-ui": false,
+    "cli-doctor": false,
+    "cli-hermes": false,
+    "cli-platform-android": false,
+    "cli-platform-ios": false,
+    "cli-plugin-metro": false,
+    "cli-server-api": false,
+    "cli-tools": false,
+    "cli-types": false,
+    "cli": false
+  },
+  "redux-saga": {
+    "core": false,
+    "deferred": false,
+    "delay-p": false,
+    "is": false,
+    "symbols": false,
+    "types": false
+  },
+  "restart": {
+    "hooks": false,
+    "ui": false
+  },
+  "rollup": {
+    "plugin-babel": false,
+    "plugin-node-resolve": false,
+    "plugin-replace": false,
+    "pluginutils": false
+  },
+  "samverschueren": {
+    "stream-to-observable": false
+  },
+  "scure": {
+    "base": false,
+    "bip32": false,
+    "bip39": false
+  },
+  "serialport": {
+    "binding-mock": false,
+    "bindings-cpp": false,
+    "bindings-interface": false,
+    "parser-byte-length": false,
+    "parser-cctalk": false,
+    "parser-delimiter": false,
+    "parser-inter-byte-timeout": false,
+    "parser-packet-length": false,
+    "parser-readline": false,
+    "parser-ready": false,
+    "parser-regex": false,
+    "parser-slip-encoder": false,
+    "parser-spacepacket": false,
+    "stream": false
+  },
+  "sinclair": {
+    "typebox": false
+  },
+  "sinonjs": {
+    "commons": false,
+    "fake-timers": false,
+    "samsam": false,
+    "text-encoding": false
+  },
+  "sqltools": {
+    "formatter": false
+  },
+  "svgr": {
+    "babel-plugin-add-jsx-attribute": false,
+    "babel-plugin-remove-jsx-attribute": false,
+    "babel-plugin-remove-jsx-empty-expression": false,
+    "babel-plugin-replace-jsx-attribute-value": false,
+    "babel-plugin-svg-dynamic-title": false,
+    "babel-plugin-svg-em-dimensions": false,
+    "babel-plugin-transform-react-native-svg": false,
+    "babel-plugin-transform-svg-component": false,
+    "babel-preset": false,
+    "core": false,
+    "hast-util-to-babel-ast": false,
+    "plugin-jsx": false,
+    "plugin-svgo": false,
+    "webpack": false
+  },
+  "tediousjs": {
+    "connection-string": false
+  },
+  "tootallnate": {
+    "once": false
+  },
+  "tsconfig": {
+    "node10": false,
+    "node12": false,
+    "node14": false,
+    "node16": false
+  },
+  "types": {
+    "babel__core": false,
+    "babel__generator": false,
+    "babel__template": false,
+    "babel__traverse": false,
+    "bluebird": false,
+    "bn.js": false,
+    "body-parser": false,
+    "bonjour": false,
+    "bytebuffer": false,
+    "caseless": false,
+    "concat-stream": false,
+    "connect-history-api-fallback": false,
+    "connect": false,
+    "cookie": false,
+    "cordova": false,
+    "cors": false,
+    "d3-timer": false,
+    "debug": false,
+    "dom4": false,
+    "es-aggregate-error": false,
+    "eslint-scope": false,
+    "eslint": false,
+    "estree": false,
+    "expect": false,
+    "express-serve-static-core": false,
+    "express": false,
+    "form-data": false,
+    "formidable": false,
+    "fs-extra": false,
+    "glob": false,
+    "graceful-fs": false,
+    "hast": false,
+    "hoist-non-react-statics": false,
+    "html-minifier-terser": false,
+    "http-cache-semantics": false,
+    "http-proxy": false,
+    "istanbul-lib-coverage": false,
+    "istanbul-lib-report": false,
+    "istanbul-reports": false,
+    "jasmine": false,
+    "jest": false,
+    "jquery": false,
+    "json-schema": false,
+    "jsonwebtoken": false,
+    "linkify-it": false,
+    "lodash": false,
+    "long": false,
+    "markdown-it": false,
+    "mdast": false,
+    "mdurl": false,
+    "mime": false,
+    "minimatch": false,
+    "minimist": false,
+    "mocha": false,
+    "ms": false,
+    "node": false,
+    "normalize-package-data": false,
+    "parse-json": false,
+    "prettier": false,
+    "prop-types": false,
+    "qs": false,
+    "range-parser": false,
+    "react-dom": false,
+    "react-transition-group": false,
+    "react": false,
+    "request": false,
+    "resolve": false,
+    "retry": false,
+    "rimraf": false,
+    "scheduler": false,
+    "serve-index": false,
+    "serve-static": false,
+    "sizzle": false,
+    "sockjs": false,
+    "stack-utils": false,
+    "symlink-or-copy": false,
+    "tough-cookie": false,
+    "trusted-types": false,
+    "unist": false,
+    "use-sync-external-store": false,
+    "uuid": false,
+    "validator": false,
+    "vinyl": false,
+    "warning": false,
+    "webidl-conversions": false,
+    "whatwg-url": false,
+    "ws": false,
+    "yargs-parser": false,
+    "yargs": false,
+    "yauzl": false,
+    "zen-observable": false
+  },
+  "ungap": {
+    "promise-all-settled": false
+  },
+  "webassemblyjs": {
+    "ast": false,
+    "floating-point-hex-parser": false,
+    "helper-api-error": false,
+    "helper-buffer": false,
+    "helper-numbers": false,
+    "helper-wasm-bytecode": false,
+    "helper-wasm-section": false,
+    "ieee754": false,
+    "leb128": false,
+    "utf8": false,
+    "wasm-edit": false,
+    "wasm-gen": false,
+    "wasm-opt": false,
+    "wasm-parser": false,
+    "wast-printer": false
+  },
+  "webpack-cli": {
+    "configtest": false,
+    "info": false,
+    "serve": false
+  },
+  "unscoped": {
+    "adm-zip": false,
+    "aws-sdk": false,
+    "axe-core": false,
+    "browser-pack": false,
+    "chai-as-promised": false,
+    "char-regex": false,
+    "clipboard": false,
+    "color-convert": false,
+    "csstype": false,
+    "discord.js": false,
+    "error-stack-parser": false,
+    "event-stream": false,
+    "faker": false,
+    "figlet": false,
+    "firebase": false,
+    "flux": false,
+    "gulp-concat": false,
+    "ioredis": false,
+    "is-generator-function": false,
+    "jest": false,
+    "js-sdsl": false,
+    "liftoff": false,
+    "metalsmith": false,
+    "node-pre-gyp": false,
+    "node-watch": false,
+    "oboe": false,
+    "pbkdf2": false,
+    "pngjs": false,
+    "postcss-custom-properties": false,
+    "pouchdb": false,
+    "preact": false,
+    "react-virtualized": false,
+    "rollup-plugin-babel": false,
+    "run-sequence": false,
+    "seek-bzip": false,
+    "selenium-webdriver": false,
+    "sinon-chai": false,
+    "stackframe": false,
+    "tslint": false,
+    "unified": false,
+    "validator": false,
+    "vue": false,
+    "webpack": false,
+    "xlsx": false,
+    "xmldom": false,
+    "xregexp": false
+  }
+}

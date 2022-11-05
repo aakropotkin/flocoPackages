@@ -44,7 +44,11 @@ case "$SCOPE" in
   ;;
 esac
 
-$NIX build --impure -L -f ./mkRegistryTree.nix --argstr scope "$SCOPE";
+mkdir -p "$SDIR/result";
+$NIX eval --impure -vvv ".#tlocks.$SCOPE" --write-to "$FDIR"||{
+  echo "Failed to process: $SCOPE" >&2;
+  exit 1;
+};
 
 if test -d "$TDIR"; then
   mv "$TDIR" "$TDIR~";
