@@ -8,6 +8,7 @@
 : "${GIT:=git}";
 : "${REALPATH:=realpath}";
 : "${MKDIR:=mkdir}";
+: "${RMDIR:=rmdir}";
 
 SPATH="$( $REALPATH "${BASH_SOURCE[0]}"; )";
 SDIR="${SPATH%/*}";
@@ -59,6 +60,9 @@ cleanup() {
     $SORT -u ./dones > ./dones~;
     mv ./dones~ ./dones;
   fi
+  if test -d "$PWD/result"; then
+    $RMDIR --ignore-fail-on-non-empty "$PWD/result/"* "$PWD/result";
+  fi
 }
 
 for d in $( $CAT ./todo|$GREP -v '^#'|$SORT -u; ); do
@@ -66,10 +70,6 @@ for d in $( $CAT ./todo|$GREP -v '^#'|$SORT -u; ); do
     */*)
       scope="${d%/*}";
       scope="${scope#@}";
-      ident="@$scope/${d#*/}";
-    ;;
-    *)
-      ident="$d";
     ;;
   esac
   : "${scope:=unscoped}";
@@ -78,6 +78,11 @@ for d in $( $CAT ./todo|$GREP -v '^#'|$SORT -u; ); do
   if test "$ldir" = "@unscoped"; then ldir="unscoped"; fi
   ofile="$PWD/result/$ldir/$bname.json";
   efile="$SDIR/$ldir/$bname.json";
+  if test "$scope" = unscoped; then
+    ident="$bname";
+  else
+    ident="$@$scope/$bname";
+  fi
 
   echo "$ident" >&2;
   $MKDIR -p "${ofile%/*}";
