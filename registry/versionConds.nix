@@ -147,6 +147,12 @@ in {
     ignores = ["3.1.3"];
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
+  # Too many top-level files.
+  # NOTE: only effects `type = "tarball"' but fuck it - its a beta release.
+  unscoped.xmldom = version: let
+    ignores = ["0.1.0"];
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
 
 # ---------------------------------------------------------------------------- #
 
