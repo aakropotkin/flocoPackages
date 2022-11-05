@@ -4,7 +4,8 @@ export NIX_CONFIG='
 warn-dirty = false
 ';
 
-for d in $( cat ./todo|grep -v '^#'|sort -u; ); do
+#for d in $( cat ./todo|grep -v '^#'|sort -u; ); do
+for d in $( head ./todo|grep -v '^#'|sort -u; ); do
   mkdir -p "$( dirname "$PWD/result/$d"; )";
   scope="${d%/*}";
   bname="${d#*/}";
