@@ -1,4 +1,12 @@
+# ============================================================================ #
+#
+#
+#
+# ---------------------------------------------------------------------------- #
+
 { lib }: let
+
+# ---------------------------------------------------------------------------- #
 
   # The default
   isRelease = version: lib.test "[^a-zA-Z+-]*" version;
@@ -6,7 +14,14 @@
   ignoreVersions = ignores: version:
     ! ( builtins.elem version ignores );
 
+# ---------------------------------------------------------------------------- #
+
 in {
+
+# ---------------------------------------------------------------------------- #
+
+  # Dead Links
+  # TODO: read a JSON file with these fields and map over it.
 
   graphql-tools.merge = version: let
     ignores = ["6.2.8"];  # Dead download link
@@ -41,10 +56,7 @@ in {
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
   unscoped.firebase = version: let
-    ignores = [
-      "0.0.0" "0.6.21"
-      "1.0.1" "1.0.4"
-    ];  # Dead download link
+    ignores = ["0.0.0" "0.6.21" "1.0.1" "1.0.4"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
   unscoped.gulp-concat = version: let
@@ -68,7 +80,7 @@ in {
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
   unscoped.metalsmith = version: let
-    ignores = ["0.2.0"];  # Dead download link
+    ignores = ["0.2.0" "0.2.1"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
   unscoped.node-pre-gyp = version: let
@@ -80,7 +92,7 @@ in {
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
   unscoped.oboe = version: let
-    ignores = ["1.21.1"];  # Dead download link
+    ignores = ["1.12.1"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
   unscoped.pbkdf2 = version: let
@@ -95,4 +107,47 @@ in {
     ignores = ["2.2.1"];  # Dead download link
   in ( isRelease version ) && ( ignoreVersions ignores version );
 
-}
+  unscoped.rollup-plugin-babel = version: let
+    ignores = ["2.3.7"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.vue = version: let
+    ignores = ["0.8.6"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.run-sequence = version: let
+    ignores = ["0.3.5"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.seek-bzip = version: let
+    ignores = ["1.0.0"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.selenium-webdriver = version: let
+    ignores = ["2.43.1" "2.43.2"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.stackframe = version: let
+    ignores = ["0.1.0"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.tslint = version: let
+    ignores = ["0.4.1"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.unified = version: let
+    ignores = ["2.1.3"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+  unscoped.xlsx = version: let
+    ignores = ["0.7.0"];  # Dead download link
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+}  # End
+
+
+# ---------------------------------------------------------------------------- #
+#
+#
+#
+# ============================================================================ #
