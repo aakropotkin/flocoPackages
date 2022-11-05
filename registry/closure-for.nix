@@ -10,7 +10,7 @@
   packumenter = lib.libreg.packumenter // { inherit registry; };
   packs       = ( lib.libreg.packumentClosure' packumenter ident ).packuments;
   renamed     = lib.remapKeysWith ( k:
-    if k == "." then "_" else lib.yank "@(.*)" k
+    if k == "." then "unscoped" else lib.yank "@(.*)" k
   ) ( builtins.groupBy dirOf ( builtins.attrNames packs ) );
   bare = builtins.mapAttrs ( k: v:
     lib.unique ( ( map baseNameOf v ) ++ ( old.${k} or [] ) )
