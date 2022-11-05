@@ -4,6 +4,7 @@
 
 while test "$#" -gt 0; do
   case "$1" in
+    -t|--tarball)    TARGET="tlocksTbJSON"; ;;
     -k|--keep-going) KEEP_GOING=:; ;;
     *)
       echo "Unrecognized arg: $*" >&2;
@@ -12,6 +13,8 @@ while test "$#" -gt 0; do
   esac
   shift;
 done
+
+: "${TARGET:=tlocksJSON}";
 
 export NIX_CONFIG='
 warn-dirty = false
@@ -35,8 +38,7 @@ for d in $( cat ./todo|grep -v '^#'|sort -u; ); do
   ldir="@$scope";
   if test "$ldir" = "@unscoped"; then ldir="unscoped"; fi
   echo "$scope/$bname" >&2;
-  nix eval --impure ".#tlocksTbJSON.$scope.\"$bname.json\"" --raw  \
-  #nix eval --impure ".#tlocksJSON.$scope.\"$bname.json\"" --raw  \
+  nix eval --impure ".#$TARGET.$scope.\"$bname.json\"" --raw  \
     > "$PWD/result/$d.json"||                           \
   {
     rm "$PWD/result/$d.json";
