@@ -34,7 +34,7 @@
     #             this is the scope with the "@" prefix ( "@foo" ).
     # }
     explodeName = x: let
-      ident = x.name or (
+      ident = x.ident or x.name or (
         if builtins.isString x then x else
         if x ? key then ( dirOf x.key ) else assert x ? scope;
         if builtins.elem x.scope [null "" "unscoped" "UNSCOPED" "."]
@@ -97,8 +97,11 @@
         result = self.__innerFunction args;
         # Add `rev' and `lastModifiedDate'
         extra = if ( x.omitExtra or false ) then {} else {
-          info = {
-            rev = args.packument._rev;
+          info = let
+            rev' = if ! ( args.packument ? _rev ) then {} else {
+              rev = args.packument._rev;
+            };
+          in rev' // {
             lastModifiedDate = let
               # NPM Style: "2022-10-10T06:14:51.676Z"
               # Nix Style: "20221104195126"  ( lastModifiedDate )
@@ -121,14 +124,14 @@
     # Determines if "file" or "tarball" fetching is used.
     # Returns an attrset with `{ type = <TYPE>; }' set, or {} if inconclusive.
     typeFor = { scope, bname }: let
-      use-tarball = lib.importJSON ./use-tarball.json;
-      uts = use-tarball.${scope} or {};
-      fromList = builtins.elem bname uts;
-      try = if builtins.isBool uts then uts      else
-            if builtins.isList uts then fromList else
-            uts.${bname} or null;
+      use-file = lib.importJSON ./use-file.json;
+      ufs = use-file.${scope} or {};
+      fromList = builtins.elem bname ufs;
+      try = if builtins.isBool ufs then ufs      else
+            if builtins.isList ufs then fromList else
+            ufs.${bname} or null;
     in if try == null then {} else {
-      type = if try then "tarball" else "file";
+      type = if try then "file" else "tarball";
     };
 
 

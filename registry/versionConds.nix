@@ -142,6 +142,14 @@ in {
 
 # ---------------------------------------------------------------------------- #
 
+  # Damaged archive
+  unscoped.axe-core = version: let
+    ignores = ["3.1.3"];
+  in ( isRelease version ) && ( ignoreVersions ignores version );
+
+
+# ---------------------------------------------------------------------------- #
+
   # Excessive number of versions
 
   types.node = version:
