@@ -31,7 +31,7 @@ cleanup() {
   fi
 }
 
-for d in $( cat ./todo|grep -v '^#'|sort -u; ); do
+for d in $( cat ./todo-tbs|grep -v '^#'|sort -u; ); do
   mkdir -p "$( dirname "$PWD/result/$d"; )";
   scope="${d%/*}";
   bname="${d#*/}";
