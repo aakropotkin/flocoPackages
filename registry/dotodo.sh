@@ -35,7 +35,8 @@ for d in $( cat ./todo|grep -v '^#'|sort -u; ); do
   ldir="@$scope";
   if test "$ldir" = "@unscoped"; then ldir="unscoped"; fi
   echo "$scope/$bname" >&2;
-  nix eval --impure ".#tlocksTbJSON.$scope.\"$bname.json\"" --raw  \
+  #nix eval --impure ".#tlocksTbJSON.$scope.\"$bname.json\"" --raw  \
+  nix eval --impure ".#tlocksJSON.$scope.\"$bname.json\"" --raw  \
     > "$PWD/result/$d.json"||                           \
   {
     rm "$PWD/result/$d.json";
