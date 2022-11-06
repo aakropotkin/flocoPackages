@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
+        "narHash": "sha256-LhdQ8WjPAnnHnrDC8ok6KIIKG3Gjdt/ouvHF0GqrEGA=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@electron/get"
+        "url": "https://registry.npmjs.org/@antv/g-plugin-canvas-renderer"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@electron/get"
+        "url": "https://registry.npmjs.org/@antv/g-plugin-canvas-renderer"
       }
     },
     "rime": {

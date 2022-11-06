@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
+        "narHash": "sha256-505Hzd8cY6QpXjGghNdIpju2ECmIkLxF3bP232rKxn4=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@electron/get"
+        "url": "https://registry.npmjs.org/@firebase/component"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@electron/get"
+        "url": "https://registry.npmjs.org/@firebase/component"
       }
     },
     "rime": {

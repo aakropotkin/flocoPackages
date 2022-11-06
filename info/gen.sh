@@ -87,6 +87,10 @@ else
   NO_TLOCK=:;
 fi
 
+PACKUMENT_NAR="$(
+  $NIX flake prefetch --json "https://registry.npmjs.org/$IDENT"|$JQ -r '.hash';
+)";
+
 
 gen_flake() {
   $SED                             \
@@ -99,13 +103,14 @@ gen_flake() {
 }
 
 gen_lock() {
-  $SED                                        \
-    -e "s,@IDENT@,$IDENT,g"                   \
-    -e "s,@ROOT_REL@,$ROOT_REL,g"             \
-    -e "s,@LDIR@,$LDIR,g"                     \
-    -e "s,@BNAME@,$BNAME,g"                   \
-    -e "s,@LOCK_NAR@,${LOCK_NAR:-MISSING},g"  \
-    "$LTEMPLATE"                              \
+  $SED                                         \
+    -e "s,@IDENT@,$IDENT,g"                    \
+    -e "s,@ROOT_REL@,$ROOT_REL,g"              \
+    -e "s,@LDIR@,$LDIR,g"                      \
+    -e "s,@BNAME@,$BNAME,g"                    \
+    -e "s,@LOCK_NAR@,${LOCK_NAR:-MISSING},g"   \
+    -e "s,@PACKUMENT_NAR@,${PACKUMENT_NAR},g"  \
+    "$LTEMPLATE"                               \
   > "$OLFILE";
 }
 
@@ -128,12 +133,14 @@ $GIT add "$OLFILE";
 
 FLAKE_URI="./$( $REALPATH --relative-base "$SDIR" "$ODIR"; )";
 
-#$NIX flake                   \
-#  --option warn-dirty false  \
-#  lock "$FLAKE_URI"          \
-#  --commit-lock-file         \
-#;
-#
 #if test -z "${NO_TLOCK:+y}"; then
+#  $NIX flake                   \
+#    --option warn-dirty false  \
+#    lock "$FLAKE_URI"          \
+#    --commit-lock-file         \
+#    --update-input packument   \
+#  ;
 #  $GIT add "$ODIR/flake.lock";
+#else
+#  echo "Cannot update packument input because of missing treeLock" >&2;
 #fi
