@@ -98,7 +98,15 @@ if test -r "$OFILE"; then
 fi
 gen;
 $GIT add "$OFILE";
-$NIX flake lock "./$( $REALPATH --relative-base "$SDIR" "$ODIR"; )";
+
+FLAKE_URI="./$( $REALPATH --relative-base "$SDIR" "$ODIR"; )";
+
+$NIX flake                   \
+  --option warn-dirty false  \
+  lock "$FLAKE_URI"          \
+  --commit-lock-file         \
+;
+
 if test -z "${NO_TLOCK:+y}"; then
   $GIT add "$ODIR/flake.lock";
 fi
