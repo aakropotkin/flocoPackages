@@ -8,10 +8,12 @@ set -eu;
 : "${GIT:=git}";
 : "${NIX:=nix}";
 : "${CAT:=cat}";
+: "${JQ:=jq}";
 
 SDIR="${BASH_SOURCE[0]%/*}";
 SDIR="$( $REALPATH "$SDIR"; )";
 TEMPLATE="$SDIR/flake.nix.in";
+LTEMPLATE="$SDIR/flake.lock.in";
 
 while test "$#" -gt 0; do
   case "$1" in
@@ -58,6 +60,8 @@ else
   ROOT_REL="../../..";
 fi
 OFILE="$ODIR/flake.nix";
+OLFILE="$ODIR/flake.lock";
+TLOCK="$SDIR/../registry/$LDIR/$BNAME.json";
 
 
 if test -n "${VERBOSE:+y}"; then
@@ -68,19 +72,23 @@ ROOT_REL:  $ROOT_REL
 BNAME:     $BNAME
 SDIR:      $SDIR
 TEMPLATE:  $TEMPLATE
+TLOCK:     $TLOCK
 ODIR:      $ODIR
 OFILE:     $OFILE
+OLFILE:    $OLFILE
 EOF
 fi
 
 
-if ! test -r "$SDIR/../registry/$LDIR/$BNAME.json"; then
+if test -r "$TLOCK"; then
+  LOCK_NAR="$( $NIX hash file --sri --type sha256 "$TLOCK"; )";
+else
   echo "WARNING: No treeLock exists for $IDENT" >&2;
   NO_TLOCK=:;
 fi
 
 
-gen() {
+gen_flake() {
   $SED                             \
     -e "s,@IDENT@,$IDENT,g"        \
     -e "s,@ROOT_REL@,$ROOT_REL,g"  \
@@ -88,6 +96,17 @@ gen() {
     -e "s,@BNAME@,$BNAME,g"        \
     "$TEMPLATE"                    \
   > "$OFILE";
+}
+
+gen_lock() {
+  $SED                             \
+    -e "s,@IDENT@,$IDENT,g"        \
+    -e "s,@ROOT_REL@,$ROOT_REL,g"  \
+    -e "s,@LDIR@,$LDIR,g"          \
+    -e "s,@BNAME@,$BNAME,g"        \
+    -e "s,@LOCK_NAR@,$LOCK_NAR,g"  \
+    "$LTEMPLATE"                   \
+  > "$OLFILE";
 }
 
 
@@ -99,14 +118,21 @@ fi
 gen;
 $GIT add "$OFILE";
 
+gen_lock;
+if test -z "${NO_TLOCK:+y}"; then
+  echo "Dropping treeLock from generated flake.lock ( no treLock exists )" >&2;
+  $JQ '.nodes|=del( .treeLock )' "$OLFILE";
+fi
+$GIT add "$OLFILE";
+
 FLAKE_URI="./$( $REALPATH --relative-base "$SDIR" "$ODIR"; )";
 
-$NIX flake                   \
-  --option warn-dirty false  \
-  lock "$FLAKE_URI"          \
-  --commit-lock-file         \
-;
-
-if test -z "${NO_TLOCK:+y}"; then
-  $GIT add "$ODIR/flake.lock";
-fi
+#$NIX flake                   \
+#  --option warn-dirty false  \
+#  lock "$FLAKE_URI"          \
+#  --commit-lock-file         \
+#;
+#
+#if test -z "${NO_TLOCK:+y}"; then
+#  $GIT add "$ODIR/flake.lock";
+#fi
