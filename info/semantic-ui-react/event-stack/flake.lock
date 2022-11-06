@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
+        "narHash": "sha256-tEgUycwM6/gqZa5UwhiXcrtc1rDR3dnhG5KdJnBTrCM=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@electron/get"
+        "url": "https://registry.npmjs.org/@semantic-ui-react/event-stack"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@electron/get"
+        "url": "https://registry.npmjs.org/@semantic-ui-react/event-stack"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-ZM79+dT13mO7E01RjnEmsH6cScVWbwwLcgo2SY3Luio=",
+        "narHash": "sha256-rX6lPjccVgr102JnqSigC2AJmO5PDxyufwgWwPf/gWY=",
         "path": "../../../registry/@semantic-ui-react/event-stack.json",
         "type": "path"
       },

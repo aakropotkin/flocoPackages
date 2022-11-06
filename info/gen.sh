@@ -121,7 +121,7 @@ if test -r "$OFILE"; then
   mv "$OFILE" "$OFILE~";
 fi
 gen_flake;
-$GIT add "$OFILE";
+#$GIT add "$OFILE";
 
 gen_lock;
 if test -n "${NO_TLOCK:+y}"; then
@@ -129,7 +129,7 @@ if test -n "${NO_TLOCK:+y}"; then
   $JQ '.nodes|=del( .treeLock )' "$OLFILE" > "$OLFILE~";
   mv "$OLFILE~" "$OLFILE";
 fi
-$GIT add "$OLFILE";
+#$GIT add "$OLFILE";
 
 FLAKE_URI="./$( $REALPATH --relative-base "$SDIR" "$ODIR"; )";
 
