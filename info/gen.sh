@@ -53,7 +53,7 @@ case "$IDENT" in
 esac
 
 if test "$LDIR" = unscoped; then
-  ODIR="$SDIR/unscoped/${LDIR:0:1}/$BNAME";
+  ODIR="$SDIR/unscoped/${BNAME:0:1}/$BNAME";
   ROOT_REL="../../../..";
 else
   ODIR="$SDIR/${LDIR#@}/$BNAME";
