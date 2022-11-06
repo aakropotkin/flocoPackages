@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-8TmSr+iozYBbm7LP/4gM1aZzEuOUkMkVUkmrM1/IypU=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@grpc/proto-loader"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@grpc/proto-loader"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-5lUqcayyNK3sBvhpOcSd9AzRNpngnEDCsTPdZA8dmR4=",
+        "narHash": "sha256-meA2fHtVkLNfrfjXUUzk50l46URl3bUTGyOKU0ZFn/g=",
         "path": "../../../registry/@grpc/proto-loader.json",
         "type": "path"
       },

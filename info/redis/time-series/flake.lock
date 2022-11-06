@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-slK3/B+TP3d3cqaqr3ookBdgKO7jDWnXlA8kt9fT/7A=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@redis/time-series"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@redis/time-series"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-+FAcKJxuej6zVRT/l3USaFgKXF346EZVrv+ZYGYz4i8=",
+        "narHash": "sha256-xUu7w2F8WBXExayKjtb4KfE6nS+fAcx+RlLPBgnQzgs=",
         "path": "../../../registry/@redis/time-series.json",
         "type": "path"
       },

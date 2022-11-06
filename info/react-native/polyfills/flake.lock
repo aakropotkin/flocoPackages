@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-YA1wr/NsrXzqT6vuVJQNPNh7n9raTw72cshCiEouEVE=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@react-native/polyfills"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@react-native/polyfills"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-ErGHap9cjnPses12NHyoY2oFcghRfWeASrpNB5KMCLc=",
+        "narHash": "sha256-8IJ40KDjByA4ynZvOZRNQxvv+wKSyW7UzGpYGLJNQQk=",
         "path": "../../../registry/@react-native/polyfills.json",
         "type": "path"
       },

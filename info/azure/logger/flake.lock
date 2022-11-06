@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-D1jkqp9zldEte0uCN7YJ/Ob8Ia0e9uSyvKRTdWltVeY=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/logger"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/logger"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-CPTAVPZQakjxY9+7d+7mUbUhLvfacqKWlLl6R3VNCDI=",
+        "narHash": "sha256-Aw53e1zdxZAQtTS9vhoG0mNOfE1NefQvAHwg1hYRGic=",
         "path": "../../../registry/@azure/logger.json",
         "type": "path"
       },

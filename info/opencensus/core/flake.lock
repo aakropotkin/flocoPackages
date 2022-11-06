@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-aMckOWvw5eGeKJoplByEIp6cR2hYcj3wZGPmoH2efHA=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@opencensus/core"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@opencensus/core"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-mx/YqvOkms0NleKMfe5ec5bs0B0Fl1h45IXgGkLcYUw=",
+        "narHash": "sha256-UKRnSDeR6xHOaX0ehyokj6a5fp+AfepHxGQgIFs5l3M=",
         "path": "../../../registry/@opencensus/core.json",
         "type": "path"
       },

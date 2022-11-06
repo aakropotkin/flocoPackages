@@ -53,7 +53,7 @@ case "$IDENT" in
 esac
 
 if test "$LDIR" = unscoped; then
-  ODIR="$SDIR/unscoped/${LDIR[1]}/$BNAME";
+  ODIR="$SDIR/unscoped/${LDIR:0:1}/$BNAME";
   ROOT_REL="../../../..";
 else
   ODIR="$SDIR/${LDIR#@}/$BNAME";
@@ -99,13 +99,13 @@ gen_flake() {
 }
 
 gen_lock() {
-  $SED                             \
-    -e "s,@IDENT@,$IDENT,g"        \
-    -e "s,@ROOT_REL@,$ROOT_REL,g"  \
-    -e "s,@LDIR@,$LDIR,g"          \
-    -e "s,@BNAME@,$BNAME,g"        \
-    -e "s,@LOCK_NAR@,$LOCK_NAR,g"  \
-    "$LTEMPLATE"                   \
+  $SED                                        \
+    -e "s,@IDENT@,$IDENT,g"                   \
+    -e "s,@ROOT_REL@,$ROOT_REL,g"             \
+    -e "s,@LDIR@,$LDIR,g"                     \
+    -e "s,@BNAME@,$BNAME,g"                   \
+    -e "s,@LOCK_NAR@,${LOCK_NAR:-MISSING},g"  \
+    "$LTEMPLATE"                              \
   > "$OLFILE";
 }
 
@@ -115,13 +115,14 @@ if test -r "$OFILE"; then
   echo "Backing up existing flake.nix to flake.nix~" >&2;
   mv "$OFILE" "$OFILE~";
 fi
-gen;
+gen_flake;
 $GIT add "$OFILE";
 
 gen_lock;
-if test -z "${NO_TLOCK:+y}"; then
+if test -n "${NO_TLOCK:+y}"; then
   echo "Dropping treeLock from generated flake.lock ( no treLock exists )" >&2;
-  $JQ '.nodes|=del( .treeLock )' "$OLFILE";
+  $JQ '.nodes|=del( .treeLock )' "$OLFILE" > "$OLFILE~";
+  mv "$OLFILE~" "$OLFILE";
 fi
 $GIT add "$OLFILE";
 

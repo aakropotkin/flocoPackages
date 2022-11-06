@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-hfTLE/nXdzj0RhSXBwYq+XPR/bcdQ8Sx1NQEcRKdOd8=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@redux-saga/types"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@redux-saga/types"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-aA/L+B1nA3sdQnTWRr/SkJGocj8PSnKwRAgj4gGWLjE=",
+        "narHash": "sha256-m6Yd6bgAGrZIhdUleNXmVPkooi5BtDbodumgCQaqEHg=",
         "path": "../../../registry/@redux-saga/types.json",
         "type": "path"
       },

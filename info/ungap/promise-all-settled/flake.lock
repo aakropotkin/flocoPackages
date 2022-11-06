@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-eYwH/65mZZb9gsDab9KsRoRR1T0Yo0lLJ29JLSrDHeE=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@ungap/promise-all-settled"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@ungap/promise-all-settled"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-K7AyjhmoRLyHSXRmN0cpJ24Od33MHOg+KYs8S/A5Ee8=",
+        "narHash": "sha256-JOj873tXiN3OIR+zgEuJpSrutlz8tzc82cxpuSU/iOo=",
         "path": "../../../registry/@ungap/promise-all-settled.json",
         "type": "path"
       },

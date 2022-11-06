@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-UuL+HiA0IH77RzwD90/BCqJTsEY0Kf6L2SKO34/5eEk=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@redux-saga/symbols"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@redux-saga/symbols"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-zzVZ8Viye0OXoVerxaV4TVlYWSdTIQIB61wXcSK4M70=",
+        "narHash": "sha256-5MjYt02O827H5AljGZejoAHs6U49kO1SxcyMFu4D7fM=",
         "path": "../../../registry/@redux-saga/symbols.json",
         "type": "path"
       },

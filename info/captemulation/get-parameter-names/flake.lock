@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-V5p/kpb5bpOS9ddTFYekF9HwoMjavB1lQUsdmi8hoEs=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@captemulation/get-parameter-names"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@captemulation/get-parameter-names"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-23hrXrHMQZQmje1AMacCwF6C5iZsOf6k++d5ggV0B1Y=",
+        "narHash": "sha256-R7tVZ0uQ5YmSFfDJw6+/lZfmvPrw4nvl7A8edyWwVrc=",
         "path": "../../../registry/@captemulation/get-parameter-names.json",
         "type": "path"
       },

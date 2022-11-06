@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-n8Zcr7H29PLAQjtuBU5/EBk0ysi09KtUpoxxYEtVXKg=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/connect-history-api-fallback"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/connect-history-api-fallback"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-L5MRRZCPdJiwmCN18dX+VZkGO2KgsimstSsUkJ66Djg=",
+        "narHash": "sha256-ZTDUKhACw0RRIWiU1JywyTEICqv20FdCxb/bfIyyb24=",
         "path": "../../../registry/@types/connect-history-api-fallback.json",
         "type": "path"
       },

@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-SR+I2GiOQhX0gfRCrx9omCAb9Gv3rTDnncJnLitYcDI=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/graceful-fs"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/graceful-fs"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-1ZmfGdEJ/KR4xeaTkHI/7vH7DkskbvtQM6eHkQ2Cj9g=",
+        "narHash": "sha256-4XMGddf53KkzrmLf6d7KA6bnQC34VMU6seArAWxMY0g=",
         "path": "../../../registry/@types/graceful-fs.json",
         "type": "path"
       },

@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-a6YO9AMYWIA8H4G38SdKCCpw86prjhY09hlR627JaCY=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/abort-controller"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/abort-controller"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-l4xeGlP5r0to8MScSYx4dZVei4D9wly9S4z8SI7p+kc=",
+        "narHash": "sha256-vxuwLVqNk+ukM+3DiE+GUvQVAP7GPDGjKHxL+MfFUeU=",
         "path": "../../../registry/@azure/abort-controller.json",
         "type": "path"
       },

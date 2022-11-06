@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-oiTlAlA1YI94+Zz85KetfswU2xUC2rs/QRfxcBylnD8=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/react-transition-group"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/react-transition-group"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-muGkaffPCGiBvdPqj1Z9dV+jk80AlVNiKLtYlUEILSk=",
+        "narHash": "sha256-r6iHRHgR7fQaoE03Q3KyMUo5XzMJNx4VTB1Si6z/CE8=",
         "path": "../../../registry/@types/react-transition-group.json",
         "type": "path"
       },

@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-NpAJJmIC+7GL+izKRa2kvwn60DmNcn69T33rkYTEkIs=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@angular-devkit/core"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@angular-devkit/core"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-oHpzgw8dCMM1eAgvX1XnYM1a/IPQp2aRXzDrMOAS7J0=",
+        "narHash": "sha256-px1VAd+vaP724C5fka9AZHcfxCeh1yScnh7cKjeA160=",
         "path": "../../../registry/@angular-devkit/core.json",
         "type": "path"
       },

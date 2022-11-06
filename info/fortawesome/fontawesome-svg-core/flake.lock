@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-ZpYYzQ3DhtFJ5WlbM0ISFrbNLK2498rfxrruucs/3yw=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-BXlUO5yLd1BcTZE8OpphU6hm9IfrdvNpv7xG2MFPPfw=",
+        "narHash": "sha256-J/IhSUHxdDL9LHaGAInxwJLA7G4aILbAi+ytDaWEa8M=",
         "path": "../../../registry/@fortawesome/fontawesome-svg-core.json",
         "type": "path"
       },

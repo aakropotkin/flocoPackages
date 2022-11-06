@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-87W5HxhkgckdRBK5eU4IG4n1QdUUv+51qsgpSmMeRRU=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@graphql-typed-document-node/core"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@graphql-typed-document-node/core"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-eo6le5Naa/Wmx7zuz5+AGucC+Xe7vU4nFrSncum0MRU=",
+        "narHash": "sha256-mqtW0AWxgwsHKn/qpjmGS1lILLB5os4Jlm7Yl7B7JnA=",
         "path": "../../../registry/@graphql-typed-document-node/core.json",
         "type": "path"
       },

@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-T/kVE60LKtwx/+R/VTblWNfCdk2g5RyryilFCRO8vng=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@vue/compiler-dom"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@vue/compiler-dom"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-nkZ5zBuaRrn8jFNBwB0iGbjX7DHmZN97/C4nOHmeZ/s=",
+        "narHash": "sha256-D3fOshNFnWwRpxJ3OcxnVTvk98eHh8P5W/lanGsOXiM=",
         "path": "../../../registry/@vue/compiler-dom.json",
         "type": "path"
       },

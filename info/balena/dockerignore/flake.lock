@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-//Tfc/tbps+r9B3Q919+V05gWE40hM4n79BT+hAmPyY=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@balena/dockerignore"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@balena/dockerignore"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-lgw+WISKzyx8CTOx8JHGGTYjGHKXVuFFtreNoN6sfFk=",
+        "narHash": "sha256-LV/eTvyNUqKD3zs5xHLk/MrJLQzytdhH3Me/lNOtFGo=",
         "path": "../../../registry/@balena/dockerignore.json",
         "type": "path"
       },

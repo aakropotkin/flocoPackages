@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-IlKSDel2x8rGBWXiLcKJayidOGs5WreiaCX6e/H4ZvY=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@sapphire/shapeshift"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@sapphire/shapeshift"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-DP2zDideAZ7klaA+AgH1Yyrq4pVL4FscSRoX9qsIsBU=",
+        "narHash": "sha256-AWUZh+gq6PGJzKwB9Oj1l6nmo52to5r4E8rb18zIQ08=",
         "path": "../../../registry/@sapphire/shapeshift.json",
         "type": "path"
       },

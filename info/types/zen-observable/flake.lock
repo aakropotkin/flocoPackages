@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-u0HmKeZae6UI8ZvxJgkD4xbgtxzwUklQaxBFm0XFLT4=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/zen-observable"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/zen-observable"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-Wtb+j0a/XIJaSV5Cls4k01vlCD9OpCUNgoIFoe839Xo=",
+        "narHash": "sha256-SnhTtQTFLFA1lq1wOX0yb+kolZxuFYK5wyeSCuiNudY=",
         "path": "../../../registry/@types/zen-observable.json",
         "type": "path"
       },

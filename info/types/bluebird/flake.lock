@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-QPMFPolsR68L4ruTRVX9saLmTqErs035di0ufAAHqR4=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/bluebird"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/bluebird"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-Si0FIvWa8Ih7C0Nv1/uqoDDEPYO8zNgK3FDKlvQfahQ=",
+        "narHash": "sha256-6EgNlH/ST807eZFow8U6D6WJm67m1Hx+iLfBj0JyHUY=",
         "path": "../../../registry/@types/bluebird.json",
         "type": "path"
       },

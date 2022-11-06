@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-GaNHLb3o+6bG7G8MyIydbdk/VShu3d5X56l4kn7Fd1E=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@sapphire/async-queue"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@sapphire/async-queue"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-jnjHgoktM86DBgdnAh6e76yKe9w+sgCEMPP3UU179/U=",
+        "narHash": "sha256-L0Or6+IOk6JbwWtF7NLU3qjAHq6wM22jlv/8PmVg0CY=",
         "path": "../../../registry/@sapphire/async-queue.json",
         "type": "path"
       },

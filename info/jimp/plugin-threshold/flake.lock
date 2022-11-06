@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-OQe+cMJWV90E2SHgM6z05qrWpqAyCl2FzB7yZ4FmUiY=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-threshold"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-threshold"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-76bv4IqmRFizyuYxOUDNyQJZT8uPgOvykYmbLEuOs78=",
+        "narHash": "sha256-ONHUizbf6eNdpfc97+uiSn9/DsoeOZW4Bgz++OGDIWE=",
         "path": "../../../registry/@jimp/plugin-threshold.json",
         "type": "path"
       },

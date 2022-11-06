@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-mZ1sw9+c0QxYK+vREkM6BbXhVMhaL+xTqH2QXB5McYM=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/prop-types"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/prop-types"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-5pOhgDfNaK9MO4pnQSb/ByK5T8WDLUAdpn1PzRrWcoE=",
+        "narHash": "sha256-aruCeuiCn5VLhL63Fwlx3DXRXywhPlrfKZO8Lw7yBt0=",
         "path": "../../../registry/@types/prop-types.json",
         "type": "path"
       },

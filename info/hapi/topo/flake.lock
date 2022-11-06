@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-vhSyqdY0GnuMEwNWERBR6oanfhNonxhoOiHumhCfeR4=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@hapi/topo"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@hapi/topo"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-Ka0YWUV5LMIyEBrWejSZDmlXytj17Dn2iwsuqIxQ1pA=",
+        "narHash": "sha256-WLcbEHV1oDaKOFKPDI3bIPCR+EwxpzeN6jwDVNyImJI=",
         "path": "../../../registry/@hapi/topo.json",
         "type": "path"
       },

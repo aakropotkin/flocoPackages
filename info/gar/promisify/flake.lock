@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-bIemKac+t0bL6ejnk/iv5n+9zFegmCZU//1h+uAD+go=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@gar/promisify"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@gar/promisify"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-5YkI+qkgwkotYIpYvkpDZ0v+q6h0TV5H86Gjwdv/nOU=",
+        "narHash": "sha256-MIRkRuOeF9YlRiNMuwBino05446FFR2PSS+R0q1R0Wk=",
         "path": "../../../registry/@gar/promisify.json",
         "type": "path"
       },

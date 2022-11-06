@@ -1,0 +1,145 @@
+{
+  "nodes": {
+    "ak-nix": {
+      "inputs": {
+        "nixpkgs": [
+          "at-node-nix",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1667521326,
+        "narHash": "sha256-PuyXLkraoKLgrMHCZ1mOm5MrhQMQO9bZGWMC+9k4pH0=",
+        "owner": "aakropotkin",
+        "repo": "ak-nix",
+        "rev": "789acab8222d4df5167383ea0643a92b10af90d4",
+        "type": "github"
+      },
+      "original": {
+        "owner": "aakropotkin",
+        "ref": "main",
+        "repo": "ak-nix",
+        "type": "github"
+      }
+    },
+    "at-node-nix": {
+      "inputs": {
+        "ak-nix": "ak-nix",
+        "laika": "laika",
+        "nixpkgs": "nixpkgs",
+        "rime": "rime"
+      },
+      "locked": {
+        "lastModified": 1667680409,
+        "narHash": "sha256-URfCbqoBxr7aa2mVeUj8eU9YaU9OLxLDQlFNpNBeExw=",
+        "owner": "aameen-tulip",
+        "repo": "at-node-nix",
+        "rev": "036a5f2fd4348776f15cad7711575c28949bf699",
+        "type": "github"
+      },
+      "original": {
+        "id": "at-node-nix",
+        "type": "indirect"
+      }
+    },
+    "laika": {
+      "inputs": {
+        "nixpkgs": [
+          "at-node-nix",
+          "nixpkgs"
+        ],
+        "rime": [
+          "at-node-nix",
+          "rime"
+        ]
+      },
+      "locked": {
+        "lastModified": 1667579735,
+        "narHash": "sha256-LB2LOJcKsDSL0oLc6y8vdHry7ovHo607fAZhbNZwEGk=",
+        "owner": "aakropotkin",
+        "repo": "laika",
+        "rev": "535d287d4eeccda03ac96584cd464d1b29a1345d",
+        "type": "github"
+      },
+      "original": {
+        "owner": "aakropotkin",
+        "ref": "main",
+        "repo": "laika",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1666447894,
+        "narHash": "sha256-i9WHX4w/et4qPMzEXd9POmnO0/bthjr7R4cblKNHGms=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "95aeaf83c247b8f5aa561684317ecd860476fcd6",
+        "type": "github"
+      },
+      "original": {
+        "id": "nixpkgs",
+        "type": "indirect"
+      }
+    },
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@electron/get"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@electron/get"
+      }
+    },
+    "rime": {
+      "inputs": {
+        "ak-nix": [
+          "at-node-nix",
+          "ak-nix"
+        ],
+        "nixpkgs": [
+          "at-node-nix",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1667521341,
+        "narHash": "sha256-FripwtdRB6LoYY6WVQi1hZ3Zdri59UfQ9Z5vfQRiX5I=",
+        "owner": "aakropotkin",
+        "repo": "rime",
+        "rev": "dfc2cbe7f34aa43c5d3ee7ef15f1ba5852082474",
+        "type": "github"
+      },
+      "original": {
+        "owner": "aakropotkin",
+        "repo": "rime",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "at-node-nix": "at-node-nix",
+        "packument": "packument",
+        "treeLock": "treeLock"
+      }
+    },
+    "treeLock": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-D1X61sWLJr3N6xQu3Dl05GOHz/W8KAsL4lCGu0TPyeU=",
+        "path": "../../../registry/@babel/plugin-proposal-optional-catch-binding.json",
+        "type": "path"
+      },
+      "original": {
+        "path": "../../../registry/@babel/plugin-proposal-optional-catch-binding.json",
+        "type": "path"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

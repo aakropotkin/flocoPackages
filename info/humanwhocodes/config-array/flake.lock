@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-lcR0dholexiNWekPnyR0J8RiAB4zSWY+FfHLdArLoSk=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@humanwhocodes/config-array"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@humanwhocodes/config-array"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-goUkKmhMVk0wKjG8hCKSJmfyPFYxTtIHmfIeLkyvzxM=",
+        "narHash": "sha256-QAn7v6+Aj0S95ux32SePUlJ9gKfIG2n30bnU4KcsJ94=",
         "path": "../../../registry/@humanwhocodes/config-array.json",
         "type": "path"
       },

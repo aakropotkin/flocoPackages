@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-EA7JIAE7nhk9vseocQMyCSs0DxEXhRGeeOgek1ZF77s=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/identity"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/identity"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-B8ZUH3RaLDcuJKfnsS6o4Hkvf6cHGqFLElmlqIHRDFc=",
+        "narHash": "sha256-bq74cu/R/4/8Xm9I0rtzRzb51IftUH6GkBfEr+rKfkM=",
         "path": "../../../registry/@azure/identity.json",
         "type": "path"
       },

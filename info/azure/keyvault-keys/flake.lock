@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-MXUwqIhYSQn3Nz8qJ7tIfxGGdo6wsPgo38zsvZ2u968=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/keyvault-keys"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/keyvault-keys"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-VYkpReegQ1dV9FIQ4yFAcUJ5OZUsjQqzjBuJRV5K/d4=",
+        "narHash": "sha256-iTLiyeU7LfTgatxR6ZqXuhq0053z/Nrx0YGrcgKCaPk=",
         "path": "../../../registry/@azure/keyvault-keys.json",
         "type": "path"
       },

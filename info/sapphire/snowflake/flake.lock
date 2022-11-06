@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-jWWsXTWNkReu/AiZlATAsBEcRE4D+nPUwvMk1tfoT4k=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@sapphire/snowflake"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@sapphire/snowflake"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-e//2aAi8gGMSOurR7Xp+zdGPYWRHjJrKGbkIjdPY43k=",
+        "narHash": "sha256-PbKXRoZDNx8EZO2dzpQfaLKv34QEoz58wG73EX5HHlM=",
         "path": "../../../registry/@sapphire/snowflake.json",
         "type": "path"
       },

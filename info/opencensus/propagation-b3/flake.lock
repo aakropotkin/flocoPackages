@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-EaFAtPCtLH1OZ4DpOsD55j+SCndyg8Ue84w8ZfRO0GE=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@opencensus/propagation-b3"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@opencensus/propagation-b3"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-lT4kjgr7pLyT/wy1ifRdGnotEuWzNMECGBCu5+FGUXc=",
+        "narHash": "sha256-Oz57OR1FzXkIia1KWWfmCw6EjRqKritbFdzliuL9hW4=",
         "path": "../../../registry/@opencensus/propagation-b3.json",
         "type": "path"
       },

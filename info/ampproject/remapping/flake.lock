@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-4wVQMIKWEYdX9jh7gr+zahZEeGRWDeo8c2S2ckSfweo=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@ampproject/remapping"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@ampproject/remapping"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-r/OmUtx5xSG8Mjq8Ex9xZnJad/bp3lwmrSP6Zg84RDw=",
+        "narHash": "sha256-ARkJYoJVgumjgM5KMJ1eT6TWx7GYTiSw3d4xcT6sPZ4=",
         "path": "../../../registry/@ampproject/remapping.json",
         "type": "path"
       },

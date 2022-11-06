@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-EPSkcYlrDd4fspGmuYXNuECQI9sLOxfymqQH5sKqQU4=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/formidable"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/formidable"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-Y3FgMPvpbDmJe4E/n//DDDzQJdOnjxPSsMZPXpVrAiM=",
+        "narHash": "sha256-QN1X/cD/yGDq/d5VoO+PGH7WVVTBKFJyOy9AvHc39ls=",
         "path": "../../../registry/@types/formidable.json",
         "type": "path"
       },

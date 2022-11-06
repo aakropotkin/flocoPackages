@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-Th7A+nmCP+xOCAvQkIb71VOyrowq0B9I2oCXnxvkm5s=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/tough-cookie"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/tough-cookie"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-slyCy2yrTWPnKJXfmJ9cSRTyIik/xwoGqF6gEWedolo=",
+        "narHash": "sha256-Nl67nU9MiMFI8u2SzofXiJddPVl25aLnLWSflEFFWuE=",
         "path": "../../../registry/@types/tough-cookie.json",
         "type": "path"
       },

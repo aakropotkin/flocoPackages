@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-sVhYCQBsIwHrQIizYbHFIwelA4i5JsFo/ayDR0RypSw=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@csstools/postcss-stepped-value-functions"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@csstools/postcss-stepped-value-functions"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-yFWH++yyCAkZ99+lgXeYqbpRCzpcAaDEBLFPWzwBiuY=",
+        "narHash": "sha256-g7ahu+x3AUrIGnpQ2iCziBCFKlRHp+Tmcys8XKiaNsQ=",
         "path": "../../../registry/@csstools/postcss-stepped-value-functions.json",
         "type": "path"
       },

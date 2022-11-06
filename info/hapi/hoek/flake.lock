@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-0rcZWAhrwz2RxzzkurJqJswYwmE5Wk0x+F+jbL56fkE=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@hapi/hoek"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@hapi/hoek"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-AfXNHTumHyp28esIwyQ+Dp5NVr7Tha2+FT23W1dBvrU=",
+        "narHash": "sha256-O4Mnxvenaop4j7wN6TiKo1xSel5PuXKHBFPhPe6R1lM=",
         "path": "../../../registry/@hapi/hoek.json",
         "type": "path"
       },

@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-9w6OrqmxB9qGmTvzi9WZ8YaRj+DhWZI2ZiHp7+2Awys=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@react-native-community/cli-config"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@react-native-community/cli-config"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-VSWOeKOUTqd5kGsxuLTpDxQqWlE4L0I7+ZrmJ6+vmxE=",
+        "narHash": "sha256-hgyHZLXrGodWulKffPs0eUf1PWtEPGJFMQRBYu06trk=",
         "path": "../../../registry/@react-native-community/cli-config.json",
         "type": "path"
       },

@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-D16VVeVq7x388PzLxgh5iqJwpbC/W503YCTdapGnUuA=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@react-native-community/cli-doctor"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@react-native-community/cli-doctor"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-6kB3pMhQjrc7xhLniKq4tC/FZJqccrUq/gf9lCujVaA=",
+        "narHash": "sha256-A91X60CD38+qqFb69lkXeUA3IdDWxhJ/JTDmCk7tBuA=",
         "path": "../../../registry/@react-native-community/cli-doctor.json",
         "type": "path"
       },

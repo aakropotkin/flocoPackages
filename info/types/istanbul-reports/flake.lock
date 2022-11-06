@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-SWAu+KLHf41KgSFAjRI7OHMUwUXLU74vOA+SmjHZIGE=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/istanbul-reports"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/istanbul-reports"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-ICwVc5UivALBtgF0IiURZiCPgI5CORok7O6lBwGtANE=",
+        "narHash": "sha256-1h/APgft1tnz5oVFG+2+x1VwvY3eZIPX+eTN8FrisoA=",
         "path": "../../../registry/@types/istanbul-reports.json",
         "type": "path"
       },

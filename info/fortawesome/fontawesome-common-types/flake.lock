@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-mbzLMQb96DQpT36+uvwCZvzaGTzeE8pn/BLna05xpQE=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-UmrX4CEHlH9i9IlEKGb7IgaDrKTFNw5y08zQ3Vzha4c=",
+        "narHash": "sha256-N5xZva9toQ0h4ngPIhSTg6SyL0pkTDQB38ivrEcq+Ho=",
         "path": "../../../registry/@fortawesome/fontawesome-common-types.json",
         "type": "path"
       },

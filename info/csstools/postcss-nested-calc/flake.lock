@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-+cKpNTeMU8bDwxuVN8H0S2s274HoHUIz211EuBcAEVw=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@csstools/postcss-nested-calc"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@csstools/postcss-nested-calc"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-ev9L+bVCktP+39WnLFTEl93aqp1Ijk5MW9G6suOzw4c=",
+        "narHash": "sha256-ovcgbceR+DMlvLD/aBXPbQW9ILKp7MyYlFo2bzEBBnQ=",
         "path": "../../../registry/@csstools/postcss-nested-calc.json",
         "type": "path"
       },

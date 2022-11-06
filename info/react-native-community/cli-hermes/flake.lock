@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-aqqiXPahP/926ddX6Mo4c+xnjBFXmQ3if2Ybp6VzYUc=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@react-native-community/cli-hermes"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@react-native-community/cli-hermes"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-A94wprK93hRkkkASSkauW/RO3LoKGuKyu/FtR+W6SLE=",
+        "narHash": "sha256-7ctScNqL3CzWAch8OfHysahEwz6HCFWZaQLeKcDMQKg=",
         "path": "../../../registry/@react-native-community/cli-hermes.json",
         "type": "path"
       },

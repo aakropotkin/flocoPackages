@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-W3vccXaiNjJLlLaKixNNKFYY/lo6nmbyFVzI80/79uM=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-gaussian"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-gaussian"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-uFjk8ZlkOwhO3FOTDH+3t+Yosx0iIyxalEs8W22dLPI=",
+        "narHash": "sha256-8xveyIrM53rOTVEpJ16YFtbeHmbFcjxkLIKN7hO3eOs=",
         "path": "../../../registry/@jimp/plugin-gaussian.json",
         "type": "path"
       },

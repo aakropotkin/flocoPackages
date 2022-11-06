@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-mRVPv8UkOsQCwtahsVOEGoiYrI4873XUlehpwcqkcmc=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-scale"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-scale"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-bjompJ60vhS1w1CY/ysadCRkZnC3VoyUZuYLxyaq/0M=",
+        "narHash": "sha256-u/t3PzpvFXeNnaOA1bZFoDxVxN72ZkQegSBN3yz0txM=",
         "path": "../../../registry/@jimp/plugin-scale.json",
         "type": "path"
       },

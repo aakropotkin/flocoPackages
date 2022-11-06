@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-5vS9oxD+s98lvYUOkaBkdkpD3Zth5NR5yreTQOv/oNA=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/use-sync-external-store"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/use-sync-external-store"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-Sf5BnaMJbwlFsBp/UFj2gfC0+b+Aj+QzXU56K2MUwmc=",
+        "narHash": "sha256-V/JTn4EwS1GBry4687lsv/ynwu1SqYQ+5R2JmSkhdhY=",
         "path": "../../../registry/@types/use-sync-external-store.json",
         "type": "path"
       },

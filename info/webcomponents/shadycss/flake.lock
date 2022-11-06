@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-nky6GL/2LVRPsd1fC+4LWIPEoKwkmpHNMSMzsOIwuiE=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@webcomponents/shadycss"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@webcomponents/shadycss"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-Yy3wMmHQxYl7/PHRJBy4S/cPj9Q+5dAiP7/n7GFSMBk=",
+        "narHash": "sha256-wXrtrQiMQQtX0IuSi+eXkj0n/EdGh02w4GZQ+2YOAkU=",
         "path": "../../../registry/@webcomponents/shadycss.json",
         "type": "path"
       },

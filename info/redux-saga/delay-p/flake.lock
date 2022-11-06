@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-QDrYcuDZtnD24v40yxkQ1tqbD+IFMeNSqF66TWcILZ0=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@redux-saga/delay-p"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@redux-saga/delay-p"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-QzCnw81HZHP3BQDQC9/GRVtrbBQ8jAAAaT7jqQChA9U=",
+        "narHash": "sha256-76hZq0D8VST1l0Qt5leFaNGL7F0saQmvz2zgJuIlgmY=",
         "path": "../../../registry/@redux-saga/delay-p.json",
         "type": "path"
       },

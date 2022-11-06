@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-GZASGKYn6SmW1nbR/VEwBz3jcYOMx2ggsZmjahN69Vk=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/msal-common"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/msal-common"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-10sxdXatVjD+Iu1N3cwFc/Ld8a6CyjADgG0vNoWuU24=",
+        "narHash": "sha256-5ZCAsFvzBBFUXdz04g25DmEXbq6/+J4NCSOPyAGk/cM=",
         "path": "../../../registry/@azure/msal-common.json",
         "type": "path"
       },

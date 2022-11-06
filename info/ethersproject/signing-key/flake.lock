@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-Czl2s9NQ3cBmawzPwltl+YxWx44TaZbiSm1ZqoNPZBI=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@ethersproject/signing-key"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@ethersproject/signing-key"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-EfXCzMy1PbISgI4J6yfRZE+QjZ7gKwomDvec8Fygd0A=",
+        "narHash": "sha256-sXXKh6zV0dVJVQqajxUnG0ld9ihhxch1ea4F+gnOVjc=",
         "path": "../../../registry/@ethersproject/signing-key.json",
         "type": "path"
       },

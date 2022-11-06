@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-6SEZyfVLAHOuQQX0xYEPLew/9q9VN8BdZ/9msKgd4GI=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/core-rest-pipeline"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/core-rest-pipeline"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-9VUXmUHAQ3+8hThrsrsAvsP+8aJ+bpPCD/34M+ehJ9w=",
+        "narHash": "sha256-n4hmoey9lYAdGQFOh6ne3ImOz9U/9HIIpsynBe0V6rE=",
         "path": "../../../registry/@azure/core-rest-pipeline.json",
         "type": "path"
       },

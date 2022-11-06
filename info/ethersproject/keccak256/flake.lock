@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-gYDYcRSbb2iTvK5aSBacFqAnoJNQ/RUd02MJkPZYtOQ=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@ethersproject/keccak256"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@ethersproject/keccak256"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-XLYYyCVASBiZyCn7r5sAVucNh7oVsDaUIFnUl/1KyaA=",
+        "narHash": "sha256-VMyl63wg19yIplXS3HTGQjY7H7PL1apQbMR354SywLA=",
         "path": "../../../registry/@ethersproject/keccak256.json",
         "type": "path"
       },

@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-GRJDSm7+U4nyYvRGdArl9f8d3DKCJFrrxzcb+yfwceY=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-fisheye"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-fisheye"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-F9Sz9XDyS0AP/0lKXDVKlbKgDlLQeJ7T1H/AxJzEwGk=",
+        "narHash": "sha256-teakRALumnj8LCQ0euy0QaRZwtP6SvKXsq99g+ipDNw=",
         "path": "../../../registry/@jimp/plugin-fisheye.json",
         "type": "path"
       },

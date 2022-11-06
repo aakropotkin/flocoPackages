@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-B2XKWZOPqg79iwAF4MQ3yaNldTzTuAK99S9oglehvsc=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-dither"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-dither"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-DKltaH7jlpKpdXSmKUnOMUTJWl25rTljevTEzZo2m2I=",
+        "narHash": "sha256-e3qToFAZTvPpWP6yBAktcvggCxB7G7897HIPvZPlOJE=",
         "path": "../../../registry/@jimp/plugin-dither.json",
         "type": "path"
       },

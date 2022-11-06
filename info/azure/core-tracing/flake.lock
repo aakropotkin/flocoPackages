@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-LYWuSUd0zB9RLqSf9xE+kepqVNTzH9fdJDduNbBjZKo=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/core-tracing"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@azure/core-tracing"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-QX4r2b61f7cfRXR05iG+zPZzZtjglqDitAqZk3EXCfk=",
+        "narHash": "sha256-oi9NDThoI/hzNksEhGCG1p0DhCePvEMAaQ285NJmj5E=",
         "path": "../../../registry/@azure/core-tracing.json",
         "type": "path"
       },

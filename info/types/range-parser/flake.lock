@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-Zi3B1ydlVUIAmiaD/DcaNMyvo7iFE5G9IUsJe/+ue64=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/range-parser"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/range-parser"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-XVExpd+/+2vrTY3pWZEVRacu2tfNUbTE9+SecYRnwkU=",
+        "narHash": "sha256-MxFK3vx6D/NJQEUQOciIPwioa/O2vBZrKeQOr+LBQIE=",
         "path": "../../../registry/@types/range-parser.json",
         "type": "path"
       },

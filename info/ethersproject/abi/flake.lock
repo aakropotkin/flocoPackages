@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-4uXPg7y6RDSK6sdzIVbYVnoF6mtfKH4EMEutr16qX1I=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@ethersproject/abi"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@ethersproject/abi"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-0kLpnVAnyCRKrNsNqzIi7KpMI2C8y7EdBS+zLylj8VQ=",
+        "narHash": "sha256-jb3UismihYtMS4FCnuN9FdiKshBGmQmHIIgFIiB2Ekk=",
         "path": "../../../registry/@ethersproject/abi.json",
         "type": "path"
       },

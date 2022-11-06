@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-+ErFALdhYj6UM3UG4r7nD8TEJoPLg6K6NT8qp02HZ58=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/prettier"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/prettier"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-H998E+ph+2dw2kcKEyyhpIyzRdJDmTVqYpcP6oXYup8=",
+        "narHash": "sha256-ph/kCmiYAuNzfA50q/JvHcoVywXjVLqGPQaLaa5h1PI=",
         "path": "../../../registry/@types/prettier.json",
         "type": "path"
       },

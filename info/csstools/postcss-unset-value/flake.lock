@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-2tjO31qaCgvoMB5JSD1rQZs+cYJB/CuqAHKqPOT9nfA=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@csstools/postcss-unset-value"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@csstools/postcss-unset-value"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-zpgkU9okaZmxutMWntQZNEBUEQqGeVX8FKWHr7jaVhs=",
+        "narHash": "sha256-avJOK0BMZK3cOc/EEnVHetdwEz+Sw6jywQWFvb3/x5I=",
         "path": "../../../registry/@csstools/postcss-unset-value.json",
         "type": "path"
       },

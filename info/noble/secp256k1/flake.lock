@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-3xgjoZWCGGUlhgsihyz5VwoCEXkJJR+u7PeGKJT4/p0=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@noble/secp256k1"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@noble/secp256k1"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-KiW0DE8gWp5WHQQGtC+yLoplTFWxqJga72ymc19LNXg=",
+        "narHash": "sha256-Z0vG3BRUQwigj4i3dKuoB2qhhX8rOLlk/H/0hAiJoPk=",
         "path": "../../../registry/@noble/secp256k1.json",
         "type": "path"
       },

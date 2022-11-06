@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-tcf+JCxGh26BoqtBsk0UivG4gQpTvsvbdeLPaBBLunw=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@ethersproject/rlp"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@ethersproject/rlp"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-iCQlROXz8XGvRYfeLvZAZdQvBPh6GHc8EG4yXqDEm6k=",
+        "narHash": "sha256-XHOVA2w+lXClE60jGdFfLT0EuxEoErROo/rxLO6cons=",
         "path": "../../../registry/@ethersproject/rlp.json",
         "type": "path"
       },

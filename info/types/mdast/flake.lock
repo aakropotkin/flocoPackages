@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-VSGFOtvy/eFeC1YtiucLQvWJW5Q2WPyR4mkJ5VY0c+M=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/mdast"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/mdast"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-ZJlP0AA7SbAzhvhpEDa+9xY1zb92Vd3xiMbvY+9x/fY=",
+        "narHash": "sha256-GwuthUmVGYqSr3WUqCeWBLv2M5WfWYMLG7t+XTQlCfE=",
         "path": "../../../registry/@types/mdast.json",
         "type": "path"
       },

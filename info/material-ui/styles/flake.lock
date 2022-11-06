@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-ZEmiiN9cf67zrYDeVC3qk+NQm91sItbhz/CUEkLEAgs=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@material-ui/styles"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@material-ui/styles"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-UyNaWmvrrZsot2XCuH/YJzCOW3BNV+Qq06jBeC/wrvM=",
+        "narHash": "sha256-ABSgbrehouZUTjWmVruOaUwA70op1LF0Ixq4t6cE9T0=",
         "path": "../../../registry/@material-ui/styles.json",
         "type": "path"
       },

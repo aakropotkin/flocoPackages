@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-LmcbK6+E02V3if2m8IRoMaVdSmZQcu0q1UZma6r7v54=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@material-ui/icons"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@material-ui/icons"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-nDQRdP2ArMaoeqxMsnJjhPjOKTpzH2Q7bAcslDaU7U0=",
+        "narHash": "sha256-d/i4xnlNS6eNC/2LSTwBDi3Rord3s0zFELCDmWH1FJM=",
         "path": "../../../registry/@material-ui/icons.json",
         "type": "path"
       },

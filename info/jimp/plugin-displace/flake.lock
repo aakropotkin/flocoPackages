@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-BbiWogSUEFX+uH/V1m+MLi0pSYTXNMxtRpWbU0MFCNk=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-displace"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@jimp/plugin-displace"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-KaKB9qybA3WgfzgpQPnSIHkqjsfEutiMZDQInSepUjc=",
+        "narHash": "sha256-zc2CdyV8jwH8NcpPVhSVciYSkNByuaaOJBXYf2zDoPs=",
         "path": "../../../registry/@jimp/plugin-displace.json",
         "type": "path"
       },

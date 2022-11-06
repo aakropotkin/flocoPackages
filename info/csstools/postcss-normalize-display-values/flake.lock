@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-XWRvOHMU95JouA4GazzLkilxo0tE3UWpNj22gxIZ7ak=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@csstools/postcss-normalize-display-values"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@csstools/postcss-normalize-display-values"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-zN4quRxbg2I2lSeqY/1vU8e8nRZadAZaFx0TnNTM+sk=",
+        "narHash": "sha256-m16WLF1B8kKvcAJx9UHSHSsi3scAg9wKy45TKow2FQE=",
         "path": "../../../registry/@csstools/postcss-normalize-display-values.json",
         "type": "path"
       },

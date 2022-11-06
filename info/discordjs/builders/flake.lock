@@ -85,13 +85,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-2FRLbRF+zqZ/VTplGzNf0FnTe62tDIGo6MUNKvWjSBI=",
+        "narHash": "sha256-kTGlbJfSVYGIhn8M81DdPUcp+mrooP2vab6s+dUWA44=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@discordjs/builders"
+        "url": "https://registry.npmjs.org/@electron/get"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@discordjs/builders"
+        "url": "https://registry.npmjs.org/@electron/get"
       }
     },
     "rime": {
@@ -130,7 +130,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-fHVOJl9LutXUF42IXHO3P1rhuCx7PyeYzA2kasgEEOA=",
+        "narHash": "sha256-XoVffeQ4LY2kmjn4K8FWYiKTgnHlJTTrT5N+Xjh/Vrc=",
         "path": "../../../registry/@discordjs/builders.json",
         "type": "path"
       },
