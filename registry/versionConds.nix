@@ -162,10 +162,19 @@ in {
     builtins.elem version ( lib.importJSON ./types-node-versions.json );
 
 
-  unscoped.aws-sdk= version: let
+  unscoped.aws-sdk = version: let
     keeps   = ( lib.importJSON ./aws-sdk-versions.json );
     ignores = ["1.16.0"];  # Dead download link
   in ( builtins.elem version keeps ) && ( ignoreVersions ignores version );
+
+
+# ---------------------------------------------------------------------------- #
+
+  # This one tag releases betas which is idiotic but they're web-developers so
+  # there's really no expectation that they know how to develop software or
+  # manage releases.
+  # Fucking philistines.
+  unscoped.js-sdsl = version: true;
 
 
 # ---------------------------------------------------------------------------- #

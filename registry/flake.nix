@@ -49,6 +49,8 @@
       inherit ident scope;
       inherit (parsed) bname;
       ldir = if scope == null then "unscoped" else "@${scope}";
+      idir = if scope == null then "unscoped/${builtins.substring 0 1 ident}"
+                              else "${scope}/${parsed.bname}";
     };
 
 
@@ -216,6 +218,34 @@
       bkeyFn = bname: "${bname}.json";
       extraArgs.type = "tarball";
     };
+
+    fetchInfoJSON = let
+      fi = mkTlocks {
+        post = tl: let
+          flat   = lib.libreg.flattenLockNodes tl;
+          rename = k:
+            lib.yank ".*-([0-9]+\\.[0-9]+\\.[0-9]+.*)\\.tgz" flat.${k}.url;
+          proc      = acc: k: acc // { ${rename k} = flat.${k}; };
+          fetchInfo = builtins.foldl' proc {} ( builtins.attrNames flat );
+        in builtins.toJSON fetchInfo;
+        bkeyFn = bname: bname;  # renamed afterwards
+      };
+      remapAttrs = acc: scope: let
+        scopedSub = acc: bname: acc // {
+          ${bname}."fetchInfo.json" = fi.${scope}.${bname};
+        };
+        unscopedSub = acc: bname: let
+          fl = lib.toLower ( builtins.substring 0 1 bname );
+        in acc // {
+          ${fl} = ( acc.${fl} or {} ) // {
+            ${bname}."fetchInfo.json" = fi.${scope}.${bname};
+          };
+        };
+        proc = if scope == "unscoped" then unscopedSub else scopedSub;
+      in acc // {
+        ${scope} = builtins.foldl' proc {} ( builtins.attrNames fi.${scope} );
+      };
+    in builtins.foldl' remapAttrs {} ( builtins.attrNames fi );
 
 
 # ---------------------------------------------------------------------------- #
