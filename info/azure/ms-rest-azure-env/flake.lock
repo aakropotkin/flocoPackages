@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-SBY2SgNWxxzU0Bo7PJ8Cq7MYxGVV4btDExdGwEenXRU=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@azure/ms-rest-azure-env?rev=7-f2fa216f7faba7317b1d7bc5f50caad2"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@azure/ms-rest-azure-env?rev=7-f2fa216f7faba7317b1d7bc5f50caad2"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

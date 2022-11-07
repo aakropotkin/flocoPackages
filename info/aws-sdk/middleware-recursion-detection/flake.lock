@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-DUBjBnLKvXI1HO3jd4RNaS4ugMnucVkHpAkK2nt5rko=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@aws-sdk/middleware-recursion-detection?rev=20-59f695b7d8b2fee5103bbdd3e023cedb"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@aws-sdk/middleware-recursion-detection?rev=20-59f695b7d8b2fee5103bbdd3e023cedb"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

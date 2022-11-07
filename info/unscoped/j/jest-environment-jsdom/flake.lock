@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-mAr3FTCMnjdIWqG8zhgsiDSmvx6frO8u0NlJKQIx/ZY=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/jest-environment-jsdom?rev=391-b7d3d6b7f6935f0ce2a2a36bdde6b868"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/jest-environment-jsdom?rev=391-b7d3d6b7f6935f0ce2a2a36bdde6b868"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-OzGyrCdjtThfPWzQJ2hAaUaZO9MHTER6DwVEEjk6p6U=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/react-smooth?rev=57-085579e9b63d50c728f5a89e10b788f0"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/react-smooth?rev=57-085579e9b63d50c728f5a89e10b788f0"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

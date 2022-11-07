@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-paging?rev=123-65a10a5e1ac8a7108c717d24bb5a5bf6";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-paging?rev=124-ad9a201af03f0e0115e6f74334d7d0e3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

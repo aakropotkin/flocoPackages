@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-4f4lZkDO4Lk54ObMPX7X+fKeFJmT0SSF6yz+7iRW5wM=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/esbuild-windows-arm64?rev=96-960bf76aafe4da4402e93755e334a2f9"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/esbuild-windows-arm64?rev=96-960bf76aafe4da4402e93755e334a2f9"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-5HaRfulV38J55aGUa6am9HJj+oCCAX7oV140zMbchmQ=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/multicast-dns-service-types?rev=6-aad8958db575697d34f3f03c5eb3cc6b"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/multicast-dns-service-types?rev=6-aad8958db575697d34f3f03c5eb3cc6b"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

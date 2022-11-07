@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-xGsycsI8fRXfEAuZdsV3FVX/ae9ETIukHl1eAhASHQM=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/adal-node?rev=53-d6d2f2be3364946855338173e5bd19bb"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/adal-node?rev=53-d6d2f2be3364946855338173e5bd19bb"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

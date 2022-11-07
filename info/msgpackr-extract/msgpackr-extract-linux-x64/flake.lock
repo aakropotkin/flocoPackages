@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-+RySWBS2HVp9v+6w78m8ByYpVaeq7LANckeC5J/L9vs=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-linux-x64?rev=4-c26b4c0a9fcf30ed5a1a3534bc7a2b72"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-linux-x64?rev=4-c26b4c0a9fcf30ed5a1a3534bc7a2b72"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

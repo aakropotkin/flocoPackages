@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-dVCya3ZAot8zdhqVGVfCFg38zLhoFcNYapnDV0hRunQ=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@opentelemetry/resources?rev=153-d65e8cd6b6bbcfe7e52e39a49bdec5fb"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@opentelemetry/resources?rev=153-d65e8cd6b6bbcfe7e52e39a49bdec5fb"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

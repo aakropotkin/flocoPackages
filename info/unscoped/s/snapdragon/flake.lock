@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-Nw01AXx5HKaNwvkd/w9GI6BulKvWrAsjQYZ5UDPxMj0=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/snapdragon?rev=45-014507301cd4e90e1cc0337827bb20b8"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/snapdragon?rev=45-014507301cd4e90e1cc0337827bb20b8"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

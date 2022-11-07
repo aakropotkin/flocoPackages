@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-t73xd+MHQEjsaNSwLzILCroq3VU7q8cU+dBnRdTpMcs=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/react-dnd-multi-backend?rev=90-77ca3b903201a614b3f32cacc688e0ef"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/react-dnd-multi-backend?rev=90-77ca3b903201a614b3f32cacc688e0ef"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

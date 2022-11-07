@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-oaqbVZyyzRs1KHXhGtUTFedW3dMAJ88nvKjmqD8FXU0=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/ddp-underscore-patched?rev=4-0bfe9241e8607dc0550ed130d768efa7"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/ddp-underscore-patched?rev=4-0bfe9241e8607dc0550ed130d768efa7"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

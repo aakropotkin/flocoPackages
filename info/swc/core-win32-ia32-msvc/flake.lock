@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-SQ+4TIVfBQSyOYqg5rq158z8cxGucDciIDqGgrtFRmw=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@swc/core-win32-ia32-msvc?rev=195-2e837d8ba40702cfa6a927be1da47a70"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@swc/core-win32-ia32-msvc?rev=195-2e837d8ba40702cfa6a927be1da47a70"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-f3X02MXYbg504Zk+Z+Ws9o0b0GkCF3HZ7S+y4WlmwTM=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/pino-pretty?rev=75-819f4137332286c0eb1669a63abd69f1"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/pino-pretty?rev=75-819f4137332286c0eb1669a63abd69f1"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

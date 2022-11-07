@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-lqUC/xMGgxmB0fPxYoWE7bSRPTbBn6YF6NmQexqHHxU=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@types/snowflake-sdk?rev=233-61d0f0dff6081a657126e19385a0ae1c"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@types/snowflake-sdk?rev=233-61d0f0dff6081a657126e19385a0ae1c"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

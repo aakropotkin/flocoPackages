@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-LLfBkE2VTXVbI5F8d4TdhMJkmaNQBweV+iS1b1Y5flA=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/pascalcase?rev=8-6d8ea8c58a2d9f3c6da56b03e4b327f3"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/pascalcase?rev=8-6d8ea8c58a2d9f3c6da56b03e4b327f3"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

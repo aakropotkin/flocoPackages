@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-Xgl7s9ah4Qcx4+WYnSeuf38tw4LPBuQ6xgiCq/amQ/c=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/esbuild-darwin-arm64?rev=164-f518296a9105ed74741d8437ca31c3d9"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/esbuild-darwin-arm64?rev=164-f518296a9105ed74741d8437ca31c3d9"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

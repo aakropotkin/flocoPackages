@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-9zAecdAgoRJ4XaEwAyT3wy171DbMBQQeN1NTZfTp4Ls=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/parallel-transform?rev=26-c531eb08bf58bc04388b553070059526"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/parallel-transform?rev=26-c531eb08bf58bc04388b553070059526"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

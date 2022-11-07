@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-1+mYEJNwt6oBf8nqvjsdrAkQgOjEAuGguHs2Hx7JwqU=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@types/react-dropzone?rev=191-bc29ae70d90d6d453a61d99d4a8aeaaf"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@types/react-dropzone?rev=191-bc29ae70d90d6d453a61d99d4a8aeaaf"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

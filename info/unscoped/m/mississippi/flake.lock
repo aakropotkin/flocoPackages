@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-sr54mF6X/pO2p54ixkVFtltUilr8AnEGLzpwEouhKn8=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/mississippi?rev=40-6a6a9a86992e259d72bb2e13c4056db2"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/mississippi?rev=40-6a6a9a86992e259d72bb2e13c4056db2"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

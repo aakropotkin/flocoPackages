@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-tg4bV6obRpfkfMasdbRDPcWHQLMxUHdCkER1CmqTNeU=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@types/react-datepicker?rev=993-7e67c9231f822e61c8607450cf999883"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@types/react-datepicker?rev=993-7e67c9231f822e61c8607450cf999883"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-6OdFvKsy6AOkdHhr4L/XgomCBbZE0Xqcl09NM8Q0/Xk=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@types/react-virtualized-auto-sizer?rev=257-6709d01e97b658a339fc348a28efb6d9"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@types/react-virtualized-auto-sizer?rev=257-6709d01e97b658a339fc348a28efb6d9"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

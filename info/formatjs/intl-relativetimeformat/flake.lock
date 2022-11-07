@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-sP42SF2ZKCBeAISSQeyTWpas6em2HPjADkJDVwD0I/8=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@formatjs/intl-relativetimeformat?rev=160-af16fe38446f7c9652557a0c9d08f851"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@formatjs/intl-relativetimeformat?rev=160-af16fe38446f7c9652557a0c9d08f851"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

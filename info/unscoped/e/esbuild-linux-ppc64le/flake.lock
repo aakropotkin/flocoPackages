@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-liy7LLWhLXX2Hx1gg2nnvivr6uulFszQo2lC6UmDHWM=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/esbuild-linux-ppc64le?rev=306-5ded2aefef46ac6a7b415c6081d268d4"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/esbuild-linux-ppc64le?rev=306-5ded2aefef46ac6a7b415c6081d268d4"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-0h8F0uLOl9jUpxfEWiOeiegYBgc8P47iMkbNXFeEuVw=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@aws-crypto/supports-web-crypto?rev=20-0f7a14680bdc886404ed21bd9f9bb77a"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@aws-crypto/supports-web-crypto?rev=20-0f7a14680bdc886404ed21bd9f9bb77a"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

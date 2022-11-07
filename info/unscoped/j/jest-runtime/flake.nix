@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-runtime?rev=423-a077ca539afb4691d1ffdb53643c86b7";
+  inputs.packument.url   = "https://registry.npmjs.org/jest-runtime?rev=424-02f7a5a5f43beea2119b2fc05c02b958";
   inputs.packument.flake = false;
 
   outputs = inputs: let

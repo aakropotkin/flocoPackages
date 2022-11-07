@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-qK1tPGVpG2/5DZqYombWiISKD/WDl+jINZ8yjwHNKfI=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/monocle-ts?rev=64-9f83257709d7b54c3aa4209c9fc0a5fc"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/monocle-ts?rev=64-9f83257709d7b54c3aa4209c9fc0a5fc"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

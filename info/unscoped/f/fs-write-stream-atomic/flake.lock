@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-szHWDUELiXiLKdqHjtK5rx/OctKFv3utgdo3B4GWPZ8=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/fs-write-stream-atomic?rev=52-bbf38a19c7bccd698a48be2b54475718"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/fs-write-stream-atomic?rev=52-bbf38a19c7bccd698a48be2b54475718"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

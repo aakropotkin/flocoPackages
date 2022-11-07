@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/chai?rev=521-75f303c8b52cd90c8d4a7f63f8a8d5ff";
+  inputs.packument.url   = "https://registry.npmjs.org/chai?rev=522-d6fd8b62b2795ac5be7780db0c6111eb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

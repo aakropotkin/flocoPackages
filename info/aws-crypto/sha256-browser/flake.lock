@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-mtMb4f0wmk8pG5Y851DALLgACS96zOpYZFEzB+Y5we0=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@aws-crypto/sha256-browser?rev=25-ec259ebd150c27aa7f64bbb42a72836c"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@aws-crypto/sha256-browser?rev=25-ec259ebd150c27aa7f64bbb42a72836c"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

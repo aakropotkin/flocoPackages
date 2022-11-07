@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-nt3RfJglYIUKEXNi0bTgGKWxUozvFdpc7MkSAKV7yoA=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/@opentelemetry/otlp-exporter-base?rev=7-65370e37a20bf726da2391f3cf0a84b0"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/@opentelemetry/otlp-exporter-base?rev=7-65370e37a20bf726da2391f3cf0a84b0"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

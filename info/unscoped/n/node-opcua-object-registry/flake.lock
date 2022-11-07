@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "packument": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-ZgHxIKAvz6dn+tGPriIxBG3+UqlVoyvDqfDJW5SSV2E=",
+        "type": "file",
+        "url": "https://registry.npmjs.org/node-opcua-object-registry?rev=106-cc64bf6a83f03f3491fe54d96e587251"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://registry.npmjs.org/node-opcua-object-registry?rev=106-cc64bf6a83f03f3491fe54d96e587251"
+      }
+    },
+    "root": {
+      "inputs": {
+        "packument": "packument"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
