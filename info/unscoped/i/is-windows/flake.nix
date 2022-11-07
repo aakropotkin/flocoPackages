@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-windows";
     ldir  = "info/unscoped/i/is-windows";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

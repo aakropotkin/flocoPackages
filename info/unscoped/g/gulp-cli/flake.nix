@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-cli";
     ldir  = "info/unscoped/g/gulp-cli";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

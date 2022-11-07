@@ -16,7 +16,7 @@
     scope = null;
     ident = "on-finished";
     ldir  = "info/unscoped/o/on-finished";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

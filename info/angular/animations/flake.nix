@@ -16,7 +16,7 @@
     scope = "@angular";
     ident = "@angular/animations";
     ldir  = "info/angular/animations";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

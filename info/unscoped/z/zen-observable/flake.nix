@@ -16,7 +16,7 @@
     scope = null;
     ident = "zen-observable";
     ldir  = "info/unscoped/z/zen-observable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

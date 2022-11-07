@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-drawer";
     ldir  = "info/unscoped/r/rc-drawer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

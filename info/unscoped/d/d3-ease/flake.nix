@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-ease";
     ldir  = "info/unscoped/d/d3-ease";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

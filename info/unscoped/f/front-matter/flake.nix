@@ -16,7 +16,7 @@
     scope = null;
     ident = "front-matter";
     ldir  = "info/unscoped/f/front-matter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

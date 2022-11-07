@@ -16,7 +16,7 @@
     scope = null;
     ident = "mute-stream";
     ldir  = "info/unscoped/m/mute-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "tweetnacl";
     ldir  = "info/unscoped/t/tweetnacl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

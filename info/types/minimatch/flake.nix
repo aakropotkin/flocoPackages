@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/minimatch";
     ldir  = "info/types/minimatch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

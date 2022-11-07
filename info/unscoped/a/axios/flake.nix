@@ -16,7 +16,7 @@
     scope = null;
     ident = "axios";
     ldir  = "info/unscoped/a/axios";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "generate-function";
     ldir  = "info/unscoped/g/generate-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

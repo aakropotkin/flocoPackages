@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-progressive-custom-properties";
     ldir  = "info/csstools/postcss-progressive-custom-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "ansi-fragments";
     ldir  = "info/unscoped/a/ansi-fragments";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "pause";
     ldir  = "info/unscoped/p/pause";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

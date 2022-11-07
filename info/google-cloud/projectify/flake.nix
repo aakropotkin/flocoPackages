@@ -16,7 +16,7 @@
     scope = "@google-cloud";
     ident = "@google-cloud/projectify";
     ldir  = "info/google-cloud/projectify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

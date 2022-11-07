@@ -16,7 +16,7 @@
     scope = null;
     ident = "grpc";
     ldir  = "info/unscoped/g/grpc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "outpipe";
     ldir  = "info/unscoped/o/outpipe";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

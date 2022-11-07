@@ -16,7 +16,7 @@
     scope = "@nodelib";
     ident = "@nodelib/fs.walk";
     ldir  = "info/nodelib/fs.walk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

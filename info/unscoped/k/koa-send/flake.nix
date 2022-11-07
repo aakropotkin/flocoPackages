@@ -16,7 +16,7 @@
     scope = null;
     ident = "koa-send";
     ldir  = "info/unscoped/k/koa-send";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

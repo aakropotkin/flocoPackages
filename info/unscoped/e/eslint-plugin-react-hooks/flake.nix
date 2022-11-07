@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-plugin-react-hooks";
     ldir  = "info/unscoped/e/eslint-plugin-react-hooks";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

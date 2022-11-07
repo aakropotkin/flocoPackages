@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-import-resolver-node";
     ldir  = "info/unscoped/e/eslint-import-resolver-node";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

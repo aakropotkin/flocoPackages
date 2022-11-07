@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-gyp";
     ldir  = "info/unscoped/n/node-gyp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "vm2";
     ldir  = "info/unscoped/v/vm2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

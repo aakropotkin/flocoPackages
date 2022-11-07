@@ -16,7 +16,7 @@
     scope = null;
     ident = "redent";
     ldir  = "info/unscoped/r/redent";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

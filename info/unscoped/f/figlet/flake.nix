@@ -16,7 +16,7 @@
     scope = null;
     ident = "figlet";
     ldir  = "info/unscoped/f/figlet";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "forever-agent";
     ldir  = "info/unscoped/f/forever-agent";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

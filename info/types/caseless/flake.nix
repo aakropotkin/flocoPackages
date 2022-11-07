@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/caseless";
     ldir  = "info/types/caseless";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

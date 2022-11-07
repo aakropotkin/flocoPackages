@@ -16,7 +16,7 @@
     scope = null;
     ident = "crypto-random-string";
     ldir  = "info/unscoped/c/crypto-random-string";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "y-leveldb";
     ldir  = "info/unscoped/y/y-leveldb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

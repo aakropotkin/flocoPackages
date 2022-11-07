@@ -16,7 +16,7 @@
     scope = null;
     ident = "each-props";
     ldir  = "info/unscoped/e/each-props";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

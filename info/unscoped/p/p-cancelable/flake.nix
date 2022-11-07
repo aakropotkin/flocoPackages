@@ -16,7 +16,7 @@
     scope = null;
     ident = "p-cancelable";
     ldir  = "info/unscoped/p/p-cancelable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

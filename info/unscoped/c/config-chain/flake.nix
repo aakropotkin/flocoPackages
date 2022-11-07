@@ -16,7 +16,7 @@
     scope = null;
     ident = "config-chain";
     ldir  = "info/unscoped/c/config-chain";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

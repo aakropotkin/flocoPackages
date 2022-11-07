@@ -16,7 +16,7 @@
     scope = null;
     ident = "typescript";
     ldir  = "info/unscoped/t/typescript";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

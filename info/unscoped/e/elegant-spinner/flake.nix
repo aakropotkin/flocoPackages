@@ -16,7 +16,7 @@
     scope = null;
     ident = "elegant-spinner";
     ldir  = "info/unscoped/e/elegant-spinner";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

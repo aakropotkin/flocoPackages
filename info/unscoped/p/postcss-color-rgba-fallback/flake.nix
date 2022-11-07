@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-color-rgba-fallback";
     ldir  = "info/unscoped/p/postcss-color-rgba-fallback";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

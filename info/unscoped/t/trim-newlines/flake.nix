@@ -16,7 +16,7 @@
     scope = null;
     ident = "trim-newlines";
     ldir  = "info/unscoped/t/trim-newlines";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

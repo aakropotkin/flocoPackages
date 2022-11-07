@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-split-export-declaration";
     ldir  = "info/babel/helper-split-export-declaration";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

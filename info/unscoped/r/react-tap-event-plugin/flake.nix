@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-tap-event-plugin";
     ldir  = "info/unscoped/r/react-tap-event-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

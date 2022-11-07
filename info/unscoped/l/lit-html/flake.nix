@@ -16,7 +16,7 @@
     scope = null;
     ident = "lit-html";
     ldir  = "info/unscoped/l/lit-html";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

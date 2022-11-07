@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-color-hex-alpha";
     ldir  = "info/unscoped/p/postcss-color-hex-alpha";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

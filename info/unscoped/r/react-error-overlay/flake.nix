@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-error-overlay";
     ldir  = "info/unscoped/r/react-error-overlay";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

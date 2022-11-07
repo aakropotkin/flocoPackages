@@ -16,7 +16,7 @@
     scope = null;
     ident = "fixturify-project";
     ldir  = "info/unscoped/f/fixturify-project";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

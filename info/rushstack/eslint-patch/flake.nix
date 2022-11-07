@@ -16,7 +16,7 @@
     scope = "@rushstack";
     ident = "@rushstack/eslint-patch";
     ldir  = "info/rushstack/eslint-patch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.merge";
     ldir  = "info/unscoped/l/lodash.merge";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

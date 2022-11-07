@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-arrow-functions";
     ldir  = "info/babel/plugin-transform-arrow-functions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

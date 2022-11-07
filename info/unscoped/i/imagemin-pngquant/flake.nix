@@ -16,7 +16,7 @@
     scope = null;
     ident = "imagemin-pngquant";
     ldir  = "info/unscoped/i/imagemin-pngquant";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

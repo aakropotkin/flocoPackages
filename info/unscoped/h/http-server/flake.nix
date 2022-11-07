@@ -16,7 +16,7 @@
     scope = null;
     ident = "http-server";
     ldir  = "info/unscoped/h/http-server";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

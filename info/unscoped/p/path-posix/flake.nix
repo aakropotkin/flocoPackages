@@ -16,7 +16,7 @@
     scope = null;
     ident = "path-posix";
     ldir  = "info/unscoped/p/path-posix";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

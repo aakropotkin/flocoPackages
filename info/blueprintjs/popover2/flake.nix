@@ -16,7 +16,7 @@
     scope = "@blueprintjs";
     ident = "@blueprintjs/popover2";
     ldir  = "info/blueprintjs/popover2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "prettier-linter-helpers";
     ldir  = "info/unscoped/p/prettier-linter-helpers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

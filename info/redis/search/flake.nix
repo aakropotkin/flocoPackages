@@ -16,7 +16,7 @@
     scope = "@redis";
     ident = "@redis/search";
     ldir  = "info/redis/search";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

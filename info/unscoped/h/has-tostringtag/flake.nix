@@ -16,7 +16,7 @@
     scope = null;
     ident = "has-tostringtag";
     ldir  = "info/unscoped/h/has-tostringtag";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

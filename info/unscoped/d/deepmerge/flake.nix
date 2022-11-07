@@ -16,7 +16,7 @@
     scope = null;
     ident = "deepmerge";
     ldir  = "info/unscoped/d/deepmerge";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

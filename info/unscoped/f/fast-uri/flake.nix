@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-uri";
     ldir  = "info/unscoped/f/fast-uri";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

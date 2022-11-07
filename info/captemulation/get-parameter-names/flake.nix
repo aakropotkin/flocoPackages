@@ -16,7 +16,7 @@
     scope = "@captemulation";
     ident = "@captemulation/get-parameter-names";
     ldir  = "info/captemulation/get-parameter-names";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@sideway";
     ident = "@sideway/pinpoint";
     ldir  = "info/sideway/pinpoint";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

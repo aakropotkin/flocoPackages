@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-json-stringify";
     ldir  = "info/unscoped/f/fast-json-stringify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

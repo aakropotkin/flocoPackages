@@ -16,7 +16,7 @@
     scope = null;
     ident = "string.prototype.matchall";
     ldir  = "info/unscoped/s/string.prototype.matchall";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

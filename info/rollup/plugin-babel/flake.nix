@@ -16,7 +16,7 @@
     scope = "@rollup";
     ident = "@rollup/plugin-babel";
     ldir  = "info/rollup/plugin-babel";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

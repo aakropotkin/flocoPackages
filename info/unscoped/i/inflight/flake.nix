@@ -16,7 +16,7 @@
     scope = null;
     ident = "inflight";
     ldir  = "info/unscoped/i/inflight";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

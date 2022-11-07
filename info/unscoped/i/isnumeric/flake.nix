@@ -16,7 +16,7 @@
     scope = null;
     ident = "isnumeric";
     ldir  = "info/unscoped/i/isnumeric";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

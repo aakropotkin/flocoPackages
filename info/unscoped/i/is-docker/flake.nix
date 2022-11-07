@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-docker";
     ldir  = "info/unscoped/i/is-docker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

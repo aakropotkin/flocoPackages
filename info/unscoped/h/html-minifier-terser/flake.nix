@@ -16,7 +16,7 @@
     scope = null;
     ident = "html-minifier-terser";
     ldir  = "info/unscoped/h/html-minifier-terser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

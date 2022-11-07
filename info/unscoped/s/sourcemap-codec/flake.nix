@@ -16,7 +16,7 @@
     scope = null;
     ident = "sourcemap-codec";
     ldir  = "info/unscoped/s/sourcemap-codec";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

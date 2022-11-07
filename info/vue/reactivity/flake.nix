@@ -16,7 +16,7 @@
     scope = "@vue";
     ident = "@vue/reactivity";
     ldir  = "info/vue/reactivity";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

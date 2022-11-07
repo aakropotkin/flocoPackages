@@ -16,7 +16,7 @@
     scope = null;
     ident = "redux-saga";
     ldir  = "info/unscoped/r/redux-saga";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

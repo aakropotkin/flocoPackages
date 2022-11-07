@@ -16,7 +16,7 @@
     scope = "@formatjs";
     ident = "@formatjs/intl-listformat";
     ldir  = "info/formatjs/intl-listformat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

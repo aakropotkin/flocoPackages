@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-router-redux";
     ldir  = "info/unscoped/r/react-router-redux";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

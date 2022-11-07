@@ -16,7 +16,7 @@
     scope = null;
     ident = "coffee-script";
     ldir  = "info/unscoped/c/coffee-script";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

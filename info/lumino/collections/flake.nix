@@ -16,7 +16,7 @@
     scope = "@lumino";
     ident = "@lumino/collections";
     ldir  = "info/lumino/collections";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

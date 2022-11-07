@@ -16,7 +16,7 @@
     scope = null;
     ident = "merge-stream";
     ldir  = "info/unscoped/m/merge-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

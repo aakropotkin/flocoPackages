@@ -16,7 +16,7 @@
     scope = null;
     ident = "denodeify";
     ldir  = "info/unscoped/d/denodeify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

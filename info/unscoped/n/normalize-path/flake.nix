@@ -16,7 +16,7 @@
     scope = null;
     ident = "normalize-path";
     ldir  = "info/unscoped/n/normalize-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

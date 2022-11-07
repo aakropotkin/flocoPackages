@@ -16,7 +16,7 @@
     scope = null;
     ident = "clone-deep";
     ldir  = "info/unscoped/c/clone-deep";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

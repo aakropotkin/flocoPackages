@@ -16,7 +16,7 @@
     scope = null;
     ident = "tarn";
     ldir  = "info/unscoped/t/tarn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

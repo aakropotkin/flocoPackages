@@ -16,7 +16,7 @@
     scope = null;
     ident = "sanitize-html";
     ldir  = "info/unscoped/s/sanitize-html";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

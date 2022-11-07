@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-helper-replace-supers";
     ldir  = "info/unscoped/b/babel-helper-replace-supers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

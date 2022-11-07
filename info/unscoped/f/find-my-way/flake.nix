@@ -16,7 +16,7 @@
     scope = null;
     ident = "find-my-way";
     ldir  = "info/unscoped/f/find-my-way";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

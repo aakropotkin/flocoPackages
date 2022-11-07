@@ -16,7 +16,7 @@
     scope = null;
     ident = "bindings";
     ldir  = "info/unscoped/b/bindings";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-normalize-charset";
     ldir  = "info/unscoped/p/postcss-normalize-charset";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

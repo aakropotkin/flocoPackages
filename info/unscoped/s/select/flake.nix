@@ -16,7 +16,7 @@
     scope = null;
     ident = "select";
     ldir  = "info/unscoped/s/select";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

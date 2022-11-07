@@ -16,7 +16,7 @@
     scope = null;
     ident = "http-parser-js";
     ldir  = "info/unscoped/h/http-parser-js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

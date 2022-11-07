@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-menu";
     ldir  = "info/unscoped/r/rc-menu";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

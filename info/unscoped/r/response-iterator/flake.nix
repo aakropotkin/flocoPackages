@@ -16,7 +16,7 @@
     scope = null;
     ident = "response-iterator";
     ldir  = "info/unscoped/r/response-iterator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

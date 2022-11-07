@@ -16,7 +16,7 @@
     scope = null;
     ident = "untildify";
     ldir  = "info/unscoped/u/untildify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "ethjs-unit";
     ldir  = "info/unscoped/e/ethjs-unit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

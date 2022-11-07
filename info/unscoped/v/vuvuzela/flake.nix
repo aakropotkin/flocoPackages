@@ -16,7 +16,7 @@
     scope = null;
     ident = "vuvuzela";
     ldir  = "info/unscoped/v/vuvuzela";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

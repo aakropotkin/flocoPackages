@@ -16,7 +16,7 @@
     scope = null;
     ident = "tiny-relative-date";
     ldir  = "info/unscoped/t/tiny-relative-date";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

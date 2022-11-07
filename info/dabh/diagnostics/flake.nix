@@ -16,7 +16,7 @@
     scope = "@dabh";
     ident = "@dabh/diagnostics";
     ldir  = "info/dabh/diagnostics";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@angular";
     ident = "@angular/platform-browser-dynamic";
     ldir  = "info/angular/platform-browser-dynamic";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

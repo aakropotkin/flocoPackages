@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-replace-object-assign";
     ldir  = "info/unscoped/b/babel-plugin-transform-replace-object-assign";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

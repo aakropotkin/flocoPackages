@@ -16,7 +16,7 @@
     scope = null;
     ident = "degenerator";
     ldir  = "info/unscoped/d/degenerator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

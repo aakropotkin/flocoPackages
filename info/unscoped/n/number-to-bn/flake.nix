@@ -16,7 +16,7 @@
     scope = null;
     ident = "number-to-bn";
     ldir  = "info/unscoped/n/number-to-bn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

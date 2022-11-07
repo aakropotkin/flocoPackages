@@ -16,7 +16,7 @@
     scope = "@octokit";
     ident = "@octokit/plugin-paginate-rest";
     ldir  = "info/octokit/plugin-paginate-rest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-normalize-timing-functions";
     ldir  = "info/unscoped/p/postcss-normalize-timing-functions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

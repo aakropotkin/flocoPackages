@@ -16,7 +16,7 @@
     scope = null;
     ident = "adjust-sourcemap-loader";
     ldir  = "info/unscoped/a/adjust-sourcemap-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "crc32-stream";
     ldir  = "info/unscoped/c/crc32-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

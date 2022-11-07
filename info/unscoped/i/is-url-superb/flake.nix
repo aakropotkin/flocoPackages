@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-url-superb";
     ldir  = "info/unscoped/i/is-url-superb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

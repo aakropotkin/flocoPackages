@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-pick-manifest";
     ldir  = "info/unscoped/n/npm-pick-manifest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

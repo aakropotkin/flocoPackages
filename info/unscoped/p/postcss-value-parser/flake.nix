@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-value-parser";
     ldir  = "info/unscoped/p/postcss-value-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

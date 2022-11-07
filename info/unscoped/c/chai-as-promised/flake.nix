@@ -16,7 +16,7 @@
     scope = null;
     ident = "chai-as-promised";
     ldir  = "info/unscoped/c/chai-as-promised";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

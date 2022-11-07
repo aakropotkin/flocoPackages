@@ -16,7 +16,7 @@
     scope = "@serialport";
     ident = "@serialport/parser-cctalk";
     ldir  = "info/serialport/parser-cctalk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

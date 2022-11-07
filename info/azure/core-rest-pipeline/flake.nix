@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/core-rest-pipeline";
     ldir  = "info/azure/core-rest-pipeline";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "croner";
     ldir  = "info/unscoped/c/croner";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

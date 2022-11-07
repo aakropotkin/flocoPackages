@@ -16,7 +16,7 @@
     scope = null;
     ident = "registry-auth-token";
     ldir  = "info/unscoped/r/registry-auth-token";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

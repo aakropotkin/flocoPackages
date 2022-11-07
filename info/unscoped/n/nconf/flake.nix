@@ -16,7 +16,7 @@
     scope = null;
     ident = "nconf";
     ldir  = "info/unscoped/n/nconf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

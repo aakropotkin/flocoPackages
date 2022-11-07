@@ -16,7 +16,7 @@
     scope = null;
     ident = "es-array-method-boxes-properly";
     ldir  = "info/unscoped/e/es-array-method-boxes-properly";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

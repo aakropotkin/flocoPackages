@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-tabs";
     ldir  = "info/unscoped/r/rc-tabs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

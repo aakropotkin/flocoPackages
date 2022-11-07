@@ -16,7 +16,7 @@
     scope = null;
     ident = "which-typed-array";
     ldir  = "info/unscoped/w/which-typed-array";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

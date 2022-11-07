@@ -16,7 +16,7 @@
     scope = null;
     ident = "libnpmexec";
     ldir  = "info/unscoped/l/libnpmexec";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

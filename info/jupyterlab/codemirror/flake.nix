@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/codemirror";
     ldir  = "info/jupyterlab/codemirror";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

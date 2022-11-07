@@ -16,7 +16,7 @@
     scope = null;
     ident = "safe-regex-test";
     ldir  = "info/unscoped/s/safe-regex-test";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

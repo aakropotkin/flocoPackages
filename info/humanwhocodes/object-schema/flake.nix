@@ -16,7 +16,7 @@
     scope = "@humanwhocodes";
     ident = "@humanwhocodes/object-schema";
     ldir  = "info/humanwhocodes/object-schema";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

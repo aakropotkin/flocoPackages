@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/convert-colors";
     ldir  = "info/csstools/convert-colors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

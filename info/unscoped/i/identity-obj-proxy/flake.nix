@@ -16,7 +16,7 @@
     scope = null;
     ident = "identity-obj-proxy";
     ldir  = "info/unscoped/i/identity-obj-proxy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

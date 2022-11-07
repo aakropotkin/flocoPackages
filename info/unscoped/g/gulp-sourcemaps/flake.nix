@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-sourcemaps";
     ldir  = "info/unscoped/g/gulp-sourcemaps";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

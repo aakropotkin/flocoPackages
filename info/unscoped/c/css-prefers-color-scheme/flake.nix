@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-prefers-color-scheme";
     ldir  = "info/unscoped/c/css-prefers-color-scheme";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

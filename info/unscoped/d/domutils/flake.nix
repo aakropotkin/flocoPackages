@@ -16,7 +16,7 @@
     scope = null;
     ident = "domutils";
     ldir  = "info/unscoped/d/domutils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

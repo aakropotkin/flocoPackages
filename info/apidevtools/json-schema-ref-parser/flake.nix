@@ -16,7 +16,7 @@
     scope = "@apidevtools";
     ident = "@apidevtools/json-schema-ref-parser";
     ldir  = "info/apidevtools/json-schema-ref-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

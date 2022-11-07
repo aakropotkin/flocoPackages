@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-font-variant";
     ldir  = "info/unscoped/p/postcss-font-variant";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

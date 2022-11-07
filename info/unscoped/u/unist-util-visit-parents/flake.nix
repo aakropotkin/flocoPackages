@@ -16,7 +16,7 @@
     scope = null;
     ident = "unist-util-visit-parents";
     ldir  = "info/unscoped/u/unist-util-visit-parents";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

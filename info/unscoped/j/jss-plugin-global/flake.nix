@@ -16,7 +16,7 @@
     scope = null;
     ident = "jss-plugin-global";
     ldir  = "info/unscoped/j/jss-plugin-global";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "mdn-data";
     ldir  = "info/unscoped/m/mdn-data";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

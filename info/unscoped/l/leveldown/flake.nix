@@ -16,7 +16,7 @@
     scope = null;
     ident = "leveldown";
     ldir  = "info/unscoped/l/leveldown";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

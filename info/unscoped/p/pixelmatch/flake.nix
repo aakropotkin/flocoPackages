@@ -16,7 +16,7 @@
     scope = null;
     ident = "pixelmatch";
     ldir  = "info/unscoped/p/pixelmatch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

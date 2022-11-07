@@ -16,7 +16,7 @@
     scope = null;
     ident = "bootstrap";
     ldir  = "info/unscoped/b/bootstrap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

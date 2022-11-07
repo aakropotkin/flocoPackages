@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-native-codegen";
     ldir  = "info/unscoped/r/react-native-codegen";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

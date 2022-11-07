@@ -16,7 +16,7 @@
     scope = null;
     ident = "stoppable";
     ldir  = "info/unscoped/s/stoppable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "git-clone";
     ldir  = "info/unscoped/g/git-clone";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

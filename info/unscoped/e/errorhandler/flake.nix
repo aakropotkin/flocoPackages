@@ -16,7 +16,7 @@
     scope = null;
     ident = "errorhandler";
     ldir  = "info/unscoped/e/errorhandler";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

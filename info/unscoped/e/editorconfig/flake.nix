@@ -16,7 +16,7 @@
     scope = null;
     ident = "editorconfig";
     ldir  = "info/unscoped/e/editorconfig";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

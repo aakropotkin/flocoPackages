@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/performance-types";
     ldir  = "info/firebase/performance-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

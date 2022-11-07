@@ -16,7 +16,7 @@
     scope = null;
     ident = "length-sort";
     ldir  = "info/unscoped/l/length-sort";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

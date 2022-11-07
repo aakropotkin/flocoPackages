@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-es2015-for-of";
     ldir  = "info/unscoped/b/babel-plugin-transform-es2015-for-of";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

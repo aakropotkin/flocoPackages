@@ -16,7 +16,7 @@
     scope = null;
     ident = "flagged-respawn";
     ldir  = "info/unscoped/f/flagged-respawn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

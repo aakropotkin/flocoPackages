@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-validate";
     ldir  = "info/unscoped/j/jest-validate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

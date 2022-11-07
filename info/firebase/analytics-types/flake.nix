@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/analytics-types";
     ldir  = "info/firebase/analytics-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

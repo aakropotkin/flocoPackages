@@ -16,7 +16,7 @@
     scope = "@rc-component";
     ident = "@rc-component/portal";
     ldir  = "info/rc-component/portal";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

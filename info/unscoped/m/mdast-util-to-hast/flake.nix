@@ -16,7 +16,7 @@
     scope = null;
     ident = "mdast-util-to-hast";
     ldir  = "info/unscoped/m/mdast-util-to-hast";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

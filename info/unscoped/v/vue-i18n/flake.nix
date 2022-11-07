@@ -16,7 +16,7 @@
     scope = null;
     ident = "vue-i18n";
     ldir  = "info/unscoped/v/vue-i18n";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

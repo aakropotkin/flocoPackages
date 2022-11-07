@@ -16,7 +16,7 @@
     scope = "@redux-saga";
     ident = "@redux-saga/is";
     ldir  = "info/redux-saga/is";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

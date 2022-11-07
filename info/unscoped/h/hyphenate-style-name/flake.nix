@@ -16,7 +16,7 @@
     scope = null;
     ident = "hyphenate-style-name";
     ldir  = "info/unscoped/h/hyphenate-style-name";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

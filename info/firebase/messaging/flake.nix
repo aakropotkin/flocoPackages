@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/messaging";
     ldir  = "info/firebase/messaging";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

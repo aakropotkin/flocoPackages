@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-util-decode-numeric-character-reference";
     ldir  = "info/unscoped/m/micromark-util-decode-numeric-character-reference";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

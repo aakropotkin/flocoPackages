@@ -16,7 +16,7 @@
     scope = null;
     ident = "quill";
     ldir  = "info/unscoped/q/quill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

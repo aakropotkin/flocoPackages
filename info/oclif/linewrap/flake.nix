@@ -16,7 +16,7 @@
     scope = "@oclif";
     ident = "@oclif/linewrap";
     ldir  = "info/oclif/linewrap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

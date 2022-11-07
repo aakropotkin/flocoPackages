@@ -16,7 +16,7 @@
     scope = "@blueprintjs";
     ident = "@blueprintjs/colors";
     ldir  = "info/blueprintjs/colors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

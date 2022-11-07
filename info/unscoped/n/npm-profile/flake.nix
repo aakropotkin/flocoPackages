@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-profile";
     ldir  = "info/unscoped/n/npm-profile";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

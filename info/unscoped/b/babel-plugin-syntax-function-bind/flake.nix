@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-syntax-function-bind";
     ldir  = "info/unscoped/b/babel-plugin-syntax-function-bind";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

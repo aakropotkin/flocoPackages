@@ -16,7 +16,7 @@
     scope = null;
     ident = "netmask";
     ldir  = "info/unscoped/n/netmask";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

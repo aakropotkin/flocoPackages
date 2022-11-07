@@ -16,7 +16,7 @@
     scope = "@jest";
     ident = "@jest/expect-utils";
     ldir  = "info/jest/expect-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "nssocket";
     ldir  = "info/unscoped/n/nssocket";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "stealthy-require";
     ldir  = "info/unscoped/s/stealthy-require";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

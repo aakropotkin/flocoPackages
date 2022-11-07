@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-each";
     ldir  = "info/unscoped/j/jest-each";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

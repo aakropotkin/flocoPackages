@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/logger";
     ldir  = "info/azure/logger";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

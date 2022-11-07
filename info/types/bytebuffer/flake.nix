@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/bytebuffer";
     ldir  = "info/types/bytebuffer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

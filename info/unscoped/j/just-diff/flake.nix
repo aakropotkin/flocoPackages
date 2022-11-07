@@ -16,7 +16,7 @@
     scope = null;
     ident = "just-diff";
     ldir  = "info/unscoped/j/just-diff";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-plugin-flowtype";
     ldir  = "info/unscoped/e/eslint-plugin-flowtype";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

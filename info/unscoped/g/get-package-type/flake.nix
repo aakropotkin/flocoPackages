@@ -16,7 +16,7 @@
     scope = null;
     ident = "get-package-type";
     ldir  = "info/unscoped/g/get-package-type";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@multiformats";
     ident = "@multiformats/base-x";
     ldir  = "info/multiformats/base-x";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

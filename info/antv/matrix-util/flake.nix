@@ -16,7 +16,7 @@
     scope = "@antv";
     ident = "@antv/matrix-util";
     ldir  = "info/antv/matrix-util";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

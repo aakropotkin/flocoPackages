@@ -16,7 +16,7 @@
     scope = null;
     ident = "file-selector";
     ldir  = "info/unscoped/f/file-selector";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

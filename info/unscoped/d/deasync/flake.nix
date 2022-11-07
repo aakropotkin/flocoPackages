@@ -16,7 +16,7 @@
     scope = null;
     ident = "deasync";
     ldir  = "info/unscoped/d/deasync";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

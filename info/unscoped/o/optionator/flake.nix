@@ -16,7 +16,7 @@
     scope = null;
     ident = "optionator";
     ldir  = "info/unscoped/o/optionator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

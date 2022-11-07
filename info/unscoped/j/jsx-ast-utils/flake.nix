@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsx-ast-utils";
     ldir  = "info/unscoped/j/jsx-ast-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "resp-modifier";
     ldir  = "info/unscoped/r/resp-modifier";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

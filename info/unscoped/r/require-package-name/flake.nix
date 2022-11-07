@@ -16,7 +16,7 @@
     scope = null;
     ident = "require-package-name";
     ldir  = "info/unscoped/r/require-package-name";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

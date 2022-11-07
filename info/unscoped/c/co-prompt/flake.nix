@@ -16,7 +16,7 @@
     scope = null;
     ident = "co-prompt";
     ldir  = "info/unscoped/c/co-prompt";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

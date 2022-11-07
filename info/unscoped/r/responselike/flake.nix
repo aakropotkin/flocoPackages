@@ -16,7 +16,7 @@
     scope = null;
     ident = "responselike";
     ldir  = "info/unscoped/r/responselike";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

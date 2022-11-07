@@ -16,7 +16,7 @@
     scope = "@phosphor";
     ident = "@phosphor/signaling";
     ldir  = "info/phosphor/signaling";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

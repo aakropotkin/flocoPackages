@@ -16,7 +16,7 @@
     scope = null;
     ident = "ethereum-bloom-filters";
     ldir  = "info/unscoped/e/ethereum-bloom-filters";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "airbnb-prop-types";
     ldir  = "info/unscoped/a/airbnb-prop-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

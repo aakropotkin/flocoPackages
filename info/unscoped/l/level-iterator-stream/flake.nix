@@ -16,7 +16,7 @@
     scope = null;
     ident = "level-iterator-stream";
     ldir  = "info/unscoped/l/level-iterator-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

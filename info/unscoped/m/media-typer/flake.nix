@@ -16,7 +16,7 @@
     scope = null;
     ident = "media-typer";
     ldir  = "info/unscoped/m/media-typer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

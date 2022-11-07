@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-abort-controller";
     ldir  = "info/unscoped/n/node-abort-controller";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

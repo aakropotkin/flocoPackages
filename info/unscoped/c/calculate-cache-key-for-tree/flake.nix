@@ -16,7 +16,7 @@
     scope = null;
     ident = "calculate-cache-key-for-tree";
     ldir  = "info/unscoped/c/calculate-cache-key-for-tree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

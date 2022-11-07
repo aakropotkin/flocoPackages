@@ -16,7 +16,7 @@
     scope = null;
     ident = "semver-greatest-satisfied-range";
     ldir  = "info/unscoped/s/semver-greatest-satisfied-range";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

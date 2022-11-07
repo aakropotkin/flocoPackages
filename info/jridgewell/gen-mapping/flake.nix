@@ -16,7 +16,7 @@
     scope = "@jridgewell";
     ident = "@jridgewell/gen-mapping";
     ldir  = "info/jridgewell/gen-mapping";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

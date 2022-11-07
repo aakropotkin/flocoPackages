@@ -16,7 +16,7 @@
     scope = null;
     ident = "postgres-range";
     ldir  = "info/unscoped/p/postgres-range";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

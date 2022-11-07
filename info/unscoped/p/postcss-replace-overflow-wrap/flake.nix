@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-replace-overflow-wrap";
     ldir  = "info/unscoped/p/postcss-replace-overflow-wrap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

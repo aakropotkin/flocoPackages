@@ -16,7 +16,7 @@
     scope = null;
     ident = "stream-browserify";
     ldir  = "info/unscoped/s/stream-browserify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

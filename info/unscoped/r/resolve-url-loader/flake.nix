@@ -16,7 +16,7 @@
     scope = null;
     ident = "resolve-url-loader";
     ldir  = "info/unscoped/r/resolve-url-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

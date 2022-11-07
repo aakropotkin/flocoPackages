@@ -16,7 +16,7 @@
     scope = null;
     ident = "node.extend";
     ldir  = "info/unscoped/n/node.extend";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

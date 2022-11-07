@@ -16,7 +16,7 @@
     scope = null;
     ident = "ember-cli-babel";
     ldir  = "info/unscoped/e/ember-cli-babel";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "unique-filename";
     ldir  = "info/unscoped/u/unique-filename";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

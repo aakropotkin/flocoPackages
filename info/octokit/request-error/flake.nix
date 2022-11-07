@@ -16,7 +16,7 @@
     scope = "@octokit";
     ident = "@octokit/request-error";
     ldir  = "info/octokit/request-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

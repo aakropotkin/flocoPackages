@@ -16,7 +16,7 @@
     scope = null;
     ident = "async-foreach";
     ldir  = "info/unscoped/a/async-foreach";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "js-stringify";
     ldir  = "info/unscoped/j/js-stringify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

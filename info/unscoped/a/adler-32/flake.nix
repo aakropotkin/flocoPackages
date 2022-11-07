@@ -16,7 +16,7 @@
     scope = null;
     ident = "adler-32";
     ldir  = "info/unscoped/a/adler-32";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

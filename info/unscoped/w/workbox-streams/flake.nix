@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-streams";
     ldir  = "info/unscoped/w/workbox-streams";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

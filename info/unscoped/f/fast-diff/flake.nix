@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-diff";
     ldir  = "info/unscoped/f/fast-diff";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

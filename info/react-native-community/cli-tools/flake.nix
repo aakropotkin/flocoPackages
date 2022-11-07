@@ -16,7 +16,7 @@
     scope = "@react-native-community";
     ident = "@react-native-community/cli-tools";
     ldir  = "info/react-native-community/cli-tools";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

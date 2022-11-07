@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-istanbul";
     ldir  = "info/unscoped/b/babel-plugin-istanbul";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "xtend";
     ldir  = "info/unscoped/x/xtend";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

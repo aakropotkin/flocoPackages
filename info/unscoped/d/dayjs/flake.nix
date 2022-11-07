@@ -16,7 +16,7 @@
     scope = null;
     ident = "dayjs";
     ldir  = "info/unscoped/d/dayjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

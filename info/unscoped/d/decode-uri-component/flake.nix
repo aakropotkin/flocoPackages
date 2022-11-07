@@ -16,7 +16,7 @@
     scope = null;
     ident = "decode-uri-component";
     ldir  = "info/unscoped/d/decode-uri-component";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

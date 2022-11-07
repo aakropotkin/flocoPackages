@@ -16,7 +16,7 @@
     scope = null;
     ident = "detect-port-alt";
     ldir  = "info/unscoped/d/detect-port-alt";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

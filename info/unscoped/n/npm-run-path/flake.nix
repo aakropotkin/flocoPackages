@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-run-path";
     ldir  = "info/unscoped/n/npm-run-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

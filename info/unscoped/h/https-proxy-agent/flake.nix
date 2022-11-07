@@ -16,7 +16,7 @@
     scope = null;
     ident = "https-proxy-agent";
     ldir  = "info/unscoped/h/https-proxy-agent";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

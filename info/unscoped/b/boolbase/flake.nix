@@ -16,7 +16,7 @@
     scope = null;
     ident = "boolbase";
     ldir  = "info/unscoped/b/boolbase";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "color-string";
     ldir  = "info/unscoped/c/color-string";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

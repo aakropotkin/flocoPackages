@@ -16,7 +16,7 @@
     scope = null;
     ident = "firebase";
     ldir  = "info/unscoped/f/firebase";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "sinon-chai";
     ldir  = "info/unscoped/s/sinon-chai";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

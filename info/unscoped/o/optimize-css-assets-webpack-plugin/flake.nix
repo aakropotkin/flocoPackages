@@ -16,7 +16,7 @@
     scope = null;
     ident = "optimize-css-assets-webpack-plugin";
     ldir  = "info/unscoped/o/optimize-css-assets-webpack-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

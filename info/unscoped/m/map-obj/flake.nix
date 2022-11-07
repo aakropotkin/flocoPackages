@@ -16,7 +16,7 @@
     scope = null;
     ident = "map-obj";
     ldir  = "info/unscoped/m/map-obj";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

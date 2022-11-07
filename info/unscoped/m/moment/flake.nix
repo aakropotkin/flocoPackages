@@ -16,7 +16,7 @@
     scope = null;
     ident = "moment";
     ldir  = "info/unscoped/m/moment";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

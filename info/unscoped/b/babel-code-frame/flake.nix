@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-code-frame";
     ldir  = "info/unscoped/b/babel-code-frame";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

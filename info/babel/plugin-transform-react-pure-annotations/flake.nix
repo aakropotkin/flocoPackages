@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-react-pure-annotations";
     ldir  = "info/babel/plugin-transform-react-pure-annotations";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

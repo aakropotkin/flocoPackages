@@ -16,7 +16,7 @@
     scope = null;
     ident = "deferred-leveldown";
     ldir  = "info/unscoped/d/deferred-leveldown";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

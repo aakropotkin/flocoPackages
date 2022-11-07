@@ -16,7 +16,7 @@
     scope = null;
     ident = "mdurl";
     ldir  = "info/unscoped/m/mdurl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

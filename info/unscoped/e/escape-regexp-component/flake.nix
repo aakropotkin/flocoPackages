@@ -16,7 +16,7 @@
     scope = null;
     ident = "escape-regexp-component";
     ldir  = "info/unscoped/e/escape-regexp-component";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

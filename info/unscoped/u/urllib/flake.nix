@@ -16,7 +16,7 @@
     scope = null;
     ident = "urllib";
     ldir  = "info/unscoped/u/urllib";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

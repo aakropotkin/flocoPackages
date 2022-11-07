@@ -16,7 +16,7 @@
     scope = null;
     ident = "json-stable-stringify";
     ldir  = "info/unscoped/j/json-stable-stringify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs-updater";
     ldir  = "info/unscoped/f/fs-updater";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

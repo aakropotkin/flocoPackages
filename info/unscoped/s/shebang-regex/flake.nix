@@ -16,7 +16,7 @@
     scope = null;
     ident = "shebang-regex";
     ldir  = "info/unscoped/s/shebang-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "env-paths";
     ldir  = "info/unscoped/e/env-paths";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

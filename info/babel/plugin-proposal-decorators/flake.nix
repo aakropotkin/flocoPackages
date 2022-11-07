@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-proposal-decorators";
     ldir  = "info/babel/plugin-proposal-decorators";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

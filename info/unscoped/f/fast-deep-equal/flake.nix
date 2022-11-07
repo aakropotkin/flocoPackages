@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-deep-equal";
     ldir  = "info/unscoped/f/fast-deep-equal";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

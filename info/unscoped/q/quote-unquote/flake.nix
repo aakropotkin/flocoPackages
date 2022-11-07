@@ -16,7 +16,7 @@
     scope = null;
     ident = "quote-unquote";
     ldir  = "info/unscoped/q/quote-unquote";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

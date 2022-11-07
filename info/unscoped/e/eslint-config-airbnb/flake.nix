@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-config-airbnb";
     ldir  = "info/unscoped/e/eslint-config-airbnb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "keypress";
     ldir  = "info/unscoped/k/keypress";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

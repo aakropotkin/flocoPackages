@@ -16,7 +16,7 @@
     scope = null;
     ident = "quick-temp";
     ldir  = "info/unscoped/q/quick-temp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/concat-stream";
     ldir  = "info/types/concat-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

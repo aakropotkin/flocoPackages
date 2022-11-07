@@ -16,7 +16,7 @@
     scope = null;
     ident = "call-bind";
     ldir  = "info/unscoped/c/call-bind";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

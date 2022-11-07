@@ -16,7 +16,7 @@
     scope = null;
     ident = "jss-plugin-camel-case";
     ldir  = "info/unscoped/j/jss-plugin-camel-case";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

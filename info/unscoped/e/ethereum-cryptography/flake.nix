@@ -16,7 +16,7 @@
     scope = null;
     ident = "ethereum-cryptography";
     ldir  = "info/unscoped/e/ethereum-cryptography";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

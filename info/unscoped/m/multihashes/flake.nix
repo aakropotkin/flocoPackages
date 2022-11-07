@@ -16,7 +16,7 @@
     scope = null;
     ident = "multihashes";
     ldir  = "info/unscoped/m/multihashes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "jscodeshift";
     ldir  = "info/unscoped/j/jscodeshift";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

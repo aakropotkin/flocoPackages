@@ -16,7 +16,7 @@
     scope = "@webcomponents";
     ident = "@webcomponents/shadycss";
     ldir  = "info/webcomponents/shadycss";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

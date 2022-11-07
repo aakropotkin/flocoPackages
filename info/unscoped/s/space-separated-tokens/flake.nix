@@ -16,7 +16,7 @@
     scope = null;
     ident = "space-separated-tokens";
     ldir  = "info/unscoped/s/space-separated-tokens";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

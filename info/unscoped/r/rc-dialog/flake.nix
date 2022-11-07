@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-dialog";
     ldir  = "info/unscoped/r/rc-dialog";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

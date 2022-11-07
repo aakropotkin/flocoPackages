@@ -16,7 +16,7 @@
     scope = null;
     ident = "free-style";
     ldir  = "info/unscoped/f/free-style";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

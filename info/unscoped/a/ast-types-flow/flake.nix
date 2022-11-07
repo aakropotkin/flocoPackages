@@ -16,7 +16,7 @@
     scope = null;
     ident = "ast-types-flow";
     ldir  = "info/unscoped/a/ast-types-flow";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

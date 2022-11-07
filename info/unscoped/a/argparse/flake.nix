@@ -16,7 +16,7 @@
     scope = null;
     ident = "argparse";
     ldir  = "info/unscoped/a/argparse";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

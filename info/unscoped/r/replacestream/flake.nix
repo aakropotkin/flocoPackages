@@ -16,7 +16,7 @@
     scope = null;
     ident = "replacestream";
     ldir  = "info/unscoped/r/replacestream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

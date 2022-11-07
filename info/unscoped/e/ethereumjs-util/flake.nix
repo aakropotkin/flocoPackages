@@ -16,7 +16,7 @@
     scope = null;
     ident = "ethereumjs-util";
     ldir  = "info/unscoped/e/ethereumjs-util";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

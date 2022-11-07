@@ -16,7 +16,7 @@
     scope = null;
     ident = "child_process";
     ldir  = "info/unscoped/c/child_process";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

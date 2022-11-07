@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-transition-group";
     ldir  = "info/unscoped/r/react-transition-group";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-resize-observer";
     ldir  = "info/unscoped/r/rc-resize-observer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

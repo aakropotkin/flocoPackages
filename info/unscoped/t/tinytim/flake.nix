@@ -16,7 +16,7 @@
     scope = null;
     ident = "tinytim";
     ldir  = "info/unscoped/t/tinytim";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

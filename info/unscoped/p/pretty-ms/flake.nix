@@ -16,7 +16,7 @@
     scope = null;
     ident = "pretty-ms";
     ldir  = "info/unscoped/p/pretty-ms";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

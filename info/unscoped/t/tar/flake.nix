@@ -16,7 +16,7 @@
     scope = null;
     ident = "tar";
     ldir  = "info/unscoped/t/tar";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

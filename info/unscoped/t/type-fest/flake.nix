@@ -16,7 +16,7 @@
     scope = null;
     ident = "type-fest";
     ldir  = "info/unscoped/t/type-fest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

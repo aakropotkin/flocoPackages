@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-shorthand-properties";
     ldir  = "info/babel/plugin-transform-shorthand-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

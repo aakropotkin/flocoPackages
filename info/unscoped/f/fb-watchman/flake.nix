@@ -16,7 +16,7 @@
     scope = null;
     ident = "fb-watchman";
     ldir  = "info/unscoped/f/fb-watchman";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

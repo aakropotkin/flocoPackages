@@ -16,7 +16,7 @@
     scope = "@vue";
     ident = "@vue/shared";
     ldir  = "info/vue/shared";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

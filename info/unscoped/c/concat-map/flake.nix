@@ -16,7 +16,7 @@
     scope = null;
     ident = "concat-map";
     ldir  = "info/unscoped/c/concat-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

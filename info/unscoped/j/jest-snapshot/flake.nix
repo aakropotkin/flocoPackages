@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-snapshot";
     ldir  = "info/unscoped/j/jest-snapshot";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

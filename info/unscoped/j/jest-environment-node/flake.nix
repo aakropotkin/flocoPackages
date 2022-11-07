@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-environment-node";
     ldir  = "info/unscoped/j/jest-environment-node";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

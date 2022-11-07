@@ -16,7 +16,7 @@
     scope = null;
     ident = "koa-compose";
     ldir  = "info/unscoped/k/koa-compose";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

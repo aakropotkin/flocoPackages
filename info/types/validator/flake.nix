@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/validator";
     ldir  = "info/types/validator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

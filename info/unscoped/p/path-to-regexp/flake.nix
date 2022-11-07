@@ -16,7 +16,7 @@
     scope = null;
     ident = "path-to-regexp";
     ldir  = "info/unscoped/p/path-to-regexp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

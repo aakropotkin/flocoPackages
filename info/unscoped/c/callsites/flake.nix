@@ -16,7 +16,7 @@
     scope = null;
     ident = "callsites";
     ldir  = "info/unscoped/c/callsites";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

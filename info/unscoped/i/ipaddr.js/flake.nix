@@ -16,7 +16,7 @@
     scope = null;
     ident = "ipaddr.js";
     ldir  = "info/unscoped/i/ipaddr.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

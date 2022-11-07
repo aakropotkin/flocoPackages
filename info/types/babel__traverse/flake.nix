@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/babel__traverse";
     ldir  = "info/types/babel__traverse";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

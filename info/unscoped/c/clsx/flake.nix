@@ -16,7 +16,7 @@
     scope = null;
     ident = "clsx";
     ldir  = "info/unscoped/c/clsx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

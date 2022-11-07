@@ -16,7 +16,7 @@
     scope = null;
     ident = "unbzip2-stream";
     ldir  = "info/unscoped/u/unbzip2-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

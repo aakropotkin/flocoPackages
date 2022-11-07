@@ -16,7 +16,7 @@
     scope = null;
     ident = "get-func-name";
     ldir  = "info/unscoped/g/get-func-name";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "ansicolors";
     ldir  = "info/unscoped/a/ansicolors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

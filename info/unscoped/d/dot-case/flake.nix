@@ -16,7 +16,7 @@
     scope = null;
     ident = "dot-case";
     ldir  = "info/unscoped/d/dot-case";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

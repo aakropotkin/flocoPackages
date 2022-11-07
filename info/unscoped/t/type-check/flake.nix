@@ -16,7 +16,7 @@
     scope = null;
     ident = "type-check";
     ldir  = "info/unscoped/t/type-check";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

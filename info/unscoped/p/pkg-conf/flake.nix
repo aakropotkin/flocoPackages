@@ -16,7 +16,7 @@
     scope = null;
     ident = "pkg-conf";
     ldir  = "info/unscoped/p/pkg-conf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

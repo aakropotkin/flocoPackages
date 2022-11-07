@@ -16,7 +16,7 @@
     scope = null;
     ident = "external-editor";
     ldir  = "info/unscoped/e/external-editor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

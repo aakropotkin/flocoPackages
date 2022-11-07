@@ -16,7 +16,7 @@
     scope = null;
     ident = "preferred-pm";
     ldir  = "info/unscoped/p/preferred-pm";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

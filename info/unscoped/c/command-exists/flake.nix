@@ -16,7 +16,7 @@
     scope = null;
     ident = "command-exists";
     ldir  = "info/unscoped/c/command-exists";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

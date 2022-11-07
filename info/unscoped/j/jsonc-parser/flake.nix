@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsonc-parser";
     ldir  = "info/unscoped/j/jsonc-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

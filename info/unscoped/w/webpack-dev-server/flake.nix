@@ -16,7 +16,7 @@
     scope = null;
     ident = "webpack-dev-server";
     ldir  = "info/unscoped/w/webpack-dev-server";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

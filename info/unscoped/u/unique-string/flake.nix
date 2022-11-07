@@ -16,7 +16,7 @@
     scope = null;
     ident = "unique-string";
     ldir  = "info/unscoped/u/unique-string";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

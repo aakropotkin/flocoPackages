@@ -16,7 +16,7 @@
     scope = null;
     ident = "whatwg-encoding";
     ldir  = "info/unscoped/w/whatwg-encoding";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

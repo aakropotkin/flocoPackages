@@ -16,7 +16,7 @@
     scope = null;
     ident = "graceful-fs";
     ldir  = "info/unscoped/g/graceful-fs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

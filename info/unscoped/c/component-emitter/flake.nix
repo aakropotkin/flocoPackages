@@ -16,7 +16,7 @@
     scope = null;
     ident = "component-emitter";
     ldir  = "info/unscoped/c/component-emitter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

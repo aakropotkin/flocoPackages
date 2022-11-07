@@ -16,7 +16,7 @@
     scope = null;
     ident = "vinyl-source-stream";
     ldir  = "info/unscoped/v/vinyl-source-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

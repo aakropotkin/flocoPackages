@@ -16,7 +16,7 @@
     scope = null;
     ident = "pg-connection-string";
     ldir  = "info/unscoped/p/pg-connection-string";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "vue-class-component";
     ldir  = "info/unscoped/v/vue-class-component";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

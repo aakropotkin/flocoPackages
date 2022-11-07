@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-textarea";
     ldir  = "info/unscoped/r/rc-textarea";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

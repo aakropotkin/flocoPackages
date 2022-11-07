@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-dynamic-import-node";
     ldir  = "info/unscoped/b/babel-plugin-dynamic-import-node";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/selector-specificity";
     ldir  = "info/csstools/selector-specificity";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

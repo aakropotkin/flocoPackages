@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/cordova";
     ldir  = "info/types/cordova";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

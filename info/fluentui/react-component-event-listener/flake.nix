@@ -16,7 +16,7 @@
     scope = "@fluentui";
     ident = "@fluentui/react-component-event-listener";
     ldir  = "info/fluentui/react-component-event-listener";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

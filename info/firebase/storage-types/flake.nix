@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/storage-types";
     ldir  = "info/firebase/storage-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

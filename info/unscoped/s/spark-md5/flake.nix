@@ -16,7 +16,7 @@
     scope = null;
     ident = "spark-md5";
     ldir  = "info/unscoped/s/spark-md5";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

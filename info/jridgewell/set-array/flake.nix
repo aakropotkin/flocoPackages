@@ -16,7 +16,7 @@
     scope = "@jridgewell";
     ident = "@jridgewell/set-array";
     ldir  = "info/jridgewell/set-array";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

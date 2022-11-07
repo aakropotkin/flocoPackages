@@ -16,7 +16,7 @@
     scope = null;
     ident = "prop-types-exact";
     ldir  = "info/unscoped/p/prop-types-exact";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

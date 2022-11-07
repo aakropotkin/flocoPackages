@@ -16,7 +16,7 @@
     scope = null;
     ident = "end-stream";
     ldir  = "info/unscoped/e/end-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

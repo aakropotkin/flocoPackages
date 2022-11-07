@@ -16,7 +16,7 @@
     scope = null;
     ident = "builtins";
     ldir  = "info/unscoped/b/builtins";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

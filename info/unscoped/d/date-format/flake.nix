@@ -16,7 +16,7 @@
     scope = null;
     ident = "date-format";
     ldir  = "info/unscoped/d/date-format";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

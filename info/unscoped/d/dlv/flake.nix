@@ -16,7 +16,7 @@
     scope = null;
     ident = "dlv";
     ldir  = "info/unscoped/d/dlv";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

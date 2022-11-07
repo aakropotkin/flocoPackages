@@ -16,7 +16,7 @@
     scope = null;
     ident = "has-flag";
     ldir  = "info/unscoped/h/has-flag";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-react-jsx";
     ldir  = "info/unscoped/b/babel-plugin-transform-react-jsx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

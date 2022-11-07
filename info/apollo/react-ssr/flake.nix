@@ -16,7 +16,7 @@
     scope = "@apollo";
     ident = "@apollo/react-ssr";
     ldir  = "info/apollo/react-ssr";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

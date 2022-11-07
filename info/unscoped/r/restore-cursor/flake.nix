@@ -16,7 +16,7 @@
     scope = null;
     ident = "restore-cursor";
     ldir  = "info/unscoped/r/restore-cursor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

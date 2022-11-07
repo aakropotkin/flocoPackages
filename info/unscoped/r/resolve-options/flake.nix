@@ -16,7 +16,7 @@
     scope = null;
     ident = "resolve-options";
     ldir  = "info/unscoped/r/resolve-options";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

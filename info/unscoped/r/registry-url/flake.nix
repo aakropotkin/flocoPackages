@@ -16,7 +16,7 @@
     scope = null;
     ident = "registry-url";
     ldir  = "info/unscoped/r/registry-url";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

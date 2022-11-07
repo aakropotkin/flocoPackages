@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-packlist";
     ldir  = "info/unscoped/n/npm-packlist";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

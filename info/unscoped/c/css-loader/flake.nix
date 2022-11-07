@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-loader";
     ldir  = "info/unscoped/c/css-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

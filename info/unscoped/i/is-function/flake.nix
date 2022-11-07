@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-function";
     ldir  = "info/unscoped/i/is-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

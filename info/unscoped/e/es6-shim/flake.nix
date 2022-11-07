@@ -16,7 +16,7 @@
     scope = null;
     ident = "es6-shim";
     ldir  = "info/unscoped/e/es6-shim";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

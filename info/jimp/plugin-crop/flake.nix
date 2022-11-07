@@ -16,7 +16,7 @@
     scope = "@jimp";
     ident = "@jimp/plugin-crop";
     ldir  = "info/jimp/plugin-crop";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

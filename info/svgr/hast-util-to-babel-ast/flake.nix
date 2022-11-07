@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/hast-util-to-babel-ast";
     ldir  = "info/svgr/hast-util-to-babel-ast";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

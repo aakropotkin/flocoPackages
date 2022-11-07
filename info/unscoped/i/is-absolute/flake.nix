@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-absolute";
     ldir  = "info/unscoped/i/is-absolute";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

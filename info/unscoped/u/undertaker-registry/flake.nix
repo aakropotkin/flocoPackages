@@ -16,7 +16,7 @@
     scope = null;
     ident = "undertaker-registry";
     ldir  = "info/unscoped/u/undertaker-registry";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

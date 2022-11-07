@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.debounce";
     ldir  = "info/unscoped/l/lodash.debounce";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

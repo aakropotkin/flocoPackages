@@ -16,7 +16,7 @@
     scope = null;
     ident = "subarg";
     ldir  = "info/unscoped/s/subarg";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

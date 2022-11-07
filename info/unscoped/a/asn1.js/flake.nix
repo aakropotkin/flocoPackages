@@ -16,7 +16,7 @@
     scope = null;
     ident = "asn1.js";
     ldir  = "info/unscoped/a/asn1.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

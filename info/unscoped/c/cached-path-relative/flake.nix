@@ -16,7 +16,7 @@
     scope = null;
     ident = "cached-path-relative";
     ldir  = "info/unscoped/c/cached-path-relative";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

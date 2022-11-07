@@ -16,7 +16,7 @@
     scope = null;
     ident = "get-stdin";
     ldir  = "info/unscoped/g/get-stdin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

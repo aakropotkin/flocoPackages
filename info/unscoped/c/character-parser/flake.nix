@@ -16,7 +16,7 @@
     scope = null;
     ident = "character-parser";
     ldir  = "info/unscoped/c/character-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

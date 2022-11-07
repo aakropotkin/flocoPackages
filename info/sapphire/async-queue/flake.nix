@@ -16,7 +16,7 @@
     scope = "@sapphire";
     ident = "@sapphire/async-queue";
     ldir  = "info/sapphire/async-queue";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

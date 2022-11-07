@@ -16,7 +16,7 @@
     scope = null;
     ident = "toposort-class";
     ldir  = "info/unscoped/t/toposort-class";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

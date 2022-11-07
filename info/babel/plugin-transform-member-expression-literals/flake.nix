@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-member-expression-literals";
     ldir  = "info/babel/plugin-transform-member-expression-literals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

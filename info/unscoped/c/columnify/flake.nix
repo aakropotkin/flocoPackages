@@ -16,7 +16,7 @@
     scope = null;
     ident = "columnify";
     ldir  = "info/unscoped/c/columnify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

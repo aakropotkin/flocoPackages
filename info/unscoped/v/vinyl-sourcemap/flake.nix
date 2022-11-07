@@ -16,7 +16,7 @@
     scope = null;
     ident = "vinyl-sourcemap";
     ldir  = "info/unscoped/v/vinyl-sourcemap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

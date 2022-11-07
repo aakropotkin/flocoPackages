@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-select";
     ldir  = "info/unscoped/c/css-select";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

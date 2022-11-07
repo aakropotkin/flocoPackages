@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-import-meta";
     ldir  = "info/babel/plugin-syntax-import-meta";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

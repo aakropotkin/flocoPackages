@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-xml-parser";
     ldir  = "info/unscoped/f/fast-xml-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

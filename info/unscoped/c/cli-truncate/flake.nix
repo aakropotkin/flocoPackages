@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-truncate";
     ldir  = "info/unscoped/c/cli-truncate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

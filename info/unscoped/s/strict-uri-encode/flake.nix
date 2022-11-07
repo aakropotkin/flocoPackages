@@ -16,7 +16,7 @@
     scope = null;
     ident = "strict-uri-encode";
     ldir  = "info/unscoped/s/strict-uri-encode";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

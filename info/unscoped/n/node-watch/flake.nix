@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-watch";
     ldir  = "info/unscoped/n/node-watch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

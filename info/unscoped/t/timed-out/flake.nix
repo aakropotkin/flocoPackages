@@ -16,7 +16,7 @@
     scope = null;
     ident = "timed-out";
     ldir  = "info/unscoped/t/timed-out";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "request-promise-native";
     ldir  = "info/unscoped/r/request-promise-native";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

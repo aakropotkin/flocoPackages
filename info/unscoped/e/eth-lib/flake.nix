@@ -16,7 +16,7 @@
     scope = null;
     ident = "eth-lib";
     ldir  = "info/unscoped/e/eth-lib";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

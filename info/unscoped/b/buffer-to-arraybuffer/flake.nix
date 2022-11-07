@@ -16,7 +16,7 @@
     scope = null;
     ident = "buffer-to-arraybuffer";
     ldir  = "info/unscoped/b/buffer-to-arraybuffer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "emitter-listener";
     ldir  = "info/unscoped/e/emitter-listener";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@octokit";
     ident = "@octokit/types";
     ldir  = "info/octokit/types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

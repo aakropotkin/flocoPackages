@@ -16,7 +16,7 @@
     scope = "@react-native";
     ident = "@react-native/polyfills";
     ldir  = "info/react-native/polyfills";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

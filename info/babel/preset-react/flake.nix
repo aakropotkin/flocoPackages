@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/preset-react";
     ldir  = "info/babel/preset-react";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

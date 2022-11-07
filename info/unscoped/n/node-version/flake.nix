@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-version";
     ldir  = "info/unscoped/n/node-version";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

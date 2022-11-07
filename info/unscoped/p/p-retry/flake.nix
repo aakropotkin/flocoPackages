@@ -16,7 +16,7 @@
     scope = null;
     ident = "p-retry";
     ldir  = "info/unscoped/p/p-retry";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

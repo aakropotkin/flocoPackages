@@ -16,7 +16,7 @@
     scope = null;
     ident = "ts-mixer";
     ldir  = "info/unscoped/t/ts-mixer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

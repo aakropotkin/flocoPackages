@@ -16,7 +16,7 @@
     scope = null;
     ident = "rgb";
     ldir  = "info/unscoped/r/rgb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "buffer-crc32";
     ldir  = "info/unscoped/b/buffer-crc32";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

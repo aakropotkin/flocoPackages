@@ -16,7 +16,7 @@
     scope = null;
     ident = "element-resize-detector";
     ldir  = "info/unscoped/e/element-resize-detector";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

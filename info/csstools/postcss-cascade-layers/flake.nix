@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-cascade-layers";
     ldir  = "info/csstools/postcss-cascade-layers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

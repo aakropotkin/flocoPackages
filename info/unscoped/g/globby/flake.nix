@@ -16,7 +16,7 @@
     scope = null;
     ident = "globby";
     ldir  = "info/unscoped/g/globby";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

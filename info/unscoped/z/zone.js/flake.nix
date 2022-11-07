@@ -16,7 +16,7 @@
     scope = null;
     ident = "zone.js";
     ldir  = "info/unscoped/z/zone.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

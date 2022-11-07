@@ -16,7 +16,7 @@
     scope = null;
     ident = "next-tick";
     ldir  = "info/unscoped/n/next-tick";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

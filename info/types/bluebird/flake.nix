@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/bluebird";
     ldir  = "info/types/bluebird";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

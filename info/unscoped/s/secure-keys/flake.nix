@@ -16,7 +16,7 @@
     scope = null;
     ident = "secure-keys";
     ldir  = "info/unscoped/s/secure-keys";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

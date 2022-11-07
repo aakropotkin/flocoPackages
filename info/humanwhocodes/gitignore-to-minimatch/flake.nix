@@ -16,7 +16,7 @@
     scope = "@humanwhocodes";
     ident = "@humanwhocodes/gitignore-to-minimatch";
     ldir  = "info/humanwhocodes/gitignore-to-minimatch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

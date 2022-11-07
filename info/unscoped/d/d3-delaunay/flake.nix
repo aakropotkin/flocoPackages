@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-delaunay";
     ldir  = "info/unscoped/d/d3-delaunay";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

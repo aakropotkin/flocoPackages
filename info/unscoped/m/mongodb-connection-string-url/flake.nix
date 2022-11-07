@@ -16,7 +16,7 @@
     scope = null;
     ident = "mongodb-connection-string-url";
     ldir  = "info/unscoped/m/mongodb-connection-string-url";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

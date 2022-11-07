@@ -16,7 +16,7 @@
     scope = null;
     ident = "sparse-bitfield";
     ldir  = "info/unscoped/s/sparse-bitfield";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

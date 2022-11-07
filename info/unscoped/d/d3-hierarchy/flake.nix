@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-hierarchy";
     ldir  = "info/unscoped/d/d3-hierarchy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

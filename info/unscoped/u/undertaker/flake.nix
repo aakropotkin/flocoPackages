@@ -16,7 +16,7 @@
     scope = null;
     ident = "undertaker";
     ldir  = "info/unscoped/u/undertaker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

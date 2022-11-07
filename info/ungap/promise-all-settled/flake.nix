@@ -16,7 +16,7 @@
     scope = "@ungap";
     ident = "@ungap/promise-all-settled";
     ldir  = "info/ungap/promise-all-settled";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

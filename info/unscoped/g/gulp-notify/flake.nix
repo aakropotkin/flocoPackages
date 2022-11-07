@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-notify";
     ldir  = "info/unscoped/g/gulp-notify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

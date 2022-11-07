@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-postcss";
     ldir  = "info/unscoped/g/gulp-postcss";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

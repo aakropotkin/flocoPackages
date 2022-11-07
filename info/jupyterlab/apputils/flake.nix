@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/apputils";
     ldir  = "info/jupyterlab/apputils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

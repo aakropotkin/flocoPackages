@@ -16,7 +16,7 @@
     scope = null;
     ident = "define-lazy-prop";
     ldir  = "info/unscoped/d/define-lazy-prop";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

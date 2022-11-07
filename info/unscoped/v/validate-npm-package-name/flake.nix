@@ -16,7 +16,7 @@
     scope = null;
     ident = "validate-npm-package-name";
     ldir  = "info/unscoped/v/validate-npm-package-name";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

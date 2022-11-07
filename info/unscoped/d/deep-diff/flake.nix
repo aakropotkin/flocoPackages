@@ -16,7 +16,7 @@
     scope = null;
     ident = "deep-diff";
     ldir  = "info/unscoped/d/deep-diff";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

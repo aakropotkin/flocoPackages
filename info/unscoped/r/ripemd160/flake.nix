@@ -16,7 +16,7 @@
     scope = null;
     ident = "ripemd160";
     ldir  = "info/unscoped/r/ripemd160";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

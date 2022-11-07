@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-decorators";
     ldir  = "info/unscoped/b/babel-plugin-transform-decorators";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

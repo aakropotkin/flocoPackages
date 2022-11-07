@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-walk";
     ldir  = "info/unscoped/b/babel-walk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

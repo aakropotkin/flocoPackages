@@ -16,7 +16,7 @@
     scope = null;
     ident = "webpack-node-externals";
     ldir  = "info/unscoped/w/webpack-node-externals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

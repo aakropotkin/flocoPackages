@@ -16,7 +16,7 @@
     scope = null;
     ident = "webpack-sources";
     ldir  = "info/unscoped/w/webpack-sources";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

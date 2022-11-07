@@ -16,7 +16,7 @@
     scope = null;
     ident = "reduce-reducers";
     ldir  = "info/unscoped/r/reduce-reducers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "prettier";
     ldir  = "info/unscoped/p/prettier";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

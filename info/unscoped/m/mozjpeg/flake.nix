@@ -16,7 +16,7 @@
     scope = null;
     ident = "mozjpeg";
     ldir  = "info/unscoped/m/mozjpeg";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

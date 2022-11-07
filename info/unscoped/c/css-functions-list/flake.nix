@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-functions-list";
     ldir  = "info/unscoped/c/css-functions-list";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

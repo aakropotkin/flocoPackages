@@ -16,7 +16,7 @@
     scope = null;
     ident = "listr-verbose-renderer";
     ldir  = "info/unscoped/l/listr-verbose-renderer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

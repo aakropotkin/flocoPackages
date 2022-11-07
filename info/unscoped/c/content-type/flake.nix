@@ -16,7 +16,7 @@
     scope = null;
     ident = "content-type";
     ldir  = "info/unscoped/c/content-type";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

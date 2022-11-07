@@ -16,7 +16,7 @@
     scope = null;
     ident = "ensure-posix-path";
     ldir  = "info/unscoped/e/ensure-posix-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

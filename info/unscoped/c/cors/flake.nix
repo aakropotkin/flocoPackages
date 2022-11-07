@@ -16,7 +16,7 @@
     scope = null;
     ident = "cors";
     ldir  = "info/unscoped/c/cors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

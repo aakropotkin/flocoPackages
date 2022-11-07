@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-checkbox";
     ldir  = "info/unscoped/r/rc-checkbox";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

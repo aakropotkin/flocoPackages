@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-computed-properties";
     ldir  = "info/babel/plugin-transform-computed-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

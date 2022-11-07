@@ -16,7 +16,7 @@
     scope = null;
     ident = "regenerator-runtime";
     ldir  = "info/unscoped/r/regenerator-runtime";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

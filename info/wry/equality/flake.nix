@@ -16,7 +16,7 @@
     scope = "@wry";
     ident = "@wry/equality";
     ldir  = "info/wry/equality";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

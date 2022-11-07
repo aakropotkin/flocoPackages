@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-localstorage";
     ldir  = "info/unscoped/n/node-localstorage";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

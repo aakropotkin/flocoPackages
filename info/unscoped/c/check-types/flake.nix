@@ -16,7 +16,7 @@
     scope = null;
     ident = "check-types";
     ldir  = "info/unscoped/c/check-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

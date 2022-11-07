@@ -16,7 +16,7 @@
     scope = null;
     ident = "pstree.remy";
     ldir  = "info/unscoped/p/pstree.remy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-emoji";
     ldir  = "info/unscoped/n/node-emoji";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-dotall-regex";
     ldir  = "info/babel/plugin-transform-dotall-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

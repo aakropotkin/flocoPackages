@@ -16,7 +16,7 @@
     scope = null;
     ident = "import-local";
     ldir  = "info/unscoped/i/import-local";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

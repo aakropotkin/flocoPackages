@@ -16,7 +16,7 @@
     scope = "@angular";
     ident = "@angular/forms";
     ldir  = "info/angular/forms";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

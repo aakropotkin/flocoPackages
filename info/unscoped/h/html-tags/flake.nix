@@ -16,7 +16,7 @@
     scope = null;
     ident = "html-tags";
     ldir  = "info/unscoped/h/html-tags";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

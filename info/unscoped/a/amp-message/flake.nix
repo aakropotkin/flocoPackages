@@ -16,7 +16,7 @@
     scope = null;
     ident = "amp-message";
     ldir  = "info/unscoped/a/amp-message";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

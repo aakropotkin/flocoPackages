@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-check-es2015-constants";
     ldir  = "info/unscoped/b/babel-plugin-check-es2015-constants";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "dom-helpers";
     ldir  = "info/unscoped/d/dom-helpers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

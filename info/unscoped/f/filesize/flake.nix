@@ -16,7 +16,7 @@
     scope = null;
     ident = "filesize";
     ldir  = "info/unscoped/f/filesize";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

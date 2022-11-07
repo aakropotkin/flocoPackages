@@ -16,7 +16,7 @@
     scope = null;
     ident = "process-warning";
     ldir  = "info/unscoped/p/process-warning";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

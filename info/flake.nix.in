@@ -16,7 +16,7 @@
     scope = @SCOPE@;
     ident = "@IDENT@";
     ldir  = "@ODIRR@";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

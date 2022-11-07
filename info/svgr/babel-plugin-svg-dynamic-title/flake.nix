@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/babel-plugin-svg-dynamic-title";
     ldir  = "info/svgr/babel-plugin-svg-dynamic-title";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

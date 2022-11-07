@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-nested";
     ldir  = "info/unscoped/p/postcss-nested";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

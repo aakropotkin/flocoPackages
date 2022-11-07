@@ -16,7 +16,7 @@
     scope = null;
     ident = "tv4";
     ldir  = "info/unscoped/t/tv4";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

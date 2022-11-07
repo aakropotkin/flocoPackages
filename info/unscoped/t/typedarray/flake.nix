@@ -16,7 +16,7 @@
     scope = null;
     ident = "typedarray";
     ldir  = "info/unscoped/t/typedarray";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

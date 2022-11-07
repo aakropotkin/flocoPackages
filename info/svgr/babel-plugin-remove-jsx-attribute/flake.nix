@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/babel-plugin-remove-jsx-attribute";
     ldir  = "info/svgr/babel-plugin-remove-jsx-attribute";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

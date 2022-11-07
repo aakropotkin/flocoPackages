@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-registry-fetch";
     ldir  = "info/unscoped/n/npm-registry-fetch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

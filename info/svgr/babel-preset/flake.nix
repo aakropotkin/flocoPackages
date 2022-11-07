@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/babel-preset";
     ldir  = "info/svgr/babel-preset";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

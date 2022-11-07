@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/normalize.css";
     ldir  = "info/csstools/normalize.css";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "es6-weak-map";
     ldir  = "info/unscoped/e/es6-weak-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

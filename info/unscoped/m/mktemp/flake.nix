@@ -16,7 +16,7 @@
     scope = null;
     ident = "mktemp";
     ldir  = "info/unscoped/m/mktemp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

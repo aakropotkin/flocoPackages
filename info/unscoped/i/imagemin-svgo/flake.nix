@@ -16,7 +16,7 @@
     scope = null;
     ident = "imagemin-svgo";
     ldir  = "info/unscoped/i/imagemin-svgo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

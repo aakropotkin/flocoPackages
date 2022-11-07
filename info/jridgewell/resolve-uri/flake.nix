@@ -16,7 +16,7 @@
     scope = "@jridgewell";
     ident = "@jridgewell/resolve-uri";
     ldir  = "info/jridgewell/resolve-uri";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

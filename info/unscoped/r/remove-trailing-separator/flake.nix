@@ -16,7 +16,7 @@
     scope = null;
     ident = "remove-trailing-separator";
     ldir  = "info/unscoped/r/remove-trailing-separator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

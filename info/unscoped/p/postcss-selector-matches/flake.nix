@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-selector-matches";
     ldir  = "info/unscoped/p/postcss-selector-matches";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

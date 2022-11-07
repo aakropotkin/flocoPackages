@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-focus-visible";
     ldir  = "info/unscoped/p/postcss-focus-visible";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

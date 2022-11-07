@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-install-checks";
     ldir  = "info/unscoped/n/npm-install-checks";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

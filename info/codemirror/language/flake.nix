@@ -16,7 +16,7 @@
     scope = "@codemirror";
     ident = "@codemirror/language";
     ldir  = "info/codemirror/language";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

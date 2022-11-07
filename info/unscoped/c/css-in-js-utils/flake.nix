@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-in-js-utils";
     ldir  = "info/unscoped/c/css-in-js-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

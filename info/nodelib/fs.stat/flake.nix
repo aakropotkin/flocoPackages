@@ -16,7 +16,7 @@
     scope = "@nodelib";
     ident = "@nodelib/fs.stat";
     ldir  = "info/nodelib/fs.stat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

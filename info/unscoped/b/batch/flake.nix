@@ -16,7 +16,7 @@
     scope = null;
     ident = "batch";
     ldir  = "info/unscoped/b/batch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

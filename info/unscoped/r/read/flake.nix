@@ -16,7 +16,7 @@
     scope = null;
     ident = "read";
     ldir  = "info/unscoped/r/read";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

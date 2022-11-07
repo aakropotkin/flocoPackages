@@ -16,7 +16,7 @@
     scope = "@fastify";
     ident = "@fastify/busboy";
     ldir  = "info/fastify/busboy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

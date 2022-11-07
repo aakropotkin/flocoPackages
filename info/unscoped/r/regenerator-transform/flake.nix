@@ -16,7 +16,7 @@
     scope = null;
     ident = "regenerator-transform";
     ldir  = "info/unscoped/r/regenerator-transform";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

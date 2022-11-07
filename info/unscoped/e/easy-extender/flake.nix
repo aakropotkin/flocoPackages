@@ -16,7 +16,7 @@
     scope = null;
     ident = "easy-extender";
     ldir  = "info/unscoped/e/easy-extender";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

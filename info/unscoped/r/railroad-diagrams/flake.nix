@@ -16,7 +16,7 @@
     scope = null;
     ident = "railroad-diagrams";
     ldir  = "info/unscoped/r/railroad-diagrams";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

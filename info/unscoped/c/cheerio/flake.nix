@@ -16,7 +16,7 @@
     scope = null;
     ident = "cheerio";
     ldir  = "info/unscoped/c/cheerio";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

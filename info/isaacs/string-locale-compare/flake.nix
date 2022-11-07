@@ -16,7 +16,7 @@
     scope = "@isaacs";
     ident = "@isaacs/string-locale-compare";
     ldir  = "info/isaacs/string-locale-compare";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

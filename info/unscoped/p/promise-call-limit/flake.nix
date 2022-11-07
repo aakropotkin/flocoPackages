@@ -16,7 +16,7 @@
     scope = null;
     ident = "promise-call-limit";
     ldir  = "info/unscoped/p/promise-call-limit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

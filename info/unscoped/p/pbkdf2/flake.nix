@@ -16,7 +16,7 @@
     scope = null;
     ident = "pbkdf2";
     ldir  = "info/unscoped/p/pbkdf2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

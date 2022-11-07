@@ -16,7 +16,7 @@
     scope = null;
     ident = "opn";
     ldir  = "info/unscoped/o/opn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

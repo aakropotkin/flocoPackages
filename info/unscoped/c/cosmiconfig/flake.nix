@@ -16,7 +16,7 @@
     scope = null;
     ident = "cosmiconfig";
     ldir  = "info/unscoped/c/cosmiconfig";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

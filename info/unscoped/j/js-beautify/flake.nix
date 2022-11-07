@@ -16,7 +16,7 @@
     scope = null;
     ident = "js-beautify";
     ldir  = "info/unscoped/j/js-beautify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

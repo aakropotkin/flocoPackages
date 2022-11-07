@@ -16,7 +16,7 @@
     scope = null;
     ident = "scheduler";
     ldir  = "info/unscoped/s/scheduler";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

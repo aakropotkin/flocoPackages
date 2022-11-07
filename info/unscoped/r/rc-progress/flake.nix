@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-progress";
     ldir  = "info/unscoped/r/rc-progress";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

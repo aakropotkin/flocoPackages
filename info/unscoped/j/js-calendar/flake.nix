@@ -16,7 +16,7 @@
     scope = null;
     ident = "js-calendar";
     ldir  = "info/unscoped/j/js-calendar";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

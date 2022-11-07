@@ -16,7 +16,7 @@
     scope = null;
     ident = "redux-thunk";
     ldir  = "info/unscoped/r/redux-thunk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "assert-plus";
     ldir  = "info/unscoped/a/assert-plus";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

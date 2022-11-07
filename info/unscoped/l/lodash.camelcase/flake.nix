@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.camelcase";
     ldir  = "info/unscoped/l/lodash.camelcase";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-double-position-gradients";
     ldir  = "info/unscoped/p/postcss-double-position-gradients";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "gifwrap";
     ldir  = "info/unscoped/g/gifwrap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

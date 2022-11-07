@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-hex-prefixed";
     ldir  = "info/unscoped/i/is-hex-prefixed";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

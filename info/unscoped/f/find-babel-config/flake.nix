@@ -16,7 +16,7 @@
     scope = null;
     ident = "find-babel-config";
     ldir  = "info/unscoped/f/find-babel-config";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

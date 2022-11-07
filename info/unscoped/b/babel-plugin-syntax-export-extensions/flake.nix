@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-syntax-export-extensions";
     ldir  = "info/unscoped/b/babel-plugin-syntax-export-extensions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

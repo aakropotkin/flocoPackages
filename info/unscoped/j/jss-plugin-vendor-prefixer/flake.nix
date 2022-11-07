@@ -16,7 +16,7 @@
     scope = null;
     ident = "jss-plugin-vendor-prefixer";
     ldir  = "info/unscoped/j/jss-plugin-vendor-prefixer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

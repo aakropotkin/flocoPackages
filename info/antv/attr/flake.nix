@@ -16,7 +16,7 @@
     scope = "@antv";
     ident = "@antv/attr";
     ldir  = "info/antv/attr";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

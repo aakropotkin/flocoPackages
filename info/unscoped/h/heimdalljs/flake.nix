@@ -16,7 +16,7 @@
     scope = null;
     ident = "heimdalljs";
     ldir  = "info/unscoped/h/heimdalljs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

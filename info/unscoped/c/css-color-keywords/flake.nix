@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-color-keywords";
     ldir  = "info/unscoped/c/css-color-keywords";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "collect-v8-coverage";
     ldir  = "info/unscoped/c/collect-v8-coverage";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

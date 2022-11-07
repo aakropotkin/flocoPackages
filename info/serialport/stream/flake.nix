@@ -16,7 +16,7 @@
     scope = "@serialport";
     ident = "@serialport/stream";
     ldir  = "info/serialport/stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "touch";
     ldir  = "info/unscoped/t/touch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

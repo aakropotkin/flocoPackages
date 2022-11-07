@@ -16,7 +16,7 @@
     scope = null;
     ident = "utils-merge";
     ldir  = "info/unscoped/u/utils-merge";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

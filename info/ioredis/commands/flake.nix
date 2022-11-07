@@ -16,7 +16,7 @@
     scope = "@ioredis";
     ident = "@ioredis/commands";
     ldir  = "info/ioredis/commands";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "get-assigned-identifiers";
     ldir  = "info/unscoped/g/get-assigned-identifiers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

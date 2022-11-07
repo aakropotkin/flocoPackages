@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-glob";
     ldir  = "info/unscoped/f/fast-glob";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

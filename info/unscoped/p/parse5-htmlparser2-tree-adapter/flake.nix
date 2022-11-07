@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse5-htmlparser2-tree-adapter";
     ldir  = "info/unscoped/p/parse5-htmlparser2-tree-adapter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

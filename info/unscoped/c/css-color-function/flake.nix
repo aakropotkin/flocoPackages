@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-color-function";
     ldir  = "info/unscoped/c/css-color-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

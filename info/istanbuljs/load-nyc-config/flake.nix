@@ -16,7 +16,7 @@
     scope = "@istanbuljs";
     ident = "@istanbuljs/load-nyc-config";
     ldir  = "info/istanbuljs/load-nyc-config";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

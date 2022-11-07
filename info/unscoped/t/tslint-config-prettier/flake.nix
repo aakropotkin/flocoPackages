@@ -16,7 +16,7 @@
     scope = null;
     ident = "tslint-config-prettier";
     ldir  = "info/unscoped/t/tslint-config-prettier";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

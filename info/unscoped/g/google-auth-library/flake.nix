@@ -16,7 +16,7 @@
     scope = null;
     ident = "google-auth-library";
     ldir  = "info/unscoped/g/google-auth-library";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

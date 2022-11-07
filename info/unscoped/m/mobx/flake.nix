@@ -16,7 +16,7 @@
     scope = null;
     ident = "mobx";
     ldir  = "info/unscoped/m/mobx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

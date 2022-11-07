@@ -16,7 +16,7 @@
     scope = "@sinclair";
     ident = "@sinclair/typebox";
     ldir  = "info/sinclair/typebox";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

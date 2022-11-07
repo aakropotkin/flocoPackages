@@ -16,7 +16,7 @@
     scope = null;
     ident = "reflect.ownkeys";
     ldir  = "info/unscoped/r/reflect.ownkeys";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "silent-error";
     ldir  = "info/unscoped/s/silent-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "simple-swizzle";
     ldir  = "info/unscoped/s/simple-swizzle";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

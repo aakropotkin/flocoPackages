@@ -16,7 +16,7 @@
     scope = null;
     ident = "remove-bom-buffer";
     ldir  = "info/unscoped/r/remove-bom-buffer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

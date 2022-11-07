@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-pseudoelements";
     ldir  = "info/unscoped/p/postcss-pseudoelements";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-class-properties";
     ldir  = "info/unscoped/b/babel-plugin-transform-class-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

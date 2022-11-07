@@ -16,7 +16,7 @@
     scope = "@jimp";
     ident = "@jimp/plugin-fisheye";
     ldir  = "info/jimp/plugin-fisheye";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

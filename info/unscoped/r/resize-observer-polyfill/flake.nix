@@ -16,7 +16,7 @@
     scope = null;
     ident = "resize-observer-polyfill";
     ldir  = "info/unscoped/r/resize-observer-polyfill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

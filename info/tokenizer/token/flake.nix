@@ -16,7 +16,7 @@
     scope = "@tokenizer";
     ident = "@tokenizer/token";
     ldir  = "info/tokenizer/token";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

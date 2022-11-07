@@ -16,7 +16,7 @@
     scope = null;
     ident = "binary";
     ldir  = "info/unscoped/b/binary";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

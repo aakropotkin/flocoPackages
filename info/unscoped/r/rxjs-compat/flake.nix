@@ -16,7 +16,7 @@
     scope = null;
     ident = "rxjs-compat";
     ldir  = "info/unscoped/r/rxjs-compat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

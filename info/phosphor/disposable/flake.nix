@@ -16,7 +16,7 @@
     scope = "@phosphor";
     ident = "@phosphor/disposable";
     ldir  = "info/phosphor/disposable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

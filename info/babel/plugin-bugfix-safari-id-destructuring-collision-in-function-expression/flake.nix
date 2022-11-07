@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression";
     ldir  = "info/babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

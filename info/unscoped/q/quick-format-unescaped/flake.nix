@@ -16,7 +16,7 @@
     scope = null;
     ident = "quick-format-unescaped";
     ldir  = "info/unscoped/q/quick-format-unescaped";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

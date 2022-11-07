@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-async-to-generator";
     ldir  = "info/babel/plugin-transform-async-to-generator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

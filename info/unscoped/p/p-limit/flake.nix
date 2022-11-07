@@ -16,7 +16,7 @@
     scope = null;
     ident = "p-limit";
     ldir  = "info/unscoped/p/p-limit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-proposal-logical-assignment-operators";
     ldir  = "info/babel/plugin-proposal-logical-assignment-operators";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

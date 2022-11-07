@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-modules-amd";
     ldir  = "info/babel/plugin-transform-modules-amd";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

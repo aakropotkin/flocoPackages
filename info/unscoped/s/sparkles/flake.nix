@@ -16,7 +16,7 @@
     scope = null;
     ident = "sparkles";
     ldir  = "info/unscoped/s/sparkles";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

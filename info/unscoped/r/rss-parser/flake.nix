@@ -16,7 +16,7 @@
     scope = null;
     ident = "rss-parser";
     ldir  = "info/unscoped/r/rss-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

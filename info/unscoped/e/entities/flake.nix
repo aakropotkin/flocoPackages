@@ -16,7 +16,7 @@
     scope = null;
     ident = "entities";
     ldir  = "info/unscoped/e/entities";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

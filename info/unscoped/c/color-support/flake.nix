@@ -16,7 +16,7 @@
     scope = null;
     ident = "color-support";
     ldir  = "info/unscoped/c/color-support";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "redux-form";
     ldir  = "info/unscoped/r/redux-form";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

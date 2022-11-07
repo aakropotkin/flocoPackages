@@ -16,7 +16,7 @@
     scope = null;
     ident = "swig";
     ldir  = "info/unscoped/s/swig";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

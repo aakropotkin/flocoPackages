@@ -16,7 +16,7 @@
     scope = "@alifd";
     ident = "@alifd/overlay";
     ldir  = "info/alifd/overlay";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

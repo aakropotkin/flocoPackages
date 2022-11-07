@@ -16,7 +16,7 @@
     scope = null;
     ident = "nunjucks";
     ldir  = "info/unscoped/n/nunjucks";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

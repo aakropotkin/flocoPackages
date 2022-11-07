@@ -16,7 +16,7 @@
     scope = null;
     ident = "arr-map";
     ldir  = "info/unscoped/a/arr-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

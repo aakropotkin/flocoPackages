@@ -16,7 +16,7 @@
     scope = "@pmmmwh";
     ident = "@pmmmwh/react-refresh-webpack-plugin";
     ldir  = "info/pmmmwh/react-refresh-webpack-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

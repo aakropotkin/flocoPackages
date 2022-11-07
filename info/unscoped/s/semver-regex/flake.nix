@@ -16,7 +16,7 @@
     scope = null;
     ident = "semver-regex";
     ldir  = "info/unscoped/s/semver-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@webassemblyjs";
     ident = "@webassemblyjs/wasm-gen";
     ldir  = "info/webassemblyjs/wasm-gen";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

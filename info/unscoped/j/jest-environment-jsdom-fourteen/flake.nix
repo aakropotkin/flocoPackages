@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-environment-jsdom-fourteen";
     ldir  = "info/unscoped/j/jest-environment-jsdom-fourteen";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

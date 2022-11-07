@@ -16,7 +16,7 @@
     scope = null;
     ident = "boolean";
     ldir  = "info/unscoped/b/boolean";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

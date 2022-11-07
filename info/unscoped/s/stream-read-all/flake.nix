@@ -16,7 +16,7 @@
     scope = null;
     ident = "stream-read-all";
     ldir  = "info/unscoped/s/stream-read-all";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "broccoli-babel-transpiler";
     ldir  = "info/unscoped/b/broccoli-babel-transpiler";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

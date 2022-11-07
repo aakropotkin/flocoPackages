@@ -16,7 +16,7 @@
     scope = null;
     ident = "lint-staged";
     ldir  = "info/unscoped/l/lint-staged";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "content-disposition";
     ldir  = "info/unscoped/c/content-disposition";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

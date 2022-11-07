@@ -16,7 +16,7 @@
     scope = null;
     ident = "es-module-lexer";
     ldir  = "info/unscoped/e/es-module-lexer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

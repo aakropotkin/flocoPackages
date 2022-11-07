@@ -16,7 +16,7 @@
     scope = null;
     ident = "errno";
     ldir  = "info/unscoped/e/errno";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

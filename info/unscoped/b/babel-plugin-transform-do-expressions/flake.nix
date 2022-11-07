@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-do-expressions";
     ldir  = "info/unscoped/b/babel-plugin-transform-do-expressions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

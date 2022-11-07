@@ -16,7 +16,7 @@
     scope = null;
     ident = "seek-bzip";
     ldir  = "info/unscoped/s/seek-bzip";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

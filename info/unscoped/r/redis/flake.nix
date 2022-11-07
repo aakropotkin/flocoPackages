@@ -16,7 +16,7 @@
     scope = null;
     ident = "redis";
     ldir  = "info/unscoped/r/redis";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

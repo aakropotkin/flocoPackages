@@ -16,7 +16,7 @@
     scope = null;
     ident = "make-iterator";
     ldir  = "info/unscoped/m/make-iterator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "drange";
     ldir  = "info/unscoped/d/drange";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

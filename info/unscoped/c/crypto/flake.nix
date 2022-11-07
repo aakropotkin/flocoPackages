@@ -16,7 +16,7 @@
     scope = null;
     ident = "crypto";
     ldir  = "info/unscoped/c/crypto";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

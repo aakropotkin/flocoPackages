@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-jpg";
     ldir  = "info/unscoped/i/is-jpg";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "cmd-shim";
     ldir  = "info/unscoped/c/cmd-shim";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

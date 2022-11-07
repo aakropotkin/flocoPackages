@@ -16,7 +16,7 @@
     scope = null;
     ident = "fuse.js";
     ldir  = "info/unscoped/f/fuse.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

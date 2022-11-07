@@ -16,7 +16,7 @@
     scope = "@hapi";
     ident = "@hapi/hoek";
     ldir  = "info/hapi/hoek";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

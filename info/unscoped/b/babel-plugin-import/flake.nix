@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-import";
     ldir  = "info/unscoped/b/babel-plugin-import";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

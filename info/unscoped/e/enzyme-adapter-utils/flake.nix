@@ -16,7 +16,7 @@
     scope = null;
     ident = "enzyme-adapter-utils";
     ldir  = "info/unscoped/e/enzyme-adapter-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

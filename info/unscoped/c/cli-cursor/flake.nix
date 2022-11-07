@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-cursor";
     ldir  = "info/unscoped/c/cli-cursor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

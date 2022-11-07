@@ -16,7 +16,7 @@
     scope = null;
     ident = "source-map-support";
     ldir  = "info/unscoped/s/source-map-support";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

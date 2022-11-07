@@ -16,7 +16,7 @@
     scope = null;
     ident = "shallowequal";
     ldir  = "info/unscoped/s/shallowequal";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

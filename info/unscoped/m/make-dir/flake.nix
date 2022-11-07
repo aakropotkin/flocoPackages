@@ -16,7 +16,7 @@
     scope = null;
     ident = "make-dir";
     ldir  = "info/unscoped/m/make-dir";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

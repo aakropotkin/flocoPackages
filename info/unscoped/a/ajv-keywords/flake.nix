@@ -16,7 +16,7 @@
     scope = null;
     ident = "ajv-keywords";
     ldir  = "info/unscoped/a/ajv-keywords";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

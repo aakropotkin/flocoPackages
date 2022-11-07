@@ -16,7 +16,7 @@
     scope = null;
     ident = "sequelize";
     ldir  = "info/unscoped/s/sequelize";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

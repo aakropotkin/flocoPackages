@@ -16,7 +16,7 @@
     scope = null;
     ident = "pug-strip-comments";
     ldir  = "info/unscoped/p/pug-strip-comments";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

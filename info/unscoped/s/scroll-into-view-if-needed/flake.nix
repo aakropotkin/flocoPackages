@@ -16,7 +16,7 @@
     scope = null;
     ident = "scroll-into-view-if-needed";
     ldir  = "info/unscoped/s/scroll-into-view-if-needed";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "just-curry-it";
     ldir  = "info/unscoped/j/just-curry-it";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

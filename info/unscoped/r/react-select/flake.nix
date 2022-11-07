@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-select";
     ldir  = "info/unscoped/r/react-select";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

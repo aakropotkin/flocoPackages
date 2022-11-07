@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-field-form";
     ldir  = "info/unscoped/r/rc-field-form";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

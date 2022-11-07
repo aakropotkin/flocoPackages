@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-shallow-renderer";
     ldir  = "info/unscoped/r/react-shallow-renderer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

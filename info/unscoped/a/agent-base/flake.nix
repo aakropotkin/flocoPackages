@@ -16,7 +16,7 @@
     scope = null;
     ident = "agent-base";
     ldir  = "info/unscoped/a/agent-base";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

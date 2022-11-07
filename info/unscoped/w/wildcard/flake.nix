@@ -16,7 +16,7 @@
     scope = null;
     ident = "wildcard";
     ldir  = "info/unscoped/w/wildcard";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

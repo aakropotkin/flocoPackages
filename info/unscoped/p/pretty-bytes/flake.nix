@@ -16,7 +16,7 @@
     scope = null;
     ident = "pretty-bytes";
     ldir  = "info/unscoped/p/pretty-bytes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

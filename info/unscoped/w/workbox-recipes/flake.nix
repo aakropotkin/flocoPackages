@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-recipes";
     ldir  = "info/unscoped/w/workbox-recipes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

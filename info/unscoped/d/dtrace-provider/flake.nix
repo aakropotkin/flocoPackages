@@ -16,7 +16,7 @@
     scope = null;
     ident = "dtrace-provider";
     ldir  = "info/unscoped/d/dtrace-provider";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

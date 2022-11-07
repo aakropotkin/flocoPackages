@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsonwebtoken";
     ldir  = "info/unscoped/j/jsonwebtoken";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

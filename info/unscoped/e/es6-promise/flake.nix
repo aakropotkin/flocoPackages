@@ -16,7 +16,7 @@
     scope = null;
     ident = "es6-promise";
     ldir  = "info/unscoped/e/es6-promise";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

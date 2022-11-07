@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-error-boundary";
     ldir  = "info/unscoped/r/react-error-boundary";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

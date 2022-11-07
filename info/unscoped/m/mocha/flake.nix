@@ -16,7 +16,7 @@
     scope = null;
     ident = "mocha";
     ldir  = "info/unscoped/m/mocha";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

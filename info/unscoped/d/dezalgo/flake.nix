@@ -16,7 +16,7 @@
     scope = null;
     ident = "dezalgo";
     ldir  = "info/unscoped/d/dezalgo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

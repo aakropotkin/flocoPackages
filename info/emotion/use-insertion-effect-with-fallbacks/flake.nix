@@ -16,7 +16,7 @@
     scope = "@emotion";
     ident = "@emotion/use-insertion-effect-with-fallbacks";
     ldir  = "info/emotion/use-insertion-effect-with-fallbacks";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

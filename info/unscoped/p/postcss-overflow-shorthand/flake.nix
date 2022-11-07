@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-overflow-shorthand";
     ldir  = "info/unscoped/p/postcss-overflow-shorthand";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

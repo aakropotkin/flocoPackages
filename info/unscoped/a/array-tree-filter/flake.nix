@@ -16,7 +16,7 @@
     scope = null;
     ident = "array-tree-filter";
     ldir  = "info/unscoped/a/array-tree-filter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

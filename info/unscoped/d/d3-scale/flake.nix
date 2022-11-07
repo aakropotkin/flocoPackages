@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-scale";
     ldir  = "info/unscoped/d/d3-scale";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

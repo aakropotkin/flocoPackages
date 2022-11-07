@@ -16,7 +16,7 @@
     scope = null;
     ident = "yocto-queue";
     ldir  = "info/unscoped/y/yocto-queue";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

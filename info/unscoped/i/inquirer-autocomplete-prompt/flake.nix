@@ -16,7 +16,7 @@
     scope = null;
     ident = "inquirer-autocomplete-prompt";
     ldir  = "info/unscoped/i/inquirer-autocomplete-prompt";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

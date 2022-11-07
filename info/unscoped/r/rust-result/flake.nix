@@ -16,7 +16,7 @@
     scope = null;
     ident = "rust-result";
     ldir  = "info/unscoped/r/rust-result";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

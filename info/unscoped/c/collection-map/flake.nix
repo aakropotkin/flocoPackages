@@ -16,7 +16,7 @@
     scope = null;
     ident = "collection-map";
     ldir  = "info/unscoped/c/collection-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

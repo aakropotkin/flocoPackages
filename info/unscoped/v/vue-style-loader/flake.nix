@@ -16,7 +16,7 @@
     scope = null;
     ident = "vue-style-loader";
     ldir  = "info/unscoped/v/vue-style-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

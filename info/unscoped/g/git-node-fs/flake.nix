@@ -16,7 +16,7 @@
     scope = null;
     ident = "git-node-fs";
     ldir  = "info/unscoped/g/git-node-fs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

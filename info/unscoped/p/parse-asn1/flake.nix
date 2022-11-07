@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-asn1";
     ldir  = "info/unscoped/p/parse-asn1";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

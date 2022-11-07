@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-sticky-regex";
     ldir  = "info/babel/plugin-transform-sticky-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

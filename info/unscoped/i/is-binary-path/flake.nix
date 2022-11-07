@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-binary-path";
     ldir  = "info/unscoped/i/is-binary-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "utf8-byte-length";
     ldir  = "info/unscoped/u/utf8-byte-length";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

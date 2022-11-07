@@ -16,7 +16,7 @@
     scope = null;
     ident = "metalsmith";
     ldir  = "info/unscoped/m/metalsmith";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

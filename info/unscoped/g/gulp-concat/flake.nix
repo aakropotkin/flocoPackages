@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-concat";
     ldir  = "info/unscoped/g/gulp-concat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

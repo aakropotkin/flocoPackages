@@ -16,7 +16,7 @@
     scope = null;
     ident = "strip-ansi";
     ldir  = "info/unscoped/s/strip-ansi";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

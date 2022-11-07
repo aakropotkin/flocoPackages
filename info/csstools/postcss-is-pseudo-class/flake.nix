@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-is-pseudo-class";
     ldir  = "info/csstools/postcss-is-pseudo-class";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

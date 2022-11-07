@@ -16,7 +16,7 @@
     scope = null;
     ident = "tiny-lr";
     ldir  = "info/unscoped/t/tiny-lr";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

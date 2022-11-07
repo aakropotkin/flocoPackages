@@ -16,7 +16,7 @@
     scope = null;
     ident = "ansi-regex";
     ldir  = "info/unscoped/a/ansi-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

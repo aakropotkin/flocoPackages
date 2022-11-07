@@ -16,7 +16,7 @@
     scope = null;
     ident = "has-bigints";
     ldir  = "info/unscoped/h/has-bigints";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

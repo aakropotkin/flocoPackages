@@ -16,7 +16,7 @@
     scope = null;
     ident = "pixrem";
     ldir  = "info/unscoped/p/pixrem";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@webassemblyjs";
     ident = "@webassemblyjs/floating-point-hex-parser";
     ldir  = "info/webassemblyjs/floating-point-hex-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

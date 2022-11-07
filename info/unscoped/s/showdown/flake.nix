@@ -16,7 +16,7 @@
     scope = null;
     ident = "showdown";
     ldir  = "info/unscoped/s/showdown";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

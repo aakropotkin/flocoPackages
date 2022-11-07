@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-circus";
     ldir  = "info/unscoped/j/jest-circus";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

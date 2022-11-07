@@ -16,7 +16,7 @@
     scope = null;
     ident = "expand-template";
     ldir  = "info/unscoped/e/expand-template";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

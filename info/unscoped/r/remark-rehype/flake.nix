@@ -16,7 +16,7 @@
     scope = null;
     ident = "remark-rehype";
     ldir  = "info/unscoped/r/remark-rehype";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

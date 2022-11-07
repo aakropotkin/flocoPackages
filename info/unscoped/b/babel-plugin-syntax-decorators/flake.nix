@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-syntax-decorators";
     ldir  = "info/unscoped/b/babel-plugin-syntax-decorators";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

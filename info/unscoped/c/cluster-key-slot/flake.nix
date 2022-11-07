@@ -16,7 +16,7 @@
     scope = null;
     ident = "cluster-key-slot";
     ldir  = "info/unscoped/c/cluster-key-slot";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

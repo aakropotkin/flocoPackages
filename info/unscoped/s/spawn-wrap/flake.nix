@@ -16,7 +16,7 @@
     scope = null;
     ident = "spawn-wrap";
     ldir  = "info/unscoped/s/spawn-wrap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

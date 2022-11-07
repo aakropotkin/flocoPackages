@@ -16,7 +16,7 @@
     scope = null;
     ident = "rgb-hex";
     ldir  = "info/unscoped/r/rgb-hex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

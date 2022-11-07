@@ -16,7 +16,7 @@
     scope = null;
     ident = "regjsgen";
     ldir  = "info/unscoped/r/regjsgen";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

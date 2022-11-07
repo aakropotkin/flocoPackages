@@ -16,7 +16,7 @@
     scope = "@formatjs";
     ident = "@formatjs/ecma402-abstract";
     ldir  = "info/formatjs/ecma402-abstract";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

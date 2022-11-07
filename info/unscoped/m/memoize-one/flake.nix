@@ -16,7 +16,7 @@
     scope = null;
     ident = "memoize-one";
     ldir  = "info/unscoped/m/memoize-one";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

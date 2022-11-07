@@ -16,7 +16,7 @@
     scope = null;
     ident = "ramda";
     ldir  = "info/unscoped/r/ramda";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

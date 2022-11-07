@@ -16,7 +16,7 @@
     scope = "@jridgewell";
     ident = "@jridgewell/sourcemap-codec";
     ldir  = "info/jridgewell/sourcemap-codec";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

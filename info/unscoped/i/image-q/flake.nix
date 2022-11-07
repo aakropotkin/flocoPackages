@@ -16,7 +16,7 @@
     scope = null;
     ident = "image-q";
     ldir  = "info/unscoped/i/image-q";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

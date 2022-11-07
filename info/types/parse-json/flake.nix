@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/parse-json";
     ldir  = "info/types/parse-json";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

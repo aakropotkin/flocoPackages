@@ -16,7 +16,7 @@
     scope = null;
     ident = "standard-engine";
     ldir  = "info/unscoped/s/standard-engine";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

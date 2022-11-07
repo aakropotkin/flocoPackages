@@ -16,7 +16,7 @@
     scope = null;
     ident = "pgpass";
     ldir  = "info/unscoped/p/pgpass";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "unist-util-stringify-position";
     ldir  = "info/unscoped/u/unist-util-stringify-position";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

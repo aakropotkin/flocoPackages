@@ -16,7 +16,7 @@
     scope = "@webassemblyjs";
     ident = "@webassemblyjs/ast";
     ldir  = "info/webassemblyjs/ast";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "duplexify";
     ldir  = "info/unscoped/d/duplexify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

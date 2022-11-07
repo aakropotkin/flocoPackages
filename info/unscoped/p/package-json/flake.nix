@@ -16,7 +16,7 @@
     scope = null;
     ident = "package-json";
     ldir  = "info/unscoped/p/package-json";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

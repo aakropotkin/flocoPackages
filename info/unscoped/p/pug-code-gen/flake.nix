@@ -16,7 +16,7 @@
     scope = null;
     ident = "pug-code-gen";
     ldir  = "info/unscoped/p/pug-code-gen";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

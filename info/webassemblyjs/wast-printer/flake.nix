@@ -16,7 +16,7 @@
     scope = "@webassemblyjs";
     ident = "@webassemblyjs/wast-printer";
     ldir  = "info/webassemblyjs/wast-printer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

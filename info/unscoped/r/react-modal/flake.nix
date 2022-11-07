@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-modal";
     ldir  = "info/unscoped/r/react-modal";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

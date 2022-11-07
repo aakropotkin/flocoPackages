@@ -16,7 +16,7 @@
     scope = null;
     ident = "void-elements";
     ldir  = "info/unscoped/v/void-elements";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

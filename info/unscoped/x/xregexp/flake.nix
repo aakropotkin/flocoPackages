@@ -16,7 +16,7 @@
     scope = null;
     ident = "xregexp";
     ldir  = "info/unscoped/x/xregexp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

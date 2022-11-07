@@ -16,7 +16,7 @@
     scope = null;
     ident = "unicode-property-aliases-ecmascript";
     ldir  = "info/unscoped/u/unicode-property-aliases-ecmascript";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

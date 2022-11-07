@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-ember-data-packages-polyfill";
     ldir  = "info/unscoped/b/babel-plugin-ember-data-packages-polyfill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "eventsource";
     ldir  = "info/unscoped/e/eventsource";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

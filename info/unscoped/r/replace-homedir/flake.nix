@@ -16,7 +16,7 @@
     scope = null;
     ident = "replace-homedir";
     ldir  = "info/unscoped/r/replace-homedir";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

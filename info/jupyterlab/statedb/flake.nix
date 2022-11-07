@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/statedb";
     ldir  = "info/jupyterlab/statedb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

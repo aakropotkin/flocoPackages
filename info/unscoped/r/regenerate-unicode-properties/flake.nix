@@ -16,7 +16,7 @@
     scope = null;
     ident = "regenerate-unicode-properties";
     ldir  = "info/unscoped/r/regenerate-unicode-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

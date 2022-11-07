@@ -16,7 +16,7 @@
     scope = "@jest";
     ident = "@jest/source-map";
     ldir  = "info/jest/source-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

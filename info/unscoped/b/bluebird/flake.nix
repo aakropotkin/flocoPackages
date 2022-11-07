@@ -16,7 +16,7 @@
     scope = null;
     ident = "bluebird";
     ldir  = "info/unscoped/b/bluebird";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

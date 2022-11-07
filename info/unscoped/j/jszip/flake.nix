@@ -16,7 +16,7 @@
     scope = null;
     ident = "jszip";
     ldir  = "info/unscoped/j/jszip";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

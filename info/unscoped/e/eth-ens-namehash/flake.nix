@@ -16,7 +16,7 @@
     scope = null;
     ident = "eth-ens-namehash";
     ldir  = "info/unscoped/e/eth-ens-namehash";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

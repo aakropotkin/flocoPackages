@@ -16,7 +16,7 @@
     scope = null;
     ident = "cidr-regex";
     ldir  = "info/unscoped/c/cidr-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

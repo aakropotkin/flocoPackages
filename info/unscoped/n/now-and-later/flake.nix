@@ -16,7 +16,7 @@
     scope = null;
     ident = "now-and-later";
     ldir  = "info/unscoped/n/now-and-later";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "typed-function";
     ldir  = "info/unscoped/t/typed-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

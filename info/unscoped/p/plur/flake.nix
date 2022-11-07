@@ -16,7 +16,7 @@
     scope = null;
     ident = "plur";
     ldir  = "info/unscoped/p/plur";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

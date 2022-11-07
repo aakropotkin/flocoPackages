@@ -16,7 +16,7 @@
     scope = null;
     ident = "bcrypt-nodejs";
     ldir  = "info/unscoped/b/bcrypt-nodejs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

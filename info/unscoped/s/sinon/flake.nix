@@ -16,7 +16,7 @@
     scope = null;
     ident = "sinon";
     ldir  = "info/unscoped/s/sinon";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

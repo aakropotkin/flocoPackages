@@ -16,7 +16,7 @@
     scope = "@hapi";
     ident = "@hapi/topo";
     ldir  = "info/hapi/topo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

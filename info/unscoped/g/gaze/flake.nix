@@ -16,7 +16,7 @@
     scope = null;
     ident = "gaze";
     ldir  = "info/unscoped/g/gaze";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

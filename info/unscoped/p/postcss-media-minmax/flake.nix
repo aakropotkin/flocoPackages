@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-media-minmax";
     ldir  = "info/unscoped/p/postcss-media-minmax";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

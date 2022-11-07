@@ -16,7 +16,7 @@
     scope = "@codemirror";
     ident = "@codemirror/commands";
     ldir  = "info/codemirror/commands";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

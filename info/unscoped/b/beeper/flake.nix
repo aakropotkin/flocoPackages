@@ -16,7 +16,7 @@
     scope = null;
     ident = "beeper";
     ldir  = "info/unscoped/b/beeper";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

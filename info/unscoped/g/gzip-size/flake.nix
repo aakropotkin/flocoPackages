@@ -16,7 +16,7 @@
     scope = null;
     ident = "gzip-size";
     ldir  = "info/unscoped/g/gzip-size";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

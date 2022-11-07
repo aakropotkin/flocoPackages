@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-syntax-jsx";
     ldir  = "info/unscoped/b/babel-plugin-syntax-jsx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

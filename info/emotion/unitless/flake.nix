@@ -16,7 +16,7 @@
     scope = "@emotion";
     ident = "@emotion/unitless";
     ldir  = "info/emotion/unitless";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

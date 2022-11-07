@@ -16,7 +16,7 @@
     scope = null;
     ident = "abstract-level";
     ldir  = "info/unscoped/a/abstract-level";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

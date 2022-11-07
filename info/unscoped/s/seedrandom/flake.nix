@@ -16,7 +16,7 @@
     scope = null;
     ident = "seedrandom";
     ldir  = "info/unscoped/s/seedrandom";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

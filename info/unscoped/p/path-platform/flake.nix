@@ -16,7 +16,7 @@
     scope = null;
     ident = "path-platform";
     ldir  = "info/unscoped/p/path-platform";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

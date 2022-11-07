@@ -16,7 +16,7 @@
     scope = null;
     ident = "reduce-function-call";
     ldir  = "info/unscoped/r/reduce-function-call";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

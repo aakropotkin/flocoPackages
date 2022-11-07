@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-modules-local-by-default";
     ldir  = "info/unscoped/p/postcss-modules-local-by-default";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

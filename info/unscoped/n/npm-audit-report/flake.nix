@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-audit-report";
     ldir  = "info/unscoped/n/npm-audit-report";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

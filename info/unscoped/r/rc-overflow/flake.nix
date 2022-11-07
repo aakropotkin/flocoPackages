@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-overflow";
     ldir  = "info/unscoped/r/rc-overflow";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

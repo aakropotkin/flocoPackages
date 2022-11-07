@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-passwd";
     ldir  = "info/unscoped/p/parse-passwd";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

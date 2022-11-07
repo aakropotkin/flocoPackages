@@ -16,7 +16,7 @@
     scope = null;
     ident = "rollup-plugin-terser";
     ldir  = "info/unscoped/r/rollup-plugin-terser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

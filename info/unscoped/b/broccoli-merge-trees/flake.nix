@@ -16,7 +16,7 @@
     scope = null;
     ident = "broccoli-merge-trees";
     ldir  = "info/unscoped/b/broccoli-merge-trees";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

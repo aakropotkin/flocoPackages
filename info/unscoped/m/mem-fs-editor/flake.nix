@@ -16,7 +16,7 @@
     scope = null;
     ident = "mem-fs-editor";
     ldir  = "info/unscoped/m/mem-fs-editor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

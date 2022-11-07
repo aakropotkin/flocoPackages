@@ -16,7 +16,7 @@
     scope = null;
     ident = "json-stringify-nice";
     ldir  = "info/unscoped/j/json-stringify-nice";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

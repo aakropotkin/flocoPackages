@@ -16,7 +16,7 @@
     scope = null;
     ident = "w3c-xmlserializer";
     ldir  = "info/unscoped/w/w3c-xmlserializer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "utf-8-validate";
     ldir  = "info/unscoped/u/utf-8-validate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

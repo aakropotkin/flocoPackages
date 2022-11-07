@@ -16,7 +16,7 @@
     scope = null;
     ident = "portscanner";
     ldir  = "info/unscoped/p/portscanner";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

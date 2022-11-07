@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/core";
     ldir  = "info/svgr/core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

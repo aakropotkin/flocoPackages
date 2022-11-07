@@ -16,7 +16,7 @@
     scope = null;
     ident = "codepage";
     ldir  = "info/unscoped/c/codepage";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

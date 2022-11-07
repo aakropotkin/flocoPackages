@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-generator";
     ldir  = "info/unscoped/b/babel-generator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

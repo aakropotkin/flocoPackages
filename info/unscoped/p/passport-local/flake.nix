@@ -16,7 +16,7 @@
     scope = null;
     ident = "passport-local";
     ldir  = "info/unscoped/p/passport-local";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

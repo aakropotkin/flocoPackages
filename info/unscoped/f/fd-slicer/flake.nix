@@ -16,7 +16,7 @@
     scope = null;
     ident = "fd-slicer";
     ldir  = "info/unscoped/f/fd-slicer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

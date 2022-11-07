@@ -16,7 +16,7 @@
     scope = null;
     ident = "angular-animate";
     ldir  = "info/unscoped/a/angular-animate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

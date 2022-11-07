@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-util-sanitize-uri";
     ldir  = "info/unscoped/m/micromark-util-sanitize-uri";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

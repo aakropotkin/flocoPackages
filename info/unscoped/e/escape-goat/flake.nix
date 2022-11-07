@@ -16,7 +16,7 @@
     scope = null;
     ident = "escape-goat";
     ldir  = "info/unscoped/e/escape-goat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

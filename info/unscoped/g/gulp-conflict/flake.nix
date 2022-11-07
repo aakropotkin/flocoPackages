@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-conflict";
     ldir  = "info/unscoped/g/gulp-conflict";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

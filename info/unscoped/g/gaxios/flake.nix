@@ -16,7 +16,7 @@
     scope = null;
     ident = "gaxios";
     ldir  = "info/unscoped/g/gaxios";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

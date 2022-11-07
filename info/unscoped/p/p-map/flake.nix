@@ -16,7 +16,7 @@
     scope = null;
     ident = "p-map";
     ldir  = "info/unscoped/p/p-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

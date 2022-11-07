@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-create-regexp-features-plugin";
     ldir  = "info/babel/helper-create-regexp-features-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "bodec";
     ldir  = "info/unscoped/b/bodec";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

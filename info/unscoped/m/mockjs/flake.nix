@@ -16,7 +16,7 @@
     scope = null;
     ident = "mockjs";
     ldir  = "info/unscoped/m/mockjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

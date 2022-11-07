@@ -16,7 +16,7 @@
     scope = null;
     ident = "immutable";
     ldir  = "info/unscoped/i/immutable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "uvu";
     ldir  = "info/unscoped/u/uvu";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "natural-orderby";
     ldir  = "info/unscoped/n/natural-orderby";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

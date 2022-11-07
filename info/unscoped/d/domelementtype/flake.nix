@@ -16,7 +16,7 @@
     scope = null;
     ident = "domelementtype";
     ldir  = "info/unscoped/d/domelementtype";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

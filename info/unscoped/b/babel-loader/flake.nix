@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-loader";
     ldir  = "info/unscoped/b/babel-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

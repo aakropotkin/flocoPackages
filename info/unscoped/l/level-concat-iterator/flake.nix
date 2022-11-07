@@ -16,7 +16,7 @@
     scope = null;
     ident = "level-concat-iterator";
     ldir  = "info/unscoped/l/level-concat-iterator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "token-stream";
     ldir  = "info/unscoped/t/token-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

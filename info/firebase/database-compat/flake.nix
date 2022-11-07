@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/database-compat";
     ldir  = "info/firebase/database-compat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

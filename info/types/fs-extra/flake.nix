@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/fs-extra";
     ldir  = "info/types/fs-extra";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

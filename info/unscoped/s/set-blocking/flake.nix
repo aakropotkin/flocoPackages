@@ -16,7 +16,7 @@
     scope = null;
     ident = "set-blocking";
     ldir  = "info/unscoped/s/set-blocking";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

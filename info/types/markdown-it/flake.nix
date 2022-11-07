@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/markdown-it";
     ldir  = "info/types/markdown-it";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-nested-calc";
     ldir  = "info/csstools/postcss-nested-calc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

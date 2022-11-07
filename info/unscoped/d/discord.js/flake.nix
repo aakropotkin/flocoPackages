@@ -16,7 +16,7 @@
     scope = null;
     ident = "discord.js";
     ldir  = "info/unscoped/d/discord.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-unc-path";
     ldir  = "info/unscoped/i/is-unc-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "consolidate";
     ldir  = "info/unscoped/c/consolidate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

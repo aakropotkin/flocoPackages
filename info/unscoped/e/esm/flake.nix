@@ -16,7 +16,7 @@
     scope = null;
     ident = "esm";
     ldir  = "info/unscoped/e/esm";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

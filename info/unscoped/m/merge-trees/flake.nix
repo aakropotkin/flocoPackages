@@ -16,7 +16,7 @@
     scope = null;
     ident = "merge-trees";
     ldir  = "info/unscoped/m/merge-trees";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

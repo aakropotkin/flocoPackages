@@ -16,7 +16,7 @@
     scope = "@sapphire";
     ident = "@sapphire/shapeshift";
     ldir  = "info/sapphire/shapeshift";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

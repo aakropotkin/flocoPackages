@@ -16,7 +16,7 @@
     scope = null;
     ident = "acorn-walk";
     ldir  = "info/unscoped/a/acorn-walk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

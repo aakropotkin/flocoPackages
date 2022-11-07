@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-axis";
     ldir  = "info/unscoped/d/d3-axis";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

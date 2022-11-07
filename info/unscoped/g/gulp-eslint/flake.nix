@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-eslint";
     ldir  = "info/unscoped/g/gulp-eslint";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

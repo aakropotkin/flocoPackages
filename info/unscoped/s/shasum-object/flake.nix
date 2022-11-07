@@ -16,7 +16,7 @@
     scope = null;
     ident = "shasum-object";
     ldir  = "info/unscoped/s/shasum-object";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

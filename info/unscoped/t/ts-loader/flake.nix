@@ -16,7 +16,7 @@
     scope = null;
     ident = "ts-loader";
     ldir  = "info/unscoped/t/ts-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

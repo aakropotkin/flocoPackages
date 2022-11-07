@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-json-strings";
     ldir  = "info/babel/plugin-syntax-json-strings";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

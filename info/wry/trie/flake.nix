@@ -16,7 +16,7 @@
     scope = "@wry";
     ident = "@wry/trie";
     ldir  = "info/wry/trie";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

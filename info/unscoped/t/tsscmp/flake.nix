@@ -16,7 +16,7 @@
     scope = null;
     ident = "tsscmp";
     ldir  = "info/unscoped/t/tsscmp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@tsconfig";
     ident = "@tsconfig/node12";
     ldir  = "info/tsconfig/node12";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

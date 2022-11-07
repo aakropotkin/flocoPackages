@@ -16,7 +16,7 @@
     scope = "@restart";
     ident = "@restart/ui";
     ldir  = "info/restart/ui";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

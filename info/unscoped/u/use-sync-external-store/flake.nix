@@ -16,7 +16,7 @@
     scope = null;
     ident = "use-sync-external-store";
     ldir  = "info/unscoped/u/use-sync-external-store";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

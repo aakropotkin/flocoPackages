@@ -16,7 +16,7 @@
     scope = null;
     ident = "remark-parse";
     ldir  = "info/unscoped/r/remark-parse";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

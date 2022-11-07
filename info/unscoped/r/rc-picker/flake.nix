@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-picker";
     ldir  = "info/unscoped/r/rc-picker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

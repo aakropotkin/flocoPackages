@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/stack-utils";
     ldir  = "info/types/stack-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

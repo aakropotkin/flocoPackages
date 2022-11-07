@@ -16,7 +16,7 @@
     scope = null;
     ident = "sync-request";
     ldir  = "info/unscoped/s/sync-request";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-input";
     ldir  = "info/unscoped/r/rc-input";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

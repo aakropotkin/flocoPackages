@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-nullish-coalescing-operator";
     ldir  = "info/babel/plugin-syntax-nullish-coalescing-operator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

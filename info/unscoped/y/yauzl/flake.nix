@@ -16,7 +16,7 @@
     scope = null;
     ident = "yauzl";
     ldir  = "info/unscoped/y/yauzl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

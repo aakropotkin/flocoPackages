@@ -16,7 +16,7 @@
     scope = "@serialport";
     ident = "@serialport/binding-mock";
     ldir  = "info/serialport/binding-mock";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "es6-map";
     ldir  = "info/unscoped/e/es6-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

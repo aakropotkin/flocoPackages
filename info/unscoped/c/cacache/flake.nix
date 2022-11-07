@@ -16,7 +16,7 @@
     scope = null;
     ident = "cacache";
     ldir  = "info/unscoped/c/cacache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

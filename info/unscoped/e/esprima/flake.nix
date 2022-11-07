@@ -16,7 +16,7 @@
     scope = null;
     ident = "esprima";
     ldir  = "info/unscoped/e/esprima";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

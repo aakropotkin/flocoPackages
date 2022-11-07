@@ -16,7 +16,7 @@
     scope = "@vue";
     ident = "@vue/devtools-api";
     ldir  = "info/vue/devtools-api";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

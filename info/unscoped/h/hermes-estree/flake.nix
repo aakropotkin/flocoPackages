@@ -16,7 +16,7 @@
     scope = null;
     ident = "hermes-estree";
     ldir  = "info/unscoped/h/hermes-estree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

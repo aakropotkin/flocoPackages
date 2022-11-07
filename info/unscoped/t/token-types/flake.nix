@@ -16,7 +16,7 @@
     scope = null;
     ident = "token-types";
     ldir  = "info/unscoped/t/token-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

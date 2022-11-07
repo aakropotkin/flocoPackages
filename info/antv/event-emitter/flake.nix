@@ -16,7 +16,7 @@
     scope = "@antv";
     ident = "@antv/event-emitter";
     ldir  = "info/antv/event-emitter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

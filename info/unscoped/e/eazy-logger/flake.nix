@@ -16,7 +16,7 @@
     scope = null;
     ident = "eazy-logger";
     ldir  = "info/unscoped/e/eazy-logger";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

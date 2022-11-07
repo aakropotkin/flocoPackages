@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/firestore-types";
     ldir  = "info/firebase/firestore-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

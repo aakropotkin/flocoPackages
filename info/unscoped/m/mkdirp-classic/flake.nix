@@ -16,7 +16,7 @@
     scope = null;
     ident = "mkdirp-classic";
     ldir  = "info/unscoped/m/mkdirp-classic";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

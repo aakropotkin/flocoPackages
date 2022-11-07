@@ -16,7 +16,7 @@
     scope = null;
     ident = "web-streams-polyfill";
     ldir  = "info/unscoped/w/web-streams-polyfill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

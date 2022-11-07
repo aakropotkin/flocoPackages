@@ -16,7 +16,7 @@
     scope = null;
     ident = "minipass-json-stream";
     ldir  = "info/unscoped/m/minipass-json-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

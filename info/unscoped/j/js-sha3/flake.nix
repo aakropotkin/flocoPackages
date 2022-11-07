@@ -16,7 +16,7 @@
     scope = null;
     ident = "js-sha3";
     ldir  = "info/unscoped/j/js-sha3";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

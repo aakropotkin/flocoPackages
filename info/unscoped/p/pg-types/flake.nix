@@ -16,7 +16,7 @@
     scope = null;
     ident = "pg-types";
     ldir  = "info/unscoped/p/pg-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

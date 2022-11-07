@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-builder-binary-assignment-operator-visitor";
     ldir  = "info/babel/helper-builder-binary-assignment-operator-visitor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

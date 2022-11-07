@@ -16,7 +16,7 @@
     scope = null;
     ident = "pug-error";
     ldir  = "info/unscoped/p/pug-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

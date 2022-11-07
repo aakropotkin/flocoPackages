@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-time-format";
     ldir  = "info/unscoped/d/d3-time-format";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

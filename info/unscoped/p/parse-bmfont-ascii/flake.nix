@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-bmfont-ascii";
     ldir  = "info/unscoped/p/parse-bmfont-ascii";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "minipass-pipeline";
     ldir  = "info/unscoped/m/minipass-pipeline";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

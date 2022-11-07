@@ -16,7 +16,7 @@
     scope = null;
     ident = "subtext";
     ldir  = "info/unscoped/s/subtext";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

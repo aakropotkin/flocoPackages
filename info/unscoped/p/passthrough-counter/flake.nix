@@ -16,7 +16,7 @@
     scope = null;
     ident = "passthrough-counter";
     ldir  = "info/unscoped/p/passthrough-counter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "promise-polyfill";
     ldir  = "info/unscoped/p/promise-polyfill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

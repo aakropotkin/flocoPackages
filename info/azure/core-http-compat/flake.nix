@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/core-http-compat";
     ldir  = "info/azure/core-http-compat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

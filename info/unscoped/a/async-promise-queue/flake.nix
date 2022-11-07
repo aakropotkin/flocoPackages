@@ -16,7 +16,7 @@
     scope = null;
     ident = "async-promise-queue";
     ldir  = "info/unscoped/a/async-promise-queue";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

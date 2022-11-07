@@ -16,7 +16,7 @@
     scope = null;
     ident = "pino-std-serializers";
     ldir  = "info/unscoped/p/pino-std-serializers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "renderkid";
     ldir  = "info/unscoped/r/renderkid";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

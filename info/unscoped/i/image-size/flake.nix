@@ -16,7 +16,7 @@
     scope = null;
     ident = "image-size";
     ldir  = "info/unscoped/i/image-size";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

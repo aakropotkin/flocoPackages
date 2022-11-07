@@ -16,7 +16,7 @@
     scope = null;
     ident = "a-sync-waterfall";
     ldir  = "info/unscoped/a/a-sync-waterfall";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

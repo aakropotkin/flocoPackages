@@ -16,7 +16,7 @@
     scope = null;
     ident = "level-codec";
     ldir  = "info/unscoped/l/level-codec";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

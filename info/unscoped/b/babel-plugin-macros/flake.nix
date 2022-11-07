@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-macros";
     ldir  = "info/unscoped/b/babel-plugin-macros";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

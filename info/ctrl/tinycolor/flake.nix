@@ -16,7 +16,7 @@
     scope = "@ctrl";
     ident = "@ctrl/tinycolor";
     ldir  = "info/ctrl/tinycolor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "method-override";
     ldir  = "info/unscoped/m/method-override";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

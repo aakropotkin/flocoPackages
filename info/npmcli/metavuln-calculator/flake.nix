@@ -16,7 +16,7 @@
     scope = "@npmcli";
     ident = "@npmcli/metavuln-calculator";
     ldir  = "info/npmcli/metavuln-calculator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

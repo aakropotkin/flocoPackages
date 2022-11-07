@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/linkify-it";
     ldir  = "info/types/linkify-it";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

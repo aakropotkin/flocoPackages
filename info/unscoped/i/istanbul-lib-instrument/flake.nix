@@ -16,7 +16,7 @@
     scope = null;
     ident = "istanbul-lib-instrument";
     ldir  = "info/unscoped/i/istanbul-lib-instrument";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

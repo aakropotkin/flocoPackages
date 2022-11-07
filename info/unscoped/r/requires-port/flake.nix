@@ -16,7 +16,7 @@
     scope = null;
     ident = "requires-port";
     ldir  = "info/unscoped/r/requires-port";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

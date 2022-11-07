@@ -16,7 +16,7 @@
     scope = null;
     ident = "sync-rpc";
     ldir  = "info/unscoped/s/sync-rpc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

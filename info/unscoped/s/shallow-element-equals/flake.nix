@@ -16,7 +16,7 @@
     scope = null;
     ident = "shallow-element-equals";
     ldir  = "info/unscoped/s/shallow-element-equals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

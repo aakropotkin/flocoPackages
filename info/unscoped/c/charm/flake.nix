@@ -16,7 +16,7 @@
     scope = null;
     ident = "charm";
     ldir  = "info/unscoped/c/charm";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

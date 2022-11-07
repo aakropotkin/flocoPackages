@@ -16,7 +16,7 @@
     scope = null;
     ident = "language-subtag-registry";
     ldir  = "info/unscoped/l/language-subtag-registry";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

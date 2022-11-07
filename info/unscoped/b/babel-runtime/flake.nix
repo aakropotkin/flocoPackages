@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-runtime";
     ldir  = "info/unscoped/b/babel-runtime";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

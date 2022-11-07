@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-fifo";
     ldir  = "info/unscoped/f/fast-fifo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

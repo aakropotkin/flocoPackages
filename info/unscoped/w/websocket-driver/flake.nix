@@ -16,7 +16,7 @@
     scope = null;
     ident = "websocket-driver";
     ldir  = "info/unscoped/w/websocket-driver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

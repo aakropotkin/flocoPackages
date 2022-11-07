@@ -16,7 +16,7 @@
     scope = null;
     ident = "mock-fs";
     ldir  = "info/unscoped/m/mock-fs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

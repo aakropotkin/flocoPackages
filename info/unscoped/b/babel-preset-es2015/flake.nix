@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-preset-es2015";
     ldir  = "info/unscoped/b/babel-preset-es2015";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

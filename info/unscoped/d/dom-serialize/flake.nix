@@ -16,7 +16,7 @@
     scope = null;
     ident = "dom-serialize";
     ldir  = "info/unscoped/d/dom-serialize";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

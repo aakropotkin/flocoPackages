@@ -16,7 +16,7 @@
     scope = null;
     ident = "common-path-prefix";
     ldir  = "info/unscoped/c/common-path-prefix";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

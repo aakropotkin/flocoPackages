@@ -16,7 +16,7 @@
     scope = null;
     ident = "object.assign";
     ldir  = "info/unscoped/o/object.assign";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

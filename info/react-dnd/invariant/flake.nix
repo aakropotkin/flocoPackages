@@ -16,7 +16,7 @@
     scope = "@react-dnd";
     ident = "@react-dnd/invariant";
     ldir  = "info/react-dnd/invariant";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/scheduler";
     ldir  = "info/types/scheduler";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

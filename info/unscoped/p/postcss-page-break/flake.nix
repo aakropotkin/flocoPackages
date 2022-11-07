@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-page-break";
     ldir  = "info/unscoped/p/postcss-page-break";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

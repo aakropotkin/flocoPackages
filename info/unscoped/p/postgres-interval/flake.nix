@@ -16,7 +16,7 @@
     scope = null;
     ident = "postgres-interval";
     ldir  = "info/unscoped/p/postgres-interval";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

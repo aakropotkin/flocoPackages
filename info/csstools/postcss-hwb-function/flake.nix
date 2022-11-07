@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-hwb-function";
     ldir  = "info/csstools/postcss-hwb-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

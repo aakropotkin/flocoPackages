@@ -16,7 +16,7 @@
     scope = null;
     ident = "jss-plugin-default-unit";
     ldir  = "info/unscoped/j/jss-plugin-default-unit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

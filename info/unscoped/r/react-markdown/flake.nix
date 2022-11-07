@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-markdown";
     ldir  = "info/unscoped/r/react-markdown";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "rimraf";
     ldir  = "info/unscoped/r/rimraf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@sinonjs";
     ident = "@sinonjs/fake-timers";
     ldir  = "info/sinonjs/fake-timers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

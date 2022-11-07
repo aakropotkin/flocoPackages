@@ -16,7 +16,7 @@
     scope = null;
     ident = "supertest";
     ldir  = "info/unscoped/s/supertest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

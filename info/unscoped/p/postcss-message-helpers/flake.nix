@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-message-helpers";
     ldir  = "info/unscoped/p/postcss-message-helpers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

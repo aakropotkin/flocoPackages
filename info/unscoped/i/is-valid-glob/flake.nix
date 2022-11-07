@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-valid-glob";
     ldir  = "info/unscoped/i/is-valid-glob";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

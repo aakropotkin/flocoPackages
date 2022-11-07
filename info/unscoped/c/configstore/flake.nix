@@ -16,7 +16,7 @@
     scope = null;
     ident = "configstore";
     ldir  = "info/unscoped/c/configstore";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "cssnano";
     ldir  = "info/unscoped/c/cssnano";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

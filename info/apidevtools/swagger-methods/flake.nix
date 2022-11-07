@@ -16,7 +16,7 @@
     scope = "@apidevtools";
     ident = "@apidevtools/swagger-methods";
     ldir  = "info/apidevtools/swagger-methods";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

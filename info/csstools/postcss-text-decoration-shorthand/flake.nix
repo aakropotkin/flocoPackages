@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-text-decoration-shorthand";
     ldir  = "info/csstools/postcss-text-decoration-shorthand";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

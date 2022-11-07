@@ -16,7 +16,7 @@
     scope = null;
     ident = "reflect-metadata";
     ldir  = "info/unscoped/r/reflect-metadata";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

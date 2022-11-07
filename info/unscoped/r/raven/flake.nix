@@ -16,7 +16,7 @@
     scope = null;
     ident = "raven";
     ldir  = "info/unscoped/r/raven";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

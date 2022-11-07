@@ -16,7 +16,7 @@
     scope = null;
     ident = "typescript-tuple";
     ldir  = "info/unscoped/t/typescript-tuple";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

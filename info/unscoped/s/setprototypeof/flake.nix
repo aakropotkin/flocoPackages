@@ -16,7 +16,7 @@
     scope = null;
     ident = "setprototypeof";
     ldir  = "info/unscoped/s/setprototypeof";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-types";
     ldir  = "info/unscoped/b/babel-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

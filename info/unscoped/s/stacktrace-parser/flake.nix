@@ -16,7 +16,7 @@
     scope = null;
     ident = "stacktrace-parser";
     ldir  = "info/unscoped/s/stacktrace-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "maxmin";
     ldir  = "info/unscoped/m/maxmin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

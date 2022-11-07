@@ -16,7 +16,7 @@
     scope = null;
     ident = "fetch-blob";
     ldir  = "info/unscoped/f/fetch-blob";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

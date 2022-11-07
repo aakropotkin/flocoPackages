@@ -16,7 +16,7 @@
     scope = "@emotion";
     ident = "@emotion/serialize";
     ldir  = "info/emotion/serialize";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

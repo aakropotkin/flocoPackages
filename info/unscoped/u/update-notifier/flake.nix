@@ -16,7 +16,7 @@
     scope = null;
     ident = "update-notifier";
     ldir  = "info/unscoped/u/update-notifier";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

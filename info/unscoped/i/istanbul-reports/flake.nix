@@ -16,7 +16,7 @@
     scope = null;
     ident = "istanbul-reports";
     ldir  = "info/unscoped/i/istanbul-reports";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

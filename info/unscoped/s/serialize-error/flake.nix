@@ -16,7 +16,7 @@
     scope = null;
     ident = "serialize-error";
     ldir  = "info/unscoped/s/serialize-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

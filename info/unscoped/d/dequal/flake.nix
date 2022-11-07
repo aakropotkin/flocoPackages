@@ -16,7 +16,7 @@
     scope = null;
     ident = "dequal";
     ldir  = "info/unscoped/d/dequal";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

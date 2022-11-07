@@ -16,7 +16,7 @@
     scope = null;
     ident = "formidable";
     ldir  = "info/unscoped/f/formidable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

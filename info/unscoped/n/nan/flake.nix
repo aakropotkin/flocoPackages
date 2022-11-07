@@ -16,7 +16,7 @@
     scope = null;
     ident = "nan";
     ldir  = "info/unscoped/n/nan";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

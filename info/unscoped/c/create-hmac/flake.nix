@@ -16,7 +16,7 @@
     scope = null;
     ident = "create-hmac";
     ldir  = "info/unscoped/c/create-hmac";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

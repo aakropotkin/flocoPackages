@@ -16,7 +16,7 @@
     scope = null;
     ident = "level-write-stream";
     ldir  = "info/unscoped/l/level-write-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

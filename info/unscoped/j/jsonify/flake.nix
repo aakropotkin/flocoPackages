@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsonify";
     ldir  = "info/unscoped/j/jsonify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

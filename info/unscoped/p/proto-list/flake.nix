@@ -16,7 +16,7 @@
     scope = null;
     ident = "proto-list";
     ldir  = "info/unscoped/p/proto-list";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

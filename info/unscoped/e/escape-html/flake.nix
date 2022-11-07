@@ -16,7 +16,7 @@
     scope = null;
     ident = "escape-html";
     ldir  = "info/unscoped/e/escape-html";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

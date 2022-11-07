@@ -16,7 +16,7 @@
     scope = null;
     ident = "typeorm";
     ldir  = "info/unscoped/t/typeorm";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

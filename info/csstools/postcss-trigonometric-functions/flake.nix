@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-trigonometric-functions";
     ldir  = "info/csstools/postcss-trigonometric-functions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

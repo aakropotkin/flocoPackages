@@ -16,7 +16,7 @@
     scope = null;
     ident = "decode-named-character-reference";
     ldir  = "info/unscoped/d/decode-named-character-reference";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

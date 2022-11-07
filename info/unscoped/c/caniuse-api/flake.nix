@@ -16,7 +16,7 @@
     scope = null;
     ident = "caniuse-api";
     ldir  = "info/unscoped/c/caniuse-api";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

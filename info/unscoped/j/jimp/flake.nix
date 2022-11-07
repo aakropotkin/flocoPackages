@@ -16,7 +16,7 @@
     scope = null;
     ident = "jimp";
     ldir  = "info/unscoped/j/jimp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

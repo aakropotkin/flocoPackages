@@ -16,7 +16,7 @@
     scope = null;
     ident = "array.prototype.find";
     ldir  = "info/unscoped/a/array.prototype.find";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

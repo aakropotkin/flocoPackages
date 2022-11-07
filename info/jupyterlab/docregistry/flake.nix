@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/docregistry";
     ldir  = "info/jupyterlab/docregistry";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

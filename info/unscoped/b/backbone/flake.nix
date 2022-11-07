@@ -16,7 +16,7 @@
     scope = null;
     ident = "backbone";
     ldir  = "info/unscoped/b/backbone";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

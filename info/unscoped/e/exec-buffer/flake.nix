@@ -16,7 +16,7 @@
     scope = null;
     ident = "exec-buffer";
     ldir  = "info/unscoped/e/exec-buffer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

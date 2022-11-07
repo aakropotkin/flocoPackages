@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-preset-current-node-syntax";
     ldir  = "info/unscoped/b/babel-preset-current-node-syntax";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

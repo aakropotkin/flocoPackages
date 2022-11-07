@@ -16,7 +16,7 @@
     scope = "@emotion";
     ident = "@emotion/hash";
     ldir  = "info/emotion/hash";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

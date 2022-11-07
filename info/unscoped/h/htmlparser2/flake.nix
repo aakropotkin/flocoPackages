@@ -16,7 +16,7 @@
     scope = null;
     ident = "htmlparser2";
     ldir  = "info/unscoped/h/htmlparser2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "queue-tick";
     ldir  = "info/unscoped/q/queue-tick";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

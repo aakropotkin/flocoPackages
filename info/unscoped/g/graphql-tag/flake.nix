@@ -16,7 +16,7 @@
     scope = null;
     ident = "graphql-tag";
     ldir  = "info/unscoped/g/graphql-tag";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

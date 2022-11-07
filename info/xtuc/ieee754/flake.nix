@@ -16,7 +16,7 @@
     scope = "@xtuc";
     ident = "@xtuc/ieee754";
     ldir  = "info/xtuc/ieee754";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

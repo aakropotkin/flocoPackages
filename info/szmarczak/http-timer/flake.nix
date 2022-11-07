@@ -16,7 +16,7 @@
     scope = "@szmarczak";
     ident = "@szmarczak/http-timer";
     ldir  = "info/szmarczak/http-timer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

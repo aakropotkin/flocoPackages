@@ -16,7 +16,7 @@
     scope = "@grpc";
     ident = "@grpc/proto-loader";
     ldir  = "info/grpc/proto-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

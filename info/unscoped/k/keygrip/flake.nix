@@ -16,7 +16,7 @@
     scope = null;
     ident = "keygrip";
     ldir  = "info/unscoped/k/keygrip";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-normalize-url";
     ldir  = "info/unscoped/p/postcss-normalize-url";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

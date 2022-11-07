@@ -16,7 +16,7 @@
     scope = null;
     ident = "exec-sh";
     ldir  = "info/unscoped/e/exec-sh";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

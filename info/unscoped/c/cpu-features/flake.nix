@@ -16,7 +16,7 @@
     scope = null;
     ident = "cpu-features";
     ldir  = "info/unscoped/c/cpu-features";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

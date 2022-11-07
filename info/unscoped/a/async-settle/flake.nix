@@ -16,7 +16,7 @@
     scope = null;
     ident = "async-settle";
     ldir  = "info/unscoped/a/async-settle";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

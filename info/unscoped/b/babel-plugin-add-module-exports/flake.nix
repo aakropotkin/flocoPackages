@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-add-module-exports";
     ldir  = "info/unscoped/b/babel-plugin-add-module-exports";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

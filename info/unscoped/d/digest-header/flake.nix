@@ -16,7 +16,7 @@
     scope = null;
     ident = "digest-header";
     ldir  = "info/unscoped/d/digest-header";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

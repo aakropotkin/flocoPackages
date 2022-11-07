@@ -16,7 +16,7 @@
     scope = "@kwsites";
     ident = "@kwsites/file-exists";
     ldir  = "info/kwsites/file-exists";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

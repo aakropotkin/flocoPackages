@@ -16,7 +16,7 @@
     scope = null;
     ident = "pg-pool";
     ldir  = "info/unscoped/p/pg-pool";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

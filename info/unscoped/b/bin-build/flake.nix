@@ -16,7 +16,7 @@
     scope = null;
     ident = "bin-build";
     ldir  = "info/unscoped/b/bin-build";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

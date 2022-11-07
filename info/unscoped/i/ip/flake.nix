@@ -16,7 +16,7 @@
     scope = null;
     ident = "ip";
     ldir  = "info/unscoped/i/ip";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "recompose";
     ldir  = "info/unscoped/r/recompose";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

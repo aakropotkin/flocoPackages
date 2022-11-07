@@ -16,7 +16,7 @@
     scope = null;
     ident = "forwarded";
     ldir  = "info/unscoped/f/forwarded";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

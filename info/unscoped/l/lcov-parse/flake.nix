@@ -16,7 +16,7 @@
     scope = null;
     ident = "lcov-parse";
     ldir  = "info/unscoped/l/lcov-parse";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

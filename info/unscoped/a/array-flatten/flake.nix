@@ -16,7 +16,7 @@
     scope = null;
     ident = "array-flatten";
     ldir  = "info/unscoped/a/array-flatten";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

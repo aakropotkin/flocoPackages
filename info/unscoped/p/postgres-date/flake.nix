@@ -16,7 +16,7 @@
     scope = null;
     ident = "postgres-date";
     ldir  = "info/unscoped/p/postgres-date";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

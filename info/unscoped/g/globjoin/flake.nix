@@ -16,7 +16,7 @@
     scope = null;
     ident = "globjoin";
     ldir  = "info/unscoped/g/globjoin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

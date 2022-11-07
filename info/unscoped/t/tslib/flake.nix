@@ -16,7 +16,7 @@
     scope = null;
     ident = "tslib";
     ldir  = "info/unscoped/t/tslib";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

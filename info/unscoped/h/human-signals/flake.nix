@@ -16,7 +16,7 @@
     scope = null;
     ident = "human-signals";
     ldir  = "info/unscoped/h/human-signals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

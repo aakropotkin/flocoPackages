@@ -16,7 +16,7 @@
     scope = null;
     ident = "thread-stream";
     ldir  = "info/unscoped/t/thread-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

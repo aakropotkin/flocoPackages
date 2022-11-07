@@ -16,7 +16,7 @@
     scope = null;
     ident = "axe-core";
     ldir  = "info/unscoped/a/axe-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

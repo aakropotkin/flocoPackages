@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-gap-properties";
     ldir  = "info/unscoped/p/postcss-gap-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

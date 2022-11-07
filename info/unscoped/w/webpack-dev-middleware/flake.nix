@@ -16,7 +16,7 @@
     scope = null;
     ident = "webpack-dev-middleware";
     ldir  = "info/unscoped/w/webpack-dev-middleware";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

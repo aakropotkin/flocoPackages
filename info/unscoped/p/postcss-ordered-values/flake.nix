@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-ordered-values";
     ldir  = "info/unscoped/p/postcss-ordered-values";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

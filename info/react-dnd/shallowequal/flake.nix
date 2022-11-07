@@ -16,7 +16,7 @@
     scope = "@react-dnd";
     ident = "@react-dnd/shallowequal";
     ldir  = "info/react-dnd/shallowequal";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

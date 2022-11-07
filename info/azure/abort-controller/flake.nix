@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/abort-controller";
     ldir  = "info/azure/abort-controller";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

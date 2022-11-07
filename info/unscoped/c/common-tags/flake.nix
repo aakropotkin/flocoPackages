@@ -16,7 +16,7 @@
     scope = null;
     ident = "common-tags";
     ldir  = "info/unscoped/c/common-tags";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

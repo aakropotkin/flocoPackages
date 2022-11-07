@@ -16,7 +16,7 @@
     scope = null;
     ident = "immutability-helper";
     ldir  = "info/unscoped/i/immutability-helper";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

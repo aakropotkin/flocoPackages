@@ -16,7 +16,7 @@
     scope = null;
     ident = "humanize-ms";
     ldir  = "info/unscoped/h/humanize-ms";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "supports-preserve-symlinks-flag";
     ldir  = "info/unscoped/s/supports-preserve-symlinks-flag";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

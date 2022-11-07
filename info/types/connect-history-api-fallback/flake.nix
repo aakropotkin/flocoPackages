@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/connect-history-api-fallback";
     ldir  = "info/types/connect-history-api-fallback";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

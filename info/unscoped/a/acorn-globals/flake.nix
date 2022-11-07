@@ -16,7 +16,7 @@
     scope = null;
     ident = "acorn-globals";
     ldir  = "info/unscoped/a/acorn-globals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

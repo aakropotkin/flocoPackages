@@ -16,7 +16,7 @@
     scope = null;
     ident = "dns-packet";
     ldir  = "info/unscoped/d/dns-packet";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

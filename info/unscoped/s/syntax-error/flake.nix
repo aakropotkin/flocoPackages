@@ -16,7 +16,7 @@
     scope = null;
     ident = "syntax-error";
     ldir  = "info/unscoped/s/syntax-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

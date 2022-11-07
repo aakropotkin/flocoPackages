@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsonpath-plus";
     ldir  = "info/unscoped/j/jsonpath-plus";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

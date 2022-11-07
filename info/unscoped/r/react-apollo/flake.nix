@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-apollo";
     ldir  = "info/unscoped/r/react-apollo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

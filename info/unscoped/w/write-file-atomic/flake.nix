@@ -16,7 +16,7 @@
     scope = null;
     ident = "write-file-atomic";
     ldir  = "info/unscoped/w/write-file-atomic";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

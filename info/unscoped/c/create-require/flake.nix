@@ -16,7 +16,7 @@
     scope = null;
     ident = "create-require";
     ldir  = "info/unscoped/c/create-require";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

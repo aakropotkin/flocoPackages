@@ -16,7 +16,7 @@
     scope = null;
     ident = "envinfo";
     ldir  = "info/unscoped/e/envinfo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

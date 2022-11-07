@@ -16,7 +16,7 @@
     scope = "@npmcli";
     ident = "@npmcli/git";
     ldir  = "info/npmcli/git";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

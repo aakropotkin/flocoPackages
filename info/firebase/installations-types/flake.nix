@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/installations-types";
     ldir  = "info/firebase/installations-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

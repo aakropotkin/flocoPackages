@@ -16,7 +16,7 @@
     scope = null;
     ident = "attr-accept";
     ldir  = "info/unscoped/a/attr-accept";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

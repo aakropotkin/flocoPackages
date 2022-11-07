@@ -16,7 +16,7 @@
     scope = null;
     ident = "saslprep";
     ldir  = "info/unscoped/s/saslprep";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

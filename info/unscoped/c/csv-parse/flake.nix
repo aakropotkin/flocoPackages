@@ -16,7 +16,7 @@
     scope = null;
     ident = "csv-parse";
     ldir  = "info/unscoped/c/csv-parse";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

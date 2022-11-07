@@ -16,7 +16,7 @@
     scope = null;
     ident = "libnpmhook";
     ldir  = "info/unscoped/l/libnpmhook";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

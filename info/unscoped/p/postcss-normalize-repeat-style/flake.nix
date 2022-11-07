@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-normalize-repeat-style";
     ldir  = "info/unscoped/p/postcss-normalize-repeat-style";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

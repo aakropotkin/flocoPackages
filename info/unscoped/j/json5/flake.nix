@@ -16,7 +16,7 @@
     scope = null;
     ident = "json5";
     ldir  = "info/unscoped/j/json5";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

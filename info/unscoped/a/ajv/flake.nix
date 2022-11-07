@@ -16,7 +16,7 @@
     scope = null;
     ident = "ajv";
     ldir  = "info/unscoped/a/ajv";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

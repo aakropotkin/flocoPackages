@@ -16,7 +16,7 @@
     scope = null;
     ident = "bin-links";
     ldir  = "info/unscoped/b/bin-links";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

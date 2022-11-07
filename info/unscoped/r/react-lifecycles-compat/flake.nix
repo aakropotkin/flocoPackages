@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-lifecycles-compat";
     ldir  = "info/unscoped/r/react-lifecycles-compat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

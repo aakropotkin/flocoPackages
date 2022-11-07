@@ -16,7 +16,7 @@
     scope = null;
     ident = "es-shim-unscopables";
     ldir  = "info/unscoped/e/es-shim-unscopables";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

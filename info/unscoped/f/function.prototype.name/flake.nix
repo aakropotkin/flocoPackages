@@ -16,7 +16,7 @@
     scope = null;
     ident = "function.prototype.name";
     ldir  = "info/unscoped/f/function.prototype.name";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

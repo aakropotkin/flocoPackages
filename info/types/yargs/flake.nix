@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/yargs";
     ldir  = "info/types/yargs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

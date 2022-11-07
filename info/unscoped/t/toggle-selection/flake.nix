@@ -16,7 +16,7 @@
     scope = null;
     ident = "toggle-selection";
     ldir  = "info/unscoped/t/toggle-selection";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

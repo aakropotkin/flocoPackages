@@ -16,7 +16,7 @@
     scope = null;
     ident = "undeclared-identifiers";
     ldir  = "info/unscoped/u/undeclared-identifiers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "to-through";
     ldir  = "info/unscoped/t/to-through";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

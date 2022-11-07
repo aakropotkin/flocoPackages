@@ -16,7 +16,7 @@
     scope = "@lit";
     ident = "@lit/reactive-element";
     ldir  = "info/lit/reactive-element";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

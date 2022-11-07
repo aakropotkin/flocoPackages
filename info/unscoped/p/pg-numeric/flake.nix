@@ -16,7 +16,7 @@
     scope = null;
     ident = "pg-numeric";
     ldir  = "info/unscoped/p/pg-numeric";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@typescript-eslint";
     ident = "@typescript-eslint/visitor-keys";
     ldir  = "info/typescript-eslint/visitor-keys";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

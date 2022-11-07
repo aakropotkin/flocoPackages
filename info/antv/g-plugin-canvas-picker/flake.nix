@@ -16,7 +16,7 @@
     scope = "@antv";
     ident = "@antv/g-plugin-canvas-picker";
     ldir  = "info/antv/g-plugin-canvas-picker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

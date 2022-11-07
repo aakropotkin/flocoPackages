@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/dom4";
     ldir  = "info/types/dom4";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

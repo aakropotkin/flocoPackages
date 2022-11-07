@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/translation";
     ldir  = "info/jupyterlab/translation";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

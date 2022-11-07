@@ -16,7 +16,7 @@
     scope = null;
     ident = "pause-stream";
     ldir  = "info/unscoped/p/pause-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

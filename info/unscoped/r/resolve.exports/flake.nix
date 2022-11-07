@@ -16,7 +16,7 @@
     scope = null;
     ident = "resolve.exports";
     ldir  = "info/unscoped/r/resolve.exports";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

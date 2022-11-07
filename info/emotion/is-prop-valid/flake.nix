@@ -16,7 +16,7 @@
     scope = "@emotion";
     ident = "@emotion/is-prop-valid";
     ldir  = "info/emotion/is-prop-valid";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

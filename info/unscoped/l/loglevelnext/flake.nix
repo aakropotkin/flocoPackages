@@ -16,7 +16,7 @@
     scope = null;
     ident = "loglevelnext";
     ldir  = "info/unscoped/l/loglevelnext";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

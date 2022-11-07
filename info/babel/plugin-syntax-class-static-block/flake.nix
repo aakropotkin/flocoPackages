@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-class-static-block";
     ldir  = "info/babel/plugin-syntax-class-static-block";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "neo-async";
     ldir  = "info/unscoped/n/neo-async";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

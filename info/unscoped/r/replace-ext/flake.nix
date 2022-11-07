@@ -16,7 +16,7 @@
     scope = null;
     ident = "replace-ext";
     ldir  = "info/unscoped/r/replace-ext";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

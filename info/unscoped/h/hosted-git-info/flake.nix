@@ -16,7 +16,7 @@
     scope = null;
     ident = "hosted-git-info";
     ldir  = "info/unscoped/h/hosted-git-info";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

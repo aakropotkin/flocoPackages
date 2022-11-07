@@ -16,7 +16,7 @@
     scope = null;
     ident = "codemirror";
     ldir  = "info/unscoped/c/codemirror";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

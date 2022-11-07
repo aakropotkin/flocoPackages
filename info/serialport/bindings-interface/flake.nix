@@ -16,7 +16,7 @@
     scope = "@serialport";
     ident = "@serialport/bindings-interface";
     ldir  = "info/serialport/bindings-interface";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

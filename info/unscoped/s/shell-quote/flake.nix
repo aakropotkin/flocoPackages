@@ -16,7 +16,7 @@
     scope = null;
     ident = "shell-quote";
     ldir  = "info/unscoped/s/shell-quote";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "type-detect";
     ldir  = "info/unscoped/t/type-detect";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

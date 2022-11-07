@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-annotate-as-pure";
     ldir  = "info/babel/helper-annotate-as-pure";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

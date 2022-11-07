@@ -16,7 +16,7 @@
     scope = null;
     ident = "download-git-repo";
     ldir  = "info/unscoped/d/download-git-repo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

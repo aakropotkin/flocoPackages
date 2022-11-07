@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/uuid";
     ldir  = "info/types/uuid";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

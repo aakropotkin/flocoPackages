@@ -16,7 +16,7 @@
     scope = null;
     ident = "webidl-conversions";
     ldir  = "info/unscoped/w/webidl-conversions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

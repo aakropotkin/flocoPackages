@@ -16,7 +16,7 @@
     scope = null;
     ident = "keycode";
     ldir  = "info/unscoped/k/keycode";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

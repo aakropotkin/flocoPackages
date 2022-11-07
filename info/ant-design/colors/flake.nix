@@ -16,7 +16,7 @@
     scope = "@ant-design";
     ident = "@ant-design/colors";
     ldir  = "info/ant-design/colors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

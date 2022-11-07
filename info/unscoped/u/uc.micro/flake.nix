@@ -16,7 +16,7 @@
     scope = null;
     ident = "uc.micro";
     ldir  = "info/unscoped/u/uc.micro";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

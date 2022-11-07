@@ -16,7 +16,7 @@
     scope = null;
     ident = "sync-disk-cache";
     ldir  = "info/unscoped/s/sync-disk-cache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

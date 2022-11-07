@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-symbol";
     ldir  = "info/unscoped/i/is-symbol";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

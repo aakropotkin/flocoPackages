@@ -16,7 +16,7 @@
     scope = "@vue";
     ident = "@vue/compiler-core";
     ldir  = "info/vue/compiler-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

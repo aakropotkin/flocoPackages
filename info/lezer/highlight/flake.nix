@@ -16,7 +16,7 @@
     scope = "@lezer";
     ident = "@lezer/highlight";
     ldir  = "info/lezer/highlight";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

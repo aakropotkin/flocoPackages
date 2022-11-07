@@ -16,7 +16,7 @@
     scope = null;
     ident = "html-loader";
     ldir  = "info/unscoped/h/html-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "phantomjs-prebuilt";
     ldir  = "info/unscoped/p/phantomjs-prebuilt";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

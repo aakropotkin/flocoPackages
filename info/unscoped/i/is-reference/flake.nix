@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-reference";
     ldir  = "info/unscoped/i/is-reference";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "raw-loader";
     ldir  = "info/unscoped/r/raw-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "mathml-tag-names";
     ldir  = "info/unscoped/m/mathml-tag-names";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

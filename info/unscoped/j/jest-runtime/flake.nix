@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-runtime";
     ldir  = "info/unscoped/j/jest-runtime";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-proposal-dynamic-import";
     ldir  = "info/babel/plugin-proposal-dynamic-import";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

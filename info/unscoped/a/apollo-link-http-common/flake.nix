@@ -16,7 +16,7 @@
     scope = null;
     ident = "apollo-link-http-common";
     ldir  = "info/unscoped/a/apollo-link-http-common";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

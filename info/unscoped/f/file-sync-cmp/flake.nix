@@ -16,7 +16,7 @@
     scope = null;
     ident = "file-sync-cmp";
     ldir  = "info/unscoped/f/file-sync-cmp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

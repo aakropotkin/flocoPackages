@@ -16,7 +16,7 @@
     scope = null;
     ident = "executable";
     ldir  = "info/unscoped/e/executable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@eslint";
     ident = "@eslint/eslintrc";
     ldir  = "info/eslint/eslintrc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

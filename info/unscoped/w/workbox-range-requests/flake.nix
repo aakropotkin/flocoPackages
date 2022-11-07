@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-range-requests";
     ldir  = "info/unscoped/w/workbox-range-requests";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

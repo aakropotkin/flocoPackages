@@ -16,7 +16,7 @@
     scope = "@cspotcode";
     ident = "@cspotcode/source-map-support";
     ldir  = "info/cspotcode/source-map-support";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

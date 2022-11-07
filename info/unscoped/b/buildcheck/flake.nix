@@ -16,7 +16,7 @@
     scope = null;
     ident = "buildcheck";
     ldir  = "info/unscoped/b/buildcheck";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "normalize-package-data";
     ldir  = "info/unscoped/n/normalize-package-data";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@semantic-ui-react";
     ident = "@semantic-ui-react/event-stack";
     ldir  = "info/semantic-ui-react/event-stack";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

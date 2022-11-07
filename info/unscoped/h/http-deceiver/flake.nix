@@ -16,7 +16,7 @@
     scope = null;
     ident = "http-deceiver";
     ldir  = "info/unscoped/h/http-deceiver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

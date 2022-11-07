@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs.realpath";
     ldir  = "info/unscoped/f/fs.realpath";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

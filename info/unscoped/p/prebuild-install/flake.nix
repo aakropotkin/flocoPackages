@@ -16,7 +16,7 @@
     scope = null;
     ident = "prebuild-install";
     ldir  = "info/unscoped/p/prebuild-install";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

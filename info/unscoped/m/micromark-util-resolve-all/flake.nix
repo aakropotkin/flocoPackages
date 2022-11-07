@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-util-resolve-all";
     ldir  = "info/unscoped/m/micromark-util-resolve-all";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

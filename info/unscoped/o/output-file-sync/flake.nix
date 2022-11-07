@@ -16,7 +16,7 @@
     scope = null;
     ident = "output-file-sync";
     ldir  = "info/unscoped/o/output-file-sync";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

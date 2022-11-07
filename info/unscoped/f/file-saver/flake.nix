@@ -16,7 +16,7 @@
     scope = null;
     ident = "file-saver";
     ldir  = "info/unscoped/f/file-saver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

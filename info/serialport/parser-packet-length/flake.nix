@@ -16,7 +16,7 @@
     scope = "@serialport";
     ident = "@serialport/parser-packet-length";
     ldir  = "info/serialport/parser-packet-length";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

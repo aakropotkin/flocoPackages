@@ -16,7 +16,7 @@
     scope = null;
     ident = "pako";
     ldir  = "info/unscoped/p/pako";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

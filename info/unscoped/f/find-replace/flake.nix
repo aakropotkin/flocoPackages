@@ -16,7 +16,7 @@
     scope = null;
     ident = "find-replace";
     ldir  = "info/unscoped/f/find-replace";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

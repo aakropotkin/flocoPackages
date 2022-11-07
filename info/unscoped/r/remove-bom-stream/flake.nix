@@ -16,7 +16,7 @@
     scope = null;
     ident = "remove-bom-stream";
     ldir  = "info/unscoped/r/remove-bom-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@redux-saga";
     ident = "@redux-saga/deferred";
     ldir  = "info/redux-saga/deferred";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

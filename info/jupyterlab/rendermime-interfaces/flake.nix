@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/rendermime-interfaces";
     ldir  = "info/jupyterlab/rendermime-interfaces";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

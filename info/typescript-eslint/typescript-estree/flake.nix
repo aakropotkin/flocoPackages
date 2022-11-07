@@ -16,7 +16,7 @@
     scope = "@typescript-eslint";
     ident = "@typescript-eslint/typescript-estree";
     ldir  = "info/typescript-eslint/typescript-estree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

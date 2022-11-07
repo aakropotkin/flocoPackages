@@ -16,7 +16,7 @@
     scope = null;
     ident = "deps-sort";
     ldir  = "info/unscoped/d/deps-sort";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

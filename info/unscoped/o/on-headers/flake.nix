@@ -16,7 +16,7 @@
     scope = null;
     ident = "on-headers";
     ldir  = "info/unscoped/o/on-headers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

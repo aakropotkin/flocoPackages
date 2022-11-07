@@ -16,7 +16,7 @@
     scope = null;
     ident = "ts-invariant";
     ldir  = "info/unscoped/t/ts-invariant";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

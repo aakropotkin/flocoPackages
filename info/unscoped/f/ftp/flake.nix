@@ -16,7 +16,7 @@
     scope = null;
     ident = "ftp";
     ldir  = "info/unscoped/f/ftp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

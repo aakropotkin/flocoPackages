@@ -16,7 +16,7 @@
     scope = null;
     ident = "gcp-metadata";
     ldir  = "info/unscoped/g/gcp-metadata";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

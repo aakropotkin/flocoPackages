@@ -16,7 +16,7 @@
     scope = null;
     ident = "clean-up-path";
     ldir  = "info/unscoped/c/clean-up-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

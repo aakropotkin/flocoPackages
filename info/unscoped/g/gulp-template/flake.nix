@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-template";
     ldir  = "info/unscoped/g/gulp-template";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

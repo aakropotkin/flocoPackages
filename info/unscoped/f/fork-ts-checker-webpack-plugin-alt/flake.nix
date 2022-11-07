@@ -16,7 +16,7 @@
     scope = null;
     ident = "fork-ts-checker-webpack-plugin-alt";
     ldir  = "info/unscoped/f/fork-ts-checker-webpack-plugin-alt";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

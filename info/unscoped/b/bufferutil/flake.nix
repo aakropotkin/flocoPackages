@@ -16,7 +16,7 @@
     scope = null;
     ident = "bufferutil";
     ldir  = "info/unscoped/b/bufferutil";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

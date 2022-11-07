@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-forge";
     ldir  = "info/unscoped/n/node-forge";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

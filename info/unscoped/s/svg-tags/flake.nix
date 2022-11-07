@@ -16,7 +16,7 @@
     scope = null;
     ident = "svg-tags";
     ldir  = "info/unscoped/s/svg-tags";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

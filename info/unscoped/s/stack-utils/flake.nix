@@ -16,7 +16,7 @@
     scope = null;
     ident = "stack-utils";
     ldir  = "info/unscoped/s/stack-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

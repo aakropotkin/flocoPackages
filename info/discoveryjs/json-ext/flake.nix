@@ -16,7 +16,7 @@
     scope = "@discoveryjs";
     ident = "@discoveryjs/json-ext";
     ldir  = "info/discoveryjs/json-ext";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

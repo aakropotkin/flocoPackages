@@ -16,7 +16,7 @@
     scope = null;
     ident = "json2module";
     ldir  = "info/unscoped/j/json2module";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

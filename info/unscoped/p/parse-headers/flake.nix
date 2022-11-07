@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-headers";
     ldir  = "info/unscoped/p/parse-headers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

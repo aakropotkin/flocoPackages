@@ -16,7 +16,7 @@
     scope = null;
     ident = "multimatch";
     ldir  = "info/unscoped/m/multimatch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

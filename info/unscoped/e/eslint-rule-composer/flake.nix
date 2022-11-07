@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-rule-composer";
     ldir  = "info/unscoped/e/eslint-rule-composer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

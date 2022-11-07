@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-bmfont-xml";
     ldir  = "info/unscoped/p/parse-bmfont-xml";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

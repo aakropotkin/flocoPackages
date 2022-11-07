@@ -16,7 +16,7 @@
     scope = null;
     ident = "default-require-extensions";
     ldir  = "info/unscoped/d/default-require-extensions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

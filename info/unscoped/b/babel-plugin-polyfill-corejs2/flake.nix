@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-polyfill-corejs2";
     ldir  = "info/unscoped/b/babel-plugin-polyfill-corejs2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "normalize.css";
     ldir  = "info/unscoped/n/normalize.css";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

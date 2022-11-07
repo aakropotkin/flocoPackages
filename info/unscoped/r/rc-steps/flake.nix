@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-steps";
     ldir  = "info/unscoped/r/rc-steps";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

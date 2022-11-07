@@ -16,7 +16,7 @@
     scope = null;
     ident = "spdx-exceptions";
     ldir  = "info/unscoped/s/spdx-exceptions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

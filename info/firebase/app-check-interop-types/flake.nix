@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/app-check-interop-types";
     ldir  = "info/firebase/app-check-interop-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

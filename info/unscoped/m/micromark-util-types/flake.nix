@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-util-types";
     ldir  = "info/unscoped/m/micromark-util-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

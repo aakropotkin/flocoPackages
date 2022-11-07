@@ -16,7 +16,7 @@
     scope = null;
     ident = "requizzle";
     ldir  = "info/unscoped/r/requizzle";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

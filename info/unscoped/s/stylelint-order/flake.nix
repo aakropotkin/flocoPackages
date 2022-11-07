@@ -16,7 +16,7 @@
     scope = null;
     ident = "stylelint-order";
     ldir  = "info/unscoped/s/stylelint-order";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

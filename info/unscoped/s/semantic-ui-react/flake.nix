@@ -16,7 +16,7 @@
     scope = null;
     ident = "semantic-ui-react";
     ldir  = "info/unscoped/s/semantic-ui-react";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

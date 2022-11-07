@@ -16,7 +16,7 @@
     scope = null;
     ident = "memory-fs";
     ldir  = "info/unscoped/m/memory-fs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

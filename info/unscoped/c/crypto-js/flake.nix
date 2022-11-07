@@ -16,7 +16,7 @@
     scope = null;
     ident = "crypto-js";
     ldir  = "info/unscoped/c/crypto-js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "uglify-es";
     ldir  = "info/unscoped/u/uglify-es";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

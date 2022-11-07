@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-custom-media";
     ldir  = "info/unscoped/p/postcss-custom-media";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

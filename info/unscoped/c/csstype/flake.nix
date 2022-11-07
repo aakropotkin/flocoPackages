@@ -16,7 +16,7 @@
     scope = null;
     ident = "csstype";
     ldir  = "info/unscoped/c/csstype";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

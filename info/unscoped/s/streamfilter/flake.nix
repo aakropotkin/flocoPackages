@@ -16,7 +16,7 @@
     scope = null;
     ident = "streamfilter";
     ldir  = "info/unscoped/s/streamfilter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

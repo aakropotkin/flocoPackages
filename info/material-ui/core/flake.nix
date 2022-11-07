@@ -16,7 +16,7 @@
     scope = "@material-ui";
     ident = "@material-ui/core";
     ldir  = "info/material-ui/core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

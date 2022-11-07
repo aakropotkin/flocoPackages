@@ -16,7 +16,7 @@
     scope = null;
     ident = "idb";
     ldir  = "info/unscoped/i/idb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

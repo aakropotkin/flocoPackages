@@ -16,7 +16,7 @@
     scope = null;
     ident = "table-layout";
     ldir  = "info/unscoped/t/table-layout";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

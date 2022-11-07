@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/shared-models";
     ldir  = "info/jupyterlab/shared-models";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

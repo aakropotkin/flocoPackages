@@ -16,7 +16,7 @@
     scope = null;
     ident = "gl-matrix";
     ldir  = "info/unscoped/g/gl-matrix";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

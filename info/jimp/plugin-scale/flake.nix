@@ -16,7 +16,7 @@
     scope = "@jimp";
     ident = "@jimp/plugin-scale";
     ldir  = "info/jimp/plugin-scale";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "http-proxy-middleware";
     ldir  = "info/unscoped/h/http-proxy-middleware";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

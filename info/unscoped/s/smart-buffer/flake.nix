@@ -16,7 +16,7 @@
     scope = null;
     ident = "smart-buffer";
     ldir  = "info/unscoped/s/smart-buffer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "dot-prop";
     ldir  = "info/unscoped/d/dot-prop";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

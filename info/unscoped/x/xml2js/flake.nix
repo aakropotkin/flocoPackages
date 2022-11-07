@@ -16,7 +16,7 @@
     scope = null;
     ident = "xml2js";
     ldir  = "info/unscoped/x/xml2js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-ic-unit";
     ldir  = "info/csstools/postcss-ic-unit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

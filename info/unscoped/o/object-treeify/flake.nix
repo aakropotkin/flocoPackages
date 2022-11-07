@@ -16,7 +16,7 @@
     scope = null;
     ident = "object-treeify";
     ldir  = "info/unscoped/o/object-treeify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

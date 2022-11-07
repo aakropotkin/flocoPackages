@@ -16,7 +16,7 @@
     scope = null;
     ident = "console-control-strings";
     ldir  = "info/unscoped/c/console-control-strings";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

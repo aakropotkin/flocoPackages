@@ -16,7 +16,7 @@
     scope = "@npmcli";
     ident = "@npmcli/node-gyp";
     ldir  = "info/npmcli/node-gyp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

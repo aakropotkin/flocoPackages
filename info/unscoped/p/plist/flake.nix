@@ -16,7 +16,7 @@
     scope = null;
     ident = "plist";
     ldir  = "info/unscoped/p/plist";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

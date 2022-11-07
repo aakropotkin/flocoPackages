@@ -16,7 +16,7 @@
     scope = null;
     ident = "highlight.js";
     ldir  = "info/unscoped/h/highlight.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

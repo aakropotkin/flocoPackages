@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/babel-plugin-svg-em-dimensions";
     ldir  = "info/svgr/babel-plugin-svg-em-dimensions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@octokit";
     ident = "@octokit/plugin-rest-endpoint-methods";
     ldir  = "info/octokit/plugin-rest-endpoint-methods";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

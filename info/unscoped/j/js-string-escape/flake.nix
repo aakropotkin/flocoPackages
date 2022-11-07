@@ -16,7 +16,7 @@
     scope = null;
     ident = "js-string-escape";
     ldir  = "info/unscoped/j/js-string-escape";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-util-chunked";
     ldir  = "info/unscoped/m/micromark-util-chunked";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

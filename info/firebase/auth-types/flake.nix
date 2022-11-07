@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/auth-types";
     ldir  = "info/firebase/auth-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

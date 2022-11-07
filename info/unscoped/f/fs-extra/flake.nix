@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs-extra";
     ldir  = "info/unscoped/f/fs-extra";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

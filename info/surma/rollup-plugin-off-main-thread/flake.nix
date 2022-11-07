@@ -16,7 +16,7 @@
     scope = "@surma";
     ident = "@surma/rollup-plugin-off-main-thread";
     ldir  = "info/surma/rollup-plugin-off-main-thread";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

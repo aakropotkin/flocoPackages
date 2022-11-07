@@ -16,7 +16,7 @@
     scope = null;
     ident = "pad-component";
     ldir  = "info/unscoped/p/pad-component";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "cron-parser";
     ldir  = "info/unscoped/c/cron-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

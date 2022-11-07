@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-imagemin";
     ldir  = "info/unscoped/g/gulp-imagemin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

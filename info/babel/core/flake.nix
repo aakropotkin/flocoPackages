@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/core";
     ldir  = "info/babel/core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

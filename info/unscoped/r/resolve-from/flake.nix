@@ -16,7 +16,7 @@
     scope = null;
     ident = "resolve-from";
     ldir  = "info/unscoped/r/resolve-from";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

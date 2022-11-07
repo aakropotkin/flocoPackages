@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-normalize-unicode";
     ldir  = "info/unscoped/p/postcss-normalize-unicode";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

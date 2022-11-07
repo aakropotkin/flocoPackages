@@ -16,7 +16,7 @@
     scope = "@jest";
     ident = "@jest/fake-timers";
     ldir  = "info/jest/fake-timers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "xmlhttprequest";
     ldir  = "info/unscoped/x/xmlhttprequest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

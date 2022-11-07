@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-helmet";
     ldir  = "info/unscoped/r/react-helmet";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

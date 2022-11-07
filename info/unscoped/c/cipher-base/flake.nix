@@ -16,7 +16,7 @@
     scope = null;
     ident = "cipher-base";
     ldir  = "info/unscoped/c/cipher-base";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

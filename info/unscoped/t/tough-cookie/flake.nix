@@ -16,7 +16,7 @@
     scope = null;
     ident = "tough-cookie";
     ldir  = "info/unscoped/t/tough-cookie";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

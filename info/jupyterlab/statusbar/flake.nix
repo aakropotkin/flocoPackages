@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/statusbar";
     ldir  = "info/jupyterlab/statusbar";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

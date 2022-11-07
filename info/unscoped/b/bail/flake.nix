@@ -16,7 +16,7 @@
     scope = null;
     ident = "bail";
     ldir  = "info/unscoped/b/bail";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

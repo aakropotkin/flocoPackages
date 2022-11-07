@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-static-imports";
     ldir  = "info/unscoped/p/parse-static-imports";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@pnpm";
     ident = "@pnpm/npm-conf";
     ldir  = "info/pnpm/npm-conf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

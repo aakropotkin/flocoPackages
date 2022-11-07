@@ -16,7 +16,7 @@
     scope = null;
     ident = "electron-to-chromium";
     ldir  = "info/unscoped/e/electron-to-chromium";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

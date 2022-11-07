@@ -16,7 +16,7 @@
     scope = null;
     ident = "binary-search-tree";
     ldir  = "info/unscoped/b/binary-search-tree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

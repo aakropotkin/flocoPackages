@@ -16,7 +16,7 @@
     scope = "@nicolo-ribaudo";
     ident = "@nicolo-ribaudo/eslint-scope-5-internals";
     ldir  = "info/nicolo-ribaudo/eslint-scope-5-internals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

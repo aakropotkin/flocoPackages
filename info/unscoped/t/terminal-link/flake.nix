@@ -16,7 +16,7 @@
     scope = null;
     ident = "terminal-link";
     ldir  = "info/unscoped/t/terminal-link";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-less";
     ldir  = "info/unscoped/g/gulp-less";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

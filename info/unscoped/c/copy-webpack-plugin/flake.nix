@@ -16,7 +16,7 @@
     scope = null;
     ident = "copy-webpack-plugin";
     ldir  = "info/unscoped/c/copy-webpack-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

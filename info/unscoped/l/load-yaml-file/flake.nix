@@ -16,7 +16,7 @@
     scope = null;
     ident = "load-yaml-file";
     ldir  = "info/unscoped/l/load-yaml-file";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

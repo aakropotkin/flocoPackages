@@ -16,7 +16,7 @@
     scope = null;
     ident = "slice-stream";
     ldir  = "info/unscoped/s/slice-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@adobe";
     ident = "@adobe/css-tools";
     ldir  = "info/adobe/css-tools";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

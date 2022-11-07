@@ -16,7 +16,7 @@
     scope = null;
     ident = "string-convert";
     ldir  = "info/unscoped/s/string-convert";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

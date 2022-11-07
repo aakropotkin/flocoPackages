@@ -16,7 +16,7 @@
     scope = "@react-native";
     ident = "@react-native/assets";
     ldir  = "info/react-native/assets";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

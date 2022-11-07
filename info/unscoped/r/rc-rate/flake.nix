@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-rate";
     ldir  = "info/unscoped/r/rc-rate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

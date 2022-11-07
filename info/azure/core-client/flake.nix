@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/core-client";
     ldir  = "info/azure/core-client";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "frac";
     ldir  = "info/unscoped/f/frac";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

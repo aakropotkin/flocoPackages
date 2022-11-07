@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.clone";
     ldir  = "info/unscoped/l/lodash.clone";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "jquery";
     ldir  = "info/unscoped/j/jquery";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

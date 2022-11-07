@@ -16,7 +16,7 @@
     scope = "@kwsites";
     ident = "@kwsites/promise-deferred";
     ldir  = "info/kwsites/promise-deferred";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

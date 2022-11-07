@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/core-tracing";
     ldir  = "info/azure/core-tracing";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@pm2";
     ident = "@pm2/js-api";
     ldir  = "info/pm2/js-api";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

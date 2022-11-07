@@ -16,7 +16,7 @@
     scope = null;
     ident = "ejs";
     ldir  = "info/unscoped/e/ejs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

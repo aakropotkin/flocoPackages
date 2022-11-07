@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-reserved-words";
     ldir  = "info/babel/plugin-transform-reserved-words";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "process-on-spawn";
     ldir  = "info/unscoped/p/process-on-spawn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

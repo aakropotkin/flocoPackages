@@ -16,7 +16,7 @@
     scope = null;
     ident = "buffer-equal-constant-time";
     ldir  = "info/unscoped/b/buffer-equal-constant-time";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

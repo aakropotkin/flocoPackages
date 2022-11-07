@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/range-parser";
     ldir  = "info/types/range-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "ieee754";
     ldir  = "info/unscoped/i/ieee754";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

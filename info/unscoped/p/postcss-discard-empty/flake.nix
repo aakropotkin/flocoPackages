@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-discard-empty";
     ldir  = "info/unscoped/p/postcss-discard-empty";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

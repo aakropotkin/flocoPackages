@@ -16,7 +16,7 @@
     scope = null;
     ident = "inflection";
     ldir  = "info/unscoped/i/inflection";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "ast-types";
     ldir  = "info/unscoped/a/ast-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "long-timeout";
     ldir  = "info/unscoped/l/long-timeout";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@phosphor";
     ident = "@phosphor/coreutils";
     ldir  = "info/phosphor/coreutils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

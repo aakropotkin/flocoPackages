@@ -16,7 +16,7 @@
     scope = null;
     ident = "istanbul-lib-source-maps";
     ldir  = "info/unscoped/i/istanbul-lib-source-maps";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

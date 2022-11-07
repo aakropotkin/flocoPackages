@@ -16,7 +16,7 @@
     scope = null;
     ident = "redux-logger";
     ldir  = "info/unscoped/r/redux-logger";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

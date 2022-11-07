@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-conflict-json";
     ldir  = "info/unscoped/p/parse-conflict-json";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

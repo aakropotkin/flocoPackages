@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-redact";
     ldir  = "info/unscoped/f/fast-redact";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

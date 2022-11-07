@@ -16,7 +16,7 @@
     scope = null;
     ident = "array-uniq";
     ldir  = "info/unscoped/a/array-uniq";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

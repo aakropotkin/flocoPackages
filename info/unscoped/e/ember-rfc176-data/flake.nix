@@ -16,7 +16,7 @@
     scope = null;
     ident = "ember-rfc176-data";
     ldir  = "info/unscoped/e/ember-rfc176-data";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

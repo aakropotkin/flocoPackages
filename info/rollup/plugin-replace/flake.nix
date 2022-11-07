@@ -16,7 +16,7 @@
     scope = "@rollup";
     ident = "@rollup/plugin-replace";
     ldir  = "info/rollup/plugin-replace";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

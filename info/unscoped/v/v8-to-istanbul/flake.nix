@@ -16,7 +16,7 @@
     scope = null;
     ident = "v8-to-istanbul";
     ldir  = "info/unscoped/v/v8-to-istanbul";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

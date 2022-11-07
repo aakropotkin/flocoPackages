@@ -16,7 +16,7 @@
     scope = null;
     ident = "bulma";
     ldir  = "info/unscoped/b/bulma";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

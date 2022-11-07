@@ -16,7 +16,7 @@
     scope = null;
     ident = "webpack-manifest-plugin";
     ldir  = "info/unscoped/w/webpack-manifest-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

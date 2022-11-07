@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-rename";
     ldir  = "info/unscoped/g/gulp-rename";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

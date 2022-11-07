@@ -16,7 +16,7 @@
     scope = null;
     ident = "run-parallel";
     ldir  = "info/unscoped/r/run-parallel";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

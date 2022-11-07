@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-reduce-initial";
     ldir  = "info/unscoped/p/postcss-reduce-initial";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

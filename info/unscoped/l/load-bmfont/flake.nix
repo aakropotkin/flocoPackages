@@ -16,7 +16,7 @@
     scope = null;
     ident = "load-bmfont";
     ldir  = "info/unscoped/l/load-bmfont";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

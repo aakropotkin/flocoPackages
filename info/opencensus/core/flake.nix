@@ -16,7 +16,7 @@
     scope = "@opencensus";
     ident = "@opencensus/core";
     ldir  = "info/opencensus/core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

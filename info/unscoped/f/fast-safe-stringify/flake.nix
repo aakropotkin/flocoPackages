@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-safe-stringify";
     ldir  = "info/unscoped/f/fast-safe-stringify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@ethersproject";
     ident = "@ethersproject/base64";
     ldir  = "info/ethersproject/base64";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

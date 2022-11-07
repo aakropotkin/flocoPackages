@@ -16,7 +16,7 @@
     scope = null;
     ident = "promise-all-reject-late";
     ldir  = "info/unscoped/p/promise-all-reject-late";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "stream-throttle";
     ldir  = "info/unscoped/s/stream-throttle";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-htmlbars-inline-precompile";
     ldir  = "info/unscoped/b/babel-plugin-htmlbars-inline-precompile";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

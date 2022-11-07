@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-image-set-function";
     ldir  = "info/unscoped/p/postcss-image-set-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

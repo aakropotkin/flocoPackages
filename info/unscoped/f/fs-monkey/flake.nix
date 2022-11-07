@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs-monkey";
     ldir  = "info/unscoped/f/fs-monkey";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

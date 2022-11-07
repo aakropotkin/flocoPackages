@@ -16,7 +16,7 @@
     scope = null;
     ident = "shallow-clone";
     ldir  = "info/unscoped/s/shallow-clone";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

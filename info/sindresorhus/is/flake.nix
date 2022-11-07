@@ -16,7 +16,7 @@
     scope = "@sindresorhus";
     ident = "@sindresorhus/is";
     ldir  = "info/sindresorhus/is";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

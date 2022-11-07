@@ -16,7 +16,7 @@
     scope = null;
     ident = "grunt-contrib-concat";
     ldir  = "info/unscoped/g/grunt-contrib-concat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

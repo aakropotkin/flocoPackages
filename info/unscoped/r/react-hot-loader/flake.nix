@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-hot-loader";
     ldir  = "info/unscoped/r/react-hot-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

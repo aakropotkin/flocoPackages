@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/express-serve-static-core";
     ldir  = "info/types/express-serve-static-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

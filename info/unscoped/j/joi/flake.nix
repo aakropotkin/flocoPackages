@@ -16,7 +16,7 @@
     scope = null;
     ident = "joi";
     ldir  = "info/unscoped/j/joi";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

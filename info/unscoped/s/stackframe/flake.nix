@@ -16,7 +16,7 @@
     scope = null;
     ident = "stackframe";
     ldir  = "info/unscoped/s/stackframe";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

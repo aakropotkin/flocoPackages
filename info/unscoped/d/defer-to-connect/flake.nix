@@ -16,7 +16,7 @@
     scope = null;
     ident = "defer-to-connect";
     ldir  = "info/unscoped/d/defer-to-connect";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

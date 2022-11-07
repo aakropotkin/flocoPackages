@@ -16,7 +16,7 @@
     scope = null;
     ident = "internmap";
     ldir  = "info/unscoped/i/internmap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

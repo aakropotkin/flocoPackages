@@ -16,7 +16,7 @@
     scope = null;
     ident = "pngquant-bin";
     ldir  = "info/unscoped/p/pngquant-bin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

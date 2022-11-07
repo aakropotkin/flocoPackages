@@ -16,7 +16,7 @@
     scope = null;
     ident = "flat-cache";
     ldir  = "info/unscoped/f/flat-cache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

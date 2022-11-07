@@ -16,7 +16,7 @@
     scope = null;
     ident = "macos-release";
     ldir  = "info/unscoped/m/macos-release";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

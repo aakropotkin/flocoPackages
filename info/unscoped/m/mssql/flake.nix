@@ -16,7 +16,7 @@
     scope = null;
     ident = "mssql";
     ldir  = "info/unscoped/m/mssql";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

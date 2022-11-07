@@ -16,7 +16,7 @@
     scope = null;
     ident = "passport-strategy";
     ldir  = "info/unscoped/p/passport-strategy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

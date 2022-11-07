@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-bundled";
     ldir  = "info/unscoped/n/npm-bundled";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

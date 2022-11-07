@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-replace-supers";
     ldir  = "info/babel/helper-replace-supers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

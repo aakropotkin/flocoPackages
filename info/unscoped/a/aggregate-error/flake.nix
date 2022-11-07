@@ -16,7 +16,7 @@
     scope = null;
     ident = "aggregate-error";
     ldir  = "info/unscoped/a/aggregate-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

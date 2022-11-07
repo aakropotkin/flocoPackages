@@ -16,7 +16,7 @@
     scope = null;
     ident = "global-tunnel-ng";
     ldir  = "info/unscoped/g/global-tunnel-ng";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

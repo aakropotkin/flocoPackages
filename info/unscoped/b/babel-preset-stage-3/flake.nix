@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-preset-stage-3";
     ldir  = "info/unscoped/b/babel-preset-stage-3";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

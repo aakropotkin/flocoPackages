@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-js";
     ldir  = "info/unscoped/p/postcss-js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

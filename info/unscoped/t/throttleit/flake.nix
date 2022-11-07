@@ -16,7 +16,7 @@
     scope = null;
     ident = "throttleit";
     ldir  = "info/unscoped/t/throttleit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

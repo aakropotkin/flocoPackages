@@ -16,7 +16,7 @@
     scope = null;
     ident = "combine-source-map";
     ldir  = "info/unscoped/c/combine-source-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

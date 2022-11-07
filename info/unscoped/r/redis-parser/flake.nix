@@ -16,7 +16,7 @@
     scope = null;
     ident = "redis-parser";
     ldir  = "info/unscoped/r/redis-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

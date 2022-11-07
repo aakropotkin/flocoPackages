@@ -16,7 +16,7 @@
     scope = null;
     ident = "broccoli-persistent-filter";
     ldir  = "info/unscoped/b/broccoli-persistent-filter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

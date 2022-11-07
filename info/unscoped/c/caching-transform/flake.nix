@@ -16,7 +16,7 @@
     scope = null;
     ident = "caching-transform";
     ldir  = "info/unscoped/c/caching-transform";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "pouchdb";
     ldir  = "info/unscoped/p/pouchdb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

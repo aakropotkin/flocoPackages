@@ -16,7 +16,7 @@
     scope = "@serialport";
     ident = "@serialport/parser-inter-byte-timeout";
     ldir  = "info/serialport/parser-inter-byte-timeout";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "bignumber.js";
     ldir  = "info/unscoped/b/bignumber.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

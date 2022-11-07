@@ -16,7 +16,7 @@
     scope = null;
     ident = "match-stream";
     ldir  = "info/unscoped/m/match-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

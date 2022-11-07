@@ -16,7 +16,7 @@
     scope = null;
     ident = "fancy-log";
     ldir  = "info/unscoped/f/fancy-log";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "mimos";
     ldir  = "info/unscoped/m/mimos";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

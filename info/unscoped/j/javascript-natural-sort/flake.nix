@@ -16,7 +16,7 @@
     scope = null;
     ident = "javascript-natural-sort";
     ldir  = "info/unscoped/j/javascript-natural-sort";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

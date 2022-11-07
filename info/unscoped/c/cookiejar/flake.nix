@@ -16,7 +16,7 @@
     scope = null;
     ident = "cookiejar";
     ldir  = "info/unscoped/c/cookiejar";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

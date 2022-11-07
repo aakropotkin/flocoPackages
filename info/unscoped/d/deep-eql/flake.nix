@@ -16,7 +16,7 @@
     scope = null;
     ident = "deep-eql";
     ldir  = "info/unscoped/d/deep-eql";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

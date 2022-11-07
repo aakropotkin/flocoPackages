@@ -16,7 +16,7 @@
     scope = null;
     ident = "scss-tokenizer";
     ldir  = "info/unscoped/s/scss-tokenizer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

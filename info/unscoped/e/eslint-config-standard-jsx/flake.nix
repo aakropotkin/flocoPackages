@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-config-standard-jsx";
     ldir  = "info/unscoped/e/eslint-config-standard-jsx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

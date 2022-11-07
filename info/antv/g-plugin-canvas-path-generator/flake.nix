@@ -16,7 +16,7 @@
     scope = "@antv";
     ident = "@antv/g-plugin-canvas-path-generator";
     ldir  = "info/antv/g-plugin-canvas-path-generator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

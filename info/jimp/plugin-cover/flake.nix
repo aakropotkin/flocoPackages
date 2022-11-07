@@ -16,7 +16,7 @@
     scope = "@jimp";
     ident = "@jimp/plugin-cover";
     ldir  = "info/jimp/plugin-cover";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

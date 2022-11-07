@@ -16,7 +16,7 @@
     scope = null;
     ident = "ethereumjs-common";
     ldir  = "info/unscoped/e/ethereumjs-common";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

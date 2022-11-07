@@ -16,7 +16,7 @@
     scope = null;
     ident = "picocolors";
     ldir  = "info/unscoped/p/picocolors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

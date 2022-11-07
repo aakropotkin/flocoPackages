@@ -16,7 +16,7 @@
     scope = "@antv";
     ident = "@antv/g-plugin-html-renderer";
     ldir  = "info/antv/g-plugin-html-renderer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

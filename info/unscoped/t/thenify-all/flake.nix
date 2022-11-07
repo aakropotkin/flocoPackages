@@ -16,7 +16,7 @@
     scope = null;
     ident = "thenify-all";
     ldir  = "info/unscoped/t/thenify-all";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

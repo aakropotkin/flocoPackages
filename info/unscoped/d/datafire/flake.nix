@@ -16,7 +16,7 @@
     scope = null;
     ident = "datafire";
     ldir  = "info/unscoped/d/datafire";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "minimalistic-assert";
     ldir  = "info/unscoped/m/minimalistic-assert";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

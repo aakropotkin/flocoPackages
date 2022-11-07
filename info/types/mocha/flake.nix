@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/mocha";
     ldir  = "info/types/mocha";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "color-convert";
     ldir  = "info/unscoped/c/color-convert";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

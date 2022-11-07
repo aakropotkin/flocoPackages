@@ -16,7 +16,7 @@
     scope = null;
     ident = "cfb";
     ldir  = "info/unscoped/c/cfb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

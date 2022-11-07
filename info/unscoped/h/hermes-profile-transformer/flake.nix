@@ -16,7 +16,7 @@
     scope = null;
     ident = "hermes-profile-transformer";
     ldir  = "info/unscoped/h/hermes-profile-transformer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

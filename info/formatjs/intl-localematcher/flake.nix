@@ -16,7 +16,7 @@
     scope = "@formatjs";
     ident = "@formatjs/intl-localematcher";
     ldir  = "info/formatjs/intl-localematcher";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

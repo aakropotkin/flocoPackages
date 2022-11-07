@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-slider";
     ldir  = "info/unscoped/r/rc-slider";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-regex-util";
     ldir  = "info/unscoped/j/jest-regex-util";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

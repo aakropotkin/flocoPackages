@@ -16,7 +16,7 @@
     scope = null;
     ident = "pm2-sysmonit";
     ldir  = "info/unscoped/p/pm2-sysmonit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "download";
     ldir  = "info/unscoped/d/download";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "crypto-browserify";
     ldir  = "info/unscoped/c/crypto-browserify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

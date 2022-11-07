@@ -16,7 +16,7 @@
     scope = null;
     ident = "strip-json-comments";
     ldir  = "info/unscoped/s/strip-json-comments";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

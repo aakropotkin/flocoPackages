@@ -16,7 +16,7 @@
     scope = null;
     ident = "diffie-hellman";
     ldir  = "info/unscoped/d/diffie-hellman";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

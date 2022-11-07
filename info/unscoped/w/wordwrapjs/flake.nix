@@ -16,7 +16,7 @@
     scope = null;
     ident = "wordwrapjs";
     ldir  = "info/unscoped/w/wordwrapjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

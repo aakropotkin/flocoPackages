@@ -16,7 +16,7 @@
     scope = null;
     ident = "topo";
     ldir  = "info/unscoped/t/topo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

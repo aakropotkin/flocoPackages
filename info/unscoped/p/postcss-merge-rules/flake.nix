@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-merge-rules";
     ldir  = "info/unscoped/p/postcss-merge-rules";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

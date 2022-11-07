@@ -16,7 +16,7 @@
     scope = null;
     ident = "mathjs";
     ldir  = "info/unscoped/m/mathjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

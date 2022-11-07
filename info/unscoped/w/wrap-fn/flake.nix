@@ -16,7 +16,7 @@
     scope = null;
     ident = "wrap-fn";
     ldir  = "info/unscoped/w/wrap-fn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

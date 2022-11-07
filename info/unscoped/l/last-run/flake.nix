@@ -16,7 +16,7 @@
     scope = null;
     ident = "last-run";
     ldir  = "info/unscoped/l/last-run";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

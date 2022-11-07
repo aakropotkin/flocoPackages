@@ -16,7 +16,7 @@
     scope = null;
     ident = "harmony-reflect";
     ldir  = "info/unscoped/h/harmony-reflect";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

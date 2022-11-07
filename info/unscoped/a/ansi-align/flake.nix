@@ -16,7 +16,7 @@
     scope = null;
     ident = "ansi-align";
     ldir  = "info/unscoped/a/ansi-align";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

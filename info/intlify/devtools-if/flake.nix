@@ -16,7 +16,7 @@
     scope = "@intlify";
     ident = "@intlify/devtools-if";
     ldir  = "info/intlify/devtools-if";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

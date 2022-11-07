@@ -16,7 +16,7 @@
     scope = null;
     ident = "des.js";
     ldir  = "info/unscoped/d/des.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

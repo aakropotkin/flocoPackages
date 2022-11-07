@@ -16,7 +16,7 @@
     scope = null;
     ident = "makeerror";
     ldir  = "info/unscoped/m/makeerror";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

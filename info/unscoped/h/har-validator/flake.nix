@@ -16,7 +16,7 @@
     scope = null;
     ident = "har-validator";
     ldir  = "info/unscoped/h/har-validator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

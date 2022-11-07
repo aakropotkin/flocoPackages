@@ -16,7 +16,7 @@
     scope = null;
     ident = "dom-converter";
     ldir  = "info/unscoped/d/dom-converter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

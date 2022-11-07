@@ -16,7 +16,7 @@
     scope = null;
     ident = "detect-node";
     ldir  = "info/unscoped/d/detect-node";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "data-uri-to-buffer";
     ldir  = "info/unscoped/d/data-uri-to-buffer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

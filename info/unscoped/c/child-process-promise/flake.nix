@@ -16,7 +16,7 @@
     scope = null;
     ident = "child-process-promise";
     ldir  = "info/unscoped/c/child-process-promise";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

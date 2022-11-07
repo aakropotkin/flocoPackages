@@ -16,7 +16,7 @@
     scope = null;
     ident = "strip-final-newline";
     ldir  = "info/unscoped/s/strip-final-newline";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

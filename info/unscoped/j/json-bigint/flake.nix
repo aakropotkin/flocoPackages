@@ -16,7 +16,7 @@
     scope = null;
     ident = "json-bigint";
     ldir  = "info/unscoped/j/json-bigint";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

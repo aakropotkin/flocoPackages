@@ -16,7 +16,7 @@
     scope = "@ant-design";
     ident = "@ant-design/react-slick";
     ldir  = "info/ant-design/react-slick";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

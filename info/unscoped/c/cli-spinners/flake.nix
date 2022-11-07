@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-spinners";
     ldir  = "info/unscoped/c/cli-spinners";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

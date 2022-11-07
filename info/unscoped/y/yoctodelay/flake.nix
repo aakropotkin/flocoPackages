@@ -16,7 +16,7 @@
     scope = null;
     ident = "yoctodelay";
     ldir  = "info/unscoped/y/yoctodelay";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

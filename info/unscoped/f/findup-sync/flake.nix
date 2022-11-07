@@ -16,7 +16,7 @@
     scope = null;
     ident = "findup-sync";
     ldir  = "info/unscoped/f/findup-sync";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

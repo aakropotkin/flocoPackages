@@ -16,7 +16,7 @@
     scope = null;
     ident = "isomorphic-fetch";
     ldir  = "info/unscoped/i/isomorphic-fetch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

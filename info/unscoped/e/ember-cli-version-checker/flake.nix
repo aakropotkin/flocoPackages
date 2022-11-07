@@ -16,7 +16,7 @@
     scope = null;
     ident = "ember-cli-version-checker";
     ldir  = "info/unscoped/e/ember-cli-version-checker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

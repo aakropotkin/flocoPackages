@@ -16,7 +16,7 @@
     scope = null;
     ident = "tree-sync";
     ldir  = "info/unscoped/t/tree-sync";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

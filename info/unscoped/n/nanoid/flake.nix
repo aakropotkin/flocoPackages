@@ -16,7 +16,7 @@
     scope = null;
     ident = "nanoid";
     ldir  = "info/unscoped/n/nanoid";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/preset-flow";
     ldir  = "info/babel/preset-flow";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

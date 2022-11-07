@@ -16,7 +16,7 @@
     scope = null;
     ident = "nock";
     ldir  = "info/unscoped/n/nock";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

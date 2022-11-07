@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/core-paging";
     ldir  = "info/azure/core-paging";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

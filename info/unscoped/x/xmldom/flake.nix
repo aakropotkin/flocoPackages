@@ -16,7 +16,7 @@
     scope = null;
     ident = "xmldom";
     ldir  = "info/unscoped/x/xmldom";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

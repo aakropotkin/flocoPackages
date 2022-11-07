@@ -16,7 +16,7 @@
     scope = null;
     ident = "object-keys";
     ldir  = "info/unscoped/o/object-keys";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "functional-red-black-tree";
     ldir  = "info/unscoped/f/functional-red-black-tree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

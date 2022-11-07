@@ -16,7 +16,7 @@
     scope = null;
     ident = "comma-separated-tokens";
     ldir  = "info/unscoped/c/comma-separated-tokens";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

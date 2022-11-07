@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/react-dom";
     ldir  = "info/types/react-dom";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

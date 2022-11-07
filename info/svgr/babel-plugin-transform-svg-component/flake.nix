@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/babel-plugin-transform-svg-component";
     ldir  = "info/svgr/babel-plugin-transform-svg-component";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

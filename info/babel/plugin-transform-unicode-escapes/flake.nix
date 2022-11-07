@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-unicode-escapes";
     ldir  = "info/babel/plugin-transform-unicode-escapes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

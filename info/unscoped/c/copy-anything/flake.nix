@@ -16,7 +16,7 @@
     scope = null;
     ident = "copy-anything";
     ldir  = "info/unscoped/c/copy-anything";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

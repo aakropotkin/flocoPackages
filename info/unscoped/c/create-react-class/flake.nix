@@ -16,7 +16,7 @@
     scope = null;
     ident = "create-react-class";
     ldir  = "info/unscoped/c/create-react-class";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

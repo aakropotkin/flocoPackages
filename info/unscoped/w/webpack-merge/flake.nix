@@ -16,7 +16,7 @@
     scope = null;
     ident = "webpack-merge";
     ldir  = "info/unscoped/w/webpack-merge";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

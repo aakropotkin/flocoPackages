@@ -16,7 +16,7 @@
     scope = null;
     ident = "v-click-outside-x";
     ldir  = "info/unscoped/v/v-click-outside-x";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

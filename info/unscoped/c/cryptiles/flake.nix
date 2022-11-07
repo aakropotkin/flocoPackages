@@ -16,7 +16,7 @@
     scope = null;
     ident = "cryptiles";
     ldir  = "info/unscoped/c/cryptiles";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

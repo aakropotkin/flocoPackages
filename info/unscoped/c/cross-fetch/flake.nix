@@ -16,7 +16,7 @@
     scope = null;
     ident = "cross-fetch";
     ldir  = "info/unscoped/c/cross-fetch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

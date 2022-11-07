@@ -16,7 +16,7 @@
     scope = null;
     ident = "to-fast-properties";
     ldir  = "info/unscoped/t/to-fast-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

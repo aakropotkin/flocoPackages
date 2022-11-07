@@ -16,7 +16,7 @@
     scope = null;
     ident = "statehood";
     ldir  = "info/unscoped/s/statehood";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

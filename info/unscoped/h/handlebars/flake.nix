@@ -16,7 +16,7 @@
     scope = null;
     ident = "handlebars";
     ldir  = "info/unscoped/h/handlebars";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

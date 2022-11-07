@@ -16,7 +16,7 @@
     scope = null;
     ident = "doctypes";
     ldir  = "info/unscoped/d/doctypes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

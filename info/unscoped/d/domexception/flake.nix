@@ -16,7 +16,7 @@
     scope = null;
     ident = "domexception";
     ldir  = "info/unscoped/d/domexception";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

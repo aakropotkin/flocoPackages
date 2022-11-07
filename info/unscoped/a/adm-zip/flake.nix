@@ -16,7 +16,7 @@
     scope = null;
     ident = "adm-zip";
     ldir  = "info/unscoped/a/adm-zip";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

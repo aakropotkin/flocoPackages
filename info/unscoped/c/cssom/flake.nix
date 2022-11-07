@@ -16,7 +16,7 @@
     scope = null;
     ident = "cssom";
     ldir  = "info/unscoped/c/cssom";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-transform-plugins";
     ldir  = "info/unscoped/m/metro-transform-plugins";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "import-lazy";
     ldir  = "info/unscoped/i/import-lazy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

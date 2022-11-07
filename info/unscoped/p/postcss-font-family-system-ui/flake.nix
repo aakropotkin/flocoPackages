@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-font-family-system-ui";
     ldir  = "info/unscoped/p/postcss-font-family-system-ui";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

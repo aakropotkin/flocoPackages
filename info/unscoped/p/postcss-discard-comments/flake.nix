@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-discard-comments";
     ldir  = "info/unscoped/p/postcss-discard-comments";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

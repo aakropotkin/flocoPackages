@@ -16,7 +16,7 @@
     scope = null;
     ident = "anymatch";
     ldir  = "info/unscoped/a/anymatch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "sqlite3";
     ldir  = "info/unscoped/s/sqlite3";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

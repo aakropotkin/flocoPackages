@@ -16,7 +16,7 @@
     scope = null;
     ident = "encoding";
     ldir  = "info/unscoped/e/encoding";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

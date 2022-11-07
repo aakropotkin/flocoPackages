@@ -16,7 +16,7 @@
     scope = "@jimp";
     ident = "@jimp/plugin-rotate";
     ldir  = "info/jimp/plugin-rotate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

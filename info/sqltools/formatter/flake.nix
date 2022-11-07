@@ -16,7 +16,7 @@
     scope = "@sqltools";
     ident = "@sqltools/formatter";
     ldir  = "info/sqltools/formatter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-native-gradle-plugin";
     ldir  = "info/unscoped/r/react-native-gradle-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

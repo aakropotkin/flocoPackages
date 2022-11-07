@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-transform-worker";
     ldir  = "info/unscoped/m/metro-transform-worker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

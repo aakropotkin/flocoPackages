@@ -16,7 +16,7 @@
     scope = null;
     ident = "symbol-observable";
     ldir  = "info/unscoped/s/symbol-observable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

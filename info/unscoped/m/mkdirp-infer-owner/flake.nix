@@ -16,7 +16,7 @@
     scope = null;
     ident = "mkdirp-infer-owner";
     ldir  = "info/unscoped/m/mkdirp-infer-owner";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

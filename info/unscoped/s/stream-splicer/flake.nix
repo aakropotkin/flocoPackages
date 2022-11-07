@@ -16,7 +16,7 @@
     scope = null;
     ident = "stream-splicer";
     ldir  = "info/unscoped/s/stream-splicer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

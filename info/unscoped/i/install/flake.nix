@@ -16,7 +16,7 @@
     scope = null;
     ident = "install";
     ldir  = "info/unscoped/i/install";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

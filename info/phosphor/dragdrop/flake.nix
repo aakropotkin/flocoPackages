@@ -16,7 +16,7 @@
     scope = "@phosphor";
     ident = "@phosphor/dragdrop";
     ldir  = "info/phosphor/dragdrop";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

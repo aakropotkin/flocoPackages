@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-arrayish";
     ldir  = "info/unscoped/i/is-arrayish";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "web3-core-helpers";
     ldir  = "info/unscoped/w/web3-core-helpers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "wmf";
     ldir  = "info/unscoped/w/wmf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

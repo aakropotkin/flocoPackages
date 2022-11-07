@@ -16,7 +16,7 @@
     scope = "@google-cloud";
     ident = "@google-cloud/promisify";
     ldir  = "info/google-cloud/promisify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

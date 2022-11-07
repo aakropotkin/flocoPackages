@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-create-class-features-plugin";
     ldir  = "info/babel/helper-create-class-features-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

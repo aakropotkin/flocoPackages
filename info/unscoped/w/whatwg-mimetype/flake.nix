@@ -16,7 +16,7 @@
     scope = null;
     ident = "whatwg-mimetype";
     ldir  = "info/unscoped/w/whatwg-mimetype";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

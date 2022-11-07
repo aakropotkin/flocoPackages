@@ -16,7 +16,7 @@
     scope = null;
     ident = "supports-hyperlinks";
     ldir  = "info/unscoped/s/supports-hyperlinks";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

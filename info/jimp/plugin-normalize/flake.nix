@@ -16,7 +16,7 @@
     scope = "@jimp";
     ident = "@jimp/plugin-normalize";
     ldir  = "info/jimp/plugin-normalize";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

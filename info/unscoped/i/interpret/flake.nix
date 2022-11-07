@@ -16,7 +16,7 @@
     scope = null;
     ident = "interpret";
     ldir  = "info/unscoped/i/interpret";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-babel";
     ldir  = "info/unscoped/g/gulp-babel";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

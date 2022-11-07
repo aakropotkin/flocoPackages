@@ -16,7 +16,7 @@
     scope = null;
     ident = "deep-extend";
     ldir  = "info/unscoped/d/deep-extend";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

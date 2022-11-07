@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/analytics-compat";
     ldir  = "info/firebase/analytics-compat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

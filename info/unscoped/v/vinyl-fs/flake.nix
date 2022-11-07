@@ -16,7 +16,7 @@
     scope = null;
     ident = "vinyl-fs";
     ldir  = "info/unscoped/v/vinyl-fs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

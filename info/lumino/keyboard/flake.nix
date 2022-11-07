@@ -16,7 +16,7 @@
     scope = "@lumino";
     ident = "@lumino/keyboard";
     ldir  = "info/lumino/keyboard";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

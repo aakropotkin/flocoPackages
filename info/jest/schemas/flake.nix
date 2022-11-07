@@ -16,7 +16,7 @@
     scope = "@jest";
     ident = "@jest/schemas";
     ldir  = "info/jest/schemas";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

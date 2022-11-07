@@ -16,7 +16,7 @@
     scope = null;
     ident = "karma-phantomjs-launcher";
     ldir  = "info/unscoped/k/karma-phantomjs-launcher";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

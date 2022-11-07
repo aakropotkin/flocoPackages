@@ -16,7 +16,7 @@
     scope = null;
     ident = "throat";
     ldir  = "info/unscoped/t/throat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

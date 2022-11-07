@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.union";
     ldir  = "info/unscoped/l/lodash.union";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

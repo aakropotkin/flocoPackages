@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-haste-map";
     ldir  = "info/unscoped/j/jest-haste-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

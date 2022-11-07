@@ -16,7 +16,7 @@
     scope = null;
     ident = "url-set-query";
     ldir  = "info/unscoped/u/url-set-query";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

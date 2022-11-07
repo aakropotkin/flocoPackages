@@ -16,7 +16,7 @@
     scope = null;
     ident = "deep-assign";
     ldir  = "info/unscoped/d/deep-assign";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "jwa";
     ldir  = "info/unscoped/j/jwa";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

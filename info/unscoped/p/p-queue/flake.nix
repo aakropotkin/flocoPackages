@@ -16,7 +16,7 @@
     scope = null;
     ident = "p-queue";
     ldir  = "info/unscoped/p/p-queue";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

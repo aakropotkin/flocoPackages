@@ -16,7 +16,7 @@
     scope = "@ethersproject";
     ident = "@ethersproject/rlp";
     ldir  = "info/ethersproject/rlp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

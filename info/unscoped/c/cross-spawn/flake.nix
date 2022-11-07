@@ -16,7 +16,7 @@
     scope = null;
     ident = "cross-spawn";
     ldir  = "info/unscoped/c/cross-spawn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

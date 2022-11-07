@@ -16,7 +16,7 @@
     scope = null;
     ident = "sass-graph";
     ldir  = "info/unscoped/s/sass-graph";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

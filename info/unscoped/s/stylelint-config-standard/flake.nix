@@ -16,7 +16,7 @@
     scope = null;
     ident = "stylelint-config-standard";
     ldir  = "info/unscoped/s/stylelint-config-standard";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

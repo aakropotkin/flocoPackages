@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-watch-typeahead";
     ldir  = "info/unscoped/j/jest-watch-typeahead";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

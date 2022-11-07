@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/d3-timer";
     ldir  = "info/types/d3-timer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

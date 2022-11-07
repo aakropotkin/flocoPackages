@@ -16,7 +16,7 @@
     scope = "@grpc";
     ident = "@grpc/grpc-js";
     ldir  = "info/grpc/grpc-js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

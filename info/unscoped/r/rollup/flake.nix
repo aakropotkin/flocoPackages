@@ -16,7 +16,7 @@
     scope = null;
     ident = "rollup";
     ldir  = "info/unscoped/r/rollup";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

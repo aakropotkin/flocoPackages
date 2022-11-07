@@ -16,7 +16,7 @@
     scope = null;
     ident = "abortcontroller-polyfill";
     ldir  = "info/unscoped/a/abortcontroller-polyfill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

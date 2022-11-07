@@ -16,7 +16,7 @@
     scope = null;
     ident = "schema-utils";
     ldir  = "info/unscoped/s/schema-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

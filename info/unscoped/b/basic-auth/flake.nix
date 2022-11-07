@@ -16,7 +16,7 @@
     scope = null;
     ident = "basic-auth";
     ldir  = "info/unscoped/b/basic-auth";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

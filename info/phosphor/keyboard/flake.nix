@@ -16,7 +16,7 @@
     scope = "@phosphor";
     ident = "@phosphor/keyboard";
     ldir  = "info/phosphor/keyboard";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

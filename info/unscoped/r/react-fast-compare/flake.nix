@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-fast-compare";
     ldir  = "info/unscoped/r/react-fast-compare";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

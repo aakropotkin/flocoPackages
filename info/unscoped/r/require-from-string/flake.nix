@@ -16,7 +16,7 @@
     scope = null;
     ident = "require-from-string";
     ldir  = "info/unscoped/r/require-from-string";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

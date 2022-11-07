@@ -16,7 +16,7 @@
     scope = "@mapbox";
     ident = "@mapbox/node-pre-gyp";
     ldir  = "info/mapbox/node-pre-gyp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

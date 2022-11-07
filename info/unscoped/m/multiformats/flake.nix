@@ -16,7 +16,7 @@
     scope = null;
     ident = "multiformats";
     ldir  = "info/unscoped/m/multiformats";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

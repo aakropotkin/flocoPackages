@@ -16,7 +16,7 @@
     scope = null;
     ident = "stylehacks";
     ldir  = "info/unscoped/s/stylehacks";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

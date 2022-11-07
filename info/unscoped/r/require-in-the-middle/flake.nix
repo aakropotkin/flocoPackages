@@ -16,7 +16,7 @@
     scope = null;
     ident = "require-in-the-middle";
     ldir  = "info/unscoped/r/require-in-the-middle";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

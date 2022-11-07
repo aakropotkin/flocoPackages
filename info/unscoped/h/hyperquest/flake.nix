@@ -16,7 +16,7 @@
     scope = null;
     ident = "hyperquest";
     ldir  = "info/unscoped/h/hyperquest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

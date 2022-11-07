@@ -16,7 +16,7 @@
     scope = null;
     ident = "expand-tilde";
     ldir  = "info/unscoped/e/expand-tilde";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

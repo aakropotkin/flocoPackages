@@ -16,7 +16,7 @@
     scope = null;
     ident = "randexp";
     ldir  = "info/unscoped/r/randexp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

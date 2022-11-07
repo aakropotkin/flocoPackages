@@ -16,7 +16,7 @@
     scope = null;
     ident = "strip-hex-prefix";
     ldir  = "info/unscoped/s/strip-hex-prefix";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "v8-compile-cache";
     ldir  = "info/unscoped/v/v8-compile-cache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

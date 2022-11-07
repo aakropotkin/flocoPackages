@@ -16,7 +16,7 @@
     scope = null;
     ident = "docker-modem";
     ldir  = "info/unscoped/d/docker-modem";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

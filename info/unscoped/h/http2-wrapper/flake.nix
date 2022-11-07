@@ -16,7 +16,7 @@
     scope = null;
     ident = "http2-wrapper";
     ldir  = "info/unscoped/h/http2-wrapper";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

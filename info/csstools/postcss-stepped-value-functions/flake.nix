@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-stepped-value-functions";
     ldir  = "info/csstools/postcss-stepped-value-functions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

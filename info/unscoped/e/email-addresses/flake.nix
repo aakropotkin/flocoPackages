@@ -16,7 +16,7 @@
     scope = null;
     ident = "email-addresses";
     ldir  = "info/unscoped/e/email-addresses";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

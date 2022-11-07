@@ -16,7 +16,7 @@
     scope = "@lumino";
     ident = "@lumino/dragdrop";
     ldir  = "info/lumino/dragdrop";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

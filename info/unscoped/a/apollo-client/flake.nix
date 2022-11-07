@@ -16,7 +16,7 @@
     scope = null;
     ident = "apollo-client";
     ldir  = "info/unscoped/a/apollo-client";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

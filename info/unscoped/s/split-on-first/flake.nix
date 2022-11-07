@@ -16,7 +16,7 @@
     scope = null;
     ident = "split-on-first";
     ldir  = "info/unscoped/s/split-on-first";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

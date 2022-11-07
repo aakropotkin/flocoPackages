@@ -16,7 +16,7 @@
     scope = null;
     ident = "compute-scroll-into-view";
     ldir  = "info/unscoped/c/compute-scroll-into-view";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

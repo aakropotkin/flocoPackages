@@ -16,7 +16,7 @@
     scope = null;
     ident = "jwks-rsa";
     ldir  = "info/unscoped/j/jwks-rsa";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

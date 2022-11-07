@@ -16,7 +16,7 @@
     scope = null;
     ident = "cssesc";
     ldir  = "info/unscoped/c/cssesc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

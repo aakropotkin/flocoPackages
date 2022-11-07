@@ -16,7 +16,7 @@
     scope = null;
     ident = "left-pad";
     ldir  = "info/unscoped/l/left-pad";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

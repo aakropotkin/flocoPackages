@@ -16,7 +16,7 @@
     scope = null;
     ident = "before-after-hook";
     ldir  = "info/unscoped/b/before-after-hook";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "xlsx";
     ldir  = "info/unscoped/x/xlsx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

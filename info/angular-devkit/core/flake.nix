@@ -16,7 +16,7 @@
     scope = "@angular-devkit";
     ident = "@angular-devkit/core";
     ldir  = "info/angular-devkit/core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

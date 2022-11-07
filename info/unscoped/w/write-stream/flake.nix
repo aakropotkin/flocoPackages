@@ -16,7 +16,7 @@
     scope = null;
     ident = "write-stream";
     ldir  = "info/unscoped/w/write-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

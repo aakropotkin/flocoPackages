@@ -16,7 +16,7 @@
     scope = null;
     ident = "test-exclude";
     ldir  = "info/unscoped/t/test-exclude";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

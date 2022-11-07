@@ -16,7 +16,7 @@
     scope = null;
     ident = "grunt-legacy-log-utils";
     ldir  = "info/unscoped/g/grunt-legacy-log-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

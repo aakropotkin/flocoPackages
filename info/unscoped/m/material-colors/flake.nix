@@ -16,7 +16,7 @@
     scope = null;
     ident = "material-colors";
     ldir  = "info/unscoped/m/material-colors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

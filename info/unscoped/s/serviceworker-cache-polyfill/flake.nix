@@ -16,7 +16,7 @@
     scope = null;
     ident = "serviceworker-cache-polyfill";
     ldir  = "info/unscoped/s/serviceworker-cache-polyfill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

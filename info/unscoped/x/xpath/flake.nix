@@ -16,7 +16,7 @@
     scope = null;
     ident = "xpath";
     ldir  = "info/unscoped/x/xpath";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

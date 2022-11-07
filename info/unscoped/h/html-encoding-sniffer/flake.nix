@@ -16,7 +16,7 @@
     scope = null;
     ident = "html-encoding-sniffer";
     ldir  = "info/unscoped/h/html-encoding-sniffer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

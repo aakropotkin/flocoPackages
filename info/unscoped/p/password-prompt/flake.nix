@@ -16,7 +16,7 @@
     scope = null;
     ident = "password-prompt";
     ldir  = "info/unscoped/p/password-prompt";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

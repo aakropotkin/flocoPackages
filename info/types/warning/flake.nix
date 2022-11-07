@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/warning";
     ldir  = "info/types/warning";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

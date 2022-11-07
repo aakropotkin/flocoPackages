@@ -16,7 +16,7 @@
     scope = null;
     ident = "extract-text-webpack-plugin";
     ldir  = "info/unscoped/e/extract-text-webpack-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

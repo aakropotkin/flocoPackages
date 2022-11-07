@@ -16,7 +16,7 @@
     scope = null;
     ident = "natural-compare";
     ldir  = "info/unscoped/n/natural-compare";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

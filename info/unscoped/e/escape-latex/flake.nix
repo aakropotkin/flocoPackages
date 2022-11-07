@@ -16,7 +16,7 @@
     scope = null;
     ident = "escape-latex";
     ldir  = "info/unscoped/e/escape-latex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

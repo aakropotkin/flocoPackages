@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-helper-builder-react-jsx";
     ldir  = "info/unscoped/b/babel-helper-builder-react-jsx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

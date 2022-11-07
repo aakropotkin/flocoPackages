@@ -16,7 +16,7 @@
     scope = null;
     ident = "libnpmpublish";
     ldir  = "info/unscoped/l/libnpmpublish";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

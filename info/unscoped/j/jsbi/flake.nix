@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsbi";
     ldir  = "info/unscoped/j/jsbi";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

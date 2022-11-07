@@ -16,7 +16,7 @@
     scope = null;
     ident = "split";
     ldir  = "info/unscoped/s/split";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

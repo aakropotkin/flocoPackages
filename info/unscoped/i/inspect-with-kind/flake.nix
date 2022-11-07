@@ -16,7 +16,7 @@
     scope = null;
     ident = "inspect-with-kind";
     ldir  = "info/unscoped/i/inspect-with-kind";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

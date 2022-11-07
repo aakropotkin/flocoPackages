@@ -16,7 +16,7 @@
     scope = null;
     ident = "log4js";
     ldir  = "info/unscoped/l/log4js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

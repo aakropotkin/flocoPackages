@@ -16,7 +16,7 @@
     scope = null;
     ident = "enabled";
     ldir  = "info/unscoped/e/enabled";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

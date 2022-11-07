@@ -16,7 +16,7 @@
     scope = "@formatjs";
     ident = "@formatjs/icu-messageformat-parser";
     ldir  = "info/formatjs/icu-messageformat-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

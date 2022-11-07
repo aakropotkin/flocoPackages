@@ -16,7 +16,7 @@
     scope = "@fastify";
     ident = "@fastify/deepmerge";
     ldir  = "info/fastify/deepmerge";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

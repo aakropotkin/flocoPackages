@@ -16,7 +16,7 @@
     scope = null;
     ident = "humanize-number";
     ldir  = "info/unscoped/h/humanize-number";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

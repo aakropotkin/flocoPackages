@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-datepicker";
     ldir  = "info/unscoped/r/react-datepicker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/core-auth";
     ldir  = "info/azure/core-auth";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

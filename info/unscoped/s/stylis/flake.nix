@@ -16,7 +16,7 @@
     scope = null;
     ident = "stylis";
     ldir  = "info/unscoped/s/stylis";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

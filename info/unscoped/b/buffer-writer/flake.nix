@@ -16,7 +16,7 @@
     scope = null;
     ident = "buffer-writer";
     ldir  = "info/unscoped/b/buffer-writer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "textextensions";
     ldir  = "info/unscoped/t/textextensions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

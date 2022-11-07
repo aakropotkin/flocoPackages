@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-helper-vue-jsx-merge-props";
     ldir  = "info/unscoped/b/babel-helper-vue-jsx-merge-props";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

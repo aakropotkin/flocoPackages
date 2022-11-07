@@ -16,7 +16,7 @@
     scope = null;
     ident = "tunnel-agent";
     ldir  = "info/unscoped/t/tunnel-agent";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

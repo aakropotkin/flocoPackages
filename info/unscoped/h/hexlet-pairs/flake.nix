@@ -16,7 +16,7 @@
     scope = null;
     ident = "hexlet-pairs";
     ldir  = "info/unscoped/h/hexlet-pairs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

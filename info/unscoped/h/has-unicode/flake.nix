@@ -16,7 +16,7 @@
     scope = null;
     ident = "has-unicode";
     ldir  = "info/unscoped/h/has-unicode";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "fraction.js";
     ldir  = "info/unscoped/f/fraction.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "koa-logger";
     ldir  = "info/unscoped/k/koa-logger";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

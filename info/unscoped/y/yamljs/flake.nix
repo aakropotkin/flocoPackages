@@ -16,7 +16,7 @@
     scope = null;
     ident = "yamljs";
     ldir  = "info/unscoped/y/yamljs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@formatjs";
     ident = "@formatjs/intl-displaynames";
     ldir  = "info/formatjs/intl-displaynames";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

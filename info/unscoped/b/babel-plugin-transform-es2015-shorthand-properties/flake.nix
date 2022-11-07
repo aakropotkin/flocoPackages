@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-es2015-shorthand-properties";
     ldir  = "info/unscoped/b/babel-plugin-transform-es2015-shorthand-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

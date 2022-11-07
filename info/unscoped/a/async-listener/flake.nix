@@ -16,7 +16,7 @@
     scope = null;
     ident = "async-listener";
     ldir  = "info/unscoped/a/async-listener";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

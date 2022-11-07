@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-merge-longhand";
     ldir  = "info/unscoped/p/postcss-merge-longhand";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

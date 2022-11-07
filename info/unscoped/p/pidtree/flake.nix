@@ -16,7 +16,7 @@
     scope = null;
     ident = "pidtree";
     ldir  = "info/unscoped/p/pidtree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/rimraf";
     ldir  = "info/types/rimraf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

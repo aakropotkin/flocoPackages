@@ -16,7 +16,7 @@
     scope = null;
     ident = "karma-mocha";
     ldir  = "info/unscoped/k/karma-mocha";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

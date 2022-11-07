@@ -16,7 +16,7 @@
     scope = "@google-cloud";
     ident = "@google-cloud/storage";
     ldir  = "info/google-cloud/storage";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

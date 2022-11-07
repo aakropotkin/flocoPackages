@@ -16,7 +16,7 @@
     scope = null;
     ident = "nyc";
     ldir  = "info/unscoped/n/nyc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

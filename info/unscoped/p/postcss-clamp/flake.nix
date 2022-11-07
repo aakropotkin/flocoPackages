@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-clamp";
     ldir  = "info/unscoped/p/postcss-clamp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

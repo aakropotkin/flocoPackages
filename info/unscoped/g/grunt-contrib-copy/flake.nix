@@ -16,7 +16,7 @@
     scope = null;
     ident = "grunt-contrib-copy";
     ldir  = "info/unscoped/g/grunt-contrib-copy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

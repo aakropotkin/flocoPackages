@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-plain-object";
     ldir  = "info/unscoped/i/is-plain-object";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

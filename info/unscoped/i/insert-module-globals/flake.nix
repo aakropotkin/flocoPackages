@@ -16,7 +16,7 @@
     scope = null;
     ident = "insert-module-globals";
     ldir  = "info/unscoped/i/insert-module-globals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

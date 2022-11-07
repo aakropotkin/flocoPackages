@@ -16,7 +16,7 @@
     scope = null;
     ident = "streamsearch";
     ldir  = "info/unscoped/s/streamsearch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

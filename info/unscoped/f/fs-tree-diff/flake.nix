@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs-tree-diff";
     ldir  = "info/unscoped/f/fs-tree-diff";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

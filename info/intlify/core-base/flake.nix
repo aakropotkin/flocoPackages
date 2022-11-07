@@ -16,7 +16,7 @@
     scope = "@intlify";
     ident = "@intlify/core-base";
     ldir  = "info/intlify/core-base";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

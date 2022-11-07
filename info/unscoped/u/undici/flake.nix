@@ -16,7 +16,7 @@
     scope = null;
     ident = "undici";
     ldir  = "info/unscoped/u/undici";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

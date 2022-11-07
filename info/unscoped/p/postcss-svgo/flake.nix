@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-svgo";
     ldir  = "info/unscoped/p/postcss-svgo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

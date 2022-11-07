@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-object-rest-spread";
     ldir  = "info/babel/plugin-syntax-object-rest-spread";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

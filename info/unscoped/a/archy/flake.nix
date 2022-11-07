@@ -16,7 +16,7 @@
     scope = null;
     ident = "archy";
     ldir  = "info/unscoped/a/archy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-printf";
     ldir  = "info/unscoped/f/fast-printf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

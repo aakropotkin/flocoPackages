@@ -16,7 +16,7 @@
     scope = null;
     ident = "object-hash";
     ldir  = "info/unscoped/o/object-hash";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

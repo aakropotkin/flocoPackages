@@ -16,7 +16,7 @@
     scope = null;
     ident = "y-codemirror";
     ldir  = "info/unscoped/y/y-codemirror";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

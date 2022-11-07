@@ -16,7 +16,7 @@
     scope = null;
     ident = "jss-plugin-props-sort";
     ldir  = "info/unscoped/j/jss-plugin-props-sort";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

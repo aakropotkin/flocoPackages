@@ -16,7 +16,7 @@
     scope = null;
     ident = "packet-reader";
     ldir  = "info/unscoped/p/packet-reader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

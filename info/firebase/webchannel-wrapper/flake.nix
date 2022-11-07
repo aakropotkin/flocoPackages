@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/webchannel-wrapper";
     ldir  = "info/firebase/webchannel-wrapper";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

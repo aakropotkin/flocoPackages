@@ -16,7 +16,7 @@
     scope = "@ember-data";
     ident = "@ember-data/rfc395-data";
     ldir  = "info/ember-data/rfc395-data";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

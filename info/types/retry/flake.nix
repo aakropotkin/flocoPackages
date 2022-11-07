@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/retry";
     ldir  = "info/types/retry";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "browser-stdout";
     ldir  = "info/unscoped/b/browser-stdout";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

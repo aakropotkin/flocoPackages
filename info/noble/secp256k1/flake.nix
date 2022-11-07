@@ -16,7 +16,7 @@
     scope = "@noble";
     ident = "@noble/secp256k1";
     ldir  = "info/noble/secp256k1";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

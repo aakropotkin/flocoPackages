@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-refresh";
     ldir  = "info/unscoped/r/react-refresh";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

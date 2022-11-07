@@ -16,7 +16,7 @@
     scope = null;
     ident = "randombytes";
     ldir  = "info/unscoped/r/randombytes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

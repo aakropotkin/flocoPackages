@@ -16,7 +16,7 @@
     scope = null;
     ident = "redis-errors";
     ldir  = "info/unscoped/r/redis-errors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

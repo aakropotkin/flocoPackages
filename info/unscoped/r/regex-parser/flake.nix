@@ -16,7 +16,7 @@
     scope = null;
     ident = "regex-parser";
     ldir  = "info/unscoped/r/regex-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

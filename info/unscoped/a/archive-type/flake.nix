@@ -16,7 +16,7 @@
     scope = null;
     ident = "archive-type";
     ldir  = "info/unscoped/a/archive-type";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

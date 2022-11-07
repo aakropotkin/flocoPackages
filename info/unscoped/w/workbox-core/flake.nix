@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-core";
     ldir  = "info/unscoped/w/workbox-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

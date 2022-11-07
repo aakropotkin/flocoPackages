@@ -16,7 +16,7 @@
     scope = null;
     ident = "default-user-agent";
     ldir  = "info/unscoped/d/default-user-agent";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

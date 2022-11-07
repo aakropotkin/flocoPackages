@@ -16,7 +16,7 @@
     scope = null;
     ident = "upper-case";
     ldir  = "info/unscoped/u/upper-case";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "nearley";
     ldir  = "info/unscoped/n/nearley";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

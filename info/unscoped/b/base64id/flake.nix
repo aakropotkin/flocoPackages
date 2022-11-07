@@ -16,7 +16,7 @@
     scope = null;
     ident = "base64id";
     ldir  = "info/unscoped/b/base64id";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

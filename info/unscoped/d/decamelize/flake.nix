@@ -16,7 +16,7 @@
     scope = null;
     ident = "decamelize";
     ldir  = "info/unscoped/d/decamelize";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

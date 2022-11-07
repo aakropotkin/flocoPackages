@@ -16,7 +16,7 @@
     scope = null;
     ident = "ssh2";
     ldir  = "info/unscoped/s/ssh2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

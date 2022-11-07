@@ -16,7 +16,7 @@
     scope = null;
     ident = "append-transform";
     ldir  = "info/unscoped/a/append-transform";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

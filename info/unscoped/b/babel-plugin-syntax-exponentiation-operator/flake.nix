@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-syntax-exponentiation-operator";
     ldir  = "info/unscoped/b/babel-plugin-syntax-exponentiation-operator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

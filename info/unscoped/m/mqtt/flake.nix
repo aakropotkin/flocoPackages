@@ -16,7 +16,7 @@
     scope = null;
     ident = "mqtt";
     ldir  = "info/unscoped/m/mqtt";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "buffer-xor";
     ldir  = "info/unscoped/b/buffer-xor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

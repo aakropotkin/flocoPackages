@@ -16,7 +16,7 @@
     scope = null;
     ident = "extsprintf";
     ldir  = "info/unscoped/e/extsprintf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

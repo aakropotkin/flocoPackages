@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs-readdir-recursive";
     ldir  = "info/unscoped/f/fs-readdir-recursive";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

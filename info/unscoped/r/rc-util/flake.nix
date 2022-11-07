@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-util";
     ldir  = "info/unscoped/r/rc-util";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

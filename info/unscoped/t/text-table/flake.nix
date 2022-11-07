@@ -16,7 +16,7 @@
     scope = null;
     ident = "text-table";
     ldir  = "info/unscoped/t/text-table";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "find-versions";
     ldir  = "info/unscoped/f/find-versions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

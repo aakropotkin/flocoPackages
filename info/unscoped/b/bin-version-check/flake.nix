@@ -16,7 +16,7 @@
     scope = null;
     ident = "bin-version-check";
     ldir  = "info/unscoped/b/bin-version-check";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-mock";
     ldir  = "info/unscoped/j/jest-mock";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "pm2-axon-rpc";
     ldir  = "info/unscoped/p/pm2-axon-rpc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

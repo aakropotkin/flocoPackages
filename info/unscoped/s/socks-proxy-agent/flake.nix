@@ -16,7 +16,7 @@
     scope = null;
     ident = "socks-proxy-agent";
     ldir  = "info/unscoped/s/socks-proxy-agent";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

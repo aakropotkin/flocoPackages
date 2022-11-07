@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-quadtree";
     ldir  = "info/unscoped/d/d3-quadtree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

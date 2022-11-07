@@ -16,7 +16,7 @@
     scope = null;
     ident = "hash.js";
     ldir  = "info/unscoped/h/hash.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-strategies";
     ldir  = "info/unscoped/w/workbox-strategies";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

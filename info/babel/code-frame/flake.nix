@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/code-frame";
     ldir  = "info/babel/code-frame";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "gray-matter";
     ldir  = "info/unscoped/g/gray-matter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "amd-name-resolver";
     ldir  = "info/unscoped/a/amd-name-resolver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

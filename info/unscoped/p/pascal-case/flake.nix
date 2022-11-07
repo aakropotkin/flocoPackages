@@ -16,7 +16,7 @@
     scope = null;
     ident = "pascal-case";
     ldir  = "info/unscoped/p/pascal-case";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

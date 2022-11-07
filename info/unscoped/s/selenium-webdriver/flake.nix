@@ -16,7 +16,7 @@
     scope = null;
     ident = "selenium-webdriver";
     ldir  = "info/unscoped/s/selenium-webdriver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "verror";
     ldir  = "info/unscoped/v/verror";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

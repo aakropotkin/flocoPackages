@@ -16,7 +16,7 @@
     scope = null;
     ident = "event-emitter";
     ldir  = "info/unscoped/e/event-emitter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

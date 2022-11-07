@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-cache-key";
     ldir  = "info/unscoped/m/metro-cache-key";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

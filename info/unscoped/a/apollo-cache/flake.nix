@@ -16,7 +16,7 @@
     scope = null;
     ident = "apollo-cache";
     ldir  = "info/unscoped/a/apollo-cache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

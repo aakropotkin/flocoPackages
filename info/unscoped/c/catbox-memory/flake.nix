@@ -16,7 +16,7 @@
     scope = null;
     ident = "catbox-memory";
     ldir  = "info/unscoped/c/catbox-memory";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

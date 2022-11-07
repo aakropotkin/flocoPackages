@@ -16,7 +16,7 @@
     scope = null;
     ident = "estree-is-function";
     ldir  = "info/unscoped/e/estree-is-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

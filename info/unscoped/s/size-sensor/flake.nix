@@ -16,7 +16,7 @@
     scope = null;
     ident = "size-sensor";
     ldir  = "info/unscoped/s/size-sensor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

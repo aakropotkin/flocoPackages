@@ -16,7 +16,7 @@
     scope = null;
     ident = "cacheable-request";
     ldir  = "info/unscoped/c/cacheable-request";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "dottie";
     ldir  = "info/unscoped/d/dottie";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "ecdsa-sig-formatter";
     ldir  = "info/unscoped/e/ecdsa-sig-formatter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

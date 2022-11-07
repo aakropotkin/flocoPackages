@@ -16,7 +16,7 @@
     scope = null;
     ident = "vasync";
     ldir  = "info/unscoped/v/vasync";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

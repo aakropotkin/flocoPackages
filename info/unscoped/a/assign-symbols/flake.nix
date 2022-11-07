@@ -16,7 +16,7 @@
     scope = null;
     ident = "assign-symbols";
     ldir  = "info/unscoped/a/assign-symbols";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "prettyjson";
     ldir  = "info/unscoped/p/prettyjson";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

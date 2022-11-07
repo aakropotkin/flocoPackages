@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-text-encoding";
     ldir  = "info/unscoped/f/fast-text-encoding";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

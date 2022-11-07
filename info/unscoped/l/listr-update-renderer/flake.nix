@@ -16,7 +16,7 @@
     scope = null;
     ident = "listr-update-renderer";
     ldir  = "info/unscoped/l/listr-update-renderer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

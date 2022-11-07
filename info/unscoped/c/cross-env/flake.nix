@@ -16,7 +16,7 @@
     scope = null;
     ident = "cross-env";
     ldir  = "info/unscoped/c/cross-env";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

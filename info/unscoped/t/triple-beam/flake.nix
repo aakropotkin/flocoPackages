@@ -16,7 +16,7 @@
     scope = null;
     ident = "triple-beam";
     ldir  = "info/unscoped/t/triple-beam";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

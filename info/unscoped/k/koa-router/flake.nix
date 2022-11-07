@@ -16,7 +16,7 @@
     scope = null;
     ident = "koa-router";
     ldir  = "info/unscoped/k/koa-router";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "chainsaw";
     ldir  = "info/unscoped/c/chainsaw";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

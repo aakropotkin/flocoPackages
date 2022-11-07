@@ -16,7 +16,7 @@
     scope = null;
     ident = "clean-css";
     ldir  = "info/unscoped/c/clean-css";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

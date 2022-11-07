@@ -16,7 +16,7 @@
     scope = null;
     ident = "aws4";
     ldir  = "info/unscoped/a/aws4";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

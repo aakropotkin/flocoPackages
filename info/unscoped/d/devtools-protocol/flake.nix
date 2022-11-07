@@ -16,7 +16,7 @@
     scope = null;
     ident = "devtools-protocol";
     ldir  = "info/unscoped/d/devtools-protocol";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

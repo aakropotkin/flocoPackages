@@ -16,7 +16,7 @@
     scope = "@fortawesome";
     ident = "@fortawesome/fontawesome-common-types";
     ldir  = "info/fortawesome/fontawesome-common-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

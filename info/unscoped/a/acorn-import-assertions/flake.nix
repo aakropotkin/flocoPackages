@@ -16,7 +16,7 @@
     scope = null;
     ident = "acorn-import-assertions";
     ldir  = "info/unscoped/a/acorn-import-assertions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

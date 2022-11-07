@@ -16,7 +16,7 @@
     scope = null;
     ident = "universalify";
     ldir  = "info/unscoped/u/universalify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

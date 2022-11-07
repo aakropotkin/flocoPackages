@@ -16,7 +16,7 @@
     scope = "@phosphor";
     ident = "@phosphor/virtualdom";
     ldir  = "info/phosphor/virtualdom";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

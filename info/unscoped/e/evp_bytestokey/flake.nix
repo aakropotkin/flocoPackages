@@ -16,7 +16,7 @@
     scope = null;
     ident = "evp_bytestokey";
     ldir  = "info/unscoped/e/evp_bytestokey";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "reduce-css-calc";
     ldir  = "info/unscoped/r/reduce-css-calc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

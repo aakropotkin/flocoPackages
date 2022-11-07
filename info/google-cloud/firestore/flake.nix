@@ -16,7 +16,7 @@
     scope = "@google-cloud";
     ident = "@google-cloud/firestore";
     ldir  = "info/google-cloud/firestore";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

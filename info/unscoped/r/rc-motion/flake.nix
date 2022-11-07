@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-motion";
     ldir  = "info/unscoped/r/rc-motion";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-top-level-await";
     ldir  = "info/babel/plugin-syntax-top-level-await";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

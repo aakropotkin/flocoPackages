@@ -16,7 +16,7 @@
     scope = null;
     ident = "release-zalgo";
     ldir  = "info/unscoped/r/release-zalgo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "path-is-network-drive";
     ldir  = "info/unscoped/p/path-is-network-drive";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

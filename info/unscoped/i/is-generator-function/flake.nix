@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-generator-function";
     ldir  = "info/unscoped/i/is-generator-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-normalize-whitespace";
     ldir  = "info/unscoped/p/postcss-normalize-whitespace";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@formatjs";
     ident = "@formatjs/icu-skeleton-parser";
     ldir  = "info/formatjs/icu-skeleton-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

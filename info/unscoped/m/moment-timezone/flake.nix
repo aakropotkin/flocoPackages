@@ -16,7 +16,7 @@
     scope = null;
     ident = "moment-timezone";
     ldir  = "info/unscoped/m/moment-timezone";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "hash-for-dep";
     ldir  = "info/unscoped/h/hash-for-dep";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

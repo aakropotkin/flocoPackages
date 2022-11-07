@@ -16,7 +16,7 @@
     scope = null;
     ident = "tape";
     ldir  = "info/unscoped/t/tape";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

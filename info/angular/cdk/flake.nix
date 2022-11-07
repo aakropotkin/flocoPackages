@@ -16,7 +16,7 @@
     scope = "@angular";
     ident = "@angular/cdk";
     ldir  = "info/angular/cdk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

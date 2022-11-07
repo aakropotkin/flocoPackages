@@ -16,7 +16,7 @@
     scope = null;
     ident = "known-css-properties";
     ldir  = "info/unscoped/k/known-css-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

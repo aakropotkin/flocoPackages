@@ -16,7 +16,7 @@
     scope = null;
     ident = "spdx-correct";
     ldir  = "info/unscoped/s/spdx-correct";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

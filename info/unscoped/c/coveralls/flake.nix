@@ -16,7 +16,7 @@
     scope = null;
     ident = "coveralls";
     ldir  = "info/unscoped/c/coveralls";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

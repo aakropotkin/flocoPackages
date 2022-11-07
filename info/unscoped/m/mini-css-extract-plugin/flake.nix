@@ -16,7 +16,7 @@
     scope = null;
     ident = "mini-css-extract-plugin";
     ldir  = "info/unscoped/m/mini-css-extract-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

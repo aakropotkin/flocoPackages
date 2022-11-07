@@ -16,7 +16,7 @@
     scope = null;
     ident = "typescript-logic";
     ldir  = "info/unscoped/t/typescript-logic";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

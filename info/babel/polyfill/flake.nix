@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/polyfill";
     ldir  = "info/babel/polyfill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

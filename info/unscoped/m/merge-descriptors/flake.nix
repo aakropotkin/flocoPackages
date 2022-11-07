@@ -16,7 +16,7 @@
     scope = null;
     ident = "merge-descriptors";
     ldir  = "info/unscoped/m/merge-descriptors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

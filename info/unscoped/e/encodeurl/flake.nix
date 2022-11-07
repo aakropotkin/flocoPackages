@@ -16,7 +16,7 @@
     scope = null;
     ident = "encodeurl";
     ldir  = "info/unscoped/e/encodeurl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

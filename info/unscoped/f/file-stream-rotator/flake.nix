@@ -16,7 +16,7 @@
     scope = null;
     ident = "file-stream-rotator";
     ldir  = "info/unscoped/f/file-stream-rotator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

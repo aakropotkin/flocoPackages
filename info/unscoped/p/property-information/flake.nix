@@ -16,7 +16,7 @@
     scope = null;
     ident = "property-information";
     ldir  = "info/unscoped/p/property-information";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

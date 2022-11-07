@@ -16,7 +16,7 @@
     scope = null;
     ident = "broccoli-debug";
     ldir  = "info/unscoped/b/broccoli-debug";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

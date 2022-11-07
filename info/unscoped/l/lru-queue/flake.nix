@@ -16,7 +16,7 @@
     scope = null;
     ident = "lru-queue";
     ldir  = "info/unscoped/l/lru-queue";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

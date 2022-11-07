@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-resolve-nested-selector";
     ldir  = "info/unscoped/p/postcss-resolve-nested-selector";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

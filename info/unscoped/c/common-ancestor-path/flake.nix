@@ -16,7 +16,7 @@
     scope = null;
     ident = "common-ancestor-path";
     ldir  = "info/unscoped/c/common-ancestor-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

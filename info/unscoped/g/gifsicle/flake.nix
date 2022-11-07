@@ -16,7 +16,7 @@
     scope = null;
     ident = "gifsicle";
     ldir  = "info/unscoped/g/gifsicle";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

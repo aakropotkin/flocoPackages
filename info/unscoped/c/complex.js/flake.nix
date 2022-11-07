@@ -16,7 +16,7 @@
     scope = null;
     ident = "complex.js";
     ldir  = "info/unscoped/c/complex.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

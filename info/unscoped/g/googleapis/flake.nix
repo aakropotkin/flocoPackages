@@ -16,7 +16,7 @@
     scope = null;
     ident = "googleapis";
     ldir  = "info/unscoped/g/googleapis";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "highland";
     ldir  = "info/unscoped/h/highland";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/plugin-jsx";
     ldir  = "info/svgr/plugin-jsx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

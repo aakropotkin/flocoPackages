@@ -16,7 +16,7 @@
     scope = null;
     ident = "serialize-javascript";
     ldir  = "info/unscoped/s/serialize-javascript";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

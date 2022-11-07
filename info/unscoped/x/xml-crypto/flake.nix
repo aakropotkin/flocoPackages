@@ -16,7 +16,7 @@
     scope = null;
     ident = "xml-crypto";
     ldir  = "info/unscoped/x/xml-crypto";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

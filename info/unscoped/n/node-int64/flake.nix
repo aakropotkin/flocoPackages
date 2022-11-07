@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-int64";
     ldir  = "info/unscoped/n/node-int64";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

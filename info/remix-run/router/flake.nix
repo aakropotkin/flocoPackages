@@ -16,7 +16,7 @@
     scope = "@remix-run";
     ident = "@remix-run/router";
     ldir  = "info/remix-run/router";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@ember";
     ident = "@ember/edition-utils";
     ldir  = "info/ember/edition-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

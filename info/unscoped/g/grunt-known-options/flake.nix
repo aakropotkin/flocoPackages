@@ -16,7 +16,7 @@
     scope = null;
     ident = "grunt-known-options";
     ldir  = "info/unscoped/g/grunt-known-options";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

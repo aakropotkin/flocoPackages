@@ -16,7 +16,7 @@
     scope = null;
     ident = "stream-exhaust";
     ldir  = "info/unscoped/s/stream-exhaust";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

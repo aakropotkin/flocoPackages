@@ -16,7 +16,7 @@
     scope = null;
     ident = "watchify";
     ldir  = "info/unscoped/w/watchify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

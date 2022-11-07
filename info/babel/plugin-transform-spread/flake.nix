@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-spread";
     ldir  = "info/babel/plugin-transform-spread";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "bs-recipes";
     ldir  = "info/unscoped/b/bs-recipes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

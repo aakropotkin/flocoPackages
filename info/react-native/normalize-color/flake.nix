@@ -16,7 +16,7 @@
     scope = "@react-native";
     ident = "@react-native/normalize-color";
     ldir  = "info/react-native/normalize-color";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

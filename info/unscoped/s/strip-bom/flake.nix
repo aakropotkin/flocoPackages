@@ -16,7 +16,7 @@
     scope = null;
     ident = "strip-bom";
     ldir  = "info/unscoped/s/strip-bom";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

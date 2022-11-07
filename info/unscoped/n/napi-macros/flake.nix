@@ -16,7 +16,7 @@
     scope = null;
     ident = "napi-macros";
     ldir  = "info/unscoped/n/napi-macros";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

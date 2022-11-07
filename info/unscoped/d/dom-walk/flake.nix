@@ -16,7 +16,7 @@
     scope = null;
     ident = "dom-walk";
     ldir  = "info/unscoped/d/dom-walk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

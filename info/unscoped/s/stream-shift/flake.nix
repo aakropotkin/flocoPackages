@@ -16,7 +16,7 @@
     scope = null;
     ident = "stream-shift";
     ldir  = "info/unscoped/s/stream-shift";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

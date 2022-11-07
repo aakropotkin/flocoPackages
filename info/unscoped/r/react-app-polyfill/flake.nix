@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-app-polyfill";
     ldir  = "info/unscoped/r/react-app-polyfill";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

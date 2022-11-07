@@ -16,7 +16,7 @@
     scope = null;
     ident = "xml2json";
     ldir  = "info/unscoped/x/xml2json";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

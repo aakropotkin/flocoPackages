@@ -16,7 +16,7 @@
     scope = null;
     ident = "gh-pages";
     ldir  = "info/unscoped/g/gh-pages";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

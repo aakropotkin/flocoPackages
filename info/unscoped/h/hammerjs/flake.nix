@@ -16,7 +16,7 @@
     scope = null;
     ident = "hammerjs";
     ldir  = "info/unscoped/h/hammerjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

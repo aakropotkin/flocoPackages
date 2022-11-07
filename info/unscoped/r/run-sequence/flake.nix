@@ -16,7 +16,7 @@
     scope = null;
     ident = "run-sequence";
     ldir  = "info/unscoped/r/run-sequence";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

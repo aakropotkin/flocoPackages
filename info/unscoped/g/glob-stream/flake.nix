@@ -16,7 +16,7 @@
     scope = null;
     ident = "glob-stream";
     ldir  = "info/unscoped/g/glob-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

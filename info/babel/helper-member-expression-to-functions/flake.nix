@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-member-expression-to-functions";
     ldir  = "info/babel/helper-member-expression-to-functions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

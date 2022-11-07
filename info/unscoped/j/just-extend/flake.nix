@@ -16,7 +16,7 @@
     scope = null;
     ident = "just-extend";
     ldir  = "info/unscoped/j/just-extend";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

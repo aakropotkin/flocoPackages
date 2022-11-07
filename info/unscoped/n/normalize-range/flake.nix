@@ -16,7 +16,7 @@
     scope = null;
     ident = "normalize-range";
     ldir  = "info/unscoped/n/normalize-range";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

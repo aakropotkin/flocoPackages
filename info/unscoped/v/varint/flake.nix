@@ -16,7 +16,7 @@
     scope = null;
     ident = "varint";
     ldir  = "info/unscoped/v/varint";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

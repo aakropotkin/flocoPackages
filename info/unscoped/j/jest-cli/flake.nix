@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-cli";
     ldir  = "info/unscoped/j/jest-cli";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-typescript";
     ldir  = "info/babel/plugin-transform-typescript";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "line-column";
     ldir  = "info/unscoped/l/line-column";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

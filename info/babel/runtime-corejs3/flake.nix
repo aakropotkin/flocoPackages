@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/runtime-corejs3";
     ldir  = "info/babel/runtime-corejs3";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

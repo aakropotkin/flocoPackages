@@ -16,7 +16,7 @@
     scope = null;
     ident = "mdast-util-from-markdown";
     ldir  = "info/unscoped/m/mdast-util-from-markdown";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

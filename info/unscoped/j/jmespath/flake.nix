@@ -16,7 +16,7 @@
     scope = null;
     ident = "jmespath";
     ldir  = "info/unscoped/j/jmespath";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

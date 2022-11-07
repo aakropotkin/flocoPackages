@@ -16,7 +16,7 @@
     scope = null;
     ident = "minimalistic-crypto-utils";
     ldir  = "info/unscoped/m/minimalistic-crypto-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

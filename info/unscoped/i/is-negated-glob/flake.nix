@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-negated-glob";
     ldir  = "info/unscoped/i/is-negated-glob";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "simple-statistics";
     ldir  = "info/unscoped/s/simple-statistics";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

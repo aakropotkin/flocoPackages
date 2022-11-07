@@ -16,7 +16,7 @@
     scope = null;
     ident = "stylus-loader";
     ldir  = "info/unscoped/s/stylus-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

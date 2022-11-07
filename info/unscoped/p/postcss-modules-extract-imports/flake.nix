@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-modules-extract-imports";
     ldir  = "info/unscoped/p/postcss-modules-extract-imports";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

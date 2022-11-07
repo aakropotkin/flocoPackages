@@ -16,7 +16,7 @@
     scope = "@fortawesome";
     ident = "@fortawesome/fontawesome-free";
     ldir  = "info/fortawesome/fontawesome-free";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

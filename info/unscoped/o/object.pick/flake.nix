@@ -16,7 +16,7 @@
     scope = null;
     ident = "object.pick";
     ldir  = "info/unscoped/o/object.pick";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@jimp";
     ident = "@jimp/tiff";
     ldir  = "info/jimp/tiff";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "unicode-canonical-property-names-ecmascript";
     ldir  = "info/unscoped/u/unicode-canonical-property-names-ecmascript";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

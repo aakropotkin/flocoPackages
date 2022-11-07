@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-ms";
     ldir  = "info/unscoped/p/parse-ms";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

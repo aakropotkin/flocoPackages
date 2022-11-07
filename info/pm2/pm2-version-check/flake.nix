@@ -16,7 +16,7 @@
     scope = "@pm2";
     ident = "@pm2/pm2-version-check";
     ldir  = "info/pm2/pm2-version-check";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

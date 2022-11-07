@@ -16,7 +16,7 @@
     scope = null;
     ident = "detect-newline";
     ldir  = "info/unscoped/d/detect-newline";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

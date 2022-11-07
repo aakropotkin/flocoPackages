@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-addons-shallow-compare";
     ldir  = "info/unscoped/r/react-addons-shallow-compare";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

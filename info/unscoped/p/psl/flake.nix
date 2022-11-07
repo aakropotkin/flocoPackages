@@ -16,7 +16,7 @@
     scope = null;
     ident = "psl";
     ldir  = "info/unscoped/p/psl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

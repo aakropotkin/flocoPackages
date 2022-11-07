@@ -16,7 +16,7 @@
     scope = null;
     ident = "dotenv";
     ldir  = "info/unscoped/d/dotenv";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

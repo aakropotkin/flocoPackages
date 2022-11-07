@@ -16,7 +16,7 @@
     scope = null;
     ident = "windows-release";
     ldir  = "info/unscoped/w/windows-release";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

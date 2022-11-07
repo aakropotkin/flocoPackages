@@ -16,7 +16,7 @@
     scope = null;
     ident = "karma-jasmine";
     ldir  = "info/unscoped/k/karma-jasmine";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

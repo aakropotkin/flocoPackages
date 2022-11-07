@@ -16,7 +16,7 @@
     scope = null;
     ident = "icss-utils";
     ldir  = "info/unscoped/i/icss-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

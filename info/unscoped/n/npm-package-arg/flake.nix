@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-package-arg";
     ldir  = "info/unscoped/n/npm-package-arg";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

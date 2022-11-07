@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromatch";
     ldir  = "info/unscoped/m/micromatch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

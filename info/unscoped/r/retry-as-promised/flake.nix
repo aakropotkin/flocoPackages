@@ -16,7 +16,7 @@
     scope = null;
     ident = "retry-as-promised";
     ldir  = "info/unscoped/r/retry-as-promised";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

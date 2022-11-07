@@ -16,7 +16,7 @@
     scope = null;
     ident = "style-search";
     ldir  = "info/unscoped/s/style-search";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

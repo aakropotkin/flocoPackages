@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-ember-template-compilation";
     ldir  = "info/unscoped/b/babel-plugin-ember-template-compilation";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

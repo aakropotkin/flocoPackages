@@ -16,7 +16,7 @@
     scope = null;
     ident = "vue-router";
     ldir  = "info/unscoped/v/vue-router";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

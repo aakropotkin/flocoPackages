@@ -16,7 +16,7 @@
     scope = null;
     ident = "merge-source-map";
     ldir  = "info/unscoped/m/merge-source-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

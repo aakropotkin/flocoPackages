@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulp-minify-css";
     ldir  = "info/unscoped/g/gulp-minify-css";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

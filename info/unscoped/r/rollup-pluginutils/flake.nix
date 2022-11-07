@@ -16,7 +16,7 @@
     scope = null;
     ident = "rollup-pluginutils";
     ldir  = "info/unscoped/r/rollup-pluginutils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

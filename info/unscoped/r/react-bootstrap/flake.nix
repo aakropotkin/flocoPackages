@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-bootstrap";
     ldir  = "info/unscoped/r/react-bootstrap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

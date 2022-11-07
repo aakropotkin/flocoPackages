@@ -16,7 +16,7 @@
     scope = null;
     ident = "mri";
     ldir  = "info/unscoped/m/mri";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

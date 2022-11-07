@@ -16,7 +16,7 @@
     scope = null;
     ident = "lru-cache";
     ldir  = "info/unscoped/l/lru-cache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "browserify-cipher";
     ldir  = "info/unscoped/b/browserify-cipher";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

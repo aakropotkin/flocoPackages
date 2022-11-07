@@ -16,7 +16,7 @@
     scope = "@apideck";
     ident = "@apideck/better-ajv-errors";
     ldir  = "info/apideck/better-ajv-errors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

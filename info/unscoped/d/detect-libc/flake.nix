@@ -16,7 +16,7 @@
     scope = null;
     ident = "detect-libc";
     ldir  = "info/unscoped/d/detect-libc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

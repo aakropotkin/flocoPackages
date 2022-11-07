@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-decode-uri-component";
     ldir  = "info/unscoped/f/fast-decode-uri-component";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

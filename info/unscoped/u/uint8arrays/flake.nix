@@ -16,7 +16,7 @@
     scope = null;
     ident = "uint8arrays";
     ldir  = "info/unscoped/u/uint8arrays";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

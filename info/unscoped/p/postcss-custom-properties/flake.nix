@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-custom-properties";
     ldir  = "info/unscoped/p/postcss-custom-properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

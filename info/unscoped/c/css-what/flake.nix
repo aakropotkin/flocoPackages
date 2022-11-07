@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-what";
     ldir  = "info/unscoped/c/css-what";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

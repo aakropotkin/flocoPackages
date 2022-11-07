@@ -16,7 +16,7 @@
     scope = "@humanwhocodes";
     ident = "@humanwhocodes/config-array";
     ldir  = "info/humanwhocodes/config-array";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

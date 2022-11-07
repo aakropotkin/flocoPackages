@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-intl";
     ldir  = "info/unscoped/r/react-intl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

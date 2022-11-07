@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-messages";
     ldir  = "info/unscoped/b/babel-messages";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

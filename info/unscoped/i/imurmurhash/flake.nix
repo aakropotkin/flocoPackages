@@ -16,7 +16,7 @@
     scope = null;
     ident = "imurmurhash";
     ldir  = "info/unscoped/i/imurmurhash";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

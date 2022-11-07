@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-proposal-optional-catch-binding";
     ldir  = "info/babel/plugin-proposal-optional-catch-binding";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

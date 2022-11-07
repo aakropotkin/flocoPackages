@@ -16,7 +16,7 @@
     scope = null;
     ident = "idna-uts46-hx";
     ldir  = "info/unscoped/i/idna-uts46-hx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-util-classify-character";
     ldir  = "info/unscoped/m/micromark-util-classify-character";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

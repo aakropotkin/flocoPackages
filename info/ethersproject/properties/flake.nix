@@ -16,7 +16,7 @@
     scope = "@ethersproject";
     ident = "@ethersproject/properties";
     ldir  = "info/ethersproject/properties";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "kind-of";
     ldir  = "info/unscoped/k/kind-of";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

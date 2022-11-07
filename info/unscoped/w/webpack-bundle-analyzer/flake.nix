@@ -16,7 +16,7 @@
     scope = null;
     ident = "webpack-bundle-analyzer";
     ldir  = "info/unscoped/w/webpack-bundle-analyzer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

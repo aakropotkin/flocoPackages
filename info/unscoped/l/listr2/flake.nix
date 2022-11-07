@@ -16,7 +16,7 @@
     scope = null;
     ident = "listr2";
     ldir  = "info/unscoped/l/listr2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

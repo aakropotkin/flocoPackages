@@ -16,7 +16,7 @@
     scope = "@ethersproject";
     ident = "@ethersproject/abstract-provider";
     ldir  = "info/ethersproject/abstract-provider";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

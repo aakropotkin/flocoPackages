@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-attribute-case-insensitive";
     ldir  = "info/unscoped/p/postcss-attribute-case-insensitive";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

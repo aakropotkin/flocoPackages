@@ -16,7 +16,7 @@
     scope = null;
     ident = "envify";
     ldir  = "info/unscoped/e/envify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

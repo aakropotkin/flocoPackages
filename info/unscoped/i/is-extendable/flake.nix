@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-extendable";
     ldir  = "info/unscoped/i/is-extendable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

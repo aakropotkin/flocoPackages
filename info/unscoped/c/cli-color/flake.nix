@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-color";
     ldir  = "info/unscoped/c/cli-color";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

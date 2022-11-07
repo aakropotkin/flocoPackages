@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-addons-css-transition-group";
     ldir  = "info/unscoped/r/react-addons-css-transition-group";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@npmcli";
     ident = "@npmcli/arborist";
     ldir  = "info/npmcli/arborist";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

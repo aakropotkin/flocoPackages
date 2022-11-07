@@ -16,7 +16,7 @@
     scope = null;
     ident = "optimism";
     ldir  = "info/unscoped/o/optimism";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

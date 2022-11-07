@@ -16,7 +16,7 @@
     scope = null;
     ident = "engine.io-client";
     ldir  = "info/unscoped/e/engine.io-client";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "mongoose";
     ldir  = "info/unscoped/m/mongoose";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

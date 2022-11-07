@@ -16,7 +16,7 @@
     scope = null;
     ident = "bs-logger";
     ldir  = "info/unscoped/b/bs-logger";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@lumino";
     ident = "@lumino/signaling";
     ldir  = "info/lumino/signaling";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

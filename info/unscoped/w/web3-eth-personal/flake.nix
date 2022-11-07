@@ -16,7 +16,7 @@
     scope = null;
     ident = "web3-eth-personal";
     ldir  = "info/unscoped/w/web3-eth-personal";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

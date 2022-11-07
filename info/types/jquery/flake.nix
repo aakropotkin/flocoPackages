@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/jquery";
     ldir  = "info/types/jquery";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "tty-browserify";
     ldir  = "info/unscoped/t/tty-browserify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

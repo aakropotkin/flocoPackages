@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-visitor-keys";
     ldir  = "info/unscoped/e/eslint-visitor-keys";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

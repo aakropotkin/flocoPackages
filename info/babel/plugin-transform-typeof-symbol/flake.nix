@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-typeof-symbol";
     ldir  = "info/babel/plugin-transform-typeof-symbol";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

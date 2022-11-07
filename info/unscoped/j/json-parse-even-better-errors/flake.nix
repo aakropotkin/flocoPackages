@@ -16,7 +16,7 @@
     scope = null;
     ident = "json-parse-even-better-errors";
     ldir  = "info/unscoped/j/json-parse-even-better-errors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

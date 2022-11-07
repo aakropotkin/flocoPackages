@@ -16,7 +16,7 @@
     scope = null;
     ident = "aproba";
     ldir  = "info/unscoped/a/aproba";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

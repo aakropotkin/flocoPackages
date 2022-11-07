@@ -16,7 +16,7 @@
     scope = null;
     ident = "broccoli-kitchen-sink-helpers";
     ldir  = "info/unscoped/b/broccoli-kitchen-sink-helpers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

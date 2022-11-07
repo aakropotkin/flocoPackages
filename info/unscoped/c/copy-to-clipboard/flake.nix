@@ -16,7 +16,7 @@
     scope = null;
     ident = "copy-to-clipboard";
     ldir  = "info/unscoped/c/copy-to-clipboard";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

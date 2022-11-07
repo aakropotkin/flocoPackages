@@ -16,7 +16,7 @@
     scope = null;
     ident = "acorn-jsx";
     ldir  = "info/unscoped/a/acorn-jsx";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

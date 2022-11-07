@@ -16,7 +16,7 @@
     scope = null;
     ident = "pretty-hrtime";
     ldir  = "info/unscoped/p/pretty-hrtime";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-helper-function-name";
     ldir  = "info/unscoped/b/babel-helper-function-name";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-color-functional-notation";
     ldir  = "info/unscoped/p/postcss-color-functional-notation";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

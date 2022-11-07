@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-core-module";
     ldir  = "info/unscoped/i/is-core-module";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

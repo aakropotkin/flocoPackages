@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-proposal-private-methods";
     ldir  = "info/babel/plugin-proposal-private-methods";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

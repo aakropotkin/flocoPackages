@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-static";
     ldir  = "info/unscoped/n/node-static";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

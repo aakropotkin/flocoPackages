@@ -16,7 +16,7 @@
     scope = null;
     ident = "fluent-ffmpeg";
     ldir  = "info/unscoped/f/fluent-ffmpeg";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

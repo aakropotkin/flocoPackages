@@ -16,7 +16,7 @@
     scope = null;
     ident = "map-cache";
     ldir  = "info/unscoped/m/map-cache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

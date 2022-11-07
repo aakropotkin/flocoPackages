@@ -16,7 +16,7 @@
     scope = null;
     ident = "lines-and-columns";
     ldir  = "info/unscoped/l/lines-and-columns";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

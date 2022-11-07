@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/msal-node";
     ldir  = "info/azure/msal-node";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

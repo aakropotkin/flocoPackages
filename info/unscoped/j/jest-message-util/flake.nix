@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-message-util";
     ldir  = "info/unscoped/j/jest-message-util";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

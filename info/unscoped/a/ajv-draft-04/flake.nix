@@ -16,7 +16,7 @@
     scope = null;
     ident = "ajv-draft-04";
     ldir  = "info/unscoped/a/ajv-draft-04";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

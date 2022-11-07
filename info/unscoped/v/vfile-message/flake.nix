@@ -16,7 +16,7 @@
     scope = null;
     ident = "vfile-message";
     ldir  = "info/unscoped/v/vfile-message";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-progress";
     ldir  = "info/unscoped/c/cli-progress";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

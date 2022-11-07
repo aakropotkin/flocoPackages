@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/util";
     ldir  = "info/firebase/util";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

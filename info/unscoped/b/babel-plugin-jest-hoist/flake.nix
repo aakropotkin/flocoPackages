@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-jest-hoist";
     ldir  = "info/unscoped/b/babel-plugin-jest-hoist";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

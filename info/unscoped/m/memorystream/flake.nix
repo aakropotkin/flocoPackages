@@ -16,7 +16,7 @@
     scope = null;
     ident = "memorystream";
     ldir  = "info/unscoped/m/memorystream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "are-we-there-yet";
     ldir  = "info/unscoped/a/are-we-there-yet";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

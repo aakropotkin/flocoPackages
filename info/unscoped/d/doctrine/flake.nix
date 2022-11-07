@@ -16,7 +16,7 @@
     scope = null;
     ident = "doctrine";
     ldir  = "info/unscoped/d/doctrine";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

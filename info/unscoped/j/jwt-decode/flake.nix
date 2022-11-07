@@ -16,7 +16,7 @@
     scope = null;
     ident = "jwt-decode";
     ldir  = "info/unscoped/j/jwt-decode";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

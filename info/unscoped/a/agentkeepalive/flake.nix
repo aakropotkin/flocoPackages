@@ -16,7 +16,7 @@
     scope = null;
     ident = "agentkeepalive";
     ldir  = "info/unscoped/a/agentkeepalive";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

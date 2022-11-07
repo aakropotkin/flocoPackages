@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/resolve";
     ldir  = "info/types/resolve";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

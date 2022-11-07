@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash._reinterpolate";
     ldir  = "info/unscoped/l/lodash._reinterpolate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

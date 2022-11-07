@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-resolver";
     ldir  = "info/unscoped/m/metro-resolver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

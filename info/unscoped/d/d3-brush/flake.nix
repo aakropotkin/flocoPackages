@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-brush";
     ldir  = "info/unscoped/d/d3-brush";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

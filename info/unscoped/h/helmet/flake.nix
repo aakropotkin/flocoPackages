@@ -16,7 +16,7 @@
     scope = null;
     ident = "helmet";
     ldir  = "info/unscoped/h/helmet";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

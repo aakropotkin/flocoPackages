@@ -16,7 +16,7 @@
     scope = null;
     ident = "continuation-local-storage";
     ldir  = "info/unscoped/c/continuation-local-storage";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

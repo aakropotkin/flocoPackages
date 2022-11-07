@@ -16,7 +16,7 @@
     scope = null;
     ident = "p-transform";
     ldir  = "info/unscoped/p/p-transform";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

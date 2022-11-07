@@ -16,7 +16,7 @@
     scope = null;
     ident = "osenv";
     ldir  = "info/unscoped/o/osenv";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

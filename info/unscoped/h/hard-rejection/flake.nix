@@ -16,7 +16,7 @@
     scope = null;
     ident = "hard-rejection";
     ldir  = "info/unscoped/h/hard-rejection";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

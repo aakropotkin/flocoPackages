@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-util-combine-extensions";
     ldir  = "info/unscoped/m/micromark-util-combine-extensions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

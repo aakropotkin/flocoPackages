@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-minify-font-values";
     ldir  = "info/unscoped/p/postcss-minify-font-values";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "shimmer";
     ldir  = "info/unscoped/s/shimmer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

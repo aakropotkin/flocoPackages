@@ -16,7 +16,7 @@
     scope = null;
     ident = "web3-shh";
     ldir  = "info/unscoped/w/web3-shh";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

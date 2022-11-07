@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-factory-label";
     ldir  = "info/unscoped/m/micromark-factory-label";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "shebang-command";
     ldir  = "info/unscoped/s/shebang-command";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-mentions";
     ldir  = "info/unscoped/r/rc-mentions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

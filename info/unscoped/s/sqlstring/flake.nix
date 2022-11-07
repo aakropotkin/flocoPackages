@@ -16,7 +16,7 @@
     scope = null;
     ident = "sqlstring";
     ldir  = "info/unscoped/s/sqlstring";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

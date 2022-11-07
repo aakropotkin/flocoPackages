@@ -16,7 +16,7 @@
     scope = "@oclif";
     ident = "@oclif/parser";
     ldir  = "info/oclif/parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

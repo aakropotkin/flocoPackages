@@ -16,7 +16,7 @@
     scope = null;
     ident = "har-schema";
     ldir  = "info/unscoped/h/har-schema";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

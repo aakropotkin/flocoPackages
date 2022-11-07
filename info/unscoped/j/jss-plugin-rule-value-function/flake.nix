@@ -16,7 +16,7 @@
     scope = null;
     ident = "jss-plugin-rule-value-function";
     ldir  = "info/unscoped/j/jss-plugin-rule-value-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "string.prototype.padend";
     ldir  = "info/unscoped/s/string.prototype.padend";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

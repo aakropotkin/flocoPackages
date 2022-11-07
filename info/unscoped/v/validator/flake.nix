@@ -16,7 +16,7 @@
     scope = null;
     ident = "validator";
     ldir  = "info/unscoped/v/validator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "lru-memoizer";
     ldir  = "info/unscoped/l/lru-memoizer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

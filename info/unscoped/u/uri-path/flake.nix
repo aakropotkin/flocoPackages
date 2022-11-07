@@ -16,7 +16,7 @@
     scope = null;
     ident = "uri-path";
     ldir  = "info/unscoped/u/uri-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

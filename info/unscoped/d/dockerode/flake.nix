@@ -16,7 +16,7 @@
     scope = null;
     ident = "dockerode";
     ldir  = "info/unscoped/d/dockerode";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

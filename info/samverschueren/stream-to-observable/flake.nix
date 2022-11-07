@@ -16,7 +16,7 @@
     scope = "@samverschueren";
     ident = "@samverschueren/stream-to-observable";
     ldir  = "info/samverschueren/stream-to-observable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-unit-converter";
     ldir  = "info/unscoped/c/css-unit-converter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

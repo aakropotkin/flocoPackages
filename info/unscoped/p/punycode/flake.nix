@@ -16,7 +16,7 @@
     scope = null;
     ident = "punycode";
     ldir  = "info/unscoped/p/punycode";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

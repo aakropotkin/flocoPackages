@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-syntax-do-expressions";
     ldir  = "info/unscoped/b/babel-plugin-syntax-do-expressions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

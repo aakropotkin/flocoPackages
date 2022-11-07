@@ -16,7 +16,7 @@
     scope = "@jest";
     ident = "@jest/create-cache-key-function";
     ldir  = "info/jest/create-cache-key-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

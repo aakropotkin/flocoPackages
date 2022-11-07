@@ -16,7 +16,7 @@
     scope = null;
     ident = "ylru";
     ldir  = "info/unscoped/y/ylru";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

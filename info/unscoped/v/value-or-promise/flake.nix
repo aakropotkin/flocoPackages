@@ -16,7 +16,7 @@
     scope = null;
     ident = "value-or-promise";
     ldir  = "info/unscoped/v/value-or-promise";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

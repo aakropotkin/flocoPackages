@@ -16,7 +16,7 @@
     scope = null;
     ident = "jstransformer";
     ldir  = "info/unscoped/j/jstransformer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

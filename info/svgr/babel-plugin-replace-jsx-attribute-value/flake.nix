@@ -16,7 +16,7 @@
     scope = "@svgr";
     ident = "@svgr/babel-plugin-replace-jsx-attribute-value";
     ldir  = "info/svgr/babel-plugin-replace-jsx-attribute-value";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

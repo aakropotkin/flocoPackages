@@ -16,7 +16,7 @@
     scope = null;
     ident = "bcrypt";
     ldir  = "info/unscoped/b/bcrypt";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

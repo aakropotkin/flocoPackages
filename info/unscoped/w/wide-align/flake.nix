@@ -16,7 +16,7 @@
     scope = null;
     ident = "wide-align";
     ldir  = "info/unscoped/w/wide-align";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

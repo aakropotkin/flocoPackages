@@ -16,7 +16,7 @@
     scope = null;
     ident = "enzyme-adapter-react-16";
     ldir  = "info/unscoped/e/enzyme-adapter-react-16";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

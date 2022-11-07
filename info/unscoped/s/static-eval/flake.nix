@@ -16,7 +16,7 @@
     scope = null;
     ident = "static-eval";
     ldir  = "info/unscoped/s/static-eval";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

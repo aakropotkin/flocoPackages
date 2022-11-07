@@ -16,7 +16,7 @@
     scope = null;
     ident = "symlink-or-copy";
     ldir  = "info/unscoped/s/symlink-or-copy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

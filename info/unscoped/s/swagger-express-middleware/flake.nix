@@ -16,7 +16,7 @@
     scope = null;
     ident = "swagger-express-middleware";
     ldir  = "info/unscoped/s/swagger-express-middleware";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

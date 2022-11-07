@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-color";
     ldir  = "info/unscoped/r/react-color";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

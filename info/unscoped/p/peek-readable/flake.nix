@@ -16,7 +16,7 @@
     scope = null;
     ident = "peek-readable";
     ldir  = "info/unscoped/p/peek-readable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

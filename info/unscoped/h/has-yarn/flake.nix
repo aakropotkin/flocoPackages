@@ -16,7 +16,7 @@
     scope = null;
     ident = "has-yarn";
     ldir  = "info/unscoped/h/has-yarn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

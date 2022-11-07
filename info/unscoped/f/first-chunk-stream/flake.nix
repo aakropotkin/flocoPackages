@@ -16,7 +16,7 @@
     scope = null;
     ident = "first-chunk-stream";
     ldir  = "info/unscoped/f/first-chunk-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-proposal-export-namespace-from";
     ldir  = "info/babel/plugin-proposal-export-namespace-from";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

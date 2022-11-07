@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-color-function";
     ldir  = "info/csstools/postcss-color-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

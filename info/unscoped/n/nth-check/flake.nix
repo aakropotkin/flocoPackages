@@ -16,7 +16,7 @@
     scope = null;
     ident = "nth-check";
     ldir  = "info/unscoped/n/nth-check";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

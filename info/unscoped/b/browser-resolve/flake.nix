@@ -16,7 +16,7 @@
     scope = null;
     ident = "browser-resolve";
     ldir  = "info/unscoped/b/browser-resolve";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

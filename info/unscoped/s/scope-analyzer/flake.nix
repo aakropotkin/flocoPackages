@@ -16,7 +16,7 @@
     scope = null;
     ident = "scope-analyzer";
     ldir  = "info/unscoped/s/scope-analyzer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

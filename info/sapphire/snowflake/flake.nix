@@ -16,7 +16,7 @@
     scope = "@sapphire";
     ident = "@sapphire/snowflake";
     ldir  = "info/sapphire/snowflake";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "es6-object-assign";
     ldir  = "info/unscoped/e/es6-object-assign";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

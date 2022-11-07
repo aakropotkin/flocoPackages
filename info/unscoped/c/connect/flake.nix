@@ -16,7 +16,7 @@
     scope = null;
     ident = "connect";
     ldir  = "info/unscoped/c/connect";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

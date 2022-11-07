@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.throttle";
     ldir  = "info/unscoped/l/lodash.throttle";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

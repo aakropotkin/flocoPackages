@@ -16,7 +16,7 @@
     scope = null;
     ident = "axios-ntlm";
     ldir  = "info/unscoped/a/axios-ntlm";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

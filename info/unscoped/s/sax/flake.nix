@@ -16,7 +16,7 @@
     scope = null;
     ident = "sax";
     ldir  = "info/unscoped/s/sax";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

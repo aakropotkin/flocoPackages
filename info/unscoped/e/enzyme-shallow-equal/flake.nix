@@ -16,7 +16,7 @@
     scope = null;
     ident = "enzyme-shallow-equal";
     ldir  = "info/unscoped/e/enzyme-shallow-equal";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

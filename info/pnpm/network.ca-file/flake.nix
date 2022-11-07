@@ -16,7 +16,7 @@
     scope = "@pnpm";
     ident = "@pnpm/network.ca-file";
     ldir  = "info/pnpm/network.ca-file";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "performance-now";
     ldir  = "info/unscoped/p/performance-now";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

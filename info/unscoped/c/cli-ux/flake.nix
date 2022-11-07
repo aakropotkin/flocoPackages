@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-ux";
     ldir  = "info/unscoped/c/cli-ux";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

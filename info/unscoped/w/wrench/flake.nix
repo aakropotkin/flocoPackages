@@ -16,7 +16,7 @@
     scope = null;
     ident = "wrench";
     ldir  = "info/unscoped/w/wrench";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

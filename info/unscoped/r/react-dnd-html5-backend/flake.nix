@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-dnd-html5-backend";
     ldir  = "info/unscoped/r/react-dnd-html5-backend";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

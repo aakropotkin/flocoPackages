@@ -16,7 +16,7 @@
     scope = null;
     ident = "vuex";
     ldir  = "info/unscoped/v/vuex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

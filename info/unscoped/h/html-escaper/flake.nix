@@ -16,7 +16,7 @@
     scope = null;
     ident = "html-escaper";
     ldir  = "info/unscoped/h/html-escaper";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

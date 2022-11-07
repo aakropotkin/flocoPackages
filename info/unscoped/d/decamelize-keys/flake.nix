@@ -16,7 +16,7 @@
     scope = null;
     ident = "decamelize-keys";
     ldir  = "info/unscoped/d/decamelize-keys";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

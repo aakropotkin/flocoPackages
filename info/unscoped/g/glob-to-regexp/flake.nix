@@ -16,7 +16,7 @@
     scope = null;
     ident = "glob-to-regexp";
     ldir  = "info/unscoped/g/glob-to-regexp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

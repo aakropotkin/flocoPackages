@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-columns";
     ldir  = "info/unscoped/c/cli-columns";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

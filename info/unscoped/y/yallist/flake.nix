@@ -16,7 +16,7 @@
     scope = null;
     ident = "yallist";
     ldir  = "info/unscoped/y/yallist";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

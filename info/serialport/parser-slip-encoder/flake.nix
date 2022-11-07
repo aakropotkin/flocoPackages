@@ -16,7 +16,7 @@
     scope = "@serialport";
     ident = "@serialport/parser-slip-encoder";
     ldir  = "info/serialport/parser-slip-encoder";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

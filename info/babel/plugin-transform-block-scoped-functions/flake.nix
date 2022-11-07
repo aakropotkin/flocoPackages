@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-block-scoped-functions";
     ldir  = "info/babel/plugin-transform-block-scoped-functions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

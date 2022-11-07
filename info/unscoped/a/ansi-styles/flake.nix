@@ -16,7 +16,7 @@
     scope = null;
     ident = "ansi-styles";
     ldir  = "info/unscoped/a/ansi-styles";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

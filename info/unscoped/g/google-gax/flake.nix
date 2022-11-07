@@ -16,7 +16,7 @@
     scope = null;
     ident = "google-gax";
     ldir  = "info/unscoped/g/google-gax";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

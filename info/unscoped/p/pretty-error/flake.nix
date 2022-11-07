@@ -16,7 +16,7 @@
     scope = null;
     ident = "pretty-error";
     ldir  = "info/unscoped/p/pretty-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

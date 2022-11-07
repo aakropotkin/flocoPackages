@@ -16,7 +16,7 @@
     scope = null;
     ident = "make-error-cause";
     ldir  = "info/unscoped/m/make-error-cause";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/serve-index";
     ldir  = "info/types/serve-index";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

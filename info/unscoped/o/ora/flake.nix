@@ -16,7 +16,7 @@
     scope = null;
     ident = "ora";
     ldir  = "info/unscoped/o/ora";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

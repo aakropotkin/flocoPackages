@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-minify-gradients";
     ldir  = "info/unscoped/p/postcss-minify-gradients";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

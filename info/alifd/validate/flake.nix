@@ -16,7 +16,7 @@
     scope = "@alifd";
     ident = "@alifd/validate";
     ldir  = "info/alifd/validate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

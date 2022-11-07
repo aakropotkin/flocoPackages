@@ -16,7 +16,7 @@
     scope = "@scure";
     ident = "@scure/bip39";
     ldir  = "info/scure/bip39";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

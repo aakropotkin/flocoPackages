@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining";
     ldir  = "info/babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

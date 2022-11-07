@@ -16,7 +16,7 @@
     scope = null;
     ident = "xdg-basedir";
     ldir  = "info/unscoped/x/xdg-basedir";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

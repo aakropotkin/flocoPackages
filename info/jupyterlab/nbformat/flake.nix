@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/nbformat";
     ldir  = "info/jupyterlab/nbformat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

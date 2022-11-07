@@ -16,7 +16,7 @@
     scope = null;
     ident = "tslint-react";
     ldir  = "info/unscoped/t/tslint-react";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

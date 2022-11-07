@@ -16,7 +16,7 @@
     scope = "@ethersproject";
     ident = "@ethersproject/signing-key";
     ldir  = "info/ethersproject/signing-key";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

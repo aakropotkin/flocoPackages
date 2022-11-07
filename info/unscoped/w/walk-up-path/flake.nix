@@ -16,7 +16,7 @@
     scope = null;
     ident = "walk-up-path";
     ldir  = "info/unscoped/w/walk-up-path";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

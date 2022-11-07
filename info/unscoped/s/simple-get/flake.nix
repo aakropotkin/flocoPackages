@@ -16,7 +16,7 @@
     scope = null;
     ident = "simple-get";
     ldir  = "info/unscoped/s/simple-get";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

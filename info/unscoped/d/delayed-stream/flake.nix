@@ -16,7 +16,7 @@
     scope = null;
     ident = "delayed-stream";
     ldir  = "info/unscoped/d/delayed-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

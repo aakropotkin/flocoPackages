@@ -16,7 +16,7 @@
     scope = null;
     ident = "one-time";
     ldir  = "info/unscoped/o/one-time";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

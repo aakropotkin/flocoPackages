@@ -16,7 +16,7 @@
     scope = null;
     ident = "napi-build-utils";
     ldir  = "info/unscoped/n/napi-build-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

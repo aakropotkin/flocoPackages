@@ -16,7 +16,7 @@
     scope = null;
     ident = "graphql-tools";
     ldir  = "info/unscoped/g/graphql-tools";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

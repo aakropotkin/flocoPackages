@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/vinyl";
     ldir  = "info/types/vinyl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel";
     ldir  = "info/unscoped/b/babel";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

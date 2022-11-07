@@ -16,7 +16,7 @@
     scope = null;
     ident = "which-boxed-primitive";
     ldir  = "info/unscoped/w/which-boxed-primitive";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "hmac-drbg";
     ldir  = "info/unscoped/h/hmac-drbg";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

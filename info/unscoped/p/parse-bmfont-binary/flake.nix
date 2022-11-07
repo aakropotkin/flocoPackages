@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-bmfont-binary";
     ldir  = "info/unscoped/p/parse-bmfont-binary";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

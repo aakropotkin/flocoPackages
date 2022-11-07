@@ -16,7 +16,7 @@
     scope = null;
     ident = "keyboard-key";
     ldir  = "info/unscoped/k/keyboard-key";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

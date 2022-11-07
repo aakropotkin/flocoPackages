@@ -16,7 +16,7 @@
     scope = null;
     ident = "istextorbinary";
     ldir  = "info/unscoped/i/istextorbinary";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

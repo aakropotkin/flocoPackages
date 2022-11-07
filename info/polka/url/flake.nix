@@ -16,7 +16,7 @@
     scope = "@polka";
     ident = "@polka/url";
     ldir  = "info/polka/url";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

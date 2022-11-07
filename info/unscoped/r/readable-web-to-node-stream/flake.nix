@@ -16,7 +16,7 @@
     scope = null;
     ident = "readable-web-to-node-stream";
     ldir  = "info/unscoped/r/readable-web-to-node-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

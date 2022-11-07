@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-react-native-babel-transformer";
     ldir  = "info/unscoped/m/metro-react-native-babel-transformer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

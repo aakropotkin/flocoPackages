@@ -16,7 +16,7 @@
     scope = null;
     ident = "micromark-factory-whitespace";
     ldir  = "info/unscoped/m/micromark-factory-whitespace";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

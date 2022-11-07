@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-highlight";
     ldir  = "info/unscoped/c/cli-highlight";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

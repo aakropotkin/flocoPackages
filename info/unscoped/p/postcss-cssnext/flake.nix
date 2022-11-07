@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-cssnext";
     ldir  = "info/unscoped/p/postcss-cssnext";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

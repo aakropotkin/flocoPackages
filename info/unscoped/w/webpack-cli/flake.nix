@@ -16,7 +16,7 @@
     scope = null;
     ident = "webpack-cli";
     ldir  = "info/unscoped/w/webpack-cli";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

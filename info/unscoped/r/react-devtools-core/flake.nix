@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-devtools-core";
     ldir  = "info/unscoped/r/react-devtools-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

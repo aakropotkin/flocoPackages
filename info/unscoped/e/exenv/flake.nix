@@ -16,7 +16,7 @@
     scope = null;
     ident = "exenv";
     ldir  = "info/unscoped/e/exenv";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

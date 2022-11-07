@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-builtin-module";
     ldir  = "info/unscoped/i/is-builtin-module";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

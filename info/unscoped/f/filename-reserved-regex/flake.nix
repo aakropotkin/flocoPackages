@@ -16,7 +16,7 @@
     scope = null;
     ident = "filename-reserved-regex";
     ldir  = "info/unscoped/f/filename-reserved-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

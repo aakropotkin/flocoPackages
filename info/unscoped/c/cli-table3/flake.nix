@@ -16,7 +16,7 @@
     scope = null;
     ident = "cli-table3";
     ldir  = "info/unscoped/c/cli-table3";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

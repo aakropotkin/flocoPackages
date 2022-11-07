@@ -16,7 +16,7 @@
     scope = null;
     ident = "cssnano-preset-default";
     ldir  = "info/unscoped/c/cssnano-preset-default";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

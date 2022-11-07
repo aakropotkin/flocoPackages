@@ -16,7 +16,7 @@
     scope = null;
     ident = "yargs-parser";
     ldir  = "info/unscoped/y/yargs-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-import-assertions";
     ldir  = "info/babel/plugin-syntax-import-assertions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "culvert";
     ldir  = "info/unscoped/c/culvert";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

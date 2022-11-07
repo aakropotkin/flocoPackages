@@ -16,7 +16,7 @@
     scope = "@angular";
     ident = "@angular/material";
     ldir  = "info/angular/material";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

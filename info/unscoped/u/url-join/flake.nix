@@ -16,7 +16,7 @@
     scope = null;
     ident = "url-join";
     ldir  = "info/unscoped/u/url-join";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

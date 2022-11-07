@@ -16,7 +16,7 @@
     scope = null;
     ident = "run-async";
     ldir  = "info/unscoped/r/run-async";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

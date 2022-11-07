@@ -16,7 +16,7 @@
     scope = null;
     ident = "web3-eth-accounts";
     ldir  = "info/unscoped/w/web3-eth-accounts";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@typescript-eslint";
     ident = "@typescript-eslint/eslint-plugin";
     ldir  = "info/typescript-eslint/eslint-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

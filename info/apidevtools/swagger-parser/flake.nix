@@ -16,7 +16,7 @@
     scope = "@apidevtools";
     ident = "@apidevtools/swagger-parser";
     ldir  = "info/apidevtools/swagger-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

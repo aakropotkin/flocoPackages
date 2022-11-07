@@ -16,7 +16,7 @@
     scope = null;
     ident = "grouped-queue";
     ldir  = "info/unscoped/g/grouped-queue";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

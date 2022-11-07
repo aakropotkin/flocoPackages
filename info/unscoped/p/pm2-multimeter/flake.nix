@@ -16,7 +16,7 @@
     scope = null;
     ident = "pm2-multimeter";
     ldir  = "info/unscoped/p/pm2-multimeter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/istanbul-reports";
     ldir  = "info/types/istanbul-reports";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

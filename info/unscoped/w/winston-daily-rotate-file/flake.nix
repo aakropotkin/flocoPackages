@@ -16,7 +16,7 @@
     scope = null;
     ident = "winston-daily-rotate-file";
     ldir  = "info/unscoped/w/winston-daily-rotate-file";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

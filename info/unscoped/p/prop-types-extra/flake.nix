@@ -16,7 +16,7 @@
     scope = null;
     ident = "prop-types-extra";
     ldir  = "info/unscoped/p/prop-types-extra";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

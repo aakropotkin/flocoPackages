@@ -16,7 +16,7 @@
     scope = null;
     ident = "style-to-object";
     ldir  = "info/unscoped/s/style-to-object";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "array-sort";
     ldir  = "info/unscoped/a/array-sort";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

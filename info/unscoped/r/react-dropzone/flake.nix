@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-dropzone";
     ldir  = "info/unscoped/r/react-dropzone";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

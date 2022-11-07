@@ -16,7 +16,7 @@
     scope = null;
     ident = "electron";
     ldir  = "info/unscoped/e/electron";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "pac-resolver";
     ldir  = "info/unscoped/p/pac-resolver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

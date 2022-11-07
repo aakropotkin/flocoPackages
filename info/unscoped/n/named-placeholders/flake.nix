@@ -16,7 +16,7 @@
     scope = null;
     ident = "named-placeholders";
     ldir  = "info/unscoped/n/named-placeholders";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

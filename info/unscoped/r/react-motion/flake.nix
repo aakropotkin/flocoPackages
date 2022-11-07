@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-motion";
     ldir  = "info/unscoped/r/react-motion";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

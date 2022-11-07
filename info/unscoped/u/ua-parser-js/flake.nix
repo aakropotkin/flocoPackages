@@ -16,7 +16,7 @@
     scope = null;
     ident = "ua-parser-js";
     ldir  = "info/unscoped/u/ua-parser-js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

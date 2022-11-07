@@ -16,7 +16,7 @@
     scope = null;
     ident = "flow-parser";
     ldir  = "info/unscoped/f/flow-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

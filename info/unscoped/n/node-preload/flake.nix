@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-preload";
     ldir  = "info/unscoped/n/node-preload";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

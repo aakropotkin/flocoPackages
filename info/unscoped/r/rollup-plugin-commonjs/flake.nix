@@ -16,7 +16,7 @@
     scope = null;
     ident = "rollup-plugin-commonjs";
     ldir  = "info/unscoped/r/rollup-plugin-commonjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

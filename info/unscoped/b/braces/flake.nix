@@ -16,7 +16,7 @@
     scope = null;
     ident = "braces";
     ldir  = "info/unscoped/b/braces";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

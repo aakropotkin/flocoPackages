@@ -16,7 +16,7 @@
     scope = null;
     ident = "sanitize-filename";
     ldir  = "info/unscoped/s/sanitize-filename";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

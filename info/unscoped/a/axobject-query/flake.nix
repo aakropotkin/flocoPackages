@@ -16,7 +16,7 @@
     scope = null;
     ident = "axobject-query";
     ldir  = "info/unscoped/a/axobject-query";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

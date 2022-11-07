@@ -16,7 +16,7 @@
     scope = null;
     ident = "v8flags";
     ldir  = "info/unscoped/v/v8flags";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

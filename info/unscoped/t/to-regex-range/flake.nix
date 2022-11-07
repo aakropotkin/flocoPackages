@@ -16,7 +16,7 @@
     scope = null;
     ident = "to-regex-range";
     ldir  = "info/unscoped/t/to-regex-range";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

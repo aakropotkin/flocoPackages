@@ -16,7 +16,7 @@
     scope = null;
     ident = "sw-precache-webpack-plugin";
     ldir  = "info/unscoped/s/sw-precache-webpack-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-dropdown";
     ldir  = "info/unscoped/r/rc-dropdown";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

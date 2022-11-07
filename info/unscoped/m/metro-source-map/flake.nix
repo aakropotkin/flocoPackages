@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-source-map";
     ldir  = "info/unscoped/m/metro-source-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

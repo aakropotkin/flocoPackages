@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-worker";
     ldir  = "info/unscoped/j/jest-worker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

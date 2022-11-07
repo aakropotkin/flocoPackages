@@ -16,7 +16,7 @@
     scope = null;
     ident = "npm-user-validate";
     ldir  = "info/unscoped/n/npm-user-validate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

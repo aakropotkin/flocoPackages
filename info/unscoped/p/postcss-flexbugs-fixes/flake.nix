@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-flexbugs-fixes";
     ldir  = "info/unscoped/p/postcss-flexbugs-fixes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

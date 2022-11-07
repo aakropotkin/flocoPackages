@@ -16,7 +16,7 @@
     scope = null;
     ident = "json-schema-ref-parser";
     ldir  = "info/unscoped/j/json-schema-ref-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

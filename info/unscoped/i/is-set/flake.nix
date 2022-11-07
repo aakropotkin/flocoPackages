@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-set";
     ldir  = "info/unscoped/i/is-set";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@fluentui";
     ident = "@fluentui/react-component-ref";
     ldir  = "info/fluentui/react-component-ref";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

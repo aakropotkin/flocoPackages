@@ -16,7 +16,7 @@
     scope = null;
     ident = "unicode-match-property-ecmascript";
     ldir  = "info/unscoped/u/unicode-match-property-ecmascript";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

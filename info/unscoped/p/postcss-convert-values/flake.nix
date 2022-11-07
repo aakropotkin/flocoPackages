@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-convert-values";
     ldir  = "info/unscoped/p/postcss-convert-values";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

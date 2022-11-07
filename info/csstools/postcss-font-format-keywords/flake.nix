@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-font-format-keywords";
     ldir  = "info/csstools/postcss-font-format-keywords";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

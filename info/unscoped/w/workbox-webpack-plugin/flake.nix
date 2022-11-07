@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-webpack-plugin";
     ldir  = "info/unscoped/w/workbox-webpack-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

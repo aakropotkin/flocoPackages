@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-inspector-proxy";
     ldir  = "info/unscoped/m/metro-inspector-proxy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

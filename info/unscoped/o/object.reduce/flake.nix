@@ -16,7 +16,7 @@
     scope = null;
     ident = "object.reduce";
     ldir  = "info/unscoped/o/object.reduce";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

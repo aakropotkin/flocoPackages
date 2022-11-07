@@ -16,7 +16,7 @@
     scope = "@redux-saga";
     ident = "@redux-saga/symbols";
     ldir  = "info/redux-saga/symbols";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

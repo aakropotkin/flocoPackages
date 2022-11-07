@@ -16,7 +16,7 @@
     scope = null;
     ident = "memoizee";
     ldir  = "info/unscoped/m/memoizee";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

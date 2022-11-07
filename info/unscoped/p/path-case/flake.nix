@@ -16,7 +16,7 @@
     scope = null;
     ident = "path-case";
     ldir  = "info/unscoped/p/path-case";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

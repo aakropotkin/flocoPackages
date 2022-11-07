@@ -16,7 +16,7 @@
     scope = "@jimp";
     ident = "@jimp/plugin-dither";
     ldir  = "info/jimp/plugin-dither";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

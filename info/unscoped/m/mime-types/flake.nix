@@ -16,7 +16,7 @@
     scope = null;
     ident = "mime-types";
     ldir  = "info/unscoped/m/mime-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

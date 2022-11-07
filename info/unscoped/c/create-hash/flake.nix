@@ -16,7 +16,7 @@
     scope = null;
     ident = "create-hash";
     ldir  = "info/unscoped/c/create-hash";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

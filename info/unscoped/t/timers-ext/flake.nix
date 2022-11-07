@@ -16,7 +16,7 @@
     scope = null;
     ident = "timers-ext";
     ldir  = "info/unscoped/t/timers-ext";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-opacity-percentage";
     ldir  = "info/unscoped/p/postcss-opacity-percentage";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

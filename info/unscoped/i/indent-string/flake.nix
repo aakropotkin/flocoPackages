@@ -16,7 +16,7 @@
     scope = null;
     ident = "indent-string";
     ldir  = "info/unscoped/i/indent-string";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

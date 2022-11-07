@@ -16,7 +16,7 @@
     scope = null;
     ident = "unbox-primitive";
     ldir  = "info/unscoped/u/unbox-primitive";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

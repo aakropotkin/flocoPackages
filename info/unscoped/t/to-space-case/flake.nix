@@ -16,7 +16,7 @@
     scope = null;
     ident = "to-space-case";
     ldir  = "info/unscoped/t/to-space-case";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

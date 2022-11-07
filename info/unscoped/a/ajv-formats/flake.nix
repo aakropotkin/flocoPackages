@@ -16,7 +16,7 @@
     scope = null;
     ident = "ajv-formats";
     ldir  = "info/unscoped/a/ajv-formats";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

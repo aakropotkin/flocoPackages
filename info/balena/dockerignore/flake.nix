@@ -16,7 +16,7 @@
     scope = "@balena";
     ident = "@balena/dockerignore";
     ldir  = "info/balena/dockerignore";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

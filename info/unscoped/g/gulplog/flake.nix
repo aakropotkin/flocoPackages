@@ -16,7 +16,7 @@
     scope = null;
     ident = "gulplog";
     ldir  = "info/unscoped/g/gulplog";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

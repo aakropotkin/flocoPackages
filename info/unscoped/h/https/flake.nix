@@ -16,7 +16,7 @@
     scope = null;
     ident = "https";
     ldir  = "info/unscoped/h/https";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

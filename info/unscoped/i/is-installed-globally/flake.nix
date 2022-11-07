@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-installed-globally";
     ldir  = "info/unscoped/i/is-installed-globally";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

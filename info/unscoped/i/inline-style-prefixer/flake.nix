@@ -16,7 +16,7 @@
     scope = null;
     ident = "inline-style-prefixer";
     ldir  = "info/unscoped/i/inline-style-prefixer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

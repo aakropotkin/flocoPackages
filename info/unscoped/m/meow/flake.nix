@@ -16,7 +16,7 @@
     scope = null;
     ident = "meow";
     ldir  = "info/unscoped/m/meow";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "dom-align";
     ldir  = "info/unscoped/d/dom-align";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

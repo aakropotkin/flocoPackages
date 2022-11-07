@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-helper-remap-async-to-generator";
     ldir  = "info/unscoped/b/babel-helper-remap-async-to-generator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

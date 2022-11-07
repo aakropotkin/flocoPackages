@@ -16,7 +16,7 @@
     scope = null;
     ident = "chance";
     ldir  = "info/unscoped/c/chance";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

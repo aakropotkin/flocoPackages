@@ -16,7 +16,7 @@
     scope = null;
     ident = "js-cookie";
     ldir  = "info/unscoped/j/js-cookie";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

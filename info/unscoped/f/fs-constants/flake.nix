@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs-constants";
     ldir  = "info/unscoped/f/fs-constants";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

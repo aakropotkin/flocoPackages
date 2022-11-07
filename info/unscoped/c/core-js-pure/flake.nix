@@ -16,7 +16,7 @@
     scope = null;
     ident = "core-js-pure";
     ldir  = "info/unscoped/c/core-js-pure";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

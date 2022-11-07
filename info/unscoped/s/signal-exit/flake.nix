@@ -16,7 +16,7 @@
     scope = null;
     ident = "signal-exit";
     ldir  = "info/unscoped/s/signal-exit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

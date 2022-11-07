@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-date-object";
     ldir  = "info/unscoped/i/is-date-object";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

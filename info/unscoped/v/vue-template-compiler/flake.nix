@@ -16,7 +16,7 @@
     scope = null;
     ident = "vue-template-compiler";
     ldir  = "info/unscoped/v/vue-template-compiler";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

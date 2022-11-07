@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/messaging-interop-types";
     ldir  = "info/firebase/messaging-interop-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

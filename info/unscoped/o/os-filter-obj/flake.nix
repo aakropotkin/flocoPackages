@@ -16,7 +16,7 @@
     scope = null;
     ident = "os-filter-obj";
     ldir  = "info/unscoped/o/os-filter-obj";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

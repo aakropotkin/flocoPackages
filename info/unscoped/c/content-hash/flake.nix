@@ -16,7 +16,7 @@
     scope = null;
     ident = "content-hash";
     ldir  = "info/unscoped/c/content-hash";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

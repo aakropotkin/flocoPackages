@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-numeric-separator";
     ldir  = "info/babel/plugin-syntax-numeric-separator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

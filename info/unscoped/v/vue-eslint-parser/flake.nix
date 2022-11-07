@@ -16,7 +16,7 @@
     scope = null;
     ident = "vue-eslint-parser";
     ldir  = "info/unscoped/v/vue-eslint-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

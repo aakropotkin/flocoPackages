@@ -16,7 +16,7 @@
     scope = null;
     ident = "array-series";
     ldir  = "info/unscoped/a/array-series";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

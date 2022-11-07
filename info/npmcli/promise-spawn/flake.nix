@@ -16,7 +16,7 @@
     scope = "@npmcli";
     ident = "@npmcli/promise-spawn";
     ldir  = "info/npmcli/promise-spawn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

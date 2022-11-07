@@ -16,7 +16,7 @@
     scope = "@lumino";
     ident = "@lumino/virtualdom";
     ldir  = "info/lumino/virtualdom";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

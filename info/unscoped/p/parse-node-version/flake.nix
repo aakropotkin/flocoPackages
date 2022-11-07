@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-node-version";
     ldir  = "info/unscoped/p/parse-node-version";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

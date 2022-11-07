@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-event-listener";
     ldir  = "info/unscoped/r/react-event-listener";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

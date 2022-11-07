@@ -16,7 +16,7 @@
     scope = null;
     ident = "serve-static";
     ldir  = "info/unscoped/s/serve-static";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

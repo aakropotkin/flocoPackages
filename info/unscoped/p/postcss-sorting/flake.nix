@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-sorting";
     ldir  = "info/unscoped/p/postcss-sorting";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

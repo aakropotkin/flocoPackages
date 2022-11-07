@@ -16,7 +16,7 @@
     scope = null;
     ident = "fast-levenshtein";
     ldir  = "info/unscoped/f/fast-levenshtein";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

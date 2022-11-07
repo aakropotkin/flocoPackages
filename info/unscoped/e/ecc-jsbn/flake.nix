@@ -16,7 +16,7 @@
     scope = null;
     ident = "ecc-jsbn";
     ldir  = "info/unscoped/e/ecc-jsbn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

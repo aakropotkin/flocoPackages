@@ -16,7 +16,7 @@
     scope = null;
     ident = "sw-precache";
     ldir  = "info/unscoped/s/sw-precache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

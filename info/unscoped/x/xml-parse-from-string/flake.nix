@@ -16,7 +16,7 @@
     scope = null;
     ident = "xml-parse-from-string";
     ldir  = "info/unscoped/x/xml-parse-from-string";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

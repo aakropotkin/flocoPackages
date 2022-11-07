@@ -16,7 +16,7 @@
     scope = null;
     ident = "side-channel";
     ldir  = "info/unscoped/s/side-channel";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@graphql-tools";
     ident = "@graphql-tools/merge";
     ldir  = "info/graphql-tools/merge";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

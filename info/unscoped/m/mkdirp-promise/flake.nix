@@ -16,7 +16,7 @@
     scope = null;
     ident = "mkdirp-promise";
     ldir  = "info/unscoped/m/mkdirp-promise";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

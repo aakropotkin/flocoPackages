@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/use-sync-external-store";
     ldir  = "info/types/use-sync-external-store";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

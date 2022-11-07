@@ -16,7 +16,7 @@
     scope = null;
     ident = "compress-commons";
     ldir  = "info/unscoped/c/compress-commons";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

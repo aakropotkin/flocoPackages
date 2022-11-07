@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-notification";
     ldir  = "info/unscoped/r/rc-notification";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

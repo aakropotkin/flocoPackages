@@ -16,7 +16,7 @@
     scope = "@firebase";
     ident = "@firebase/remote-config-compat";
     ldir  = "info/firebase/remote-config-compat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

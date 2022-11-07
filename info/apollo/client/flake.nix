@@ -16,7 +16,7 @@
     scope = "@apollo";
     ident = "@apollo/client";
     ldir  = "info/apollo/client";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

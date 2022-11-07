@@ -16,7 +16,7 @@
     scope = null;
     ident = "check-error";
     ldir  = "info/unscoped/c/check-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

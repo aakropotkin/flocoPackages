@@ -16,7 +16,7 @@
     scope = null;
     ident = "truncate-utf8-bytes";
     ldir  = "info/unscoped/t/truncate-utf8-bytes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

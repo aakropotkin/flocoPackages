@@ -16,7 +16,7 @@
     scope = null;
     ident = "boom";
     ldir  = "info/unscoped/b/boom";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

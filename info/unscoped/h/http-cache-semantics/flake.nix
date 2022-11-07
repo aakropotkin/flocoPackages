@@ -16,7 +16,7 @@
     scope = null;
     ident = "http-cache-semantics";
     ldir  = "info/unscoped/h/http-cache-semantics";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

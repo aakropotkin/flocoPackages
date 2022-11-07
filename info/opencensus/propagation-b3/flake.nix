@@ -16,7 +16,7 @@
     scope = "@opencensus";
     ident = "@opencensus/propagation-b3";
     ldir  = "info/opencensus/propagation-b3";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

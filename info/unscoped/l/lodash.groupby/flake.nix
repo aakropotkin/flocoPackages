@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.groupby";
     ldir  = "info/unscoped/l/lodash.groupby";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

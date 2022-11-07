@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-yarn-global";
     ldir  = "info/unscoped/i/is-yarn-global";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

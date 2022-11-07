@@ -16,7 +16,7 @@
     scope = null;
     ident = "process-nextick-args";
     ldir  = "info/unscoped/p/process-nextick-args";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "source-map-resolve";
     ldir  = "info/unscoped/s/source-map-resolve";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

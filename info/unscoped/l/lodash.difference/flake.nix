@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.difference";
     ldir  = "info/unscoped/l/lodash.difference";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

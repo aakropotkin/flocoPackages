@@ -16,7 +16,7 @@
     scope = "@popperjs";
     ident = "@popperjs/core";
     ldir  = "info/popperjs/core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

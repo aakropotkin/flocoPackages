@@ -16,7 +16,7 @@
     scope = null;
     ident = "dash-ast";
     ldir  = "info/unscoped/d/dash-ast";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

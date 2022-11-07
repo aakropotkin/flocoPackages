@@ -16,7 +16,7 @@
     scope = null;
     ident = "semver-truncate";
     ldir  = "info/unscoped/s/semver-truncate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

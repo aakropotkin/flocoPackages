@@ -16,7 +16,7 @@
     scope = null;
     ident = "elliptic";
     ldir  = "info/unscoped/e/elliptic";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

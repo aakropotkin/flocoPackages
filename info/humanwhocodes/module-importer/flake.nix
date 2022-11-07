@@ -16,7 +16,7 @@
     scope = "@humanwhocodes";
     ident = "@humanwhocodes/module-importer";
     ldir  = "info/humanwhocodes/module-importer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

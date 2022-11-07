@@ -16,7 +16,7 @@
     scope = null;
     ident = "unique-random-array";
     ldir  = "info/unscoped/u/unique-random-array";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "livereload-js";
     ldir  = "info/unscoped/l/livereload-js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

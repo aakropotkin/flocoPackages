@@ -16,7 +16,7 @@
     scope = null;
     ident = "istanbul-lib-processinfo";
     ldir  = "info/unscoped/i/istanbul-lib-processinfo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

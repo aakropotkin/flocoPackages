@@ -16,7 +16,7 @@
     scope = null;
     ident = "getpass";
     ldir  = "info/unscoped/g/getpass";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

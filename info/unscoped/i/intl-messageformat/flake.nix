@@ -16,7 +16,7 @@
     scope = null;
     ident = "intl-messageformat";
     ldir  = "info/unscoped/i/intl-messageformat";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

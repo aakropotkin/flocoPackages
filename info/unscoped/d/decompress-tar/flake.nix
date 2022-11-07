@@ -16,7 +16,7 @@
     scope = null;
     ident = "decompress-tar";
     ldir  = "info/unscoped/d/decompress-tar";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

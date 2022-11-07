@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-helper-get-function-arity";
     ldir  = "info/unscoped/b/babel-helper-get-function-arity";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "section-matter";
     ldir  = "info/unscoped/s/section-matter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

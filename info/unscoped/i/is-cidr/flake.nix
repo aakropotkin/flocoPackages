@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-cidr";
     ldir  = "info/unscoped/i/is-cidr";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

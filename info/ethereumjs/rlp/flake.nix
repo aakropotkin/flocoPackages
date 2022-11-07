@@ -16,7 +16,7 @@
     scope = "@ethereumjs";
     ident = "@ethereumjs/rlp";
     ldir  = "info/ethereumjs/rlp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

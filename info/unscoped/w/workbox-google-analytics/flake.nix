@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-google-analytics";
     ldir  = "info/unscoped/w/workbox-google-analytics";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

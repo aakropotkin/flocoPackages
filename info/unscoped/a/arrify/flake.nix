@@ -16,7 +16,7 @@
     scope = null;
     ident = "arrify";
     ldir  = "info/unscoped/a/arrify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

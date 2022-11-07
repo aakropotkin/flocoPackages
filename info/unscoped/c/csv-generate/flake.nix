@@ -16,7 +16,7 @@
     scope = null;
     ident = "csv-generate";
     ldir  = "info/unscoped/c/csv-generate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

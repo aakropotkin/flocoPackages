@@ -16,7 +16,7 @@
     scope = null;
     ident = "nocache";
     ldir  = "info/unscoped/n/nocache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

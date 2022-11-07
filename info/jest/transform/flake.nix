@@ -16,7 +16,7 @@
     scope = "@jest";
     ident = "@jest/transform";
     ldir  = "info/jest/transform";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

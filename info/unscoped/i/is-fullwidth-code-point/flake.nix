@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-fullwidth-code-point";
     ldir  = "info/unscoped/i/is-fullwidth-code-point";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

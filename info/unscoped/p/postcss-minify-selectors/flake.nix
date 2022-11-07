@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-minify-selectors";
     ldir  = "info/unscoped/p/postcss-minify-selectors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

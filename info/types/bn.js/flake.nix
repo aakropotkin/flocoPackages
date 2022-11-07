@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/bn.js";
     ldir  = "info/types/bn.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

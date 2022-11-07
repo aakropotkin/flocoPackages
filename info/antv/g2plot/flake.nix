@@ -16,7 +16,7 @@
     scope = "@antv";
     ident = "@antv/g2plot";
     ldir  = "info/antv/g2plot";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

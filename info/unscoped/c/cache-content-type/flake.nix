@@ -16,7 +16,7 @@
     scope = null;
     ident = "cache-content-type";
     ldir  = "info/unscoped/c/cache-content-type";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

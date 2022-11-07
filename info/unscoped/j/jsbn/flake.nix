@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsbn";
     ldir  = "info/unscoped/j/jsbn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

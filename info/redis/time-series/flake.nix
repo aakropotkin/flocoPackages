@@ -16,7 +16,7 @@
     scope = "@redis";
     ident = "@redis/time-series";
     ldir  = "info/redis/time-series";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

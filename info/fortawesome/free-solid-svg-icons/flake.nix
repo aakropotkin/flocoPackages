@@ -16,7 +16,7 @@
     scope = "@fortawesome";
     ident = "@fortawesome/free-solid-svg-icons";
     ldir  = "info/fortawesome/free-solid-svg-icons";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

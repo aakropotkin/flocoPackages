@@ -16,7 +16,7 @@
     scope = null;
     ident = "es6-iterator";
     ldir  = "info/unscoped/e/es6-iterator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

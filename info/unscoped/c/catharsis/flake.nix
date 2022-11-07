@@ -16,7 +16,7 @@
     scope = null;
     ident = "catharsis";
     ldir  = "info/unscoped/c/catharsis";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

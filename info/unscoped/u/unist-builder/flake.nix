@@ -16,7 +16,7 @@
     scope = null;
     ident = "unist-builder";
     ldir  = "info/unscoped/u/unist-builder";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "multicast-dns";
     ldir  = "info/unscoped/m/multicast-dns";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

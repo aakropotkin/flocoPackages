@@ -16,7 +16,7 @@
     scope = null;
     ident = "redux-actions";
     ldir  = "info/unscoped/r/redux-actions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

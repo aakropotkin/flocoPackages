@@ -16,7 +16,7 @@
     scope = null;
     ident = "mysql2";
     ldir  = "info/unscoped/m/mysql2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

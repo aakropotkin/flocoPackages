@@ -16,7 +16,7 @@
     scope = "@colors";
     ident = "@colors/colors";
     ldir  = "info/colors/colors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

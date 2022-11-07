@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-color-rgb";
     ldir  = "info/unscoped/p/postcss-color-rgb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

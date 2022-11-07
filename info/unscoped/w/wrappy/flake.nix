@@ -16,7 +16,7 @@
     scope = null;
     ident = "wrappy";
     ldir  = "info/unscoped/w/wrappy";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

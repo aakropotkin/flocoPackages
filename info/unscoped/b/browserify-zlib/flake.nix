@@ -16,7 +16,7 @@
     scope = null;
     ident = "browserify-zlib";
     ldir  = "info/unscoped/b/browserify-zlib";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

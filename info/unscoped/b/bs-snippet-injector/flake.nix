@@ -16,7 +16,7 @@
     scope = null;
     ident = "bs-snippet-injector";
     ldir  = "info/unscoped/b/bs-snippet-injector";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

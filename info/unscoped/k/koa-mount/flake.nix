@@ -16,7 +16,7 @@
     scope = null;
     ident = "koa-mount";
     ldir  = "info/unscoped/k/koa-mount";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

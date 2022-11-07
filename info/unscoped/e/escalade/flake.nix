@@ -16,7 +16,7 @@
     scope = null;
     ident = "escalade";
     ldir  = "info/unscoped/e/escalade";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

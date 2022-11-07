@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-config-react-app";
     ldir  = "info/unscoped/e/eslint-config-react-app";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

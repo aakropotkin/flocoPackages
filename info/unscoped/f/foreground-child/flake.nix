@@ -16,7 +16,7 @@
     scope = null;
     ident = "foreground-child";
     ldir  = "info/unscoped/f/foreground-child";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

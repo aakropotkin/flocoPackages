@@ -16,7 +16,7 @@
     scope = null;
     ident = "websocket-extensions";
     ldir  = "info/unscoped/w/websocket-extensions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

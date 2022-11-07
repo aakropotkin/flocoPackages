@@ -16,7 +16,7 @@
     scope = null;
     ident = "archiver-utils";
     ldir  = "info/unscoped/a/archiver-utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/cookie";
     ldir  = "info/types/cookie";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

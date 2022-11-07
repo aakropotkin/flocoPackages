@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-syntax-flow";
     ldir  = "info/babel/plugin-syntax-flow";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

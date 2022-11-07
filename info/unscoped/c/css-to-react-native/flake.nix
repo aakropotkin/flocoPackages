@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-to-react-native";
     ldir  = "info/unscoped/c/css-to-react-native";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

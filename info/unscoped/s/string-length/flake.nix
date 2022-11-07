@@ -16,7 +16,7 @@
     scope = null;
     ident = "string-length";
     ldir  = "info/unscoped/s/string-length";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

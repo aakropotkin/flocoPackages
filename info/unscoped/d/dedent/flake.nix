@@ -16,7 +16,7 @@
     scope = null;
     ident = "dedent";
     ldir  = "info/unscoped/d/dedent";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "enquire.js";
     ldir  = "info/unscoped/e/enquire.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

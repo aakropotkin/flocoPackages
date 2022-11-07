@@ -16,7 +16,7 @@
     scope = null;
     ident = "klona";
     ldir  = "info/unscoped/k/klona";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

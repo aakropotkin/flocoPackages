@@ -16,7 +16,7 @@
     scope = null;
     ident = "browser-pack";
     ldir  = "info/unscoped/b/browser-pack";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

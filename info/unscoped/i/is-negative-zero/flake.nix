@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-negative-zero";
     ldir  = "info/unscoped/i/is-negative-zero";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

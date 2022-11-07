@@ -16,7 +16,7 @@
     scope = null;
     ident = "stream-combiner2";
     ldir  = "info/unscoped/s/stream-combiner2";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

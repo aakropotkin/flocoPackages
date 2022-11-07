@@ -16,7 +16,7 @@
     scope = null;
     ident = "optipng-bin";
     ldir  = "info/unscoped/o/optipng-bin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "puppeteer-core";
     ldir  = "info/unscoped/p/puppeteer-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

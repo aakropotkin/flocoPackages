@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-named-asset-import";
     ldir  = "info/unscoped/b/babel-plugin-named-asset-import";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

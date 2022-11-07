@@ -16,7 +16,7 @@
     scope = null;
     ident = "strnum";
     ldir  = "info/unscoped/s/strnum";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

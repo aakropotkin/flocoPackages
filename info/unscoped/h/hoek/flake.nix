@@ -16,7 +16,7 @@
     scope = null;
     ident = "hoek";
     ldir  = "info/unscoped/h/hoek";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

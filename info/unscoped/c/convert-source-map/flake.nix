@@ -16,7 +16,7 @@
     scope = null;
     ident = "convert-source-map";
     ldir  = "info/unscoped/c/convert-source-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

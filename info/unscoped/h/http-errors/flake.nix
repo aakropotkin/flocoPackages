@@ -16,7 +16,7 @@
     scope = null;
     ident = "http-errors";
     ldir  = "info/unscoped/h/http-errors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

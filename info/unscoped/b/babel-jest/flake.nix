@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-jest";
     ldir  = "info/unscoped/b/babel-jest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

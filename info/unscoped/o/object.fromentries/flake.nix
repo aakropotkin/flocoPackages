@@ -16,7 +16,7 @@
     scope = null;
     ident = "object.fromentries";
     ldir  = "info/unscoped/o/object.fromentries";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

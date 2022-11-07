@@ -16,7 +16,7 @@
     scope = "@redis";
     ident = "@redis/json";
     ldir  = "info/redis/json";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

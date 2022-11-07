@@ -16,7 +16,7 @@
     scope = null;
     ident = "pac-proxy-agent";
     ldir  = "info/unscoped/p/pac-proxy-agent";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

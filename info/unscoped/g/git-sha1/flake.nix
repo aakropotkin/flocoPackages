@@ -16,7 +16,7 @@
     scope = null;
     ident = "git-sha1";
     ldir  = "info/unscoped/g/git-sha1";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

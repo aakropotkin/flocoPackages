@@ -16,7 +16,7 @@
     scope = null;
     ident = "valid-url";
     ldir  = "info/unscoped/v/valid-url";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

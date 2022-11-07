@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-webpack-plugin";
     ldir  = "info/unscoped/e/eslint-webpack-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

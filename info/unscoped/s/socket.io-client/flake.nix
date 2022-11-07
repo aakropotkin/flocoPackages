@@ -16,7 +16,7 @@
     scope = null;
     ident = "socket.io-client";
     ldir  = "info/unscoped/s/socket.io-client";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

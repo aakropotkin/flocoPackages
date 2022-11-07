@@ -16,7 +16,7 @@
     scope = null;
     ident = "request-debug";
     ldir  = "info/unscoped/r/request-debug";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/services";
     ldir  = "info/jupyterlab/services";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

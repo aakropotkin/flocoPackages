@@ -16,7 +16,7 @@
     scope = null;
     ident = "seq-queue";
     ldir  = "info/unscoped/s/seq-queue";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

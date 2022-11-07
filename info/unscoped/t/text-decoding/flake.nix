@@ -16,7 +16,7 @@
     scope = null;
     ident = "text-decoding";
     ldir  = "info/unscoped/t/text-decoding";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "es6-promisify";
     ldir  = "info/unscoped/e/es6-promisify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

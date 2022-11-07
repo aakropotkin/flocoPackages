@@ -16,7 +16,7 @@
     scope = null;
     ident = "redeyed";
     ldir  = "info/unscoped/r/redeyed";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

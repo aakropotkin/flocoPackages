@@ -16,7 +16,7 @@
     scope = null;
     ident = "array.prototype.flatmap";
     ldir  = "info/unscoped/a/array.prototype.flatmap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

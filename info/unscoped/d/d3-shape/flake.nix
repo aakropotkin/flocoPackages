@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-shape";
     ldir  = "info/unscoped/d/d3-shape";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

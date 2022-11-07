@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/preset-typescript";
     ldir  = "info/babel/preset-typescript";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

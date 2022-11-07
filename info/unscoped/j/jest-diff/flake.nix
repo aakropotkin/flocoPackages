@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-diff";
     ldir  = "info/unscoped/j/jest-diff";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

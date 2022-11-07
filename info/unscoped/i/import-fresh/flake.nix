@@ -16,7 +16,7 @@
     scope = null;
     ident = "import-fresh";
     ldir  = "info/unscoped/i/import-fresh";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

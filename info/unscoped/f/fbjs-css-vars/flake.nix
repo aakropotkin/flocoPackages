@@ -16,7 +16,7 @@
     scope = null;
     ident = "fbjs-css-vars";
     ldir  = "info/unscoped/f/fbjs-css-vars";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

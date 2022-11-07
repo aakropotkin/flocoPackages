@@ -16,7 +16,7 @@
     scope = null;
     ident = "proxy-from-env";
     ldir  = "info/unscoped/p/proxy-from-env";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "pug-attrs";
     ldir  = "info/unscoped/p/pug-attrs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

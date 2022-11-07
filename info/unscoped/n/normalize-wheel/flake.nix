@@ -16,7 +16,7 @@
     scope = null;
     ident = "normalize-wheel";
     ldir  = "info/unscoped/n/normalize-wheel";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

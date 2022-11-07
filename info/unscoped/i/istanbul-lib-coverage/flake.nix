@@ -16,7 +16,7 @@
     scope = null;
     ident = "istanbul-lib-coverage";
     ldir  = "info/unscoped/i/istanbul-lib-coverage";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

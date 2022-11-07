@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-tooltip";
     ldir  = "info/unscoped/r/rc-tooltip";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

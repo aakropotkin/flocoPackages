@@ -16,7 +16,7 @@
     scope = "@socket.io";
     ident = "@socket.io/component-emitter";
     ldir  = "info/socket.io/component-emitter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

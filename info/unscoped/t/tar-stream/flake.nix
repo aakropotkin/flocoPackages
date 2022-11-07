@@ -16,7 +16,7 @@
     scope = null;
     ident = "tar-stream";
     ldir  = "info/unscoped/t/tar-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

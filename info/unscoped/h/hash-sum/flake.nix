@@ -16,7 +16,7 @@
     scope = null;
     ident = "hash-sum";
     ldir  = "info/unscoped/h/hash-sum";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@react-dnd";
     ident = "@react-dnd/asap";
     ldir  = "info/react-dnd/asap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

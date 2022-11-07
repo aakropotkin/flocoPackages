@@ -16,7 +16,7 @@
     scope = null;
     ident = "file-entry-cache";
     ldir  = "info/unscoped/f/file-entry-cache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

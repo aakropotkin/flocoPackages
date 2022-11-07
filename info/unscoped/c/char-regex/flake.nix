@@ -16,7 +16,7 @@
     scope = null;
     ident = "char-regex";
     ldir  = "info/unscoped/c/char-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

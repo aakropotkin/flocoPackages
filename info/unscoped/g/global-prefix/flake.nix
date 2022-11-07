@@ -16,7 +16,7 @@
     scope = null;
     ident = "global-prefix";
     ldir  = "info/unscoped/g/global-prefix";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

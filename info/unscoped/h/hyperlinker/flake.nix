@@ -16,7 +16,7 @@
     scope = null;
     ident = "hyperlinker";
     ldir  = "info/unscoped/h/hyperlinker";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

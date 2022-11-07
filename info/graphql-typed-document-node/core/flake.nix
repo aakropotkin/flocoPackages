@@ -16,7 +16,7 @@
     scope = "@graphql-typed-document-node";
     ident = "@graphql-typed-document-node/core";
     ldir  = "info/graphql-typed-document-node/core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

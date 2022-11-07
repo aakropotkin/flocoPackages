@@ -16,7 +16,7 @@
     scope = null;
     ident = "regexp.prototype.flags";
     ldir  = "info/unscoped/r/regexp.prototype.flags";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

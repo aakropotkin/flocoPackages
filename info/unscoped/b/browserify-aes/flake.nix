@@ -16,7 +16,7 @@
     scope = null;
     ident = "browserify-aes";
     ldir  = "info/unscoped/b/browserify-aes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

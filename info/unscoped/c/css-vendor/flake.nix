@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-vendor";
     ldir  = "info/unscoped/c/css-vendor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

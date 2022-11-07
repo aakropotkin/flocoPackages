@@ -16,7 +16,7 @@
     scope = null;
     ident = "rc-virtual-list";
     ldir  = "info/unscoped/r/rc-virtual-list";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

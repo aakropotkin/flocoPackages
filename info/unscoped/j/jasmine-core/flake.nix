@@ -16,7 +16,7 @@
     scope = null;
     ident = "jasmine-core";
     ldir  = "info/unscoped/j/jasmine-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

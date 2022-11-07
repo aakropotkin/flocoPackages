@@ -16,7 +16,7 @@
     scope = null;
     ident = "json2mq";
     ldir  = "info/unscoped/j/json2mq";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

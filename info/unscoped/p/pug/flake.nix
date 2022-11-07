@@ -16,7 +16,7 @@
     scope = null;
     ident = "pug";
     ldir  = "info/unscoped/p/pug";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

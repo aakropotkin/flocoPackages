@@ -16,7 +16,7 @@
     scope = null;
     ident = "util-deprecate";
     ldir  = "info/unscoped/u/util-deprecate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

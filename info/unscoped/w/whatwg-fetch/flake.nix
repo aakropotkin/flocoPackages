@@ -16,7 +16,7 @@
     scope = null;
     ident = "whatwg-fetch";
     ldir  = "info/unscoped/w/whatwg-fetch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

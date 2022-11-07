@@ -16,7 +16,7 @@
     scope = null;
     ident = "connect-flash";
     ldir  = "info/unscoped/c/connect-flash";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

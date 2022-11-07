@@ -16,7 +16,7 @@
     scope = null;
     ident = "robust-predicates";
     ldir  = "info/unscoped/r/robust-predicates";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

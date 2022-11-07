@@ -16,7 +16,7 @@
     scope = null;
     ident = "err-code";
     ldir  = "info/unscoped/e/err-code";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

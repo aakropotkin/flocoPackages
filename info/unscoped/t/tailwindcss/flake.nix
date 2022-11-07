@@ -16,7 +16,7 @@
     scope = null;
     ident = "tailwindcss";
     ldir  = "info/unscoped/t/tailwindcss";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

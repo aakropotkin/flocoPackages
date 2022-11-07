@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-cacheable-response";
     ldir  = "info/unscoped/w/workbox-cacheable-response";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

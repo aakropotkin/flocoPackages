@@ -16,7 +16,7 @@
     scope = null;
     ident = "get-intrinsic";
     ldir  = "info/unscoped/g/get-intrinsic";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-wrap-function";
     ldir  = "info/babel/helper-wrap-function";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

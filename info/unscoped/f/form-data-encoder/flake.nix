@@ -16,7 +16,7 @@
     scope = null;
     ident = "form-data-encoder";
     ldir  = "info/unscoped/f/form-data-encoder";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

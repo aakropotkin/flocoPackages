@@ -16,7 +16,7 @@
     scope = null;
     ident = "batch-processor";
     ldir  = "info/unscoped/b/batch-processor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

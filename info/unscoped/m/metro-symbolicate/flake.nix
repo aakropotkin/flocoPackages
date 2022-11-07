@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-symbolicate";
     ldir  = "info/unscoped/m/metro-symbolicate";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

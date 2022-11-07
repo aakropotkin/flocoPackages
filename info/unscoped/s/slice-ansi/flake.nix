@@ -16,7 +16,7 @@
     scope = null;
     ident = "slice-ansi";
     ldir  = "info/unscoped/s/slice-ansi";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

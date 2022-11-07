@@ -16,7 +16,7 @@
     scope = null;
     ident = "extend-shallow";
     ldir  = "info/unscoped/e/extend-shallow";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

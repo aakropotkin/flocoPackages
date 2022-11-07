@@ -16,7 +16,7 @@
     scope = null;
     ident = "css-blank-pseudo";
     ldir  = "info/unscoped/c/css-blank-pseudo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

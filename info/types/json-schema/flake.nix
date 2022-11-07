@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/json-schema";
     ldir  = "info/types/json-schema";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

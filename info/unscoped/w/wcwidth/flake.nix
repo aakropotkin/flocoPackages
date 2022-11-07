@@ -16,7 +16,7 @@
     scope = null;
     ident = "wcwidth";
     ldir  = "info/unscoped/w/wcwidth";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

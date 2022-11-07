@@ -16,7 +16,7 @@
     scope = null;
     ident = "word-wrap";
     ldir  = "info/unscoped/w/word-wrap";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

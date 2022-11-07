@@ -16,7 +16,7 @@
     scope = null;
     ident = "text-hex";
     ldir  = "info/unscoped/t/text-hex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

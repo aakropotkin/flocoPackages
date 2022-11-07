@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-hoist-variables";
     ldir  = "info/babel/helper-hoist-variables";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/formidable";
     ldir  = "info/types/formidable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

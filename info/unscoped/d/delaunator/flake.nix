@@ -16,7 +16,7 @@
     scope = null;
     ident = "delaunator";
     ldir  = "info/unscoped/d/delaunator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

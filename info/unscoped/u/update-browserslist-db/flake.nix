@@ -16,7 +16,7 @@
     scope = null;
     ident = "update-browserslist-db";
     ldir  = "info/unscoped/u/update-browserslist-db";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

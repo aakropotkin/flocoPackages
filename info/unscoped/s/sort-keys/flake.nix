@@ -16,7 +16,7 @@
     scope = null;
     ident = "sort-keys";
     ldir  = "info/unscoped/s/sort-keys";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

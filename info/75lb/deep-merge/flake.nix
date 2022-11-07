@@ -16,7 +16,7 @@
     scope = "@75lb";
     ident = "@75lb/deep-merge";
     ldir  = "info/75lb/deep-merge";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

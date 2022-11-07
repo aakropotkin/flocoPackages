@@ -16,7 +16,7 @@
     scope = null;
     ident = "emoji-regex";
     ldir  = "info/unscoped/e/emoji-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

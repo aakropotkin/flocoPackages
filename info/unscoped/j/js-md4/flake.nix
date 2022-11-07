@@ -16,7 +16,7 @@
     scope = null;
     ident = "js-md4";
     ldir  = "info/unscoped/j/js-md4";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

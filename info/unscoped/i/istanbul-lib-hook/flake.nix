@@ -16,7 +16,7 @@
     scope = null;
     ident = "istanbul-lib-hook";
     ldir  = "info/unscoped/i/istanbul-lib-hook";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

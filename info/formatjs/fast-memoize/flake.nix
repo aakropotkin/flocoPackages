@@ -16,7 +16,7 @@
     scope = "@formatjs";
     ident = "@formatjs/fast-memoize";
     ldir  = "info/formatjs/fast-memoize";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

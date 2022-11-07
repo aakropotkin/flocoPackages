@@ -16,7 +16,7 @@
     scope = "@azure";
     ident = "@azure/msal-browser";
     ldir  = "info/azure/msal-browser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

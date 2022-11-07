@@ -16,7 +16,7 @@
     scope = null;
     ident = "camel-case";
     ldir  = "info/unscoped/c/camel-case";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

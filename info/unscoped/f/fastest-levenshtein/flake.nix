@@ -16,7 +16,7 @@
     scope = null;
     ident = "fastest-levenshtein";
     ldir  = "info/unscoped/f/fastest-levenshtein";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

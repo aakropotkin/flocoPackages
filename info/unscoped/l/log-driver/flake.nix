@@ -16,7 +16,7 @@
     scope = null;
     ident = "log-driver";
     ldir  = "info/unscoped/l/log-driver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

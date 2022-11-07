@@ -16,7 +16,7 @@
     scope = null;
     ident = "get-own-enumerable-property-symbols";
     ldir  = "info/unscoped/g/get-own-enumerable-property-symbols";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

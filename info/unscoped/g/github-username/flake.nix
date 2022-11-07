@@ -16,7 +16,7 @@
     scope = null;
     ident = "github-username";
     ldir  = "info/unscoped/g/github-username";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "js-tokens";
     ldir  = "info/unscoped/j/js-tokens";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

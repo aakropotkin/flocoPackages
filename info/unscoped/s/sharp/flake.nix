@@ -16,7 +16,7 @@
     scope = null;
     ident = "sharp";
     ldir  = "info/unscoped/s/sharp";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

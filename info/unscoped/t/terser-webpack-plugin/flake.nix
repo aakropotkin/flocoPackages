@@ -16,7 +16,7 @@
     scope = null;
     ident = "terser-webpack-plugin";
     ldir  = "info/unscoped/t/terser-webpack-plugin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/compat-data";
     ldir  = "info/babel/compat-data";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

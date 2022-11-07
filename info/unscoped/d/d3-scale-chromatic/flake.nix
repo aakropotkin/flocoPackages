@@ -16,7 +16,7 @@
     scope = null;
     ident = "d3-scale-chromatic";
     ldir  = "info/unscoped/d/d3-scale-chromatic";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

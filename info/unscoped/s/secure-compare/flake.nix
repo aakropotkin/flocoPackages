@@ -16,7 +16,7 @@
     scope = null;
     ident = "secure-compare";
     ldir  = "info/unscoped/s/secure-compare";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

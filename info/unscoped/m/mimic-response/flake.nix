@@ -16,7 +16,7 @@
     scope = null;
     ident = "mimic-response";
     ldir  = "info/unscoped/m/mimic-response";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

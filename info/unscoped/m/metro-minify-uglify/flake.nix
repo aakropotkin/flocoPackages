@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro-minify-uglify";
     ldir  = "info/unscoped/m/metro-minify-uglify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

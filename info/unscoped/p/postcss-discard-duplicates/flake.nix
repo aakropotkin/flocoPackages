@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-discard-duplicates";
     ldir  = "info/unscoped/p/postcss-discard-duplicates";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

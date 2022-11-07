@@ -16,7 +16,7 @@
     scope = null;
     ident = "should-type-adaptors";
     ldir  = "info/unscoped/s/should-type-adaptors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "mz";
     ldir  = "info/unscoped/m/mz";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

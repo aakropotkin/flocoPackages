@@ -16,7 +16,7 @@
     scope = null;
     ident = "autoprefixer";
     ldir  = "info/unscoped/a/autoprefixer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

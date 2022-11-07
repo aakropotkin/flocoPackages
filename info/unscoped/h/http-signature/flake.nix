@@ -16,7 +16,7 @@
     scope = null;
     ident = "http-signature";
     ldir  = "info/unscoped/h/http-signature";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

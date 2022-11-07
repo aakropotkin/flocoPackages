@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-helper-explode-class";
     ldir  = "info/unscoped/b/babel-helper-explode-class";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "confusing-browser-globals";
     ldir  = "info/unscoped/c/confusing-browser-globals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

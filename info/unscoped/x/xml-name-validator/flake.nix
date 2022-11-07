@@ -16,7 +16,7 @@
     scope = null;
     ident = "xml-name-validator";
     ldir  = "info/unscoped/x/xml-name-validator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

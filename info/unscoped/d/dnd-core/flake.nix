@@ -16,7 +16,7 @@
     scope = null;
     ident = "dnd-core";
     ldir  = "info/unscoped/d/dnd-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

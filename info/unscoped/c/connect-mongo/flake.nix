@@ -16,7 +16,7 @@
     scope = null;
     ident = "connect-mongo";
     ldir  = "info/unscoped/c/connect-mongo";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

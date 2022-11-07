@@ -16,7 +16,7 @@
     scope = null;
     ident = "awesome-typescript-loader";
     ldir  = "info/unscoped/a/awesome-typescript-loader";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

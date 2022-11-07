@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-wsl";
     ldir  = "info/unscoped/i/is-wsl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

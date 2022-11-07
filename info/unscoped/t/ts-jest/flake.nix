@@ -16,7 +16,7 @@
     scope = null;
     ident = "ts-jest";
     ldir  = "info/unscoped/t/ts-jest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

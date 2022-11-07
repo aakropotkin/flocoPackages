@@ -16,7 +16,7 @@
     scope = "@restart";
     ident = "@restart/hooks";
     ldir  = "info/restart/hooks";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

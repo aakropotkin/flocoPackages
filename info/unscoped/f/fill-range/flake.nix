@@ -16,7 +16,7 @@
     scope = null;
     ident = "fill-range";
     ldir  = "info/unscoped/f/fill-range";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

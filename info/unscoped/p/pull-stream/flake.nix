@@ -16,7 +16,7 @@
     scope = null;
     ident = "pull-stream";
     ldir  = "info/unscoped/p/pull-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

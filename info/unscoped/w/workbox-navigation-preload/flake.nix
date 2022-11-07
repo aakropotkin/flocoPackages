@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-navigation-preload";
     ldir  = "info/unscoped/w/workbox-navigation-preload";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

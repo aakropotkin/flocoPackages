@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsdoc";
     ldir  = "info/unscoped/j/jsdoc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

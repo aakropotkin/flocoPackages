@@ -16,7 +16,7 @@
     scope = null;
     ident = "binaryextensions";
     ldir  = "info/unscoped/b/binaryextensions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

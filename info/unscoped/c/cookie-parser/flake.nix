@@ -16,7 +16,7 @@
     scope = null;
     ident = "cookie-parser";
     ldir  = "info/unscoped/c/cookie-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

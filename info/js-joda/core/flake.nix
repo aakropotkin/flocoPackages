@@ -16,7 +16,7 @@
     scope = "@js-joda";
     ident = "@js-joda/core";
     ldir  = "info/js-joda/core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

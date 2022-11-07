@@ -16,7 +16,7 @@
     scope = null;
     ident = "md5-file";
     ldir  = "info/unscoped/m/md5-file";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-plugin-eslint-comments";
     ldir  = "info/unscoped/e/eslint-plugin-eslint-comments";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

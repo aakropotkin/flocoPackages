@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-property-literals";
     ldir  = "info/babel/plugin-transform-property-literals";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

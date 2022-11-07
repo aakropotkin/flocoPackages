@@ -16,7 +16,7 @@
     scope = null;
     ident = "ansi-colors";
     ldir  = "info/unscoped/a/ansi-colors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

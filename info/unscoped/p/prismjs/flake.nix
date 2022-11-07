@@ -16,7 +16,7 @@
     scope = null;
     ident = "prismjs";
     ldir  = "info/unscoped/p/prismjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

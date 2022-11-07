@@ -16,7 +16,7 @@
     scope = null;
     ident = "make-fetch-happen";
     ldir  = "info/unscoped/m/make-fetch-happen";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

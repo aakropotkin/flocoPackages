@@ -16,7 +16,7 @@
     scope = "@vue";
     ident = "@vue/server-renderer";
     ldir  = "info/vue/server-renderer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

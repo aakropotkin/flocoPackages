@@ -16,7 +16,7 @@
     scope = null;
     ident = "array-union";
     ldir  = "info/unscoped/a/array-union";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

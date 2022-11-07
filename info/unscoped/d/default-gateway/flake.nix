@@ -16,7 +16,7 @@
     scope = null;
     ident = "default-gateway";
     ldir  = "info/unscoped/d/default-gateway";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

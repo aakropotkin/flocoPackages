@@ -16,7 +16,7 @@
     scope = null;
     ident = "filenamify";
     ldir  = "info/unscoped/f/filenamify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

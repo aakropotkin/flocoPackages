@@ -16,7 +16,7 @@
     scope = null;
     ident = "multicodec";
     ldir  = "info/unscoped/m/multicodec";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

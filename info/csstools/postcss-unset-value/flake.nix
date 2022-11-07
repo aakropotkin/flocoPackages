@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-unset-value";
     ldir  = "info/csstools/postcss-unset-value";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

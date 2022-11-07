@@ -16,7 +16,7 @@
     scope = null;
     ident = "semver-diff";
     ldir  = "info/unscoped/s/semver-diff";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

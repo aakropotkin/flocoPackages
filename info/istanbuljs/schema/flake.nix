@@ -16,7 +16,7 @@
     scope = "@istanbuljs";
     ident = "@istanbuljs/schema";
     ldir  = "info/istanbuljs/schema";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

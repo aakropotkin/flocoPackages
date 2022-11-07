@@ -16,7 +16,7 @@
     scope = null;
     ident = "browser-level";
     ldir  = "info/unscoped/b/browser-level";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

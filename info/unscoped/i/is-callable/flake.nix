@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-callable";
     ldir  = "info/unscoped/i/is-callable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

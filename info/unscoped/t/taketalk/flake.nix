@@ -16,7 +16,7 @@
     scope = null;
     ident = "taketalk";
     ldir  = "info/unscoped/t/taketalk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "copy-props";
     ldir  = "info/unscoped/c/copy-props";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

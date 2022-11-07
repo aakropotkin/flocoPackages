@@ -16,7 +16,7 @@
     scope = null;
     ident = "faye-websocket";
     ldir  = "info/unscoped/f/faye-websocket";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

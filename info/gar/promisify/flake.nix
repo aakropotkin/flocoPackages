@@ -16,7 +16,7 @@
     scope = "@gar";
     ident = "@gar/promisify";
     ldir  = "info/gar/promisify";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

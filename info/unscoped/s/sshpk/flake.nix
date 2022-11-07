@@ -16,7 +16,7 @@
     scope = null;
     ident = "sshpk";
     ldir  = "info/unscoped/s/sshpk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

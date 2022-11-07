@@ -16,7 +16,7 @@
     scope = null;
     ident = "tsconfig-paths";
     ldir  = "info/unscoped/t/tsconfig-paths";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

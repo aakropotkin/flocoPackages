@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/estree";
     ldir  = "info/types/estree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

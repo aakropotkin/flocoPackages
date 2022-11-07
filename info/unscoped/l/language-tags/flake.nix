@@ -16,7 +16,7 @@
     scope = null;
     ident = "language-tags";
     ldir  = "info/unscoped/l/language-tags";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

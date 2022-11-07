@@ -16,7 +16,7 @@
     scope = null;
     ident = "element-ui";
     ldir  = "info/unscoped/e/element-ui";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

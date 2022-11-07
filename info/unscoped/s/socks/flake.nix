@@ -16,7 +16,7 @@
     scope = null;
     ident = "socks";
     ldir  = "info/unscoped/s/socks";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

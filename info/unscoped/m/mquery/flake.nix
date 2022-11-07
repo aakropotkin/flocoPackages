@@ -16,7 +16,7 @@
     scope = null;
     ident = "mquery";
     ldir  = "info/unscoped/m/mquery";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

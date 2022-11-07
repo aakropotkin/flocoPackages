@@ -16,7 +16,7 @@
     scope = null;
     ident = "should-type";
     ldir  = "info/unscoped/s/should-type";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

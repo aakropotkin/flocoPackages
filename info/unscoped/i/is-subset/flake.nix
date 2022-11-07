@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-subset";
     ldir  = "info/unscoped/i/is-subset";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

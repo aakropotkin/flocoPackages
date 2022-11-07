@@ -16,7 +16,7 @@
     scope = null;
     ident = "bn.js";
     ldir  = "info/unscoped/b/bn.js";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-es2015-arrow-functions";
     ldir  = "info/unscoped/b/babel-plugin-transform-es2015-arrow-functions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

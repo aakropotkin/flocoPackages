@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-native-vector-icons";
     ldir  = "info/unscoped/r/react-native-vector-icons";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

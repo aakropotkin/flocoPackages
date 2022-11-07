@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-styled-components";
     ldir  = "info/unscoped/b/babel-plugin-styled-components";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

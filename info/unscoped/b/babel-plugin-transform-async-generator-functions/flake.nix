@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-async-generator-functions";
     ldir  = "info/unscoped/b/babel-plugin-transform-async-generator-functions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

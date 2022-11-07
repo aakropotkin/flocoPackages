@@ -16,7 +16,7 @@
     scope = null;
     ident = "grapheme-splitter";
     ldir  = "info/unscoped/g/grapheme-splitter";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

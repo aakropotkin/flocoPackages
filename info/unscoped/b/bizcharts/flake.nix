@@ -16,7 +16,7 @@
     scope = null;
     ident = "bizcharts";
     ldir  = "info/unscoped/b/bizcharts";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-helper-define-map";
     ldir  = "info/unscoped/b/babel-helper-define-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

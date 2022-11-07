@@ -16,7 +16,7 @@
     scope = null;
     ident = "body-parser";
     ldir  = "info/unscoped/b/body-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

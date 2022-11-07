@@ -16,7 +16,7 @@
     scope = null;
     ident = "canvas";
     ldir  = "info/unscoped/c/canvas";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

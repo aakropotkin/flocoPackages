@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-normalize-display-values";
     ldir  = "info/unscoped/p/postcss-normalize-display-values";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

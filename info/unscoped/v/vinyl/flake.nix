@@ -16,7 +16,7 @@
     scope = null;
     ident = "vinyl";
     ldir  = "info/unscoped/v/vinyl";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@octokit";
     ident = "@octokit/plugin-request-log";
     ldir  = "info/octokit/plugin-request-log";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

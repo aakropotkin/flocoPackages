@@ -16,7 +16,7 @@
     scope = null;
     ident = "appdirsjs";
     ldir  = "info/unscoped/a/appdirsjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

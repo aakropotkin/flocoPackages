@@ -16,7 +16,7 @@
     scope = null;
     ident = "readdir-scoped-modules";
     ldir  = "info/unscoped/r/readdir-scoped-modules";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

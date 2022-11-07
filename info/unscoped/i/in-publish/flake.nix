@@ -16,7 +16,7 @@
     scope = null;
     ident = "in-publish";
     ldir  = "info/unscoped/i/in-publish";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

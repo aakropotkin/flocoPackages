@@ -16,7 +16,7 @@
     scope = null;
     ident = "pngjs";
     ldir  = "info/unscoped/p/pngjs";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

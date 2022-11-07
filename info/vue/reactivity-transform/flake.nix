@@ -16,7 +16,7 @@
     scope = "@vue";
     ident = "@vue/reactivity-transform";
     ldir  = "info/vue/reactivity-transform";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

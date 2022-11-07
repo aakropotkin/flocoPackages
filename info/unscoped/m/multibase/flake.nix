@@ -16,7 +16,7 @@
     scope = null;
     ident = "multibase";
     ldir  = "info/unscoped/m/multibase";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

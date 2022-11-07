@@ -16,7 +16,7 @@
     scope = null;
     ident = "metro";
     ldir  = "info/unscoped/m/metro";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

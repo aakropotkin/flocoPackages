@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs-merger";
     ldir  = "info/unscoped/f/fs-merger";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

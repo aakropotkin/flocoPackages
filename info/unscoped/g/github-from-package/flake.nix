@@ -16,7 +16,7 @@
     scope = null;
     ident = "github-from-package";
     ldir  = "info/unscoped/g/github-from-package";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

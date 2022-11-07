@@ -16,7 +16,7 @@
     scope = null;
     ident = "json-schema-faker-bb";
     ldir  = "info/unscoped/j/json-schema-faker-bb";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "vue-property-decorator";
     ldir  = "info/unscoped/v/vue-property-decorator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

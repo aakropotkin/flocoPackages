@@ -16,7 +16,7 @@
     scope = null;
     ident = "prompts";
     ldir  = "info/unscoped/p/prompts";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

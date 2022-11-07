@@ -16,7 +16,7 @@
     scope = null;
     ident = "safe-json-parse";
     ldir  = "info/unscoped/s/safe-json-parse";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

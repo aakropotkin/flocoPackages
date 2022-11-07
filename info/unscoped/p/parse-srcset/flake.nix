@@ -16,7 +16,7 @@
     scope = null;
     ident = "parse-srcset";
     ldir  = "info/unscoped/p/parse-srcset";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

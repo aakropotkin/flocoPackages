@@ -16,7 +16,7 @@
     scope = "@apollo";
     ident = "@apollo/react-hoc";
     ldir  = "info/apollo/react-hoc";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "is-generator-fn";
     ldir  = "info/unscoped/i/is-generator-fn";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

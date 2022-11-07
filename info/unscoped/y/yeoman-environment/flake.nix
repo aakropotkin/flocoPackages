@@ -16,7 +16,7 @@
     scope = null;
     ident = "yeoman-environment";
     ldir  = "info/unscoped/y/yeoman-environment";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

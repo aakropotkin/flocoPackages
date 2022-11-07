@@ -16,7 +16,7 @@
     scope = null;
     ident = "command-line-args";
     ldir  = "info/unscoped/c/command-line-args";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

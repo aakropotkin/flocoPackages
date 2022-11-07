@@ -16,7 +16,7 @@
     scope = null;
     ident = "fs-mkdirp-stream";
     ldir  = "info/unscoped/f/fs-mkdirp-stream";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

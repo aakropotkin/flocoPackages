@@ -16,7 +16,7 @@
     scope = null;
     ident = "promise-inflight";
     ldir  = "info/unscoped/p/promise-inflight";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-duplicate-keys";
     ldir  = "info/babel/plugin-transform-duplicate-keys";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

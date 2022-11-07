@@ -16,7 +16,7 @@
     scope = null;
     ident = "xhr-request-promise";
     ldir  = "info/unscoped/x/xhr-request-promise";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

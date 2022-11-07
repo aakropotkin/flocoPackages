@@ -16,7 +16,7 @@
     scope = null;
     ident = "nodegit";
     ldir  = "info/unscoped/n/nodegit";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

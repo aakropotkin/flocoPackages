@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-proposal-unicode-property-regex";
     ldir  = "info/babel/plugin-proposal-unicode-property-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

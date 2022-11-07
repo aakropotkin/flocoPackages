@@ -16,7 +16,7 @@
     scope = null;
     ident = "continuable-cache";
     ldir  = "info/unscoped/c/continuable-cache";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

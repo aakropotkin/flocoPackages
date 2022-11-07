@@ -16,7 +16,7 @@
     scope = "@sinonjs";
     ident = "@sinonjs/commons";
     ldir  = "info/sinonjs/commons";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

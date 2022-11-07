@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-react-constant-elements";
     ldir  = "info/babel/plugin-transform-react-constant-elements";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

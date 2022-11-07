@@ -16,7 +16,7 @@
     scope = "@serialport";
     ident = "@serialport/parser-spacepacket";
     ldir  = "info/serialport/parser-spacepacket";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

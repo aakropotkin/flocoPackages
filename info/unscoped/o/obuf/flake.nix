@@ -16,7 +16,7 @@
     scope = null;
     ident = "obuf";
     ldir  = "info/unscoped/o/obuf";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

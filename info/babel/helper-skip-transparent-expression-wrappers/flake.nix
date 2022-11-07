@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-skip-transparent-expression-wrappers";
     ldir  = "info/babel/helper-skip-transparent-expression-wrappers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

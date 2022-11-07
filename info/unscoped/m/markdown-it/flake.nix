@@ -16,7 +16,7 @@
     scope = null;
     ident = "markdown-it";
     ldir  = "info/unscoped/m/markdown-it";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

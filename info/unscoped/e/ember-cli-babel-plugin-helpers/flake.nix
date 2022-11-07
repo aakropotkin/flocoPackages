@@ -16,7 +16,7 @@
     scope = null;
     ident = "ember-cli-babel-plugin-helpers";
     ldir  = "info/unscoped/e/ember-cli-babel-plugin-helpers";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

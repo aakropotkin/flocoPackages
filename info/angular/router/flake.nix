@@ -16,7 +16,7 @@
     scope = "@angular";
     ident = "@angular/router";
     ldir  = "info/angular/router";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

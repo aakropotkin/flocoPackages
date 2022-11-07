@@ -16,7 +16,7 @@
     scope = null;
     ident = "lodash.isstring";
     ldir  = "info/unscoped/l/lodash.isstring";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "viewport-dimensions";
     ldir  = "info/unscoped/v/viewport-dimensions";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

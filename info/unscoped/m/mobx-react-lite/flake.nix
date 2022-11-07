@@ -16,7 +16,7 @@
     scope = null;
     ident = "mobx-react-lite";
     ldir  = "info/unscoped/m/mobx-react-lite";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

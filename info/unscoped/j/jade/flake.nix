@@ -16,7 +16,7 @@
     scope = null;
     ident = "jade";
     ldir  = "info/unscoped/j/jade";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

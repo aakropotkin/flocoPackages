@@ -16,7 +16,7 @@
     scope = null;
     ident = "glob-watcher";
     ldir  = "info/unscoped/g/glob-watcher";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

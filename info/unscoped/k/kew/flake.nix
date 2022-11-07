@@ -16,7 +16,7 @@
     scope = null;
     ident = "kew";
     ldir  = "info/unscoped/k/kew";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

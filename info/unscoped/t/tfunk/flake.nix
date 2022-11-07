@@ -16,7 +16,7 @@
     scope = null;
     ident = "tfunk";
     ldir  = "info/unscoped/t/tfunk";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/cli";
     ldir  = "info/babel/cli";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

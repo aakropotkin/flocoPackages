@@ -16,7 +16,7 @@
     scope = null;
     ident = "node-sass";
     ldir  = "info/unscoped/n/node-sass";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

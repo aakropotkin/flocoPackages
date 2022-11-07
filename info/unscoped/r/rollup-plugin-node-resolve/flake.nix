@@ -16,7 +16,7 @@
     scope = null;
     ident = "rollup-plugin-node-resolve";
     ldir  = "info/unscoped/r/rollup-plugin-node-resolve";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

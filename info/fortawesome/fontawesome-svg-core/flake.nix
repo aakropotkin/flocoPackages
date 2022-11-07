@@ -16,7 +16,7 @@
     scope = "@fortawesome";
     ident = "@fortawesome/fontawesome-svg-core";
     ldir  = "info/fortawesome/fontawesome-svg-core";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

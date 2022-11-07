@@ -16,7 +16,7 @@
     scope = null;
     ident = "call-me-maybe";
     ldir  = "info/unscoped/c/call-me-maybe";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

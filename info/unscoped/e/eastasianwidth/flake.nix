@@ -16,7 +16,7 @@
     scope = null;
     ident = "eastasianwidth";
     ldir  = "info/unscoped/e/eastasianwidth";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

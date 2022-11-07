@@ -16,7 +16,7 @@
     scope = null;
     ident = "w3c-keyname";
     ldir  = "info/unscoped/w/w3c-keyname";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "ansi-html-community";
     ldir  = "info/unscoped/a/ansi-html-community";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

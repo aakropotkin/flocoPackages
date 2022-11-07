@@ -16,7 +16,7 @@
     scope = null;
     ident = "pino-abstract-transport";
     ldir  = "info/unscoped/p/pino-abstract-transport";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

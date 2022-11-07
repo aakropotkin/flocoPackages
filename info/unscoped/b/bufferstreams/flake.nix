@@ -16,7 +16,7 @@
     scope = null;
     ident = "bufferstreams";
     ldir  = "info/unscoped/b/bufferstreams";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

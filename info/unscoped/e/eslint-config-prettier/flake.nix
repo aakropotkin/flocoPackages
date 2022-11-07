@@ -16,7 +16,7 @@
     scope = null;
     ident = "eslint-config-prettier";
     ldir  = "info/unscoped/e/eslint-config-prettier";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-icons";
     ldir  = "info/unscoped/r/react-icons";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

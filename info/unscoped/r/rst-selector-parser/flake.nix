@@ -16,7 +16,7 @@
     scope = null;
     ident = "rst-selector-parser";
     ldir  = "info/unscoped/r/rst-selector-parser";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "html-element-map";
     ldir  = "info/unscoped/h/html-element-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "teamwork";
     ldir  = "info/unscoped/t/teamwork";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

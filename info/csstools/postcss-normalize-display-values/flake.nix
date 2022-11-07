@@ -16,7 +16,7 @@
     scope = "@csstools";
     ident = "@csstools/postcss-normalize-display-values";
     ldir  = "info/csstools/postcss-normalize-display-values";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

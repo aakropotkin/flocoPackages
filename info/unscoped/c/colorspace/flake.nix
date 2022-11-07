@@ -16,7 +16,7 @@
     scope = null;
     ident = "colorspace";
     ldir  = "info/unscoped/c/colorspace";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

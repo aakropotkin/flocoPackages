@@ -16,7 +16,7 @@
     scope = null;
     ident = "immer";
     ldir  = "info/unscoped/i/immer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

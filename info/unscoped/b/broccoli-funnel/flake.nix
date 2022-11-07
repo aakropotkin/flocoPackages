@@ -16,7 +16,7 @@
     scope = null;
     ident = "broccoli-funnel";
     ldir  = "info/unscoped/b/broccoli-funnel";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

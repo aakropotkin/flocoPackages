@@ -16,7 +16,7 @@
     scope = null;
     ident = "typescript-compare";
     ldir  = "info/unscoped/t/typescript-compare";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

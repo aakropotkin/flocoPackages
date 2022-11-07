@@ -16,7 +16,7 @@
     scope = null;
     ident = "argsarray";
     ldir  = "info/unscoped/a/argsarray";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

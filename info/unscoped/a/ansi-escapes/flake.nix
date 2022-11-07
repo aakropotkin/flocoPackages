@@ -16,7 +16,7 @@
     scope = null;
     ident = "ansi-escapes";
     ldir  = "info/unscoped/a/ansi-escapes";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

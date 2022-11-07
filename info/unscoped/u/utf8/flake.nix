@@ -16,7 +16,7 @@
     scope = null;
     ident = "utf8";
     ldir  = "info/unscoped/u/utf8";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

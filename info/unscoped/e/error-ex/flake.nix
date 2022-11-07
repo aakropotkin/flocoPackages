@@ -16,7 +16,7 @@
     scope = null;
     ident = "error-ex";
     ldir  = "info/unscoped/e/error-ex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

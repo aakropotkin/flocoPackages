@@ -16,7 +16,7 @@
     scope = null;
     ident = "etag";
     ldir  = "info/unscoped/e/etag";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

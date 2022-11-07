@@ -16,7 +16,7 @@
     scope = null;
     ident = "winston-transport";
     ldir  = "info/unscoped/w/winston-transport";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

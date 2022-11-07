@@ -16,7 +16,7 @@
     scope = null;
     ident = "yeoman-generator";
     ldir  = "info/unscoped/y/yeoman-generator";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

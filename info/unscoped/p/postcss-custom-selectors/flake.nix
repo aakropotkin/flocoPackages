@@ -16,7 +16,7 @@
     scope = null;
     ident = "postcss-custom-selectors";
     ldir  = "info/unscoped/p/postcss-custom-selectors";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

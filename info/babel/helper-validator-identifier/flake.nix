@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/helper-validator-identifier";
     ldir  = "info/babel/helper-validator-identifier";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

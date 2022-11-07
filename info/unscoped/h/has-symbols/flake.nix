@@ -16,7 +16,7 @@
     scope = null;
     ident = "has-symbols";
     ldir  = "info/unscoped/h/has-symbols";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

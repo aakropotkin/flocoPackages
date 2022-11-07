@@ -16,7 +16,7 @@
     scope = null;
     ident = "miller-rabin";
     ldir  = "info/unscoped/m/miller-rabin";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

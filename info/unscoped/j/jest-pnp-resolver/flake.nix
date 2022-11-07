@@ -16,7 +16,7 @@
     scope = null;
     ident = "jest-pnp-resolver";
     ldir  = "info/unscoped/j/jest-pnp-resolver";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

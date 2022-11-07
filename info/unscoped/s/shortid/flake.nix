@@ -16,7 +16,7 @@
     scope = null;
     ident = "shortid";
     ldir  = "info/unscoped/s/shortid";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@jupyterlab";
     ident = "@jupyterlab/codeeditor";
     ldir  = "info/jupyterlab/codeeditor";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

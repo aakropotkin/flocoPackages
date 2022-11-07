@@ -16,7 +16,7 @@
     scope = null;
     ident = "cookie-signature";
     ldir  = "info/unscoped/c/cookie-signature";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

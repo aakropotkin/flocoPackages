@@ -16,7 +16,7 @@
     scope = null;
     ident = "multipipe";
     ldir  = "info/unscoped/m/multipipe";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

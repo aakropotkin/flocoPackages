@@ -16,7 +16,7 @@
     scope = null;
     ident = "iron";
     ldir  = "info/unscoped/i/iron";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

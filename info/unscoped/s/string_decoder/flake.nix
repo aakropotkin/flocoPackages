@@ -16,7 +16,7 @@
     scope = null;
     ident = "string_decoder";
     ldir  = "info/unscoped/s/string_decoder";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/minimist";
     ldir  = "info/types/minimist";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = "@protobufjs";
     ident = "@protobufjs/fetch";
     ldir  = "info/protobufjs/fetch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

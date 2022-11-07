@@ -16,7 +16,7 @@
     scope = null;
     ident = "append-field";
     ldir  = "info/unscoped/a/append-field";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

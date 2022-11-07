@@ -16,7 +16,7 @@
     scope = null;
     ident = "espree";
     ldir  = "info/unscoped/e/espree";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

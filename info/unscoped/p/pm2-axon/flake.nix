@@ -16,7 +16,7 @@
     scope = null;
     ident = "pm2-axon";
     ldir  = "info/unscoped/p/pm2-axon";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "react-test-renderer";
     ldir  = "info/unscoped/r/react-test-renderer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

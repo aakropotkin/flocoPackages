@@ -16,7 +16,7 @@
     scope = "@graphql-tools";
     ident = "@graphql-tools/utils";
     ldir  = "info/graphql-tools/utils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

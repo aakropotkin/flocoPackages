@@ -16,7 +16,7 @@
     scope = "@types";
     ident = "@types/es-aggregate-error";
     ldir  = "info/types/es-aggregate-error";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

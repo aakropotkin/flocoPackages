@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-transform-named-capturing-groups-regex";
     ldir  = "info/babel/plugin-transform-named-capturing-groups-regex";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

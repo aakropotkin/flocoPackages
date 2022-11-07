@@ -16,7 +16,7 @@
     scope = null;
     ident = "tsutils";
     ldir  = "info/unscoped/t/tsutils";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

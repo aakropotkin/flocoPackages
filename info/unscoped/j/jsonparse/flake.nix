@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsonparse";
     ldir  = "info/unscoped/j/jsonparse";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

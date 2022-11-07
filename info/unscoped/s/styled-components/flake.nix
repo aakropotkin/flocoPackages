@@ -16,7 +16,7 @@
     scope = null;
     ident = "styled-components";
     ldir  = "info/unscoped/s/styled-components";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

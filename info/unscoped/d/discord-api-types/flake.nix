@@ -16,7 +16,7 @@
     scope = null;
     ident = "discord-api-types";
     ldir  = "info/unscoped/d/discord-api-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

@@ -16,7 +16,7 @@
     scope = null;
     ident = "acorn-node";
     ldir  = "info/unscoped/a/acorn-node";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

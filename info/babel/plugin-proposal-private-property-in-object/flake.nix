@@ -16,7 +16,7 @@
     scope = "@babel";
     ident = "@babel/plugin-proposal-private-property-in-object";
     ldir  = "info/babel/plugin-proposal-private-property-in-object";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

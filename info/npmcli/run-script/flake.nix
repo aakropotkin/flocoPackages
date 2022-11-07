@@ -16,7 +16,7 @@
     scope = "@npmcli";
     ident = "@npmcli/run-script";
     ldir  = "info/npmcli/run-script";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

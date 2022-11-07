@@ -16,7 +16,7 @@
     scope = "@gulp-sourcemaps";
     ident = "@gulp-sourcemaps/identity-map";
     ldir  = "info/gulp-sourcemaps/identity-map";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

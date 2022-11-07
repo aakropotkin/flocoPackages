@@ -16,7 +16,7 @@
     scope = null;
     ident = "babel-plugin-transform-flow-strip-types";
     ldir  = "info/unscoped/b/babel-plugin-transform-flow-strip-types";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

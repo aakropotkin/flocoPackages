@@ -16,7 +16,7 @@
     scope = null;
     ident = "safer-buffer";
     ldir  = "info/unscoped/s/safer-buffer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

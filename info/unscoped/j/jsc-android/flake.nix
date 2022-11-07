@@ -16,7 +16,7 @@
     scope = null;
     ident = "jsc-android";
     ldir  = "info/unscoped/j/jsc-android";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

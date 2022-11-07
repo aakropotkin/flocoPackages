@@ -16,7 +16,7 @@
     scope = "@discordjs";
     ident = "@discordjs/rest";
     ldir  = "info/discordjs/rest";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

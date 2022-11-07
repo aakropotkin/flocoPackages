@@ -16,7 +16,7 @@
     scope = null;
     ident = "grunt-contrib-watch";
     ldir  = "info/unscoped/g/grunt-contrib-watch";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

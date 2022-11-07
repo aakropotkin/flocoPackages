@@ -16,7 +16,7 @@
     scope = null;
     ident = "request-progress";
     ldir  = "info/unscoped/r/request-progress";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

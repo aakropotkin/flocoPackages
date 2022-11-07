@@ -16,7 +16,7 @@
     scope = null;
     ident = "workbox-background-sync";
     ldir  = "info/unscoped/w/workbox-background-sync";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

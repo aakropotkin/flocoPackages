@@ -16,7 +16,7 @@
     scope = null;
     ident = "uncontrollable";
     ldir  = "info/unscoped/u/uncontrollable";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

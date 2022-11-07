@@ -16,7 +16,7 @@
     scope = null;
     ident = "promise-map-series";
     ldir  = "info/unscoped/p/promise-map-series";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

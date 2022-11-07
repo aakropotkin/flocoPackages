@@ -16,7 +16,7 @@
     scope = "@juggle";
     ident = "@juggle/resize-observer";
     ldir  = "info/juggle/resize-observer";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }

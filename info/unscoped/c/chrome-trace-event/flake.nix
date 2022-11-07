@@ -16,7 +16,7 @@
     scope = null;
     ident = "chrome-trace-event";
     ldir  = "info/unscoped/c/chrome-trace-event";
-    inherit packument fetchInfo scope ident ldir;
+    inherit packument fetchInfo;
   } // latest';
 
 }
