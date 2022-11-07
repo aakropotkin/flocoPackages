@@ -91,7 +91,7 @@ fi
 REV="$(
   $NIX eval --impure --raw --expr "let
     packumentRaw = builtins.fetchTree {
-      type = file;
+      type = \"file\";
       url  = \"https://registry.npmjs.org/$IDENT\";
     };
     packument = builtins.fromJSON ( builtins.readFile packumentRaw );
