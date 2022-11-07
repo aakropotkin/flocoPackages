@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/evp_bytestokey";
+  inputs.packument.url   = "https://registry.npmjs.org/evp_bytestokey?rev=10-3fa2f8385d99824e8f4093c182122c85";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../../registry/unscoped/evp_bytestokey.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = null;
+    ident = "evp_bytestokey";
+    ldir  = "info/unscoped/e/evp_bytestokey";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/p-map-series";
+  inputs.packument.url   = "https://registry.npmjs.org/p-map-series?rev=7-b97226c361a898ba11917c232a873039";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../../registry/unscoped/p-map-series.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = null;
+    ident = "p-map-series";
+    ldir  = "info/unscoped/p/p-map-series";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

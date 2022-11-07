@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/which";
+  inputs.packument.url   = "https://registry.npmjs.org/which?rev=78-9298bc6e59f1e4b5249d5b1c1b6ce6fa";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../../registry/unscoped/which.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = null;
+    ident = "which";
+    ldir  = "info/unscoped/w/which";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

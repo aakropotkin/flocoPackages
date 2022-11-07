@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strip-bom-buf";
+  inputs.packument.url   = "https://registry.npmjs.org/strip-bom-buf?rev=7-dd76e7bd872f2132e39e7d2457efcff4";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../../registry/unscoped/strip-bom-buf.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = null;
+    ident = "strip-bom-buf";
+    ldir  = "info/unscoped/s/strip-bom-buf";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

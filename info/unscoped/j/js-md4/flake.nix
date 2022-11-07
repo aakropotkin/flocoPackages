@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/js-md4";
+  inputs.packument.url   = "https://registry.npmjs.org/js-md4?rev=7-cfc7e7c27548c3b8dc723d1f556508b1";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../../registry/unscoped/js-md4.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = null;
+    ident = "js-md4";
+    ldir  = "info/unscoped/j/js-md4";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

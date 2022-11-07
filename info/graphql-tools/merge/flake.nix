@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@graphql-tools/merge";
+  inputs.packument.url   = "https://registry.npmjs.org/@graphql-tools/merge?rev=966-5be61a46aa7ef323d4b4d53208570d9e";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@graphql-tools/merge.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@graphql-tools";
+    ident = "@graphql-tools/merge";
+    ldir  = "info/graphql-tools/merge";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

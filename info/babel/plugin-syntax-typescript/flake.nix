@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-typescript";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-typescript?rev=83-786f7a05bc00e81ecf8644dd7d4db7ea";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@babel/plugin-syntax-typescript.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@babel";
+    ident = "@babel/plugin-syntax-typescript";
+    ldir  = "info/babel/plugin-syntax-typescript";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

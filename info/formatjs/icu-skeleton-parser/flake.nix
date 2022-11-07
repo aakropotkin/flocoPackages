@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/icu-skeleton-parser";
+  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/icu-skeleton-parser?rev=32-647177c6dcd7ffa89c0af8bf79f7ec32";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@formatjs/icu-skeleton-parser.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@formatjs";
+    ident = "@formatjs/icu-skeleton-parser";
+    ldir  = "info/formatjs/icu-skeleton-parser";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

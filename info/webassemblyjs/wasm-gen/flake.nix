@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/wasm-gen";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/wasm-gen?rev=82-8b47cce3a76c34a5c0911a90c6812b11";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@webassemblyjs/wasm-gen.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@webassemblyjs";
+    ident = "@webassemblyjs/wasm-gen";
+    ldir  = "info/webassemblyjs/wasm-gen";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@emotion/weak-memoize";
+  inputs.packument.url   = "https://registry.npmjs.org/@emotion/weak-memoize?rev=16-1f8eab3d1fa76a4a8ab23bb19ffe2ad6";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@emotion/weak-memoize.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@emotion";
+    ident = "@emotion/weak-memoize";
+    ldir  = "info/emotion/weak-memoize";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

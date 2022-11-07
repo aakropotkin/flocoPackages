@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-packet-length";
+  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-packet-length?rev=8-fa5b2a06c6245c402d42096ca3d3bc04";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@serialport/parser-packet-length.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@serialport";
+    ident = "@serialport/parser-packet-length";
+    ldir  = "info/serialport/parser-packet-length";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

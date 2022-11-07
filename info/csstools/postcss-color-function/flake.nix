@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-color-function";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-color-function?rev=6-0fcaa2458bd6a74eaf37796b2aff9044";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@csstools/postcss-color-function.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@csstools";
+    ident = "@csstools/postcss-color-function";
+    ldir  = "info/csstools/postcss-color-function";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

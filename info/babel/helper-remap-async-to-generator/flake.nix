@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-remap-async-to-generator";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-remap-async-to-generator?rev=91-e7577d7dfb0388410392024815765e0a";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@babel/helper-remap-async-to-generator.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@babel";
+    ident = "@babel/helper-remap-async-to-generator";
+    ldir  = "info/babel/helper-remap-async-to-generator";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

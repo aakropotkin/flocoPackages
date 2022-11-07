@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-split-export-declaration";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-split-export-declaration?rev=56-a23d9ccdb5ff6e59b4e39e1f35283538";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@babel/helper-split-export-declaration.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@babel";
+    ident = "@babel/helper-split-export-declaration";
+    ldir  = "info/babel/helper-split-export-declaration";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

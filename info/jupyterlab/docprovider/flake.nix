@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/docprovider";
+  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/docprovider?rev=148-2e59bc9811cf87bc8e5157a873733fe4";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@jupyterlab/docprovider.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@jupyterlab";
+    ident = "@jupyterlab/docprovider";
+    ldir  = "info/jupyterlab/docprovider";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

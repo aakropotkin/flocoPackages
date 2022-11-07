@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-html-renderer";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-html-renderer?rev=129-5d36da0e567f5468928f3e425dd1ef10";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@antv/g-plugin-html-renderer.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@antv";
+    ident = "@antv/g-plugin-html-renderer";
+    ldir  = "info/antv/g-plugin-html-renderer";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/promise-spawn";
+  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/promise-spawn?rev=28-b5bc38f9ea5aa5a9b96fb43565cfdddd";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@npmcli/promise-spawn.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@npmcli";
+    ident = "@npmcli/promise-spawn";
+    ldir  = "info/npmcli/promise-spawn";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

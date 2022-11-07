@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-canvas-path-generator";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-canvas-path-generator?rev=49-5bb149bb919a187f80d94acc36c05eb3";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@antv/g-plugin-canvas-path-generator.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@antv";
+    ident = "@antv/g-plugin-canvas-path-generator";
+    ldir  = "info/antv/g-plugin-canvas-path-generator";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

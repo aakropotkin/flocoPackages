@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@octokit/plugin-rest-endpoint-methods";
+  inputs.packument.url   = "https://registry.npmjs.org/@octokit/plugin-rest-endpoint-methods?rev=163-fc007e8b79ce764be9382598a567ff3c";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@octokit/plugin-rest-endpoint-methods.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@octokit";
+    ident = "@octokit/plugin-rest-endpoint-methods";
+    ldir  = "info/octokit/plugin-rest-endpoint-methods";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-modules-amd";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-modules-amd?rev=91-786e6f7cf8a8127b42c49e9a80d6cd6a";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@babel/plugin-transform-modules-amd.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@babel";
+    ident = "@babel/plugin-transform-modules-amd";
+    ldir  = "info/babel/plugin-transform-modules-amd";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

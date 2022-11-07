@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/swagger-parser";
+  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/swagger-parser?rev=11-32fa919e9a44b5145cd3821d33d8ae5e";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@apidevtools/swagger-parser.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@apidevtools";
+    ident = "@apidevtools/swagger-parser";
+    ldir  = "info/apidevtools/swagger-parser";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@rushstack/eslint-patch";
+  inputs.packument.url   = "https://registry.npmjs.org/@rushstack/eslint-patch?rev=101-0da0082005cb9ae5b140345e905c8835";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@rushstack/eslint-patch.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@rushstack";
+    ident = "@rushstack/eslint-patch";
+    ldir  = "info/rushstack/eslint-patch";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

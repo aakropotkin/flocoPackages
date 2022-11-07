@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-private-property-in-object";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-private-property-in-object?rev=3-92e0c6d11c41a8d7afc7c5f89c8fb27d";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@babel/plugin-syntax-private-property-in-object.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@babel";
+    ident = "@babel/plugin-syntax-private-property-in-object";
+    ldir  = "info/babel/plugin-syntax-private-property-in-object";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

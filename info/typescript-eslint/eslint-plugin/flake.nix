@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@typescript-eslint/eslint-plugin";
+  inputs.packument.url   = "https://registry.npmjs.org/@typescript-eslint/eslint-plugin?rev=2363-3d4f6db12e5894e8e4c6840c24caa3f8";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@typescript-eslint/eslint-plugin.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@typescript-eslint";
+    ident = "@typescript-eslint/eslint-plugin";
+    ldir  = "info/typescript-eslint/eslint-plugin";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

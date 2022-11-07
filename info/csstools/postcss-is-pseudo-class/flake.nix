@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class?rev=10-96d8c3e91764670313166cdfb3371150";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@csstools/postcss-is-pseudo-class.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@csstools";
+    ident = "@csstools/postcss-is-pseudo-class";
+    ldir  = "info/csstools/postcss-is-pseudo-class";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

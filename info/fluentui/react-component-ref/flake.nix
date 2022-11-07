@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@fluentui/react-component-ref";
+  inputs.packument.url   = "https://registry.npmjs.org/@fluentui/react-component-ref?rev=91-7a9f5f1296efb53b4fb0183c362172a6";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@fluentui/react-component-ref.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@fluentui";
+    ident = "@fluentui/react-component-ref";
+    ldir  = "info/fluentui/react-component-ref";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

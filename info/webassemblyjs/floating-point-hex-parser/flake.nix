@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser?rev=64-deaf63f7b84fd750124a7eb81a785a17";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@webassemblyjs/floating-point-hex-parser.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@webassemblyjs";
+    ident = "@webassemblyjs/floating-point-hex-parser";
+    ldir  = "info/webassemblyjs/floating-point-hex-parser";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/wast-printer";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/wast-printer?rev=85-fe738884ec9e9c8dd732c4e14e85c293";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@webassemblyjs/wast-printer.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@webassemblyjs";
+    ident = "@webassemblyjs/wast-printer";
+    ldir  = "info/webassemblyjs/wast-printer";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

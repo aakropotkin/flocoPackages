@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@redux-saga/delay-p";
+  inputs.packument.url   = "https://registry.npmjs.org/@redux-saga/delay-p?rev=14-b56d504f4e548b9eec0b4b9c05f88ef6";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@redux-saga/delay-p.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@redux-saga";
+    ident = "@redux-saga/delay-p";
+    ldir  = "info/redux-saga/delay-p";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

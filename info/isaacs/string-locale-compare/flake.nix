@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@isaacs/string-locale-compare";
+  inputs.packument.url   = "https://registry.npmjs.org/@isaacs/string-locale-compare?rev=4-e463d762a9436ecc806971f320cfec92";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@isaacs/string-locale-compare.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@isaacs";
+    ident = "@isaacs/string-locale-compare";
+    ldir  = "info/isaacs/string-locale-compare";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

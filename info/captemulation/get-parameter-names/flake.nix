@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@captemulation/get-parameter-names";
+  inputs.packument.url   = "https://registry.npmjs.org/@captemulation/get-parameter-names?rev=11-5b0993c27dee8e4d3411180e117d1669";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@captemulation/get-parameter-names.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@captemulation";
+    ident = "@captemulation/get-parameter-names";
+    ldir  = "info/captemulation/get-parameter-names";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

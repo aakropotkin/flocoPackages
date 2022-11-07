@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/plugin-svgo";
+  inputs.packument.url   = "https://registry.npmjs.org/@svgr/plugin-svgo?rev=21-ad9ab5308dcbeee33c1d8fda2a98a972";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@svgr/plugin-svgo.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@svgr";
+    ident = "@svgr/plugin-svgo";
+    ldir  = "info/svgr/plugin-svgo";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }

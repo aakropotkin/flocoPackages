@@ -1,24 +1,22 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@samverschueren/stream-to-observable";
+  inputs.packument.url   = "https://registry.npmjs.org/@samverschueren/stream-to-observable?rev=2-c46c4c1f98cde271e9ab1403f4cf53ac";
   inputs.packument.flake = false;
-  inputs.treeLock.url    = "path:../../../registry/@samverschueren/stream-to-observable.json";
-  inputs.treeLock.flake  = false;
 
-  # BEGIN INJECTED INPUTS
-  # Do not write anything between these lines.
-  # @INJECT_INPUTS@
-  # END INJECTED INPUTS
-
-  outputs = { packument, treeLock, at-node-nix, ... } @ inputs: let
-    inherit (at-node-nix) lib;
-    packument = lib.importJSON inputs.packument;
+  outputs = inputs: let
+    importJSON = f: builtins.fromJSON ( builtins.readFile f );
+    packument  = importJSON inputs.packument;
+    fetchInfo  = if ! builtins.pathExists ./fetchInfo.json then {} else
+                 importJSON ./fetchInfo.json;
+    latest'    = if ! ( packument ? dist-tags.latest ) then {} else {
+      latestVersion = packument.dist-tags.latest;
+      latest        = packument.versions.${packument.dist-tags.latest};
+    };
   in {
-
-    inherit packument;
-    treeLock = lib.importJSON inputs.treeLock;
-    latest   = lib.libreg.packumentLatestVersion packument;
-
-  };
+    scope = "@samverschueren";
+    ident = "@samverschueren/stream-to-observable";
+    ldir  = "info/samverschueren/stream-to-observable";
+    inherit packument fetchInfo scope ident ldir;
+  } // latest';
 
 }
