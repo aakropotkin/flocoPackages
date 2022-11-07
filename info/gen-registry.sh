@@ -29,6 +29,7 @@ $FIND . -name flake.lock -exec $JQ -r '
 ( "{}"|sub( "\\./"; "info/" )|sub( "/flake\\.lock"; "" ) ) as $dir|
 .nodes.packument.original.url as $url|$url|
   sub( "https://registry.npmjs.org/"; "" )
+  |sub( "\\?.*"; "" )
   |sub( "@"; "" )
   |sub( "/"; "--" )
   |sub( "\\."; "_"; "g" )
