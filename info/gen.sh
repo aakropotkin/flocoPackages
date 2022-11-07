@@ -88,31 +88,23 @@ OLFILE:    $OLFILE
 EOF
 fi
 
-
-if test -r "$TLOCK"; then
-  LOCK_NAR="$( $NIX hash file --sri --type sha256 "$TLOCK"; )";
-else
-  echo "WARNING: No treeLock exists for $IDENT" >&2;
-  NO_TLOCK=:;
-fi
-
-PACKUMENT_NAR="$(
-  $NIX flake prefetch --json "https://registry.npmjs.org/$IDENT"|$JQ -r '.hash';
-)";
-
 REV="$(
   $NIX eval --impure --raw --expr "let
-    packumentRaw = builtins.fetchurl \"https://registry.npmjs.org/$IDENT\";
-    packument    = builtins.fromJSON ( builtins.readFile packumentRaw );
+    packumentRaw = builtins.fetchTree {
+      type = file;
+      url  = \"https://registry.npmjs.org/$IDENT\";
+    };
+    packument = builtins.fromJSON ( builtins.readFile packumentRaw );
   in if packument ? _rev then \"?rev=\${packument._rev}\" else \"\"
   ";
 )";
-
+PACKUMENT_NAR="$(
+  $NIX flake prefetch --json "https://registry.npmjs.org/$IDENT$REV"|$JQ -r '.hash';
+)";
 
 gen_flake() {
   $SED                             \
     -e "s,@IDENT@,$IDENT,g"        \
-    -e "s,@ROOT_REL@,$ROOT_REL,g"  \
     -e "s,@ODIRR@,$ODIRR,g"        \
     -e "s,@BNAME@,$BNAME,g"        \
     -e "s,@REV@,$REV,g"            \
@@ -122,15 +114,12 @@ gen_flake() {
 }
 
 gen_lock() {
-  $SED                                         \
-    -e "s,@IDENT@,$IDENT,g"                    \
-    -e "s,@ROOT_REL@,$ROOT_REL,g"              \
-    -e "s,@LDIR@,$LDIR,g"                      \
-    -e "s,@BNAME@,$BNAME,g"                    \
-    -e "s,@LOCK_NAR@,${LOCK_NAR:-MISSING},g"   \
-    -e "s,@PACKUMENT_NAR@,${PACKUMENT_NAR},g"  \
-    -e "s,@REV@,$REV,g"                        \
-    "$LTEMPLATE"                               \
+  $SED                                       \
+    -e "s,@IDENT@,$IDENT,g"                  \
+    -e "s,@BNAME@,$BNAME,g"                  \
+    -e "s,@PACKUMENT_NAR@,$PACKUMENT_NAR,g"  \
+    -e "s,@REV@,$REV,g"                      \
+    "$LTEMPLATE"                             \
   > "$OLFILE";
 }
 
@@ -147,11 +136,6 @@ if test -r "$OLFILE"; then
   mv "$OLFILE" "$OLFILE~";
 fi
 gen_lock;
-if test -n "${NO_TLOCK:+y}"; then
-  echo "Dropping treeLock from generated flake.lock ( no treLock exists )" >&2;
-  $JQ '.nodes|=del( .treeLock )' "$OLFILE" > "$OLFILE~1";
-  mv "$OLFILE~1" "$OLFILE";
-fi
 
 if test -z "${NO_GIT:+y}"; then
   $GIT add "$OFILE" "$OLFILE";
