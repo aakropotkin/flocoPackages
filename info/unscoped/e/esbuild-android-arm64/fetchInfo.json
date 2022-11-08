@@ -1,0 +1,722 @@
+{
+  "0.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.0.1.tgz",
+    "narHash": "sha256-OYzaoJhrSH5uo+zA3OShJFQ4kEx20/kCTe3Ybp7mV1k="
+  },
+  "0.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.10.0.tgz",
+    "narHash": "sha256-i/dHWPF2soxNDe16ULqgD5DGsmiBZUmAfDFZeFJqEz4="
+  },
+  "0.10.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.10.1.tgz",
+    "narHash": "sha256-hJAaODDjB8BL+G0gAJ1mJWqCc3g8TVacJ+7k+bekcbw="
+  },
+  "0.10.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.10.2.tgz",
+    "narHash": "sha256-eRZL2YKxdcBswLtwGKTGWKWkffkMbckrl73K0Zx68hA="
+  },
+  "0.11.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.0.tgz",
+    "narHash": "sha256-tD83+zJ0fWFTC8Hp+KZQJXl7XUK4K8gPIyaO+S6+eqI="
+  },
+  "0.11.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.1.tgz",
+    "narHash": "sha256-+mhWB2GnrzQ3+n6zr2cLlIjA5BSzIxDSSrVm0n/IAvM="
+  },
+  "0.11.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.10.tgz",
+    "narHash": "sha256-NRDD5fMqn/VkTRoXZ3gPthSEvK9SEn5wgBQFblYhtV0="
+  },
+  "0.11.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.11.tgz",
+    "narHash": "sha256-7oqE4hq2/EajjpD19bLbXv9PoBMDhCXj+M2rCYfN/mc="
+  },
+  "0.11.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.12.tgz",
+    "narHash": "sha256-aXF/FxcNEsxTMTuOReRonp4fr4JMkbKdMPI93WBb7XI="
+  },
+  "0.11.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.13.tgz",
+    "narHash": "sha256-6ixV3KIEmrUUkD30jRSPdSM6mVQhASP2TXQYcF8GxCQ="
+  },
+  "0.11.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.14.tgz",
+    "narHash": "sha256-YFE/FOfggNKm93PzKA8WPAjNQMD0ePkfC0esgBFX9Y8="
+  },
+  "0.11.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.15.tgz",
+    "narHash": "sha256-KypfM9giMuifVA2OkGA53KyEe807EscX64PgMy6F0bs="
+  },
+  "0.11.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.16.tgz",
+    "narHash": "sha256-06GMrZgzgOZcrucMUqx9//2VqeZkwQ8PfQU9/q2VljI="
+  },
+  "0.11.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.17.tgz",
+    "narHash": "sha256-q7KNt+ldWPzgi3WR545nM5hjjswerytaxUZK1Rd16xY="
+  },
+  "0.11.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.18.tgz",
+    "narHash": "sha256-98hL4WbACzrcgc1+9lC3fuMIb0x/5BDYAeqYYzTUs4c="
+  },
+  "0.11.19": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.19.tgz",
+    "narHash": "sha256-ZmuuAcF2Ip6RWgracR2voR4UzCv6TalcUma1WB1SyZ8="
+  },
+  "0.11.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.2.tgz",
+    "narHash": "sha256-pwGx9uiObT4WobTdKhJ9DP6QH+a3EKzM8eBjVQW4zUk="
+  },
+  "0.11.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.20.tgz",
+    "narHash": "sha256-GhJNSFSV4XQ+VpeBXONIivyNs6y1+Y/+tetucSzhyrw="
+  },
+  "0.11.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.21.tgz",
+    "narHash": "sha256-Y1M7rnXr94Ogp5HTbn35AIQAmmUfSLbQWo5ERbrrUzA="
+  },
+  "0.11.22": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.22.tgz",
+    "narHash": "sha256-5iW5RPTmvWJWOR0NQTONeWySb21i6UPO6pwvg2FbYIs="
+  },
+  "0.11.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.23.tgz",
+    "narHash": "sha256-R0xHILbZR3h8zO4Rk4Gpk2bgN1RStunC+JwUfeM1cfs="
+  },
+  "0.11.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.3.tgz",
+    "narHash": "sha256-WJJ5fqaZAkf0q3hcCVbyAiBu53nsJbvGoC+t/+Q9LIQ="
+  },
+  "0.11.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.4.tgz",
+    "narHash": "sha256-1NturVr5YRYnhMZWSNw83iaGe18rRt7s4VWUm4uZvt0="
+  },
+  "0.11.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.5.tgz",
+    "narHash": "sha256-78saQY/CXi9XRvsdFksvsOR8axL/YiZ8w3FRLrOkZiw="
+  },
+  "0.11.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.6.tgz",
+    "narHash": "sha256-MBw+w2QXFsf0rykyjKFZSuLqzXfeShDdmLcXZH+fK8k="
+  },
+  "0.11.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.7.tgz",
+    "narHash": "sha256-QluGc+0j5haD7+jd7/J5Urs+FVjrjnv+CiA32NTVCJY="
+  },
+  "0.11.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.8.tgz",
+    "narHash": "sha256-s7eMbz+KDjISyRpkpYxwBmVOFKVhom2LXpTItwSbk2A="
+  },
+  "0.11.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.11.9.tgz",
+    "narHash": "sha256-xUFiJCSHYTr+lYcQgbLy+dxqR5mYxwoD6uuyxX7Rny4="
+  },
+  "0.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.0.tgz",
+    "narHash": "sha256-PwtJMdKfdWIGbFA+8/RohPiPyK7FvOp2Tzgt5T+c5hQ="
+  },
+  "0.12.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.1.tgz",
+    "narHash": "sha256-S59+WTjcl7eJegCWNQLYwm58GS5QEqZmSBY6hDyeNKk="
+  },
+  "0.12.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.10.tgz",
+    "narHash": "sha256-/QDKoOKFIvESsCUv2XG1Cb2oNMR45SPczRL9OzaDaGQ="
+  },
+  "0.12.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.11.tgz",
+    "narHash": "sha256-rClA9cxGDsxFB0MizzR6Lw8sjeOHLow0u5lSEcHNHcE="
+  },
+  "0.12.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.12.tgz",
+    "narHash": "sha256-C2RdEJje8zvEyty5dOKlTXLjZEfh6PbFNww8sTSSk9M="
+  },
+  "0.12.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.13.tgz",
+    "narHash": "sha256-8pmuOS+BQFiwcXgTOUI5Sa5h7GGVmkDlCZKm41TPmuE="
+  },
+  "0.12.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.14.tgz",
+    "narHash": "sha256-fHY4H75f2EXsO6gEiw7b2wY9C50wwkKJ127QGtmAE7U="
+  },
+  "0.12.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.15.tgz",
+    "narHash": "sha256-Z/Z20IVOLtmYGaP7jXWHxk0HOIyMeRQIuCgvtRQbXh8="
+  },
+  "0.12.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.16.tgz",
+    "narHash": "sha256-8G3xjXbO53BRCmQ67hD+4Z+sBSqOkULqveOnfb545Ao="
+  },
+  "0.12.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.17.tgz",
+    "narHash": "sha256-H96s8+LnfRA2Q43BTNFAWKQMlg6ynZJKda52Q6+tMhs="
+  },
+  "0.12.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.18.tgz",
+    "narHash": "sha256-K25O2KCtZbVaLGIC2aU/r1yBYjF33X6DvA6t74ZjB3s="
+  },
+  "0.12.19": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.19.tgz",
+    "narHash": "sha256-YAADHUV5mFZWC1BTlORQzzyxSHiqaAJbF3Mwk7d3nm4="
+  },
+  "0.12.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.2.tgz",
+    "narHash": "sha256-6/YSOeUfKA3pYInGnJtHFpzdHLhJAXHKlwVP1OoG+3U="
+  },
+  "0.12.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.20.tgz",
+    "narHash": "sha256-adDb73YIs6pe6DIRw37dycjaqRZzsbNC/T6bemKKYCc="
+  },
+  "0.12.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.21.tgz",
+    "narHash": "sha256-H0uMNHaD+74ZDfLZItyeKXyuVlCXD0KGn/kN8GSNP0g="
+  },
+  "0.12.22": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.22.tgz",
+    "narHash": "sha256-CqERg/3zXIc6Xt5xbAFKAgRTHgVj5MKzS74Fgc089N4="
+  },
+  "0.12.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.23.tgz",
+    "narHash": "sha256-E2xSUuC5IH6pdEBtBlb+/g6/OC83qMlOZiDkcKw4EEY="
+  },
+  "0.12.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.24.tgz",
+    "narHash": "sha256-oSboqrcohHMTAEZHztZ2+SD7RKIKY8ahXZnMZTHsuNU="
+  },
+  "0.12.25": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.25.tgz",
+    "narHash": "sha256-dCDzaCrqhm8L7GFQrJ7myGADz6DI8eIkLUQxV9u50c0="
+  },
+  "0.12.26": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.26.tgz",
+    "narHash": "sha256-YidG747NqW6+RxfXhurmP7dhXZN9JXrLMG+RNpORNt4="
+  },
+  "0.12.27": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.27.tgz",
+    "narHash": "sha256-pK5D2EQWF1vuQnUEqs95caw2t8s+sTDXjB8oHYHJ4a8="
+  },
+  "0.12.28": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.28.tgz",
+    "narHash": "sha256-P2/Ep9Yh0e8gKDssDmeoyfC37UMSE070mtijzMGd/Ho="
+  },
+  "0.12.29": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.29.tgz",
+    "narHash": "sha256-28+jGKZbouTP58LVnD4igg8nMY4qdaWLWCnzh+TlOxE="
+  },
+  "0.12.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.3.tgz",
+    "narHash": "sha256-MpCSw02GdmaScT3d6aP5WbA0w3whWFooi/r8257h22E="
+  },
+  "0.12.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.4.tgz",
+    "narHash": "sha256-5yP/VKSD9b6h6P02fyVXn4UGe9U7FmdObtoUqhShWco="
+  },
+  "0.12.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.5.tgz",
+    "narHash": "sha256-b4nMZtPl0oz7rtNeapn0mhgSZKqLWsv/W7LuqEeMKbc="
+  },
+  "0.12.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.6.tgz",
+    "narHash": "sha256-W6WMvnzAE7BAV7UPClsx43brgdwZCS34l7lyEV454gE="
+  },
+  "0.12.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.7.tgz",
+    "narHash": "sha256-BEMIQREJSXs8hV3YSf4IVMofh3+lQy69DA/C6j8VN48="
+  },
+  "0.12.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.8.tgz",
+    "narHash": "sha256-vr37rDDLSqHrv7Ff8h1nBKNuq8WAsPy1UtRf/v1bchI="
+  },
+  "0.12.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.12.9.tgz",
+    "narHash": "sha256-vVxWO87gBBW8+a6SvLq48DeM6UnJc1VRJWa+fogOkuQ="
+  },
+  "0.13.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.0.tgz",
+    "narHash": "sha256-Bcxp/nfg5rif2v/0X87qiwn6V7bAWtbBwGRwP4QYUZ0="
+  },
+  "0.13.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.1.tgz",
+    "narHash": "sha256-DMJDljUIs5ot82lvCA0KgfNwKZXBv4sfvnpbnf7Exug="
+  },
+  "0.13.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.10.tgz",
+    "narHash": "sha256-vaaeTChsQmCq1OLV/HXsBnLKDqXeIuoDQtwWRci/OSs="
+  },
+  "0.13.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.11.tgz",
+    "narHash": "sha256-wloB6dgxg1NUugRFHuJ0IvMauaX5komGdVi92GXB4W8="
+  },
+  "0.13.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.12.tgz",
+    "narHash": "sha256-TphBhx9a7at+mW34+p4ES2N0Zgp4RYZ7Et0t7kZjG6Y="
+  },
+  "0.13.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.13.tgz",
+    "narHash": "sha256-D2+w5Vlw8Af7XeMZ00LwrpQdw5YSaAhvDzzpracWEY4="
+  },
+  "0.13.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.14.tgz",
+    "narHash": "sha256-jjRLDxjbvDfQnxmr3NssgmfN7MNlsjWrM9c9dKpxAdY="
+  },
+  "0.13.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.15.tgz",
+    "narHash": "sha256-ZrVE+j/PwvqYdxLdZyC9BpfY4L/vx7aX3C+lAxGP0ds="
+  },
+  "0.13.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.2.tgz",
+    "narHash": "sha256-zlTUDqwWHLOD/7LpHV0bnS8witJMrZcFsq9TJ7NFcfk="
+  },
+  "0.13.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.3.tgz",
+    "narHash": "sha256-Y4e2ryWrfgA3pAMRGw6bGXLtYbe05uEg08cfH4K+ZAE="
+  },
+  "0.13.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.4.tgz",
+    "narHash": "sha256-Xyz6NDAhDQn8/epSu924e+BhBCRZhN7f9FNh3ONsB18="
+  },
+  "0.13.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.5.tgz",
+    "narHash": "sha256-AcqbM6KQZ1C45Gm2Fvdn19doL2GNXpH/WSlCbisyY6M="
+  },
+  "0.13.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.6.tgz",
+    "narHash": "sha256-lebWRWg3eNW6zGzb+mxehteKaa75Aha30ihPj548oGc="
+  },
+  "0.13.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.7.tgz",
+    "narHash": "sha256-fzKmL/9aj+EQfecpd6vGl5a55Xe12sEcHRrASH6Xqe8="
+  },
+  "0.13.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.8.tgz",
+    "narHash": "sha256-kmY8IS5WlFrW4A1nASHZgENr/rkzpt/su/zSHLSheNA="
+  },
+  "0.13.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.13.9.tgz",
+    "narHash": "sha256-3lpevdI2mjEn6KUGsxZa0rbNL2ZhWTLLewzvYW+fz24="
+  },
+  "0.14.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.0.tgz",
+    "narHash": "sha256-Fnoe/TQg9A5c1gt7hQ5nzenT89EgxiN7e/PUfCnCTOY="
+  },
+  "0.14.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.1.tgz",
+    "narHash": "sha256-I1e3P0u0weacXQGIqRHTNVYipLfGsDkP/UCry67U5ow="
+  },
+  "0.14.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.10.tgz",
+    "narHash": "sha256-j2H7osmwQ2dRBdSa6DZ7VwTVOgqDxLNXiEHIPMrRS1E="
+  },
+  "0.14.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.11.tgz",
+    "narHash": "sha256-xX5Zb2pDPMVBteXhn4a8t/I4/wV++GpGs/9hbsmVM6o="
+  },
+  "0.14.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.12.tgz",
+    "narHash": "sha256-2L5ianWl4XIW443oOxUyyo5UpFsZiA1tKxzPQoSbzLw="
+  },
+  "0.14.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.13.tgz",
+    "narHash": "sha256-dBZRQBsVRJKZJsYI+1kTkqXybbQUy5SFyctgVijmq6U="
+  },
+  "0.14.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.14.tgz",
+    "narHash": "sha256-Kelh5L0My8/DMfheBOeYbn+W0n1D3NJ5ylplbvKtmhw="
+  },
+  "0.14.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.15.tgz",
+    "narHash": "sha256-WW4rthJmlbStNAzkcT4juCLV9MSS6/SJx3z0soa+JjI="
+  },
+  "0.14.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.16.tgz",
+    "narHash": "sha256-s7pC+OKSIx3KeENAU1byHsRCkqi5IDHXsqN9ZVIhsyk="
+  },
+  "0.14.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.17.tgz",
+    "narHash": "sha256-HuHhyPWfi2ux/O5CAmTwcsZ4Uf9MGkj2t+JvVWXWOrA="
+  },
+  "0.14.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.18.tgz",
+    "narHash": "sha256-M1pg924WW2Q65TH+royE6xNdx1TP/CWp6oEsxZNmVNg="
+  },
+  "0.14.19": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.19.tgz",
+    "narHash": "sha256-1HHkZWjjMVDOzukZYQVlvsj2HvWFVyt4j0bgCfU+v5A="
+  },
+  "0.14.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.2.tgz",
+    "narHash": "sha256-AKef3EzgwgYJvitIr786c3dOFaJ/o8RODlHZSsb79Lc="
+  },
+  "0.14.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.20.tgz",
+    "narHash": "sha256-LufgQmrG4GrDOjHYbYlIi8LcJd0VH7im7TqYf+AQkrQ="
+  },
+  "0.14.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.21.tgz",
+    "narHash": "sha256-/DB6OcCsQFWWqlLain1VxXQ/JeCsOdLDasGC/cMYxxs="
+  },
+  "0.14.22": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.22.tgz",
+    "narHash": "sha256-FAIAOmbvenw+jkD6b7UVZ1kN1RY4zqXCVeYKqoIBwjU="
+  },
+  "0.14.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.23.tgz",
+    "narHash": "sha256-rSuQo61xEQYBvsYbCC3AsiZ6TH/gxjNO4Q0QNmI9I60="
+  },
+  "0.14.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.24.tgz",
+    "narHash": "sha256-FH/XGvQwa2tIAqnDD73B87s00+R2DLe18Rj0ah0qf5w="
+  },
+  "0.14.25": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.25.tgz",
+    "narHash": "sha256-5hF/T9/GERWxvGS+fwm5QJzGu+9yQqxodtPHXItxHRY="
+  },
+  "0.14.26": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.26.tgz",
+    "narHash": "sha256-yqskTNuoVzNw8itTjmWI1erf89IPnhVbz8cyRqejdQc="
+  },
+  "0.14.27": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.27.tgz",
+    "narHash": "sha256-71d/FbEcjV8ZdZ2QbrPELAwSaihCx7lfJMn3+SMEb5g="
+  },
+  "0.14.28": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.28.tgz",
+    "narHash": "sha256-xqEpHPVwMGynCD8f8VoCJm4hhJ9NKV+N0ZzDM7U0vwk="
+  },
+  "0.14.29": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.29.tgz",
+    "narHash": "sha256-g822L3FHTm3U1lk7OXsZ8LZsVLREExoaxdt2I0KD6Ps="
+  },
+  "0.14.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.3.tgz",
+    "narHash": "sha256-VyW8iZFLJb4gHU1eaqvVa8uabwm13nbkTSFYIlmT4e0="
+  },
+  "0.14.30": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.30.tgz",
+    "narHash": "sha256-i0vOIBiq+FDiOsG0iRF1qWFZHvpjOtHVUhT/qD+zYcA="
+  },
+  "0.14.31": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.31.tgz",
+    "narHash": "sha256-MlfdPJEuzfCrqYC2GXu144z3TvcpbPlNL859I0wE4Mw="
+  },
+  "0.14.32": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.32.tgz",
+    "narHash": "sha256-ztFgA2eRWVJGdu5lO1lQDpnTKLZWEYpiYbyttSS/44s="
+  },
+  "0.14.33": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.33.tgz",
+    "narHash": "sha256-g33AZ/9F30uBoIs639WtejxJyIDG30UBURLn6iBpFhg="
+  },
+  "0.14.34": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.34.tgz",
+    "narHash": "sha256-GwG+PK5og++GG/EnZLiRuRLtSncgm8i4mcV0MwgCxMw="
+  },
+  "0.14.35": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.35.tgz",
+    "narHash": "sha256-bCdqLSMyuI+8AUxSGaRwit+zMPzspEbOzlkNNebF0VA="
+  },
+  "0.14.36": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.36.tgz",
+    "narHash": "sha256-Tqf7ZfFMY/rFFYr8JmlYfJPvaaZnQpWumyp89Jsgpmk="
+  },
+  "0.14.37": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.37.tgz",
+    "narHash": "sha256-UO9xb8VFnkLiO6sMegZMNoEtdmaIRFA8bB5uoindl+w="
+  },
+  "0.14.38": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.38.tgz",
+    "narHash": "sha256-XG6fDB7NLlufFs9GLP9VrcZ0R6ndGRKiibIZS1QVawc="
+  },
+  "0.14.39": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.39.tgz",
+    "narHash": "sha256-7FJo8VFTYwHfqQGpz7JIEK+B7ogFu57bvaec1Mbv+hs="
+  },
+  "0.14.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.4.tgz",
+    "narHash": "sha256-SldoSSzIxAdHA1Uz4FcoVsmXaWsr8oqAiOAaXoYXhBY="
+  },
+  "0.14.40": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.40.tgz",
+    "narHash": "sha256-uIP8kN60UeC1kYkPth8ROSVzjCMHPfEArXUf+uCrE4s="
+  },
+  "0.14.41": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.41.tgz",
+    "narHash": "sha256-4hhXeVoLdiMb/GCmS5iMKAjXrgSq+QOvEcl2HusPqFs="
+  },
+  "0.14.42": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.42.tgz",
+    "narHash": "sha256-7/I8Crt2FUtomlWIoO/scl3teNYeVRs5BF0nG3FM83I="
+  },
+  "0.14.43": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.43.tgz",
+    "narHash": "sha256-y8vRROEv818yr07zwEpQFWD4BOhiE6TjCW+ttVA4T6g="
+  },
+  "0.14.44": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.44.tgz",
+    "narHash": "sha256-QMzlElMyURAfnvGu0saTh983E1CS8I4GVhSbSExYufQ="
+  },
+  "0.14.45": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.45.tgz",
+    "narHash": "sha256-kHYDh56VbHrcse73sN2iLbh2HK1+LQXe+bIO2r7qJOE="
+  },
+  "0.14.46": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.46.tgz",
+    "narHash": "sha256-jkpxQ+CVmOtjDgGrFiSFe1tM7OqNs20LWf1ukrMrtMw="
+  },
+  "0.14.47": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.47.tgz",
+    "narHash": "sha256-WVCOmgEe2OajM37aLD4Svc9Q2JB0YMtr/G3c7T8IHRM="
+  },
+  "0.14.48": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.48.tgz",
+    "narHash": "sha256-X+OanMIZUN7q+Gdwfcu1kLKGNy8hNrusZmWqe2TsEI0="
+  },
+  "0.14.49": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.49.tgz",
+    "narHash": "sha256-2bbXce3ell0Nokl2wUBRRPu3w2nlHZQHgNUg2C9ZOwU="
+  },
+  "0.14.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.5.tgz",
+    "narHash": "sha256-u2auz2rdJbbTt47Bv3m+8QvUayCTuVR+39fEj1bLWYE="
+  },
+  "0.14.50": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.50.tgz",
+    "narHash": "sha256-MiCA6yQjI/y25iMmxh49m/1D3eGdljsC/UaHLM1Orus="
+  },
+  "0.14.51": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.51.tgz",
+    "narHash": "sha256-hyhrK223mHIF3+YAAq3O+wVZfYMSMkchIilJNDTshwM="
+  },
+  "0.14.52": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.52.tgz",
+    "narHash": "sha256-iOGVmKO5W5+e2iM0ZuoPRgbApiSOHJUJDZfDK4Q805c="
+  },
+  "0.14.53": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.53.tgz",
+    "narHash": "sha256-wQkxucSx5+zkttDt4lMZ+tV3nrn17510PI+75di8HsM="
+  },
+  "0.14.54": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.54.tgz",
+    "narHash": "sha256-XDqciZIg3EAioCmb0fyR9fk7VOTcLoKWj02ktOZ7bHQ="
+  },
+  "0.14.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.6.tgz",
+    "narHash": "sha256-h8eb51XPI2/muaX6OlJKgriva469pPZp/N4wlX9TQkw="
+  },
+  "0.14.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.7.tgz",
+    "narHash": "sha256-qRr48vYSjkzbOoEffhW8B95nw9jMEKthBjf+/GpeioM="
+  },
+  "0.14.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.8.tgz",
+    "narHash": "sha256-xqgHngZV38wMpRyCM5U+Titlyw87884BfakaJvGWoZk="
+  },
+  "0.14.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.14.9.tgz",
+    "narHash": "sha256-Vc55jWG6KNEkEOagZxBjUZHAP4AcUXk49WI92XcUu00="
+  },
+  "0.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.0.tgz",
+    "narHash": "sha256-GypjCduuUl2kgQYA+m6ujA2/kvhhEjZbtlFI+kupQAM="
+  },
+  "0.15.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.1.tgz",
+    "narHash": "sha256-OkQYL3bSwgxEjikAisDpx1do5r4WU+jGlD4lNoO4aSk="
+  },
+  "0.15.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.10.tgz",
+    "narHash": "sha256-IvGoHnQYMHMUeoxDclgDnkC1Z8bvq8hnD0/YrJusehA="
+  },
+  "0.15.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.11.tgz",
+    "narHash": "sha256-qsKrhaCyWYNd6gR+4vRP/GpeTIYtQIy+Vavs/cxnrUA="
+  },
+  "0.15.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.12.tgz",
+    "narHash": "sha256-V7QbaYy/c2zr2h7rFS33NLzHFWOtYSGSWN/Y8Tft9jM="
+  },
+  "0.15.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.13.tgz",
+    "narHash": "sha256-RxGunNecUWYkfoh+FB5BKysC94vqlCQilRdrPvQMxhw="
+  },
+  "0.15.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.2.tgz",
+    "narHash": "sha256-/PywEWwDngZgQw6q1CrteWiJ5wAEXgTYRQOKdYs08+o="
+  },
+  "0.15.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.3.tgz",
+    "narHash": "sha256-62m3qAZHcaq/SMMKcDbSOAf90XjHL3ryBOWvzDSqeDI="
+  },
+  "0.15.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.4.tgz",
+    "narHash": "sha256-yEbTPO3XrkE4nrWgvyQVDrnHahuc/e/ZhdhS3t/ZDZM="
+  },
+  "0.15.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.5.tgz",
+    "narHash": "sha256-6uFg2ciwVrNdYSk5MVmzO+bZG4USPmWqIXGvo0oCn0k="
+  },
+  "0.15.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.6.tgz",
+    "narHash": "sha256-01CDLRE1vsalcXhIDvr9kB8nbP9Hz+9fasETYmjmC3I="
+  },
+  "0.15.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.7.tgz",
+    "narHash": "sha256-Cz4HQySjXEYHIrg7oAk61zMf3PelqyYUJXP1csolBl8="
+  },
+  "0.15.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.8.tgz",
+    "narHash": "sha256-DpQMBWBlnOTMBez8p3uxhbvpkCwGNUahlkNmNklX95k="
+  },
+  "0.15.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.15.9.tgz",
+    "narHash": "sha256-A5nKwe418NA0LYPLYYwdn00ndbU6HNtJhcv/kcIZQgQ="
+  },
+  "0.9.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-android-arm64/-/esbuild-android-arm64-0.9.7.tgz",
+    "narHash": "sha256-+RMOn6BFAweE5SMFOGiivPU0ns/5kahHT0Ywck8oPhg="
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "0.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-0.0.0.tgz",
+    "narHash": "sha256-Hoj+jHhaXz0vt6Abi38MGsPqbX5x535xC1NlVfojeqw="
+  },
+  "10.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.0.tgz",
+    "narHash": "sha256-bWgw4SUJoQcPGorbxP7LVUjic8D7XWCquSG0f6wdRk4="
+  },
+  "10.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.0-beta.1.tgz",
+    "narHash": "sha256-zPNB22YshrMm70V41WevpibqZpRkedncqwU9vKHClCg="
+  },
+  "10.0.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.0-beta.2.tgz",
+    "narHash": "sha256-pCeid9BK1bg4R6Mj6zy7pwp7DdIJFm4o5abOOK7c6bs="
+  },
+  "10.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.1.tgz",
+    "narHash": "sha256-M9XOpAdqj1He2jdi8R6NcST5PLfGzkq7g880dnsQnA8="
+  },
+  "10.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.2.tgz",
+    "narHash": "sha256-angsubm9eHH6I9n0f/uyiPCR4N+pcXIi8a8No2z1ehM="
+  },
+  "10.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.3.tgz",
+    "narHash": "sha256-0QRSXFBWaKXLQ71/V0A3avNrv3bp/Tdsz6H1n5+y444="
+  },
+  "10.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.4.tgz",
+    "narHash": "sha256-TL4IBCMdUrdak51mGY3LkLeg0ZOt9BtEVn4WEzUzh9Q="
+  },
+  "10.0.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.5.tgz",
+    "narHash": "sha256-+CJMo3ZdtcaE+utC1bflPEdT63yhlAknV+UgNjqD3OY="
+  },
+  "10.0.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.0.6.tgz",
+    "narHash": "sha256-8uzbGlKbnTbSVkreQONjTVUsES/qqnjeFIdyCFRg+vA="
+  },
+  "10.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.1.0.tgz",
+    "narHash": "sha256-ye01K/ddf+mtrafHub/G9GPs2ISBE7F91xgljjFwRTw="
+  },
+  "10.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.2.0.tgz",
+    "narHash": "sha256-yNL+BtjiS9Xb0A+z6QkUTV5RgEcZqkGIwDdjoDdVO+k="
+  },
+  "10.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.2.1.tgz",
+    "narHash": "sha256-sb7oKc7vyPsU6KiK9q1D7WSVPidRX4y9rLx5+x2anJY="
+  },
+  "10.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.3.0.tgz",
+    "narHash": "sha256-cyvukM7OfB1qaiUP+6GM+YMFlWpSBHbw701yvcAWTKI="
+  },
+  "10.3.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.3.0-alpha.1.tgz",
+    "narHash": "sha256-o7+kuoyy+N/B0xln+ZDb1BtTr2zjQkJxtr6IDJV8DAQ="
+  },
+  "10.3.1-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.3.1-alpha.1.tgz",
+    "narHash": "sha256-QGvEUznK374eMsaCTHlGENAHPvh5f9zhyiu1+vqDxKk="
+  },
+  "10.3.1-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.3.1-alpha.2.tgz",
+    "narHash": "sha256-Zr+z3ZwUVqtiMOwop9esZI0VrQm5VteZYZOsLdV89OU="
+  },
+  "10.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.0.tgz",
+    "narHash": "sha256-XNWwa59wrzHG8Ls6GTzcleK3ETB0LxmNYTGHbEH0Xdk="
+  },
+  "10.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.1.tgz",
+    "narHash": "sha256-uMLM0RMg3w1q8iOr0/iz9n5jHLMe7J212u0MdyYvo2o="
+  },
+  "10.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.2.tgz",
+    "narHash": "sha256-YcV1DbLmLvO6v+7eEqzbF+HEJJo/qoGm6xE65Kor1BY="
+  },
+  "10.4.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.3.tgz",
+    "narHash": "sha256-mpSUt2tk0Az62fvs4kDxAj9tEsn2byt+uoT78yBg798="
+  },
+  "10.4.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.4.tgz",
+    "narHash": "sha256-EU4WA3MzbDlPgv9g0v3sYhbWzWyXpDPUQ2AWEfOK33E="
+  },
+  "10.4.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.5.tgz",
+    "narHash": "sha256-DYEk5mC8uNMfHny1XyY8QByUFWP9Wk8m2g7SYo/6YWo="
+  },
+  "10.4.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.6.tgz",
+    "narHash": "sha256-9Aui8vl8XhI4b6uPBF5V13sdpWxf2kZk21Nbp/H3z8U="
+  },
+  "10.4.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.7.tgz",
+    "narHash": "sha256-yukP7HwCenoob9DGIk/IXZTIlSctjFnCmTzGdkNJ78A="
+  },
+  "10.4.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.8.tgz",
+    "narHash": "sha256-vNAq2ysk3gQc+Vl3w3yCM/ouCW2kfo+OeQGbV73dlUM="
+  },
+  "10.4.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-10.4.9.tgz",
+    "narHash": "sha256-ztHZhPp34dcUaNqrBd/1x2ty989imFIQAjYs45RM0jg="
+  },
+  "11.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.0.0.tgz",
+    "narHash": "sha256-c6skMZ/RaajfRfPJ3vuN/HzHAsjy4POwE8LH+k9dMpk="
+  },
+  "11.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.0.0-beta.1.tgz",
+    "narHash": "sha256-lWUADiuLIZi+b8PZR0/51ztfRLBP7Sw3Qcn6EmyszS0="
+  },
+  "11.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.0.1.tgz",
+    "narHash": "sha256-1ifrf96Fa5+G/AXREeTP/v93FDmBN8ZgjMEd7ccoPDc="
+  },
+  "11.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.0.2.tgz",
+    "narHash": "sha256-+tx2nlVA9aIj1W2mEDcBWigljN4qAqm/r8PXy+WRtp0="
+  },
+  "11.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.0.3.tgz",
+    "narHash": "sha256-+VR0Lp8kFzv3VofEF/HFStlz/1dkBAOqZCIuVhx3l6U="
+  },
+  "11.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.0.4.tgz",
+    "narHash": "sha256-hIvrqW3VXrB7fOrcG0vrHwDxHxz66S26EyAu2nEswBU="
+  },
+  "11.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.1.0.tgz",
+    "narHash": "sha256-ScmdpkJl7knyZdLeFMVCJvJbHIyxDb0n3jFGDqMW3nc="
+  },
+  "11.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.1.1.tgz",
+    "narHash": "sha256-QMqqLNb0HezLRDqwceBIohnmtDerjJS4G8MDytQvnQY="
+  },
+  "11.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.1.2.tgz",
+    "narHash": "sha256-M+wyzv2ogIAliHnsXs3kv+9T77P6YMCEPCxSDNyngQ0="
+  },
+  "11.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.0.tgz",
+    "narHash": "sha256-G10jS+B+y75BjCCow1qSQnXHwvpX0nI5y9dGS1WREBg="
+  },
+  "11.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.1.tgz",
+    "narHash": "sha256-EZtTEOQ3j+oftU0Qb28z3FdM9+iRHqqAS7axHsYCIN8="
+  },
+  "11.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.2.tgz",
+    "narHash": "sha256-vH/hi2pI28z2J1gX6LHfsfg6bgz3UBDQHQ20UOI7ysw="
+  },
+  "11.2.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.3.tgz",
+    "narHash": "sha256-FKfAPHdL5A9ZLQdUrvzQZf5UvTAbuLsh/JuLGfla2cA="
+  },
+  "11.2.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.4.tgz",
+    "narHash": "sha256-PhaZPB0FmgzFQA+TleRMeOs1vzr54gWQjclkH2EAyxM="
+  },
+  "11.2.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.5.tgz",
+    "narHash": "sha256-C4CwvZe/lkQguBM+FdSjfV/CNfezRLkenqKtqQJi/ho="
+  },
+  "11.2.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.6.tgz",
+    "narHash": "sha256-6dJvQQ1POFWR1YlX+YSKn5clrI3uFhuWm01DOvSY10c="
+  },
+  "11.2.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.7.tgz",
+    "narHash": "sha256-ogqwyY6x3S+TOZ+rcAYy+EYDj2PSTiBhORLczJIVd9s="
+  },
+  "11.2.8-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.8-alpha.1.tgz",
+    "narHash": "sha256-E0RorcrcbeINv+yD/BnHgESPSK7xc38DExyeu57Yyos="
+  },
+  "12.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.0.0.tgz",
+    "narHash": "sha256-lBh64LV8MAoqDStv7t2x0z7xH1ZSM5n1oCPQnSt9Xxg="
+  },
+  "12.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.0.0-alpha.1.tgz",
+    "narHash": "sha256-5yULzOuJZkD8X+GAPtTQYk06oaKV6pqJDrfqcJHZzs4="
+  },
+  "12.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.0.0-alpha.2.tgz",
+    "narHash": "sha256-kQConPaBxFrj74GDv3T5Yc8JGc6ftNwOtTDAXVNOEpk="
+  },
+  "12.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.1.0.tgz",
+    "narHash": "sha256-yHL7GnlZkIIoto380vzYOmN943dmRE1lNNfUmPom7WQ="
+  },
+  "12.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.1.1.tgz",
+    "narHash": "sha256-ouyCQNlSSDmpxYPNrH9J0jM19HUADlDu2k0p3puigKo="
+  },
+  "12.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.1.2.tgz",
+    "narHash": "sha256-o4SkwE8OkWtc0Z6mEP/BS2YAq87SNAHxwKsNXLuIku8="
+  },
+  "12.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.1.3.tgz",
+    "narHash": "sha256-gAtVNQ+CNPvixlQfRTEAuCMWLyzV/VeYYrKy+FvPLMw="
+  },
+  "12.1.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.1.4.tgz",
+    "narHash": "sha256-sGUaMs0Sd+C3uqLhOiBeImN3Zi9b8a+sZ5YzR5hi+h8="
+  },
+  "12.1.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-12.1.5.tgz",
+    "narHash": "sha256-RcCYrkESYTFAZZN3vpdVLrCVHYyuSCvze+/xYk1Fm/Q="
+  },
+  "13.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.0.0.tgz",
+    "narHash": "sha256-ngDrmVXdsaedHbQ7+eudoTlrcAV+k7LzWKLGpakRjRg="
+  },
+  "13.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.0.0-alpha.1.tgz",
+    "narHash": "sha256-HmpUrIOhyK9wivteuDdvwszR8lvbRk2CjN+c2zbDe84="
+  },
+  "13.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.0.0-alpha.3.tgz",
+    "narHash": "sha256-N7VadKAW74IleVScGpMXcHqVvOadZG5hdV2A0WmAOSg="
+  },
+  "13.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.0.0-alpha.4.tgz",
+    "narHash": "sha256-GRG+EP5lUwAMqI3hLzraHw+3VLaTiFhNHeKH3a4DAOg="
+  },
+  "13.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.0.0-alpha.5.tgz",
+    "narHash": "sha256-3Nf9m67xTuuxWMgSGKFCcDkMaDE702j128WLPznPPkI="
+  },
+  "13.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.0.0-alpha.6.tgz",
+    "narHash": "sha256-VSoSgaHt1MJ2vXL/2VzTRsGNx7xHldg0kfp+kfw+39A="
+  },
+  "13.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.0.0-alpha.7.tgz",
+    "narHash": "sha256-Srufzf5vuMw5sNLVjPE3l9JacR1cF22Xe7EtNk2xGLg="
+  },
+  "13.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.0.1.tgz",
+    "narHash": "sha256-6vbYGLVaNoraGaXCw08b/i5fVkXZ4Pii9trXSnunAr4="
+  },
+  "13.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.1.0.tgz",
+    "narHash": "sha256-3ZlA4i5zA5m+12jNCLHcBt1pUraVwdfJnu1/3/aWUNg="
+  },
+  "13.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.1.1.tgz",
+    "narHash": "sha256-tPy6LJ8dzOQ8gIyIfhCCATzrkolr67Z5esT6UZkpfpA="
+  },
+  "13.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.2.0.tgz",
+    "narHash": "sha256-HCPb1VWyM1HSbLWZTzH3X0E1xOV/EcI9FMKwr9pLRfw="
+  },
+  "13.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.3.0.tgz",
+    "narHash": "sha256-1hF4CxzmsRgrunEVOvLh9NwoOjL2xu+a4i30gb4mk/4="
+  },
+  "13.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-13.4.0.tgz",
+    "narHash": "sha256-IdH1/mqkbGU0f8pWAxBgP1J+yhR/JScLOCbQgmkuRc8="
+  },
+  "8.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.0.tgz",
+    "narHash": "sha256-6aeWqDz9xTjUoiuysYRIxl5oZ9SlfWInXvWwjEjONNc="
+  },
+  "8.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.1.tgz",
+    "narHash": "sha256-icZL6oJSfxoAeqq4p3AlVASUY9VRRtoATC0Nj6QUgU4="
+  },
+  "8.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.2.tgz",
+    "narHash": "sha256-9yRzSKMfiBFzT0oXUnD3pUXor3dW04UOwxIhsDU1rSk="
+  },
+  "8.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.3.tgz",
+    "narHash": "sha256-AlQu34dtJRDc2mEDnKUFImNYVoGuIjxjGSyPcYYvZnM="
+  },
+  "8.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.4.tgz",
+    "narHash": "sha256-2rCLoRJS7v8vgkG0X736AgPGrCe4/pTOKu5OEfq5abw="
+  },
+  "8.0.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.5.tgz",
+    "narHash": "sha256-bERLyD2UxUuhhPsGiH9rpkhKL/c5F0dAcYd54Ydt3gk="
+  },
+  "8.0.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.6.tgz",
+    "narHash": "sha256-Il/YYMTvO2t6OO+nlUxkt5ZwqIjZUoUY2INwbRNnvS0="
+  },
+  "8.0.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.7.tgz",
+    "narHash": "sha256-vqK4nZ/ZtJJ7WjdhG02EMMzrQfaBWFZocAyMVA1iIWc="
+  },
+  "8.0.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.8.tgz",
+    "narHash": "sha256-QnKFw30WIuRWaPowOiAX2JL3+LpZwoyk7npRqHl/KbQ="
+  },
+  "8.0.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-8.0.9.tgz",
+    "narHash": "sha256-LM1ocqgGEDoHadjyMbtKJJd0qd+/e0umG9kd1tqc/c8="
+  },
+  "9.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.0.0.tgz",
+    "narHash": "sha256-uUIWKzyH0jbc3peYicsc2hnvqpJDaXigtQFc9yWJp9o="
+  },
+  "9.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.0.1.tgz",
+    "narHash": "sha256-RYa9A28XAMhcoRC6cySTQjs3Cx0qZSzq3hxQ6170kbU="
+  },
+  "9.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.0.2.tgz",
+    "narHash": "sha256-WG8PAp3ggFcUy+5NRnyUe8gHS7d0j0KBcMt4Nc2En+4="
+  },
+  "9.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.1.0.tgz",
+    "narHash": "sha256-N+FG53j8Xg7grHdK1llcaXRlYl0QklcpHT68rnYzGrY="
+  },
+  "9.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.1.1.tgz",
+    "narHash": "sha256-vEehlkZT5kBo7JYzUAVRg6qL8+tc7a9zQaWDrz5yyzc="
+  },
+  "9.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.1.2.tgz",
+    "narHash": "sha256-cBLvfEaTn6qV0ReLdsjZHPg9vH5YoG4olMzxMuLm0kE="
+  },
+  "9.1.2-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.1.2-alpha.0.tgz",
+    "narHash": "sha256-6oVbyNU+cecdUQlGBhy7d6lod7+KIiJ9kYmrznRokGA="
+  },
+  "9.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.1.3.tgz",
+    "narHash": "sha256-KreQCsZRHwIoTy5PaAPKIMfaNsXQJnoDHfgSsR/Z4vA="
+  },
+  "9.1.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.1.4.tgz",
+    "narHash": "sha256-zR/vn2vRfOVRylO/OusRMS9JBuKcruMQsV9WLzQ+VZ4="
+  },
+  "9.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.2.0.tgz",
+    "narHash": "sha256-F/VEqfto07d6ze9pzjf9bvwYkqD4eliyVoWMvbbo804="
+  },
+  "9.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.3.0.tgz",
+    "narHash": "sha256-t9kVRpNogOs5NHaEpEuIkDSwvWlBG/clvdpI8XjRLQY="
+  },
+  "9.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.3.1.tgz",
+    "narHash": "sha256-U5w899Sz9r2Hsk2gq8Nj6Zjh00vXx+kk5ybQF4tSrYo="
+  },
+  "9.3.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.3.2.tgz",
+    "narHash": "sha256-vfSnCDPKUsHiC5aHTVvJ3sNXAxruMzkyYz/2FEqauYc="
+  },
+  "9.3.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.3.3.tgz",
+    "narHash": "sha256-iNBbhjacHZtTAqDwE3x7XYL2mCNJuwcdOvXwiNeeV5U="
+  },
+  "9.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.4.0.tgz",
+    "narHash": "sha256-AYTsjC/7F0hi2X7M27Vuq2wo/oz2RNCFsP4/wMHUc+Q="
+  },
+  "9.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.4.1.tgz",
+    "narHash": "sha256-muvcLSuREaLDliFZNm9geVZgdiKIviwfoc6VASAXTmA="
+  },
+  "9.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@testing-library/react/-/react-9.5.0.tgz",
+    "narHash": "sha256-EM/lycVwWpzPVr61s+agpJpklWWypNlZ8MTDsCOBTdA="
+  }
+}
