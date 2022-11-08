@@ -1,0 +1,852 @@
+{
+  "1.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.1.tgz",
+    "narHash": "sha256-TZKX5onPztVydhCVXGn0fgcwQZ8wNXtyeo8OY37aM7s="
+  },
+  "1.0.0-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.10.tgz",
+    "narHash": "sha256-gpen7y18PpHrz9Qombz94j1soyVMVROYjTczbSPbz6U="
+  },
+  "1.0.0-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.11.tgz",
+    "narHash": "sha256-v4eya19gDNSiAitJFkO+geVBrtvJgpmlp/BhDA2F7N0="
+  },
+  "1.0.0-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.12.tgz",
+    "narHash": "sha256-ylF3mE2gMTw0bNmIKQV36k78q7R8Ck09JOuIDcgnD/M="
+  },
+  "1.0.0-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.13.tgz",
+    "narHash": "sha256-Vz99LdyzhKR3WczagsudYbyTKLXahawlAzCCndBIADQ="
+  },
+  "1.0.0-alpha.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.14.tgz",
+    "narHash": "sha256-IaRVtbOS44KqYQ8rgriVKkeoqeGwRrrv6h8loEbd7wM="
+  },
+  "1.0.0-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.15.tgz",
+    "narHash": "sha256-mgwNchG0TWEkIQHjHnJaT8JA55uDCOHnEgllc2Y+LGM="
+  },
+  "1.0.0-alpha.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.16.tgz",
+    "narHash": "sha256-UzQOG2iHxNM/xCKSQs/Fhjeocu8LTBCEEOwl3+VBYkk="
+  },
+  "1.0.0-alpha.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.17.tgz",
+    "narHash": "sha256-fup8ukLknn8Arn3r3/cLIHcu3ED3VPFTqbytQurCkic="
+  },
+  "1.0.0-alpha.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.18.tgz",
+    "narHash": "sha256-6anV0EJlv8dxGnYSG/dYTZGVlMB2h16VETJyLsyIWQg="
+  },
+  "1.0.0-alpha.19": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.19.tgz",
+    "narHash": "sha256-g6I4WwQ0EHb3/R9/MtihxpRkmAWCgK2olI7Og7VBwas="
+  },
+  "1.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.2.tgz",
+    "narHash": "sha256-t1hNwpI2e+73oAu14ylYKLP2sL3mdDb2CXF2vUAjZmA="
+  },
+  "1.0.0-alpha.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.20.tgz",
+    "narHash": "sha256-HGX1kadtvVNiBQnqBDWXjzQGeebLl5H1tkjxN8zaca4="
+  },
+  "1.0.0-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.21.tgz",
+    "narHash": "sha256-pyIQuPT2XSrqdiSJaWLm2FIDbDkMEr99SXES3+v8fBs="
+  },
+  "1.0.0-alpha.22": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.22.tgz",
+    "narHash": "sha256-39vJO7Vy4TV6gjdn9Vnb3bekyV/EXMm38ePVIDyJvTw="
+  },
+  "1.0.0-alpha.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.23.tgz",
+    "narHash": "sha256-jrknkof42bDhrc0CAtBrV7owki19nsY3xH/lgEk0zxw="
+  },
+  "1.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.3.tgz",
+    "narHash": "sha256-s0ooPm8wmn6AEgno08vYLVrED5ep08Yk5+0C6KeWbvU="
+  },
+  "1.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.4.tgz",
+    "narHash": "sha256-LQXFJTFGuRGXKRh0MKaDS/aT+gsE49miEEzuFg7Mmcc="
+  },
+  "1.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.5.tgz",
+    "narHash": "sha256-752Qwe/i6GavItqVFwumgH7iXfx3xp7L3+1DStBY0Ig="
+  },
+  "1.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.6.tgz",
+    "narHash": "sha256-dcAL6sxYGZWZ4qZheKPNubtVsHOkNC8r3Dc/afUjyT0="
+  },
+  "1.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.7.tgz",
+    "narHash": "sha256-DbHKNrRhzyjwtHhUJApDtAWQT7Nbl9y4jZK0X9P1wk0="
+  },
+  "1.0.0-alpha.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.8.tgz",
+    "narHash": "sha256-xOk4TcqkX4MQFiix2/DUhDNmKFLehpejZeQq02UmpD8="
+  },
+  "1.0.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-alpha.9.tgz",
+    "narHash": "sha256-K+38ZhmepcjU5E6TRU/po0WCiLCC5zwAoxJiVLqEOLs="
+  },
+  "1.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-beta.1.tgz",
+    "narHash": "sha256-aeapp9swJlfjUSYahixHVYLOzn6UXxJjM6OL/wI6OaE="
+  },
+  "1.0.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-beta.2.tgz",
+    "narHash": "sha256-9V7RbiJyWE4pLDGjGe2IJtT+2JQtkPzwvd++ctALFiQ="
+  },
+  "1.0.0-beta.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-beta.3.tgz",
+    "narHash": "sha256-Au1Z9SZJxP0Fh0gH4FPV5+6dyYlvxEynFjlGLBZF6hI="
+  },
+  "1.0.0-beta.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-beta.4.tgz",
+    "narHash": "sha256-ZVM9yUS2TcD65lXv6BrTGs0vPMY9B/dVzaf2QaEAkHM="
+  },
+  "1.0.0-beta.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-beta.5.tgz",
+    "narHash": "sha256-dS1kn3r9F/IQ4xtSq7MKdRun3ZYypLQkbNfwz9nXEs8="
+  },
+  "1.0.0-gamma.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.1.tgz",
+    "narHash": "sha256-ZbUDfndCz/muldH0shByXcVhl0shtvu++X53wjvjSqE="
+  },
+  "1.0.0-gamma.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.10.tgz",
+    "narHash": "sha256-mofwaQoVTLG3cFk9Vi3OUinmzYWaiCwtRBYReMMVm5g="
+  },
+  "1.0.0-gamma.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.11.tgz",
+    "narHash": "sha256-H9zRns9CsRjnvXwV/pRw7XdlXt+6EEYeUMOwB7SjRlk="
+  },
+  "1.0.0-gamma.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.2.tgz",
+    "narHash": "sha256-OyCwIYrRHS5FMKmRo9u7IY4tr9PIl4yLRGs3wH+B2Gw="
+  },
+  "1.0.0-gamma.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.3.tgz",
+    "narHash": "sha256-Wk28V5pPB53iBfLKD7GkSAwGBkG0hmWnPwqH3LKO75o="
+  },
+  "1.0.0-gamma.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.4.tgz",
+    "narHash": "sha256-fFHJa0HDxz4An4BSeBFirA6bkelnr10IxyCx+LsxU5E="
+  },
+  "1.0.0-gamma.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.5.tgz",
+    "narHash": "sha256-AvKNEiKP8TKNFLqNkivvPtT5sdRTR8bm3Zqk6ZK2m28="
+  },
+  "1.0.0-gamma.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.6.tgz",
+    "narHash": "sha256-KgqDbK2w12g+hCZ6+XMkPCxMeEYqILuc59EXQIF/qDA="
+  },
+  "1.0.0-gamma.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.7.tgz",
+    "narHash": "sha256-pey0ju0KAnOXZlaRkjPH1rUP+jztv6LJFLr215D2DpM="
+  },
+  "1.0.0-gamma.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.8.tgz",
+    "narHash": "sha256-LDEqZnAnklMBV2udmNbjYQ3eOYDDpjKRCWH72TTkMNU="
+  },
+  "1.0.0-gamma.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-gamma.9.tgz",
+    "narHash": "sha256-ndjk+oeJRz0LrTYJNsrvTSvR8XU69MrZIAxS6JEOEmA="
+  },
+  "1.0.0-rc.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.1.tgz",
+    "narHash": "sha256-bZ65BUblp8DvrzaoQMxTojSk35RGm6LdjhYPTZuY+YU="
+  },
+  "1.0.0-rc.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.10.tgz",
+    "narHash": "sha256-fvktyX+eydviN4/80NLaSrQ5ZCwDCiPclhTEzRq2S50="
+  },
+  "1.0.0-rc.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.2.tgz",
+    "narHash": "sha256-PHdJxWig9fWYLGsZJkmZjNn5MHbT8fIMZrcJFZfbw5o="
+  },
+  "1.0.0-rc.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.3.tgz",
+    "narHash": "sha256-ckXy3FVzdtvIuaKutXJh4NGSeLWYQztYdfeVNkwVHO0="
+  },
+  "1.0.0-rc.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.4.tgz",
+    "narHash": "sha256-lwjINYUxUbaxLc99klx4JYfeRyuKp5/fKI3rmelJeQI="
+  },
+  "1.0.0-rc.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.5.tgz",
+    "narHash": "sha256-NZ1B4SiFwBS5AFI5rFOmLG7KmR0z2UXc2LFSc8IHmQY="
+  },
+  "1.0.0-rc.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.6.tgz",
+    "narHash": "sha256-MUK38kdoyTqtMoSIjnm3R2Rkt6iP7Y2BIAObLvG5TK8="
+  },
+  "1.0.0-rc.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.7.tgz",
+    "narHash": "sha256-cngVkkIK2qHuWh7otTs97+h4M3U7FCIVbu/rQHcyAZ4="
+  },
+  "1.0.0-rc.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.8.tgz",
+    "narHash": "sha256-c0M5KJJ4TtlKtSu7CNkisu5+MXtpz29t/yDhrg2wf0k="
+  },
+  "1.0.0-rc.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-1.0.0-rc.9.tgz",
+    "narHash": "sha256-HAPI0+TVZyre2gFdN1iJMyLHkMh/w4LUzGvL5tB7SjU="
+  },
+  "3.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.0.0.tgz",
+    "narHash": "sha256-+XQZWW8EfiQa0P4TcIDl/iU7tZEYteZksPmYaro/6b4="
+  },
+  "3.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.1.0.tgz",
+    "narHash": "sha256-B6g4U+BmT5Hpw2AYlC7WoXHFYJk75Q52Huq2POZADys="
+  },
+  "3.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.10.0.tgz",
+    "narHash": "sha256-YLcF6Evd9zTeB6XxQMKBNcmSMpVBcn/eqoJVi/e8nr4="
+  },
+  "3.100.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.100.0.tgz",
+    "narHash": "sha256-YOP15KjKBt/xF3SaXX+p9MGKaY6wUETAAv8sD/bUPAE="
+  },
+  "3.105.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.105.0.tgz",
+    "narHash": "sha256-QgMLqmcv/WRHzF/SRXIzznQvf9O8xBiG/Soiw1roAgw="
+  },
+  "3.109.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.109.0.tgz",
+    "narHash": "sha256-w+mu2FhMJKvwT1onNLNh2PHk67x5VOEtvShZMZvkuVM="
+  },
+  "3.11.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.11.0.tgz",
+    "narHash": "sha256-sT/0QWtkcJKHCjK8ESxnpq0EtIYvupafvDRT4avNv5Q="
+  },
+  "3.110.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.110.0.tgz",
+    "narHash": "sha256-4OXdpMgA0CsftKsVGvxK1JKHxS6dC9DyEKXHGaV+y0A="
+  },
+  "3.112.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.112.0.tgz",
+    "narHash": "sha256-xTjUJJkHEQteM6WN9jBZnXrx4OrmUueNw3Blda79tG4="
+  },
+  "3.118.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.118.0.tgz",
+    "narHash": "sha256-+jhNuIVK/TYAvOw4JIzpgDyCovw2k5cQAAmeDgZsA10="
+  },
+  "3.118.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.118.1.tgz",
+    "narHash": "sha256-BE+xafHDzd1amYaYFwJnyppHzYcvwLD1m75bl2VK7c4="
+  },
+  "3.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.12.0.tgz",
+    "narHash": "sha256-GVm+LYrvXz2yFo3niM83n+LMOh3rvqj+70sJQ5lslG4="
+  },
+  "3.121.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.121.0.tgz",
+    "narHash": "sha256-O5vsp+tOjhpaPljQcC98kwsZ/oZU/usivxtopLIqP5s="
+  },
+  "3.127.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.127.0.tgz",
+    "narHash": "sha256-6AkobhoyeIx1+D+4yo52gnluPzY88LVKc8QmBYm0+UY="
+  },
+  "3.128.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.128.0.tgz",
+    "narHash": "sha256-8sKwupzxnOcy8+v8Mc5BiU/e50E8wgiH/Mv5c/9YMCE="
+  },
+  "3.13.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.13.0.tgz",
+    "narHash": "sha256-/BZlv+YhP8H718vbTVEWzEH5u4iv2X5NUD9LjuEuxio="
+  },
+  "3.13.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.13.1.tgz",
+    "narHash": "sha256-hl9xLQ1T1U10GyEKP3pwOud601uT8FkuaUgHG0++0o4="
+  },
+  "3.130.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.130.0.tgz",
+    "narHash": "sha256-SB1nsQfujShFCEmlgeRRP9oBbjh6YPzRvN7oSuoMW/s="
+  },
+  "3.131.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.131.0.tgz",
+    "narHash": "sha256-IX944vmAWofqziZ3dFIJccNJsQmIAjSS4r1OPSZO5mY="
+  },
+  "3.137.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.137.0.tgz",
+    "narHash": "sha256-z1I01lFy1VJs7btVWadACGARNnnnDYng1L8MRsQTsT4="
+  },
+  "3.14.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.14.0.tgz",
+    "narHash": "sha256-slCEhvt1oDOH86llY5C8cbtiJSaOVZj0QLw86a/AqkI="
+  },
+  "3.141.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.141.0.tgz",
+    "narHash": "sha256-1WsYimm4wTFy17Ll+pZnoGDoBl42bUjrNmBw11r3sBY="
+  },
+  "3.142.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.142.0.tgz",
+    "narHash": "sha256-jiW4WDxkExrmKWAjc1QFYL+n2LMZGOflRvE8RLITj1o="
+  },
+  "3.145.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.145.0.tgz",
+    "narHash": "sha256-xzVoHRKzSb/JZTbKfjYQgEykQu+AdKtsVW894BAEh1w="
+  },
+  "3.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.15.0.tgz",
+    "narHash": "sha256-PDcXBiUiwTDHp25rx83FpD4h48Vgbva+Mo+RwwWhT7E="
+  },
+  "3.150.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.150.0.tgz",
+    "narHash": "sha256-hogrIKGj3hHNRKlRusSJV0RGvLTWU9HQlQlxm+q4fcU="
+  },
+  "3.154.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.154.0.tgz",
+    "narHash": "sha256-Bby/dwxQGBSMQw91tyfHQFE51RZKNEqmKXyjSGved8w="
+  },
+  "3.159.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.159.0.tgz",
+    "narHash": "sha256-8nW140BBVF7nZP9ka89fzxIbJH1+KoyshvdUi0l1DYc="
+  },
+  "3.16.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.16.0.tgz",
+    "narHash": "sha256-0Dh4WY7dE54AuLFlad7u9cwxqt4uGCrKpRul1Ss/6k8="
+  },
+  "3.160.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.160.0.tgz",
+    "narHash": "sha256-PCkdvPqorzwzfdz+qUawB1AU8To1BKtWoQ3EJ4HzSCc="
+  },
+  "3.161.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.161.0.tgz",
+    "narHash": "sha256-7pjLHBJNpt6hnOGgKACk0jNPzHRdLW2Wlkf5u+1dpBg="
+  },
+  "3.162.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.162.0.tgz",
+    "narHash": "sha256-1WQ0UMq1HbYB+QXXpfsESybAWUdY3K/jcgRcFb9TwxI="
+  },
+  "3.163.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.163.0.tgz",
+    "narHash": "sha256-eTHBPT2omZLH3l1H98ehjR1DOf9XJPfB6t6RR/O3KxQ="
+  },
+  "3.165.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.165.0.tgz",
+    "narHash": "sha256-kBKax5DF43NMyfGnlKuCpGNTP06BXYLahOnDQnctMDQ="
+  },
+  "3.168.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.168.0.tgz",
+    "narHash": "sha256-zoMfRH1gKWSexu+COMlAMn+3gAUmo4/8AU1Fwyyinvg="
+  },
+  "3.169.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.169.0.tgz",
+    "narHash": "sha256-sz5NGC2ShFw8sWLUoTSfxe+NyHESV2I4Fr9Vm694TFE="
+  },
+  "3.17.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.17.0.tgz",
+    "narHash": "sha256-7YUjk6hpyuec9pQrp0Fc+ZCVajSETypUZbG9cNVlIgU="
+  },
+  "3.170.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.170.0.tgz",
+    "narHash": "sha256-JSmIMfsjbB/eW3KIXZ7kaAXRrUcUbET3sHGsqeC+RPs="
+  },
+  "3.171.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.171.0.tgz",
+    "narHash": "sha256-2s7jANoEzdv2BuG84vf7n2ty54+eWpiR9hl5Z4T6ma4="
+  },
+  "3.178.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.178.0.tgz",
+    "narHash": "sha256-BgOSvzqlyg+IaM8wYXUCoywwVhgRJ6V0DNi7d1Ynx2k="
+  },
+  "3.18.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.18.0.tgz",
+    "narHash": "sha256-quV1ry7QdXHtnhZ5fDFqlJN/1CEziZWZSJBOG3hQtnY="
+  },
+  "3.180.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.180.0.tgz",
+    "narHash": "sha256-vBP1T+7x1uO7OummtAKgDs4baU6ndFkQy5JVIbOaVG0="
+  },
+  "3.181.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.181.0.tgz",
+    "narHash": "sha256-sTMk/soEoBOg/BgqV6YItfUjnrzO2v4b6Qc7DZO5Pj0="
+  },
+  "3.183.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.183.0.tgz",
+    "narHash": "sha256-mAgk2tik8xIgkRnIhbAAYdZkDdwgxCbhzMtZiX7Bm6U="
+  },
+  "3.185.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.185.0.tgz",
+    "narHash": "sha256-PDmHNgpO1MpZ701rcyfnzpGngZzS3+wy2yElRaC6PMk="
+  },
+  "3.186.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.186.0.tgz",
+    "narHash": "sha256-ROQE5TvP/g3z10kBtuvcGrprRubZFvyQzV3tUn6Tbi0="
+  },
+  "3.188.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.188.0.tgz",
+    "narHash": "sha256-Xxn07kSqP074KSfynebuPcLEvuFZQydnFhhi9m+PIgM="
+  },
+  "3.19.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.19.0.tgz",
+    "narHash": "sha256-bRzbh/erHFQ54LBwjEWBo8fj7sDLHsKB7bxnfqv2d6g="
+  },
+  "3.190.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.190.0.tgz",
+    "narHash": "sha256-PNkboN3UYofZ6173nVZPW0rpfXyr3hXlNt391+BEXAw="
+  },
+  "3.193.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.193.0.tgz",
+    "narHash": "sha256-hnfpiKON9UD2wirtOm/+rDSlUJ8FkXS15H/KZy1u0Q8="
+  },
+  "3.196.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.196.0.tgz",
+    "narHash": "sha256-O3POp2/8kyfj2syI7x7IEak7J5KiezRJZJGbpVVhFBs="
+  },
+  "3.197.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.197.0.tgz",
+    "narHash": "sha256-P15uDJ/OFSwe8lKssSglaFQnYROfS0megdrsPWq5j3c="
+  },
+  "3.198.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.198.0.tgz",
+    "narHash": "sha256-bXNA0AuQK7oFFMFM0P1cbYt14dSwdpI6UZen57SboSU="
+  },
+  "3.199.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.199.0.tgz",
+    "narHash": "sha256-ws+YYqO0+sIIU90K+dyCtw4ZSj9iH57V9LrFZiNyXbU="
+  },
+  "3.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.2.0.tgz",
+    "narHash": "sha256-L94zCGwOXL/B8bIvbvlnO/GcunhIYR1x9T4CNUe2rWs="
+  },
+  "3.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.20.0.tgz",
+    "narHash": "sha256-ukiIygMOcY5W5heGZ6To7EbkJUwUsOg9S8Hy2jYnLZw="
+  },
+  "3.200.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.200.0.tgz",
+    "narHash": "sha256-2iaYTKpD/TbeFBgeXTI5UodQxrBa7VVGu06OUKH4odI="
+  },
+  "3.201.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.201.0.tgz",
+    "narHash": "sha256-Vngsce/KGNFnwDR7qhhYWfVQYy4U00dIPaqUE2Tz49g="
+  },
+  "3.202.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.202.0.tgz",
+    "narHash": "sha256-D3HzKxe3O2SiCj89yVpXeDp1yZxBfnWN1vhllkngfns="
+  },
+  "3.204.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.204.0.tgz",
+    "narHash": "sha256-DK+T6Ez8Ce39oPD6jaQ0gvla8oSjKeYe1V9cUYEX3u8="
+  },
+  "3.21.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.21.0.tgz",
+    "narHash": "sha256-TKQ2vXNtYV2NEz7doskvQqz3qct5h4N00e5KMGQ8wPk="
+  },
+  "3.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.22.0.tgz",
+    "narHash": "sha256-VIBwgFofWd08oogVcQpP2AZmNl3SXaeYenNssZrOa8k="
+  },
+  "3.23.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.23.0.tgz",
+    "narHash": "sha256-EgjIVvZW60xdsfEbe2uzMt19G7z5l4QyWarDi1xvo4I="
+  },
+  "3.24.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.24.0.tgz",
+    "narHash": "sha256-ShPByQ9QbubhUt8er0MwAN/iJBSWPBH312cVYrqkyBU="
+  },
+  "3.25.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.25.0.tgz",
+    "narHash": "sha256-s+EBnzSlP8gQIGLOGY3rvgUZvydaMwop6XmVpIkAqkc="
+  },
+  "3.27.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.27.0.tgz",
+    "narHash": "sha256-4J1a7fPQGHFqF+XBF/xDuU96FGInlx+TQm481oRlCGE="
+  },
+  "3.28.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.28.0.tgz",
+    "narHash": "sha256-wBu7HHPg65kPHRcHdwtJiraf551gJXcaE8HGE0ms3Ig="
+  },
+  "3.29.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.29.0.tgz",
+    "narHash": "sha256-12It2yFeHW4uz6CexkJueCZSH+33aX78MttbSkKcMAo="
+  },
+  "3.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.3.0.tgz",
+    "narHash": "sha256-DSS6rgCQJvctMzLMQVNoo+4waZ/7RhG+/4Y7Kl6NQWw="
+  },
+  "3.30.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.30.0.tgz",
+    "narHash": "sha256-bnVZ3f2q6LxyMJOjjdKQjC/HVxe4cO+ll9lAvtt7Cig="
+  },
+  "3.31.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.31.0.tgz",
+    "narHash": "sha256-5cTVT7/cucIMfCMR2XlkE42mH0gehpBstital2mqvZw="
+  },
+  "3.32.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.32.0.tgz",
+    "narHash": "sha256-EX/8JRciHN7atSXAeQmU2cL6TPrGm8kvfbD+RuNTOxU="
+  },
+  "3.33.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.33.0.tgz",
+    "narHash": "sha256-8hCqo2ccSN/NQk+sUG+EfTIU6DPnNvU2DQb80xVEk/w="
+  },
+  "3.34.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.34.0.tgz",
+    "narHash": "sha256-+mQCyBSC2R8g6E/8KFDdakdj9SshRdah83Q9vf2ofco="
+  },
+  "3.35.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.35.0.tgz",
+    "narHash": "sha256-j6g1NI2vth3DLUJ628SFb/us3GfhWbOld/P4ZiwYW9o="
+  },
+  "3.36.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.36.0.tgz",
+    "narHash": "sha256-t7M9ZK1c11ppgXh5OL2ohZHn2lJo/vrj/UdpZx/BjAA="
+  },
+  "3.36.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.36.1.tgz",
+    "narHash": "sha256-Kt3lxdnt0LTdfswrm2jY9DJ8PMCXyXo1o0ruuUu0iDE="
+  },
+  "3.37.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.37.0.tgz",
+    "narHash": "sha256-EsZvNT1KcPyX+nQR3RCKSm469Erk55p2NHdoLP+6mrc="
+  },
+  "3.38.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.38.0.tgz",
+    "narHash": "sha256-tn1Ie7wMycM8A2ycwpRgbcdREVkV7L1ipyN1crG/ACk="
+  },
+  "3.39.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.39.0.tgz",
+    "narHash": "sha256-bIQ8noi8de2qkYjY5izUCTWjGr+037zF73hgR6tNtlw="
+  },
+  "3.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.4.0.tgz",
+    "narHash": "sha256-pZSWUuYFCc1PIpfFMIUVaU4TB0d4oWDTC5seFc/udXc="
+  },
+  "3.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.4.1.tgz",
+    "narHash": "sha256-MsEXxrhxaaSMWZtsNB/iZlC57qTRo/gfhlq329QZRiw="
+  },
+  "3.40.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.40.0.tgz",
+    "narHash": "sha256-E/5rYocUWGYh6Qv67/t+qDWMQ/8s0y8bEpIYy34JUKg="
+  },
+  "3.41.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.41.0.tgz",
+    "narHash": "sha256-IyowDRvDvyuLO7NNUqZNoI9z7D8jG7Hz0eewcrvVaHc="
+  },
+  "3.45.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.45.0.tgz",
+    "narHash": "sha256-FfvI9dU60cr/ubXqBZ+NWSnrk4iyg6xJobAsG4fkAyg="
+  },
+  "3.46.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.46.0.tgz",
+    "narHash": "sha256-euArhWDwQdK+Ldu0x6GVILub84sOz2zU4bS6Vr3xqQ0="
+  },
+  "3.47.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.47.0.tgz",
+    "narHash": "sha256-+3OzAerKOsK583hX8jnGusJh/9Zkk8k8biil0Y9wvRc="
+  },
+  "3.47.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.47.1.tgz",
+    "narHash": "sha256-7De42gbtuALcpSmydU5AnoJrK5dALqBpnKWXC3SuhZE="
+  },
+  "3.47.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.47.2.tgz",
+    "narHash": "sha256-xzEHVHLVnb4fV7e1RQqNQsz74ZRqPKSKMM9Ijm8yGMw="
+  },
+  "3.48.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.48.0.tgz",
+    "narHash": "sha256-uxGApS3vl3vnFlhCZNYT1+52OoU+XqvqM0+5qdO5+qc="
+  },
+  "3.49.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.49.0.tgz",
+    "narHash": "sha256-QKrwH06c6jDDJzoj2FVrtCBpkIGbOoKJi0BkNXft33A="
+  },
+  "3.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.5.0.tgz",
+    "narHash": "sha256-YnVGeN936hwUf67tp2Ly63sNUp31hTpBEAGO6gtZiLI="
+  },
+  "3.5.1-rc.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.5.1-rc.0.tgz",
+    "narHash": "sha256-mKnP1c45UFkay48OG9PHB4/7ba2rDgCLEuw+EpQ+UZY="
+  },
+  "3.50.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.50.0.tgz",
+    "narHash": "sha256-HPQHi8JEJsaGwu4qyC4/z+9IsqlbgdLqlHyJsB4tXHw="
+  },
+  "3.51.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.51.0.tgz",
+    "narHash": "sha256-tqFFBgzFUFewcpGrJFWJPQehfw/HxgTWkseRnU1EZcw="
+  },
+  "3.52.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.52.0.tgz",
+    "narHash": "sha256-a02Tq2VQUJEmyYwwndP8CzrICDqyVRpmzXADetZGsIM="
+  },
+  "3.53.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.53.0.tgz",
+    "narHash": "sha256-D+JfXndCGoM+5PzsGTXqLK/tOdxe28p3kIg5MjvHOMA="
+  },
+  "3.54.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.54.0.tgz",
+    "narHash": "sha256-1Z73MVb56ONDxKpJYZt/VFOskCo1wIB4Rus88qvx3OA="
+  },
+  "3.54.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.54.1.tgz",
+    "narHash": "sha256-4LrnjNO7jrbCpU89fn4gd0H7StscIWp5LyWVSKcDpSQ="
+  },
+  "3.55.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.55.0.tgz",
+    "narHash": "sha256-B3G1/kXt7f7FSYcBSDaSpZOp6m7UakhnPqS88uM70Yg="
+  },
+  "3.56.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.56.0.tgz",
+    "narHash": "sha256-bpPhf8BhwR+q39TrxnCw3rQ88FN7aC5QK8JcLFlxvIY="
+  },
+  "3.58.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.58.0.tgz",
+    "narHash": "sha256-k/M56x5f+7a8b1tcOFazZqT/uG0fCYAR1JsMZ6iRL6U="
+  },
+  "3.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.6.0.tgz",
+    "narHash": "sha256-scEQfsf39hrD384/fPtZ41jd0MiBJc5RBVOdgtkpc8Q="
+  },
+  "3.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.6.1.tgz",
+    "narHash": "sha256-Tu+H5IPlM92+MjkXdXLAuE3eVmmOwHBQdGk1dN2185o="
+  },
+  "3.67.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.67.0.tgz",
+    "narHash": "sha256-wgD0ScvCVJhYU8/eQIkM2mVeqp6yKbDxXoYmdVpczlo="
+  },
+  "3.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.7.0.tgz",
+    "narHash": "sha256-maTLHkUAuUVYe4RwsTasRPOo3xz5oZX/rmEVQpkYvkQ="
+  },
+  "3.72.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.72.0.tgz",
+    "narHash": "sha256-7xegLJdzN7ZenU2PCJkQXiGRqgu5fITVmE21tujLIpU="
+  },
+  "3.74.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.74.0.tgz",
+    "narHash": "sha256-NVYAiquMgIsY8oRry6pJ6PQPNfD2EIsZR+vJWXwLMDk="
+  },
+  "3.75.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.75.0.tgz",
+    "narHash": "sha256-DStLwZqSrz0azak+aNImjwanhdnBn1GwkdhWjrUZjos="
+  },
+  "3.76.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.76.0.tgz",
+    "narHash": "sha256-xN5/URFWSDmXvrRlGRkYWxP5xDq21qerBmwtGqrwg+E="
+  },
+  "3.78.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.78.0.tgz",
+    "narHash": "sha256-7XGitIfugIPi+kZxlKyhz1YVmWiOZqKnN5uUQckNH3I="
+  },
+  "3.79.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.79.0.tgz",
+    "narHash": "sha256-ctnslm+0i2RwFzeyKd5hPpSVfDVEqpHcsRe7numnHuM="
+  },
+  "3.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.8.0.tgz",
+    "narHash": "sha256-Cz4UmUaau9lHdFRMeJ+Chb+nHCkGLAPKEQwCrZp8zLY="
+  },
+  "3.80.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.80.0.tgz",
+    "narHash": "sha256-vhZtYzuq1HL6nvRT8QKNljc6O/MNipFN9XM8oeD+V5g="
+  },
+  "3.81.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.81.0.tgz",
+    "narHash": "sha256-yK95tEBYhwAyw39zC+jyEdm3Wb9MJwf6ZRMExI+qJEY="
+  },
+  "3.82.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.82.0.tgz",
+    "narHash": "sha256-ho3mTeeHmVQY9f5ElTEdCLllsQ1gVz6UmogtId4uAUc="
+  },
+  "3.85.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.85.0.tgz",
+    "narHash": "sha256-qdzbSZ0mSxXPtnbtbCyVa+RdomGa2smyfHUEoHYHA1s="
+  },
+  "3.9.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.9.0.tgz",
+    "narHash": "sha256-1frUztTUBxt/1ycSBNWIsH4E8FBRIsmtJhpHwKk8z4Y="
+  },
+  "3.94.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.94.0.tgz",
+    "narHash": "sha256-C/VrpAJZWfj3MfmxfAc9Itbsjlcybzi4ASROWqEPqyA="
+  },
+  "3.95.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.95.0.tgz",
+    "narHash": "sha256-z4O818X/WcYFXZ4JUqvRDlLCS82ixY2uVe415ZXHpSA="
+  },
+  "3.99.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-sso/-/client-sso-3.99.0.tgz",
+    "narHash": "sha256-HU1wkP9Sm00cBP2aK4iOCi8Ux5VqfhCm2cW/vFs1RXk="
+  }
+}

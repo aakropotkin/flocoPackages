@@ -1,0 +1,912 @@
+{
+  "0.3.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-0.3.17.tgz",
+    "narHash": "sha256-CMijOuKM7tzR+nia/SSY/wmux4vFA5CapQTYY0jucBw="
+  },
+  "1.2.100": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.100.tgz",
+    "narHash": "sha256-dnyAzFJi9+hsciMODje57EAOxkfaRCD73I3XKMX/NTw="
+  },
+  "1.2.101": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.101.tgz",
+    "narHash": "sha256-1MZucfucl/CNuyQsKv25DstTMiyMv1KgJk/j3EKXa8g="
+  },
+  "1.2.102": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.102.tgz",
+    "narHash": "sha256-DpQcTIZGXaj1SB7Y5Xi1musUpgGN8mMarhNDsP94WHg="
+  },
+  "1.2.103": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.103.tgz",
+    "narHash": "sha256-COpBHEPhG5jnyC3j6C7475DVMdlmoVx6XvmRZ/0ci/g="
+  },
+  "1.2.104": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.104.tgz",
+    "narHash": "sha256-LklaoPRdTVmf8rP9vsZdRjvE4TzbbPiK+tStv9HfkKU="
+  },
+  "1.2.105": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.105.tgz",
+    "narHash": "sha256-4KkdGFBPdLwH+exbJuK3bVeAWaa1oDE6WzIzwsf44OY="
+  },
+  "1.2.106": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.106.tgz",
+    "narHash": "sha256-3gU+rvw/TBkRNx1RF0E/Tfe2erU++Sb8hy1E4AOqQQ8="
+  },
+  "1.2.107": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.107.tgz",
+    "narHash": "sha256-+y4T2ySz7ID+EzF5KqfgcDiRFc1N2VWHYhh5zY1XPmw="
+  },
+  "1.2.108": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.108.tgz",
+    "narHash": "sha256-o/oPMvbjJwS2QGZpWD3vFzLpkL3OoR5Utvplp/Aek+M="
+  },
+  "1.2.109": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.109.tgz",
+    "narHash": "sha256-WVzKvAavrA6sGRiO/HCfH8leopqXvXh1oruldqTPwzk="
+  },
+  "1.2.110": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.110.tgz",
+    "narHash": "sha256-nJQbDxVOV4HOke61iDqEt+Md4tTdIDYdvTvV17ckn/w="
+  },
+  "1.2.111": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.111.tgz",
+    "narHash": "sha256-wh7xgi/1loyQHs0NTDJLdB2XXEdwlp1M1lYQPzhfivk="
+  },
+  "1.2.112": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.112.tgz",
+    "narHash": "sha256-hF9gBLYr9OKMVbSvw4xM4DW8Q7BpcgyGJaYrVwFqqr0="
+  },
+  "1.2.113": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.113.tgz",
+    "narHash": "sha256-Ty8qxYZ2wfMTMq/wG9zC5ScUsW17PZeKUaoG7ikVVik="
+  },
+  "1.2.114": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.114.tgz",
+    "narHash": "sha256-NOXr5ZeGs4pZZQKyrgfDi3Qb9fZBFSnXkGvaq/PXXGI="
+  },
+  "1.2.115": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.115.tgz",
+    "narHash": "sha256-FBH9zAXqDB22OrRVNxcrWw4Ndbj8Uu5Tz93Ex/W+kc8="
+  },
+  "1.2.116": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.116.tgz",
+    "narHash": "sha256-Zl9Bxs7azCcs5VNPZWgZ3SZPte6NH4cBN50OQLaRSL0="
+  },
+  "1.2.117": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.117.tgz",
+    "narHash": "sha256-3HbwquR8mWenfByLD09+xWX6Su0MjT4sEdaq3x5BL1k="
+  },
+  "1.2.118": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.118.tgz",
+    "narHash": "sha256-YwXGj0xYViJ+I6iP1i8am/TBdrGmtbUzDpIhEmMXJ2U="
+  },
+  "1.2.119": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.119.tgz",
+    "narHash": "sha256-hKSvhusmwtoC1Rx7mMbJnQFS8603Qtu+38t/cIK9PSo="
+  },
+  "1.2.120": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.120.tgz",
+    "narHash": "sha256-GvcwaIVZBD4JQlv7UAEMc0NaX8mjLkdMyU+iwhIlcwI="
+  },
+  "1.2.121": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.121.tgz",
+    "narHash": "sha256-mmb5okCObaX8H+k4NmaS5PPgjNsdh3EZO9OE94uqsrA="
+  },
+  "1.2.122": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.122.tgz",
+    "narHash": "sha256-GtoBLvUW6OnOAT9gEaJgCx24iG/GHdI2/fc1Sekypbg="
+  },
+  "1.2.123": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.123.tgz",
+    "narHash": "sha256-72S7AunXHeUcYp6NzqQ5OLNc0BBQFcpdequEopFWIh8="
+  },
+  "1.2.124": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.124.tgz",
+    "narHash": "sha256-xV+CFJorIerc//iyto6Gi0wSGdtTrp8WIpp2Ywb0wGM="
+  },
+  "1.2.125": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.125.tgz",
+    "narHash": "sha256-8x5HoVnC5shD4AFiFfiafpPaGHu3p6kPYu/DTk/Ktik="
+  },
+  "1.2.126": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.126.tgz",
+    "narHash": "sha256-N8/18yxV248UhVDoHyX5RXdpgpG/TeaonX5dXlY7OeM="
+  },
+  "1.2.127": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.127.tgz",
+    "narHash": "sha256-6QQKXSi/5oMyjH8WK9/GZz6ruTohaR5ixSr1RtA3qiY="
+  },
+  "1.2.128": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.128.tgz",
+    "narHash": "sha256-PAw029f5AF9TJjngljf3cyDVNeoIIRJemJXfDidwjLk="
+  },
+  "1.2.129": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.129.tgz",
+    "narHash": "sha256-yKKsVadtyD7tdByZMBbKaL3EOohPeLcn75dXRxdSbCU="
+  },
+  "1.2.130": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.130.tgz",
+    "narHash": "sha256-zNntqcejwCwK3dvFdrD1rLYxJZPXIdIGjN/vEmXEjiA="
+  },
+  "1.2.131": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.131.tgz",
+    "narHash": "sha256-M1dhHfgBFdzdvfjy+yTdfdKdt+yBG2r32e+Vj/GrREM="
+  },
+  "1.2.133": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.133.tgz",
+    "narHash": "sha256-mckw4XS5fOAc6a3t2eOBhcP7VEfjQQFoWAxu711xv/c="
+  },
+  "1.2.135": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.135.tgz",
+    "narHash": "sha256-0yXwz/3YZNq1lkbvOpzU7ec4Au2N6rK6IWE5lE0DJxA="
+  },
+  "1.2.136": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.136.tgz",
+    "narHash": "sha256-iWhU1vUQ9x+31H8lDX6Iyr6uJ+wYv/XBl7yuoXWaeN4="
+  },
+  "1.2.137": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.137.tgz",
+    "narHash": "sha256-C/+iDShL2bAhfv9Hrn/HJZtd2l8EVn0KE//67yif+j0="
+  },
+  "1.2.138": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.138.tgz",
+    "narHash": "sha256-/oQ78dXqi4OIsoRl7d1tOqZjSd9BcjxrGbadqlIV7qY="
+  },
+  "1.2.139": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.139.tgz",
+    "narHash": "sha256-aVO7J1pIeel3f9FCPySy+m4d6wRxF/Pf8rxaQug61uo="
+  },
+  "1.2.140": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.140.tgz",
+    "narHash": "sha256-CCyy2qzuD06Lja/q+PgE4QZhWZl1NypQGsv8Oi2bwcI="
+  },
+  "1.2.141": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.141.tgz",
+    "narHash": "sha256-ISEuxnFLst04mGm/HaIuKgYkCMPjFQs39o5nUaoOAio="
+  },
+  "1.2.142": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.142.tgz",
+    "narHash": "sha256-5SGscbVBXTzwqDX6npDB6VQWZ25Z8cHDkw6gVbY+Hcw="
+  },
+  "1.2.143": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.143.tgz",
+    "narHash": "sha256-2dNgc2GZWYyMJIBvbFIAyfPVKkSQP8UKrAcrNxKM6bw="
+  },
+  "1.2.144": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.144.tgz",
+    "narHash": "sha256-u9bCVG4NL5tttsZ/JSapL+4fWKzUi6PZmXOy8fkLEHg="
+  },
+  "1.2.145": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.145.tgz",
+    "narHash": "sha256-VkCv+nqotTZeApHPhCu5igiJTOrj4nHBpG9IN7biBsw="
+  },
+  "1.2.146": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.146.tgz",
+    "narHash": "sha256-AWKUHWiJ/hAt87Qy5AJMgMaz0GY1OItWjHh8SbQEiq8="
+  },
+  "1.2.147": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.147.tgz",
+    "narHash": "sha256-es0zoqyyaaMd/YHi7UyiF2xJ3yMgEqPFygvsMJKIL0k="
+  },
+  "1.2.148": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.148.tgz",
+    "narHash": "sha256-gZaVpSdjbxTAvA5VIOhuV12RoQ94mQPicEhY/rEaA5o="
+  },
+  "1.2.149": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.149.tgz",
+    "narHash": "sha256-E+0uAKov5VfcOKwCZCWQBN7VeDOd/fXUThgYhQCDnEY="
+  },
+  "1.2.150": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.150.tgz",
+    "narHash": "sha256-JRjvG2v8L4tQb1mf03I23envinmqLkJ704rNroGJnLc="
+  },
+  "1.2.151": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.151.tgz",
+    "narHash": "sha256-UmauHeZvS4r+/PJlrxOHbC2if7gTxxPPoksLDR3YeFo="
+  },
+  "1.2.152": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.152.tgz",
+    "narHash": "sha256-+xsnI+mYstEAoKODdIIYLPCUgqtM01EzpLJjUQ31Sq4="
+  },
+  "1.2.153": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.153.tgz",
+    "narHash": "sha256-MlEaF3ovyXvX6KkaLql7MOgGeFU6eWRcxC467hBrCdo="
+  },
+  "1.2.154": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.154.tgz",
+    "narHash": "sha256-WP9CLPvWxKJISuhLpTvKjU96UQ1XMfwKJ9RdAQvxN2M="
+  },
+  "1.2.155": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.155.tgz",
+    "narHash": "sha256-Qr529rZNClg4nJc7N72amGc9RF/FElRaqBOjmnsh+EU="
+  },
+  "1.2.156": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.156.tgz",
+    "narHash": "sha256-nA5U45pucobYneeCffdTeSoc0G+8nlA3X3uDTL8ztnM="
+  },
+  "1.2.157": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.157.tgz",
+    "narHash": "sha256-pNviNploe1uI0sCB1j3nxniekAf+P0X4YzxeXU7c9Vc="
+  },
+  "1.2.158": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.158.tgz",
+    "narHash": "sha256-IcY9lwTXNnxm0D1sEAzFlAcwFM+KuUBxV6r3Lt5+yOo="
+  },
+  "1.2.159": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.159.tgz",
+    "narHash": "sha256-omlB/tPMu9epvKHzQ6QWY5YBWQb2MIoTMjALJlrG5Pk="
+  },
+  "1.2.160": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.160.tgz",
+    "narHash": "sha256-KI0M4n414+MCD9Po5YdbwKiG7a9Cc9AkWrbNLE+SQ9c="
+  },
+  "1.2.161": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.161.tgz",
+    "narHash": "sha256-lShdot8k1iZrix4a64WTo0R/j+fCWKl6pXGOxEmxqng="
+  },
+  "1.2.162": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.162.tgz",
+    "narHash": "sha256-+7SsZg8msFQwxxmF4KKRM3yNC0Q8PWyTlGuFLJDUmVM="
+  },
+  "1.2.163": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.163.tgz",
+    "narHash": "sha256-fE+9DsB8y3ZX70LW1iJB7QaZ/4s1uYOIV/96yy9SMpY="
+  },
+  "1.2.164": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.164.tgz",
+    "narHash": "sha256-RQyVYpHWZgL40oRFnZ4apQBgF4stdXfmoaYPCll8nyE="
+  },
+  "1.2.165": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.165.tgz",
+    "narHash": "sha256-5mKm/DjCiy5ij6Yg3EvJCktVqTQyLVOjCTVNx0UO10k="
+  },
+  "1.2.166": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.166.tgz",
+    "narHash": "sha256-znhteJex0mWlkpV/EoANSC1xbdQbOwQQvyRmf/5nzg4="
+  },
+  "1.2.167": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.167.tgz",
+    "narHash": "sha256-JAheKIPvEhLfD2bGUbaSKgNVduSRDwfhTRj6x0T+XEA="
+  },
+  "1.2.168": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.168.tgz",
+    "narHash": "sha256-dW1T2q+AY30wXz6hxOpVvtqKhk+xQ3cacaUOaP13Gh0="
+  },
+  "1.2.169": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.169.tgz",
+    "narHash": "sha256-wjif6lUjHRonbnavZ+zbHZDTAODLNegqIxeMjrygsRQ="
+  },
+  "1.2.170": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.170.tgz",
+    "narHash": "sha256-oDdiRBAL6nwY9S49NBV+JzLz+yqHMMHP4C6bcm9wbaw="
+  },
+  "1.2.171": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.171.tgz",
+    "narHash": "sha256-9VGTLUrZffyGQKzq3+zmHwvPF/RJjWCZsT9pzq7MaOA="
+  },
+  "1.2.172": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.172.tgz",
+    "narHash": "sha256-knvcOMCq8ZpHzNIxEMdh2/ZX/7nWN02Pz5xU6xZy9VE="
+  },
+  "1.2.173": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.173.tgz",
+    "narHash": "sha256-rTakiCDJ1xouwrtLqJJJLx81mikgeQk5vsVHhF+TamQ="
+  },
+  "1.2.174": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.174.tgz",
+    "narHash": "sha256-zGu9m8hu3AzafdlTvb6EatUeKlYrBJF1oEZEVOE+S4Q="
+  },
+  "1.2.175": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.175.tgz",
+    "narHash": "sha256-n/uA/b9yEhXEsgcNuNYbtgOd7FF8/5fApMEUwIFrE+w="
+  },
+  "1.2.176": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.176.tgz",
+    "narHash": "sha256-/6DwjzoD8lBmpd2RI5PXei8fudfcejP+DXlD3th/bD4="
+  },
+  "1.2.177": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.177.tgz",
+    "narHash": "sha256-HPhTUjbpSM19bPLdX0ZNDkuYPTH7WDFqqQr1lssL5H4="
+  },
+  "1.2.178": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.178.tgz",
+    "narHash": "sha256-2vcimiv7Lf8fr2k9J0P0G1YpgLdAXWwXuPhQucbuCEM="
+  },
+  "1.2.179": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.179.tgz",
+    "narHash": "sha256-T9gn77Ugdv2pvRG7jqVLg0tpCOZ2IEWk+Q9BfxeYMHY="
+  },
+  "1.2.181": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.181.tgz",
+    "narHash": "sha256-YY2P6wQGma8pqeKsKtjuqwVT9HcxdrVeMMRJS5t1kpA="
+  },
+  "1.2.182": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.182.tgz",
+    "narHash": "sha256-RmuBo77t8MQLuC69jAjITzGh4HMixL2yB4dWAM5B4fE="
+  },
+  "1.2.183": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.183.tgz",
+    "narHash": "sha256-LYDXjBM3vGav+BWrJ+Ann4bBBKMRw8NWyX2wGVgcA7k="
+  },
+  "1.2.185": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.185.tgz",
+    "narHash": "sha256-PXlhh1R4yr8Wk0qmPqnZD1kdijZ02g/yqeKf6n3vLMM="
+  },
+  "1.2.186": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.186.tgz",
+    "narHash": "sha256-BuJudnOAGvzDziW0VJLNEuRCpmTetgVci9Y0ZunxLV4="
+  },
+  "1.2.187": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.187.tgz",
+    "narHash": "sha256-Pwm+ljkaD0WUMyG0koYRXLzJ+tOKvk9uPLagYwP7Q4w="
+  },
+  "1.2.188": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.188.tgz",
+    "narHash": "sha256-9vNKAbsgZTY2XehvbhOYOxQFvvnBrQSh8TrgKzyVJ0Q="
+  },
+  "1.2.189": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.189.tgz",
+    "narHash": "sha256-q2pTDk+4ccjq4aEWNwnrRp7kzy+qtBN+/64jv8F9mvM="
+  },
+  "1.2.192": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.192.tgz",
+    "narHash": "sha256-GHs7M9TWWZqC6zRRC3Y8RsuGSn6SztKlSA2IYRjfCws="
+  },
+  "1.2.194": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.194.tgz",
+    "narHash": "sha256-kzD5fisRrumihMIX1Vh13HckvoXM/BrKDlf1pyTQxn0="
+  },
+  "1.2.196": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.196.tgz",
+    "narHash": "sha256-uXJfauM0xfS4lcpfRV2LTt+hDfkmB9yysGkq6O+tL+c="
+  },
+  "1.2.197": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.197.tgz",
+    "narHash": "sha256-DOEgDPpqDnRb8RkHdkz3AtQjyLe+oWdyr6khHEvK+eY="
+  },
+  "1.2.199": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.199.tgz",
+    "narHash": "sha256-R3rFiInonk6i8C+VtW1/ML2A1Jz2kgb9jpQ++AoZEGo="
+  },
+  "1.2.203": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.203.tgz",
+    "narHash": "sha256-1+v4gmhuHIV628IEfvkgctw4oaj4xbaMh23X5fOis28="
+  },
+  "1.2.204": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.204.tgz",
+    "narHash": "sha256-yWfzuRjoqWI3US4I+ejDq9OqhQB+c4PJdvaRSN2FWiU="
+  },
+  "1.2.205": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.205.tgz",
+    "narHash": "sha256-XyjzprSKA2njr4srXVazIDVU/u9cZL9xD1ZKd6xZJWU="
+  },
+  "1.2.206": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.206.tgz",
+    "narHash": "sha256-0rMClblOfAg7IH7XBzQu+vH+gc4A/m7/CD1AOVR3yzs="
+  },
+  "1.2.207": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.207.tgz",
+    "narHash": "sha256-mMFEvbleuQRz3FTNprNT24GWiZtt3ZlbcHHxe/79pmY="
+  },
+  "1.2.208": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.208.tgz",
+    "narHash": "sha256-mFLmHd6eMZ5nzZCHEA7EGfVxQKRgkudjz9dphcg1dIY="
+  },
+  "1.2.209": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.209.tgz",
+    "narHash": "sha256-zkuwX0EKUzftrJoqqD3Bjkf9bZX9Bdj2Cvtxo+3lgjU="
+  },
+  "1.2.210": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.210.tgz",
+    "narHash": "sha256-XEHwuNQewD9OaFc98AZc37LeDD0D2sL7bhTTkdXxpSI="
+  },
+  "1.2.211": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.211.tgz",
+    "narHash": "sha256-D8zd21RCciax0DZgwSKTZa5sdNjXU8hMNe/8Ua6Y6sk="
+  },
+  "1.2.212": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.212.tgz",
+    "narHash": "sha256-M/6cDAoesmcdBW7B/oGN9jwGuFcov/mZxntY8dRyrnQ="
+  },
+  "1.2.213": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.213.tgz",
+    "narHash": "sha256-vrid1CmVKP72pXhbOyv3u2Cdf8hI7v499bumijmuNHc="
+  },
+  "1.2.216": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.216.tgz",
+    "narHash": "sha256-Iqnt4SakLO59CcIQ6X7WIM//s7JRV6crzSlhmcIj55E="
+  },
+  "1.2.218": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.218.tgz",
+    "narHash": "sha256-QVB1ZUSLurw+I0xt1NxbTJsQJQCs97cVqaPSTewLOKQ="
+  },
+  "1.2.219": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.219.tgz",
+    "narHash": "sha256-COBYcejSFiU0sdB6Uf18zSlbJ1MHzc0feMsL1eLjM7U="
+  },
+  "1.2.220": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.220.tgz",
+    "narHash": "sha256-HVFhFFW9gIa1BMGNr3WYiWMYv3iMKBnGSGIE2hjlkO4="
+  },
+  "1.2.222": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.222.tgz",
+    "narHash": "sha256-K5vJ63LDnbHYLbu/NvvVFvjzukFLSH2nbNEY1Js71ek="
+  },
+  "1.2.223": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.223.tgz",
+    "narHash": "sha256-xj0qamI6nTSJfqLgdem7G4A2QxXJnMm1Qj5DEMQRDio="
+  },
+  "1.2.224": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.224.tgz",
+    "narHash": "sha256-6kbsPoNjmsyZhnF0fOgOKYsgkOrvPzE7QDcK68zhbVA="
+  },
+  "1.2.226": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.226.tgz",
+    "narHash": "sha256-apISUjuvXjHdc8QrLuKA1Ulb2QkYxDJXxt+mh18rfmw="
+  },
+  "1.2.227": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.227.tgz",
+    "narHash": "sha256-g1noE/IOVnP+pxlB0Prz4kbMRSPla02pv4V9z/4IlfM="
+  },
+  "1.2.228": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.228.tgz",
+    "narHash": "sha256-hyLuRwA9vvzr8uo6qxXgPn+S4b9oveuhtEJAChVRt/Q="
+  },
+  "1.2.229": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.229.tgz",
+    "narHash": "sha256-HK2MBa2TI9pGVhkwBORJfXpJBINo1Nb04Ii8QQEs/Dc="
+  },
+  "1.2.230": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.230.tgz",
+    "narHash": "sha256-uz2u09N06F1ofSuEzVVynDwFAzPB9GHNDv44asckgJQ="
+  },
+  "1.2.231": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.231.tgz",
+    "narHash": "sha256-WBMIXgefDzTx4/jDhYja5KpKInTi4H9uk6cJK1gp4BU="
+  },
+  "1.2.232": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.232.tgz",
+    "narHash": "sha256-ZgGRKYIRGjNs6SEdgzBmmulC23KelCi2Q8nMVE1HHr8="
+  },
+  "1.2.233": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.233.tgz",
+    "narHash": "sha256-AbTL8poKUspmJHfor+gzmMuKsBXxT/JQv2mCngzK8Bk="
+  },
+  "1.2.235": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.235.tgz",
+    "narHash": "sha256-T2qBtJCyDPEwmW+qJJQpYz9TQjnjaa1hVwnX8adqmOU="
+  },
+  "1.2.237": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.237.tgz",
+    "narHash": "sha256-NYd+v9VDxe6AZZYs/G1zEFxkJb8nOpN+U28aqp1Lqdw="
+  },
+  "1.2.239": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.239.tgz",
+    "narHash": "sha256-M6xQQZCHtem1QQC2wwOEeJRHQ3u/4FF7/mm1tw2kHd8="
+  },
+  "1.2.241": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.241.tgz",
+    "narHash": "sha256-PdFBIjky0snneB81LeVqnQKKvLL+HPwe9vQOJTorQeU="
+  },
+  "1.2.242": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.242.tgz",
+    "narHash": "sha256-3MsClWuv9gx3fUIBRq3O14HvrvM3jeIHTQjZ5uFbQjg="
+  },
+  "1.2.244": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.244.tgz",
+    "narHash": "sha256-g+MlGENzAEr2PRTNsYtZ+nB+wegUS7pYQAQyYPYWlbs="
+  },
+  "1.2.245": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.245.tgz",
+    "narHash": "sha256-zeEY4K++VmdAKoSzXv1Z9OQsBzOMWzaSBV5w1kECyf0="
+  },
+  "1.2.246": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.246.tgz",
+    "narHash": "sha256-jJLGP4Al4rrdZXUqxLXJGx9Lzk/R1j1+e/5m22sagws="
+  },
+  "1.2.247": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.247.tgz",
+    "narHash": "sha256-4lQT44lYVTbW9Ge3yd7F3bTUCWrQ46BP+dHPa+nq7bc="
+  },
+  "1.2.248": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.248.tgz",
+    "narHash": "sha256-5DOQ1L3ySuqss4Y4v8G/lRUNc1F9BgGDTLSBzCq4vv8="
+  },
+  "1.2.249": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.249.tgz",
+    "narHash": "sha256-Tfmgga5iN92Ej7gsgWqcXBsWRQIEkQIDzcnneGSeGRI="
+  },
+  "1.2.60": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.60.tgz",
+    "narHash": "sha256-8P1lVEwNUMiAWRTPZ0vwsdO/b8+l1/7bynUtFCIkUDA="
+  },
+  "1.2.61": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.61.tgz",
+    "narHash": "sha256-VGXCD3JQuViNN3L3u9xnDyLHdRoKKwWIms2RRF85HKc="
+  },
+  "1.2.62": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.62.tgz",
+    "narHash": "sha256-q/32ZFXXC7jSeN272HEWQ6tqgPk0IdvOToRrE+dt3ws="
+  },
+  "1.2.63": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.63.tgz",
+    "narHash": "sha256-mKxLsW/nnfSz8uuL/wpD6EuZMvsEvuGnn23A0rvKtBg="
+  },
+  "1.2.64": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.64.tgz",
+    "narHash": "sha256-0VyeEkYb/L+fZKDqmay3kY0Ia5ubvVGbiieoGFWt/14="
+  },
+  "1.2.65": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.65.tgz",
+    "narHash": "sha256-sXZQxFCQZI1Wt1SkhFzdOgVtSw8KTOTuRV3g2Tjlz4w="
+  },
+  "1.2.66": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.66.tgz",
+    "narHash": "sha256-VUQQWDtBfTm6ohkpT3+XGyrFlHHq+7U2AI3GbAJRh3c="
+  },
+  "1.2.67": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.67.tgz",
+    "narHash": "sha256-nJXnNmgSQPKF3QSJ8aaqVvufq7Od6P8k0sAzPpW2TkI="
+  },
+  "1.2.68": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.68.tgz",
+    "narHash": "sha256-jTqQgruvVBKTqHlpdPXcNkEHOiz7IYiv4Eh70fDc8Ik="
+  },
+  "1.2.69": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.69.tgz",
+    "narHash": "sha256-irOt1WX/2caKnFgIcvUiOWniBDEW5MP/eoXcn0vuUVU="
+  },
+  "1.2.70": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.70.tgz",
+    "narHash": "sha256-4tHxi85Rih40cfKA3ktruk6HU/F7uKd45LoB8VWZVwo="
+  },
+  "1.2.71": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.71.tgz",
+    "narHash": "sha256-1KakeDrydLP0XajwkKtvpzaNVlqPxqGKZw3uEGkMkIQ="
+  },
+  "1.2.72": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.72.tgz",
+    "narHash": "sha256-ySxJUfZEExEzkTvYxz6WRjkwtWeMH/LyDwNpG8z1/E0="
+  },
+  "1.2.73": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.73.tgz",
+    "narHash": "sha256-kqReitxNu7leI3UnD6g+OcMENnkuSsiXaGGZceorNiI="
+  },
+  "1.2.74": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.74.tgz",
+    "narHash": "sha256-7MF8+6Oi7YqJ8dkMZcy0pX3GEY20+PlZ6dza1DfP4vM="
+  },
+  "1.2.75": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.75.tgz",
+    "narHash": "sha256-BrnBnyz0wF1pbsCt+ahV6W3MNJ8GqigqtsSCycH8r94="
+  },
+  "1.2.76": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.76.tgz",
+    "narHash": "sha256-CMIL5WkHXF2dBeFdlNbV4hz1hh+exs7BHvIWdx7lFw0="
+  },
+  "1.2.77": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.77.tgz",
+    "narHash": "sha256-54vExNxp3knLXE5OyJc7U9smjTQf2ho/TxuxjsI3a9M="
+  },
+  "1.2.78": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.78.tgz",
+    "narHash": "sha256-uCKLN6L7YlLv1MkQIwZFXo92YAXSBC98zYkmZbdkhKg="
+  },
+  "1.2.79": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.79.tgz",
+    "narHash": "sha256-Bn1rcovuEpnn02eGK6PNa9Fv5XiHBW4dSeuzVsbcgUo="
+  },
+  "1.2.80": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.80.tgz",
+    "narHash": "sha256-9anwfEiZxiAs5k0/BETUlBDufjozw2SYMovr/w72GP0="
+  },
+  "1.2.81": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.81.tgz",
+    "narHash": "sha256-snJJzzhv3X3DuBlb8z/Sjx8AurY61JtOYciMtwh528E="
+  },
+  "1.2.82": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.82.tgz",
+    "narHash": "sha256-0Ad4KHQlZPn6TV7rwWnGCXnGbvbWgd+Gl8ITg4MqdPs="
+  },
+  "1.2.83": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.83.tgz",
+    "narHash": "sha256-HbSxzzdpAN/Le1UsEptMW66wo3kXSfcZ7ZELQgB2Qvs="
+  },
+  "1.2.84": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.84.tgz",
+    "narHash": "sha256-qqSkoyuIl81WE58MVjHTfHxmnRUvWFUZUV8C6PTgrjw="
+  },
+  "1.2.85": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.85.tgz",
+    "narHash": "sha256-pV9nqEU8YMMOCWFhAjB/J1iEInEb4NyeZSGMBdSB3Mg="
+  },
+  "1.2.87": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.87.tgz",
+    "narHash": "sha256-H21Lhh9VG0vZFUTEXR7LXlwgK8ogpA8jYYSYE5QCDkU="
+  },
+  "1.2.88": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.88.tgz",
+    "narHash": "sha256-EkXVwHf734OsgHgmkjIIF4E6c9hxrECCoBtI4f8JnKQ="
+  },
+  "1.2.89": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.89.tgz",
+    "narHash": "sha256-NH9OOLI9vnTrlbykhGAcJ5H4xNNThu+JRMgDuczw6C8="
+  },
+  "1.2.90": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.90.tgz",
+    "narHash": "sha256-fiJ8If7qC1oLZtG6gFHZJgGNhDxFmi99M2sZazaa8ag="
+  },
+  "1.2.91": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.91.tgz",
+    "narHash": "sha256-DASJwHI5xNVvOjqLUXEpWnfPWvDBsS2jRRfUf+CUS/0="
+  },
+  "1.2.92": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.92.tgz",
+    "narHash": "sha256-JP2mSUcetk68eJDXo5ycN5Stifm8totpZ/ogpdLqfco="
+  },
+  "1.2.93": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.93.tgz",
+    "narHash": "sha256-7TqQlnZIsCjk3x/l5+6d/Xzi8uOuO+tgaUsggJntRRA="
+  },
+  "1.2.94": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.94.tgz",
+    "narHash": "sha256-tyS4PNByBl9MvjDUIeUCfYTt0nJGen4/LsVJ3z71l/c="
+  },
+  "1.2.95": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.95.tgz",
+    "narHash": "sha256-t681Mkx0nt+q1VA/dbpn8kR8UiUwo+O9mGl7P7bytCQ="
+  },
+  "1.2.96": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.96.tgz",
+    "narHash": "sha256-IY1NQWTR3wU/dtieEb5FiHwIXa+MvC0Di/diGeiAruI="
+  },
+  "1.2.97": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.97.tgz",
+    "narHash": "sha256-10D8/3RtfO2eAH+pyjW+klY0Qzk1CHETWU6Yz80M1Ao="
+  },
+  "1.2.98": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.98.tgz",
+    "narHash": "sha256-9i7Qj0TPJ3AkeBgBYIHHunxePPYnUmMsX9yf4Mt3PxU="
+  },
+  "1.2.99": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.99.tgz",
+    "narHash": "sha256-4zJUOman/rUK2cR04+bIgnIye1HDAHDbVCk17agnGMM="
+  },
+  "1.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.0.tgz",
+    "narHash": "sha256-uChEqTCm+dtvcvfTgEkrDDznugJ04w3Jg8j5mTq5VVk="
+  },
+  "1.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.1.tgz",
+    "narHash": "sha256-+UihHDN2hipvJCBI0xaFlPpaKnjZxKvnZgnC9LavOE4="
+  },
+  "1.3.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.10.tgz",
+    "narHash": "sha256-o1pFj8nzWEsabjofM2S1NQULyo8RvCslKmwCHsTzyn0="
+  },
+  "1.3.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.11.tgz",
+    "narHash": "sha256-c/stvAdviCIwYgLVH6485i5CgZ9FL7/rL1rAx3JzX2U="
+  },
+  "1.3.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.13.tgz",
+    "narHash": "sha256-oP9nw1bacpPWnf+yRC07eQR4Y3ydXzWSyaMjoHJ/bOM="
+  },
+  "1.3.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.14.tgz",
+    "narHash": "sha256-JuMQLRc54ekIf6Hrn8VAyDW6kBbGRl1B2WK73AzG518="
+  },
+  "1.3.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.2.tgz",
+    "narHash": "sha256-5kkQnudlFlrvTpzqqDENHgON5tt6TzYtUqorWMtos6o="
+  },
+  "1.3.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.3.tgz",
+    "narHash": "sha256-cTfPT2dWuWye2xGpy0ZSkD4yz3r5pNhUf2OAs458K18="
+  },
+  "1.3.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.4.tgz",
+    "narHash": "sha256-3KWVhyaQVVr1AOzVL4qYvHFPveqM50UM9BZgEk3dJcw="
+  },
+  "1.3.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.5.tgz",
+    "narHash": "sha256-xcbZf17LD+jKJPmdbbrZuuYVHhElcko+FWmT+z1IXTo="
+  },
+  "1.3.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.6.tgz",
+    "narHash": "sha256-jNhx2dkIXVt7ePzasnfnCWhW66je1xMxUrSVjPf3gLQ="
+  },
+  "1.3.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.7.tgz",
+    "narHash": "sha256-9s2hXm3stlqzPoQkP/SEbpg/BDvc7Ki+D/zDeLCR32c="
+  },
+  "1.3.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.8.tgz",
+    "narHash": "sha256-Hb9NGSjTJiU4aE7upIO5aKM0cbe0isl4/wq6KTcccL4="
+  },
+  "1.3.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.9.tgz",
+    "narHash": "sha256-mltHig627wSqYZPBOK0nuifTSMFMobObgiTBI3EDy5c="
+  }
+}

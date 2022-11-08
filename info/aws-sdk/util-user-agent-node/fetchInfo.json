@@ -1,0 +1,552 @@
+{
+  "0.1.0-preview.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.10.tgz",
+    "narHash": "sha256-+jk0jiOkA1kCaF0kZ71r8DldKUD1clGLQAFcsJZS7Ko="
+  },
+  "0.1.0-preview.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.2.tgz",
+    "narHash": "sha256-vYtXb7mq0Rc/JLhyoxx/499GqN36fWhlIx1R9XEtM6s="
+  },
+  "0.1.0-preview.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.3.tgz",
+    "narHash": "sha256-UpcMJSIggR3oa/OWTLMilL/LWFwT314tlE4JwrJ05YU="
+  },
+  "0.1.0-preview.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.4.tgz",
+    "narHash": "sha256-2S2vuhLucg1jg3G0MbRF56nvzx/HUbPUfx7oRwHPTIA="
+  },
+  "0.1.0-preview.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.5.tgz",
+    "narHash": "sha256-0OtVwghgcjK+7yKLeancV/z4EMJXZ6DpI+YxNXD+s2I="
+  },
+  "0.1.0-preview.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.6.tgz",
+    "narHash": "sha256-ulrog/1FOP85OLWJ7k9CnLIK8BDHdZdS73Jilgjq7T8="
+  },
+  "0.1.0-preview.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.7.tgz",
+    "narHash": "sha256-fmCacp1K4qMmx5wevzA8ioXVs7ZghYJIfL4d+AkaLfI="
+  },
+  "0.1.0-preview.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.8.tgz",
+    "narHash": "sha256-p0cnP/fIV28ZyS07p3EqU47Uty93dF9bFO+Fsr3S8+4="
+  },
+  "0.1.0-preview.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-0.1.0-preview.9.tgz",
+    "narHash": "sha256-ricHikCeVN3CVUahywhksmhtFybIHsUiA55GZ323LCA="
+  },
+  "1.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.1.tgz",
+    "narHash": "sha256-/Z+qFZ1OKK3M/N8UDyqabJrWsuV2zv0WjBQgUmmgUnU="
+  },
+  "1.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.2.tgz",
+    "narHash": "sha256-kRM/0Noz7N593wOUGI4oVinK1oYxPkntOeh8q4EQOxo="
+  },
+  "1.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.3.tgz",
+    "narHash": "sha256-JFLF9ArHq+QZLq3MiDmJHNRQHu3eFB7gGWWaHumY+F0="
+  },
+  "1.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.4.tgz",
+    "narHash": "sha256-JZittDtmMEMnHy/IMqJ+oXT7fX6qC2SwHL5mFT/Aa9U="
+  },
+  "1.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.5.tgz",
+    "narHash": "sha256-MpZR9GU8iRLkvpAXlfFl2ZL9qH0jFnVML6OTXhfAZLg="
+  },
+  "1.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.6.tgz",
+    "narHash": "sha256-roWWNr+41tidJ1R9lozHAG5B3wAfJFpFTd6/pC/0fv4="
+  },
+  "1.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.7.tgz",
+    "narHash": "sha256-qLI7TxOrhz0g57CoyXMjobQHVsodfJU08Dxh+8zeOA4="
+  },
+  "1.0.0-alpha.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.8.tgz",
+    "narHash": "sha256-llFB5Uo1+beIsgN+zQp99S0FGBJGxDOrssFjN9Fj1v0="
+  },
+  "1.0.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-alpha.9.tgz",
+    "narHash": "sha256-W/uk7ybroUceUvT3umocpuE0hh9K0+WBHC8S/fdlRb8="
+  },
+  "1.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-beta.1.tgz",
+    "narHash": "sha256-E1u/8YZJRZvX677rA5G7Et+aXCdFMesqlmXNroyAHNA="
+  },
+  "1.0.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-beta.2.tgz",
+    "narHash": "sha256-03eNMnCo6wxf5VXKE6rgscs3jgEPX3Z5lp8GrYeG/ok="
+  },
+  "1.0.0-beta.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-beta.3.tgz",
+    "narHash": "sha256-BD2gPjTIaQwJiuiEG681cT3fHn2XXWtD2FkJ9/MiZjo="
+  },
+  "1.0.0-beta.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-beta.4.tgz",
+    "narHash": "sha256-v7FcIcf+yVoqmksAu3TVGQT1L0lZ54i+OqoA7S+gy6c="
+  },
+  "1.0.0-gamma.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.1.tgz",
+    "narHash": "sha256-IGBNnTg5qrpNiMprgLuynoZtJi4XCeAttTnG2HuoGRs="
+  },
+  "1.0.0-gamma.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.2.tgz",
+    "narHash": "sha256-FF4I7ku8dMsLqOwupy31hey4ABhYylANsbOiKSRKATg="
+  },
+  "1.0.0-gamma.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.3.tgz",
+    "narHash": "sha256-rXeVlaogCeWUtXRaS8SprxaF2uSZ4U8XKgMWrY2nmys="
+  },
+  "1.0.0-gamma.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.4.tgz",
+    "narHash": "sha256-BSjZ22rV3pBW/vawbt+dK0y9mvg1yj71MjzUAVpP3qE="
+  },
+  "1.0.0-gamma.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.5.tgz",
+    "narHash": "sha256-Amy3At1Zh5cTatVBW/g1BOYXx7sRz5Zmk51exjpSHdM="
+  },
+  "1.0.0-gamma.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.6.tgz",
+    "narHash": "sha256-o/pO5MLAnPPaNm2t1xPNL/Mh1SGXQY/pwMq6Y1nBi4M="
+  },
+  "1.0.0-gamma.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.7.tgz",
+    "narHash": "sha256-MKQhbndZMBwc477sNB1QcpmRLLPxkKfd0KM0S3iiEyY="
+  },
+  "1.0.0-gamma.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.8.tgz",
+    "narHash": "sha256-kHHwH6T+dg1KSs4z2Unv+n4TKOLUdxVxKNDq1pgd6Cc="
+  },
+  "1.0.0-gamma.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-gamma.9.tgz",
+    "narHash": "sha256-nnE0R4jkaLCIm+Irux7Bch0dwml13SWkxKMK28oqdiE="
+  },
+  "1.0.0-rc.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-rc.1.tgz",
+    "narHash": "sha256-2MkyDdJ2V98AlzFt6tg5zwCi6XTyZkMXLPJORmRLJ1Y="
+  },
+  "1.0.0-rc.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-rc.10.tgz",
+    "narHash": "sha256-cjJ+YJCMCsrzWm+KpIf0gaxbRRg4HyPcs4l0Bc4HRlQ="
+  },
+  "1.0.0-rc.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-rc.2.tgz",
+    "narHash": "sha256-y00cgr5sQXhYa9s+yl23G9e0D8emFOcH1j1G6bXWyLg="
+  },
+  "1.0.0-rc.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-rc.3.tgz",
+    "narHash": "sha256-dukDOylg2t0V4FnO/9CZz1t/W+lhCHev92/ZBtV7+oE="
+  },
+  "1.0.0-rc.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-rc.5.tgz",
+    "narHash": "sha256-PZc5K7TFdcyYgTutksZoNlCA2gp4qLXhilujwNg1cy8="
+  },
+  "1.0.0-rc.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-rc.7.tgz",
+    "narHash": "sha256-35nPd2n3S+/q4lMMezEvSXwxYWRBUxrcgcjJeX8hqaY="
+  },
+  "1.0.0-rc.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-1.0.0-rc.8.tgz",
+    "narHash": "sha256-iGnmN9bsKB4IR0K+di7DoSt08vu7ffYasuf8AGFjnoc="
+  },
+  "3.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.0.0.tgz",
+    "narHash": "sha256-9uybXTyMLrBNX4Dhgd3vUbJhl86yn4tCb9+m1+Ymr8Y="
+  },
+  "3.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.1.0.tgz",
+    "narHash": "sha256-C9cU8ympvHdkV35wwT1QspZkMrzkcdstGcREQP9S9Yc="
+  },
+  "3.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.10.0.tgz",
+    "narHash": "sha256-tlRnZJKsorv0fXjBmPIPpP2YkJ9u7aG6i4OjCoJspqs="
+  },
+  "3.109.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.109.0.tgz",
+    "narHash": "sha256-ZIPJizxTn41Wap/DlrPfIME8sDSSEsGnByOLvez9qRA="
+  },
+  "3.110.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.110.0.tgz",
+    "narHash": "sha256-1vaUmHmVmFIX8te8UCbNFIslp2dH5jsR0hZ7h9f4tmU="
+  },
+  "3.118.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.118.0.tgz",
+    "narHash": "sha256-BF2oHyfxU+3ugf5ysZt9f30CNOhoLZHqqi1bxt/mw3I="
+  },
+  "3.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.12.0.tgz",
+    "narHash": "sha256-/znBZSgbIpHh3TrNd7dHIURrn5LDLFBZcTaJtfIZUGo="
+  },
+  "3.127.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.127.0.tgz",
+    "narHash": "sha256-MCBWCZjQ9GiG/u99zan3x8/gWjWWX4zfwW9/WwyTDCM="
+  },
+  "3.13.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.13.1.tgz",
+    "narHash": "sha256-mQC7kiXY9AJeSHq70meXMuGHJquy/2m/w0AHX9z+5Ik="
+  },
+  "3.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.15.0.tgz",
+    "narHash": "sha256-RrdR63ooNrIWR+qv0n0ZFwcDjwv9qsUgaUgRKgZ23ts="
+  },
+  "3.159.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.159.0.tgz",
+    "narHash": "sha256-uASVW0Y+PAVEMNeC6SZPjX+N5XADklQ1dEUgJ6EIqPk="
+  },
+  "3.160.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.160.0.tgz",
+    "narHash": "sha256-ZERTlbF7zai4oAGvQzNIilfCO4qvBsx8XCZW8SPs44I="
+  },
+  "3.162.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.162.0.tgz",
+    "narHash": "sha256-E7olT9y6sVgmwn+FS5drZZ9xetkVQQJIzmF7Ycb2i/4="
+  },
+  "3.168.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.168.0.tgz",
+    "narHash": "sha256-zMC4oCaHQkkkkqovGN1TiRF97LNldlVYKq8T/5jDROQ="
+  },
+  "3.170.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.170.0.tgz",
+    "narHash": "sha256-amtu+pLRSBUFHSy7PbrAeIYrvG9U9KJrlUtm9JZXRhc="
+  },
+  "3.171.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.171.0.tgz",
+    "narHash": "sha256-gsYCmQEll0+LwatB/S2FpY5qLTlIoAi8QT97/YYLhUA="
+  },
+  "3.178.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.178.0.tgz",
+    "narHash": "sha256-U2B6NiiG+tQ8yFIZK5Tedefb9Ea2xqU1BJBKG4nwsDM="
+  },
+  "3.18.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.18.0.tgz",
+    "narHash": "sha256-2gdo1ZOYSnaqOTsOnO25SQOzHzoLdPrT4pOFH1Kl1t0="
+  },
+  "3.183.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.183.0.tgz",
+    "narHash": "sha256-1Qc+rsje6xSvJNbCOqndHJ+ePyfJjs0oWMPfzUXRNCE="
+  },
+  "3.186.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.186.0.tgz",
+    "narHash": "sha256-XbbUf+YOoU6QvvAIQItGdo1C2MFfxwRZR/f8ZiMK7xM="
+  },
+  "3.188.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.188.0.tgz",
+    "narHash": "sha256-VmitrVNbRITdYYXJKUen6ZaFqRRVpN89DBJmp9Mt2nI="
+  },
+  "3.19.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.19.0.tgz",
+    "narHash": "sha256-GpH5iyOyFycpqC/9/cr1pyNtbQPt/OcnAUhdchsMzYw="
+  },
+  "3.190.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.190.0.tgz",
+    "narHash": "sha256-JDmogZBTfJD7AO092goqzMjUIdPiZ87nVAOhjPxk8+E="
+  },
+  "3.193.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.193.0.tgz",
+    "narHash": "sha256-KeHVfwJd189BHi9151m9oOi3OhGy4tk9tYEt+yQnFpc="
+  },
+  "3.197.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.197.0.tgz",
+    "narHash": "sha256-+h2DX/4QFIBxb35Ak4tU5pWnBmyFVBeiPokp1KvLowk="
+  },
+  "3.198.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.198.0.tgz",
+    "narHash": "sha256-pKbN23AfdphsPQVcNzLdwKAth77dTNwWT8lhf1mPQBI="
+  },
+  "3.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.2.0.tgz",
+    "narHash": "sha256-NwjOrwIWWbX+UWjtl7+akQFS381rLMWfSu9BGMeQ8uA="
+  },
+  "3.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.20.0.tgz",
+    "narHash": "sha256-ak9FsS0HfwM5QoSR7vQ4bbPKRj6VWo9oM1ehUCuOF+Y="
+  },
+  "3.200.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.200.0.tgz",
+    "narHash": "sha256-6PWaWUFxTAO/uQZZet7bySV+1ivOdub9iY8llCgpvpI="
+  },
+  "3.201.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.201.0.tgz",
+    "narHash": "sha256-VxYIEQf4Rk35TLunZO7Q3a/QqE4j4nVqwuY/3OohwRc="
+  },
+  "3.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.22.0.tgz",
+    "narHash": "sha256-Q0sHzjB0rNUFUcAKDlh8C4bg9IzpbMQQYH8wf4xXKyE="
+  },
+  "3.23.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.23.0.tgz",
+    "narHash": "sha256-Jzm3cicTcLBaIymiIDh38LmwzlBV3u+nMeck1toz7hE="
+  },
+  "3.25.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.25.0.tgz",
+    "narHash": "sha256-PfqEwO+6TsISedMuVy6I/u7hpzetGoWGTVe82Ip3EZc="
+  },
+  "3.27.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.27.0.tgz",
+    "narHash": "sha256-U9NzsDp347mkp6+wG4+vynwQ8NzNjYKW5OwvFI3+SQg="
+  },
+  "3.28.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.28.0.tgz",
+    "narHash": "sha256-htCyfT2G+Awp70chpSQKZOQNcAnFLMskG1MyXInNvmY="
+  },
+  "3.29.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.29.0.tgz",
+    "narHash": "sha256-jB7k46VM+SOm0J4sCBT5hrqVjUV3tvEslZHIZDKXik4="
+  },
+  "3.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.3.0.tgz",
+    "narHash": "sha256-3suNB87bOw/Y/1FLDElFUhu4CPnXLW22GSsPBJz/Quo="
+  },
+  "3.32.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.32.0.tgz",
+    "narHash": "sha256-dLXDEYt43qb4bu8pYdDhGs+TTu+p8n83PxVS1VP6hfc="
+  },
+  "3.33.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.33.0.tgz",
+    "narHash": "sha256-RF2PsOVNa8drcBUNK6BTbQFR9En6k/2k45fgpv41QKc="
+  },
+  "3.34.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.34.0.tgz",
+    "narHash": "sha256-k5iglWN4474/FKq54d8XhvUcLvd/VVZciwIYK3fUyqg="
+  },
+  "3.35.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.35.0.tgz",
+    "narHash": "sha256-w/f/cGx0wzdXddxlWjhHvk6DyDXyTFlWm0nT1PKqnkg="
+  },
+  "3.36.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.36.0.tgz",
+    "narHash": "sha256-zhtLG32eE9k3KjJuIJscHlhQ2FIMh//V8baYo+I7350="
+  },
+  "3.37.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.37.0.tgz",
+    "narHash": "sha256-7r+sGZRvS+yrl7z2NsoSHVqZpUXKfM/vqA62e6724YA="
+  },
+  "3.38.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.38.0.tgz",
+    "narHash": "sha256-GxVU/MwxUhVlOGMglocAwRNr2b+dDnHLh8nNrLlNRm8="
+  },
+  "3.39.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.39.0.tgz",
+    "narHash": "sha256-J2nCC2Kd//A7Z2jxayaLJxuiBJrZUSNBIbiTOoLuG4o="
+  },
+  "3.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.4.0.tgz",
+    "narHash": "sha256-hT6M5H2DF6xpgV7VUqowPLOA8HUVH2YbpKtro2C+ztE="
+  },
+  "3.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.4.1.tgz",
+    "narHash": "sha256-PhD0SM37OWAkSx/8/pvDLNR4nt6VWrlcEE4bkPWt6rc="
+  },
+  "3.40.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.40.0.tgz",
+    "narHash": "sha256-JTuonZhffBCRRgbPv2sI/Fyz+VKesedojTe+sUMIymM="
+  },
+  "3.46.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.46.0.tgz",
+    "narHash": "sha256-9HqZsNx+xYfS12bE4LXZd4Xk9QdVswHCru26uRwQ8vM="
+  },
+  "3.47.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.47.0.tgz",
+    "narHash": "sha256-0DAch93VnCIUF2E3Xxs30Vb62e4sf/ZUhxOdlVkNSpY="
+  },
+  "3.47.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.47.1.tgz",
+    "narHash": "sha256-EaD4Oe3TXyI836ey+u02wWCKA99DwURRyjTeADvFMIw="
+  },
+  "3.47.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.47.2.tgz",
+    "narHash": "sha256-C8l3wJn2X8TC7J6hPmUUtXp4fVbu2nJUTQEUqSPfFBk="
+  },
+  "3.49.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.49.0.tgz",
+    "narHash": "sha256-WhuAGDKswTC/9WTNLgw9e8ZafGDm/bmDJZCOZthGnEY="
+  },
+  "3.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.5.0.tgz",
+    "narHash": "sha256-I7JC69Jtp9hgnJ59pXQgXNmZ/t6Rd+Hjw+Pf7bewx0g="
+  },
+  "3.5.1-rc.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.5.1-rc.0.tgz",
+    "narHash": "sha256-NCbdQUJPblQCzgujZpJYHyWAY1AugeMxBOhKLho9qE0="
+  },
+  "3.50.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.50.0.tgz",
+    "narHash": "sha256-b8h89p3B4KkzFdhJEkyB4GhWNIZqHqPT22u1v0nREH0="
+  },
+  "3.51.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.51.0.tgz",
+    "narHash": "sha256-A2RjF6LowYlWnISP2fYxKIANB+MGNWpBvb8paLmPr1M="
+  },
+  "3.52.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.52.0.tgz",
+    "narHash": "sha256-VgESduIG2pY+SuV4Lig3cWzFG/1dbbz2xqDdRXntWII="
+  },
+  "3.53.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.53.0.tgz",
+    "narHash": "sha256-RtTcSj09axiQYrb7nw6yQnZFgAh2bbTCxjmHqwSY/s4="
+  },
+  "3.54.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.54.0.tgz",
+    "narHash": "sha256-O+5q22YGsg0he+NzEBylVr+UlnFihAdPOxNFvbYeoRE="
+  },
+  "3.54.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.54.1.tgz",
+    "narHash": "sha256-VQVqkyeCdHEJhu2BVAQdQZM7m//MRoNnHGYP9FH+gD8="
+  },
+  "3.55.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.55.0.tgz",
+    "narHash": "sha256-BhVctaiTy1jfDxZ9nGnMxbcfJRKiThkQHJHEoQedbQ0="
+  },
+  "3.56.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.56.0.tgz",
+    "narHash": "sha256-FnpVkAV+vbUoBI2MJlgNyQPRq6dAhGoXfhc45jVgP/E="
+  },
+  "3.58.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.58.0.tgz",
+    "narHash": "sha256-Qc9dptc90gQeFvv7N79ZzYaKOMVjLqUgFJR3/gXEV9g="
+  },
+  "3.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.6.0.tgz",
+    "narHash": "sha256-Iqw1oBLQenQDxm1T52/GCZ4ND3xZ4tLuBZ3cUppQ2aU="
+  },
+  "3.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.6.1.tgz",
+    "narHash": "sha256-+4MAsarotCG96X/MwvAdKwHR69HRdcV6r+rVF9dIbF8="
+  },
+  "3.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.7.0.tgz",
+    "narHash": "sha256-e2QsA7KaFV0Y8RXf7bYc7F5IWCi4UlZE4YSqbkA2oeo="
+  },
+  "3.75.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.75.0.tgz",
+    "narHash": "sha256-NpXRt5LHfTLhilzaPw3m645ZsD0TrgdRlfkFr6LOcyc="
+  },
+  "3.78.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.78.0.tgz",
+    "narHash": "sha256-hON6B/F7NAG/Ue+4ulFfb1cABgVEf0250nm8S2frrZQ="
+  },
+  "3.79.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.79.0.tgz",
+    "narHash": "sha256-FtPVdhcv2ZxUvR4y5rTlhfjG1zJkvo3rEe13Xwzj+as="
+  },
+  "3.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.8.0.tgz",
+    "narHash": "sha256-GppJYG5AwKOaA9wQ2+sx6XN5iLtsjRZbT3xc9LesH2A="
+  },
+  "3.80.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/util-user-agent-node/-/util-user-agent-node-3.80.0.tgz",
+    "narHash": "sha256-OEkrT9fFlShBAKWUaiWgqff39g/16EY2R8rsOpItI8k="
+  }
+}

@@ -1,0 +1,867 @@
+{
+  "0.1.0-10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-10.tgz",
+    "narHash": "sha256-8CaniS+jT7KqeEi1paFhmAGhumpZtY74UvNlaTVa/i4="
+  },
+  "0.1.0-11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-11.tgz",
+    "narHash": "sha256-dDypUIXgGNH5nK+EZuOkaWE/fnQyUsQIhKlDVYrzhag="
+  },
+  "0.1.0-13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-13.tgz",
+    "narHash": "sha256-54h613XGnAewmAYURrovsaPvTBRpBg5TmbmE7z2A/D0="
+  },
+  "0.1.0-4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-4.tgz",
+    "narHash": "sha256-nggX5O/YGADkVleIZGMBcOBHEVI7pILmFQg4IQyeRM0="
+  },
+  "0.1.0-5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-5.tgz",
+    "narHash": "sha256-7z20SJoFKLSsatvZmqU4pm8pe6q7N7oTVeacSTGhcvY="
+  },
+  "0.1.0-7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-7.tgz",
+    "narHash": "sha256-GX2GDCu/vlO4TBdOc2iVoRCqSbVbTcHthIv54VUSaAg="
+  },
+  "0.1.0-8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-8.tgz",
+    "narHash": "sha256-QvYxL28oyy1tgdqfY8vTmHs627a/6ND7I1310h+Klm0="
+  },
+  "0.1.0-alpha.3f56f9b5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-alpha.3f56f9b5.tgz",
+    "narHash": "sha256-M12fmKlu4fv0no3C877Itm453ygDckuG7fAAOpoqwTQ="
+  },
+  "0.1.0-alpha.4e442cf7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-alpha.4e442cf7.tgz",
+    "narHash": "sha256-IOtq+1vRvjXhpsLaAhMfS0JhwawCIX5cvzTL3nJyU1k="
+  },
+  "0.1.0-alpha.a272cdc2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-alpha.a272cdc2.tgz",
+    "narHash": "sha256-CWvtwnRtbWXN5wpN75y93ke6JG5MYlNmvbIan4WtE8U="
+  },
+  "0.1.0-alpha.c6942b9d": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-alpha.c6942b9d.tgz",
+    "narHash": "sha256-UjSWhXfteRqx3DLSavvMNdiIHYPbA80FhNB3/VVIBM8="
+  },
+  "0.1.0-alpha.dc0cce4c": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.0-alpha.dc0cce4c.tgz",
+    "narHash": "sha256-rg+RQb+ssv8pH+W3FC1sIgGLpRqr1YV0aMFbk/s16Uo="
+  },
+  "0.1.1-0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.1.1-0.tgz",
+    "narHash": "sha256-dNwMXwHIdpSGQk9IRrgGKNr/MCcOuOiGFZjOZpV7vqA="
+  },
+  "0.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.2.0.tgz",
+    "narHash": "sha256-XXT11J0F2j868h5dgeubFIPGknw0dWA8eQD7Tafg6pA="
+  },
+  "0.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.2.1.tgz",
+    "narHash": "sha256-GqFnz7z1xVT5mvyawWleKsZCO8+CtdOWn8OeNzUbSkI="
+  },
+  "0.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.2.2.tgz",
+    "narHash": "sha256-uN3Aiv+6ja58LlYEuayOtyfE5nT6kjjpvIj99vHSzkE="
+  },
+  "0.2.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.2.3.tgz",
+    "narHash": "sha256-7ob6vOU4PGhC3wgn+xxRn6C+2irwtkkwl3+p2tziTnM="
+  },
+  "0.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.3.0.tgz",
+    "narHash": "sha256-6qXCHdh6aWHEMagO4X0b9U+EM0gf1gVW+tkJnkI4HmQ="
+  },
+  "0.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.4.0.tgz",
+    "narHash": "sha256-YfNRjJVU2CNIE2zBVLlxUFSSZ2pTWn65tnHf1wc38ZQ="
+  },
+  "0.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.4.2.tgz",
+    "narHash": "sha256-dcMesx8eBLNZlPlFVHPDoXYa+w6MU+UhvDvSNnkRVak="
+  },
+  "0.4.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.4.6.tgz",
+    "narHash": "sha256-JuNwJFGoim58J4QcfkQM6Ueyr10racqufJCsA9zqBs0="
+  },
+  "0.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.5.0.tgz",
+    "narHash": "sha256-qou0WQBTo5Un0sLBpCEBbrSdl9PB4/TMC6au5XY7O5s="
+  },
+  "0.5.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.5.5.tgz",
+    "narHash": "sha256-M0EM0dK/vhZjDCsn0LsYQbs0rc+VystMOfvOkqI7jp8="
+  },
+  "0.5.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.5.6.tgz",
+    "narHash": "sha256-NXGievw2aXHGKqhjp6eqtrAFGk+REWiRpWZLShY9mNY="
+  },
+  "0.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.6.0.tgz",
+    "narHash": "sha256-E5gB2Z55vBc/JdM8JFGAkGqOPom+PWtHnKZliICOu6E="
+  },
+  "0.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.7.0.tgz",
+    "narHash": "sha256-BcOcQNq193c72TAyIbpWNEwA2BMU/r2dz+Mvi8gyUEU="
+  },
+  "0.7.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.7.2.tgz",
+    "narHash": "sha256-vBGrl3XmuIxLjfCe2HbueaM5DTj6EKnU77de4TL9SOE="
+  },
+  "0.7.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.7.3.tgz",
+    "narHash": "sha256-8Ktef4zfZlMDAnbrYa2p/KW6MEkRwBHxLB4qxPDdf78="
+  },
+  "0.7.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-0.7.4.tgz",
+    "narHash": "sha256-HY+BPjrNIfqmhTOfDTCCd7jupEnQ4mGX6/pjYEo057g="
+  },
+  "2.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0.tgz",
+    "narHash": "sha256-yAh3JF+BcAsLuDhYAK/2tsPFizM6ZF/DH43uSW9q3bs="
+  },
+  "2.0.0-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.10.tgz",
+    "narHash": "sha256-0eINJZIE9VVinzp4XXTNtNinXi0U5n1WSxnyfdKf74Q="
+  },
+  "2.0.0-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.11.tgz",
+    "narHash": "sha256-6EQleSKHIbMJyAVrHviGPwwgURJaHjmnX45qTW8O3dI="
+  },
+  "2.0.0-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.12.tgz",
+    "narHash": "sha256-dbgKGgNi+PpfeONRmH3IBWbxN9Dhfxcolgdp/OhW5+w="
+  },
+  "2.0.0-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.13.tgz",
+    "narHash": "sha256-liHa20NIbsH+wXAApcHtH+SsLXKmlOIEB5GJuReK7Qw="
+  },
+  "2.0.0-alpha.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.18.tgz",
+    "narHash": "sha256-dVTdH1Bnn4bis67DTcEQRvJKkuYvk5eYp7PHFajFfPE="
+  },
+  "2.0.0-alpha.19": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.19.tgz",
+    "narHash": "sha256-Ztp+vPYpS77/UpVEZf7SqpDcZqcjmBXyBK+vSSBvrHI="
+  },
+  "2.0.0-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.21.tgz",
+    "narHash": "sha256-bUbsczN/NCbi1psfMrHcrLPLa0c4wt/Sfkg+HLYsgfI="
+  },
+  "2.0.0-alpha.22": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.22.tgz",
+    "narHash": "sha256-QDUhBZuEDbRZPngm7DkLiXH2/uCmlSOcxoYluY0TF04="
+  },
+  "2.0.0-alpha.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.23.tgz",
+    "narHash": "sha256-z6Jjm+qnYUCWJwkEVaM21vOUyksmLhRAncchtNwsL94="
+  },
+  "2.0.0-alpha.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.24.tgz",
+    "narHash": "sha256-2xiia1EoXtci1av2HH36hzU8XcbjitH4qDt7JrUIOkM="
+  },
+  "2.0.0-alpha.26": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.26.tgz",
+    "narHash": "sha256-fhFie7ES9SJUV8zHapg8dxO6nBphdunp/aI1jjYq2y4="
+  },
+  "2.0.0-alpha.29": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.29.tgz",
+    "narHash": "sha256-RBraMsrgMdbzFQikwJV4utFTknSl7NqfwlqoVvlvH6w="
+  },
+  "2.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.3.tgz",
+    "narHash": "sha256-z4OJonLDKw9yHxY315BvEQYaFXJTJo7r9dhrMoALilM="
+  },
+  "2.0.0-alpha.30": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.30.tgz",
+    "narHash": "sha256-XeGCTMwY9rIfmiqYBycXJcS9BXkwuQUfCkTMprDU1yM="
+  },
+  "2.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.4.tgz",
+    "narHash": "sha256-UhQCfWzz/kwyQlUF/8NXJK3ZbBMlZk8COCSY4zZDqC4="
+  },
+  "2.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.5.tgz",
+    "narHash": "sha256-jq1w4/H8I9eVUpoIhkZLSD2gi8vorkK41mcvE/P9aNg="
+  },
+  "2.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.6.tgz",
+    "narHash": "sha256-rd84tTU6Tqn1XeYUwmYvhHqaSDN01IkpZ+jJlviAFVw="
+  },
+  "2.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.7.tgz",
+    "narHash": "sha256-pX6Uv93vELmoW+04XZlRi6nQQSx//fkwKs2yytbbtO4="
+  },
+  "2.0.0-alpha.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.8.tgz",
+    "narHash": "sha256-qofmUUQYf4uwPq8tbYWywjSh9NrP4CxFNWHqAlyU6pE="
+  },
+  "2.0.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.0.0-alpha.9.tgz",
+    "narHash": "sha256-wPAqk+TZmRhI2N0UJ47JZDLr+Jx2Mj8AlTnPNfi6jdo="
+  },
+  "2.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.1.0.tgz",
+    "narHash": "sha256-7xbGSHddi5gnWfplm4Goh3GBx1VU9Q8uXXEkHCz3Czc="
+  },
+  "2.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.1.1.tgz",
+    "narHash": "sha256-w6kOjeJIGRSFuZylHGHiL5IHVgG6C3rkr6iTNeFxaOs="
+  },
+  "2.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.1.2.tgz",
+    "narHash": "sha256-ASn0uRKFjUn0voPfnIrhjSwLCCOBVpcIbNP/I9ii4ZU="
+  },
+  "2.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.1.3.tgz",
+    "narHash": "sha256-8LhNnMDAtQDIvD2a8/fT3jxN3YsZdMwwho6/vtBTTfs="
+  },
+  "2.1.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.1.5.tgz",
+    "narHash": "sha256-2qiXVmO6GarxkQrslnx4JSL55rs/Z1e5lsPAnfN/qcg="
+  },
+  "2.1.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.1.6.tgz",
+    "narHash": "sha256-9z1UWc9qAXsJdBdAGOJnDv09mLvChflB+rxQiqwkWhs="
+  },
+  "2.1.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.1.8.tgz",
+    "narHash": "sha256-CMCJrXYHtVLtuhdAMhYyeGVaLJmOJe1Qxlp5ZVoMuEs="
+  },
+  "2.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.10.0.tgz",
+    "narHash": "sha256-to9pi/0BTf0WbfbRvxtYBryogVfit6Qga7cv9zobeOk="
+  },
+  "2.11.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.11.0.tgz",
+    "narHash": "sha256-hwehGZXK9aqvQRsa25Sb2bowKJea6vF+2WhVuetzxWA="
+  },
+  "2.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.12.0.tgz",
+    "narHash": "sha256-rNR8Uab6B4uBCGonB5CYubDfOJ7CE7mE63Gzvy2x5IU="
+  },
+  "2.13.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.13.0.tgz",
+    "narHash": "sha256-zsIRtRi6sFCdJ9rIEoQMpj+nuXFdlItAFqlKuO+vipU="
+  },
+  "2.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.15.0.tgz",
+    "narHash": "sha256-sCJC7ToEQMWyV5XLee84nsy91+fpdpIUFqxT2WC/7Ic="
+  },
+  "2.16.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.16.0.tgz",
+    "narHash": "sha256-KB+m8tl+CW3ckyDVl/3piyEcqrHW8CD2p2LtMMuVDM4="
+  },
+  "2.17.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.17.0.tgz",
+    "narHash": "sha256-FfqX8qA3aE806oBH1a0y1UUuHmubnTWl+NdbVvCHExI="
+  },
+  "2.19.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.19.0.tgz",
+    "narHash": "sha256-Cq+PtMjYaz2x7TxrkrhzhMqamULl/nJ13Or0dY/P+4c="
+  },
+  "2.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.2.0.tgz",
+    "narHash": "sha256-wGqWnL2gYqXIX5jTGcOVsaac5xTfOorOwwwDKISqf5w="
+  },
+  "2.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.20.0.tgz",
+    "narHash": "sha256-EM0aVQBcfw00IxPP5N1m2Dao+k51Yicf1nlT2D+/EQA="
+  },
+  "2.21.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.21.0.tgz",
+    "narHash": "sha256-VFB0BESa675uPhoHi9WHenFZx/LfjVZ6KJZv8INbTHw="
+  },
+  "2.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.22.0.tgz",
+    "narHash": "sha256-XjyGBLYCTU+bQsbFAok0CFtYaRtc2bjxUJp2bGGS3uM="
+  },
+  "2.24.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.24.0.tgz",
+    "narHash": "sha256-4IYbvLyRbVCb0RygehQlCmBHn9BE0CyT97gHrOYgMDs="
+  },
+  "2.25.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.25.0.tgz",
+    "narHash": "sha256-ut3q4fxjF6iNyYrL45wYfdZ03CmIDltJ9bnuTYQwcBs="
+  },
+  "2.26.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.26.0.tgz",
+    "narHash": "sha256-dAfO0L6hESW7kW+s7cAm3XZ83+VB+eLL1S6VGbDQhow="
+  },
+  "2.27.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.27.0.tgz",
+    "narHash": "sha256-O7aMtbRgNypxCRP7OYRkpKzc+IlWh9NZaYQOi3ui22o="
+  },
+  "2.27.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.27.1.tgz",
+    "narHash": "sha256-DoC3ftpwhi2j/mp+C2jo5XEHyvVXuVJodcU7n7YFxsM="
+  },
+  "2.28.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.28.0.tgz",
+    "narHash": "sha256-ZOCybt6//ZSAHt13PbRwJELgqvAETvCW150pLNWliyk="
+  },
+  "2.28.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.28.1.tgz",
+    "narHash": "sha256-SKQq1vZXH0w8Kz3KjQdKPGPqEl/Ac86uY/ReGrN56BM="
+  },
+  "2.29.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.29.0.tgz",
+    "narHash": "sha256-NvR8kQqyaPT1hBKpWQ44E5piRNRbT31nA/Gv91hhJlc="
+  },
+  "2.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.3.0.tgz",
+    "narHash": "sha256-X5qFMTHPOuuUqqp8dGdOcCnxV2pp17x5ZzJrBI/DMs0="
+  },
+  "2.31.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.31.0.tgz",
+    "narHash": "sha256-b1Y1NyX2oN3swrbbV06osL1uOtqSS15Kf2tlYVXNfIU="
+  },
+  "2.32.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.32.0.tgz",
+    "narHash": "sha256-VdlBKl13ylSoLOVLUqMzc0jFV9iJn4QtjSBEWHg8JgU="
+  },
+  "2.34.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.34.0.tgz",
+    "narHash": "sha256-SnxoAGyk2KW+BfrjNjw+d1+6T5UtBoDqwsNzq9FAbC0="
+  },
+  "2.35.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.35.0.tgz",
+    "narHash": "sha256-h4JZtvPkTlHTyPgA5CXVQbl7f/qHpVUNsl3WXyZqRuQ="
+  },
+  "2.36.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.36.0.tgz",
+    "narHash": "sha256-K66dRyqmNRZP1aTWax2YydKPRuNEFOsag/1KLlTmjQk="
+  },
+  "2.37.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.37.0.tgz",
+    "narHash": "sha256-VampTKOCUjZC6sNFEWE3WOJKERjO0Mp6GAqfmtjQ8qQ="
+  },
+  "2.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.4.0.tgz",
+    "narHash": "sha256-KnFtBCEAtggdNlXkkMASKEBTnFJJyVuzfLJf6b7tLGw="
+  },
+  "2.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.4.2.tgz",
+    "narHash": "sha256-8x+HknA5xZQA4LGK+Yd2a6WSw1vKt1GicmU+sgQXRbU="
+  },
+  "2.40.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.40.0.tgz",
+    "narHash": "sha256-T79Bh2U//Q8GHFEbl+i928HbI/oFkwlDSYFZGwHtT0I="
+  },
+  "2.41.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.41.0.tgz",
+    "narHash": "sha256-tutxV5ioSbBxDW86sHggNBjiW5n0IipmiJwoeOJ1CDA="
+  },
+  "2.41.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.41.1.tgz",
+    "narHash": "sha256-CeVbM11QWWWPXDfjxsr9J/W3x4bUrI3N1kveYhtOO/8="
+  },
+  "2.42.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.42.0.tgz",
+    "narHash": "sha256-4AJQHscn1Fpe1zOz2zQ7gm/ZHJxpChUvpZpD/3uaZZ8="
+  },
+  "2.44.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.44.0.tgz",
+    "narHash": "sha256-Xni3GsGyCfgeqfGhwAqDAY0Iaug9IUXu0aYMjVlsZss="
+  },
+  "2.45.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.45.0.tgz",
+    "narHash": "sha256-04CKsDrYNO3iqGSnfHYkayNmwlY1AdiV/nIBF19AadQ="
+  },
+  "2.47.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.47.0.tgz",
+    "narHash": "sha256-Y+K5+YG4RxqoGHcEgTEsdgqu0b8aXyFRPytUccttAlo="
+  },
+  "2.48.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.48.0.tgz",
+    "narHash": "sha256-kBkkpKCD8dB3nD8eyTK1uAN6ew0UiuwFyQPk7Iy+aN8="
+  },
+  "2.49.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.49.0.tgz",
+    "narHash": "sha256-dCc3hzRG+WKVoY23LElKZ8lKne/wJFbFgqzxkBNZX1Q="
+  },
+  "2.5.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.0.tgz",
+    "narHash": "sha256-Zs33x37y1hddIcPNXLTnkEJsHSkWLGGxxFiYc6w9/5s="
+  },
+  "2.5.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.1.tgz",
+    "narHash": "sha256-6CfP8VK+2wsWgmwCdFt0x+Sc/Xru6g56LGr8QfTxmUo="
+  },
+  "2.5.0-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.10.tgz",
+    "narHash": "sha256-zzumIM5lcCF+f4GadBD5B5r6hYQn8V3iNmplBtpTncY="
+  },
+  "2.5.0-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.11.tgz",
+    "narHash": "sha256-KT6vIdq3owCXZsvc2N+dfP4RW5mtajUVAcfA5sI3ZGk="
+  },
+  "2.5.0-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.12.tgz",
+    "narHash": "sha256-2+QAq0qVga0PHVlHUhcuPmLLBUlAzn9Iy1NTl9hajBI="
+  },
+  "2.5.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.3.tgz",
+    "narHash": "sha256-IF5d347B169gVnm24/xWLWvaToTpyKvwMHybGpIL5pI="
+  },
+  "2.5.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.4.tgz",
+    "narHash": "sha256-sm/z9QBSqjrSA9nRTnxR9CEI5nQJBZqist6gxrJcm/0="
+  },
+  "2.5.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.5.tgz",
+    "narHash": "sha256-rP7IpHfQoqDTXoL5SoxdzZJ334HQwND7WOWI8UWQ6SU="
+  },
+  "2.5.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.6.tgz",
+    "narHash": "sha256-9wdoYot1z68A3+el+OcLTwlICsPY9qNnzk+GexsKsaE="
+  },
+  "2.5.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.0-alpha.9.tgz",
+    "narHash": "sha256-ZoJjqO0YJ+wIeJ6fDmQBNV/pJZT/hI+tulRMFOdTkoo="
+  },
+  "2.5.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.1.tgz",
+    "narHash": "sha256-2tASEwzwxxnzfDBvVv5gneDsaTh53ktBfgglgoZ5tcQ="
+  },
+  "2.5.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.10.tgz",
+    "narHash": "sha256-C0lP5JVPbobiRzO2VDLWbi+K9LWpA2JOSsxzEnlbX/E="
+  },
+  "2.5.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.2.tgz",
+    "narHash": "sha256-tZ4MAZOxmviyRXOZulILboDHejBGDybjPBdX62Byql8="
+  },
+  "2.5.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.4.tgz",
+    "narHash": "sha256-IWOzI0r+6XsCZVwU7Yp1R/0/nE8pO2lPyh22gW8xvqs="
+  },
+  "2.5.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.5.tgz",
+    "narHash": "sha256-UU3wK36I70oczy6bIcksm13XksqfCvmeF8FJ6M3LKOY="
+  },
+  "2.5.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.6.tgz",
+    "narHash": "sha256-OZ89+tuAHN8iLG/1H/5NKG/234NS80Jkne3D3reE80g="
+  },
+  "2.5.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.7.tgz",
+    "narHash": "sha256-dLvLjqv26kaWNBhISJBYUpwhfaU5/ZwnNO7wIUoD/Ss="
+  },
+  "2.5.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.8.tgz",
+    "narHash": "sha256-KAw2yr7TT319NWPeq+65zB/sM/GRPAU8NK2updHmeBo="
+  },
+  "2.5.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.5.9.tgz",
+    "narHash": "sha256-ZYe3lQRFy/3xLgCLGhN0UcD5Ss2p49NvRJy19A82n0s="
+  },
+  "2.51.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.51.0.tgz",
+    "narHash": "sha256-QnnGCL5kD34SVUyiAR/bBUP94lIvcojRcirxi8IxqjU="
+  },
+  "2.52.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.52.0.tgz",
+    "narHash": "sha256-0yXA0eosgG+F73NUfABJLVhe4t7m3A7GVjMkSFmIUAs="
+  },
+  "2.53.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.53.0.tgz",
+    "narHash": "sha256-JXRBnPzRXKITGjiOZIs7eIJYHuJhwbG37MHZX7Lt1+8="
+  },
+  "2.54.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.54.0.tgz",
+    "narHash": "sha256-1Ruk2IDWp8Xit/iexRGL0uR1lMDfLAnL3aT3OnJBW1g="
+  },
+  "2.55.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.55.0.tgz",
+    "narHash": "sha256-ebP4a9OdxB+tXFeS300+ZPg5lPpTk1JvpwTkfOB8E2g="
+  },
+  "2.56.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.56.0.tgz",
+    "narHash": "sha256-z6d+n0vQvhJ5J42immV0IZGWLiz/lhYOAjxnGl1Vehk="
+  },
+  "2.56.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.56.2.tgz",
+    "narHash": "sha256-qE5r2xH9+ogru2W4SINX+eFmsBT71KizgOsN7WPZpGc="
+  },
+  "2.57.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.57.0.tgz",
+    "narHash": "sha256-+k8s+HtmKHlB9fASDTI2e0fIxjeMUqvynVoDdnfQ7/s="
+  },
+  "2.59.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.59.0.tgz",
+    "narHash": "sha256-lOlQ1amZwsANb4zicUpZWSZIrXI/f6JYXlNIOtyd+nM="
+  },
+  "2.6.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.6.0-alpha.0.tgz",
+    "narHash": "sha256-NeXLHvRM61JmK8chjsd/f648T/sWr9lhQxJjcd6QcAE="
+  },
+  "2.6.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.6.0-alpha.1.tgz",
+    "narHash": "sha256-6Rz2SYCGm0UDHpgCKyWU11Rlxix5qh1EY2D522Prpa8="
+  },
+  "2.6.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.6.0-alpha.5.tgz",
+    "narHash": "sha256-rClqiuhfW9C684KiMkUBlMU24MErWrTUVrbXBxgQkYg="
+  },
+  "2.6.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.6.0-alpha.6.tgz",
+    "narHash": "sha256-I0ovftxWiA0K2k5czg/sh1/rDBR2NPjU+gLCD4ZwA5Q="
+  },
+  "2.6.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.6.0-alpha.7.tgz",
+    "narHash": "sha256-lK3JYcowHE2JLBCEtPmjRtfUWK7RGWJlyZSEqRPF7+8="
+  },
+  "2.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.6.1.tgz",
+    "narHash": "sha256-2Ts+viKWKDAgK9c+GkIObiGeInpEfKX3xnGpm+cYcDg="
+  },
+  "2.6.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.6.4.tgz",
+    "narHash": "sha256-dGyXu2oe1u2S2LBrIOrFMPr3gNrxAL9UW4+R0DCMwLo="
+  },
+  "2.6.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.6.5.tgz",
+    "narHash": "sha256-MitZygxxYNV5DurVt/canke+jDEO5Ez+RNN8wsy+vWQ="
+  },
+  "2.60.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.60.0.tgz",
+    "narHash": "sha256-dYk2qnQHDPt1Mf70fYMhEQLq6uP0zWZRxfH7RP7KVy8="
+  },
+  "2.61.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.61.0.tgz",
+    "narHash": "sha256-JW2jxPzJIblqT0qg6bZjISrQqzRi7FduYBFbiuUo6Uc="
+  },
+  "2.62.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.62.0.tgz",
+    "narHash": "sha256-4kF+3dNmf6MlWpmneKi5b8J1yR/p0rtyPIiQbwM4elI="
+  },
+  "2.62.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.62.4.tgz",
+    "narHash": "sha256-3xkIV2EWHCuHPTYwa6RKQ6O4Hd3pd4cDuc0y5OFlmj4="
+  },
+  "2.62.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.62.5.tgz",
+    "narHash": "sha256-WeNEkZrpJHDYOg6NMaHcYfFSeLjBtlXZpoWLclW74es="
+  },
+  "2.62.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.62.6.tgz",
+    "narHash": "sha256-QIhEp4mZ3MuMev0SmdotOCcgsBOWbwkaenbfwqu25dk="
+  },
+  "2.62.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.62.7.tgz",
+    "narHash": "sha256-FA9DuAMtNtmLiBdLzgd9Ranw6AA4lk2uSyXMafwlUSw="
+  },
+  "2.63.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.63.0.tgz",
+    "narHash": "sha256-KxLROm8h4yublfmKqf5lPN6r6mjRYaMAgR/fwBMJvyI="
+  },
+  "2.63.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.63.1.tgz",
+    "narHash": "sha256-IMykHRfj0GhyxDCnEm15W6JytEHvde8Bz+v1wE+Q4Ug="
+  },
+  "2.63.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.63.2.tgz",
+    "narHash": "sha256-j35v0GaVRGbnNsA3Tvl1S1OWZIASeu8xmESZBwluRTc="
+  },
+  "2.64.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.64.0.tgz",
+    "narHash": "sha256-K+6NMwZsDRuuPxAvz261N7NL2uYcQXfTl67LVUgG1Fc="
+  },
+  "2.64.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.64.1.tgz",
+    "narHash": "sha256-uwYidmEZCdPOYpNtEjpC9hxF08gkMt6J5zUvF+pusJ4="
+  },
+  "2.65.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.65.0.tgz",
+    "narHash": "sha256-81jWOKlQ6Mb9o8xZq5WKzA0wEbWxhDtUpLapUfOGx4A="
+  },
+  "2.65.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.65.1.tgz",
+    "narHash": "sha256-Flq/wJLuJ/ucs9fzLbn40agcgxTveAiocqQI0grgMbA="
+  },
+  "2.66.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.66.0.tgz",
+    "narHash": "sha256-rOV6IVnquXZzgx3gSy/xUPtFwDw11yBJP8PzFyjVJ+U="
+  },
+  "2.67.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.67.0.tgz",
+    "narHash": "sha256-pyj37kqSvqFTbYjrlYtFMS6vHAL9CD1mvPEcwmT5Qlc="
+  },
+  "2.68.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.68.0.tgz",
+    "narHash": "sha256-70PcMA4HT6bWXzCqhscB9OYou8Utab5wz1P4I4N6YzM="
+  },
+  "2.68.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.68.1.tgz",
+    "narHash": "sha256-5bZy3D5Ky0aVf/eCOF2M78GvKgZShID870JkxDRjf2E="
+  },
+  "2.69.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.69.0.tgz",
+    "narHash": "sha256-MxQIuzG2hzJ7lo4tQaqs+RYW40ok4GnkNF874i7q8yc="
+  },
+  "2.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.7.0.tgz",
+    "narHash": "sha256-vd74RQdLpWNoyaVTc2cMlHbffd4WzHUFZNZWIYAaH80="
+  },
+  "2.70.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.70.0.tgz",
+    "narHash": "sha256-fzOyYmFX2bhnyRBMMB+WI/EZqRGRUHpK/iXPWxDgCPs="
+  },
+  "2.70.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.70.2.tgz",
+    "narHash": "sha256-yxI7evZhumSf8dZmv+7zdZ8zEakmB4RA0PJPQIA+9K0="
+  },
+  "2.70.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.70.3.tgz",
+    "narHash": "sha256-Nh8cETcRfwbilJ13Dj6mNIEHgrS22sLm4K70xhcl9fs="
+  },
+  "2.71.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.71.0.tgz",
+    "narHash": "sha256-LWY7kScXj9AxBUr0KcojfaOOjJN6Ivif7zRtFjglct8="
+  },
+  "2.72.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.72.0.tgz",
+    "narHash": "sha256-UICLfTfl+wlz15jicXX3KAN3ktS24iNr9dxZQ0Wifpg="
+  },
+  "2.72.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.72.1.tgz",
+    "narHash": "sha256-318ackbyqTJ04njmNTbc7H4SWUbUeTuDu6UXcy8okkQ="
+  },
+  "2.72.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.72.2.tgz",
+    "narHash": "sha256-AqGCw2HfRrlEZoZgnq/f/nxAEyGph3I3rt8UyO+2ThE="
+  },
+  "2.73.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.73.0.tgz",
+    "narHash": "sha256-6jYttBFRLOiWUxxeZp9sL01qWPi9jOffbefU/rv2MAk="
+  },
+  "2.73.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.73.1.tgz",
+    "narHash": "sha256-NtbKQ2MOCHYnH0D4cOZy9jbX8K1G5Ev8qFuMXTjYrzc="
+  },
+  "2.74.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.74.0.tgz",
+    "narHash": "sha256-WfQggyPpofehaaZH6nivLoQBoNIeuz1qKk2QUqxfvbQ="
+  },
+  "2.75.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.75.0.tgz",
+    "narHash": "sha256-qO9tnVexxpMHoXXKpz6ANu53ie/8fCirFcJflAcDIE4="
+  },
+  "2.76.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.76.0.tgz",
+    "narHash": "sha256-btIQ0FZyz7dkOflnjFqvBKByl8k1zCV381KQQk4jQH4="
+  },
+  "2.76.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.76.2.tgz",
+    "narHash": "sha256-Dv849rDNxO9L7T1avt5ADcN/Lz6IPrdtmc0UYQphlME="
+  },
+  "2.77.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.77.0.tgz",
+    "narHash": "sha256-ZW1KfEYr5uIU4GLUra8+sBiTeTokO29mdEHSVUb4/kI="
+  },
+  "2.78.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.78.0.tgz",
+    "narHash": "sha256-y5q2V/IGPUTrVjWm8YKBdcF/kOP7QYJMWp4NGTpnz44="
+  },
+  "2.79.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.79.0.tgz",
+    "narHash": "sha256-LQKAC9pKdzA5hKOTZluOSmQoGmEuOSWg5cFMR1EG0GI="
+  },
+  "2.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.8.0.tgz",
+    "narHash": "sha256-GXcE5c9tofaTf854gxkOQ+BnK14d3KSQOUi97ZJV/5A="
+  },
+  "2.8.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.8.1.tgz",
+    "narHash": "sha256-N+KuPjOBtCdUuDtQC4OKYCtEKoF/J6JxkeWwkVCrtrA="
+  },
+  "2.80.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.80.0.tgz",
+    "narHash": "sha256-tQyQybRK7d/srm9QBFwoobrfQJ/KKWCi12LvGbdYyVo="
+  },
+  "2.81.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.81.0.tgz",
+    "narHash": "sha256-9Ns1l2MfsYBkNXqDAHkHgnbUzgm7biYCf/Z7BqpZklY="
+  },
+  "2.82.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.82.0.tgz",
+    "narHash": "sha256-fDi79YbqY7VWJO7sszF/Tt2Pcc6jHfthsHIf8mS/aiM="
+  },
+  "2.9.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-service-filter/-/node-opcua-service-filter-2.9.0.tgz",
+    "narHash": "sha256-X9uWYaifsu4up0cmeobDB3yvyLNpONNJFAXQx5XZmvw="
+  }
+}

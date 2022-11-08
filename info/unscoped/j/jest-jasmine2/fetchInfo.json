@@ -1,0 +1,1457 @@
+{
+  "0.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-0.0.0.tgz",
+    "narHash": "sha256-/zdmNFWFEL8rzxTPPlO1RW+Gtiax0OtY22bjgIKU3fg="
+  },
+  "10.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-10.0.0.tgz",
+    "narHash": "sha256-cvjWzKKiRMOkHNP1Q29cJ+4xEFeDHbbd/TuV3NBZfIM="
+  },
+  "10.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-10.0.1.tgz",
+    "narHash": "sha256-QyWspuNrNC9qTdX2L6wiA0a2Aw6BtUUlVxhI9eYNWO4="
+  },
+  "10.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-10.0.2.tgz",
+    "narHash": "sha256-WwtFREvWjMuDiJVUT7r/pFx7MsIALO+4REQJvbgOqEw="
+  },
+  "11.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-11.0.0.tgz",
+    "narHash": "sha256-INf4lwo80n16EcomDyoKAaO8WHfw5T36XZYK+ZI3+Fo="
+  },
+  "11.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-11.0.1.tgz",
+    "narHash": "sha256-fk9oIq1lnJuMHGUyfCsSOaP2pqSLwQ+3KLNaoXMIra0="
+  },
+  "11.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-11.0.2.tgz",
+    "narHash": "sha256-MCao/SureHUZBfEVzpIKJfVa92IGut94YcUtqAISTZ4="
+  },
+  "12.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.0.0.tgz",
+    "narHash": "sha256-NgV/KTeVxWzrFjqUj1fEaOBHrb9/Wr/RVpGxnF1hooA="
+  },
+  "12.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.0.1.tgz",
+    "narHash": "sha256-DkuSeUtOObPsg0ztkIq++6oy7qkGCtky/BpfxdIROwI="
+  },
+  "12.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.0.2.tgz",
+    "narHash": "sha256-m7AWfADRnsPO0+TcyvO3go8MP3iD8l6s/tJJu6boCf0="
+  },
+  "12.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.1.0.tgz",
+    "narHash": "sha256-ZR1WBo61foao9RlJIIxfMWnKSlOzEBp1XoV7DUTLvyE="
+  },
+  "12.1.1-alpha.2935e14d": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.1.1-alpha.2935e14d.tgz",
+    "narHash": "sha256-ekGZ1XguSnwwPDmyU8CjpHui5qNXvQRwlR0+X5tBqGE="
+  },
+  "12.1.2-alpha.6230044c": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.1.2-alpha.6230044c.tgz",
+    "narHash": "sha256-j/uoow+MSvlPsAV4TDnQ+5CpXaSDvaNQJDLLqmJ9thY="
+  },
+  "12.1.2-alpha.a482b15c": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.1.2-alpha.a482b15c.tgz",
+    "narHash": "sha256-54beKUbz5hA5JvQbw4IBo/foHaXBCOgmguAjzeqdlVQ="
+  },
+  "12.1.3-alpha.6230044c": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.1.3-alpha.6230044c.tgz",
+    "narHash": "sha256-tLZTdQLH0rfaQNPp/qk2/xcu62NQCe/tOlIFPfesmWA="
+  },
+  "12.1.4-alpha.a737c6e5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.1.4-alpha.a737c6e5.tgz",
+    "narHash": "sha256-svE2Ibek9fpZLltqtzK27g4Vm8ykUBVqLqylkE80Rrw="
+  },
+  "12.1.5-alpha.b5322422": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-12.1.5-alpha.b5322422.tgz",
+    "narHash": "sha256-BIcW6FB2ZezDxYF7ctBmW1BPJ0NebvMeCIQulUYJ6Xo="
+  },
+  "13.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.0.0.tgz",
+    "narHash": "sha256-zadtKW8DUPw7bLd9sPss8SRpjzBHfZRPr14ZVCNWaY0="
+  },
+  "13.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.1.0.tgz",
+    "narHash": "sha256-8ZScNZ+2vKPKIhB++Ax2qd7DT/qSTI8Zq9AqLxGuKX0="
+  },
+  "13.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.1.1.tgz",
+    "narHash": "sha256-0SA346F30Qy0dr1LrfRycBSsLFG61FNfZk/KaleShXM="
+  },
+  "13.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.1.2.tgz",
+    "narHash": "sha256-LTddnbcGzy0f4NdV3RTj9AkQPMLG9rdwx9GrlmEcBj0="
+  },
+  "13.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.2.1.tgz",
+    "narHash": "sha256-mxBtbOpBDlwP/84v7tBTJKs0G/cuGUETkRO6sC69jEA="
+  },
+  "13.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.2.2.tgz",
+    "narHash": "sha256-bMkfDbwJmbl2qmUGzW6v4kQUARSB0EgxsZju5uxTRco="
+  },
+  "13.2.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.2.3.tgz",
+    "narHash": "sha256-E8797bOHA6IfzmeEt/X6CQPq4CqoCCQBBMyvxr9CTf0="
+  },
+  "13.3.0-alpha.4eb0c908": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.3.0-alpha.4eb0c908.tgz",
+    "narHash": "sha256-JMWyGSMhilswE/adbwKe43QJXtyJKLXOWz2/Mh24btg="
+  },
+  "13.3.0-alpha.8b48d59e": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.3.0-alpha.8b48d59e.tgz",
+    "narHash": "sha256-AOl86QyUdVUE79kUBSbjDKloh1uyRrdZJj6wTvgtWSo="
+  },
+  "13.3.0-alpha.a44f195f": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.3.0-alpha.a44f195f.tgz",
+    "narHash": "sha256-tzVmilNQIjx71rnu0QKvX2eXiGVIBM8Xn2n+ctQb2NM="
+  },
+  "13.3.0-alpha.ffc7404b": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.3.0-alpha.ffc7404b.tgz",
+    "narHash": "sha256-p1Gi3z8TrJXqsJCCNL/poWO/BVFPf7yAD7dFJTrZpOg="
+  },
+  "13.3.0-alpha.g8b48d59": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.3.0-alpha.g8b48d59.tgz",
+    "narHash": "sha256-W6pkq907Pw+50MUUPeQWWXfIIWWFpvQXDayYdooSV9U="
+  },
+  "13.4.0-alpha.d2632006": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-13.4.0-alpha.d2632006.tgz",
+    "narHash": "sha256-RZ0Qp+VgK3lntSwkEWhZFdTmE+zfvHIwPxXjsIwcNBQ="
+  },
+  "14.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-14.0.0.tgz",
+    "narHash": "sha256-33sVebizjbg2cO6Jl6sR5aU4Bi+wzcQFQ6/lFbxCbcc="
+  },
+  "14.2.0-alpha.ca8bfb6e": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-14.2.0-alpha.ca8bfb6e.tgz",
+    "narHash": "sha256-zw5m0H/uIHXGvpCn2cxrQQqQ7PIPYcNgUXtRyIYc97M="
+  },
+  "14.2.1-alpha.e21d71a4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-14.2.1-alpha.e21d71a4.tgz",
+    "narHash": "sha256-07PZY7fwEyURrsXxlO/+MLAJ0LEX2eQFglo4+xHk9w0="
+  },
+  "14.2.2-alpha.22bd3c33": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-14.2.2-alpha.22bd3c33.tgz",
+    "narHash": "sha256-GaL2G641X1d7Nz6tC/CgfjjGX3nl/CnTnFLI9qNgqhs="
+  },
+  "14.3.0-alpha.d13c163e": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-14.3.0-alpha.d13c163e.tgz",
+    "narHash": "sha256-StvgvueaC/gbCdeUEkljULZm4XKQiaT0LylfPBmrdjg="
+  },
+  "14.3.1-alpha.410cb91a": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-14.3.1-alpha.410cb91a.tgz",
+    "narHash": "sha256-+wIsiSP0Dpwj2mh5G2vCjMmhyX6R5ZmhBAqoyOkDtBk="
+  },
+  "14.3.2-alpha.83c25417": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-14.3.2-alpha.83c25417.tgz",
+    "narHash": "sha256-ibUH1+j66EQZ7ds+lkkil/PcocF1wwxfgu4QGgjBLrk="
+  },
+  "15.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-15.0.0.tgz",
+    "narHash": "sha256-QvXrNCRPjxpvx5mEUlVkT6fg7H4OxONW8r36Rme5Nn8="
+  },
+  "15.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-15.0.1.tgz",
+    "narHash": "sha256-hprVK/9w46Yqct/koGwXIPrXVI31C5FVmm0lUmaVulc="
+  },
+  "15.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-15.1.0.tgz",
+    "narHash": "sha256-RuZgzEeUILzcEZ6DltjAmUvMfFqUVjqeK13lGWymZQY="
+  },
+  "15.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-15.1.1.tgz",
+    "narHash": "sha256-7C7rfPFO/oeYjLsoreAZwgcr+FklL90TSJyWeWo4yj4="
+  },
+  "15.2.0-alpha.c681f819": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-15.2.0-alpha.c681f819.tgz",
+    "narHash": "sha256-GKcJNBcNoE2eMrdUJdBZPjkGcKUGQ2GVnsgh7KZ4/zo="
+  },
+  "16.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-16.0.0.tgz",
+    "narHash": "sha256-3C+OoRyduIUZuFsxfIYpHj0pFV0ZP0YdcS/Rgsm0kJI="
+  },
+  "16.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-16.0.2.tgz",
+    "narHash": "sha256-7n2PPDSHHlKzAiAw706drR77xlkUI1YSkqyCD2gPgHQ="
+  },
+  "16.1.0-alpha.691b0e22": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-16.1.0-alpha.691b0e22.tgz",
+    "narHash": "sha256-EahfwgU05VQNKyH9R3mKTTWaqIgOMdFoXuWid8bXgO8="
+  },
+  "17.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-17.0.0.tgz",
+    "narHash": "sha256-5vz1rJVsegTNNL06/4ljAyDlZBfJsNYCXaspHz4NOlo="
+  },
+  "17.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-17.0.1.tgz",
+    "narHash": "sha256-7wfiApNyEZlezDI+TuyhZbUq1ooIPAYlEZaIOdhAzfM="
+  },
+  "17.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-17.0.2.tgz",
+    "narHash": "sha256-3KNjNnUQ1jXi15S7nnUHlD8xpnfRV+itscykTst8bZ8="
+  },
+  "17.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-17.0.3.tgz",
+    "narHash": "sha256-UHOyvwDg2M9jwvsRfQv+CMt5yUrjl6yXsWwy5pEks5g="
+  },
+  "18.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-18.0.0.tgz",
+    "narHash": "sha256-zYtbzH8bW+/5ApvUPfk1O4z51MqUs01WbVNQM6Wt2s4="
+  },
+  "18.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-18.1.0.tgz",
+    "narHash": "sha256-pr/SJypmhxcmR9K1f0PpeyJotOPY0HavuaYwtveMQU8="
+  },
+  "18.5.0-alpha.7da3df39": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-18.5.0-alpha.7da3df39.tgz",
+    "narHash": "sha256-9aTqv2tOAD5N5kmWgJAskTtWBNSeHjbfHyNwxVHUUcM="
+  },
+  "19.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-19.0.0.tgz",
+    "narHash": "sha256-iy+VBFQGcexvvnSy97Ah+oT+5FJ0Q463Mp35+rJZ8Zc="
+  },
+  "19.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-19.0.1.tgz",
+    "narHash": "sha256-hWLlBM3FFwDlBKMFLiKJhO7XlOc4FWZIE3uD6fqZ8XI="
+  },
+  "19.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-19.0.2.tgz",
+    "narHash": "sha256-zLxerqH7aXRJMxvjP43Wtwu1gjOx4vfKILbO7AtRfOY="
+  },
+  "19.1.0-alpha.eed82034": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-19.1.0-alpha.eed82034.tgz",
+    "narHash": "sha256-KSx2Lj4o+P0BdYZ+Ocu+psW3TAGpGCoQGLFIt3vRnbg="
+  },
+  "19.2.0-alpha.993e64af": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-19.2.0-alpha.993e64af.tgz",
+    "narHash": "sha256-cxlSA+Fp2rIgy+W4oDV8MlMguyztphTZ8DYfsQG7NP0="
+  },
+  "19.3.0-alpha.85402254": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-19.3.0-alpha.85402254.tgz",
+    "narHash": "sha256-L4CkaWAADaeyMVCYjjD8tGJyDV41wjPPI7CXh1d7/1I="
+  },
+  "20.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.0.0.tgz",
+    "narHash": "sha256-b8XbU6yIq1+BMZR5XA/mWU8ZWkA+dldJwI/go6iVpLs="
+  },
+  "20.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.0.1.tgz",
+    "narHash": "sha256-L8E+IFkbkQpNE8+zCg1IwS8s/LLdn1wr+Kmf2nZVd5I="
+  },
+  "20.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.0.2.tgz",
+    "narHash": "sha256-2MdY/sdVlqwIu0xEasBBT5b3+adrUhzu8YgQbJ8m0bo="
+  },
+  "20.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.0.3.tgz",
+    "narHash": "sha256-8uJsB61cje+mHoWgCetefuwwvN02AP+titkf0ES6yrU="
+  },
+  "20.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.0.4.tgz",
+    "narHash": "sha256-m6qivWTh65N31p4U2V/E+uzfZcQPxMZQeoyhd4XG3mg="
+  },
+  "20.1.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-alpha.1.tgz",
+    "narHash": "sha256-Ib7ojg0O9fdDNEUVCulbiuyxIVG7fuqjYThQlspQXcY="
+  },
+  "20.1.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-alpha.2.tgz",
+    "narHash": "sha256-12LaiOEuZ5mrysfMVMBrRKJdjfehF5bDOJzPZGQ0DjA="
+  },
+  "20.1.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-alpha.3.tgz",
+    "narHash": "sha256-HNUTZomB3qKjAtIV+rPVY/Li+Aw1CyjiDla4JdlpGlw="
+  },
+  "20.1.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-beta.1.tgz",
+    "narHash": "sha256-wZQpGhBRWVwreycBJjtmeUeHCqVYg/AGcEA/qkzGIUA="
+  },
+  "20.1.0-chi.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-chi.1.tgz",
+    "narHash": "sha256-ieCmAyDeaGZ0Ly597P6pJxTRvfYOHGiCWdm6HOdXDRA="
+  },
+  "20.1.0-delta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-delta.1.tgz",
+    "narHash": "sha256-UnKmZ/ZH3IvIkJ/OoiHLWOB4l4kmMt7YCrgsC1VYbd8="
+  },
+  "20.1.0-delta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-delta.2.tgz",
+    "narHash": "sha256-TVp7d/DBZNf9xoVsGUv8I7FLu4DLsF59Aije7THwkMU="
+  },
+  "20.1.0-delta.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-delta.3.tgz",
+    "narHash": "sha256-KEViR6Y8t+17RhrRaReV2YnByS1dcY4StIxBrnahld4="
+  },
+  "20.1.0-delta.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-delta.4.tgz",
+    "narHash": "sha256-MSzuHw/CPTH/8n43yZCroYvX1Ni43TCjQ2zTSF7FYLA="
+  },
+  "20.1.0-delta.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-delta.5.tgz",
+    "narHash": "sha256-A7gjoIZ6vej6ofL8bLaS47TlqCLBhjCvj936lvgWk5I="
+  },
+  "20.1.0-echo.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-20.1.0-echo.1.tgz",
+    "narHash": "sha256-3s28QS/I3c4FkfPa9wrnZKjcsfzNNIO0fS80Y4HeM08="
+  },
+  "21.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.0.0.tgz",
+    "narHash": "sha256-Bg91TdKATxjcpnUAmlOKDpLzh/+T25pKFhH6ymEbt1U="
+  },
+  "21.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.0.0-alpha.1.tgz",
+    "narHash": "sha256-0wezRzqtqtSkFXD1XMQSxpJodyDXRu+ii1jnU9y6S7E="
+  },
+  "21.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.0.0-alpha.2.tgz",
+    "narHash": "sha256-jEGasssQSXbYGfYZdJz7+EHqbzD+zHnBd4nrfOJtMak="
+  },
+  "21.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.0.0-beta.1.tgz",
+    "narHash": "sha256-xWs+1m1Do71WDOuEsCBHeqQ4J4CGhC76DV2Ib7zWZFo="
+  },
+  "21.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.0.2.tgz",
+    "narHash": "sha256-fPFHK+ToJKoVjsx3Gqh/siukc7KbxGKalsQnI1wMtLg="
+  },
+  "21.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.1.0.tgz",
+    "narHash": "sha256-OYmizsavnDiSFCOY7B4T8AD5yvhMzOt/mmM+xQvr1oA="
+  },
+  "21.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.2.0.tgz",
+    "narHash": "sha256-LChHn1CRnZHpb+LSkEHFIkCjaZzHpcSu3D0VfCXHmSA="
+  },
+  "21.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.2.1.tgz",
+    "narHash": "sha256-Rb2YVjwCcsxNyBlt7PYD5YspqeavqcjyiRd5+m8NA+M="
+  },
+  "21.3.0-alpha.1e3ee68e": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-alpha.1e3ee68e.tgz",
+    "narHash": "sha256-g8ZhYISNnytgj1yXgmtof7vTTKDu7/2QrEMoxaZ/MaQ="
+  },
+  "21.3.0-alpha.eff7a1cf": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-alpha.eff7a1cf.tgz",
+    "narHash": "sha256-0F0dTbqTq8hG095oOp1+5U9Mmj0Ripq0t7bHIyl8NNw="
+  },
+  "21.3.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.1.tgz",
+    "narHash": "sha256-EhEYL4SUmzG9Zhh6+q2mV86YDdHCgtjoYk7NcuAIcX0="
+  },
+  "21.3.0-beta.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.10.tgz",
+    "narHash": "sha256-pDK4RK6QsplMqdJu3oSWdmf6IyPJNIMiRxHCXYWQaeo="
+  },
+  "21.3.0-beta.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.11.tgz",
+    "narHash": "sha256-KovTW4Asy5tK1YM4oL3Ry7VzrKz0CK2bG6ifnYLse8s="
+  },
+  "21.3.0-beta.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.12.tgz",
+    "narHash": "sha256-Cp83tjKjYK0/XvY4bA6tYrUP8TSKCOm0/lgjZ94M2dw="
+  },
+  "21.3.0-beta.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.13.tgz",
+    "narHash": "sha256-9IB2Lp0ygFD2RSpGvbVcp2Vw9PAnpv+foD1w2m0MxZw="
+  },
+  "21.3.0-beta.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.14.tgz",
+    "narHash": "sha256-mT0VAJ+LpKsswYu3rxXTRPgUlf6uGvRsH6jtHd3mLYs="
+  },
+  "21.3.0-beta.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.15.tgz",
+    "narHash": "sha256-AFr9tOEhdftVnopEPeap5kPFUWjYD49H1xZI70oHlZg="
+  },
+  "21.3.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.2.tgz",
+    "narHash": "sha256-jW3hdhmF8hWFWM6OLlkgtKZgxzj1l2PpLxIbyBTDf+U="
+  },
+  "21.3.0-beta.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.3.tgz",
+    "narHash": "sha256-/92Du/9Qn5lVS0cBSWViBZto6q4jhdFXCwM4k6UCiwg="
+  },
+  "21.3.0-beta.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.4.tgz",
+    "narHash": "sha256-9Fcz606/LMUvszsfcxghwbGs0os1BsG4dBBUsPllsuQ="
+  },
+  "21.3.0-beta.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.5.tgz",
+    "narHash": "sha256-hlyWBbdrtrwapks4ppRHiPUWra6tutgFPi16N3gFBX0="
+  },
+  "21.3.0-beta.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.6.tgz",
+    "narHash": "sha256-PIvfI4SkW4c1oOG2PDpGGBKaFjXyjFzapeJVUauOY44="
+  },
+  "21.3.0-beta.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.7.tgz",
+    "narHash": "sha256-9Qji0S0doNIaEDniag5PzSpG4/pR6eglluTZUjFc43I="
+  },
+  "21.3.0-beta.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.8.tgz",
+    "narHash": "sha256-RYqfa8Veak05+gqd4r8tLskEhhVDyz0E0zWZuUnIMZg="
+  },
+  "21.3.0-beta.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-21.3.0-beta.9.tgz",
+    "narHash": "sha256-LpxlfMfVVGW1lpBlC3f/J1AluwHMVACSHqtCFqzPBaA="
+  },
+  "22.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.0.0.tgz",
+    "narHash": "sha256-kYoEOEZcQvz0ntJkPaTS3/rmEpCuZuOAPnkr+R2qDLc="
+  },
+  "22.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.0.1.tgz",
+    "narHash": "sha256-PMMEu8nTHQo4Kv4MUcIJxd7gXkzj5BkQEfGqxw9ZvsU="
+  },
+  "22.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.0.2.tgz",
+    "narHash": "sha256-e7w5UT7RlWXTZ21EwCNFGH2hlGbRNzmz0QJrpJ4T0tk="
+  },
+  "22.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.0.3.tgz",
+    "narHash": "sha256-J8sDfJX3IJpsnNWTBZ6mNA0dj8uER/I9YdnUfgGDCcI="
+  },
+  "22.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.0.4.tgz",
+    "narHash": "sha256-MINNyGt1lgvo0oTJKYDUqiyuTYAWveHtlYQTHRVvaIw="
+  },
+  "22.0.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.0.5.tgz",
+    "narHash": "sha256-Qq7EcHpdyzp1fxUZq63KS0ijEfvoEOJFxdfcNq/yA4E="
+  },
+  "22.0.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.0.6.tgz",
+    "narHash": "sha256-u5jn95XfBFL4ZAFTLd9KMauL0SSJi0KC9HGld1LYpvU="
+  },
+  "22.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.1.0.tgz",
+    "narHash": "sha256-RFDNdhJDfEfn2vdS5xiteqGEdLWRm/UMGxdtcX4i36s="
+  },
+  "22.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.1.1.tgz",
+    "narHash": "sha256-o5G/o/z1auHgHRLpcxNEvYIvFf7Xmcu24irg4bxzsjg="
+  },
+  "22.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.1.2.tgz",
+    "narHash": "sha256-QJgMXk4efxqeAylSMm/l7q2BBcgtCjOYKtB5cDpdRyY="
+  },
+  "22.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.1.3.tgz",
+    "narHash": "sha256-J7d33uE1J5X6iId1lns0Jq2p3WnkbmvvTuZON2um4xg="
+  },
+  "22.1.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.1.4.tgz",
+    "narHash": "sha256-exy+M9OrFUYqJZ7lhf2IG7AahnlljYOKGBYushmr3Aw="
+  },
+  "22.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.2.0.tgz",
+    "narHash": "sha256-EGTMzW7UvVMY4nu9xycpYDsYrUyp68ZlCL2fDfXnZu0="
+  },
+  "22.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.2.1.tgz",
+    "narHash": "sha256-z7LNfxhjeRep/Zt9T4W8M3twNDChLgheEfHh7gjAC5E="
+  },
+  "22.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.2.2.tgz",
+    "narHash": "sha256-M8Qg6GxRvRNE+Vvluxhd1A9g/R28Ea4C7aFQ4Mx7itU="
+  },
+  "22.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.3.0.tgz",
+    "narHash": "sha256-ffm1sZg5rIteDPWd+ltpHL4wCHh4vG3dXtsPVj06TAY="
+  },
+  "22.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.4.0.tgz",
+    "narHash": "sha256-h/VmcfUpn1TGvtQcFRJwJucxAD1m0wMcopb4FqwUcIg="
+  },
+  "22.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.4.1.tgz",
+    "narHash": "sha256-kP9F177OjrLdWm8Ulezcm4484VnhlPudPR3V31rpO8Y="
+  },
+  "22.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.4.2.tgz",
+    "narHash": "sha256-aQh2lSST6u5HlROZS8Ml+ndMtTo57EfOP5hfFd8yUGk="
+  },
+  "22.4.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.4.3.tgz",
+    "narHash": "sha256-aOreXNp+uMzk33rAtGaHXt0C+iyC7dZphr9r6j5o7FM="
+  },
+  "22.4.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-22.4.4.tgz",
+    "narHash": "sha256-XQwNHV7wJ4MACIxB8VBniG1SExrOGa5Nzz7jryMwlfM="
+  },
+  "23.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0.tgz",
+    "narHash": "sha256-w0Kk/sFejIkl9p22SCjENHFG+YhZ9J42+9S1L+c2PMA="
+  },
+  "23.0.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.0.tgz",
+    "narHash": "sha256-GXPIHaFfmX519vuLgA7J6sZvfJZB7fml4neGfrCLdFw="
+  },
+  "23.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.1.tgz",
+    "narHash": "sha256-/+GQdUbtLLtSxjnB3dbaJiNNkTHxSTZsF4tUOei9vQQ="
+  },
+  "23.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.2.tgz",
+    "narHash": "sha256-LuCGMJjaP0/ZbcZRHS7P0uxwpu3TjQ8ny1GK05Wr/UE="
+  },
+  "23.0.0-alpha.3r": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.3r.tgz",
+    "narHash": "sha256-ULvWVAllbGc2FVUyLF2GSJ2AkvSq3K4D5//GDoTvsjM="
+  },
+  "23.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.4.tgz",
+    "narHash": "sha256-TWwRrxEnuh2q3r/9tHL3yZRT4AJ/tcukYfAwvk6Os8Y="
+  },
+  "23.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.5.tgz",
+    "narHash": "sha256-Kk/5+JF1n41/euwEVcgYdgT4M5ANRtC1b2rfMH8y7TA="
+  },
+  "23.0.0-alpha.5r": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.5r.tgz",
+    "narHash": "sha256-3I+iktNE+NBXMdYC7LPmiCD7FYiSQ2mePv8nUEL4IgY="
+  },
+  "23.0.0-alpha.6r": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.6r.tgz",
+    "narHash": "sha256-9c4iT/JneSsBkfKHx9HTDBKLTYTaNJ+fhh1uNPujW3U="
+  },
+  "23.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-alpha.7.tgz",
+    "narHash": "sha256-80J8l6RivhBD1VUbWmlGNzMDvyugAgpwpburqnjW/lo="
+  },
+  "23.0.0-beta.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-beta.0.tgz",
+    "narHash": "sha256-w2t0K1QFnbsMoVm6CesPm5u51Q2mZEqnP5gco9+V7Ck="
+  },
+  "23.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-beta.1.tgz",
+    "narHash": "sha256-7cG+9MiKRFMqIadFPdJi+PuvjsDDcCrSA1oWnAXH6Ck="
+  },
+  "23.0.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-beta.2.tgz",
+    "narHash": "sha256-hzniBA2P+Fa1U2Y06i8N4NGGxoFmbJDfR2fcHVOeZdU="
+  },
+  "23.0.0-beta.3r": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-beta.3r.tgz",
+    "narHash": "sha256-JpKZeD0xe/eJ/vfSNx5SvvCyyk+KgK7p3BBFeh27Hsw="
+  },
+  "23.0.0-charlie.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-charlie.0.tgz",
+    "narHash": "sha256-oOS/jHvuNhIPbqRZPR+mgpxk5NIJPh5zTg/U6wEyCG8="
+  },
+  "23.0.0-charlie.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-charlie.1.tgz",
+    "narHash": "sha256-yDpzzLI51jIQj0XFTaHNOS+MLXq4qMKkDruwM+mTqzc="
+  },
+  "23.0.0-charlie.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-charlie.2.tgz",
+    "narHash": "sha256-kfXTG24bYvF2qqO7rXEMERj6oOgV3y2Let1RWdKeodU="
+  },
+  "23.0.0-charlie.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-charlie.3.tgz",
+    "narHash": "sha256-d8NlnLuhvHD1gk5PWqDZt9XQFyPnvtVpnyV95Mv1QJA="
+  },
+  "23.0.0-charlie.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.0-charlie.4.tgz",
+    "narHash": "sha256-HxmjMpJC0guLT4f6PUe2Lq8e8HcMAFwY6m8SLqmJGo0="
+  },
+  "23.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.0.1.tgz",
+    "narHash": "sha256-LlIYpKlzBx1v03vWalF2a9r4LOuZ5wD9xdmbReYoQK8="
+  },
+  "23.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.1.0.tgz",
+    "narHash": "sha256-X3sJRYR+nbwQfC+7Pv9kAjwr42ZB1r+0fR/B7+InVH8="
+  },
+  "23.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.2.0.tgz",
+    "narHash": "sha256-LHoPuc3eeMrvTiyC05NiJ4t9iQYrg7pM5Sscbf6GsYg="
+  },
+  "23.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.3.0.tgz",
+    "narHash": "sha256-3FDKm+7RWp1STqVOQOhcqJRiKtI68iglqNYxyOVxs9U="
+  },
+  "23.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.4.0.tgz",
+    "narHash": "sha256-RJyG6XzUYE1oUe+hKk3HdcbNlpuh6OUIuvt5W+42X7A="
+  },
+  "23.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.4.1.tgz",
+    "narHash": "sha256-dtC5ApvOHeAeXzkub76dl9Dj/DmrYKzXT+RxtoLHdz0="
+  },
+  "23.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.4.2.tgz",
+    "narHash": "sha256-x9h1L8VPsCeURenv2eAp05LBJKVrats4u3NjEULwoUY="
+  },
+  "23.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.5.0.tgz",
+    "narHash": "sha256-/bINpwLK3CmbL8kcdKqaESmvFp3Tc4NM7JzBJA7meDQ="
+  },
+  "23.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-23.6.0.tgz",
+    "narHash": "sha256-WGOHYnly//qzwYeWb1N0Ce37A/uOHH3kEaldcdNgn7U="
+  },
+  "24.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0.tgz",
+    "narHash": "sha256-uq6wIvlf3omnWZY99PzmIfN9p9uTdfXGqtzoszNklX8="
+  },
+  "24.0.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.0.tgz",
+    "narHash": "sha256-A9XwdFYUVNNISyds6Hhyzr9IMKCY0t6l2E/3ImgNpBM="
+  },
+  "24.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.1.tgz",
+    "narHash": "sha256-oYYNuMNUEkvrFCLUAqgXMkjYa71J3DlYCAw+y4C92G0="
+  },
+  "24.0.0-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.10.tgz",
+    "narHash": "sha256-wvW1bmVKe4BQMsBnewCRCMv+ZCvUFDp9iIzA5c3FOCQ="
+  },
+  "24.0.0-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.11.tgz",
+    "narHash": "sha256-mIFdWzpCiDIRwVHmvo3OLf5U4qakQWFTS8p2va5WmPk="
+  },
+  "24.0.0-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.12.tgz",
+    "narHash": "sha256-XVkKJ/R5+Ox2unXCrygIwbxRo8Bo0pz681sq6uKLdpQ="
+  },
+  "24.0.0-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.13.tgz",
+    "narHash": "sha256-NvtwmB2f3RGFk7e3WnhDyjnyhMNTLx5Hauzolzl6UK0="
+  },
+  "24.0.0-alpha.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.14.tgz",
+    "narHash": "sha256-18HOl0eE0V+7qvFcaXUPA/Zy3BFSn1fPNxMz96mf+vw="
+  },
+  "24.0.0-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.15.tgz",
+    "narHash": "sha256-EfZtFnL12/4hiMERkAZvSb8ih2kQ/mfSwcGEava4Mj4="
+  },
+  "24.0.0-alpha.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.16.tgz",
+    "narHash": "sha256-UqocxIY28mLIBl1AlSOKe8h2xg3gVMr5+U/tFOQkEV4="
+  },
+  "24.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.2.tgz",
+    "narHash": "sha256-kUd3EE9z5XsDn3hhNZS038VHeXfnh8N3eDDmd5O3reY="
+  },
+  "24.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.3.tgz",
+    "narHash": "sha256-spjnVS2xsa00dRtY2DZVseamFqsVo+cFCuBRVbrx1U4="
+  },
+  "24.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.4.tgz",
+    "narHash": "sha256-dhHlrNC/1F5g/WlicB6uZyauRVHoTCwtMM6F+HhlzaI="
+  },
+  "24.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.5.tgz",
+    "narHash": "sha256-hjjZLf6ZYEEcCUhv0urXOwYNaWYylqc24FopQCpHeTU="
+  },
+  "24.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.6.tgz",
+    "narHash": "sha256-J/SGRbJgj2sybOJEBIsBCI/7JN5RKTOAqrZjvWG+7Zc="
+  },
+  "24.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.7.tgz",
+    "narHash": "sha256-QHtv1AyHxLNjSBhem3rntlN3kBgCwcnP5Ux7RjRmSJs="
+  },
+  "24.0.0-alpha.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.8.tgz",
+    "narHash": "sha256-+T2mNdzPnxG9dahK6j+Zi/U8O0htkrElOw7+kwrZ4bQ="
+  },
+  "24.0.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.0.0-alpha.9.tgz",
+    "narHash": "sha256-sKOydVe1hWrtZVjYgxnFK2ZXcGqoe7CkrEherKNlfDo="
+  },
+  "24.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.1.0.tgz",
+    "narHash": "sha256-mvPDVkHSnCmrZL/qV3z/B+QfBFwmBJR/9e8uXnOkoUw="
+  },
+  "24.2.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.2.0-alpha.0.tgz",
+    "narHash": "sha256-P/HEfEgow6nLfmty6sc3+yIh1blYKUaTtPFa/pQ8mO4="
+  },
+  "24.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.3.0.tgz",
+    "narHash": "sha256-XADbxbMG3tVPolcWr+Q9KuE7JEL4174cSEKd8Si+c5Q="
+  },
+  "24.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.3.1.tgz",
+    "narHash": "sha256-CKZA90FwI4PkxsYvz3W3a+TeKuwmwl5+5gLX1Vii+ko="
+  },
+  "24.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.4.0.tgz",
+    "narHash": "sha256-7JXvaSqD4iS9SdAZ6nXa4NpmnD06p1oa1g+VztthYic="
+  },
+  "24.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.5.0.tgz",
+    "narHash": "sha256-OjeTk4/XAXbDc0HneWAzfDBPLoRFVyHkK6bx7eVSqZc="
+  },
+  "24.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.6.0.tgz",
+    "narHash": "sha256-LpgY+XCGUawB5VQy6QnopofdpfdfcVfwMlmn9vq3y7c="
+  },
+  "24.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.7.0.tgz",
+    "narHash": "sha256-hucBsQC27xfQsacUKfGz/k2KqHxsLECr5NeZXRiwXmA="
+  },
+  "24.7.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.7.1.tgz",
+    "narHash": "sha256-2kw+bs1Z6ZJ8RY+pi2Kk5fVmnzpvehc7Qd/14Ef/eh4="
+  },
+  "24.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.8.0.tgz",
+    "narHash": "sha256-ub/QCh7lK6lCbOsfIEJq6mB6C8F2ICRuKo6n6I2rpfA="
+  },
+  "24.9.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-24.9.0.tgz",
+    "narHash": "sha256-C//TPHtg2nopDyl05aSO7YT0TNYXRo+oUQYb+rpEIVc="
+  },
+  "25.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.0.0.tgz",
+    "narHash": "sha256-iK0X2H4uHC+SPVNDcmBc+rTek6MYrCs2PRuCR/6/In0="
+  },
+  "25.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.1.0.tgz",
+    "narHash": "sha256-7g7lXSIjiMijqJZpeaFWexBVVLmBzCBPmsrIeFpMHzw="
+  },
+  "25.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.0.tgz",
+    "narHash": "sha256-S0XoDU6VHOop9jnQ9eVLn7ecYVM5CSRmK1Hm6WWYHls="
+  },
+  "25.2.0-alpha.86": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.0-alpha.86.tgz",
+    "narHash": "sha256-5dplbZIgGtfHjdZVZpQGGbQfP1BtButyPISaEdHPD6A="
+  },
+  "25.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.1.tgz",
+    "narHash": "sha256-wcfKhsuL9jszhwRLUCvZwbJhteHK7RdiTJCPrDeVdmA="
+  },
+  "25.2.1-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.1-alpha.1.tgz",
+    "narHash": "sha256-hRyUDv4UvqPGyRSp0CCzjMmhyMjureAN6R9UdbJnGr0="
+  },
+  "25.2.1-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.1-alpha.2.tgz",
+    "narHash": "sha256-bzBUjiu4tENpiyMG22cg0Rm8ieRuNYwzT2nLDmwdC9M="
+  },
+  "25.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.2.tgz",
+    "narHash": "sha256-kxd8bPD84p+/8kibV4dEpndvuuCFlbvcvX8sCfSfMXU="
+  },
+  "25.2.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.3.tgz",
+    "narHash": "sha256-e6uBd++bLKKj9X8r1FVmy/VqVbg814y+ivxG7i2tkgY="
+  },
+  "25.2.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.4.tgz",
+    "narHash": "sha256-HD1RGLMNqOW50ANnlG+zjyiNNwjiEmenuI6RBu+h2pw="
+  },
+  "25.2.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.6.tgz",
+    "narHash": "sha256-N1Yfhsri9TmNp5GWqhDcoXBUjB9zAfWA3MlTq84eiCw="
+  },
+  "25.2.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.2.7.tgz",
+    "narHash": "sha256-MdrjJeP/aGw5zl5/LZWMdXVdO3ubsHbrjiTFoL6VM5w="
+  },
+  "25.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.3.0.tgz",
+    "narHash": "sha256-jfHuBPP9Ci8u+GqUpTNMs/FAfcj1n2+aKbn3bc1SNlg="
+  },
+  "25.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.4.0.tgz",
+    "narHash": "sha256-LIZosqq0Fq1cH5Qz+5c04sCPhIQWfEK/8xLNncGwe1c="
+  },
+  "25.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.5.0.tgz",
+    "narHash": "sha256-0AwBRmTTOiBtCgM/xcS8sJ8zEkyYQakNNXHUcF1ncDg="
+  },
+  "25.5.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.5.1.tgz",
+    "narHash": "sha256-2MgcvvIljiEq1i2Vu2qIC7j59o86g7nLGUJ2EyaJCTk="
+  },
+  "25.5.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.5.2.tgz",
+    "narHash": "sha256-mKlhmVn5XaGdOQ5Hb2U477xucLdOA+rKBD77o4aPvSQ="
+  },
+  "25.5.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-25.5.4.tgz",
+    "narHash": "sha256-ZSiiWgntOdxZ/mauNMp9alJWebcny8/SebKFtYY6aTo="
+  },
+  "26.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.0.0.tgz",
+    "narHash": "sha256-OsQgBdm4BbIbhi0RKrFtIoh2yobwFVAtSK3nfdXPX+k="
+  },
+  "26.0.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.0.0-alpha.0.tgz",
+    "narHash": "sha256-XZ3ZfQrcddpVFdDfi6VvkjkKfe9A9QDSiWgyOoUa/bk="
+  },
+  "26.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.0.0-alpha.1.tgz",
+    "narHash": "sha256-pq3iDzNWZuFFULY5mj1MtpYfxfFAJM9WkhI/hEugt7g="
+  },
+  "26.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.0.0-alpha.2.tgz",
+    "narHash": "sha256-uBEWgJaaN/T0TKLHkI5mnutsmO0vX96jHNvbKMnLDQ0="
+  },
+  "26.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.0.1.tgz",
+    "narHash": "sha256-E86uVSOssAAXbBH8I84OuGLSRTgPnbUR6a9Xs/ppVAg="
+  },
+  "26.0.1-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.0.1-alpha.0.tgz",
+    "narHash": "sha256-nK7RXTjsOIw7MKUC5r7fd8EdVtqXrd2Jn0vpfuTq29U="
+  },
+  "26.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.1.0.tgz",
+    "narHash": "sha256-dJSWaG8Gqoqm7og6OzjcpLQnTwhaE8ilkQuLp6C7hos="
+  },
+  "26.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.2.0.tgz",
+    "narHash": "sha256-RpXxvFH+meGc0lvDuHXh16nWt9PrIm3CJCBVkhuj2I4="
+  },
+  "26.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.2.1.tgz",
+    "narHash": "sha256-Ysy1sf0Yk9+Xe1guP5Z7Hey5tk2/PeVCX+zruxpofYk="
+  },
+  "26.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.2.2.tgz",
+    "narHash": "sha256-mYBtbUbqlYRPtNyLYYaa6LmCi9QWdOgLTE+nRyW7I1k="
+  },
+  "26.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.3.0.tgz",
+    "narHash": "sha256-s4KIfm+pWxZkaOfz4XlI+I1jky4M4nHfOCgkhWAJPaQ="
+  },
+  "26.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.4.0.tgz",
+    "narHash": "sha256-KqKKka+4tRUv22SWDDyNCCXUIKeslcfNI9NV3GTvRaQ="
+  },
+  "26.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.4.1.tgz",
+    "narHash": "sha256-CuRFIedqgrKQWk8CNhpy8MPQdyo+QBdigQxvElrJgPg="
+  },
+  "26.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.4.2.tgz",
+    "narHash": "sha256-tFiTDoeiGIUMd/p5zcE7nFmzfIWUBVTqdI7QvABahjI="
+  },
+  "26.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.5.0.tgz",
+    "narHash": "sha256-eFCTRER45EP6fxx7hkA+4Qbzi9OGxzfJyvIj+AnOyQU="
+  },
+  "26.5.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.5.2.tgz",
+    "narHash": "sha256-8EW+p+OB4F8q446WFAhDb9Pi1FgjZyCQxVNovd6QBBA="
+  },
+  "26.5.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.5.3.tgz",
+    "narHash": "sha256-qNN13qe0rEQdFlza3EheWlTF2QtI2T7hTbMbdMUJSt4="
+  },
+  "26.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.6.0.tgz",
+    "narHash": "sha256-3TbGAV5Jp7aJcBpT6NpuiWoHnbbY/GGiZtK/H3lgLDA="
+  },
+  "26.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.6.1.tgz",
+    "narHash": "sha256-SHr0piocDdlv91yusCfaCyhWLQSqhbyeG3nLMIUeDEw="
+  },
+  "26.6.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.6.2.tgz",
+    "narHash": "sha256-2pvbc5H2e0rHAYVcCXxFp4iuCshJ9wh/YBLHV8JI1XQ="
+  },
+  "26.6.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-26.6.3.tgz",
+    "narHash": "sha256-K+bZ/FcDDqzWPjhx354F9E9sKeAEplen+n+OI7/v7xE="
+  },
+  "27.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0.tgz",
+    "narHash": "sha256-PzIGebGOtnVEsRwPUntmGmpFEov31S7CKyyhqi2oAVI="
+  },
+  "27.0.0-next.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.0.tgz",
+    "narHash": "sha256-APKzSTdtAJ3r1nwCqddOPsJnogPou3yujmUV6vJ/D78="
+  },
+  "27.0.0-next.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.1.tgz",
+    "narHash": "sha256-bytzHxDHi273NIgBjza2qVeFVbna27wyi/Gio4aHmco="
+  },
+  "27.0.0-next.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.10.tgz",
+    "narHash": "sha256-gPVMOeelWERphvYVzffAhpNb+kuOx5xYxNIQi+Awcj0="
+  },
+  "27.0.0-next.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.11.tgz",
+    "narHash": "sha256-krY0xn8rA1+B33epWVADnRa3nppQY4e5RYSIDvL1E74="
+  },
+  "27.0.0-next.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.2.tgz",
+    "narHash": "sha256-BHkZ2xaB9L5cFn1gBi70/r0v1VsVMbeaH5tO0qlS7T8="
+  },
+  "27.0.0-next.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.3.tgz",
+    "narHash": "sha256-Gwe1VYG5rdKDEqho2sUucz7unIuc6u2ZgMQwrOOJpT8="
+  },
+  "27.0.0-next.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.4.tgz",
+    "narHash": "sha256-eXauYpqB+MvrFlgIqFQlUpU5w4BgpZlHMLI9ewn9N6w="
+  },
+  "27.0.0-next.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.5.tgz",
+    "narHash": "sha256-v881cVe7ku+tviXByBo4WtLK1rq0Jgz0e3cJVF6H7yI="
+  },
+  "27.0.0-next.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.6.tgz",
+    "narHash": "sha256-RZaJ+AaBFUptRFH3GytAQtYPgjbDZPVOWYiF+swkfwI="
+  },
+  "27.0.0-next.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.7.tgz",
+    "narHash": "sha256-LfZRv5//2AcGDD1fXdOI1gWm9mwwqJoUmdnj2GEgtn8="
+  },
+  "27.0.0-next.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.8.tgz",
+    "narHash": "sha256-zmjvgzNo+vtAtg+Z/L88r7q0mNqmv81T79pQe8XQU5s="
+  },
+  "27.0.0-next.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.0-next.9.tgz",
+    "narHash": "sha256-mptsNxFzrJtvXwN9cLv6EJ4Vlv6GmmTyUQwfMxmrysw="
+  },
+  "27.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.1.tgz",
+    "narHash": "sha256-NmcVP+nJcFe2B7/MYuK2Ey2BJYYThJScyyksnKiIAJE="
+  },
+  "27.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.2.tgz",
+    "narHash": "sha256-XbBcyQIxL++6YSxUBl3qMSO7fg0uM9i1C1jjBXg1v84="
+  },
+  "27.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.3.tgz",
+    "narHash": "sha256-S/PvCBVqANYqfjI7VD/lhh1Q72exAIA3h2Ba2HfVQeE="
+  },
+  "27.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.4.tgz",
+    "narHash": "sha256-oh/n53xKQ65B1kydQOjZSle+tfSP//eXRQF3etvjWrE="
+  },
+  "27.0.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.5.tgz",
+    "narHash": "sha256-sp0NXLkuUxLxJ0jk16s04TlCzFj2PWyQn/KGNrJIqqs="
+  },
+  "27.0.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.0.6.tgz",
+    "narHash": "sha256-NVlLOJS6bGW38LpHCCXN9RAgyBnlgO3pXBiFuxD/D1A="
+  },
+  "27.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.1.0.tgz",
+    "narHash": "sha256-TVKsLMdAhzBe1ihqSpEPyoFriW5FU6oiuD4Gjn/4VE0="
+  },
+  "27.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.1.1.tgz",
+    "narHash": "sha256-gLy1TWsFI6jZUqhfbrxqtnHIr7UxDlmn7GeMS8wo/QI="
+  },
+  "27.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.2.0.tgz",
+    "narHash": "sha256-GliQBkCJi/Q/cEAkpkJS8VBQTruUbNpTWgtNqSOC3kM="
+  },
+  "27.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.2.1.tgz",
+    "narHash": "sha256-PBARYOIGUjOcz0c4BxwWTD4BfBo9pu+cRNOEvFbZ9PA="
+  },
+  "27.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.2.2.tgz",
+    "narHash": "sha256-0mf+0PkhYASrwMGecKv9Wy2+Mp3Na9jNgORkGKXDPEY="
+  },
+  "27.2.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.2.3.tgz",
+    "narHash": "sha256-eIJH45/2LsYorlcV89cHm4YzUNrpS4NCp6V9fuwq5O8="
+  },
+  "27.2.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.2.4.tgz",
+    "narHash": "sha256-RJyiFT7ZlEtDwYgeDa7qgkwUghbRjBMjaJ0GAuTxlrE="
+  },
+  "27.2.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.2.5.tgz",
+    "narHash": "sha256-LDh9fzge4apBn1vJJ1uYpcKwRoXJ+eHg1ehBFbU+n7c="
+  },
+  "27.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.3.0.tgz",
+    "narHash": "sha256-yQjkDcrmCw5zSkgLYUwRovl17IR0jIMyse+aVw9xdA4="
+  },
+  "27.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.3.1.tgz",
+    "narHash": "sha256-B3eboLi8pL6b8KVn0E1jAOtTPnyczVA7vtratDBYbaU="
+  },
+  "27.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.4.0.tgz",
+    "narHash": "sha256-0FSJyqwoap2KYhMkPjSU9/Z8VDyXvhpQpHt6y//kX0g="
+  },
+  "27.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.4.1.tgz",
+    "narHash": "sha256-xtR5u5HMJMEYTrTJGGgxQ6lwa30KJS/og9il4a7+Bu0="
+  },
+  "27.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.4.2.tgz",
+    "narHash": "sha256-TClijmFsRtkc4pFnQpoI5250g9HooP9KJV8acdNaQs0="
+  },
+  "27.4.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.4.4.tgz",
+    "narHash": "sha256-ZQbbl0tTkS+MKAmJm/ES2f8xOEYwahaoyVP2KCK9psQ="
+  },
+  "27.4.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.4.5.tgz",
+    "narHash": "sha256-/nbn5aGEPvijssCrl6hsZnD4SFQjteFK3Z7teaU3rss="
+  },
+  "27.4.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.4.6.tgz",
+    "narHash": "sha256-ynT/UkvSrcj7fqul0AV6Vc89eBL/rirviN0CCXXuybY="
+  },
+  "27.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.5.0.tgz",
+    "narHash": "sha256-XEoy75joBU2b/j58UtYiCDjyIbExxL1NKvNecm+rLKw="
+  },
+  "27.5.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-27.5.1.tgz",
+    "narHash": "sha256-xCVaO506qN8u4R7Y0GOgFqmgO7tdMiN9+6rk2gX/YDQ="
+  },
+  "28.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0.tgz",
+    "narHash": "sha256-78W4fvmynJs81JyhvIDJAhbY3Wza5/gyYbksmBG24s8="
+  },
+  "28.0.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.0.tgz",
+    "narHash": "sha256-tbyLjExwlNXEXJY2Nce2cAR7PZZNNTdSYk6hUFnPgRM="
+  },
+  "28.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.1.tgz",
+    "narHash": "sha256-oHNbekOocEi5C6hiQpsStMpR7Jp01d3MKG9Nho5aSrY="
+  },
+  "28.0.0-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.10.tgz",
+    "narHash": "sha256-ATrh+ZturVMZT27HJ9OXKvywGzElrHRmz5dmrXitZTA="
+  },
+  "28.0.0-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.11.tgz",
+    "narHash": "sha256-9vA5ZMEuwlJqbBSFEXW83AFj67pg2IAflepMtRvwvuw="
+  },
+  "28.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.2.tgz",
+    "narHash": "sha256-A+A33wB/ixIw5Cp0CJZeUq9y39hztM0REoc/ssvP9hE="
+  },
+  "28.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.3.tgz",
+    "narHash": "sha256-vwGDe0Cg2RwmWB9NETmY3BSNDjsW0oqtkChDDz7EMOQ="
+  },
+  "28.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.4.tgz",
+    "narHash": "sha256-WzdUfJrnM1exh4y+uqobiPy2/1VWGjI2SribyXhQMVU="
+  },
+  "28.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.5.tgz",
+    "narHash": "sha256-ze7GULlK0kOojf6MLycWINO9ZPaOhqiMYD7R/6xWLlU="
+  },
+  "28.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.6.tgz",
+    "narHash": "sha256-InjWj3a/R+V2NHym+yf6jcebB8Cm6qzV26YlvKACQ8w="
+  },
+  "28.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.7.tgz",
+    "narHash": "sha256-6ZdQTM4NXnPE9b7aG4gB36fcNGoI0AI6rvZBy3MHcaU="
+  },
+  "28.0.0-alpha.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.8.tgz",
+    "narHash": "sha256-sykcZRFsZjlIqjwIE3luIdQPx5CZr6h9zznNr74f5Lg="
+  },
+  "28.0.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.0-alpha.9.tgz",
+    "narHash": "sha256-F0dNk74Q8atR/yUDOKyTZ45GG3J/zVDqbiIuUygm7ME="
+  },
+  "28.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.1.tgz",
+    "narHash": "sha256-e5DPQr3ZRbqytUvAteGBAdem8kDeFR1w6Ec+gmiPP0A="
+  },
+  "28.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.2.tgz",
+    "narHash": "sha256-b/ylo7JiDVTqoKGhMfSpMV7RWlL96Z+gRieL5jsjsUI="
+  },
+  "28.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.0.3.tgz",
+    "narHash": "sha256-NQeAowemVr8r6K86XMGRAT5tR7U78hzw64rDgEAhUeM="
+  },
+  "28.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.1.0.tgz",
+    "narHash": "sha256-zmKcwfOOBWhqpluauJUXj47uWCUppLm6B/N3swI9Bwc="
+  },
+  "28.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.1.1.tgz",
+    "narHash": "sha256-HqOWIqWmNUSlaRt82G+ZMLnrZ2D6iUnES2ft8ZE4dy4="
+  },
+  "28.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.1.2.tgz",
+    "narHash": "sha256-vjZVkjKlQ8/HuntXFoHQUBDD/C0Drq9JVL7byG/3NFw="
+  },
+  "28.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-28.1.3.tgz",
+    "narHash": "sha256-jx7qVGad10KG5IXAf6vUquWHDq/HUWf4z9Nc7nXooNU="
+  },
+  "29.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.0.tgz",
+    "narHash": "sha256-VfuaMB5cI3H9l27pOlJvdvzbVT0jFTKnUWl6RQMZ1z4="
+  },
+  "29.0.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.0-alpha.0.tgz",
+    "narHash": "sha256-g+EYPXnouY1nfzcIbVG505HM6xyBrOxZGtwYmHfzF/Y="
+  },
+  "29.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.0-alpha.1.tgz",
+    "narHash": "sha256-M17/F/H6qdm3Q/CV1xmsLUTxQlcyfVTEIahew964xiY="
+  },
+  "29.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.0-alpha.3.tgz",
+    "narHash": "sha256-QZV2w2NgUEjLeMkLWru/pDp7RD1LSJM5XjSmHyc0yy8="
+  },
+  "29.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.0-alpha.4.tgz",
+    "narHash": "sha256-VXRu4edvuGneUXvY8dzcgBVrHs2ddSY1W3vP12BXAKc="
+  },
+  "29.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.0-alpha.5.tgz",
+    "narHash": "sha256-NmudzXjePF9J7yrONLjqRZGPRfNX7S9LlwCN4VkUbzM="
+  },
+  "29.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.0-alpha.6.tgz",
+    "narHash": "sha256-1fTtrM2+XSKcnIMbuE87WrXoO4Sm5ugLmG64FnV6484="
+  },
+  "29.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.1.tgz",
+    "narHash": "sha256-P1l/5Mjh3AAVo3SviRd7BEiFO56jA2QQ1g629kqwCgw="
+  },
+  "29.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.2.tgz",
+    "narHash": "sha256-zdYY+MTFufYBTJNVrrPMQm2OKZNY67YJHF27nGT9y1w="
+  },
+  "29.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.0.3.tgz",
+    "narHash": "sha256-Xpsc9f3n6BIgpf67OdjTyJa9DDM3VviQ/W6vEeD+tMY="
+  },
+  "29.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.1.0.tgz",
+    "narHash": "sha256-C9BLHUF+XjdGZa17c5as56j4xWXgQLDzVP46GAaQx9A="
+  },
+  "29.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.1.1.tgz",
+    "narHash": "sha256-KSGJNC35Ar8PF5B+Go0Gpwxr6Uo5mK2Eis3B2GJkqMo="
+  },
+  "29.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.1.2.tgz",
+    "narHash": "sha256-YaXRZlbBGdSfiHtT3bHiQGtzWnSkNGbyTQfRq+n+0cY="
+  },
+  "29.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.2.0.tgz",
+    "narHash": "sha256-iCgdGpR1oOS2JvWaA0R22kC5KJMtFXCwNm2Sar58TjA="
+  },
+  "29.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.2.1.tgz",
+    "narHash": "sha256-QrajSpFNNtD2jXbGMsUCxVz5Nb2siUBXByoG1WVMyZY="
+  },
+  "29.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.2.2.tgz",
+    "narHash": "sha256-OYjj2FnRO3qD7O2AnY8RmZlbP62M/8NGFmmDz9UzR/0="
+  },
+  "29.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-29.3.0.tgz",
+    "narHash": "sha256-uUVJRq9M5VZ/Eal689aecczVo0pO7rD09kb+RmNedAg="
+  },
+  "9.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-9.0.3.tgz",
+    "narHash": "sha256-+G/2pImZKuFnxl76QAWuGvHm5ynaphV3mNjhYImOGcI="
+  }
+}

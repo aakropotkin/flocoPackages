@@ -1,0 +1,402 @@
+{
+  "0.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.10.0.tgz",
+    "narHash": "sha256-Fz3+dBteNBwT5sWgQmR0Zc/sIH2FfCf2slOE6XpXDQQ="
+  },
+  "0.10.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.10.1.tgz",
+    "narHash": "sha256-FVrv2bGTz0Gi0yJdqqz3plPEOkfZmfirEKnRb3LVKeU="
+  },
+  "0.10.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.10.2.tgz",
+    "narHash": "sha256-pAHlLBaLW9LsAHDzDy/qSXmqHoz4VaQZxuj3E8F/K7g="
+  },
+  "0.10.3-alpha.35": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.10.3-alpha.35.tgz",
+    "narHash": "sha256-78F73n+TdvTt3JxrFWJsVUHAHEBmelyd2BILAUrmm7A="
+  },
+  "0.10.3-canary.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.10.3-canary.0.tgz",
+    "narHash": "sha256-aaLjqs9LQ4ytnr+Dwc7cRldhtCbak5jtCQZjxz2hiB0="
+  },
+  "0.11.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.11.0.tgz",
+    "narHash": "sha256-RRQklqE9BtDZDAvlJhzgiK5YqJxUJsK8hxqHSieYCvY="
+  },
+  "0.11.1-alpha.36": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.11.1-alpha.36.tgz",
+    "narHash": "sha256-dyGzKZbwcbYy0Bdn+3Rgbrk5FlvuuGnE132y5oX0ggM="
+  },
+  "0.11.1-alpha.48": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.11.1-alpha.48.tgz",
+    "narHash": "sha256-lXMF/U3gXRcBfwdhe2lbopxBzC/8hN+hhOxwK4ZZHtA="
+  },
+  "0.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.12.0.tgz",
+    "narHash": "sha256-vxBSvoTUSiEtm8naoS294Peya47uVEDY4e5+pVE7/Wg="
+  },
+  "0.12.1-alpha.54": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.12.1-alpha.54.tgz",
+    "narHash": "sha256-5AqnUMz+CIDLF8Qw64yYg2Hv3qPQ8bwToGpE1f6scoQ="
+  },
+  "0.13.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.13.0.tgz",
+    "narHash": "sha256-Qo+A3QgaIZnN2grqIk5jRH4FcKCgy9UT5oVyQ+TyNV8="
+  },
+  "0.14.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.14.0.tgz",
+    "narHash": "sha256-ZpZDjTANclhHXV7YSnS29eQhCyxHPd2tTWnN+XHYBmo="
+  },
+  "0.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.15.0.tgz",
+    "narHash": "sha256-8WgdVz01vVHyUqZxoauXRUUJn92AazMtubrTKuLXbME="
+  },
+  "0.16.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.16.0.tgz",
+    "narHash": "sha256-xMKVyYkSwd9uNzn8qCtTqOYqLzpjdauJNCU3ArcJmaA="
+  },
+  "0.17.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.17.0.tgz",
+    "narHash": "sha256-fREXZEndEGNzgyhWpRjuxrs0abwnspc6k3GoqTVHf4I="
+  },
+  "0.17.1-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.17.1-alpha.11.tgz",
+    "narHash": "sha256-0O2FX0ltSZelVpJphYAX6qey/17Cp0Mq9MUuaZbhgWs="
+  },
+  "0.17.1-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.17.1-alpha.21.tgz",
+    "narHash": "sha256-s3kmJK4G/zpqibKfSyoImnjm3KpZolIUO8vONfKWmr8="
+  },
+  "0.18.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.0.tgz",
+    "narHash": "sha256-VeB/qVjBGsCg9YIb0aXo9rDrD505S/nR2Gmr8HYqUs4="
+  },
+  "0.18.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.1.tgz",
+    "narHash": "sha256-WsAOArCeJfHIWUuo6FTVdFaejAgzpWq1GANMvzL5/3M="
+  },
+  "0.18.1-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.1-alpha.12.tgz",
+    "narHash": "sha256-5FAS+EOhKXf+87+PQLodtZ8gXfC0NN7HsfK+aUkdIAQ="
+  },
+  "0.18.1-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.1-alpha.13.tgz",
+    "narHash": "sha256-zL9uEA8kKmpxkVw6iaNJeXleIYFM7iEYXV5yh6KwgWo="
+  },
+  "0.18.1-alpha.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.1-alpha.20.tgz",
+    "narHash": "sha256-D/5rPtDYgsoT3QOkPT47k3c69BeyixXcW/SJ7ia1FXI="
+  },
+  "0.18.1-alpha.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.1-alpha.24.tgz",
+    "narHash": "sha256-anNuiViCu8f0smqB7REJmaNRSctJOvqpjXCX3xnatSA="
+  },
+  "0.18.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.2.tgz",
+    "narHash": "sha256-elXo3tucPaMEK1i9KH8jviRg8m2kRdX9jdWzYpyBTgY="
+  },
+  "0.18.2-alpha.81": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.2-alpha.81.tgz",
+    "narHash": "sha256-SVKiv/ZjDMyb8LgwKz5SzmI/ie82v9RGblmRjqtxogA="
+  },
+  "0.18.3-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.3-alpha.1.tgz",
+    "narHash": "sha256-zTcrr/Y+WSxkWFmIN1UJ8lQg9qY2nNJqPzYEqRMw5Ik="
+  },
+  "0.18.3-alpha.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.3-alpha.16.tgz",
+    "narHash": "sha256-rwPw05o9boCdMyMeRWEJU0q+DexsGOBFQWgxNTdq1ts="
+  },
+  "0.18.3-alpha.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.3-alpha.17.tgz",
+    "narHash": "sha256-V3fdGBK83x/hGPp+kIqDLr5Stu5LFd3l2q4iXlTsetc="
+  },
+  "0.18.3-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.3-alpha.2.tgz",
+    "narHash": "sha256-BTb+BggBHEjcrJUjfzjPd2la3nKKYOLACkW5ipcWJrM="
+  },
+  "0.18.3-alpha.25": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.3-alpha.25.tgz",
+    "narHash": "sha256-k91pwiMq8FytpJ/vlsiTotT/0QhshCpUtgcUnSg3THs="
+  },
+  "0.18.3-alpha.30": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.18.3-alpha.30.tgz",
+    "narHash": "sha256-xstOT3CJY/WHKOoqAytlacdzB3bNxcq1GfnyYT9E8Ag="
+  },
+  "0.19.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.19.0.tgz",
+    "narHash": "sha256-ez1GjKYQLYcCm8Bxj4OLmD6rN6Ws5ICvd84fI9k+rzs="
+  },
+  "0.19.1-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.19.1-alpha.11.tgz",
+    "narHash": "sha256-FX5sZ6YcmDR9iIwfv5c8VtLeffaDNCb6/sNvMeFrLfs="
+  },
+  "0.19.1-alpha.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.19.1-alpha.14.tgz",
+    "narHash": "sha256-vEmyv3EJAL85nXdokzHtxdaiWv8AneQ3hS7trAv4W7U="
+  },
+  "0.19.1-alpha.31": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.19.1-alpha.31.tgz",
+    "narHash": "sha256-bWuYSdy9NgZN3mf3V8+1CENAILyQA921jPUYlMfl8WA="
+  },
+  "0.19.1-alpha.36": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.19.1-alpha.36.tgz",
+    "narHash": "sha256-6s5hRDRB9fv1mNRBl9nP2KadeO0pY7RRXLsLxAj76Mc="
+  },
+  "0.19.1-alpha.37": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.19.1-alpha.37.tgz",
+    "narHash": "sha256-HWP2RqNkx9NX1aIf8wSOgjaIjQf3zuX9cbLsABPSBjI="
+  },
+  "0.19.1-alpha.39": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.19.1-alpha.39.tgz",
+    "narHash": "sha256-pe1435bHMHfoOEZ3XxW0v7XAXK/753dwu1MEvjYWO8E="
+  },
+  "0.19.1-alpha.43": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.19.1-alpha.43.tgz",
+    "narHash": "sha256-W0Wn/WVcafInjOjwXX4i3EZI1sKH1yNI71dYMY8m89o="
+  },
+  "0.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.20.0.tgz",
+    "narHash": "sha256-kt99KsrpTTt3vABlt4NeE9wetEIU4Qd0PykyXuZBlz8="
+  },
+  "0.20.1-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.20.1-alpha.4.tgz",
+    "narHash": "sha256-9PIJhRrNAb6YO8h+qzM1xThfEoOcXIlVKJnM9E9HFcQ="
+  },
+  "0.20.1-alpha.49": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.20.1-alpha.49.tgz",
+    "narHash": "sha256-6oNE2bXmCfBxHX+jMP40DO8VMixT2XJia+FBBy9JRT0="
+  },
+  "0.21.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.21.0.tgz",
+    "narHash": "sha256-5BjyGy+giSZmEZjrZ9kGwKaTjNskcmut9yIprtQdxlc="
+  },
+  "0.21.1-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.21.1-alpha.2.tgz",
+    "narHash": "sha256-BeHmi7kwJUfgWxYNX0vQNOiRJ/Mm4YZfi7+z299CjF0="
+  },
+  "0.21.1-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.21.1-alpha.7.tgz",
+    "narHash": "sha256-GPMivmlg3nVSWsSSdk5J9DgGIQfmP+IFZ13Ly29BCrc="
+  },
+  "0.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.22.0.tgz",
+    "narHash": "sha256-+ekCUx016sfXaa85H1JeIOcHDUqtkNrre3i0lFofueM="
+  },
+  "0.22.1-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.22.1-alpha.13.tgz",
+    "narHash": "sha256-xyQSx5QA92/VQYCr8hWbHszvKXSOC1lJxmN+AYl7YfI="
+  },
+  "0.22.1-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.22.1-alpha.15.tgz",
+    "narHash": "sha256-oAjF7aKZ8hCzBc4YPCvTFQV5PqfGmc5EUMBTsJKlsEo="
+  },
+  "0.22.1-alpha.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.22.1-alpha.16.tgz",
+    "narHash": "sha256-YcTSoW11qEswjCBId6KpIMSzZUejz+sXOCt0MlQijNg="
+  },
+  "0.22.1-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.22.1-alpha.5.tgz",
+    "narHash": "sha256-25sU/7eRM/0stk2CiFaNhn5dOerO1HEVOQTnylGp0+I="
+  },
+  "0.23.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.23.0.tgz",
+    "narHash": "sha256-B11GJStPKjeBmCgatBE402vZa9lf5HR7SfQ5can75jw="
+  },
+  "0.23.1-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.23.1-alpha.15.tgz",
+    "narHash": "sha256-fJ1L8xsV0KNxxBF0x+NriWgcDZMCMkPSuAw/rZFwzlM="
+  },
+  "0.23.1-alpha.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.23.1-alpha.17.tgz",
+    "narHash": "sha256-LcMdJMZb1EN4tHPuOXd1nLsggww2zlo/qjt+GmVpRdU="
+  },
+  "0.23.1-alpha.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.23.1-alpha.18.tgz",
+    "narHash": "sha256-Rcz9cliuM73p3SU7Is+02e4M4vFi+7NA7gm8Q/53y9o="
+  },
+  "0.23.1-alpha.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.23.1-alpha.23.tgz",
+    "narHash": "sha256-U6YHwrDicNEmIrOID3I0u5couSieSWXQRBNnIZnAS1A="
+  },
+  "0.23.1-alpha.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.23.1-alpha.24.tgz",
+    "narHash": "sha256-zJp85eWrRXSewKXo42ii4y8wfNRyg+ms1H4k7lOPh5g="
+  },
+  "0.23.1-alpha.28": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.23.1-alpha.28.tgz",
+    "narHash": "sha256-8JbzGXcACeNal15OAcMxJMCk3vTWHpRlqQdMpI9mng8="
+  },
+  "0.23.1-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.23.1-alpha.3.tgz",
+    "narHash": "sha256-I2OuABjbyxO1tawgmi52s+sAq3J00jZRXFviua4y+LM="
+  },
+  "0.24.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.24.0.tgz",
+    "narHash": "sha256-Xn40V0BDc/7pmxnK9H4vmghnOEP2PwDsILcyUDxx6Ts="
+  },
+  "0.24.1-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.24.1-alpha.1.tgz",
+    "narHash": "sha256-bBov5Wg7s6BLZQbLOKADczVRzKM7QQULEwOQRswoNH0="
+  },
+  "0.24.1-alpha.31": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.24.1-alpha.31.tgz",
+    "narHash": "sha256-D+Gfxht0Qxcq1KjMTfc7ZKasNFk0TDc5XJVYJl88GOg="
+  },
+  "0.24.1-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.24.1-alpha.5.tgz",
+    "narHash": "sha256-LoyYsCn15CuaJh7ZzCDwk9mLLTjk4UhBnCBrTZG+eU4="
+  },
+  "0.24.1-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.24.1-alpha.7.tgz",
+    "narHash": "sha256-nKpIM58Dl74ggFbKqVqJnip5Ctkv4V3QRLCvFM5OyXg="
+  },
+  "0.25.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.25.0.tgz",
+    "narHash": "sha256-fQC25BmvVnGx7pJBGrljvCI5GsdkOLU5DNWjCQue/j0="
+  },
+  "0.25.1-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.25.1-alpha.13.tgz",
+    "narHash": "sha256-MTuYcoTj7yUYvrkhUHh6gtGiWBROsacOjxI8u0JTUQE="
+  },
+  "0.25.1-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.25.1-alpha.21.tgz",
+    "narHash": "sha256-POZ/N1SVt281BMvfhd73xIKFcipWkgYdtkU1uGKrn7I="
+  },
+  "0.25.1-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.25.1-alpha.4.tgz",
+    "narHash": "sha256-wljEamGqfQk7iYwLqctK10IyfYbZJ034ULBKNm1gD+4="
+  },
+  "0.26.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.26.0.tgz",
+    "narHash": "sha256-3jVVYfoqzF1oFPlXuERh7JjFc8Hz7ELML8KTC7aCts8="
+  },
+  "0.9.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-0.9.0.tgz",
+    "narHash": "sha256-bLIp/p6gd77JXRETeBlswOeGE7r1GqK8wj/RlxQHu8w="
+  },
+  "1.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.0.0.tgz",
+    "narHash": "sha256-lNr0BADXbxlxM9+4K13Y2biNGrlHGuAPpUwHpBPanZM="
+  },
+  "1.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.0.1.tgz",
+    "narHash": "sha256-bc70gwJ8LHgc69RzFSrC/wN2D9D63SpfcosnSHbZGwE="
+  },
+  "1.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.1.0.tgz",
+    "narHash": "sha256-/JAYFd2xB9j8X3oPYEzEWl9HqDVyeHPxwWW/qGweotw="
+  },
+  "1.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.1.1.tgz",
+    "narHash": "sha256-AmkDLK7+g9zjVp7mprlBJ1ksAy2u720QiZjLI5Igvf8="
+  },
+  "1.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.2.0.tgz",
+    "narHash": "sha256-Mp69bhEyOod7C+vcGOPI/G0n/aA/5Q/L39epTyJvdrM="
+  },
+  "1.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.3.0.tgz",
+    "narHash": "sha256-6iaCjAnOR83FSOlH05r+4LwlQSSYJ7hdB6Io9kbzhE4="
+  },
+  "1.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.3.1.tgz",
+    "narHash": "sha256-giiLUq/F9k8SlgAGR8NJJFp28Yivo+2VVj65Savnb2Q="
+  },
+  "1.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.4.0.tgz",
+    "narHash": "sha256-hjIuJ0sgy0MS70tS/loenl0b3Qjld2dTh0QLkRDmbpw="
+  },
+  "1.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.5.0.tgz",
+    "narHash": "sha256-C+MJf0pcPGqnMu0kGrC2oR6hHbCTkZMYTgIGx3u1K4o="
+  },
+  "1.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.6.0.tgz",
+    "narHash": "sha256-VPie1HHY7ESDS+To2C6Wa6n8J/jQYj6YQFu/goZSSYc="
+  },
+  "1.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/semantic-conventions/-/semantic-conventions-1.7.0.tgz",
+    "narHash": "sha256-1QHoB7+z1W+AWXTWJ0xPzlAauvlz5fngA30tvixej3M="
+  }
+}

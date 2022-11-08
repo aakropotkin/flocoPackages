@@ -1,0 +1,727 @@
+{
+  "0.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.1.0.tgz",
+    "narHash": "sha256-jxWxtjkUaUraUPFApI2irMn3XNkdJfh8q50iR3GsIXI="
+  },
+  "0.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.1.1.tgz",
+    "narHash": "sha256-JVoEv9sc4nfRDlmeiKN5Dnr/htRW5ThfZhnwpVNv7E4="
+  },
+  "0.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.10.0.tgz",
+    "narHash": "sha256-PddoKEiMpaFeHtHgE4AXMNbazABCpZ4kb6VHuo7Jlxk="
+  },
+  "0.10.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.10.1.tgz",
+    "narHash": "sha256-q1cSfXfnxn94VG1Sc/fjFqRQfu0q2JFHXqhd/TAKJsM="
+  },
+  "0.10.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.10.2.tgz",
+    "narHash": "sha256-o/LrHjfWArJXVQljtsczZobcy0mAwqjhSEVt9tOr3mk="
+  },
+  "0.10.3-alpha.34": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.10.3-alpha.34.tgz",
+    "narHash": "sha256-YUMHqrp5FnLjJjI8PbOFiRQo99oSIS0GUQD/6NrIZ0U="
+  },
+  "0.10.3-alpha.35": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.10.3-alpha.35.tgz",
+    "narHash": "sha256-lp8WzcoCMBNPcEXVndxXC2Qtg8mSaUTG1znmGslQjZY="
+  },
+  "0.10.3-alpha.40": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.10.3-alpha.40.tgz",
+    "narHash": "sha256-k8JvTa3aU/GgyauE6jvkVc4OIzXi1mBXxRBWoTNImRE="
+  },
+  "0.10.3-alpha.41": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.10.3-alpha.41.tgz",
+    "narHash": "sha256-LO2s6OyCewUgnDOkHdD7GRfsuXY9cJT9v+wyAnY5E+U="
+  },
+  "0.10.3-canary.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.10.3-canary.0.tgz",
+    "narHash": "sha256-JbD1aOINKoEH267K6/GpBw+TSQcWo2h8jgPh3JLvruA="
+  },
+  "0.11.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.11.0.tgz",
+    "narHash": "sha256-8jaHJaVuiqLHqeIXd6eHw8aOnio3msUdjquSgUARbVw="
+  },
+  "0.11.1-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.11.1-alpha.15.tgz",
+    "narHash": "sha256-iHhfB4M94XVeS5HyhkJyhbHq9AYE2pscZCCDhcMOobk="
+  },
+  "0.11.1-alpha.35": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.11.1-alpha.35.tgz",
+    "narHash": "sha256-879hTOEL9puQThpjR5Rve2Y5Him3dl2+cNwsUZd980c="
+  },
+  "0.11.1-alpha.36": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.11.1-alpha.36.tgz",
+    "narHash": "sha256-mEwKXk4wAgTPOVnKnzgrBkCjxb86LG7kHo5bDp+dfo4="
+  },
+  "0.11.1-alpha.44": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.11.1-alpha.44.tgz",
+    "narHash": "sha256-jrnsHU5PNIPtd9/b2S+lpRYFS0WFtLPGNUnqEpsnVAw="
+  },
+  "0.11.1-alpha.48": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.11.1-alpha.48.tgz",
+    "narHash": "sha256-doY7+mmKy/zrknRu7XBs3KKCkGLUJILYehIDK/pD4u8="
+  },
+  "0.11.1-alpha.53": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.11.1-alpha.53.tgz",
+    "narHash": "sha256-qdCHA9DMCpAlKgWV2MsOR9wxr7plx6cqjvRXxtUVbWY="
+  },
+  "0.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.12.0.tgz",
+    "narHash": "sha256-ckT1K7emZTmhbP3lMNc/3KIobZnoTt7W/3P1GXFltu4="
+  },
+  "0.12.1-alpha.54": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.12.1-alpha.54.tgz",
+    "narHash": "sha256-YN7qY4FBKISKC3SuSynyWpKJaXAd9SZTtk5H/lrJWYo="
+  },
+  "0.12.1-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.12.1-alpha.7.tgz",
+    "narHash": "sha256-zLosJJwrKcqJXCdd+Je2j/w08nU1fpgt6mL/sQt0x3A="
+  },
+  "0.13.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.13.0.tgz",
+    "narHash": "sha256-WCw4nn8TdK7VaPyTi4TSynL0Vu/jo+3N9b+iMFJIdY0="
+  },
+  "0.14.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.14.0.tgz",
+    "narHash": "sha256-RXZrNRlDW41rifO3/AyXXs8TszcUnWPyOTfi2d9Vjaw="
+  },
+  "0.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.15.0.tgz",
+    "narHash": "sha256-s6TjlcLGq6mKAvmc3/IRkjxUBt/ms5+e8hz54Qp2dG4="
+  },
+  "0.16.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.16.0.tgz",
+    "narHash": "sha256-rjgjHC96mSytNR7LeJSJh6QKjGwLv/Iw3uTvypT0JnU="
+  },
+  "0.16.1-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.16.1-alpha.10.tgz",
+    "narHash": "sha256-sdGWq/nxFy+tSCfnK/JN+yk6v1D1fO2zJzzXCl0byVQ="
+  },
+  "0.16.1-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.16.1-alpha.11.tgz",
+    "narHash": "sha256-Eo9TepI7UfENjgaMqB/F2Lmb5XgztXIKhXcqmQyf+HU="
+  },
+  "0.16.1-alpha.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.16.1-alpha.14.tgz",
+    "narHash": "sha256-HIPpLQiZRIiOYJbfORI6h3Tx8Zk96UcdVaNAJRtI8I0="
+  },
+  "0.16.1-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.16.1-alpha.15.tgz",
+    "narHash": "sha256-oVu1ALo6j2nwNYeZUqqhWrIm2LSayx4hmMNjo30BJ1k="
+  },
+  "0.16.1-alpha.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.16.1-alpha.18.tgz",
+    "narHash": "sha256-ef4By4MiwgHC3U4YF/eOs7folso++gXkAnlXwm/yqJY="
+  },
+  "0.16.1-alpha.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.16.1-alpha.20.tgz",
+    "narHash": "sha256-eiIOSaTj5fpz+Gro8u6wlwZg8sZuCQYQC80P5omruhU="
+  },
+  "0.17.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.17.0.tgz",
+    "narHash": "sha256-v4Rjtf9EBHzdFdcj2l8llW3I0snvkqWPVBAe0A/Pfds="
+  },
+  "0.17.1-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.17.1-alpha.2.tgz",
+    "narHash": "sha256-Ji5TZPS5/U9zxdWMKiELcwG4Mt0RcVLMR43SvT6nbjY="
+  },
+  "0.17.1-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.17.1-alpha.21.tgz",
+    "narHash": "sha256-aAZSmSrAnSHcz7oKWiiZLgRcmK+uNIbhJtddhB6LdJs="
+  },
+  "0.17.1-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.17.1-alpha.5.tgz",
+    "narHash": "sha256-xPLvNxnMW27HaeBzjwQu9v3QGQbY7If5LkwRKGAbliA="
+  },
+  "0.17.1-alpha.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.17.1-alpha.8.tgz",
+    "narHash": "sha256-MUlMl4OSex+MqIcBnCqCaSa7rCAndFqBPwYsfavAGzs="
+  },
+  "0.18.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.0.tgz",
+    "narHash": "sha256-5Zz0QImCOrpb08GRfnqboreiuhHemyE0G9EkVU1RbjY="
+  },
+  "0.18.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.1.tgz",
+    "narHash": "sha256-c8YKbVcAvX+0Uv3Ex+e2YSAYkxfqSFkd4dQgi+JLacU="
+  },
+  "0.18.1-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.1-alpha.12.tgz",
+    "narHash": "sha256-vMgRoRMu9/zC49JRI8MO//8FB6Rbe5O01TAXFonbFMo="
+  },
+  "0.18.1-alpha.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.1-alpha.20.tgz",
+    "narHash": "sha256-XpP1xyNe+CMutZvnrhY0awneIIxlu287uSn73pdzu34="
+  },
+  "0.18.1-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.1-alpha.21.tgz",
+    "narHash": "sha256-WDWSgA7hNP2MrwLVWpLl0rQGeBMutbC/6qGHcqDjBxk="
+  },
+  "0.18.1-alpha.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.1-alpha.24.tgz",
+    "narHash": "sha256-eYjbjmU0C1LnrO+PUYKYxF+kTI7pwvOjaHqPHHzPfjI="
+  },
+  "0.18.1-alpha.26": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.1-alpha.26.tgz",
+    "narHash": "sha256-sxYGyARjsigbHSFdt7F1RVLxhPtkRuF0/OxwONjvpDM="
+  },
+  "0.18.1-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.1-alpha.3.tgz",
+    "narHash": "sha256-eOqZEWr7geltM91JWWYEZ+klF1Bnl8CMjDoadOZDEXs="
+  },
+  "0.18.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.2.tgz",
+    "narHash": "sha256-92cfTeXzd6UpoJhuOW5vLGLg2Z4MAcQgMIGtHyWChZs="
+  },
+  "0.18.2-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.2-alpha.1.tgz",
+    "narHash": "sha256-8QXb9gvacFRbDukM8fWFfMX1IR39XNEEZ2a2QLI9wuE="
+  },
+  "0.18.2-alpha.81": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.2-alpha.81.tgz",
+    "narHash": "sha256-6MptxduJ5J+ycA4DJ3LVte3blYpWoAEwC44pLBsbagU="
+  },
+  "0.18.3-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.1.tgz",
+    "narHash": "sha256-p1Q8wcBfu8IJJThe8aJgNIsmXMf4nMu05W0kjqR62xY="
+  },
+  "0.18.3-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.10.tgz",
+    "narHash": "sha256-StpfV81B1TylmIuxmsY8npSztAGwvT3nvXClCnOaXhU="
+  },
+  "0.18.3-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.11.tgz",
+    "narHash": "sha256-wcs1HTLtoEWjOimaX6Vjv4CnZvF836b82Svu6k9iUZM="
+  },
+  "0.18.3-alpha.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.14.tgz",
+    "narHash": "sha256-a/vOMoOcrmmobHu0pUAc51BpTd7+PhV16srSuWFB/Ps="
+  },
+  "0.18.3-alpha.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.16.tgz",
+    "narHash": "sha256-RAwRffbe6L0NCYznfKZ5NiTY5axcXbQCOf4WDgkD8/w="
+  },
+  "0.18.3-alpha.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.18.tgz",
+    "narHash": "sha256-e1QxtuKC0M58HGNlu7wnYC9Pvidnt6M1GaZo48S9B48="
+  },
+  "0.18.3-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.2.tgz",
+    "narHash": "sha256-s9odQcbXT7q6Z7lSBOe/APqTwZMRbgW+1Zl8wZGsp48="
+  },
+  "0.18.3-alpha.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.20.tgz",
+    "narHash": "sha256-MecspaXKVS22hannEzvf4lP+wrvx0hm7AYPBzt+4GLg="
+  },
+  "0.18.3-alpha.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.23.tgz",
+    "narHash": "sha256-DkEiB/aTuxgGmIe5eVaWvWowNEs7tPyUg6vbLaLX+v8="
+  },
+  "0.18.3-alpha.25": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.25.tgz",
+    "narHash": "sha256-yG0WcKMxSzpMURNEgg9bq7SOHE8Ow3WHpTq5Hy2xWk4="
+  },
+  "0.18.3-alpha.28": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.28.tgz",
+    "narHash": "sha256-dimCT0lEcohFqmaBijts5eFfeq7rMsJEU0qvh9vj8Cw="
+  },
+  "0.18.3-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.3.tgz",
+    "narHash": "sha256-jOiMChpXMoyCTnno7UwCnWJy2aZfdX1G2ZKzxmgMFzk="
+  },
+  "0.18.3-alpha.31": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.31.tgz",
+    "narHash": "sha256-Zw0hUbJac8BeTO89KGLZ6B9tlCTpjZhmMEqa5dttGhA="
+  },
+  "0.18.3-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.4.tgz",
+    "narHash": "sha256-WxmeOACjim6NmDDuQvSnaBCWufvTxagvDpwQ5Mme2+w="
+  },
+  "0.18.3-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.5.tgz",
+    "narHash": "sha256-1+PTBiThB5xeBPmA5F1EO+N+0MohVLe6vvtdsVGx73c="
+  },
+  "0.18.3-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.18.3-alpha.7.tgz",
+    "narHash": "sha256-L5VQ059Q/v6Bk24jm7L5h27TKNtNi3C9KV/n7pcZ4SM="
+  },
+  "0.19.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.0.tgz",
+    "narHash": "sha256-XAeOwGKDx5e9Atirtdm1ulDbLYooBZf01ByWnnryg7Q="
+  },
+  "0.19.1-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.11.tgz",
+    "narHash": "sha256-kFKkAwQ5cNhdxxbjDPsRG32++PvUcvwbUiO+MlZpRNs="
+  },
+  "0.19.1-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.12.tgz",
+    "narHash": "sha256-sbjV6XQDmT2ETXeonTuVmOEqZ2Lna4zoKLjoLmjYgyc="
+  },
+  "0.19.1-alpha.19": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.19.tgz",
+    "narHash": "sha256-XSEB3UTfXVX2dso3YfRAGWvPVmlTD6B2plQuoiYFRsw="
+  },
+  "0.19.1-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.21.tgz",
+    "narHash": "sha256-vRvmprFobLbaFmZPP0rFKr87GZHFTlpKZ8L/FhuusUI="
+  },
+  "0.19.1-alpha.25": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.25.tgz",
+    "narHash": "sha256-zbbFidlqt5IssfyuN6U7+acoM1JBAxz3TBFsvdnRTiw="
+  },
+  "0.19.1-alpha.26": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.26.tgz",
+    "narHash": "sha256-IvGl5I44ZVmOSFNQh0doBGKHlyfOstbKBTQq7fLP5Es="
+  },
+  "0.19.1-alpha.31": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.31.tgz",
+    "narHash": "sha256-778qZXGoBKZZnNZRTOuv2iRMoI0heWdf/0d/9Uvnpi8="
+  },
+  "0.19.1-alpha.33": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.33.tgz",
+    "narHash": "sha256-FeU2/7ZFD8bqUxRZ8H0vtPPVKE07Nfb1xkdV2NYaS6k="
+  },
+  "0.19.1-alpha.36": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.36.tgz",
+    "narHash": "sha256-PPZrywW1EUybRlC1VI1q7uKO5PQmiVStpFr3Dep8osA="
+  },
+  "0.19.1-alpha.37": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.37.tgz",
+    "narHash": "sha256-ccvX7K27I6X/3eVmc+8IwXDoNQUh78ThUYBRKGr5Yk4="
+  },
+  "0.19.1-alpha.38": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.38.tgz",
+    "narHash": "sha256-sjkXhyaepcpSMrwiYJMf94TYiFcrtgL0iO+x9wrfX7c="
+  },
+  "0.19.1-alpha.39": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.39.tgz",
+    "narHash": "sha256-uFwLpnhDwOqgy44WVlm7TQvX8P+/SQ4LhC85AMIhEwI="
+  },
+  "0.19.1-alpha.42": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.42.tgz",
+    "narHash": "sha256-iL9mE9WzEFTEAqn3s8LZxqzXKGFG8h/2/tpHenbXqp4="
+  },
+  "0.19.1-alpha.43": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.43.tgz",
+    "narHash": "sha256-KDrxa9irjWArVWYFkjxWy/37i/5UfVagO/AlvoLJw+k="
+  },
+  "0.19.1-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.7.tgz",
+    "narHash": "sha256-HjkzPmrHLMOXtllRkaM+cZdFyq7XMobCTplForhz+GA="
+  },
+  "0.19.1-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.19.1-alpha.9.tgz",
+    "narHash": "sha256-RBeMqaxoxiLkpwuHtFiNCk5XxRHTXOS7jO7djuO7ks4="
+  },
+  "0.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.2.0.tgz",
+    "narHash": "sha256-YMC7f+GHMiVe6i8Ke8lBw4DO7Bh1X1Fqr2dQUBQ6Zdc="
+  },
+  "0.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.20.0.tgz",
+    "narHash": "sha256-QRX8l6hbSKN6lCjXVTI4DgSsXEWm+2m6t+aTD6fr7fo="
+  },
+  "0.20.1-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.20.1-alpha.3.tgz",
+    "narHash": "sha256-snf8q9xvtytugDfDsDMnQWpT/wM9K6NP1+EqSkgt/tY="
+  },
+  "0.20.1-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.20.1-alpha.4.tgz",
+    "narHash": "sha256-TI84BOuLZhofUZe5Pg/2lR7Si4JiWMzUXLZiwOsKIRI="
+  },
+  "0.20.1-alpha.49": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.20.1-alpha.49.tgz",
+    "narHash": "sha256-Qv0gxQKi5++kMgoGP7UoqMO9MvWWzqOOSH+jMkvODrI="
+  },
+  "0.21.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.21.0.tgz",
+    "narHash": "sha256-Vgk726Y1ZkyCK0fXcJnBQvFl512XYMjPgJEGLRR6F3g="
+  },
+  "0.21.1-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.21.1-alpha.1.tgz",
+    "narHash": "sha256-nS2YbzETLb0+HGR9ZNh1BsoPWOPKzkkV7FOIZyGVlXU="
+  },
+  "0.21.1-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.21.1-alpha.2.tgz",
+    "narHash": "sha256-ND8nbJ4BDxIw8++1oW1TSABXu3cDeun3rSvO2NzeaUU="
+  },
+  "0.21.1-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.21.1-alpha.7.tgz",
+    "narHash": "sha256-WTZrIoBUHRm18djBe2Me911Hy5jQoCCqEiV0OE9SxT0="
+  },
+  "0.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.22.0.tgz",
+    "narHash": "sha256-64Xlz8X90DF2fo/vTNn/Z1sBh7HQAlKE6vpXO5BofDg="
+  },
+  "0.22.1-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.22.1-alpha.13.tgz",
+    "narHash": "sha256-HImrWMJFrsabULV62t76WVjevZfWCLyAbNZlfj7lvt4="
+  },
+  "0.22.1-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.22.1-alpha.15.tgz",
+    "narHash": "sha256-fZXFOmAvpsbv7LO0JRtIuvRW1sQBQlZapXvgpjmOodU="
+  },
+  "0.22.1-alpha.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.22.1-alpha.16.tgz",
+    "narHash": "sha256-zzGchB8ePZIL7cjIHoBOyA7sl4BLxZZwWtHcqPrw+/Q="
+  },
+  "0.22.1-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.22.1-alpha.3.tgz",
+    "narHash": "sha256-HSbT4JNt2DlJN0I8rIAfD6QJPuBgeOkkIqkLX3JB8as="
+  },
+  "0.22.1-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.22.1-alpha.5.tgz",
+    "narHash": "sha256-cMQ3N43FsXjTWUIqJuxIEmPPCXqIO6j3YeHmXVV+T0w="
+  },
+  "0.23.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.23.0.tgz",
+    "narHash": "sha256-ObKbQi/W1ygOyHLNmql/wjgvU6SIwlSyX6Mk3T1BjBA="
+  },
+  "0.23.1-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.23.1-alpha.15.tgz",
+    "narHash": "sha256-8jqPbZqskt1GX1ZRjHIZO9pyqNtA6XdaisoDo0dqpRo="
+  },
+  "0.23.1-alpha.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.23.1-alpha.17.tgz",
+    "narHash": "sha256-1fmAkID2lDHXuGmrrcvJ/QRceH+9dUBukC61sLJWfCo="
+  },
+  "0.23.1-alpha.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.23.1-alpha.18.tgz",
+    "narHash": "sha256-2O6PSVI5cde5xTkmPPfIfV2iiB2YdfYPBSLeTWmE2M4="
+  },
+  "0.23.1-alpha.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.23.1-alpha.23.tgz",
+    "narHash": "sha256-WHBuPToGw2GUatqOy3sVZV+zqkN6woFAg+dBrTVzPgc="
+  },
+  "0.23.1-alpha.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.23.1-alpha.24.tgz",
+    "narHash": "sha256-TEiOqsvBbv/eEG6FwpDcup4v57wzN3Bh0lr74J/t6as="
+  },
+  "0.23.1-alpha.28": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.23.1-alpha.28.tgz",
+    "narHash": "sha256-xW057Car9B4A3/dEuiowh+fUu96uHvhrAIrqVwyLZZ4="
+  },
+  "0.23.1-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.23.1-alpha.3.tgz",
+    "narHash": "sha256-dHIfgCInCXbucGBBrajTs6K7W497fPEyus3kX0tgOTI="
+  },
+  "0.24.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.24.0.tgz",
+    "narHash": "sha256-c7P6Vp8603cABp/MbP0umYfK5HMDY+RpEhpKlRBP/7s="
+  },
+  "0.24.1-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.24.1-alpha.1.tgz",
+    "narHash": "sha256-wBfgGwnSFbNeljppo/IgEUV+zUy+ecYsEI6Hc2ltkUI="
+  },
+  "0.24.1-alpha.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.24.1-alpha.14.tgz",
+    "narHash": "sha256-ic5whPx2BQXRpv/ZbIVTFXfDV5NLjmeMeneTk0rmoTE="
+  },
+  "0.24.1-alpha.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.24.1-alpha.20.tgz",
+    "narHash": "sha256-+wh49/92BGVllg1LRxTR7jg3f+ggkN/dGPtpbKd9TWU="
+  },
+  "0.24.1-alpha.31": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.24.1-alpha.31.tgz",
+    "narHash": "sha256-NV4ndiuXJu9++brcwivhFkg27kkQHvoMtBz9qfGrAPU="
+  },
+  "0.24.1-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.24.1-alpha.4.tgz",
+    "narHash": "sha256-wUIw7GEI4klxLnoceK4uALsG+uNpRhwPcVuW4qn7xkI="
+  },
+  "0.24.1-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.24.1-alpha.5.tgz",
+    "narHash": "sha256-czGaOtW7t4KqpMxdBGuJ2lUE301lXtq+JkKD1Ur5yIQ="
+  },
+  "0.24.1-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.24.1-alpha.7.tgz",
+    "narHash": "sha256-fy47DxSAfVok6SFZvMCVYCHG9yIQ0ZQxf+vr7UZFU7U="
+  },
+  "0.25.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.25.0.tgz",
+    "narHash": "sha256-xM/ioPI4hSokkxSeq0azbAJ46+pHJMwf1nI5RaPra2k="
+  },
+  "0.25.1-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.25.1-alpha.12.tgz",
+    "narHash": "sha256-Bgdmz6rlSWQDEkCf76gjJFRjAqXgJ51++2mpsiTRXCc="
+  },
+  "0.25.1-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.25.1-alpha.13.tgz",
+    "narHash": "sha256-hx4JuIIRiyYjBkBK7FCo5L33U1U9DfhDTsr49DLVypE="
+  },
+  "0.25.1-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.25.1-alpha.2.tgz",
+    "narHash": "sha256-JdYqAxfi6i3tDC1de4h7FaPRTIaMoWsB/IV0BoLV/r0="
+  },
+  "0.25.1-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.25.1-alpha.21.tgz",
+    "narHash": "sha256-9kv2lAviMZaqS2RaacXSOo8Jpy8pZJvSZyAdmTI7Evg="
+  },
+  "0.25.1-alpha.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.25.1-alpha.23.tgz",
+    "narHash": "sha256-NPwQwuaaoPv8o3c6wcfjj+Ex3UXxV3vJLcjb7St8yL4="
+  },
+  "0.25.1-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.25.1-alpha.4.tgz",
+    "narHash": "sha256-lpHRgk3jCxgsYTjLjoPWaM3j71iKc+JzAtzjgG9IOks="
+  },
+  "0.26.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.26.0.tgz",
+    "narHash": "sha256-D9d6X51vnfZ3IV07t2p7MQtkOEVo0ZGtikHlzYmxYmE="
+  },
+  "0.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.3.0.tgz",
+    "narHash": "sha256-xD0x1Kp2eQTDgCy0wpTBwLoLOOKn6Az55N8tvRwqm54="
+  },
+  "0.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.3.1.tgz",
+    "narHash": "sha256-/uLSNm9ErJqeEc/ATHTot9X8nyXw8Cs6nauZtHZD6nE="
+  },
+  "0.3.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.3.2.tgz",
+    "narHash": "sha256-ggVzn/2E28J3Tpll/9fkP8o1fGM17vqGboyyAwVMqF4="
+  },
+  "0.3.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.3.3.tgz",
+    "narHash": "sha256-bvslBl6eZ/LeoFxDAvDWUqKaz8HML0H1uOpsbTfSndA="
+  },
+  "0.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.4.0.tgz",
+    "narHash": "sha256-VGK+G4iW1ENLb8CSYaSkioOcW/kvhV0xY7yOvENcKug="
+  },
+  "0.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.5.0.tgz",
+    "narHash": "sha256-TSRAsASS3RcUSkawmHcEqsrV8Nf/moEW20pW4Cw5Nx4="
+  },
+  "0.5.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.5.1.tgz",
+    "narHash": "sha256-KmhQPE6KsBCREQEW3gy0WRFonchBHKJWEZyFwQnbF7o="
+  },
+  "0.5.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.5.2.tgz",
+    "narHash": "sha256-saXYnpBtD6Mrvbkuv7ocP2tZDdM0PjsGNoCwL+FGIWU="
+  },
+  "0.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.6.0.tgz",
+    "narHash": "sha256-JEunionVz4EuKupgQEuGj2/+d2CfTyACQy8ZD1T+BP8="
+  },
+  "0.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.6.1.tgz",
+    "narHash": "sha256-/+sSxsmM7CCbtG0YeY+a4wacrE5eeE11FKTJ7jX3HYs="
+  },
+  "0.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.7.0.tgz",
+    "narHash": "sha256-/U1zpmfXg8lQbTF9OxMnWTZ7IACTw564X74T0uOAvqs="
+  },
+  "0.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.8.0.tgz",
+    "narHash": "sha256-Dhius4c7tk2fEBXCrbQJltSOAvTgC478QCmjstt9luk="
+  },
+  "0.8.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.8.1.tgz",
+    "narHash": "sha256-dYiqtY5uCiVruN9S9AETi6mT/AdaGN+2Dxr1vfSJk3Q="
+  },
+  "0.8.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.8.2.tgz",
+    "narHash": "sha256-RsN/OZWlqDvBrzHOfyLO2O1vAXJdBm8z2psUHfgxuVI="
+  },
+  "0.8.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.8.3.tgz",
+    "narHash": "sha256-3iAJNk1vKMURVwiT+bH5hNgu4CRXwWLpeqhn68KvFzo="
+  },
+  "0.9.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-0.9.0.tgz",
+    "narHash": "sha256-56NfzeS9JXmTk+sLpHMRsXjxSUhg+qKvPlWT4z1QU/s="
+  },
+  "1.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.0.0.tgz",
+    "narHash": "sha256-sTJ6ACy/PfzPc4f401i7l+DgFjJzD79vo+zSsL6XZA0="
+  },
+  "1.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.0.1.tgz",
+    "narHash": "sha256-2Vm9VGr15m7znh6YXsLX67gaBVL3+NYe1IjqMCfY7OA="
+  },
+  "1.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.1.0.tgz",
+    "narHash": "sha256-1eDkD+kEfib6SyDvOA0ilYj0btlsStEGcRu5ga0F2+w="
+  },
+  "1.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.1.1.tgz",
+    "narHash": "sha256-plE4kwgbZEN+8Fp3iplKEupgVOGnQDGmyLRSgJ9UTGw="
+  },
+  "1.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.2.0.tgz",
+    "narHash": "sha256-jRixwNXGyYGBW5VkfT7PzLoUE1YK9GqOo485TDLiNmg="
+  },
+  "1.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.3.0.tgz",
+    "narHash": "sha256-MD0OX/HWgGR0U2J5iei2dgUeYo7OBUVLiSV1Fx78+ZQ="
+  },
+  "1.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.3.1.tgz",
+    "narHash": "sha256-FfsBsHam8YidZavDRIeZ55mRDHppWS8NxrwpHqIoldo="
+  },
+  "1.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.4.0.tgz",
+    "narHash": "sha256-B3Q7SJ/zLjlaoTY0Q4RegBTEaWFRUqpSQpLrzAY2TX8="
+  },
+  "1.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.5.0.tgz",
+    "narHash": "sha256-nMnWQIxqioj4YMaZw3EbWXKVhW9dklwCe9Wr0+F/AbY="
+  },
+  "1.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.6.0.tgz",
+    "narHash": "sha256-zIo0OrRq1QdrTRHxfZzaT6lHCSYuLxx+tWeCJU8DPqA="
+  },
+  "1.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/core/-/core-1.7.0.tgz",
+    "narHash": "sha256-S/WP16UIq7+KmpuDA9pHIdQn73UVwWyM1QxUDZ4cr4A="
+  }
+}

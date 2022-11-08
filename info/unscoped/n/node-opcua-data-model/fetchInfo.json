@@ -1,0 +1,767 @@
+{
+  "0.1.0-10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-10.tgz",
+    "narHash": "sha256-1zsg3OK76TMyUOzPFF7EJyL8jSKF0Y9hzloV9KBYOLg="
+  },
+  "0.1.0-11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-11.tgz",
+    "narHash": "sha256-EccesoJxoWtegNL/37dV2K3GA4E4A+af7j+9b0uAI+k="
+  },
+  "0.1.0-13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-13.tgz",
+    "narHash": "sha256-o/2aT0Xyk0ErUjzJXHcH8NrGp5iAHiSKwDSRQd7Efoc="
+  },
+  "0.1.0-4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-4.tgz",
+    "narHash": "sha256-xdjEJwvrER9LJEWeBKMcKzd09mtd4mEm3ipd045OI4c="
+  },
+  "0.1.0-5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-5.tgz",
+    "narHash": "sha256-eu2By9MWGkHFt06RFTwWk2h1LvWla9a7XKZUr12a0yw="
+  },
+  "0.1.0-7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-7.tgz",
+    "narHash": "sha256-eXB3EUInXZFpNshe6yKJm/G3rbhQozsZPTcfRsKwkvs="
+  },
+  "0.1.0-8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-8.tgz",
+    "narHash": "sha256-S29GVRjNaEzMUU8mLIEVWBC3cVr1RQTy2N69JmUCPAk="
+  },
+  "0.1.0-alpha.3f56f9b5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-alpha.3f56f9b5.tgz",
+    "narHash": "sha256-0pepV+cW6SaiCYgqmdeGfqR2sQij1meUutyqs4MimCY="
+  },
+  "0.1.0-alpha.4e442cf7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-alpha.4e442cf7.tgz",
+    "narHash": "sha256-aLP88yqrIO6JI1bAMGsenC8Z3kConP4IQJ70H76BxVI="
+  },
+  "0.1.0-alpha.a272cdc2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-alpha.a272cdc2.tgz",
+    "narHash": "sha256-JKzp+CwQhXCj6gWEb5fSXhfPO/1uXIURshp1/HnGMJo="
+  },
+  "0.1.0-alpha.c6942b9d": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-alpha.c6942b9d.tgz",
+    "narHash": "sha256-gPUTi/auCfAa1JdnVc2i8GpiROQcFH4Mlixot8MYBNI="
+  },
+  "0.1.0-alpha.dc0cce4c": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.0-alpha.dc0cce4c.tgz",
+    "narHash": "sha256-WtjBq8vAdmwhJCm7+yuM/E/0vK4KS6Qug1vHsLhKQXs="
+  },
+  "0.1.1-0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.1.1-0.tgz",
+    "narHash": "sha256-/DWPnomjQTU07EL2OUV7/Rr+aOITCes3apI2LFw00Cc="
+  },
+  "0.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.2.0.tgz",
+    "narHash": "sha256-PJMQ6q7vb7qDRkEwUZCYXkKFXgRvgfo4C/dhYcp4zxw="
+  },
+  "0.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.2.1.tgz",
+    "narHash": "sha256-EZdT2KSVUWRxwQbpZoFI6rcV+vJKe8FQQfF/IUGdgBI="
+  },
+  "0.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.2.2.tgz",
+    "narHash": "sha256-rFfBCWUvthcTOXZjHLm5ZyoQiVrKSpl34GGCCfmELhA="
+  },
+  "0.2.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.2.3.tgz",
+    "narHash": "sha256-amyTm7ARCtzl4LI5X9YiaSQEZhqdJH81EOLi2cRF7Zk="
+  },
+  "0.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.3.0.tgz",
+    "narHash": "sha256-nXsUfHp06tAS72FhMJOAKqo8ksRGlLP2rrgeW5TWUQo="
+  },
+  "0.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.4.0.tgz",
+    "narHash": "sha256-bG12X0bKZAoghyKQ0Ehf4uHna+Lj213UaFhml6i6jDs="
+  },
+  "0.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.4.2.tgz",
+    "narHash": "sha256-tkiOvGD8Z202QuGn0D/4pfNEqjTL69r+divHfahUoGE="
+  },
+  "0.4.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.4.6.tgz",
+    "narHash": "sha256-VP+dUbzv6/1WN0NfhDe+vOZNmFUAyphjkwUQQyiwmRc="
+  },
+  "0.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.5.0.tgz",
+    "narHash": "sha256-ZYGsxBHipMxpxfNUozL/YODc4wf+aEbT/LevfhrroJM="
+  },
+  "0.5.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.5.5.tgz",
+    "narHash": "sha256-mQp9OaSrlVIqYHTdyExePWbuJf4zJ/MxWWaPsPpCahM="
+  },
+  "0.5.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.5.6.tgz",
+    "narHash": "sha256-+mlBwVTKxPFc4kYe+s6p3Doab9aHEXpvUHvHCmhjc/A="
+  },
+  "0.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.6.0.tgz",
+    "narHash": "sha256-67c36jNEKJB/KlJPkV4omJOUet9pRcaEyZe1uTzDl5Q="
+  },
+  "0.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.7.0.tgz",
+    "narHash": "sha256-0bg0cY+D9LVBwHH2Go10XG4cJm0o0YmE5GFae5a0nkA="
+  },
+  "0.7.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.7.2.tgz",
+    "narHash": "sha256-j57y2AQQ3hnl0JxL5fuaGv4M+X4TFLT6JX6M9GGDluc="
+  },
+  "0.7.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.7.3.tgz",
+    "narHash": "sha256-+Q3QKnlgyYdkB/vDu77jTzp4YJmo889YuRqNjBK0JQg="
+  },
+  "0.7.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-0.7.4.tgz",
+    "narHash": "sha256-G1aZiri6wpJpF+mc756eBSOI5+og0W809DHQGq3MR28="
+  },
+  "2.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0.tgz",
+    "narHash": "sha256-fjcCGRtEV+ZsW1UafLuBd4sLT5ypjLIu6PkuydZniIc="
+  },
+  "2.0.0-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.10.tgz",
+    "narHash": "sha256-guxDv9Z1ed+11QuxSA7oGwKevAHqnhPDH6+cHNstagw="
+  },
+  "2.0.0-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.11.tgz",
+    "narHash": "sha256-nsLVyT4fv/L3p0NxM4/mxSbKUxhN3ktwUu08v03k0zM="
+  },
+  "2.0.0-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.12.tgz",
+    "narHash": "sha256-lBlGN0x/RtBi2VM1D74xnshbcnXEZ+9imguo/Upkjlc="
+  },
+  "2.0.0-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.13.tgz",
+    "narHash": "sha256-TF+PYBfUeT7JYjThggqh2yq3FYjfS+ZJuM5Iy+TNJxU="
+  },
+  "2.0.0-alpha.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.18.tgz",
+    "narHash": "sha256-5IIq3ej4fylJDASvgero0C+J5CoPkFquoWZYzDSTHGM="
+  },
+  "2.0.0-alpha.19": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.19.tgz",
+    "narHash": "sha256-bs40+4YEjb3fQRn5ccf9ALxEP4ceJadjm8pgdYuawuA="
+  },
+  "2.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.2.tgz",
+    "narHash": "sha256-ssGfQ3dQqXajt5gf7k3g/Ucrh2X3k4gmOTXq0JfOVoA="
+  },
+  "2.0.0-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.21.tgz",
+    "narHash": "sha256-f+5eUjAfGbmPqEp7RrMg+MuzTY4Suedy9s2Hi/jA/ec="
+  },
+  "2.0.0-alpha.22": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.22.tgz",
+    "narHash": "sha256-MTouvZsOBNN7xPrL1tTciWSP9UwUmMehhA1VWArx3aI="
+  },
+  "2.0.0-alpha.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.23.tgz",
+    "narHash": "sha256-vAq25YnTXvnX2BINYqlcI52XpSgzKTTZY3Bu4tvXDPY="
+  },
+  "2.0.0-alpha.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.24.tgz",
+    "narHash": "sha256-PN9OeNkETE8FaidjfbRWTTFG/ToP5CWVKWNDqDVoH9Y="
+  },
+  "2.0.0-alpha.26": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.26.tgz",
+    "narHash": "sha256-5JoPbhRx8XjHdZw8RSfJ5thf3whmfmfzww4zvPs4slY="
+  },
+  "2.0.0-alpha.29": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.29.tgz",
+    "narHash": "sha256-cycJ6YRvUP3MeBSuf+dokNrQVs54PYdUUBW6ngkiaY8="
+  },
+  "2.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.3.tgz",
+    "narHash": "sha256-o1uABS+KswTUABTQAeDZJOEtunQ/ZX1qcj2Aawrxfwc="
+  },
+  "2.0.0-alpha.30": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.30.tgz",
+    "narHash": "sha256-A9jHZTT4AhtLwmB6N8fSl85ycDqkDgwynb2LWcj2jns="
+  },
+  "2.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.4.tgz",
+    "narHash": "sha256-dSIYmenWxm7A1h7iQoCPIORnro2lMlHiHdt6/DmZLI4="
+  },
+  "2.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.5.tgz",
+    "narHash": "sha256-3uh1w6cwlPKLpELu1vEB1pH0XZWw04ivNUaLIsGpvww="
+  },
+  "2.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.6.tgz",
+    "narHash": "sha256-QshtErOWSD4tkURqmqcSV7hagclTBlRSp/iOAUf6+K0="
+  },
+  "2.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.7.tgz",
+    "narHash": "sha256-wLx+OrmJ0hamlBl/EC1nNTchK/LSlbeQgNY1Bf5BhuI="
+  },
+  "2.0.0-alpha.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.8.tgz",
+    "narHash": "sha256-Qp7/ETxypxqyRX2/Mn1oQmzVVZxPl55o4uDl3N7Dv0c="
+  },
+  "2.0.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.0.0-alpha.9.tgz",
+    "narHash": "sha256-mVaceMykd2utPSXQyoxazBJ5ShG5a5NZwUlOGMzHgs8="
+  },
+  "2.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.1.0.tgz",
+    "narHash": "sha256-Z0++fhLF6zWWwyQCpfsJBDcq/JOeqnROK7WBrR1b3Ys="
+  },
+  "2.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.1.1.tgz",
+    "narHash": "sha256-G8TFAfsVxJlpJxZ7lyin6g0wPpBm/+D0X4BOR7IB2tg="
+  },
+  "2.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.1.2.tgz",
+    "narHash": "sha256-ArlQ9t4lZF1dmgRD5wICKMiXhTrBIa5SvhPKwpKpbik="
+  },
+  "2.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.1.3.tgz",
+    "narHash": "sha256-nTYN19E3L4XByRI0ybDq9i8FpXzPtpzNd2efozK32IU="
+  },
+  "2.1.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.1.5.tgz",
+    "narHash": "sha256-d7paHJY/CNqmUugjqN5sjUdBl0JaAMaN/Jgdoj5eIRs="
+  },
+  "2.1.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.1.6.tgz",
+    "narHash": "sha256-uPgxx1yJy9YmgMtEU4fWH4sbMPAda4Cn9obIEbCQYv0="
+  },
+  "2.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.10.0.tgz",
+    "narHash": "sha256-puOxj6vDunkyXJ8YnR5KYhIqbX6rHC9hu1p5wIiE264="
+  },
+  "2.11.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.11.0.tgz",
+    "narHash": "sha256-yiEwnXtp4HwWbr3R2relsB264eft5nH3bSC4Zua+0Pc="
+  },
+  "2.13.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.13.0.tgz",
+    "narHash": "sha256-t0gFP6c7LGHS27GxjF5VxS2FPu3vs69DAwaFFvwCxys="
+  },
+  "2.16.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.16.0.tgz",
+    "narHash": "sha256-x+bHGbrc4HCV5ojLkcPVLOTdGBVaOVc5aS9zSXwbNeg="
+  },
+  "2.17.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.17.0.tgz",
+    "narHash": "sha256-yRB/h+Z2CjxvYSUWEOwx61v84IqqlAavHJ6np+J3NPk="
+  },
+  "2.19.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.19.0.tgz",
+    "narHash": "sha256-RLSR9un7T4ZEe5+nivXS85P/WNDtB3AE8DF/EMYGcA8="
+  },
+  "2.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.2.0.tgz",
+    "narHash": "sha256-fwg/FhUMStMaEP0DqPqrP+9DzZHSniosFshl37hUOdY="
+  },
+  "2.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.20.0.tgz",
+    "narHash": "sha256-2aZOMF0r9/j+p4y0wQIA+yauILhA4i4Xlv8kyvWl/nI="
+  },
+  "2.21.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.21.0.tgz",
+    "narHash": "sha256-18/kDuaDZ0zujukCA1SyqG2XF0rTY06y67oxNHe2/fQ="
+  },
+  "2.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.22.0.tgz",
+    "narHash": "sha256-55WHmAt8K2a4DVJwLlRF3OSJbNrwZo3YwUwK7O9Vtug="
+  },
+  "2.24.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.24.0.tgz",
+    "narHash": "sha256-R7jSMeJiVD0jPX9mrnq6hkOJb9n3eO3k+XLyKMMWfJM="
+  },
+  "2.27.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.27.0.tgz",
+    "narHash": "sha256-TuaVTwsGCLTZT+8TDD0Aymqys+Dn+/NvTLXxfi74Vd4="
+  },
+  "2.27.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.27.1.tgz",
+    "narHash": "sha256-6UMLMwzG5OIF3AnPFPHD7xOxdXWvS26GArKEvDAyCTQ="
+  },
+  "2.28.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.28.0.tgz",
+    "narHash": "sha256-w+MO/Aol3LMecTtPwNQqdbuPvSmBPZ5puqRFTg4S6Vk="
+  },
+  "2.29.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.29.0.tgz",
+    "narHash": "sha256-5q50dw03gOOw+BJ+HgfzoD+9hvHUYrHpJf+J7vJZj/E="
+  },
+  "2.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.3.0.tgz",
+    "narHash": "sha256-alETDCskv4naMNLrTLGu88imOhlbHha/wX6Siju3AUw="
+  },
+  "2.31.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.31.0.tgz",
+    "narHash": "sha256-sMbWml9E6QROuhVCjJ9Reu7wYSCV2CgCANLIuKkPlOU="
+  },
+  "2.32.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.32.0.tgz",
+    "narHash": "sha256-MRmiLi43IKGWY3hP1GO5GwOa/89w7HQNu/UkQ80dS8k="
+  },
+  "2.34.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.34.0.tgz",
+    "narHash": "sha256-3ooccGZ37wod0bTBYZumlK54BHAVoW+Gb12bnr1OFb8="
+  },
+  "2.35.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.35.0.tgz",
+    "narHash": "sha256-CmNSH2QhFgzYWt3AxrpGlv68zF4C9DEht3kdG0EKZ80="
+  },
+  "2.36.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.36.0.tgz",
+    "narHash": "sha256-IwKcV35ad1XifhsYOOhlQxjS9i4nTE371JOAJWduBbU="
+  },
+  "2.37.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.37.0.tgz",
+    "narHash": "sha256-946+2JjnQGVoWvqrYkbSPhjnNqxgZZJoy/NNCvmLR40="
+  },
+  "2.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.4.0.tgz",
+    "narHash": "sha256-ioMEsS6Nwc9eF5xW+4nf4z2t7lOfduYLJOf8zd6AASE="
+  },
+  "2.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.4.2.tgz",
+    "narHash": "sha256-v0LlJCkU6L44Jz6ps9KkyCa6cdtweb+INmVNI3lAYfs="
+  },
+  "2.40.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.40.0.tgz",
+    "narHash": "sha256-rzEZ2EdAvW/sShyKvicLJZWJ4XovjlSHINea/nXEbkI="
+  },
+  "2.41.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.41.0.tgz",
+    "narHash": "sha256-g6PY8bpGxHPRZWbuRi3AqJ+QCKtsZ19vA9ij8MYyXjU="
+  },
+  "2.41.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.41.1.tgz",
+    "narHash": "sha256-YRO9Ml6YVkQ3bN5hJXLUjT2etYn/oZ5DEmu6/YGb7AE="
+  },
+  "2.42.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.42.0.tgz",
+    "narHash": "sha256-Vz/WTljq8SrEM3kL+bpM3XfsqBoxfQMZ8tLzbdyPGLE="
+  },
+  "2.44.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.44.0.tgz",
+    "narHash": "sha256-ecLXWkho9zo+ODB7/2dZPj++kbnJI+vlbUakpSU33mw="
+  },
+  "2.45.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.45.0.tgz",
+    "narHash": "sha256-6zhTLYTWLPWU3ZHGds6W2GgPjaqRo4BCmN15SP6H0Hs="
+  },
+  "2.47.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.47.0.tgz",
+    "narHash": "sha256-CePSRToDHzoGRNQ0rEt7WtzUZJrj/U8w1vfURp/N3i8="
+  },
+  "2.48.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.48.0.tgz",
+    "narHash": "sha256-vAE1A5apyMKI3deqnWce4daEvrUGcMEOfdUECMz4AMk="
+  },
+  "2.49.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.49.0.tgz",
+    "narHash": "sha256-hRtD3c8N+KjCD6wj5TRqQodnxZDeNC5jZzIBPhjPWko="
+  },
+  "2.5.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.0.tgz",
+    "narHash": "sha256-ECW3XSEzC+IXpd9ES8OpKgZPpRfld3OWUG1HJ1KNwKE="
+  },
+  "2.5.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.1.tgz",
+    "narHash": "sha256-xB4q+J+iZl5/FK/86wYWgAkIu+FBfRPaCmqfU8OyH44="
+  },
+  "2.5.0-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.10.tgz",
+    "narHash": "sha256-gMrtB5X/xaLkVu9VwQkl8Jar/RdwR9mPb8j9oDNlUfI="
+  },
+  "2.5.0-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.11.tgz",
+    "narHash": "sha256-yxiXvNFe5hmmZa2qOElIJqUCAakxMhtAGryTqM6Qcu8="
+  },
+  "2.5.0-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.12.tgz",
+    "narHash": "sha256-Vu0DQtzYJxD2OZCFE+vyDDwyJ1/bgqm66GwPDu/Lw7U="
+  },
+  "2.5.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.3.tgz",
+    "narHash": "sha256-hwK5hFhuko41KuLcLT+DFWOvaulKoqrzi+2iWDeu+cE="
+  },
+  "2.5.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.4.tgz",
+    "narHash": "sha256-qfDu55nc8F+8HX0N9Yio32If7CzdMIzeExj+hiym9As="
+  },
+  "2.5.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.5.tgz",
+    "narHash": "sha256-9SmlCI8ioTTupGxqphZTl9+VI+UTOA7nIg3uJShJNhk="
+  },
+  "2.5.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.6.tgz",
+    "narHash": "sha256-BqIDR8zWRFFv1x+m7Kv56EYsqq5Qy5+LxF5R+Ha25YY="
+  },
+  "2.5.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.0-alpha.9.tgz",
+    "narHash": "sha256-/PDVEN5mtl8dY4T8+tKG0qo28ITjAUdf+sfrIncAptw="
+  },
+  "2.5.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.1.tgz",
+    "narHash": "sha256-xin0xWWD7UfVyUHApTNqW43+KoJOH27xXcRF2rCDYwI="
+  },
+  "2.5.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.10.tgz",
+    "narHash": "sha256-xYtupu4kFbYvkjfdpiMevWw/wspKXUVgewYeDPLTp28="
+  },
+  "2.5.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.2.tgz",
+    "narHash": "sha256-9/7YBLI0zNYx/ZTdReUHwopvKxg2pOAKEiARfdGeGKE="
+  },
+  "2.5.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.5.tgz",
+    "narHash": "sha256-mZbUXwJDyIPYKO9EJRqx3OFNt5fWHHaBSx4kyXd7a8A="
+  },
+  "2.5.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.6.tgz",
+    "narHash": "sha256-XBXeiBk2HuVASqrx5z0lK+bWjo0MvsbEBy9YD5Dw+BQ="
+  },
+  "2.5.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.7.tgz",
+    "narHash": "sha256-wema4qVdQWdhBbjFiaRej15WfYWWxQa4XgK4TbgOs6g="
+  },
+  "2.5.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.8.tgz",
+    "narHash": "sha256-n8WTj7YNDLdv5glfeUzO2CWK/Y8rd9fS0SMVzzzZ3hw="
+  },
+  "2.5.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.5.9.tgz",
+    "narHash": "sha256-s1qy15BfSINqIpTAN5DiG+2/c2oCQhdt65+vgBx6amk="
+  },
+  "2.51.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.51.0.tgz",
+    "narHash": "sha256-UmXCL4IrGbHD6sXMMcrB5MOA7S6Ha3o6whatLqcFbFs="
+  },
+  "2.52.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.52.0.tgz",
+    "narHash": "sha256-V+wTa9Kphdd0JQy8ED0WOtbl5ZsXVi3tbmHvRsLISOc="
+  },
+  "2.53.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.53.0.tgz",
+    "narHash": "sha256-38FNHbdWzMvgVf91G/TlRd5Txa1TtX9Cs4GdDCfbkhg="
+  },
+  "2.54.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.54.0.tgz",
+    "narHash": "sha256-ZD39S57VZdss4PS7txOj9XfEUI2RimeSoTPBWZRC7+U="
+  },
+  "2.55.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.55.0.tgz",
+    "narHash": "sha256-8gxFqB8GmVJ8BMZvOLWC4PXgHgOCqzdVZN6IuYuKT68="
+  },
+  "2.56.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.56.0.tgz",
+    "narHash": "sha256-JH87qphFoG3SfywpsxH5RQV8YYeMWGfdKHsb/2b97P0="
+  },
+  "2.57.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.57.0.tgz",
+    "narHash": "sha256-ldwfElm/nZHt762G9toF8j58+1X2jWavWeloZlMqwUk="
+  },
+  "2.6.0-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.6.0-alpha.0.tgz",
+    "narHash": "sha256-poXo+Yvj3NdperYGmw+Kj7cHuj9Sdh/LN0NXbGYyPTc="
+  },
+  "2.6.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.6.0-alpha.1.tgz",
+    "narHash": "sha256-AUxjW5nKaUDko8EFde8dbtEXA2QItl3rmB6K9z94gRQ="
+  },
+  "2.6.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.6.0-alpha.7.tgz",
+    "narHash": "sha256-K+4UuzryWn7zWARJJ/pj1H7qiHx5Su9WtFlFHGdYPm0="
+  },
+  "2.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.6.1.tgz",
+    "narHash": "sha256-TYoK/52gUQ/K29KMgBei3hnWVFhHp/MTTxehIjQJT+k="
+  },
+  "2.6.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.6.5.tgz",
+    "narHash": "sha256-mIhw1GciDJ8KQ4BhpLigXFjNdy/NmSWJhRteIPhtuAQ="
+  },
+  "2.60.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.60.0.tgz",
+    "narHash": "sha256-c3mQ7VUW8IzLQPV6jyjLlVvzavWrM50QE/+UFQbwISU="
+  },
+  "2.61.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.61.0.tgz",
+    "narHash": "sha256-ICDhKR8eNd/pY0aM97y7yLhBVKwdZx01WXu8ZBYwexs="
+  },
+  "2.62.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.62.4.tgz",
+    "narHash": "sha256-VjupTFdnPcMOUkhFQYodyfnUvwkFjPz9YRfa4DVyc80="
+  },
+  "2.62.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.62.5.tgz",
+    "narHash": "sha256-KHxG/zqLv0QKjCD03Xo5HTmvWHOM+tttxP/rlzwPePU="
+  },
+  "2.62.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.62.6.tgz",
+    "narHash": "sha256-AzTFaphv9+3xRr/e3IrFukBnQc8SeX+hJTPSrR3Z/o0="
+  },
+  "2.62.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.62.7.tgz",
+    "narHash": "sha256-d6DZ2t00YWXN3wE3ZzZAR9rkBhRk9Zi+mPXB7WCt8ec="
+  },
+  "2.63.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.63.0.tgz",
+    "narHash": "sha256-bKSGN1bdW3+yOQ9z5Oj2bci47vo6MnfOAAOtReUEwOo="
+  },
+  "2.63.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.63.1.tgz",
+    "narHash": "sha256-jZUS/y/Qcxsf1gXHtqKvsPt+VRKN574BhD+0i4/t0i4="
+  },
+  "2.63.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.63.2.tgz",
+    "narHash": "sha256-gQ+uwmM66XROszMJ3IQoHcBA0FiZdUu3+QZqOp5OkdI="
+  },
+  "2.64.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.64.0.tgz",
+    "narHash": "sha256-nyVFm6OPBaleYp9BwhzHA6dg7CaiwJKpIUnsR6RKvDQ="
+  },
+  "2.64.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.64.1.tgz",
+    "narHash": "sha256-Jo+GTyJrXrNEvEHesK5uqLIRFXWVWk3dEAcjtovozFo="
+  },
+  "2.66.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.66.0.tgz",
+    "narHash": "sha256-ohXM63gT1FcL9JZV6+fegc8jK9Ol2YR1MaEjG1Wq8po="
+  },
+  "2.67.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.67.0.tgz",
+    "narHash": "sha256-pL55a47IKyWTKhM1OspEXxwnA3S3HbsQ76W3Zd2kIhc="
+  },
+  "2.68.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.68.0.tgz",
+    "narHash": "sha256-0hJSjkYkFbtEH8FZlBiFfoReDbrBrCMpszPME5IINs0="
+  },
+  "2.69.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.69.0.tgz",
+    "narHash": "sha256-c/eU2ca9daTTofBPfxPCISFK82CAKx4Ifr65KLm1dFc="
+  },
+  "2.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.7.0.tgz",
+    "narHash": "sha256-wj9IwbSiIuq5PNya+IATb9iAfpVopyzHwgeGm8+RUAo="
+  },
+  "2.70.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.70.0.tgz",
+    "narHash": "sha256-ZzBzGP9p2n6D20jLVVbQThhFS/V70/e3z/++PXTHB94="
+  },
+  "2.71.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.71.0.tgz",
+    "narHash": "sha256-7BsKT4JoISio7rJzho0ZDX2rZPhE3WA7nJDHDLQKnPw="
+  },
+  "2.72.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.72.1.tgz",
+    "narHash": "sha256-d7S4GAcv2PPTSUMj+PXuweZsBXvexYIeJP4Y0Uj7sX4="
+  },
+  "2.73.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.73.0.tgz",
+    "narHash": "sha256-wr96l97AqlOm1jgCqpuRQTmTGlfongo/79Bv4XzuW64="
+  },
+  "2.73.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.73.1.tgz",
+    "narHash": "sha256-FGJcR7rMgCAeLEyzRSm99vBjbcmgzuTkupwHFIRQ3Sw="
+  },
+  "2.74.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.74.0.tgz",
+    "narHash": "sha256-AAlXUgNsaVJW5ChPAt6tRt7gtqv6VsSgdpE0KMoOb0M="
+  },
+  "2.75.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.75.0.tgz",
+    "narHash": "sha256-1uFdTtpfCX8Nmj9sWVp6D7A+OXtw8t1YzUy9Z13eJz8="
+  },
+  "2.76.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.76.0.tgz",
+    "narHash": "sha256-ggkHBsn0uo1hPLBQ82BxecoPsq1Z6d6UhVH/lYJRKBk="
+  },
+  "2.76.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.76.2.tgz",
+    "narHash": "sha256-3p/l3Dqce3Td2wNVTcpcUVY4rRIQ4gZ177iNW5PxsF8="
+  },
+  "2.77.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.77.0.tgz",
+    "narHash": "sha256-mrYOAHswIRMmoksLNxgLLTruvHCDYFiTEO4uwTpXJcI="
+  },
+  "2.78.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.78.0.tgz",
+    "narHash": "sha256-qi5c5FzWGsA2i4zap09FDqFaNSWusZOSqeyKGxek/ro="
+  },
+  "2.79.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.79.0.tgz",
+    "narHash": "sha256-hmKhCJnjT8vDVzEdSJAy+FJXliVMVrgEb6Qy9Gyfc3M="
+  },
+  "2.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.8.0.tgz",
+    "narHash": "sha256-jCtl5pgadvy1mcEvVAdexHokPFhqCMcG+RRMFOZXxYk="
+  },
+  "2.8.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.8.1.tgz",
+    "narHash": "sha256-Ygsd68v1IS622aknuh/evMQ3QixcM58ltRLht6k+78k="
+  },
+  "2.81.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.81.0.tgz",
+    "narHash": "sha256-V/2/cw+eTJ2gERZAzgAUses7LfJXBLzayVMD9afzyrU="
+  },
+  "2.82.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.82.0.tgz",
+    "narHash": "sha256-FN57zLYyDIdN8dY1w2H0fevKVjaunNXi+O7v/Zdf/d8="
+  },
+  "2.9.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-opcua-data-model/-/node-opcua-data-model-2.9.0.tgz",
+    "narHash": "sha256-xTmKYPyIE6muLXPf8ATjtMuV+Lu1NaXwvxBaMAc+QUs="
+  }
+}

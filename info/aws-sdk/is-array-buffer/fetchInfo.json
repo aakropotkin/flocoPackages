@@ -1,0 +1,247 @@
+{
+  "0.1.0-preview.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-0.1.0-preview.1.tgz",
+    "narHash": "sha256-/mU2ntKGTxcXDFmO800qGvcbPlgIo/RZxHU5Q0rPv1E="
+  },
+  "0.1.0-preview.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-0.1.0-preview.2.tgz",
+    "narHash": "sha256-c8OAXQ41t8O8p5SFsyp/Mh1LBiD1VUmoyRf+KsVpX0Q="
+  },
+  "0.1.0-preview.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-0.1.0-preview.3.tgz",
+    "narHash": "sha256-oGhv5vaTrToV9ngb8aRv0ZkjJuU4Uizfxbc7iCGffsc="
+  },
+  "1.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-alpha.1.tgz",
+    "narHash": "sha256-wZ5SriEk/aqZKJh0a47UuIv3k0GS5Ib63gMtlzDeGZk="
+  },
+  "1.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-alpha.2.tgz",
+    "narHash": "sha256-pS9efz1bOTJA1jIIHrVgTM3DakLFSAL82ShQ8MllUYA="
+  },
+  "1.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-alpha.3.tgz",
+    "narHash": "sha256-6m/uR95CWZjRKLk61fEZLWOelAuR6mZLLf/n3HJQ2ig="
+  },
+  "1.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-beta.1.tgz",
+    "narHash": "sha256-jLlP88HJ3Fe6CHIyOj1UihTwOx1LYSZC5ddB7K7wDIo="
+  },
+  "1.0.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-beta.2.tgz",
+    "narHash": "sha256-T3O5SI7pSO1jYt+d0dEvw8CdQiwg6Ns4W3hCGa0BM6w="
+  },
+  "1.0.0-gamma.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-gamma.1.tgz",
+    "narHash": "sha256-/OarnlTxS2CUMxH2oG4JIptVqHfrSMgnihW+6fraXWE="
+  },
+  "1.0.0-gamma.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-gamma.2.tgz",
+    "narHash": "sha256-lDWKVTSMWvcJNg1L0CuJL02i+e0xEsFPH9PqVDsXU/M="
+  },
+  "1.0.0-gamma.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-gamma.3.tgz",
+    "narHash": "sha256-L70kOJBz6U7mIyAVRTMVXXPr5IzGqydSvCNP/KdFAGk="
+  },
+  "1.0.0-gamma.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-gamma.4.tgz",
+    "narHash": "sha256-lrimam/Xt5BSONX0gF+CYKE4UXZ/1bbRFN5CtYLxxhM="
+  },
+  "1.0.0-gamma.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-gamma.5.tgz",
+    "narHash": "sha256-W0NuZ3P8tjBSJ1ujZ4eA63w2r6RRGFBf83gfGKy2SoE="
+  },
+  "1.0.0-gamma.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-gamma.6.tgz",
+    "narHash": "sha256-wsJHZQ1GVn7lIu3ZwffT5yjCQPKCi+1LqPBuR0gPH9w="
+  },
+  "1.0.0-gamma.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-gamma.7.tgz",
+    "narHash": "sha256-9eJDYPw47uZn0fZabcUfi0eJ+pzhGz+cHd1ptR3tV88="
+  },
+  "1.0.0-rc.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-rc.1.tgz",
+    "narHash": "sha256-b82Ing3ixGxSmjfYBg/jvlcX/KASyW6fD3zbYf+PBAA="
+  },
+  "1.0.0-rc.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-rc.2.tgz",
+    "narHash": "sha256-d4HopFUtWpCfjx3lC8GMEB47lQS3sx8nXQTe7XDsGZ4="
+  },
+  "1.0.0-rc.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-rc.3.tgz",
+    "narHash": "sha256-WRiAvlopRgd2MYWyZzMB5SRmlvKvuIVgeQTsoxlJdIs="
+  },
+  "1.0.0-rc.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-1.0.0-rc.8.tgz",
+    "narHash": "sha256-xhd78zkfLct31SqxlFk3jtwKZlhVPGyk4ZJk8hLWj9c="
+  },
+  "3.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.0.0.tgz",
+    "narHash": "sha256-TyeveXOcwcO1jaXRxJ2/QgBhfoPc+FY1qA+3SUCHrEk="
+  },
+  "3.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.1.0.tgz",
+    "narHash": "sha256-ygRPo+jnJoIRJ8aQmaRIKewof8/DnnK0V6Z5PRUTlu8="
+  },
+  "3.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.10.0.tgz",
+    "narHash": "sha256-9zni73R6pyetBz9gdinHBJu3Cvkn3PPNSwSaoczAas8="
+  },
+  "3.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.12.0.tgz",
+    "narHash": "sha256-UwgF7J/q7e3VQVebamt6mQsVt/qeOkSisYVLK08+K48="
+  },
+  "3.13.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.13.1.tgz",
+    "narHash": "sha256-oqM5e3xMLHXh+sbhohaZ41AfKDvO3vkjejwiNLtdAuA="
+  },
+  "3.168.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.168.0.tgz",
+    "narHash": "sha256-RNs4SVnxzMNPFmYfsw4qeQoLNegZLMBozIDoM0D7fNk="
+  },
+  "3.170.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.170.0.tgz",
+    "narHash": "sha256-F5jUH01xCqJuFWGa1sa5jgp5Fo43ZrexgKDz9ddgXdk="
+  },
+  "3.18.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.18.0.tgz",
+    "narHash": "sha256-1qQUobSLg1GtwLM3BHzWookQWnQPzUunKxyxuGv6kLg="
+  },
+  "3.183.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.183.0.tgz",
+    "narHash": "sha256-PG+/u2jSnpQkW7EzZm4hqGHrxhDuSTG0KiIYbYY3+30="
+  },
+  "3.186.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.186.0.tgz",
+    "narHash": "sha256-0WD4H6T8VtXW53c8SySXQILOqJU9pR9zGV6QsWLCHfU="
+  },
+  "3.188.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.188.0.tgz",
+    "narHash": "sha256-w3Zxp7t7FnKLbvN+XK3Jp2whPe8gk3l18VePMeGubR0="
+  },
+  "3.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.20.0.tgz",
+    "narHash": "sha256-yjFODQK5FDkEz3Zg4E7VwFxWHVjXdzM0E/leGAFbdRM="
+  },
+  "3.201.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.201.0.tgz",
+    "narHash": "sha256-gADgJfJ1oWWtaZ5AQTotb9tkJiMwxNYtEKBlKWUivTo="
+  },
+  "3.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.22.0.tgz",
+    "narHash": "sha256-4dmLV8Gy1hGpLmyaCvCIQxl+HEvKUnoJusNamHLaf9w="
+  },
+  "3.23.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.23.0.tgz",
+    "narHash": "sha256-/Ftsn20mr5cPGNjT8v8ARQitYgYKCzJksnaoAl5Bkio="
+  },
+  "3.29.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.29.0.tgz",
+    "narHash": "sha256-q5culglb23eKEEJ5OiEWlLy2aA8nLj5hilNQSxAJ8PA="
+  },
+  "3.32.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.32.0.tgz",
+    "narHash": "sha256-O0I61QGyHGvqdQYT6b4PTi9uH7QcB/N6mCRIrC/P16w="
+  },
+  "3.34.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.34.0.tgz",
+    "narHash": "sha256-xsXgwdCVIGnTbCWnBT7XzHoQ3LCZEVi1/8cyChX3EsI="
+  },
+  "3.35.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.35.0.tgz",
+    "narHash": "sha256-cJKQAbdfLgn9HWoqPJDnBNo/63Nlfvc+Etn4v41GN0g="
+  },
+  "3.36.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.36.0.tgz",
+    "narHash": "sha256-B9weXbs3QTiEmPoUSLWW2+G9PU/W7Kw7DXVi4yQp/VA="
+  },
+  "3.37.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.37.0.tgz",
+    "narHash": "sha256-zJmEyu3JRUjeytpisWKa2WzoHNBHQhPZJFWGV6dQOWk="
+  },
+  "3.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.4.0.tgz",
+    "narHash": "sha256-ai0TfA4rJtJ8/BSx48lj4xN4LXP/3EdD74sFPaQ7n4w="
+  },
+  "3.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.4.1.tgz",
+    "narHash": "sha256-0d0Xd/JnLgIf+maGqdBuwcdohLRAMRz7pSBuMrgGPXE="
+  },
+  "3.46.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.46.0.tgz",
+    "narHash": "sha256-omLljbd0IUMIJxTxfT+pEvQ8NPEkoPbvcqsqJUz/Bvg="
+  },
+  "3.47.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.47.0.tgz",
+    "narHash": "sha256-GV/DB5/1D/Dt63N/bVhtS3yl95ndXmlgVAH7Ck4srkQ="
+  },
+  "3.47.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.47.1.tgz",
+    "narHash": "sha256-HaSj9BLI7uQuzq/1hk4hNRKDQ46Q2aQd0yX76Zg53Io="
+  },
+  "3.49.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.49.0.tgz",
+    "narHash": "sha256-kE3iX0XOurkvPe+rW7gys2QcswQpPKIRMvGRQ30vbnA="
+  },
+  "3.52.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.52.0.tgz",
+    "narHash": "sha256-hzuuCjbTAW/Z5KU341ON0ihddhD1SKkcFN9hEQY7zLo="
+  },
+  "3.55.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.55.0.tgz",
+    "narHash": "sha256-pqwsy+pjXrYpJjbdZIOHAoAbEY3mr3xUszii8iJimy8="
+  },
+  "3.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/is-array-buffer/-/is-array-buffer-3.6.1.tgz",
+    "narHash": "sha256-nd8hEPoUpNLJ0KN08mSsaVJxRmwOY+2YH3FyLwof9Mw="
+  }
+}

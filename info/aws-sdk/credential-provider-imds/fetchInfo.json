@@ -1,0 +1,512 @@
+{
+  "0.1.0-preview.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-0.1.0-preview.1.tgz",
+    "narHash": "sha256-t8qU3U0HjqwFoE5ODFqbQaC0totXNH4Z3O9Pu3gM1Pg="
+  },
+  "0.1.0-preview.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-0.1.0-preview.2.tgz",
+    "narHash": "sha256-sCScMFDmMSaAMQUd9Fw5sWIC96/WpreG9w2NNnOxOqo="
+  },
+  "0.1.0-preview.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-0.1.0-preview.3.tgz",
+    "narHash": "sha256-HLiqo0SkAhTulXcJaMFaZO5gueDuTElxN/ssTUplA3E="
+  },
+  "0.1.0-preview.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-0.1.0-preview.4.tgz",
+    "narHash": "sha256-JuNkIYYnfnvr6I56qTN3JPn1anEVuvtK0Fl1HzVzQqI="
+  },
+  "0.1.0-preview.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-0.1.0-preview.5.tgz",
+    "narHash": "sha256-1LvpSuhn5Ex2EJqOAUGNlHfqYneSbtDMeEZuzPNFopo="
+  },
+  "0.1.0-preview.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-0.1.0-preview.6.tgz",
+    "narHash": "sha256-tn+77mIdztSsuqmNQ28LOMkeyMQHxNHzVdVw3KC+Jxc="
+  },
+  "0.1.0-preview.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-0.1.0-preview.7.tgz",
+    "narHash": "sha256-McMu6XYogcy4d+ev9m/DVVR0gtyVJQMmaJ/cxNvfHpI="
+  },
+  "0.1.0-preview.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-0.1.0-preview.8.tgz",
+    "narHash": "sha256-qGOrKnqCL7fbuz7WdMhECHmFGM8LrKVoEwfZta6e4jA="
+  },
+  "1.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-alpha.1.tgz",
+    "narHash": "sha256-pGzl4+Ugks4ab986HmGRgCQTDod9iB81aCOa4KozygY="
+  },
+  "1.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-alpha.2.tgz",
+    "narHash": "sha256-A8apJ5fq4/TARAoS+Gk7s1z8x60lh6vc+SMasg7mVmc="
+  },
+  "1.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-alpha.3.tgz",
+    "narHash": "sha256-Kz8VHNu1Du9THRLeQYV+pWOJSvZv+bg6IZDaGSeIOWs="
+  },
+  "1.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-alpha.4.tgz",
+    "narHash": "sha256-tAM5TcSjWpG487keUniOZ7QVDYaChLIhxPtlaEj1ATU="
+  },
+  "1.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-alpha.5.tgz",
+    "narHash": "sha256-BdVx4X8cacEk1pBOwFFMm6GVmZi8FDKjiQ0++UzqWtA="
+  },
+  "1.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-alpha.6.tgz",
+    "narHash": "sha256-qY5xVEqhGEXDo/o9O1wlPkAGVEZrlh0CHEuIciMItcE="
+  },
+  "1.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-beta.1.tgz",
+    "narHash": "sha256-mnJr9jQheD3QJIH0zqnAjBlcLD/llg2n/teHjNDUGw4="
+  },
+  "1.0.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-beta.2.tgz",
+    "narHash": "sha256-K1Qq8+Q57zsmZe88pMbQHgvQADO5rCeI8WgMp/tp33c="
+  },
+  "1.0.0-beta.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-beta.3.tgz",
+    "narHash": "sha256-p8umth/3n4Fq/0DEGXcX90eFlFIFrannYC+X0NxdZ68="
+  },
+  "1.0.0-beta.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-beta.4.tgz",
+    "narHash": "sha256-jNJHOX1wiRjRdZHT1KyWuMer6jkn13KPvWSge0tZVgE="
+  },
+  "1.0.0-gamma.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.1.tgz",
+    "narHash": "sha256-VK3MHgS4lZeUOFKhX1kTf7VWSaNeyzvTIPfsoBwqPbI="
+  },
+  "1.0.0-gamma.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.2.tgz",
+    "narHash": "sha256-ajwMlI9SMFnxvRtpZOcYvLom6vK0UQE+m6Dun+G1wDE="
+  },
+  "1.0.0-gamma.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.3.tgz",
+    "narHash": "sha256-dkKmYIzUsm+xUo+jTpxphXlSbv1Ay5bmbMWvblbJBeY="
+  },
+  "1.0.0-gamma.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.4.tgz",
+    "narHash": "sha256-5727rTrh2sXGTPB8FVVz4uDmWOabvWW2zTa5lWZzeww="
+  },
+  "1.0.0-gamma.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.5.tgz",
+    "narHash": "sha256-Ez1N2LrQjNdWNlc2+4BaKHzL/5QlxVbFTOOvwMkHuyE="
+  },
+  "1.0.0-gamma.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.6.tgz",
+    "narHash": "sha256-QBxeNfhXNIcV+i8Hm3v2enwqs4guyPmKlYTechs1+nE="
+  },
+  "1.0.0-gamma.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.7.tgz",
+    "narHash": "sha256-0XUj2AmYJDTwSUibCckjCyNSlD8a/oOll2Fu2PMiV1k="
+  },
+  "1.0.0-gamma.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.8.tgz",
+    "narHash": "sha256-yWlXJIYY6+AlEhkPculGarvkUWKfgvJ0LkFAcPFlgxg="
+  },
+  "1.0.0-gamma.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-gamma.9.tgz",
+    "narHash": "sha256-uIr4Vvl6yQdNZ3d5N6DVYUAOr2E4wD6nnnVCTtD6QpE="
+  },
+  "1.0.0-rc.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-rc.1.tgz",
+    "narHash": "sha256-7fX25gJScYNypI/mET2ttiDsOygRCZHLi5gdO8n3O4g="
+  },
+  "1.0.0-rc.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-rc.10.tgz",
+    "narHash": "sha256-GD4oxhs2+EZ0TuD0ueOcXXljsNvbjq5PhY4zwsPeoHE="
+  },
+  "1.0.0-rc.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-rc.2.tgz",
+    "narHash": "sha256-IBKMMQrjiuJWPmqvRYsC8WdIP1T4UeJiueOFZJIW6lk="
+  },
+  "1.0.0-rc.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-rc.3.tgz",
+    "narHash": "sha256-68MwUYnpBdztye8zhCjhyPwjcH4u0GNewjW52UUMwFE="
+  },
+  "1.0.0-rc.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-rc.5.tgz",
+    "narHash": "sha256-hJK8kyZf8aXQKWRY/IA/r6EgpwNtw1rT9SMdnxyK7Ng="
+  },
+  "1.0.0-rc.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-rc.7.tgz",
+    "narHash": "sha256-Eyd82jpfLjaloBR+PgcbjhdrRL8c5riipQz4H/iXpSE="
+  },
+  "1.0.0-rc.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-1.0.0-rc.8.tgz",
+    "narHash": "sha256-jTiYSmTTU/gcBhW7cgp2C/lUmmLI7RxUqFPgGv3BjXw="
+  },
+  "3.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.0.0.tgz",
+    "narHash": "sha256-Hx3gadq/vyXk55Ey515N9+fcfkKInEtmNEREkok9cH0="
+  },
+  "3.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.1.0.tgz",
+    "narHash": "sha256-tq5riduETrbf7u7KKnmr2tfYW57ZIHspnVugdfoIPLM="
+  },
+  "3.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.10.0.tgz",
+    "narHash": "sha256-kx598h5jNAi9lT7mxQQerufvVC84108H19RnAzqor/U="
+  },
+  "3.109.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.109.0.tgz",
+    "narHash": "sha256-pFgC1OQhlG4ooIaeguXAulyWCl+otOTeITVC3w6dtbw="
+  },
+  "3.110.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.110.0.tgz",
+    "narHash": "sha256-FISItFBpZmxSjvKUoeidbuHMbTixg1e/3jRtKC+J5+E="
+  },
+  "3.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.12.0.tgz",
+    "narHash": "sha256-vM9IC96BiMOXD5B7/oOnEYLfrIZ/vfKBuUD/Y6O6EjE="
+  },
+  "3.127.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.127.0.tgz",
+    "narHash": "sha256-kLTBeGSurQr56lHu0QqHEb0foZwybJJQ8UrmVH9h2XI="
+  },
+  "3.13.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.13.1.tgz",
+    "narHash": "sha256-5PqeKzUEbQjeP6vuTsRpqTMOAUBn4TkABy4P+lg8HSw="
+  },
+  "3.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.15.0.tgz",
+    "narHash": "sha256-2CYmQXHExhb6RxclV+2Z+fG5jBBVhQs/mCe0xUbUQAU="
+  },
+  "3.159.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.159.0.tgz",
+    "narHash": "sha256-Hnz+W/YxRQeFdv+ctHL+wpl00Kj5VsxFbla6x9kktoU="
+  },
+  "3.160.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.160.0.tgz",
+    "narHash": "sha256-vyUR9cV+45FYf/ycEawY3hX0qBxDg+Mvoy8820Rj+Wc="
+  },
+  "3.162.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.162.0.tgz",
+    "narHash": "sha256-sLP6COvLT/XPAAVQe9Csbxg5PBvQYFvn60BBCQSj2cw="
+  },
+  "3.168.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.168.0.tgz",
+    "narHash": "sha256-bn8LcWEs9u0RYwGIZi9zSVozvqSeFOA5jbz1G2R79oE="
+  },
+  "3.170.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.170.0.tgz",
+    "narHash": "sha256-kyiQXd9Pnij+WcJOPnY7rh5OBvrDYgnfv8PaHVmO3hU="
+  },
+  "3.171.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.171.0.tgz",
+    "narHash": "sha256-cHEwNvAEKtl7WIH+5KR7b/LJFprGfaDtrZWGBGGIOko="
+  },
+  "3.178.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.178.0.tgz",
+    "narHash": "sha256-5mBOkYt5dHFLLQvhOjsbA9Y/5iX6cc5sgMGI1I+cwoE="
+  },
+  "3.18.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.18.0.tgz",
+    "narHash": "sha256-zDupqn4F0Kj8ZuNF2CSH/NFQDEwblCATS3xT7nq9fgo="
+  },
+  "3.183.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.183.0.tgz",
+    "narHash": "sha256-GYbGbOVmRDuCTZ+HiP357uosKADmlcp7W7Y0gHvn36M="
+  },
+  "3.186.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.186.0.tgz",
+    "narHash": "sha256-U9322R3pY+ulwOZFa9Jt2OOyJEHU+9KPVs0gl8+cUxs="
+  },
+  "3.188.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.188.0.tgz",
+    "narHash": "sha256-Q/1qErxHduLhtEJwoC/bvwuYN/JGpKDWRENl+lK0e+A="
+  },
+  "3.19.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.19.0.tgz",
+    "narHash": "sha256-sJben7CBCKOIe3rkKL4VmEkxedjkz0CV4xrZp0kp1sY="
+  },
+  "3.190.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.190.0.tgz",
+    "narHash": "sha256-XjEXiZkhEFZMMXvqE4dVqPVHQQQ8/amDmPRUSx3BNKY="
+  },
+  "3.193.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.193.0.tgz",
+    "narHash": "sha256-cmwVFrxOFm993Qo78JFTpYsIBFaqo5ROKJb0AHG1C0o="
+  },
+  "3.197.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.197.0.tgz",
+    "narHash": "sha256-rw0zHqStebAf5aHuzA5DSVlB2bLiAFgAL/xBghnZr+o="
+  },
+  "3.198.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.198.0.tgz",
+    "narHash": "sha256-+RINrh5Pwi2KUjW0WyF3rjzv8IG5jPQpbmKC9xWlxaI="
+  },
+  "3.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.20.0.tgz",
+    "narHash": "sha256-T1UoqYFUv90qLDYNOB7If69Ws6OLEFY+05Hntl8yj3k="
+  },
+  "3.200.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.200.0.tgz",
+    "narHash": "sha256-nZwlxhdMMOPzjt2PE2JhWpW3FlvLBTrrVfEeUd32+BM="
+  },
+  "3.201.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.201.0.tgz",
+    "narHash": "sha256-p/7UxvyG7X7deeASY8JvJrRoUwrAqWZ1poIJxh8xi5Y="
+  },
+  "3.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.22.0.tgz",
+    "narHash": "sha256-LBSAHhUB2rq6729Pk0H7/+3IDEsu452Fvq8YvOfUvNw="
+  },
+  "3.23.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.23.0.tgz",
+    "narHash": "sha256-xCeY+wXESOABg5rtGrTWfalMgJU6NcfHI1RNS85yph4="
+  },
+  "3.25.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.25.0.tgz",
+    "narHash": "sha256-2YjqHg8WZKX4zwWVNUHfReRfqRasCNRropbPsbUU8i4="
+  },
+  "3.26.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.26.0.tgz",
+    "narHash": "sha256-cAeAYzt3wINHnEP7crmb4t5WgOOiSw6yZhsy73St2cY="
+  },
+  "3.27.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.27.0.tgz",
+    "narHash": "sha256-aOhGO0ukPDgidc9W0Tc1RbNiY6+9ycU7JvI9FF3+MrU="
+  },
+  "3.28.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.28.0.tgz",
+    "narHash": "sha256-gBVb5pEsZ/Klj+oyZzh8FCw9MW3p3cOzDIKIN2uqbYg="
+  },
+  "3.29.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.29.0.tgz",
+    "narHash": "sha256-bF4BJ6ieedU1GGd4AxuoNEczBOk8WYVVgJG2CjMgbIg="
+  },
+  "3.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.3.0.tgz",
+    "narHash": "sha256-03L5j/fOxce88pg9B2tjFoyhATJC9ePuPwvcP2tYU0o="
+  },
+  "3.32.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.32.0.tgz",
+    "narHash": "sha256-dqkzwgR84h93h4sE6Jdtorkio/e/4tE3ooaebSin478="
+  },
+  "3.34.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.34.0.tgz",
+    "narHash": "sha256-0tyVCvhueVLa53Z8ACQU7mr+IX0T7/1IG9x7OJpzVS4="
+  },
+  "3.35.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.35.0.tgz",
+    "narHash": "sha256-1qdjasatF6YVWp8nujkCNJycspis4gIGD8ticJjQogs="
+  },
+  "3.36.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.36.0.tgz",
+    "narHash": "sha256-LSnJqbjNbpMMyC/rkLtnZJ6rXPi/3n21ekJeABU610s="
+  },
+  "3.37.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.37.0.tgz",
+    "narHash": "sha256-0hAfkoWzXVGUNsl+U5cZacZzz/ol4pzlQszb9JYXctI="
+  },
+  "3.38.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.38.0.tgz",
+    "narHash": "sha256-PzF1w26irA/TYPrDLTlA/8fhCJZ4V6AZyhEQkQtnsec="
+  },
+  "3.39.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.39.0.tgz",
+    "narHash": "sha256-d4AhrwClY2qJq9GjFjdymKjvQ4MkkFLymTd5IrUPyrw="
+  },
+  "3.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.4.0.tgz",
+    "narHash": "sha256-RFxoRfnlpH1tq4PgBEQyJG5CiYYExQpZGbYXfHE5W+g="
+  },
+  "3.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.4.1.tgz",
+    "narHash": "sha256-lDytND4jT0CNKnNoqk2mmUyrb8fHz56IRmGFXm22b0k="
+  },
+  "3.40.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.40.0.tgz",
+    "narHash": "sha256-xsVeUmNGvWNz13JcVtT+S+cOd2YfNYy+ghccC7vmqD8="
+  },
+  "3.46.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.46.0.tgz",
+    "narHash": "sha256-r3QXnChi5IuWd8vDukb8gdjw/cHwrT0Hd5VzdR0R7Rk="
+  },
+  "3.47.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.47.0.tgz",
+    "narHash": "sha256-+hc2H5Dl+MOWTVTgKVzeXhoYzDZ0lfYT0W0YpHlbRcQ="
+  },
+  "3.47.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.47.1.tgz",
+    "narHash": "sha256-ez9JN/iVzN8OqOwc2q+3ITpo1FxT8KJ6Le57JTwen6A="
+  },
+  "3.47.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.47.2.tgz",
+    "narHash": "sha256-spMWYc46t7w1BHifgMtbAqOQORb/CjtFWkQwxLIFYiw="
+  },
+  "3.49.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.49.0.tgz",
+    "narHash": "sha256-P0CKvtPZ2JIdoKUadiWoZJyaiVxuuelG949a7XVlR4Y="
+  },
+  "3.50.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.50.0.tgz",
+    "narHash": "sha256-IdDKoOC/s9vjKrl4iFautZw57zVqQTD4jcwId3idpMo="
+  },
+  "3.51.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.51.0.tgz",
+    "narHash": "sha256-1m+PhF8EwO7/EsVkeIcggaSgpOQDSuJjLLtsJGf11uM="
+  },
+  "3.52.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.52.0.tgz",
+    "narHash": "sha256-EYVnF5S7YVEC5XTX5Iitd9gfp7QjvPwKmD1jYTL7/mU="
+  },
+  "3.53.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.53.0.tgz",
+    "narHash": "sha256-KaQcY7ZqNKxoKDni5tCzjfEvVFPL4HavlTZMzKUsf4c="
+  },
+  "3.54.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.54.0.tgz",
+    "narHash": "sha256-hZBGeyZLag0N1kxhMn8i8x33OJYTyey/TUgjPV1dsf8="
+  },
+  "3.54.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.54.1.tgz",
+    "narHash": "sha256-KX+QVtoLJPXCTs8QovATtKz4K1a2u4/PzAzUn4KmBi4="
+  },
+  "3.55.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.55.0.tgz",
+    "narHash": "sha256-yMQmESTFMB9XcZnr03/uuDDFHaFK9wprmlRJojR+H2E="
+  },
+  "3.56.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.56.0.tgz",
+    "narHash": "sha256-wFMpAFghYAREme/y3cfguGfLVhhSPMADEfbzcZf3j48="
+  },
+  "3.58.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.58.0.tgz",
+    "narHash": "sha256-gWxiQd9oBXpPxfMlsQfm+Ggvx2IVWoTFrc+j9mO+o2c="
+  },
+  "3.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.6.1.tgz",
+    "narHash": "sha256-cEOqWrDBF3YWZEwiv5SqaiKNEH8j8Ihua0+O3Z+EGPc="
+  },
+  "3.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.7.0.tgz",
+    "narHash": "sha256-6VCBa6A+u+z/8I4QgeWTePstikD4G/DuZx9f1KQknTY="
+  },
+  "3.75.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.75.0.tgz",
+    "narHash": "sha256-mtI8+s0aX3NVxygx7br+EmwMJy7PQ1PZHulKmAq5g2c="
+  },
+  "3.78.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.78.0.tgz",
+    "narHash": "sha256-AducK+EmUWhsuOuurfz+G1uQ2HvPm1MfMFCdWxHP914="
+  },
+  "3.79.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.79.0.tgz",
+    "narHash": "sha256-A8hbQAFFJnQIovDgGRuTaUtbBgtORZnopBoBi/5u01c="
+  },
+  "3.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.8.0.tgz",
+    "narHash": "sha256-s+BiOv+p+ZMM6FRxthwTB43NiMX7XP8oFgszxw7CRPQ="
+  },
+  "3.80.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.80.0.tgz",
+    "narHash": "sha256-h3OeW9BqWEY044JLYGplLHWyeEV3o8nGZ4Hv7R/vM7k="
+  },
+  "3.81.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-imds/-/credential-provider-imds-3.81.0.tgz",
+    "narHash": "sha256-klJVo9fk5OBXOzRCKVGns6qVyIx8brc7jz7+XDF6JO8="
+  }
+}

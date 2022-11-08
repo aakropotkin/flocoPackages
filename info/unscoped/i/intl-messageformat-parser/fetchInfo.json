@@ -1,0 +1,727 @@
+{
+  "0.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-0.1.0.tgz",
+    "narHash": "sha256-4X5eBO9hSgVVHiOV0HVc6sj5KilMf6nzw8lFOBbshPc="
+  },
+  "0.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-0.1.1.tgz",
+    "narHash": "sha256-dRc3/vWEkk/ZNnK0s/80uwMGh1JELiucXLAZ0PJRBkU="
+  },
+  "0.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-0.2.0.tgz",
+    "narHash": "sha256-HG0xv300M9pr4EdqR/I8lDAF6Xxe664RB8DwNabcWrE="
+  },
+  "0.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-0.3.0.tgz",
+    "narHash": "sha256-nUS6sFxVqjRw+lqNeJoTKxRjxtBx24pWHMGojNRiui4="
+  },
+  "0.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-0.3.1.tgz",
+    "narHash": "sha256-m3QSWOoJ8cQPyXVUtS6OJSEycRJpX2UthrDfw/OgCrc="
+  },
+  "0.3.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-0.3.2.tgz",
+    "narHash": "sha256-qV9Srtzeg6ycXM2Gwo5ECGhJOYhfKoMmOrTTOiwu1Yg="
+  },
+  "0.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-0.4.0.tgz",
+    "narHash": "sha256-PkHNub0Jf0gTh7hgzAD1IsMvs2mVgRmH1fzn6W2u6e4="
+  },
+  "1.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.0.0.tgz",
+    "narHash": "sha256-3oJjwtvDlaYdGE0h49Ow1AwRw7Z+oQKxmk8JsCQkrkA="
+  },
+  "1.0.0-rc-1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.0.0-rc-1.tgz",
+    "narHash": "sha256-vsQITB/pNz3MLTzhoiBQO3TrlxHAUSAQY7B5TO2sEbA="
+  },
+  "1.0.0-rc-2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.0.0-rc-2.tgz",
+    "narHash": "sha256-W/Xqb5jEX9onCNb4DaAftJ/nPz2kB3RNG0KIloF+y4k="
+  },
+  "1.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.0.1.tgz",
+    "narHash": "sha256-UA8KgLRLpmCPvc/ZtRg3JKRU5vrs0FFnsIqefgC/CZA="
+  },
+  "1.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.0.2.tgz",
+    "narHash": "sha256-VRN+BL8A9DWMg0eT8zsSGWmNONlBz0Wi1V9HrQq14ws="
+  },
+  "1.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.1.0.tgz",
+    "narHash": "sha256-D3FLp1AP/qfYaKA2sCMkOVjQw54n6bzqEmpDJmF2nVs="
+  },
+  "1.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.2.0.tgz",
+    "narHash": "sha256-cVAld9hA/MLK23L9Zfmpipvp6GyVLUyy29mwx7hMt6A="
+  },
+  "1.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.3.0.tgz",
+    "narHash": "sha256-Ui52ZlQ/WIA6dgkHmA2dIogVyJYnKLkk+3Xz3jylAHI="
+  },
+  "1.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.4.0.tgz",
+    "narHash": "sha256-ysTMuzpIW1L4LSoXu4zBQdgMqsCZQ/2h5R9S4KZ4+mg="
+  },
+  "1.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.5.0.tgz",
+    "narHash": "sha256-+SwHoK6/+UcOIC7M9Xg1ETa5H8gYuVVjVta3DnUS6kI="
+  },
+  "1.5.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.5.1.tgz",
+    "narHash": "sha256-P/QRUOLQzUjd1bN1cuGH6N2+cHsqbSmXiZXio6Fjfs4="
+  },
+  "1.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.6.0.tgz",
+    "narHash": "sha256-W8WLSZhXReNGSZ97VumG9OpbfDOJD8xhmg6yyWpqTF4="
+  },
+  "1.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.6.1.tgz",
+    "narHash": "sha256-Dge5vEi2TWGloMGfj4LHbj/c6EMdhaJl9h/BYP2vRnE="
+  },
+  "1.6.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.6.2.tgz",
+    "narHash": "sha256-9KAHJhD0KY1i0VsWFi6YEhVRrBqDEISPoGK9Y/SbZ64="
+  },
+  "1.6.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.6.3.tgz",
+    "narHash": "sha256-v/0LNWPhCN9VWqp1HZBeTAaJnwDjL889Khcf7BRXhkw="
+  },
+  "1.6.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.6.5.tgz",
+    "narHash": "sha256-ykBjaJFOejoyFA+BcMlcwUG7kUEdcYbizU/Q50IoG2w="
+  },
+  "1.6.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.6.6.tgz",
+    "narHash": "sha256-da18ic1fTfbbv05eCuWqAF7X3nxufuyVQ80jEuqQ3iM="
+  },
+  "1.6.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.6.7.tgz",
+    "narHash": "sha256-MZibCbeG8ldni0NC4atdmJcnbbCt2qK3gkc5Hn5aO4I="
+  },
+  "1.6.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.6.8.tgz",
+    "narHash": "sha256-ohBQCAJh44Y5ssPMrA77GmgRkf6ALTdTxifBduosG40="
+  },
+  "1.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.7.0.tgz",
+    "narHash": "sha256-Pk5lp/dBiimrdIua2IVcUs7BnI+mcBMj4E0G+eWS6ac="
+  },
+  "1.7.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.7.1.tgz",
+    "narHash": "sha256-sLfvi4SbZrS86i1V3/hGrqVxQl7WohYdu6PWbS7l40g="
+  },
+  "1.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.8.0.tgz",
+    "narHash": "sha256-Bd+Jf/GpZvan2LyJ5idJleNQVmXNv9B4LzS+QOQBE0k="
+  },
+  "1.8.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-1.8.1.tgz",
+    "narHash": "sha256-RWicSEqfL5vqd2JMiEaJ0N2gYRqOrtkFyWMF7mKlAEE="
+  },
+  "2.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-2.0.0.tgz",
+    "narHash": "sha256-1T2X8z18IzQZlFJnV126SefCEkVjJ25DCOMG554Otqk="
+  },
+  "2.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-2.0.1.tgz",
+    "narHash": "sha256-KaKQH9OTDD8/+8v/v/2gh3gKb4R5XJF3AESj+D6CbyM="
+  },
+  "2.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-2.1.0.tgz",
+    "narHash": "sha256-qCQzz30zwcNpRpVn5pQVDhcBEweHSrljB+sRlyRV/kg="
+  },
+  "2.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-2.1.2.tgz",
+    "narHash": "sha256-d9H/8ZO1eMU8FMG19znLGBHEMGIrYNtLq4llGjJWcis="
+  },
+  "2.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-2.1.3.tgz",
+    "narHash": "sha256-FLkrYsl/wNi9U+JB0KgKzOC+s5p2Y0xfEuWyZYt4t+g="
+  },
+  "3.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.0.tgz",
+    "narHash": "sha256-Jz4Zx8eMnBhL22qoS71gQccmMIWCV3UKBQ4pfPM3Uzo="
+  },
+  "3.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.1.tgz",
+    "narHash": "sha256-+/RqAOaqfzJlnHfQ3h2ahLdH7jbsAenB2yTA+ZXLDgA="
+  },
+  "3.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.2.tgz",
+    "narHash": "sha256-hWGDHXXb+CJMQBtKuYG911lVnczDF0VAH5UiZgc7wnc="
+  },
+  "3.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.3.tgz",
+    "narHash": "sha256-/BJD4eif1D5AAjVNNn6X5FWRsvRDIrsKStZhpiwsSR0="
+  },
+  "3.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.4.tgz",
+    "narHash": "sha256-7z+67V7pT5TzILY7ST3uw6rWOuWg8aG8MIhHia/1MPc="
+  },
+  "3.0.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.5.tgz",
+    "narHash": "sha256-k9gtICEBBpguYGqf9gD6N8Lvus3Nl3Q9MA78ZTJfqGg="
+  },
+  "3.0.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.6.tgz",
+    "narHash": "sha256-NBvdj4hLXT3YRM0jZ6pEJlE+qDT57QydtNj7ZqE2d1c="
+  },
+  "3.0.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.7.tgz",
+    "narHash": "sha256-1v/KkCnPQ/FlIeK6zN8in1N3eEuHyywxRLBJ0SJjdK0="
+  },
+  "3.0.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.0.8.tgz",
+    "narHash": "sha256-f9dmugmPg+aiGU+Wp8an0H/OtflJI9JtaeHGpT4tlBM="
+  },
+  "3.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.1.0.tgz",
+    "narHash": "sha256-FtwKXF5GA9EpPcv9HpkCBaN8ZBvlOuLGG+zeaepwjPs="
+  },
+  "3.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.1.1.tgz",
+    "narHash": "sha256-H1+L5/y3n2X2jzNI/RtMMiWUHQinCPMQxLUiJnw0+EM="
+  },
+  "3.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.2.0.tgz",
+    "narHash": "sha256-eLzQMA91X26ZD8shlK+23oKd1Qw6n1Cq81HqoK6Lqnw="
+  },
+  "3.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.2.1.tgz",
+    "narHash": "sha256-bFmU0Ra/LIe6BsCgEr2FPm1ARY3LJp+EPQFrdQSE4bw="
+  },
+  "3.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.2.2.tgz",
+    "narHash": "sha256-JqfaD57Ip4WJw/FCvFfXJfTQE9crx7c8YWX4m+Ghv9E="
+  },
+  "3.2.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.2.3.tgz",
+    "narHash": "sha256-uX1IfSntImnkmZucPo2w2zT1sI1ngIU5X/Ok2rUEs1s="
+  },
+  "3.2.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.2.4.tgz",
+    "narHash": "sha256-ujBp/ARsAUwC8IJjejdN6jXEw4IAwksWY0ccpUCC/4w="
+  },
+  "3.2.4-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.2.4-alpha.6.tgz",
+    "narHash": "sha256-guSFwdQcIn8q4YILz5jT7XYxatPC+luv3WJAgyxPdj4="
+  },
+  "3.2.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.2.5.tgz",
+    "narHash": "sha256-mVZDiJKMIONHyytUcKg/SWKT/izLka6J4MM9gPfg604="
+  },
+  "3.2.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.2.6.tgz",
+    "narHash": "sha256-t9/DX/Otz1tNlFVNSHfrLUIEmzMt8liucSxUabb00k4="
+  },
+  "3.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.3.0.tgz",
+    "narHash": "sha256-mhFuJxmQqo4qpJ3m/DaaZHo1lWidgFA5oBWYc5zNYhA="
+  },
+  "3.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.3.1.tgz",
+    "narHash": "sha256-yByhEQ4gDL3bdvFB7yb5tiF/iehT2EB6y+XfAlFk5Ik="
+  },
+  "3.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.4.0.tgz",
+    "narHash": "sha256-d+RjAGR9Emz6ytjr8aGCq+9QVNQaXHZwoJ4PoXuMrck="
+  },
+  "3.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.5.0.tgz",
+    "narHash": "sha256-Ee8mReF8HoXKODhjn+ejXBujsjcgYL+pDkvJgg0WYyQ="
+  },
+  "3.5.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.5.1.tgz",
+    "narHash": "sha256-aspBlqcKY/QAfjSir7MOV17qDN6hqcQnWF5a65vpbJ0="
+  },
+  "3.5.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.5.2.tgz",
+    "narHash": "sha256-wv50n4EIwG+vbB7zYBZp29NDyf5ApughsGP1ztZobuw="
+  },
+  "3.5.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.5.3.tgz",
+    "narHash": "sha256-NV9zqUT0gtOOZUEk8ToWpD4BGwqATXWK0DanO+6fnVI="
+  },
+  "3.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.6.0.tgz",
+    "narHash": "sha256-TI6Ay2sEc7HR79AfLJvtLPLajrDa3lG12O0yKjaHLfw="
+  },
+  "3.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.6.1.tgz",
+    "narHash": "sha256-L8BYn5mSVikVC3KZqzTH3MgXQXWpOQfrYzQZyGokdCY="
+  },
+  "3.6.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.6.2.tgz",
+    "narHash": "sha256-noEtjWgr7EP9AUG9cAdn1eF5ozDxIzmCWiTk+8yJag8="
+  },
+  "3.6.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.6.3.tgz",
+    "narHash": "sha256-AkNYdajj+PeoKQCgTnxn+Nqjmi6IYYUfyh/rrPilTus="
+  },
+  "3.6.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-3.6.4.tgz",
+    "narHash": "sha256-oMMlK/aH+IL/fFrb4ak+jfA0eBefsXD5JVp60c054hc="
+  },
+  "4.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-4.0.0.tgz",
+    "narHash": "sha256-OlYqr1bd6OsqQz+EGL4U+P3MTuM0t+vVqpBOPJkIyJI="
+  },
+  "4.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-4.1.0.tgz",
+    "narHash": "sha256-OyKtfGlt4h7yKMfHqDzIbUmecPeisa6W7opQdAcYbE8="
+  },
+  "4.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-4.1.1.tgz",
+    "narHash": "sha256-MYgAXP+UxlYEvIZ2wHec0jJX3w/vKQJt2lnGgYZzE/0="
+  },
+  "4.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-4.1.2.tgz",
+    "narHash": "sha256-O9C2TLEfEvu8qI7jw69SLhJ5XWbG/mszojoBvl9hZZI="
+  },
+  "4.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-4.1.3.tgz",
+    "narHash": "sha256-Dny7VhhCUEbHgc01ZGP0ymAPO6A7XswzCJa8hdMnlnQ="
+  },
+  "4.1.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-4.1.4.tgz",
+    "narHash": "sha256-zOUp90flDNi9l4JL+blsNYnbdbDx4D9yatGUmU7jRiE="
+  },
+  "5.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.0.tgz",
+    "narHash": "sha256-b82bOoba0/8n9j2X7m6IASTChu4ysyDz238F6jWebBE="
+  },
+  "5.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.1.tgz",
+    "narHash": "sha256-+XoZTUqGni+6bdtV6511FkTlvHIDFAnTU4A7tWtFgus="
+  },
+  "5.0.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.10.tgz",
+    "narHash": "sha256-4pzPT6X8CKJizpkruks7oT7Wm5cZ4RsUs6OIWKXWqlA="
+  },
+  "5.0.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.11.tgz",
+    "narHash": "sha256-7KWVlG9uPMopni6p51jCRHHpydwp/ZL9F9hv/7lB8Jc="
+  },
+  "5.0.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.12.tgz",
+    "narHash": "sha256-UUj/hdmq0wZb+HBu4hNESGWYzjZEeDALvzwgZj9TgPE="
+  },
+  "5.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.2.tgz",
+    "narHash": "sha256-l0/MGXtPSSZrgabco9hRDiquQnlg2agnCrs1dfgm4N0="
+  },
+  "5.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.3.tgz",
+    "narHash": "sha256-OQDRwJr47I83cwSZiim418JnJxDWC4Q2yUeYwd2SUHg="
+  },
+  "5.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.4.tgz",
+    "narHash": "sha256-Rmv+9zBN3P7gEZ6DYWBwxGztPDqaKE/PQozVebuE4Yo="
+  },
+  "5.0.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.5.tgz",
+    "narHash": "sha256-qwpdwqX3wPX8ixyc7ogkpCPE+4SvYFhicCCtk1MAY98="
+  },
+  "5.0.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.6.tgz",
+    "narHash": "sha256-3zyKgatdoCsY7g74HYHPSNkyvCUws8OIKnI2aLyTkK4="
+  },
+  "5.0.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.7.tgz",
+    "narHash": "sha256-pnu0e7A7k5StmNFakgcyF/qRSQDGU2EJh69Qs9/lTEk="
+  },
+  "5.0.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.8.tgz",
+    "narHash": "sha256-xjEc31488tbNQ5Iffz+xayGL3yZdLby0nPJJ2FONFMk="
+  },
+  "5.0.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.0.9.tgz",
+    "narHash": "sha256-9LodXx1tnkwJX+nsOuEozIWzP64SmDDEHz7mqJeKkGM="
+  },
+  "5.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.1.0.tgz",
+    "narHash": "sha256-y0pbVE5Bo/hP4+GH6J63Bz2BBS6WyQALMuFd5WFizdo="
+  },
+  "5.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.1.1.tgz",
+    "narHash": "sha256-mds2SEICUYLrTDpBljQizGYFtvgkJbwY1OdX87uaZdI="
+  },
+  "5.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.1.3.tgz",
+    "narHash": "sha256-7iHh+4F16dWkeRcZnDYcSgpfPt2lPuw4QbG9k14TzGM="
+  },
+  "5.1.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.1.4.tgz",
+    "narHash": "sha256-hbYMgORhylhRq2e3443sArhExm1OBzIqrqqaOsFGkfE="
+  },
+  "5.1.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.1.5.tgz",
+    "narHash": "sha256-SjsSeV66gv0wRwrB1vF2Dkvbf9i7LzzL/uUSExD65w8="
+  },
+  "5.1.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.1.6.tgz",
+    "narHash": "sha256-oo8t5cHrNgj+12hWvAcrgGcWmAF7LHa0DaVdV5DOoXI="
+  },
+  "5.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.2.0.tgz",
+    "narHash": "sha256-xra22a0ut0+YeggnJ5A0kG/56R5OXMhhpb+bGDBIc0w="
+  },
+  "5.2.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.2.1.tgz",
+    "narHash": "sha256-fXLH8UYipoMYVz8k3VqMNdHQIRfCF4UzBgcezYVk9xQ="
+  },
+  "5.2.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.2.2.tgz",
+    "narHash": "sha256-8K4N8GsVeB+ei97O7lR9aKfl6tNcY3P1Q0tI4nznF1Y="
+  },
+  "5.2.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.2.3.tgz",
+    "narHash": "sha256-KXJjEOhIjvMIYRE59NmiHSYev+BeQRDXlEmAl6Mr2rg="
+  },
+  "5.2.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.2.4.tgz",
+    "narHash": "sha256-s3wyMlQL2pBpQNfv2gC6Fzxuee7nrjnTPHa4TEsuZnY="
+  },
+  "5.2.6-alpha.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.2.6-alpha.0.tgz",
+    "narHash": "sha256-RT52FbfpDihUXQcQMteqhRDKVX+TYu7Yn9St3vyoo4o="
+  },
+  "5.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.0.tgz",
+    "narHash": "sha256-QfR547FkzAdf7dOxn5YK71WsTL+jbtiRdKmCrbQVnHc="
+  },
+  "5.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.1.tgz",
+    "narHash": "sha256-NrbNnjkyuibMyfYB13+e/kv3OllI5HXXMFYE/HMEg7M="
+  },
+  "5.3.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.2.tgz",
+    "narHash": "sha256-j+Z9Ucn0/C/z+TJmcwM1wbxxLpHbSeX5ud12lWubG9U="
+  },
+  "5.3.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.3.tgz",
+    "narHash": "sha256-T6YoQ7kVhJU9IOvBQF0M+7j2YSQW2twGQBg6ttqJZ8w="
+  },
+  "5.3.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.4.tgz",
+    "narHash": "sha256-JLW7zIgvxxU4plr19dJtivLZDNzOTGnbdmlKsEckwpc="
+  },
+  "5.3.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.5.tgz",
+    "narHash": "sha256-gsqy0+WNO6jgF91AMxiIKQa8jRbWJrM1UdWSDLykKzg="
+  },
+  "5.3.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.6.tgz",
+    "narHash": "sha256-AnOefuwKWGFmNf3cRFgwugjKOipNItttiACwxSLRo+M="
+  },
+  "5.3.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.7.tgz",
+    "narHash": "sha256-0wDG3F7kFX4YyAh8zwrSF4XDxBvsuEvKPnhnlvyDaeo="
+  },
+  "5.3.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.8.tgz",
+    "narHash": "sha256-nwuBDfjguq0Y5SllKyGCsTdOJv3czNJY32OJ24YXiVU="
+  },
+  "5.3.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.3.9.tgz",
+    "narHash": "sha256-Cxb5a9jnrJ+miv70mNC01VigJ4dQrY/ZNgJAJ3aAJ2Q="
+  },
+  "5.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.4.0.tgz",
+    "narHash": "sha256-SV606r9cqUzRdzkxkNtrGGBjSBuEki2SfZi7bZ1DeGE="
+  },
+  "5.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.4.1.tgz",
+    "narHash": "sha256-1UMCsTPtDzYSrCd8nhmFLbaD/mJvRwm1eRLBouaqSyU="
+  },
+  "5.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.4.2.tgz",
+    "narHash": "sha256-/RlbWFYG1PRw8XwWyL7OThuNv9I0sN63sERiESN2p4Y="
+  },
+  "5.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.5.0.tgz",
+    "narHash": "sha256-MNIMq2vl1gwWXcnOLkRw9/ZQS7/+4m3UtOXOYsToZU4="
+  },
+  "5.5.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-5.5.1.tgz",
+    "narHash": "sha256-gS4/LQ+rh2N3CQfFHZ/HqXZulSw2OCTxxfeco0V9Tt4="
+  },
+  "6.0.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.1.tgz",
+    "narHash": "sha256-/Qha6v95SeX4S+F6ZiKUUdMYXWTdC1VWRDiZy4AtmEY="
+  },
+  "6.0.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.10.tgz",
+    "narHash": "sha256-5uMZz/WzK7A2dsA69BjTCI1ue/XP5rFskUqIhQDAFFg="
+  },
+  "6.0.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.11.tgz",
+    "narHash": "sha256-X88y9vA4Osq8nTpj3cd4zvRIZljJyWJ0WGTlebUZ7Kc="
+  },
+  "6.0.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.12.tgz",
+    "narHash": "sha256-poN2wNK/VvdHUH2F65V4zP/WLR7SlrlCyrPg6zn6WgQ="
+  },
+  "6.0.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.13.tgz",
+    "narHash": "sha256-Nq8hwAEDFhVOV0iAcBHZ1Ehbiklq4VmwJVTWidJLBTM="
+  },
+  "6.0.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.14.tgz",
+    "narHash": "sha256-Y1xk99ViQJK67wn4QXbv07bdRpLjq2l7sQMed6SZE18="
+  },
+  "6.0.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.15.tgz",
+    "narHash": "sha256-3NGxL9YnlJCuOLwdHCpboGJPxPydD++86yuq8B04zRI="
+  },
+  "6.0.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.16.tgz",
+    "narHash": "sha256-LcForoO31QrZOss4NiklKAbHVqc10LgniFV9g9P3xdE="
+  },
+  "6.0.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.17.tgz",
+    "narHash": "sha256-ItFke+mCvEngW/dFS/0KhUj4sIwyirmMvaIkaAMzo0w="
+  },
+  "6.0.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.18.tgz",
+    "narHash": "sha256-ltlpHHrKFJXywVAjEviHPY0s1dA2gNzJrzARZhhIqIs="
+  },
+  "6.0.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.2.tgz",
+    "narHash": "sha256-HbM8B+atX7XrPqn8iPWMpFhuE6+G9AUK4KEcLmGY+Vw="
+  },
+  "6.0.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.3.tgz",
+    "narHash": "sha256-8XrEiYJdKFRV6BZz1FLbK/Sp8sLC2xfj5xXbw+3WWXg="
+  },
+  "6.0.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.4.tgz",
+    "narHash": "sha256-yEAWszmnYD/eE/eg4JsjGmnykbCmjNEAp9+dx6rSIhY="
+  },
+  "6.0.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.5.tgz",
+    "narHash": "sha256-btPUyYjKvUYB8HNr2lbKLlRxh9cQAy0Glibp616Ij28="
+  },
+  "6.0.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.6.tgz",
+    "narHash": "sha256-lp5Z2d5/SrZXk2KZV3yAqeEMDPrnDIbAuyycuwIg05I="
+  },
+  "6.0.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.7.tgz",
+    "narHash": "sha256-4eo/wjNI4MLvflNEKqFnZ3XYdUylXkBczAOJPJo7f30="
+  },
+  "6.0.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.8.tgz",
+    "narHash": "sha256-U3mAV4e84uBlAfksYeeVNirddl15cBAVgVJlbE3OOkU="
+  },
+  "6.0.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.0.9.tgz",
+    "narHash": "sha256-3MiNfYqp56IoaFt9y9hR7zedwVN1ASUoaRjouWz3ILs="
+  },
+  "6.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.1.0.tgz",
+    "narHash": "sha256-lrm9WfrZDDibenCI8ik9JUG67v/ujnWooF4G2NqQODc="
+  },
+  "6.1.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.1.1.tgz",
+    "narHash": "sha256-9bRF0Evcm/4xbJ/js/5zTIc5kqQbl2kZ4JhFK5Vw5zc="
+  },
+  "6.1.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.1.2.tgz",
+    "narHash": "sha256-TLcpZ5VZuiqB+4Vc9GPzJiHpJbg6B3dIgb63AJl0HrU="
+  },
+  "6.1.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.1.3.tgz",
+    "narHash": "sha256-dt4oaOPzpONuvBG4BHILNLmOljNkpZSa1/6vv++QUlA="
+  },
+  "6.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.2.0.tgz",
+    "narHash": "sha256-6JG10u2h60Jc0d4GokO7No0mStLNUQuaK6gfTZJ/B44="
+  },
+  "6.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.3.0.tgz",
+    "narHash": "sha256-McVOFk/8vE6Z1YlhOKe9vAckWHaaPzqZZwuAwgMVkp8="
+  },
+  "6.3.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.3.1.tgz",
+    "narHash": "sha256-yenwDb+lB6pUzhbpcapmQASav+WYkjSqEKa0IQ1oHI8="
+  },
+  "6.3.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.3.2.tgz",
+    "narHash": "sha256-1Yj9B0W5XwV3S0a7zZGVc/f1JmIAu0Omc1f95HF+cZY="
+  },
+  "6.3.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.3.3.tgz",
+    "narHash": "sha256-ZxD9BO14X+xF6fY0t6K6wS9clAxHT/GnJNc46PTNens="
+  },
+  "6.3.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.3.4.tgz",
+    "narHash": "sha256-/sQHENgZWiBG3BL31hlMJSaiqFtDa1A6Qsp4nNaAaYM="
+  },
+  "6.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.4.0.tgz",
+    "narHash": "sha256-OgQuvAa3CuY8zV1iuyI69XEyW3SxH2DoXxxj3qYkIYM="
+  },
+  "6.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.4.1.tgz",
+    "narHash": "sha256-QTEx7eF2MrRH/wujJu3aZjeHtVKGa0N5fnRxJWQoQz4="
+  },
+  "6.4.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.4.2.tgz",
+    "narHash": "sha256-K6+mWoTQXtVYcw+LWmJy52wK0w30NgV19qlz5jTsvR0="
+  },
+  "6.4.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.4.3.tgz",
+    "narHash": "sha256-xgkvS2OLTgtIjqiRdYCo1rp6BkFIFNKxujkruJ2+Src="
+  },
+  "6.4.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/intl-messageformat-parser/-/intl-messageformat-parser-6.4.4.tgz",
+    "narHash": "sha256-j5jdcBCRrUmYSj3jVxHeemSGzOujPIbT/FmjAsXCEU4="
+  }
+}

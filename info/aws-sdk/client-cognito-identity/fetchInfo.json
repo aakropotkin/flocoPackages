@@ -1,0 +1,927 @@
+{
+  "1.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.1.tgz",
+    "narHash": "sha256-G41wntUGay8l79V5DO5drlE4uEPksQd01u1OcUQgnx0="
+  },
+  "1.0.0-alpha.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.10.tgz",
+    "narHash": "sha256-lUMwDJksYdR0tFTgn8OkfNUYtJ1MxT55EOY5+3cUpdU="
+  },
+  "1.0.0-alpha.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.11.tgz",
+    "narHash": "sha256-uErGcqJyY/GUZdUied5PkHQR5gHyivhZsoIjCM1k8Tg="
+  },
+  "1.0.0-alpha.12": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.12.tgz",
+    "narHash": "sha256-nyPRBsPAw5OKdNO4db6b9fmWNrnYm+ADMk0sZYolgVA="
+  },
+  "1.0.0-alpha.13": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.13.tgz",
+    "narHash": "sha256-W6uq29WPf+DE0MfwoxdR0xTeMly/UdslUYgox6Tzkuc="
+  },
+  "1.0.0-alpha.14": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.14.tgz",
+    "narHash": "sha256-LCpthRjIHrQy99931rt4CEJayxKmHNnwCKsdORLN6fA="
+  },
+  "1.0.0-alpha.15": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.15.tgz",
+    "narHash": "sha256-k1qkddl4+OxhVrUXHnuMCkAAINEa+B0/duAIC1WTxlU="
+  },
+  "1.0.0-alpha.16": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.16.tgz",
+    "narHash": "sha256-LeYVt0wZ/o+I+gKZb6zbo7RSsRtT2Gp0efK15QBQy6E="
+  },
+  "1.0.0-alpha.17": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.17.tgz",
+    "narHash": "sha256-c2ZLzje4b/lXTKHGMhnVDeY3IHsivcrHKqjbbHuz+40="
+  },
+  "1.0.0-alpha.18": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.18.tgz",
+    "narHash": "sha256-T/BobCvob0aUJqusUZ25LE1s6Oa6AS932tDbKj5/SQ0="
+  },
+  "1.0.0-alpha.19": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.19.tgz",
+    "narHash": "sha256-CWqo+ldVfD5bs/s+MbhvzpXFA6ZIBqVa9wBAocSDDOk="
+  },
+  "1.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.2.tgz",
+    "narHash": "sha256-3Ru66v/zP0IXrVHOGzHikuZA+YVI0Zv+Tnon3btQ15U="
+  },
+  "1.0.0-alpha.20": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.20.tgz",
+    "narHash": "sha256-L2IR30tP0pNtAuhdcur1e51S6MHWGLZ/XwU3JGpkeCc="
+  },
+  "1.0.0-alpha.21": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.21.tgz",
+    "narHash": "sha256-6DKwUDty61AacwMZcUy08j/N/cQjRRztn6s3s8rqvaM="
+  },
+  "1.0.0-alpha.22": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.22.tgz",
+    "narHash": "sha256-Jd19qWlFyH/xgg8LMElnf3FeHOvZfoH4tM/JOkwVLNU="
+  },
+  "1.0.0-alpha.23": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.23.tgz",
+    "narHash": "sha256-FXtVaFzkqJA8ReUFln2jYx0Pe9FaE+t9njH8H9f05Nw="
+  },
+  "1.0.0-alpha.24": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.24.tgz",
+    "narHash": "sha256-TV+tEXkBawcZpDPOJ1vLi/gWLfVfRiYlj2XpTmvJ39w="
+  },
+  "1.0.0-alpha.25": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.25.tgz",
+    "narHash": "sha256-GHo/hodXxK3RSrtaFLXsOBO1Zu9WQn1VtYkMgdvJA2A="
+  },
+  "1.0.0-alpha.26": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.26.tgz",
+    "narHash": "sha256-N+ZgKLLpgiwxWbHmSGUpVjN1R5+hdfuEVqke2yNR2oo="
+  },
+  "1.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.3.tgz",
+    "narHash": "sha256-BnrEi8WWd7R3wFrOK3v6XeiQAZhKl0PtTIgoc1vhONY="
+  },
+  "1.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.4.tgz",
+    "narHash": "sha256-O/WcsFjUKZ2cNwaGrKLf45BZZtyDDspaTonLqwPKyHk="
+  },
+  "1.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.5.tgz",
+    "narHash": "sha256-/kEcIn0qVFnBBoChHj2XVM7+ZJ6hs1eoAqaMMXUGdNY="
+  },
+  "1.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.6.tgz",
+    "narHash": "sha256-ZRBuZm6NnaYcZDjXS6H3eMo+95WlGzrcVg2D1jOV7Gs="
+  },
+  "1.0.0-alpha.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.7.tgz",
+    "narHash": "sha256-tJGhTsQb/BAfzPK/yh7YfIowQTzZo+RusVk3AO36m4k="
+  },
+  "1.0.0-alpha.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.8.tgz",
+    "narHash": "sha256-HikmIDyvXjHdBbbPHPBL0UZflChyLWRO8VJtE0jR2Tg="
+  },
+  "1.0.0-alpha.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-alpha.9.tgz",
+    "narHash": "sha256-o9bM1/BS3TyLGJr4tJNVaRkoXaEjtkqc8kx4YVlL0Kc="
+  },
+  "1.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-beta.1.tgz",
+    "narHash": "sha256-O1FUkCKZj8XmBctpuRqO6qiIJL07uZ/CIjIwqkJcEi8="
+  },
+  "1.0.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-beta.2.tgz",
+    "narHash": "sha256-et10P3VzStGpf9g2O5CSkM4Uo8lvdrY/HzV9MYruvlo="
+  },
+  "1.0.0-beta.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-beta.3.tgz",
+    "narHash": "sha256-AAziA7gxbTdSmhx+MjCGc13PRm5l4D9dSPtF9aJ4Sds="
+  },
+  "1.0.0-beta.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-beta.4.tgz",
+    "narHash": "sha256-7fSAPBtt+dTTo2JUNrk4GRCw0WR+0j1kPiPNSnV2PtI="
+  },
+  "1.0.0-beta.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-beta.5.tgz",
+    "narHash": "sha256-+8AbcDih2vvgY36SQ2N1FfSbLNliQuhbqoXnpfGUquc="
+  },
+  "1.0.0-gamma.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.1.tgz",
+    "narHash": "sha256-KZoYTuJNzY10LY6PN91IM/1aiPTYAGp1pVf1ySp6Td8="
+  },
+  "1.0.0-gamma.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.10.tgz",
+    "narHash": "sha256-YMXwXVDTWGqsCg6I103jcn3H89fTvB3T4LB4fA+rRMQ="
+  },
+  "1.0.0-gamma.11": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.11.tgz",
+    "narHash": "sha256-g2vsNExi07e+dxRzShEPjHbAyHlSAHuRoiDAbxEgEI4="
+  },
+  "1.0.0-gamma.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.2.tgz",
+    "narHash": "sha256-G7hdhqgqYN//j8u3boHz2IR2Kaq1hwuULVDtLzARR7g="
+  },
+  "1.0.0-gamma.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.3.tgz",
+    "narHash": "sha256-tqxfIUQO4zac7/ZMmHZz2CWrQEZkHuofHJ2ChvQBInk="
+  },
+  "1.0.0-gamma.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.4.tgz",
+    "narHash": "sha256-Qrf3iUUk6YDb2nWLNhhHHzaBG7ip5jtHYZ5vP20SAp8="
+  },
+  "1.0.0-gamma.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.5.tgz",
+    "narHash": "sha256-YAb2kVJJ6SmeuHZFUo7eIGr/J28K7SnY9NQInl3CKDs="
+  },
+  "1.0.0-gamma.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.6.tgz",
+    "narHash": "sha256-6ne3/nzEp4p8a48Btsa7C8ICnXsLeGSI4hrwuEjhUXs="
+  },
+  "1.0.0-gamma.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.7.tgz",
+    "narHash": "sha256-RY1/IKE+uZ40sSvZxAvF5Wbh3oy9yhApH88nzMaA/3E="
+  },
+  "1.0.0-gamma.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.8.tgz",
+    "narHash": "sha256-xlPEnHNPA7EpR9GPl8KBYCmYVa36GQTz9rXbz6hiWRM="
+  },
+  "1.0.0-gamma.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-gamma.9.tgz",
+    "narHash": "sha256-Ksf32Naz1yoA7djo2/24fVv0Mrlw2CkN1yHq1uXXPHg="
+  },
+  "1.0.0-rc.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.1.tgz",
+    "narHash": "sha256-TZAyzjIDOT7fUIJwq6aOkaZ2RNy/prQ4AqqSToAz7w4="
+  },
+  "1.0.0-rc.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.10.tgz",
+    "narHash": "sha256-nIW31oQkQFiP4gc4Rw7ErQk8bnZ4kIxwp3uFYZru9rY="
+  },
+  "1.0.0-rc.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.2.tgz",
+    "narHash": "sha256-/9eWRNWyqUl3Txe8EJvGj69Y/AowOWzUg9Zzxm0XL4A="
+  },
+  "1.0.0-rc.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.3.tgz",
+    "narHash": "sha256-7c0E8fHsf7321ysBVGPlv/4cJqYByM/FxOFqvNTToVc="
+  },
+  "1.0.0-rc.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.4.tgz",
+    "narHash": "sha256-Jp7tm+Ame7wlmRwD353sSbGE0jq4xU4h6jp+ypvXkvM="
+  },
+  "1.0.0-rc.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.5.tgz",
+    "narHash": "sha256-+kP8W/c9jlfoO6HpwFhonqanDcJiZ1Tt0lLoK364BAQ="
+  },
+  "1.0.0-rc.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.6.tgz",
+    "narHash": "sha256-UPcLscrtnPNGyFOCgdfV7HpggCrsFnBMBpK/ajvHd3M="
+  },
+  "1.0.0-rc.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.7.tgz",
+    "narHash": "sha256-zOxncoQMkqtK1YKVB2o7BkkGMHWum3KXvycSTCRUVaE="
+  },
+  "1.0.0-rc.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.8.tgz",
+    "narHash": "sha256-O0q4+9yf2ZlxvYVRW5znssZRBlswhj8i6z0/qKQb5O8="
+  },
+  "1.0.0-rc.9": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-1.0.0-rc.9.tgz",
+    "narHash": "sha256-hThG0OUP4SxJNu7ti+fXoanFSi9N6vWb/8mcqEvfr4Q="
+  },
+  "3.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.0.0.tgz",
+    "narHash": "sha256-OExL0rnUNJeD4862ZfPp4Wzl5TiwWSpgztTRlYnOmWg="
+  },
+  "3.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.1.0.tgz",
+    "narHash": "sha256-LtcNgv1b7lbkcIYpSW8J5KVChWVkpc+ELFXylB4xGIo="
+  },
+  "3.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.10.0.tgz",
+    "narHash": "sha256-9gBaEPwPP8VuEKdo+6G41YPP6HnZAy8juF7smaukonw="
+  },
+  "3.100.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.100.0.tgz",
+    "narHash": "sha256-/IgU48GqK0DhwVGWc6VuUdfK8ju9iT4sl4jEn38t1VU="
+  },
+  "3.105.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.105.0.tgz",
+    "narHash": "sha256-CqSrAEz9GcOBnWWqPwFJibJWLVliheROyhR+CEmmDBo="
+  },
+  "3.107.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.107.0.tgz",
+    "narHash": "sha256-sOaBgECg1b1OZzVgAuzqU+r25RaGQmdCNbQ80V9tNIM="
+  },
+  "3.109.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.109.0.tgz",
+    "narHash": "sha256-+7qIHWrjzQ1vUhMVMY5Npa+bOgKkWVbUCipenhrNtas="
+  },
+  "3.11.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.11.0.tgz",
+    "narHash": "sha256-T6xRrhRs4lUvLsa54P+Oa8/cXdXbmsdFAx8eSBAwUec="
+  },
+  "3.110.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.110.0.tgz",
+    "narHash": "sha256-5tw5IHR9TER9Y6heGgl90+QD0FCsg5W4Itg7WxOHvMk="
+  },
+  "3.112.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.112.0.tgz",
+    "narHash": "sha256-aR5vyu1cCuAdavsz0oIKfqQPUXr72lE6iLdlfZcRAZ4="
+  },
+  "3.118.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.118.0.tgz",
+    "narHash": "sha256-iIddz63iC7b3C5l5AdloWhonj0j8SqLkvpzYS2Qjtkc="
+  },
+  "3.118.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.118.1.tgz",
+    "narHash": "sha256-MoBw2RQYUlQV7RqGw+d3dEQMcCfJbLEP0dj3rQtAgGs="
+  },
+  "3.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.12.0.tgz",
+    "narHash": "sha256-eQC7i1PVkQ7vhjWGA8ezCcPRBW7aPkUUXBQSJaU+9es="
+  },
+  "3.121.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.121.0.tgz",
+    "narHash": "sha256-InebsHxDE9/87HowF7wNPmaoJ5seHzUZNIxQhr7JOtI="
+  },
+  "3.127.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.127.0.tgz",
+    "narHash": "sha256-sPpOS/CF3dJBiAHiEQ0/6BLl1oSdkNvjVn58bLuzpFE="
+  },
+  "3.128.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.128.0.tgz",
+    "narHash": "sha256-U7vByTz7jPfC4JZ5ZkYa0sbarx1XlY9rHG5eK8j/8Gg="
+  },
+  "3.13.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.13.0.tgz",
+    "narHash": "sha256-xKdGDa8ul5hiI4BusIr1YIMLAhCvDA9+kE8TJkchJMQ="
+  },
+  "3.13.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.13.1.tgz",
+    "narHash": "sha256-DS2TUL+2rnuK7xOw47rqqBMv/qw0Nqk2KSGTha3NN9g="
+  },
+  "3.130.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.130.0.tgz",
+    "narHash": "sha256-QF1luNmR0TM2or5hqSgYxFqKk17ab2Ec9dhNaj25BvA="
+  },
+  "3.131.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.131.0.tgz",
+    "narHash": "sha256-m1aXH/JqnWmMcv7Ph1XRWZIK7SLnUNQ0H6k/lnZS+e8="
+  },
+  "3.137.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.137.0.tgz",
+    "narHash": "sha256-RYrck/X0vE5++ytMSqFFnGpKfGGEj/qB+y06Eus9lr8="
+  },
+  "3.14.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.14.0.tgz",
+    "narHash": "sha256-k3eV9w9mxV4c8qrJnDiaRkU0AiJWidt1jp+55wHvPE4="
+  },
+  "3.141.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.141.0.tgz",
+    "narHash": "sha256-VPMCxmN4a0lB8rtfqIaIO7TY6ZSKvzZ+Buhp/sywQqs="
+  },
+  "3.142.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.142.0.tgz",
+    "narHash": "sha256-ioTDXLJdq4UjhUfgSNVObzcq2ncbK8EXTvTaEQWCnG8="
+  },
+  "3.145.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.145.0.tgz",
+    "narHash": "sha256-CoiEsxix1hpxhQ17yWWGii/JfTmeWx0Z8gX0pkysslY="
+  },
+  "3.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.15.0.tgz",
+    "narHash": "sha256-BIJlu1OBYCXE/HFMDi9gWrCthgYetVF37yiRv8o+E6c="
+  },
+  "3.150.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.150.0.tgz",
+    "narHash": "sha256-IQ6NstL6mVvZTKKD0nltIpne4CdNGastnQFi3OpcTxg="
+  },
+  "3.154.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.154.0.tgz",
+    "narHash": "sha256-asvAoz9e2oooENJybew2C5IUlC0mvjRONEr3VkgUVUA="
+  },
+  "3.157.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.157.0.tgz",
+    "narHash": "sha256-BO0UYQl2/U9SuHXxJBBHO6bkP93OsnssPSQNsM/HrsM="
+  },
+  "3.159.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.159.0.tgz",
+    "narHash": "sha256-7EejFiZ1m9DDKdMLdyTf4dyLGCqw8RKEGz0JsAvVC0Y="
+  },
+  "3.16.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.16.0.tgz",
+    "narHash": "sha256-7XiYUXVyX4vY7a+MJ5c5rWC0GYvSv23AkNCd6LVg590="
+  },
+  "3.160.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.160.0.tgz",
+    "narHash": "sha256-4xTiBZLFRWiQDW4rrHAq7fqy6jqIpTvRz67JkrPTMG8="
+  },
+  "3.161.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.161.0.tgz",
+    "narHash": "sha256-CiQWkTR0RbKXD2mBdDPNfqCi3yhUnGva7MxWvDI5GLo="
+  },
+  "3.162.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.162.0.tgz",
+    "narHash": "sha256-lJGSFwVrzjzIlZhJynl/BQY7j3UqhCrn+z3w7rrmzBs="
+  },
+  "3.163.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.163.0.tgz",
+    "narHash": "sha256-BCUrcxyJkpygaqFtkYshWgLR9ysNHBdkAcbUFJLVtiI="
+  },
+  "3.165.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.165.0.tgz",
+    "narHash": "sha256-fN10YWxheAFTJ0mddLetFLnOdUnaj96NQ6Vxq9V4kuc="
+  },
+  "3.168.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.168.0.tgz",
+    "narHash": "sha256-rLTEDuTHobYBFle0pip3X6iwokhuh+SkrNmB5gryTf8="
+  },
+  "3.169.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.169.0.tgz",
+    "narHash": "sha256-hdd09+JpoR81dpYIvhMW89jVW/Oq5MJfGK+KhtSCqe0="
+  },
+  "3.17.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.17.0.tgz",
+    "narHash": "sha256-dLKTvZpZAnBCwjKtXUmGMv8GqtPJIQMpOC4qJ7a75zQ="
+  },
+  "3.170.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.170.0.tgz",
+    "narHash": "sha256-JiQjwSX4g101MRHqrZHlAIGzz3QD6N5RzZhzi5g+Kj4="
+  },
+  "3.171.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.171.0.tgz",
+    "narHash": "sha256-Y4NYwMsthAstM0nAX0n07vmNPE8A4NILBlNrTZvmi5Q="
+  },
+  "3.178.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.178.0.tgz",
+    "narHash": "sha256-1NzDswIbYKtrAuNVZlju3Lu1Dk1VedejG6MfoMLwkTc="
+  },
+  "3.179.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.179.0.tgz",
+    "narHash": "sha256-HZW4bKUelq2Jnxaj7TdCcQ6g0oMmBkHuRmmKx/oXOxY="
+  },
+  "3.18.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.18.0.tgz",
+    "narHash": "sha256-Pe1SR5ZBTe7PVjyNFQDr3p8z0CaNC0coOI5lZ4WQ3iY="
+  },
+  "3.180.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.180.0.tgz",
+    "narHash": "sha256-vUgG/UY6+NMu9nmm/gLZG+SnCoDXAnQ3YH1nLFaEd9U="
+  },
+  "3.181.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.181.0.tgz",
+    "narHash": "sha256-1cveSmUYZg99+sgWds6I+9qatxqKe0RwEzE6BfTPXMM="
+  },
+  "3.183.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.183.0.tgz",
+    "narHash": "sha256-Vm+7DNOOK6P1uAOQsOat0oc6iTbzOM49ay4reZqDM4M="
+  },
+  "3.185.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.185.0.tgz",
+    "narHash": "sha256-kgZGSLbReRYzFnHgrYZ0e2fh3A21HZrRlPjDWUEu1Ho="
+  },
+  "3.186.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.186.0.tgz",
+    "narHash": "sha256-oFjkD0jDoYKWuW9NFvxIzHy+h5o9aqtDOGSRoYjpL18="
+  },
+  "3.188.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.188.0.tgz",
+    "narHash": "sha256-dtv229qaWybfJ6Kvf2k4w2SnYFbRex9Vq44A3p6e5Q8="
+  },
+  "3.19.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.19.0.tgz",
+    "narHash": "sha256-h0DttaTPZDJ+vRGQLxmOiFpK2+XoVXLnHt/YqlDlSZ4="
+  },
+  "3.190.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.190.0.tgz",
+    "narHash": "sha256-N78YnyvQl6CW1Kq4zGwmMzN3qkecp6mQ4oCutX9Gal8="
+  },
+  "3.192.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.192.0.tgz",
+    "narHash": "sha256-kff2eRBtaRjW9TkQkIsd6NDFAhmT3gHfJWj6ZqcJlFM="
+  },
+  "3.193.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.193.0.tgz",
+    "narHash": "sha256-3FyEKfAZyUe88DcB8NR/JXC0A+IV0TUbOKXcitkyrSU="
+  },
+  "3.194.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.194.0.tgz",
+    "narHash": "sha256-LdJx2PJipnyEyFQRFMVnGN9mOWKBkzsNv1DFexUmrhk="
+  },
+  "3.195.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.195.0.tgz",
+    "narHash": "sha256-Sp7BOdftvFYZOZE0IDo179o9v5HWH5Gq8iUYqluGlQY="
+  },
+  "3.196.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.196.0.tgz",
+    "narHash": "sha256-vUBeYm4bO2uI3a8gn0J0Wje7G8UdcG4CMTP4gOfiyow="
+  },
+  "3.197.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.197.0.tgz",
+    "narHash": "sha256-TzhO+gSpo7ZAVj+Wf0SqePrFroSHkbAodcyb2MYWknM="
+  },
+  "3.198.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.198.0.tgz",
+    "narHash": "sha256-0fHwfqKX8l5o4Ifndh+rja4isjbQZXArB5GbTdyvnPw="
+  },
+  "3.199.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.199.0.tgz",
+    "narHash": "sha256-RLUwaMVTNdKAYbwF5p1J6Yt5eLWqySdKzRnzeWx0PMQ="
+  },
+  "3.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.2.0.tgz",
+    "narHash": "sha256-6NGoiuFYaof8QsuWJj7MiStET238K4+foSYPSY0wskE="
+  },
+  "3.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.20.0.tgz",
+    "narHash": "sha256-STSj1xXghw3CkLjt3gYK/gBksQtzaDouclN2wLkjE7Q="
+  },
+  "3.200.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.200.0.tgz",
+    "narHash": "sha256-ROv6SLmorxKo4uCEB0u1A6KtjgZoRh6V6uxkLMKImuA="
+  },
+  "3.201.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.201.0.tgz",
+    "narHash": "sha256-cbXs2nZEhA3Y6s9LyB2iwvLLQ+mgmltD7ozjj6GbbhY="
+  },
+  "3.202.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.202.0.tgz",
+    "narHash": "sha256-nlFuRLMvFUAGLJZlby2ryVugpldlre/YcxZV12M2e9Q="
+  },
+  "3.204.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.204.0.tgz",
+    "narHash": "sha256-7FejVBqXXGc8aiar1YlpMgXugYVAVMwlm9lU4g1gWyc="
+  },
+  "3.21.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.21.0.tgz",
+    "narHash": "sha256-e8jyjCBtjh8hdeboCwZrz1SsSQJzZPdpmUICOEKTRf0="
+  },
+  "3.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.22.0.tgz",
+    "narHash": "sha256-qIDC6Z8oiA3oga91N+DvL63GGodMPn33bzr8irH/3vE="
+  },
+  "3.23.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.23.0.tgz",
+    "narHash": "sha256-kGW3mgvSg1dFL2rklzEjZf5EewwZWP45QNnR3jv16Z8="
+  },
+  "3.24.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.24.0.tgz",
+    "narHash": "sha256-6sfY0sultrZoT3VRQwfycolhJSPoz2mRJ2D/42VVXFU="
+  },
+  "3.25.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.25.0.tgz",
+    "narHash": "sha256-wwB4qIhKJ1PPZ82jZHzjkoZnrvxjTCLDPZL4lK4Go34="
+  },
+  "3.26.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.26.0.tgz",
+    "narHash": "sha256-Wj7QJK4oOTWY8kvdG8M/pQKRJEhQzPJ/5gnSS+sThOg="
+  },
+  "3.27.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.27.0.tgz",
+    "narHash": "sha256-KANbASAPb/8F8sc4m02niiwtO5fUpLfAVQr3TIfQv/E="
+  },
+  "3.28.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.28.0.tgz",
+    "narHash": "sha256-V6KddD6xJjGl32MXXwqLIuAjP42uzyVDB5sjtqgJZwM="
+  },
+  "3.29.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.29.0.tgz",
+    "narHash": "sha256-VdW3LQsPwCwbXlEtdbK7aPEdm7DTVy2K9jnFkR/HxQM="
+  },
+  "3.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.3.0.tgz",
+    "narHash": "sha256-t/3+pefZVUVTKadtMjAkJG2M1+e3VpzktDUA1sHmXXQ="
+  },
+  "3.30.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.30.0.tgz",
+    "narHash": "sha256-IM4TQvO7MIS/NGqWAfMmgLZS0v9qnPI8LrZHBoAsqyc="
+  },
+  "3.31.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.31.0.tgz",
+    "narHash": "sha256-eE3JnQwdZqzjlMD7yz64Fx7BK2qiZCX+D5hw+ag21mY="
+  },
+  "3.32.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.32.0.tgz",
+    "narHash": "sha256-uTV0JQAxfopTzHeREEa0cYxVnaKB0YpqfWmR823L5sk="
+  },
+  "3.33.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.33.0.tgz",
+    "narHash": "sha256-RAwIGE46GOsWET0q7WYHu19vlttwo3HW3qrg/gZVx5I="
+  },
+  "3.34.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.34.0.tgz",
+    "narHash": "sha256-GFK1n0Oqknm6G7KPq+Usc5bogwXUGKDgAk5i6He96pU="
+  },
+  "3.35.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.35.0.tgz",
+    "narHash": "sha256-tqnl+/2FijvlgkRKV/syrfbThsED3qQvAOyUYUubaiA="
+  },
+  "3.36.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.36.0.tgz",
+    "narHash": "sha256-DW31HHxgQPmq51+cT2oZaaQcjjT8+68bhPrCy4dDSgA="
+  },
+  "3.36.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.36.1.tgz",
+    "narHash": "sha256-ANsCTV9bvSz8bC9kYD4UyreLe5i+PCAHTGJH1qLa2oc="
+  },
+  "3.37.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.37.0.tgz",
+    "narHash": "sha256-5X/gVKsMi5GP3IAJaAfim2Tds3rEYAe9wj3uPq4ocTI="
+  },
+  "3.38.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.38.0.tgz",
+    "narHash": "sha256-ncyU9mM/xlhnUwM46PAMSnxdH2Irb65gxJHgEkHbqtI="
+  },
+  "3.39.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.39.0.tgz",
+    "narHash": "sha256-Tz5R7BQVySfueynASGYtUZBFaFT6aHppGE5B8Sm6ikU="
+  },
+  "3.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.4.0.tgz",
+    "narHash": "sha256-8YdcWPnYQ/hz9BqSIolr40KoNh5//X1ba4Us0moYIes="
+  },
+  "3.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.4.1.tgz",
+    "narHash": "sha256-5uswoxF+GKZFyJb2KWNq0u24ngYQzFtdjdFPSX1ekaM="
+  },
+  "3.40.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.40.0.tgz",
+    "narHash": "sha256-LX5sXfuzfT/HrIOE6XRWQYN5XkGLT2hxiu191UoxAcA="
+  },
+  "3.41.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.41.0.tgz",
+    "narHash": "sha256-/xlLFrilzunOS+7UAWFYQKNAGMjyOQ+gSq7UQE3340c="
+  },
+  "3.42.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.42.0.tgz",
+    "narHash": "sha256-9hehDXoEYKAHiubcp40oMlTURCsDJ4zDKg37FgFR5UY="
+  },
+  "3.43.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.43.0.tgz",
+    "narHash": "sha256-em4HFEWdIPoTOAI6V2vszWnPJzPZBE4vlo3geoZu0wM="
+  },
+  "3.45.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.45.0.tgz",
+    "narHash": "sha256-JIAWgvyH1lNCyp2ZfjZwrGQ2DMVLAmC1SUVgJA65vgE="
+  },
+  "3.46.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.46.0.tgz",
+    "narHash": "sha256-KlgL7Wwehx1Xv4TcZpvsEvDqGtRSy8j4L6fUYMxrT3Y="
+  },
+  "3.47.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.47.0.tgz",
+    "narHash": "sha256-n7RO0MruifLstK3aIMESXZjzxVYIvibWIung5lPccZQ="
+  },
+  "3.47.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.47.1.tgz",
+    "narHash": "sha256-NAzPYXY+u3hMUPKPXmXb6/o/t10+0UCq54VH+OlFEqE="
+  },
+  "3.47.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.47.2.tgz",
+    "narHash": "sha256-m2rU+QJ5AbZROQ+oM8GLmwzdeJwnYYibI2a5QD9JzPk="
+  },
+  "3.48.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.48.0.tgz",
+    "narHash": "sha256-kKF4EpUy/c4ykxjPm929naZmqJXfR6bVClL2cOKIdL4="
+  },
+  "3.49.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.49.0.tgz",
+    "narHash": "sha256-nerc5G7ZOJCqi7JXJQUH9EviPAGTpdGngG1YIIcjULs="
+  },
+  "3.5.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.5.0.tgz",
+    "narHash": "sha256-CX+0lSri7vdb1OmfgCRHqhpaFTolpu2oS+mpgmuvdTo="
+  },
+  "3.5.1-rc.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.5.1-rc.0.tgz",
+    "narHash": "sha256-nV56lHwXE+u3EoiQw1YJ0LurDBOmXQpRoVp4v2B6/Lk="
+  },
+  "3.50.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.50.0.tgz",
+    "narHash": "sha256-r7stgyJWDbfRbdCOQSKEBHZlmP1s8duvQCj4WINh+/A="
+  },
+  "3.51.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.51.0.tgz",
+    "narHash": "sha256-OTXtzhvYpBzOiGA7WU8850ma3wyWZEdpEN2ptCZcNOQ="
+  },
+  "3.52.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.52.0.tgz",
+    "narHash": "sha256-nM6qyvdpvhgKm6WSppSsCYhS3VCZKW5WhjP66qXtsiY="
+  },
+  "3.53.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.53.0.tgz",
+    "narHash": "sha256-gyeHQnUBdXdUfLXhFgUlnI5kSdqhmNgjNgFQKCBet1A="
+  },
+  "3.54.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.54.0.tgz",
+    "narHash": "sha256-pFDb6MMiZuCruXtRDA/eUHL+buOyijRjmh63vCgIMw8="
+  },
+  "3.54.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.54.1.tgz",
+    "narHash": "sha256-FqziLcE5ohxlxHacMMuwL6eAFB/0LSGCULp0PBLzd3s="
+  },
+  "3.55.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.55.0.tgz",
+    "narHash": "sha256-av3WZnHPs/rhl2JHxscnNZ2Yq4d7T0ZOsnTGEC34nPA="
+  },
+  "3.56.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.56.0.tgz",
+    "narHash": "sha256-oiN0L1kc/LAr1+gYdYR7YBMIOcDdDmovfuuapCshmdU="
+  },
+  "3.58.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.58.0.tgz",
+    "narHash": "sha256-8ZHHLcMnO5YhvUNk9rVOcfqxpVXMEyUMVYhKhrBsZE8="
+  },
+  "3.6.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.6.0.tgz",
+    "narHash": "sha256-sR8ZD7qtG8ZZfgOX/loK5rkNuymnUgkcR72+24RwjVc="
+  },
+  "3.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.6.1.tgz",
+    "narHash": "sha256-uzBs2x2XRTdLSKICFaJ/0zeVgbt7maeS39zGubRHO+c="
+  },
+  "3.67.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.67.0.tgz",
+    "narHash": "sha256-D1VgeeSivfVveEd9AHOITnhwGDivH9o1ZuNp4l4TUWo="
+  },
+  "3.7.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.7.0.tgz",
+    "narHash": "sha256-YkWopvUjpSHrsqb3hZypyQKwtOvpQhrOtamKDhMlV5Y="
+  },
+  "3.72.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.72.0.tgz",
+    "narHash": "sha256-YQnD+ScnGP9iFSZSCQuQe2GRgONTCbJ8lR4FGPi512k="
+  },
+  "3.74.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.74.0.tgz",
+    "narHash": "sha256-PYMyfTvA1vrGClDwzlAgJypBuhPaoi9DQzQemnKhagg="
+  },
+  "3.75.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.75.0.tgz",
+    "narHash": "sha256-PA2zfB5EWhLuMRoae5azhvQs4sCyzUQLSeqwcZuyFJs="
+  },
+  "3.76.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.76.0.tgz",
+    "narHash": "sha256-5JPbtKQ5glXs638lq03Jk6CfUkuI499JsFvo+4thfqs="
+  },
+  "3.78.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.78.0.tgz",
+    "narHash": "sha256-KNq6RlrdFNP1EikVnAsGY/pqZe3ZOY1PfqJPG7AJvIA="
+  },
+  "3.79.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.79.0.tgz",
+    "narHash": "sha256-gSkbKtrH6WL1IoA9f0VPqBuXpdHdGF9k1+u0GMc6Je8="
+  },
+  "3.8.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.8.0.tgz",
+    "narHash": "sha256-TxxYr0HRUcDj3LonYBGaoWM1Aj3JMw80bT02Ab99OAw="
+  },
+  "3.8.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.8.1.tgz",
+    "narHash": "sha256-+4Q9GRNXXOugTpFd3koYX7CSPZgVw4yh+XUayBOa5dM="
+  },
+  "3.80.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.80.0.tgz",
+    "narHash": "sha256-emaSxx86R5mgKDmsScnwLs51Nvojq+VRcJ9cNUBLaXE="
+  },
+  "3.81.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.81.0.tgz",
+    "narHash": "sha256-O9ttK8TJWDQeOcSVjt4kz6W0q42rso9kIn1SIzUsZHM="
+  },
+  "3.82.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.82.0.tgz",
+    "narHash": "sha256-7hs3WNgsxlARMWTgm66yABnYzMqFoCognyu9XvdnZ6U="
+  },
+  "3.85.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.85.0.tgz",
+    "narHash": "sha256-eKItAx1meNZ0H4prHtM86noC+3QmsMNYZ4Ju2ps4KDA="
+  },
+  "3.87.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.87.0.tgz",
+    "narHash": "sha256-eOZpjbCnL1Y3zwkEnjSpYpNZN4w/7Y9afCYxeY/s9xI="
+  },
+  "3.9.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.9.0.tgz",
+    "narHash": "sha256-9XWgVJ1HmtBKdL+D5UUc2998fnWz+kZbI+3wkCpdn5Y="
+  },
+  "3.92.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.92.0.tgz",
+    "narHash": "sha256-MbYgkR0SEHqrwS297SRr5UQTTFneUeO4r5XNk/mfxlg="
+  },
+  "3.94.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.94.0.tgz",
+    "narHash": "sha256-FQWXUjflcR0VC2Brc8mMW9bKP+9gI3+9+5l3y/GRvZ0="
+  },
+  "3.95.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.95.0.tgz",
+    "narHash": "sha256-1ZTmqmXFshQXbtHvaw1wOo/5SSlZ4Q++57rLRgMT9P8="
+  },
+  "3.99.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/client-cognito-identity/-/client-cognito-identity-3.99.0.tgz",
+    "narHash": "sha256-XQ44+mOnMR+d/uMXF6uVgTL3UEDERYV4OgOpRyigrlc="
+  }
+}

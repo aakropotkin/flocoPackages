@@ -1,0 +1,407 @@
+{
+  "1.0.0-alpha.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-alpha.1.tgz",
+    "narHash": "sha256-SweHulbZtM7bAsVxww32KENVB92GfroMNPYj2MJMEys="
+  },
+  "1.0.0-alpha.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-alpha.2.tgz",
+    "narHash": "sha256-20ePG4P0hmXL3gsjHNc+iujRlj2PhSkZc80QVGHR0XE="
+  },
+  "1.0.0-alpha.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-alpha.3.tgz",
+    "narHash": "sha256-6ffyZ8BM8HPbWX4w9QKfgJXvmzjfIyaoPwtZGj4O5V0="
+  },
+  "1.0.0-alpha.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-alpha.4.tgz",
+    "narHash": "sha256-LRLGz4cE378CMU6EkWOFKT9L6MrZDyu4UUuM2kc3mro="
+  },
+  "1.0.0-alpha.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-alpha.5.tgz",
+    "narHash": "sha256-0woIWiMRsTzvs3Cc09L70Dq612QLJ3+YBYGVwQOhAXM="
+  },
+  "1.0.0-alpha.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-alpha.6.tgz",
+    "narHash": "sha256-Kqq7vF8CmRiggbSEC1j8B/mkHZohIX8p0h3Bh9JbF6E="
+  },
+  "1.0.0-beta.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-beta.1.tgz",
+    "narHash": "sha256-Ba0IoaA/RkwwK5eV8NvRDCY906E2vdV2NcfZsWk1lvU="
+  },
+  "1.0.0-beta.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-beta.2.tgz",
+    "narHash": "sha256-D95gstxBvA8cCJm774Mqgoyl/Xig6hxI2u9VeEKOkqY="
+  },
+  "1.0.0-beta.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-beta.3.tgz",
+    "narHash": "sha256-j1imih7PRWSVAKlVt95MfEg5eVZIRWbYjkcLGqD1kz0="
+  },
+  "1.0.0-beta.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-beta.4.tgz",
+    "narHash": "sha256-vLlk+DKqDfNygqYXKRVpkbOg4OTSXhxqrZvvXbAWeuE="
+  },
+  "1.0.0-gamma.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-gamma.1.tgz",
+    "narHash": "sha256-+Pbr05m1uksqkrFU9cULaAXaKDb/ofUJqZlpdewBzj4="
+  },
+  "1.0.0-gamma.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-gamma.2.tgz",
+    "narHash": "sha256-Bzj9CVEdiEdBjKqHMizJK6H/MJGAOBRmQd6+F6Dlc7U="
+  },
+  "1.0.0-gamma.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-gamma.3.tgz",
+    "narHash": "sha256-OaAn1W+gyrAugD21CrJdLFTs63JoANgUZcgQkI9hgtU="
+  },
+  "1.0.0-gamma.4": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-gamma.4.tgz",
+    "narHash": "sha256-RluuiyEWiecbip1N+K76VhJ/XqP2rugxsmg0hpIcWDo="
+  },
+  "1.0.0-gamma.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-gamma.5.tgz",
+    "narHash": "sha256-kBZb7n965/cBoHpI2Lc+1URRkqjcqMsM1ul8qmoBHOI="
+  },
+  "1.0.0-gamma.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-gamma.6.tgz",
+    "narHash": "sha256-1lOhiAv/NJPjb58y2jkwrh/R1e2owHvzlVjXHO6vtMc="
+  },
+  "1.0.0-gamma.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-gamma.7.tgz",
+    "narHash": "sha256-hwGyCf0AL1X6iowGfqZ5x1wSQ8weYyl/4YSv2RmTw78="
+  },
+  "1.0.0-gamma.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-gamma.8.tgz",
+    "narHash": "sha256-9ySpnQpFX0D9Dmhg57ewQGSTZ5chxA9b7mgmjAT3MA0="
+  },
+  "1.0.0-rc.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-rc.1.tgz",
+    "narHash": "sha256-HNiMGRvsVxqJ+uh+UPu0ZGQQVjGpVQBYgVVGzvzbsaA="
+  },
+  "1.0.0-rc.10": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-rc.10.tgz",
+    "narHash": "sha256-xVy3L4xK1th5H3QZVpiaWFJk4Iapf1WYPU4whJJWFJ4="
+  },
+  "1.0.0-rc.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-rc.2.tgz",
+    "narHash": "sha256-JL88KVPQE0A+wevP49dRTrsSMydHNwBlVTOPNsrarYk="
+  },
+  "1.0.0-rc.3": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-rc.3.tgz",
+    "narHash": "sha256-2fQsgFPnlU9D8YPyidxpc2qKrYK1Dt5OunsWfm/l1pc="
+  },
+  "1.0.0-rc.5": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-rc.5.tgz",
+    "narHash": "sha256-zw5l4UQcoPI65rHfpKhQP5d6wj5kUQBmmgFa76SLBV4="
+  },
+  "1.0.0-rc.6": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-rc.6.tgz",
+    "narHash": "sha256-tO8PkCC4KZ1qZtjT2+rxAz9zPijuPtnrzwahR3gPYLU="
+  },
+  "1.0.0-rc.7": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-rc.7.tgz",
+    "narHash": "sha256-bzESThiUsvbFoo+nA03vVCrsFFnDwdleHvJQxK4hcO4="
+  },
+  "1.0.0-rc.8": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-1.0.0-rc.8.tgz",
+    "narHash": "sha256-Fi7yN5vxuOb1GCenNVBK+re2/uQmOHc6hXjn5zU75H0="
+  },
+  "3.0.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.0.0.tgz",
+    "narHash": "sha256-hNaVK6Hju7cs6HJyA0CLBFt2atWmmsF1srmzAXfn0YM="
+  },
+  "3.1.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.1.0.tgz",
+    "narHash": "sha256-qC/mMl5k+kbI55QUCY7OjV6rrZd5g+lRByyR2xEiXi4="
+  },
+  "3.10.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.10.0.tgz",
+    "narHash": "sha256-qCxO+kuaamsK/GKQ4q9L7mwaQ2WkBOD5XLvOkryUC1Y="
+  },
+  "3.109.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.109.0.tgz",
+    "narHash": "sha256-BOg26XRsOdXb7vjXpskaSSGf30+gQIddilGKWZhf658="
+  },
+  "3.110.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.110.0.tgz",
+    "narHash": "sha256-BwPOcyYDEdHSaC0FC7n63bLjaQip6y+PITBweOSmNHM="
+  },
+  "3.12.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.12.0.tgz",
+    "narHash": "sha256-Pqe7XfUgKRcvlvw7vzkCeiRfO98+laXFNxbW5m3O5fc="
+  },
+  "3.127.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.127.0.tgz",
+    "narHash": "sha256-NQRlpm6UcGh3T4q8Z9kmW8MNd3oqtp6+sI2ZSfKstQU="
+  },
+  "3.13.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.13.1.tgz",
+    "narHash": "sha256-aD9Dr4BxadYonrggiWRz3jSy1/wiIArjj17MrV5NHHU="
+  },
+  "3.15.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.15.0.tgz",
+    "narHash": "sha256-TG407GlePTyLWzQ8V5oOkhSXfcmq/TiICHJLv3RCopA="
+  },
+  "3.159.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.159.0.tgz",
+    "narHash": "sha256-j7053PcEQN+fiTvkLSYP4EQjhffB619419L9/nfJfrk="
+  },
+  "3.160.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.160.0.tgz",
+    "narHash": "sha256-S9gWs0hlVwBh7WNCOpc5e8FS7odnwu7Einu33K+0ipM="
+  },
+  "3.162.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.162.0.tgz",
+    "narHash": "sha256-gOdZ5eauH3tl3LusKlH64x+DFUPJtOqGiebrxT2bln8="
+  },
+  "3.168.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.168.0.tgz",
+    "narHash": "sha256-4/R4nfBI1QbAh0XcmtQlzq0nrcZWl044X8Sz4Nmg00c="
+  },
+  "3.170.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.170.0.tgz",
+    "narHash": "sha256-WTEhkyL3i2T0M01mu2XPH2HmAY5qdLQmRNKKrdMie9s="
+  },
+  "3.171.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.171.0.tgz",
+    "narHash": "sha256-Vno2N56kYsew0bfNcQ9JWgbdddw6edBy0AVH014GuIE="
+  },
+  "3.178.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.178.0.tgz",
+    "narHash": "sha256-dUVV1xeGjpD7ZuNP9kZuuCQa2d5FY54bPzHazF8pJkA="
+  },
+  "3.18.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.18.0.tgz",
+    "narHash": "sha256-H2gkdhC3OFbRhSd9Y9idazuNttqIRb/J2kZ8nXuKI1k="
+  },
+  "3.183.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.183.0.tgz",
+    "narHash": "sha256-dw2Tr4Yih1RaceZucr8IXPQiRKl3FJdQIWWN/oW6Hjw="
+  },
+  "3.186.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.186.0.tgz",
+    "narHash": "sha256-LkJ0GtAWckGkVKxCy5hBzm6jSrRL9XMFGRRHTjoe4KY="
+  },
+  "3.188.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.188.0.tgz",
+    "narHash": "sha256-ig0ZXOuci04vjYp4VXUtWGfaAaLTxI9lZnToorrNAmo="
+  },
+  "3.190.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.190.0.tgz",
+    "narHash": "sha256-IoAtrsnuxjQp/zL73PJe3nKdBo1DxojtOEOytmjwrB8="
+  },
+  "3.193.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.193.0.tgz",
+    "narHash": "sha256-FJC514XDeY/bVekmdYrR1UyjXld8DeBrv9CYgjyXc8E="
+  },
+  "3.197.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.197.0.tgz",
+    "narHash": "sha256-PorNhekR7LKO9yalHLzyTulf5Watbe7HdNKKZF/M6z0="
+  },
+  "3.198.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.198.0.tgz",
+    "narHash": "sha256-3l4uQTBox96t5G/wWRM5FmeT47U3Sh+4RHqNMRTgORI="
+  },
+  "3.2.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.2.0.tgz",
+    "narHash": "sha256-qWxIEY0jEi9tZwBXMDky6Iol3Ii1iGYxeXU2TLI18Dk="
+  },
+  "3.20.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.20.0.tgz",
+    "narHash": "sha256-a4WESV558ZUE0h+vSUGW9Njog3vZfnaTtvTepiIlTfw="
+  },
+  "3.200.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.200.0.tgz",
+    "narHash": "sha256-INmYmSOf6tpYmx6t3saRTQ03i/kgnh1iqL4uWJFUIJ8="
+  },
+  "3.201.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.201.0.tgz",
+    "narHash": "sha256-o/rljFGmA5GMwXr8JE5FfNbcFuE2JCSMKSc9RgwYYKE="
+  },
+  "3.22.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.22.0.tgz",
+    "narHash": "sha256-4j7SLgRw4zSYDq3Bv7lkNtsd/8JFFr3e0okuz2LHjNc="
+  },
+  "3.23.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.23.0.tgz",
+    "narHash": "sha256-XpzIH4WXTEh1djzbkiGtQqocoujx3nGXCRR8w5Vo51c="
+  },
+  "3.25.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.25.0.tgz",
+    "narHash": "sha256-9bffADbnGJnrbad1pIZ+nXzRRw1AMitTgm+QoK/wdxw="
+  },
+  "3.29.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.29.0.tgz",
+    "narHash": "sha256-F0j4a1v7myiVfPL+29QpNB0XMhWhleASjSoc57BINBs="
+  },
+  "3.3.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.3.0.tgz",
+    "narHash": "sha256-f1ZNoCYo8JdmL2G5YS885TC+4iCAkFBjlzWBovRyj6M="
+  },
+  "3.32.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.32.0.tgz",
+    "narHash": "sha256-6IilA7fXIIgtBI6r+EEtQ5uJuNuP3a4Xx3T4AM8IysU="
+  },
+  "3.34.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.34.0.tgz",
+    "narHash": "sha256-GiIQQTmr/4NwFx2w5yM7P/uloTGWlpji/Idc6Y3ULKo="
+  },
+  "3.35.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.35.0.tgz",
+    "narHash": "sha256-q0hV2NbMJgEkevjS7uOkuXtr97IqWhL53jMO6ouBvig="
+  },
+  "3.36.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.36.0.tgz",
+    "narHash": "sha256-poBV4OxbpPAyWFKJ2PmbdpTsIi5OsPWp9536dju+jMc="
+  },
+  "3.37.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.37.0.tgz",
+    "narHash": "sha256-1ii0kqr93EJZ/8bOoFTbU1mTf6PHCf9BoQH7dFAeYxI="
+  },
+  "3.38.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.38.0.tgz",
+    "narHash": "sha256-QIElMAo0IWDanJW/3u7vrSa8pgukb2XKCyEpDcqJ/Vg="
+  },
+  "3.4.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.4.0.tgz",
+    "narHash": "sha256-Tl0/4at9z+kZlJS1OcHF3USobR8njoni7QWGI5o+k68="
+  },
+  "3.4.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.4.1.tgz",
+    "narHash": "sha256-o+N/q/fGPakN9L5n8BS8OpEzxH19Co+hGwOf547uRII="
+  },
+  "3.40.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.40.0.tgz",
+    "narHash": "sha256-Hduk4MUNR4FbmSdqYwcnscjradEO4gjqPGEnh7Rf+pc="
+  },
+  "3.46.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.46.0.tgz",
+    "narHash": "sha256-VCvEETbvIIGkOLaZy5zlgkAgwbiUnML3jbQmuOqsVaw="
+  },
+  "3.47.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.47.0.tgz",
+    "narHash": "sha256-lcWD94lChvFUwryGvkKaj/3FK1+3bwSam0XVGIkkluE="
+  },
+  "3.47.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.47.1.tgz",
+    "narHash": "sha256-cKXRZDOgEo9qYGgjXGTj7cZPEyZWcrGLRb/sSFjGtGQ="
+  },
+  "3.47.2": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.47.2.tgz",
+    "narHash": "sha256-BkvRIQRSKF98YcPetkdSkkmxvsNMI8AIAhiwWTZRe7w="
+  },
+  "3.49.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.49.0.tgz",
+    "narHash": "sha256-Xl0ijjMNrvSel+TI4Rce0Dh587J0l2w8aI0EdCkHnAs="
+  },
+  "3.50.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.50.0.tgz",
+    "narHash": "sha256-U4G8CA25aZ94CWnv+Ypc4DWByutEaAAty0GQNysAqm8="
+  },
+  "3.52.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.52.0.tgz",
+    "narHash": "sha256-y+T+JS04Hpi8jA/BWzoabztU2QdzcnVIy6bbFMRpHbY="
+  },
+  "3.53.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.53.0.tgz",
+    "narHash": "sha256-Mc3FMNlwjhAIr9NLmjthxA/ou8u76lnHixU2NoCZHJg="
+  },
+  "3.54.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.54.0.tgz",
+    "narHash": "sha256-VgdD6exk7SjrK4L8Xn9IvL1JholKcts4nlkEDtoRqns="
+  },
+  "3.54.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.54.1.tgz",
+    "narHash": "sha256-ZH3E9SoPdm8Mr6Kh+4fzyDpLVi62Zfogv90Jn9Ev6hU="
+  },
+  "3.55.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.55.0.tgz",
+    "narHash": "sha256-7tlw5MvlQh9ggLcgr+tMR/zlTlow8vhwijwM0fOjjUo="
+  },
+  "3.6.1": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.6.1.tgz",
+    "narHash": "sha256-nh6T53YIrvTVBXDwfNd7KOclswytAI+50aauf8toNgU="
+  },
+  "3.78.0": {
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@aws-sdk/middleware-serde/-/middleware-serde-3.78.0.tgz",
+    "narHash": "sha256-lEKy3x/6O1Cy6FAFE5cVgBMleyar3ctW3Qm15gMc/x8="
+  }
+}
