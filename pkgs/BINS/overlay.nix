@@ -11,69 +11,86 @@ final: prev: let
   # Packages explicitly marked for export.
   # Essentially this means that we have audited the generated builders.
   exports = prev.lib.importJSON ./exports.json;
+  marked  = prev.lib.importJSON ./npmjs.json;
 
 # ---------------------------------------------------------------------------- #
 
-  # A miniature `lib' for using treelock registries.
-  rlib = import ../../registry/lib.nix;
+  loadFetchInfo' = {
+    scope
+  , bname
+  , shard ? prev.lib.toLower ( builtins.substring 0 1 bname )
+  }: let
+    infoDir = ../../info;
+    ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
+            "@${scope}/${bname}";
+    ldir = if ( scope == null ) || ( scope == "unscoped" )
+           then "${infoDir}/unscoped/${shard}/${bname}"
+           else "${infoDir}/${scope}/${bname}";
+    byVers  = prev.lib.importJSON "${ldir}/fetchInfo.json";
+    proc    = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
+  in builtins.foldl' proc {} ( builtins.attrNames byVers );
 
-  lockedEnts = builtins.foldl' ( acc: ent: acc // {
-    ${ent.ident} = final.flocoPackages."${ent.ident}/${ent.version}";
-    "${ent.ident}/${ent.version}" = final.flocoBinsFetcher ent;
-  } ) {} ( prev.lib.importJSON ./locked.json );
+  loadFetchInfo = ident: let
+    infoDir = ../../info;
+    m       = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
+  in loadFetchInfo' {
+    scope   = builtins.elemAt m 1;
+    bname   = builtins.elemAt m 2;
+    shard   = prev.lib.toLower ( builtins.elemAt m 3 );
+  };
 
-  # FIXME: regEnts;
-
-  #ents = prev.lib.recursiveUpdate regEnts lockedEnts;
-  sources = lockedEnts;
+  markedFetchInfos = let
+    asSb = scope: ents:
+      builtins.mapAttrs ( bname: _: loadFetchInfo' { inherit scope bname; } )
+                        ents;
+  in builtins.mapAttrs asSb marked;
 
 
 # ---------------------------------------------------------------------------- #
 
-  # Generic default bin installer ( does global and module install ).
-  mkBinPackage = prev.lib.callPackageWith {
-    inherit (prev) lib evalScripts;
-    inherit (final) flocoPackages;
-  } ./mkBinPackage.nix;
+  nmDirCmdFromTree = { keysTree, flocoPackages }: let
+    addMod = to: from: "pjsAddMod ${flocoPackages.${from}} ${to};";
+    lines  = builtins.attrValues ( builtins.mapAttrs addMod keysTree );
+  in "\n" + ( builtins.concatStringsSep "\n" lines ) + "\n";
+
+
+# ---------------------------------------------------------------------------- #
 
   mkNodePackage = {
     ident
   , version
-  , src     ? sources."${ident}/${version}"
+  , src     ? null
+  , keyTree ? null  # fallback is set below
   , ...
-  }: let
+  } @ args: let
     dir = "${toString ./.}/${ident}/${version}";
-    hasExplicit = builtins.pathExists "${dir}/default.nix";
-    builder = if hasExplicit then "${dir}/default.nix" else mkBinPackage;
+    hasExplicitBuild = builtins.pathExists "${dir}/default.nix";
+    builder = if hasExplicitBuild then "${dir}/default.nix" else
+              final.mkBinPackage;
+    # TODO: the tree handling has a lot of room for improvement.
+    hasExplicitTree = builtins.pathExists "${dir}/tree.nix";
+    keyTree = args.keyTree or (
+      if hasExplicitTree then prev.lib.importJSON "${dir}/tree.nix" else {}
+    );
   in prev.lib.callPackageWith {
     inherit (prev)
       pjsUtil
       stdenv
       lib
-      installGlobalNodeModuleHook
-      patchNodePackageHook
       evalScripts
+      mkBinPackage
     ;
-    inherit (final) flocoPackages mkBinPackage;
+    inherit (final) flocoPackages;
     nodejs = prev.nodejs-14_x;  # FIXME
+    globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
+      inherit keyTree;
+      inherit (final) flocoPackages;
+    };
   } builder {
-    inherit src ident version;
-    # FIXME: `mkNmDir' prod
-  };
-
-
-# ---------------------------------------------------------------------------- #
-
-  # Sources partitioned based on whether or not they have explicit defs.
-  partExplicit = let
-    builderDefined = { ident, version, ... }:
-      builtins.pathExists "${toString ./.}/${ident}/${version}/default.nix";
-    parted = builtins.partition builderDefined ( builtins.attrValues sources );
-    rekeyProc = acc: { ident, version, ... } @ ent:
-      acc // { "${ident}/${version}" = ent; };
-  in {
-    explicit = builtins.foldl' rekeyProc {} parted.right;
-    default  = builtins.foldl' rekeyProc {} parted.wrong;
+    inherit ident version;
+    src = let # FIXME: add `latest'
+      fetchInfos = loadFetchInfo ident;
+    in final.flocoBinsFetcher { fetchInfo = fetchInfos."${ident}/${version}"; };
   };
 
 
@@ -81,7 +98,22 @@ final: prev: let
 
 in {
 
-  # Produces store paths from `./locked.json' tree entries.
+# ---------------------------------------------------------------------------- #
+
+  # For debugging:
+  #__internal = {
+  #  inherit
+  #    exports
+  #    marked
+  #    markedFetchInfos
+  #    loadFetchInfo'
+  #    loadFetchInfo
+  #  ;
+  #};
+
+# ---------------------------------------------------------------------------- #
+
+  # Produces store paths from fetchTreeEntries.
   # In the case of `type = "file"' entries we produce a derivation of the
   # unpacked tarball; for `type = "tarball"' entries we just produce storepaths.
   flocoBinsFetcher = { fetchInfo, ... } @ ent: let
@@ -113,8 +145,8 @@ in {
     };
     proc = acc: ident: let
       latestV = final.lib.librange.latestRelease exports.${ident};
-      addsV = builtins.foldl' ( procP ident ) {} exports.${ident};
-      extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
+      addsV   = builtins.foldl' ( procP ident ) {} exports.${ident};
+      extra   = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
     in acc // ( addsV // extra );
     exported = builtins.foldl' proc {} ( builtins.attrNames exports );
   in ( exported // {
@@ -137,11 +169,6 @@ in {
   in exported // {
     # Add explicit defs
   };
-
-
-# ---------------------------------------------------------------------------- #
-
-  inherit mkBinPackage;
 
 
 # ---------------------------------------------------------------------------- #
