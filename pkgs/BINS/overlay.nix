@@ -22,7 +22,7 @@ final: prev: let
     "${ent.ident}/${ent.version}" = final.flocoBinsFetcher ent;
   } ) {} ( prev.lib.importJSON ./locked.json );
 
-  # FIXME: regEnts;
+  # FIXME: regEnts; use export list in ./npmjs.json
 
   #ents = prev.lib.recursiveUpdate regEnts lockedEnts;
   sources = lockedEnts;
@@ -30,21 +30,29 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  # Generic default bin installer ( does global and module install ).
-  mkBinPackage = prev.lib.callPackageWith {
-    inherit (prev) lib evalScripts;
-    inherit (final) flocoPackages;
-  } ./mkBinPackage.nix;
+  nmDirCmdFromTree = { keysTree, flocoPackages }: let
+    addMod = to: from: "pjsAddMod ${flocoPackages.${from}} ${to};";
+    lines  = builtins.attrValues ( builtins.mapAttrs addMod keysTree );
+  in "\n" + ( builtins.concatStringsSep "\n" lines ) + "\n";
+
+
+# ---------------------------------------------------------------------------- #
 
   mkNodePackage = {
     ident
   , version
   , src     ? sources."${ident}/${version}"
+  , keyTree ? null  # fallback is set below
   , ...
-  }: let
+  } @ args: let
     dir = "${toString ./.}/${ident}/${version}";
-    hasExplicit = builtins.pathExists "${dir}/default.nix";
+    hasExplicitBuild = builtins.pathExists "${dir}/default.nix";
     builder = if hasExplicit then "${dir}/default.nix" else mkBinPackage;
+    # TODO: the tree handling has a lot of room for improvement.
+    hasExplicitTree = builtins.pathExists "${dir}/tree.nix";
+    keyTree = args.keyTree or (
+      if hasExplicitTree then lib.importJSON "${dir}/tree.nix" else {}
+    );
   in prev.lib.callPackageWith {
     inherit (prev)
       pjsUtil
@@ -53,13 +61,15 @@ final: prev: let
       installGlobalNodeModuleHook
       patchNodePackageHook
       evalScripts
+      mkBinPackage
     ;
     inherit (final) flocoPackages mkBinPackage;
     nodejs = prev.nodejs-14_x;  # FIXME
-  } builder {
-    inherit src ident version;
-    # FIXME: `mkNmDir' prod
-  };
+    globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
+      inherit keyTree;
+      inherit (final) flocoPackages;
+    };
+  } builder { inherit src ident version; };
 
 
 # ---------------------------------------------------------------------------- #
@@ -137,11 +147,6 @@ in {
   in exported // {
     # Add explicit defs
   };
-
-
-# ---------------------------------------------------------------------------- #
-
-  inherit mkBinPackage;
 
 
 # ---------------------------------------------------------------------------- #
