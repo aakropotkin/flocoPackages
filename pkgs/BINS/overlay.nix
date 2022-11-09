@@ -31,12 +31,15 @@ final: prev: let
 # ---------------------------------------------------------------------------- #
 
   # Generic default bin installer ( does global and module install ).
-  mkBinPackage = import ./mkBinPackage.nix;
+  mkBinPackage = prev.lib.callPackageWith {
+    inherit (prev) lib evalScripts;
+    inherit (final) flocoPackages;
+  } ./mkBinPackage.nix;
 
   mkNodePackage = {
     ident
   , version
-  , src      ? sources."${ident}/${version}"
+  , src     ? sources."${ident}/${version}"
   , ...
   }: let
     dir = "${toString ./.}/${ident}/${version}";
@@ -51,7 +54,7 @@ final: prev: let
       patchNodePackageHook
       evalScripts
     ;
-    inherit (final) flocoPackages;
+    inherit (final) flocoPackages mkBinPackage;
     nodejs = prev.nodejs-14_x;  # FIXME
   } builder {
     inherit src ident version;
@@ -134,6 +137,11 @@ in {
   in exported // {
     # Add explicit defs
   };
+
+
+# ---------------------------------------------------------------------------- #
+
+  inherit mkBinPackage;
 
 
 # ---------------------------------------------------------------------------- #
