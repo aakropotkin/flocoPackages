@@ -143,15 +143,15 @@ in {
     procP = ident: versions: version: versions // {
       "${ident}/${version}" = mkNodePackage { inherit ident version; };
     };
-    proc = acc: ident: let
-      scope = let
-        m = builtins.match "@([^@/]+)/.*" ident;
-      in if m == null then "unscoped" else builtins.head m;
-      bname = baseNameOf ident;
-      latestV = final.lib.librange.latestRelease exports.${scope}.${bname};
-      addsV   = builtins.foldl' ( procP ident ) {} exports.${scope}.${bname};
-      extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
-    in acc // ( addsV // extra );
+    proc = acc: scope: let
+      procS = accS: bname: let
+        ident   = if scope == "unscoped" then bname else "@${scope}/${bname}";
+        latestV = final.lib.librange.latestRelease exports.${scope}.${bname};
+        addsV   = builtins.foldl' ( procP ident ) {} exports.${scope}.${bname};
+        extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
+      in accS // ( addsV // extra );
+      addsB = builtins.foldl' procS {} ( builtins.attrNames exports.${scope} );
+    in acc // addsB;
     exported = builtins.foldl' proc {} ( builtins.attrNames exports );
   in ( exported // {
     # Add any explicit defs here.
