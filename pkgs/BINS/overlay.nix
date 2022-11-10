@@ -144,9 +144,13 @@ in {
       "${ident}/${version}" = mkNodePackage { inherit ident version; };
     };
     proc = acc: ident: let
-      latestV = final.lib.librange.latestRelease exports.${ident};
-      addsV   = builtins.foldl' ( procP ident ) {} exports.${ident};
-      extra   = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
+      scope = let
+        m = builtins.match "@([^@/]+)/.*" ident;
+      in if m == null then "unscoped" else builtins.head m;
+      bname = baseNameOf ident;
+      latestV = final.lib.librange.latestRelease exports.${scope}.${bname};
+      addsV   = builtins.foldl' ( procP ident ) {} exports.${scope}.${bname};
+      extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
     in acc // ( addsV // extra );
     exported = builtins.foldl' proc {} ( builtins.attrNames exports );
   in ( exported // {
@@ -163,8 +167,13 @@ in {
   flocoApps = let
     exported = let
       inherit (final.lib.librange) latestRelease;
-      getLatest = ident: versions:
-        final.flocoPackages."${ident}/${latestRelease exports.${ident}}".global;
+      getLatest = ident: versions: let
+        scope = let
+          m = builtins.match "@([^@/]+)/.*" ident;
+        in if m == null then "unscoped" else builtins.head m;
+        bname = baseNameOf ident;
+        latestV = latestRelease exports.${scope}.${bname};
+      in final.flocoPackages."${ident}/${latestV}".global;
     in builtins.mapAttrs getLatest exports;
   in exported // {
     # Add explicit defs
