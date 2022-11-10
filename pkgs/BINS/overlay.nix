@@ -101,15 +101,15 @@ in {
 # ---------------------------------------------------------------------------- #
 
   # For debugging:
-  #__internal = {
-  #  inherit
-  #    exports
-  #    marked
-  #    markedFetchInfos
-  #    loadFetchInfo'
-  #    loadFetchInfo
-  #  ;
-  #};
+  __internal = {
+    inherit
+      exports
+      marked
+      markedFetchInfos
+      loadFetchInfo'
+      loadFetchInfo
+    ;
+  };
 
 # ---------------------------------------------------------------------------- #
 
@@ -167,14 +167,17 @@ in {
   flocoApps = let
     exported = let
       inherit (final.lib.librange) latestRelease;
-      getLatest = ident: versions: let
-        scope = let
-          m = builtins.match "@([^@/]+)/.*" ident;
-        in if m == null then "unscoped" else builtins.head m;
-        bname = baseNameOf ident;
-        latestV = latestRelease exports.${scope}.${bname};
-      in final.flocoPackages."${ident}/${latestV}".global;
-    in builtins.mapAttrs getLatest exports;
+      getLatests = acc: scope: let
+        proc = accS: bname: let
+          ident = if scope == "unscoped" then bname else "@${scope}/${bname}";
+          latestV = latestRelease exports.${scope}.${bname};
+          appName = if scope == "unscoped" then bname else "${scope}--${bname}";
+        in accS // {
+          ${appName} = final.flocoPackages."${ident}/${latestV}".global;
+        };
+        adds = builtins.foldl' proc {} ( builtins.attrNames exports.${scope} );
+      in acc // adds;
+    in builtins.foldl' getLatests {} ( builtins.attrNames exports );
   in exported // {
     # Add explicit defs
   };
