@@ -3,7 +3,8 @@
 , ident   ? null
 , version ? null
 } @ args: let
-  m       = builtins.match "(.*)-([0-9]+\\.[0-9]+\\.[0-9]+(-.*)?)\\.tgz";
+  m = builtins.match "(.*)-([0-9]+\\.[0-9]+\\.[0-9]+(-.*)?)\\.tgz"
+                     ( baseNameOf url );
   ident   = args.ident or ( builtins.head m );
   version = args.version or ( builtins.elemAt m 1 );
 in runCommandNoCC "check-perms-${baseNameOf ident}-${version}" {
