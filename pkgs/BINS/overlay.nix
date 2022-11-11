@@ -48,10 +48,17 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  nmDirCmdFromTree = { keysTree, flocoPackages }: let
+  nmDirCmdFromTree = { keyTree, flocoPackages }: let
     addMod = to: from: "pjsAddMod ${flocoPackages.${from}} ${to};";
-    lines  = builtins.attrValues ( builtins.mapAttrs addMod keysTree );
+    lines  = builtins.attrValues ( builtins.mapAttrs addMod keyTree );
   in "\n" + ( builtins.concatStringsSep "\n" lines ) + "\n";
+
+
+# ---------------------------------------------------------------------------- #
+
+  nmDirCmdFromMeta = { flocoPackages, ident, version }: let
+    lookupMeta = { ident, version }: /* TODO */ {};
+  in /* TODO */ {};
 
 
 # ---------------------------------------------------------------------------- #
@@ -63,16 +70,40 @@ final: prev: let
   , keyTree ? null  # fallback is set below
   , ...
   } @ args: let
-    dir = "${toString ./.}/${ident}/${version}";
+    bname = baseNameOf ident;
+    shard = prev.lib.toLower ( builtins.substring 0 1 bname );
+    scope =
+      if ( dirOf ident ) != "."
+      then builtins.replaceStrings ["@"] [""] ( dirOf ident )
+      else "unscoped";
+    dir = if scope == "unscoped"
+          then "${toString ./.}/unscoped/${shard}/${bname}/${version}"
+          else "${toString ./.}/${scope}/${bname}/${version}";
     hasExplicitBuild = builtins.pathExists "${dir}/default.nix";
-    builder = if hasExplicitBuild then "${dir}/default.nix" else
+    builder = if hasExplicitBuild then import "${dir}/default.nix" else
               final.mkBinPackage;
     # TODO: the tree handling has a lot of room for improvement.
-    hasExplicitTree = builtins.pathExists "${dir}/tree.nix";
     keyTree = args.keyTree or (
-      if hasExplicitTree then prev.lib.importJSON "${dir}/tree.nix" else {}
+      if builtins.pathExists "${dir}/tree.nix"
+      then builtins.traceVerbose "${ident} using tree.nix"
+                                 ( import "${dir}/tree.nix" )
+      else if builtins.pathExists "${dir}/tree.json"
+           then builtins.traceVerbose "${ident} using tree.json"
+                                      ( prev.lib.importJSON "${dir}/tree.json" )
+           else builtins.trace "${ident} no tree info" {}
     );
-  in prev.lib.callPackageWith {
+  in builtins.traceVerbose ''
+    Generating BIN package: ${ident}@${version}
+      ident:   ${ident}
+      version: ${version}
+      bname:   ${bname}
+      scope:   ${scope}
+      shard:   ${shard}
+      dir:     ${dir}
+      hasExplicitBuild: ${if hasExplicitBuild then "true" else "false"}
+      hasExplicitTree:  ${if keyTree != {} then "true" else "false"}
+  ''
+    ( prev.lib.callPackageWith {
     inherit (prev)
       pjsUtil
       stdenv
@@ -82,16 +113,18 @@ final: prev: let
     ;
     inherit (final) flocoPackages;
     nodejs = prev.nodejs-14_x;  # FIXME
-    globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
-      inherit keyTree;
-      inherit (final) flocoPackages;
-    };
   } builder {
     inherit ident version;
     src = let # FIXME: add `latest'
       fetchInfos = loadFetchInfo ident;
-    in final.flocoBinsFetcher { fetchInfo = fetchInfos."${ident}/${version}"; };
-  };
+    in final.flocoBinsFetcher {
+      fetchInfo = fetchInfos."${ident}/${version}";
+    };
+    globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
+      inherit keyTree;
+      inherit (final) flocoPackages;
+    };
+  } );
 
 
 # ---------------------------------------------------------------------------- #
