@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@IDENT@@REV@";
+  inputs.packument.url   = "@SKIM_URL@";
   inputs.packument.flake = false;
 
   outputs = inputs: let

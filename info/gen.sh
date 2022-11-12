@@ -95,30 +95,32 @@ REV="$(
       url  = \"https://registry.npmjs.org/$IDENT\";
     };
     packument = builtins.fromJSON ( builtins.readFile packumentRaw );
-  in if packument ? _rev then \"?rev=\${packument._rev}\" else \"\"
+  in if packument ? _rev then \"?_rev=\${packument._rev}\" else \"\"
   ";
 )";
+
+IDENT_ESC="${IDENT/\//%2f}";
+# Yes it is `.com' NOT `.org'.
+SKIM_URL="https://skimdb.npmjs.com/registry/$IDENT_ESC$REV"
+
 PACKUMENT_NAR="$(
-  $NIX flake prefetch --json "https://registry.npmjs.org/$IDENT$REV"|$JQ -r '.hash';
+  $NIX flake prefetch --json "$SKIM_URL"|$JQ -r '.hash';
 )";
 
 gen_flake() {
-  $SED                             \
-    -e "s,@IDENT@,$IDENT,g"        \
-    -e "s,@ODIRR@,$ODIRR,g"        \
-    -e "s,@BNAME@,$BNAME,g"        \
-    -e "s,@REV@,$REV,g"            \
-    -e "s,@SCOPE@,$SCOPE,g"        \
-    "$TEMPLATE"                    \
+  $SED                               \
+    -e "s,@IDENT@,$IDENT,g"          \
+    -e "s,@ODIRR@,$ODIRR,g"          \
+    -e "s,@SCOPE@,$SCOPE,g"          \
+    -e "s,@SKIM_URL@,$SKIM_URL,g"    \
+    "$TEMPLATE"                      \
   > "$OFILE";
 }
 
 gen_lock() {
   $SED                                       \
-    -e "s,@IDENT@,$IDENT,g"                  \
-    -e "s,@BNAME@,$BNAME,g"                  \
     -e "s,@PACKUMENT_NAR@,$PACKUMENT_NAR,g"  \
-    -e "s,@REV@,$REV,g"                      \
+    -e "s,@SKIM_URL@,$SKIM_URL,g"            \
     "$LTEMPLATE"                             \
   > "$OLFILE";
 }

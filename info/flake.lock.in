@@ -5,11 +5,11 @@
       "locked": {
         "narHash": "@PACKUMENT_NAR@",
         "type": "file",
-        "url": "https://registry.npmjs.org/@IDENT@@REV@"
+        "url": "@SKIM_URL@"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@IDENT@@REV@"
+        "url": "@SKIM_URL@"
       }
     },
     "root": {
