@@ -134,7 +134,7 @@ in {
 # ---------------------------------------------------------------------------- #
 
   # For debugging:
-  __internal = {
+  __internalBins = {
     inherit
       exports
       marked

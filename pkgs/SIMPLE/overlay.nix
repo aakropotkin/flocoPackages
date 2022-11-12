@@ -8,11 +8,64 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  # A miniature `lib' for using treelock registries.
-  rlib = import ../../registry/lib.nix;
+  infoDir = ../../info;
 
   # Packages explicitly marked for export.
-  marked = prev.lib.importJSON ./npmjs.json;
+  #marked = prev.lib.importJSON ./npmjs.json;
+
+# ---------------------------------------------------------------------------- #
+
+  allFetchInfoDefs = let
+    subdirsOf = d: let
+      des = builtins.readDir d;
+      proc = acc: name:
+        if des.${name} != "directory" then acc else acc ++ [name];
+    in builtins.foldl' proc [] ( builtins.attrNames des );
+    scopes = subdirsOf infoDir;
+    scopeBnames = s:
+      if s != "unscoped" then subdirsOf "${infoDir}/${s}" else
+      builtins.concatMap ( l: subdirsOf "${infoDir}/unscoped/${l}" )
+                         ( subdirsOf "${infoDir}/unscoped" );
+    hier =
+      builtins.foldl' ( acc: s: acc // { ${s} = scopeBnames s; } ) {} scopes;
+  in hier;
+
+
+# ---------------------------------------------------------------------------- #
+
+  definedIn = {
+    scope   ? if final.lib.test "@.*" ident
+              then final.lib.yank "@([^@/]+)/.*" ident
+              else "unscoped"
+  , bname   ? baseNameOf ident
+  , key     ? null #"${ident}/${version}"
+  , ident   ? if args ? key then dirOf key else
+              if scope == "unscoped" then bname else "@${scope}/${bname}"
+  #, version ? baseNameOf args.key
+  } @ args: let
+    bins    = final.lib.importJSONOr {} ../BINS/npmjs.json;
+    inst    = final.lib.importJSONOr {} ../INST/npmjs.json;
+    gyp     = final.lib.importJSONOr {} ../GYP/npmjs.json;
+    simple  = final.lib.importJSONOr {} ../SIMPLE/npmjs.json;
+    hierHas = h: ( h ? ${scope} ) && ( builtins.elem bname h.${scope} );
+    shard   = prev.lib.toLower ( builtins.substring 0 1 bname );
+    dir     = if ( scope == null ) || ( scope == "unscoped" )
+              then "${infoDir}/unscoped/${shard}/${bname}"
+              else "${infoDir}/${scope}/${bname}";
+  in if hierHas bins   then "bins"   else
+     if hierHas inst   then "inst"   else
+     if hierHas gyp    then "gyp"    else
+     if hierHas simple then "simple" else
+     if builtins.pathExists "${dir}/fetchInfo.json" then "info" else
+     null;
+
+  shouldExport = x: builtins.elem ( definedIn x ) ["info" "simple"];
+
+  marked = let
+    filt = scope: bnames:
+      builtins.filter ( bname: shouldExport { inherit scope bname; } ) bnames;
+  in builtins.mapAttrs filt allFetchInfoDefs;
+
 
 # ---------------------------------------------------------------------------- #
 
@@ -21,35 +74,47 @@ final: prev: let
   , bname
   , shard ? prev.lib.toLower ( builtins.substring 0 1 bname )
   }: let
-    infoDir = ../../info;
     ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
             "@${scope}/${bname}";
-    ldir = if ( scope == null ) || ( scope == "unscoped" )
-           then "${infoDir}/unscoped/${shard}/${bname}"
-           else "${infoDir}/${scope}/${bname}";
-    byVers  = prev.lib.importJSON "${ldir}/fetchInfo.json";
+    dir = if ( scope == null ) || ( scope == "unscoped" )
+          then "${infoDir}/unscoped/${shard}/${bname}"
+          else "${infoDir}/${scope}/${bname}";
+    byVers  = prev.lib.importJSON "${dir}/fetchInfo.json";
     proc    = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
   in builtins.foldl' proc {} ( builtins.attrNames byVers );
-
   loadFetchInfo = ident: let
-    infoDir = ../../info;
-    m       = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
+    m = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
   in loadFetchInfo' {
-    scope   = builtins.elemAt m 1;
-    bname   = builtins.elemAt m 2;
-    shard   = prev.lib.toLower ( builtins.elemAt m 3 );
+    scope = builtins.elemAt m 1;
+    bname = builtins.elemAt m 2;
+    shard = prev.lib.toLower ( builtins.elemAt m 3 );
   };
 
   markedFetchInfos = let
-    asSb = scope: ents:
-      builtins.mapAttrs ( bname: _: loadFetchInfo' { inherit scope bname; } )
-                        ents;
+    asSb = scope: let
+      proc = acc: bname: acc // {
+        ${bname} = loadFetchInfo' { inherit scope bname; };
+      };
+    in builtins.foldl' proc {};
   in builtins.mapAttrs asSb marked;
 
 
 # ---------------------------------------------------------------------------- #
 
 in {
+
+  __internalSimple = {
+    inherit
+      marked
+      allFetchInfoDefs
+      markedFetchInfos
+      definedIn
+      loadFetchInfo'
+    ;
+  };
+
+
+# ---------------------------------------------------------------------------- #
 
   # Produces store paths from `./locked.json' tree entries.
   # In the case of `type = "file"' entries we produce a derivation of the
@@ -65,19 +130,19 @@ in {
   in ent // src;
 
   flocoPackages = prev.flocoPackages.extend ( fpFinal: fpPrev: let
-    procP = ident: versions: version: versions // {
-      "${ident}/${version}" = mkNodePackage { inherit ident version; };
-    };
     proc = acc: scope: let
       procS = accS: bname: let
         ident   = if scope == "unscoped" then bname else "@${scope}/${bname}";
-        latestV = final.lib.librange.latestRelease exports.${scope}.${bname};
-        addsV   = builtins.foldl' ( procP ident ) {} exports.${scope}.${bname};
+        fis     = markedFetchInfos.${scope}.${bname};
+        latestV = let
+          versions = map baseNameOf ( builtins.attrNames fis );
+        in final.lib.librange.latestRelease versions;
         extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
-      in accS // ( addsV // extra );
-      addsB = builtins.foldl' procS {} ( builtins.attrNames exports.${scope} );
+      in accS // fis // extra;
+      addsB = builtins.foldl' procS {}
+                              ( builtins.attrNames markedFetchInfos.${scope} );
     in acc // addsB;
-    exported = builtins.foldl' proc {} ( builtins.attrNames exports );
+    exported = builtins.foldl' proc {} ( builtins.attrNames markedFetchInfos );
   in ( exported // {
     # Add any explicit defs here.
   } ) );
