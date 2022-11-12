@@ -79,8 +79,22 @@ final: prev: let
     dir = if ( scope == null ) || ( scope == "unscoped" )
           then "${infoDir}/unscoped/${shard}/${bname}"
           else "${infoDir}/${scope}/${bname}";
-    byVers  = prev.lib.importJSON "${dir}/fetchInfo.json";
-    proc    = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
+    byVers = prev.lib.importJSON "${dir}/fetchInfo.json";
+    allVersions = builtins.attrNames byVers;
+    filt = vs: let
+      releases = builtins.filter final.lib.librange.isRelease vs;
+      gmajor = builtins.groupBy ( prev.lib.yank "([^.]+)\\..*" ) releases;
+      gminor =
+        builtins.groupBy ( prev.lib.yank "([^.]+\\.[^.]+)\\..*" ) releases;
+      minors = let
+        byMinor = builtins.mapAttrs final.lib.librange.latestVersion gminor;
+      in builtins.concatLists ( builtins.attrValues byMinor );
+      highestMajor = let
+        desc = a: b: b < a;
+      in builtins.head ( builtins.sort desc ( builtins.attrNames gmajor ) );
+    in if ( builtins.length vs ) < 10 then vs else
+       minors ++ ( prev.lib.take 10 gmajor.${highestMajor} );
+    proc = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
   in builtins.foldl' proc {} ( builtins.attrNames byVers );
 
   loadFetchInfo = ident: let
