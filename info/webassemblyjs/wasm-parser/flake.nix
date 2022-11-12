@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs/wasm-parser?_rev=86-afb3a1c3bb6aeae8a049f6a0b76b90c4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs%2fwasm-parser?_rev=86-afb3a1c3bb6aeae8a049f6a0b76b90c4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

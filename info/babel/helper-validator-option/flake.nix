@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-validator-option?_rev=9-3e7402874a25cec0e2d88449e67aefb4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fhelper-validator-option?_rev=9-3e7402874a25cec0e2d88449e67aefb4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

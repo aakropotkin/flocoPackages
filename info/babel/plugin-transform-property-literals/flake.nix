@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-property-literals?_rev=78-ea3bfdad7b384b5a3dc0fe963ffb697c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-property-literals?_rev=78-ea3bfdad7b384b5a3dc0fe963ffb697c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

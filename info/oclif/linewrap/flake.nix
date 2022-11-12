@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@oclif/linewrap?_rev=15-ab2d9b0a985c06fca33bbdd14f777793";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@oclif%2flinewrap?_rev=15-ab2d9b0a985c06fca33bbdd14f777793";
   inputs.packument.flake = false;
 
   outputs = inputs: let

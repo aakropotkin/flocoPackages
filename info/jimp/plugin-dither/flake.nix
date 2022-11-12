@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-dither?_rev=130-090b64fb7e05909daceb1dc851d2c049";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp%2fplugin-dither?_rev=130-090b64fb7e05909daceb1dc851d2c049";
   inputs.packument.flake = false;
 
   outputs = inputs: let

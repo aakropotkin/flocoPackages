@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@surma/rollup-plugin-off-main-thread?_rev=14-2c830a354f5fed62b664a24b73abc28e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@surma%2frollup-plugin-off-main-thread?_rev=14-2c830a354f5fed62b664a24b73abc28e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

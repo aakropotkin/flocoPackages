@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs/ecma402-abstract?_rev=52-dff65a08aee6612a8c40896188703a4c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs%2fecma402-abstract?_rev=52-dff65a08aee6612a8c40896188703a4c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

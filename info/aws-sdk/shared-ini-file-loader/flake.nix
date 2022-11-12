@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/shared-ini-file-loader?_rev=94-25dc612393077018be8d6e69e27b3071";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fshared-ini-file-loader?_rev=94-25dc612393077018be8d6e69e27b3071";
   inputs.packument.flake = false;
 
   outputs = inputs: let

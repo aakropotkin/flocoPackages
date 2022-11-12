@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure/core-client?_rev=113-3eafd18f6f8bb70bf8a15948b1c0f120";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure%2fcore-client?_rev=113-3eafd18f6f8bb70bf8a15948b1c0f120";
   inputs.packument.flake = false;
 
   outputs = inputs: let

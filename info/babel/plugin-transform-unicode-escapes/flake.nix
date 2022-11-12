@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-unicode-escapes?_rev=13-b22709b5735be84c0f2de398b46f52ad";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-unicode-escapes?_rev=13-b22709b5735be84c0f2de398b46f52ad";
   inputs.packument.flake = false;
 
   outputs = inputs: let

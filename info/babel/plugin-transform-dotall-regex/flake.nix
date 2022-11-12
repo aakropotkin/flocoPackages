@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-dotall-regex?_rev=68-8369c46d0d520d2407821dc88912017f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-dotall-regex?_rev=68-8369c46d0d520d2407821dc88912017f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

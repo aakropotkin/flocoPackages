@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-normalize-display-values?_rev=2-ad361d3ff26cf7b2b84d1118b25e888d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools%2fpostcss-normalize-display-values?_rev=2-ad361d3ff26cf7b2b84d1118b25e888d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

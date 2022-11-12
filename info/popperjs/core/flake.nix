@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@popperjs/core?_rev=78-af9c475def0b553730dd6bb839d8e00c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@popperjs%2fcore?_rev=78-af9c475def0b553730dd6bb839d8e00c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

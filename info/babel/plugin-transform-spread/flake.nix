@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-spread?_rev=88-4734b86799b689311b1eb4cc68bf2b55";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-spread?_rev=88-4734b86799b689311b1eb4cc68bf2b55";
   inputs.packument.flake = false;
 
   outputs = inputs: let

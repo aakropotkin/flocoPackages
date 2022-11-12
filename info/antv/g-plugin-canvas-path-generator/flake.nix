@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/g-plugin-canvas-path-generator?_rev=49-5bb149bb919a187f80d94acc36c05eb3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv%2fg-plugin-canvas-path-generator?_rev=49-5bb149bb919a187f80d94acc36c05eb3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

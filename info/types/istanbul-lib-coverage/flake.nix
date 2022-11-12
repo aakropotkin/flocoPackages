@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/istanbul-lib-coverage?_rev=481-0065b78dbad8b1aa47da8ff9dd058afb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fistanbul-lib-coverage?_rev=481-0065b78dbad8b1aa47da8ff9dd058afb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

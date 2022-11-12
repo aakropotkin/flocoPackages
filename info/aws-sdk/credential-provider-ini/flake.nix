@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/credential-provider-ini?_rev=173-13b56509d964e13418325917f2632340";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fcredential-provider-ini?_rev=173-13b56509d964e13418325917f2632340";
   inputs.packument.flake = false;
 
   outputs = inputs: let

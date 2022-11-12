@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/d3-scale-chromatic?_rev=615-73adca8247202d53c7276273c6a7a17a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fd3-scale-chromatic?_rev=615-73adca8247202d53c7276273c6a7a17a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

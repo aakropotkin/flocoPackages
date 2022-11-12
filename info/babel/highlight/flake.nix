@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/highlight?_rev=60-9fe090eda8c64cfd37c8d4e45e8a30e1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fhighlight?_rev=60-9fe090eda8c64cfd37c8d4e45e8a30e1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

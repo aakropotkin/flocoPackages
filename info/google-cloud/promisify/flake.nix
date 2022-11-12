@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@google-cloud/promisify?_rev=29-f84bf99386e5eaa410baa1b315ba689e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@google-cloud%2fpromisify?_rev=29-f84bf99386e5eaa410baa1b315ba689e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

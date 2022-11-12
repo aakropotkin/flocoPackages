@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-object-rest-spread?_rev=112-239046680644dd1ad561652c337f4316";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-proposal-object-rest-spread?_rev=112-239046680644dd1ad561652c337f4316";
   inputs.packument.flake = false;
 
   outputs = inputs: let

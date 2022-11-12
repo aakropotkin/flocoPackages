@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@npmcli/disparity-colors?_rev=17-9185116de722c6e4af5f0255ed33c6a9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@npmcli%2fdisparity-colors?_rev=17-9185116de722c6e4af5f0255ed33c6a9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

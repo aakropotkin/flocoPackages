@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-crypto/util?_rev=7-2cd611559e3b58889d4d8a9277734b88";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-crypto%2futil?_rev=7-2cd611559e3b58889d4d8a9277734b88";
   inputs.packument.flake = false;
 
   outputs = inputs: let

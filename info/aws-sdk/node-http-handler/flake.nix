@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/node-http-handler?_rev=125-66865502aa14b5c4627354e3ae43af60";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fnode-http-handler?_rev=125-66865502aa14b5c4627354e3ae43af60";
   inputs.packument.flake = false;
 
   outputs = inputs: let

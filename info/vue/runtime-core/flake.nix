@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@vue/runtime-core?_rev=134-8276ac454043462cc29954f38cd089fe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@vue%2fruntime-core?_rev=134-8276ac454043462cc29954f38cd089fe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

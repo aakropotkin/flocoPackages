@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@humanwhocodes/gitignore-to-minimatch?_rev=3-322cfd44bec047489e1b90b47c63149b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@humanwhocodes%2fgitignore-to-minimatch?_rev=3-322cfd44bec047489e1b90b47c63149b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs/ast?_rev=86-2386a440b770f2e25e54cab8c344f30b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs%2fast?_rev=86-2386a440b770f2e25e54cab8c344f30b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

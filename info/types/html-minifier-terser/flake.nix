@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/html-minifier-terser?_rev=254-481d4f99196294b508fc10deabc20325";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fhtml-minifier-terser?_rev=254-481d4f99196294b508fc10deabc20325";
   inputs.packument.flake = false;
 
   outputs = inputs: let

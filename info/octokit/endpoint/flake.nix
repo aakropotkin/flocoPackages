@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@octokit/endpoint?_rev=75-fef05c6c29fd420646e73647b8c7866a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@octokit%2fendpoint?_rev=75-fef05c6c29fd420646e73647b8c7866a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/sizzle?_rev=421-bb052810d1085b6fa8a620f7870e42ec";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fsizzle?_rev=421-bb052810d1085b6fa8a620f7870e42ec";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@swc/core-darwin-arm64?_rev=199-f94f21b43d0a532a7fd274365dff3990";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@swc%2fcore-darwin-arm64?_rev=199-f94f21b43d0a532a7fd274365dff3990";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/linkify-it?_rev=581-eb1401906dd6f3368adfd8c84207a7ff";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2flinkify-it?_rev=581-eb1401906dd6f3368adfd8c84207a7ff";
   inputs.packument.flake = false;
 
   outputs = inputs: let

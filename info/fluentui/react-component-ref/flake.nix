@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@fluentui/react-component-ref?_rev=91-7a9f5f1296efb53b4fb0183c362172a6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@fluentui%2freact-component-ref?_rev=91-7a9f5f1296efb53b4fb0183c362172a6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

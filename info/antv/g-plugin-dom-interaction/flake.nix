@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/g-plugin-dom-interaction?_rev=153-dd041d05c448c677ca346939a7186423";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv%2fg-plugin-dom-interaction?_rev=153-dd041d05c448c677ca346939a7186423";
   inputs.packument.flake = false;
 
   outputs = inputs: let

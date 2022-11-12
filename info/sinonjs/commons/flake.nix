@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sinonjs/commons?_rev=25-f1fb54d4871a4c7b3b24f409bdecd255";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sinonjs%2fcommons?_rev=25-f1fb54d4871a4c7b3b24f409bdecd255";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sapphire/shapeshift?_rev=301-97d517145fb466c0bbc07d080c2d815f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sapphire%2fshapeshift?_rev=301-97d517145fb466c0bbc07d080c2d815f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

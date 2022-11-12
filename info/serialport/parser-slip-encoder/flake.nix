@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport/parser-slip-encoder?_rev=22-4fdb2bfc0cf5d55ed8465262a967052b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport%2fparser-slip-encoder?_rev=22-4fdb2bfc0cf5d55ed8465262a967052b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

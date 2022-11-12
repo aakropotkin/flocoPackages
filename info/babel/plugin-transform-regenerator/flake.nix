@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-regenerator?_rev=89-eb43eeb0d38e81d7993bc854192cfb2c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-regenerator?_rev=89-eb43eeb0d38e81d7993bc854192cfb2c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

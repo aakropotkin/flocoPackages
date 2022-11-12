@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion/use-insertion-effect-with-fallbacks";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion%2fuse-insertion-effect-with-fallbacks";
   inputs.packument.flake = false;
 
   outputs = inputs: let

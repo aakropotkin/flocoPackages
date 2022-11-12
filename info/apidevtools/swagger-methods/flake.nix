@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@apidevtools/swagger-methods?_rev=6-b54ee9e56c243222ab341d81213f5c58";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@apidevtools%2fswagger-methods?_rev=6-b54ee9e56c243222ab341d81213f5c58";
   inputs.packument.flake = false;
 
   outputs = inputs: let

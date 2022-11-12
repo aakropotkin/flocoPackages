@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@netflix/nerror?_rev=10-1f3c67c6f09facb4da591264021ec2ff";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@netflix%2fnerror?_rev=10-1f3c67c6f09facb4da591264021ec2ff";
   inputs.packument.flake = false;
 
   outputs = inputs: let

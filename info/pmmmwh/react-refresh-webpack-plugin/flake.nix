@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@pmmmwh/react-refresh-webpack-plugin?_rev=80-d48940aa979ed75a9f27babe0c28a0a6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@pmmmwh%2freact-refresh-webpack-plugin?_rev=80-d48940aa979ed75a9f27babe0c28a0a6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-explode-assignable-expression?_rev=92-b23b23771f2672f9c89d6d0cb6efd053";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fhelper-explode-assignable-expression?_rev=92-b23b23771f2672f9c89d6d0cb6efd053";
   inputs.packument.flake = false;
 
   outputs = inputs: let

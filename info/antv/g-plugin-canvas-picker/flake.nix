@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/g-plugin-canvas-picker?_rev=152-4b4cab1ae85dfcff98148ef49950df4b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv%2fg-plugin-canvas-picker?_rev=152-4b4cab1ae85dfcff98148ef49950df4b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

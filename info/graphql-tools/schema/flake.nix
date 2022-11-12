@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@graphql-tools/schema?_rev=965-51453029590866c112ed0a2346a638d2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@graphql-tools%2fschema?_rev=965-51453029590866c112ed0a2346a638d2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

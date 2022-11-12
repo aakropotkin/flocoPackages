@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@lumino/dragdrop?_rev=47-c480d241bc10b73c2b677bc7a4197ba1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@lumino%2fdragdrop?_rev=47-c480d241bc10b73c2b677bc7a4197ba1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

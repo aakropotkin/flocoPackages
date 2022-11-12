@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-syntax-flow?_rev=80-d4109888ea2659cc5a73f12b0b53bfd3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-syntax-flow?_rev=80-d4109888ea2659cc5a73f12b0b53bfd3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

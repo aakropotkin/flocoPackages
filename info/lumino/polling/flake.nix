@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@lumino/polling?_rev=44-44749894b2d400e57224b1950fa5de36";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@lumino%2fpolling?_rev=44-44749894b2d400e57224b1950fa5de36";
   inputs.packument.flake = false;
 
   outputs = inputs: let

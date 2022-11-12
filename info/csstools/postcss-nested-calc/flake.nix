@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-nested-calc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools%2fpostcss-nested-calc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

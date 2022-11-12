@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs/icu-skeleton-parser?_rev=32-647177c6dcd7ffa89c0af8bf79f7ec32";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs%2ficu-skeleton-parser?_rev=32-647177c6dcd7ffa89c0af8bf79f7ec32";
   inputs.packument.flake = false;
 
   outputs = inputs: let

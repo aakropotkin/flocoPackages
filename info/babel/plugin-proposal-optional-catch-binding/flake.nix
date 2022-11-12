@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-optional-catch-binding?_rev=80-21baf6d9d85f69c5d983b2bf5b34ecdb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-proposal-optional-catch-binding?_rev=80-21baf6d9d85f69c5d983b2bf5b34ecdb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

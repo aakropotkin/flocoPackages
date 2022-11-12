@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-block-scoped-functions?_rev=78-10b516e497eaf877ad52fb4866090aaa";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-block-scoped-functions?_rev=78-10b516e497eaf877ad52fb4866090aaa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

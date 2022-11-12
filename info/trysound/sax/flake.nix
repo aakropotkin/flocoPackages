@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@trysound/sax?_rev=3-106b478cdba67ad5aed45a7494d36943";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@trysound%2fsax?_rev=3-106b478cdba67ad5aed45a7494d36943";
   inputs.packument.flake = false;
 
   outputs = inputs: let

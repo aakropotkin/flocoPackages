@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/zeromq?_rev=533-aedba2704cefe4edf8b0bbe72b7ab582";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fzeromq?_rev=533-aedba2704cefe4edf8b0bbe72b7ab582";
   inputs.packument.flake = false;
 
   outputs = inputs: let

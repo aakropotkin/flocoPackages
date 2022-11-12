@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/util-locate-window?_rev=66-33011bc04426350d6483de3d0e12dd39";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2futil-locate-window?_rev=66-33011bc04426350d6483de3d0e12dd39";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@leichtgewicht/ip-codec?_rev=6-c206bbeb5e2a3941338bd7e859e8b960";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@leichtgewicht%2fip-codec?_rev=6-c206bbeb5e2a3941338bd7e859e8b960";
   inputs.packument.flake = false;
 
   outputs = inputs: let

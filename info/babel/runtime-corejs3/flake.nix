@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/runtime-corejs3?_rev=93-2838ad1b4e71b81b19d3c3e32470ad11";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fruntime-corejs3?_rev=93-2838ad1b4e71b81b19d3c3e32470ad11";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-split-export-declaration?_rev=56-a23d9ccdb5ff6e59b4e39e1f35283538";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fhelper-split-export-declaration?_rev=56-a23d9ccdb5ff6e59b4e39e1f35283538";
   inputs.packument.flake = false;
 
   outputs = inputs: let

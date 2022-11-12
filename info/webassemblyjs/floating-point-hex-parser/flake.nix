@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs/floating-point-hex-parser?_rev=64-deaf63f7b84fd750124a7eb81a785a17";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs%2ffloating-point-hex-parser?_rev=64-deaf63f7b84fd750124a7eb81a785a17";
   inputs.packument.flake = false;
 
   outputs = inputs: let

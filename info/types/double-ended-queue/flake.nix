@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/double-ended-queue?_rev=523-c9f5c5191359166631f9ae7a3fcbe519";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fdouble-ended-queue?_rev=523-c9f5c5191359166631f9ae7a3fcbe519";
   inputs.packument.flake = false;
 
   outputs = inputs: let

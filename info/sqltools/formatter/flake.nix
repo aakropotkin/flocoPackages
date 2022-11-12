@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sqltools/formatter?_rev=16-ff24010f500a3d3ec1a68cc7822aef35";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sqltools%2fformatter?_rev=16-ff24010f500a3d3ec1a68cc7822aef35";
   inputs.packument.flake = false;
 
   outputs = inputs: let

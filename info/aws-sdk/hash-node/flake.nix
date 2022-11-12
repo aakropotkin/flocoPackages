@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/hash-node?_rev=109-341d542569982213a9453dc1922340d6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fhash-node?_rev=109-341d542569982213a9453dc1922340d6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

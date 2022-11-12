@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion/utils?_rev=38-104f0cec5ff53a9a438d565bc49c3e9a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion%2futils?_rev=38-104f0cec5ff53a9a438d565bc49c3e9a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

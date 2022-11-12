@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/code-frame?_rev=91-c8b6435e453d88bce3e041787848fbfe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fcode-frame?_rev=91-c8b6435e453d88bce3e041787848fbfe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

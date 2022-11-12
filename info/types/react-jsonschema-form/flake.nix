@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/react-jsonschema-form?_rev=558-20ab29c4825db8dbe6b17a9d7f0e105d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2freact-jsonschema-form?_rev=558-20ab29c4825db8dbe6b17a9d7f0e105d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

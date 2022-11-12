@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry/api-metrics?_rev=78-a4ab7bd23048642cf1c115a38ee43d65";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry%2fapi-metrics?_rev=78-a4ab7bd23048642cf1c115a38ee43d65";
   inputs.packument.flake = false;
 
   outputs = inputs: let

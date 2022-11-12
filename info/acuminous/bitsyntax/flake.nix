@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@acuminous/bitsyntax?_rev=1-752b300eb2f3b5637f8641536d27d8f6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@acuminous%2fbitsyntax?_rev=1-752b300eb2f3b5637f8641536d27d8f6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

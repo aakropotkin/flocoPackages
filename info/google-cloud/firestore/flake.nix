@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@google-cloud/firestore?_rev=148-94f7aa08a16e9bc9f9a59a101b70ff0e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@google-cloud%2ffirestore?_rev=148-94f7aa08a16e9bc9f9a59a101b70ff0e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

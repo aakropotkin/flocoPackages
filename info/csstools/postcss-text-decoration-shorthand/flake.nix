@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-text-decoration-shorthand";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools%2fpostcss-text-decoration-shorthand";
   inputs.packument.flake = false;
 
   outputs = inputs: let

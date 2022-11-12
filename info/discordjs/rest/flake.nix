@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@discordjs/rest?_rev=570-3303cdb7c747f8447dd9d8bd76724161";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@discordjs%2frest?_rev=570-3303cdb7c747f8447dd9d8bd76724161";
   inputs.packument.flake = false;
 
   outputs = inputs: let

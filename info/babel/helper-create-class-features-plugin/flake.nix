@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-create-class-features-plugin?_rev=69-eb5361b7976d376ca60e8e984433af75";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fhelper-create-class-features-plugin?_rev=69-eb5361b7976d376ca60e8e984433af75";
   inputs.packument.flake = false;
 
   outputs = inputs: let

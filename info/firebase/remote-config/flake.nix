@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase/remote-config?_rev=1868-3ec6a72106940b61d54a1383e4fcb9ed";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase%2fremote-config?_rev=1868-3ec6a72106940b61d54a1383e4fcb9ed";
   inputs.packument.flake = false;
 
   outputs = inputs: let

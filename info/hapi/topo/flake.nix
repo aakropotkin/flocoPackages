@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@hapi/topo?_rev=24-a9c830dc051da8bf2095e7919e2dbd01";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@hapi%2ftopo?_rev=24-a9c830dc051da8bf2095e7919e2dbd01";
   inputs.packument.flake = false;
 
   outputs = inputs: let

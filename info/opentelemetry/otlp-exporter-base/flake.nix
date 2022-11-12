@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry/otlp-exporter-base?_rev=7-65370e37a20bf726da2391f3cf0a84b0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry%2fotlp-exporter-base?_rev=7-65370e37a20bf726da2391f3cf0a84b0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

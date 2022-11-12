@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs/wast-printer?_rev=85-fe738884ec9e9c8dd732c4e14e85c293";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs%2fwast-printer?_rev=85-fe738884ec9e9c8dd732c4e14e85c293";
   inputs.packument.flake = false;
 
   outputs = inputs: let

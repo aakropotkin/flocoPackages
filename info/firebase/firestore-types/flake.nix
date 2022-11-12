@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase/firestore-types?_rev=2552-6a79132067198ab76da34a03342d8a85";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase%2ffirestore-types?_rev=2552-6a79132067198ab76da34a03342d8a85";
   inputs.packument.flake = false;
 
   outputs = inputs: let

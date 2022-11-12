@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-dnd/shallowequal?_rev=6-1c1222268d36730ad9ed2be0d119c66e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-dnd%2fshallowequal?_rev=6-1c1222268d36730ad9ed2be0d119c66e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

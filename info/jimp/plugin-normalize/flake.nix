@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-normalize?_rev=134-069194b4fc618ee0dee4751833889b42";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp%2fplugin-normalize?_rev=134-069194b4fc618ee0dee4751833889b42";
   inputs.packument.flake = false;
 
   outputs = inputs: let

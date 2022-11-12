@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@colors/colors?_rev=2-de4f078022cc9ebc21e53cd83d12a22f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@colors%2fcolors?_rev=2-de4f078022cc9ebc21e53cd83d12a22f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

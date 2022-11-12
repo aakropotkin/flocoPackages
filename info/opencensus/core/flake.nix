@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opencensus/core?_rev=26-e7245b110e132a7bbb1353b501b62cde";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opencensus%2fcore?_rev=26-e7245b110e132a7bbb1353b501b62cde";
   inputs.packument.flake = false;
 
   outputs = inputs: let

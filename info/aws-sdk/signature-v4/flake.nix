@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/signature-v4?_rev=128-074fdf1888c2c8d59f504b9bf241346a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fsignature-v4?_rev=128-074fdf1888c2c8d59f504b9bf241346a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

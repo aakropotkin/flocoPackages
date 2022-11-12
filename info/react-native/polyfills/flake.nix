@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-native/polyfills?_rev=15-99cfa13cc5b60c3b4195f65ee0ebaeea";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-native%2fpolyfills?_rev=15-99cfa13cc5b60c3b4195f65ee0ebaeea";
   inputs.packument.flake = false;
 
   outputs = inputs: let

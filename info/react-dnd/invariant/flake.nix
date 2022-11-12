@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-dnd/invariant?_rev=8-9a2d2e55eab32750a666773f3a8eff2c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-dnd%2finvariant?_rev=8-9a2d2e55eab32750a666773f3a8eff2c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

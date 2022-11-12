@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry/otlp-transformer?_rev=6-ff6ae9327b4d50916b65a453eac3f698";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry%2fotlp-transformer?_rev=6-ff6ae9327b4d50916b65a453eac3f698";
   inputs.packument.flake = false;
 
   outputs = inputs: let

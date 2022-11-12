@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/middleware-recursion-detection?_rev=20-59f695b7d8b2fee5103bbdd3e023cedb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fmiddleware-recursion-detection?_rev=20-59f695b7d8b2fee5103bbdd3e023cedb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion/serialize?_rev=66-dede35c48a430b94c967cdb883e16b16";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion%2fserialize?_rev=66-dede35c48a430b94c967cdb883e16b16";
   inputs.packument.flake = false;
 
   outputs = inputs: let

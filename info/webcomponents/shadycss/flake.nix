@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webcomponents/shadycss?_rev=50-0be63afd754a750e04f66a9009f341f3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webcomponents%2fshadycss?_rev=50-0be63afd754a750e04f66a9009f341f3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

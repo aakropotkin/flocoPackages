@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-syntax-optional-catch-binding?_rev=69-6b58347da7dd6846ed151cbc5ada5152";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-syntax-optional-catch-binding?_rev=69-6b58347da7dd6846ed151cbc5ada5152";
   inputs.packument.flake = false;
 
   outputs = inputs: let

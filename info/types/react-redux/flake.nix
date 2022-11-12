@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/react-redux?_rev=918-5317ab524019e376271febda868e120d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2freact-redux?_rev=918-5317ab524019e376271febda868e120d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

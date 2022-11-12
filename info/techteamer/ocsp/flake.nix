@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@techteamer/ocsp?_rev=2-118fe4cf14a0ccdd509b49bd95ee15ac";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@techteamer%2focsp?_rev=2-118fe4cf14a0ccdd509b49bd95ee15ac";
   inputs.packument.flake = false;
 
   outputs = inputs: let

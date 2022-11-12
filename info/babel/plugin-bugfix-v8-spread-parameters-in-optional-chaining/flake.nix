@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining?_rev=10-9b028e2b0e4c124a52468e778c170152";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-bugfix-v8-spread-parameters-in-optional-chaining?_rev=10-9b028e2b0e4c124a52468e778c170152";
   inputs.packument.flake = false;
 
   outputs = inputs: let

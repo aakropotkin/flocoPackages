@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/redux-mock-store?_rev=496-154d49c720683a93c294ed2543f3d23f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fredux-mock-store?_rev=496-154d49c720683a93c294ed2543f3d23f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

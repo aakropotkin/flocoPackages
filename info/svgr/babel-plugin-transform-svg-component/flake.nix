@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@svgr/babel-plugin-transform-svg-component?_rev=22-dd33d51fad055590e982ba477c5c3bbe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@svgr%2fbabel-plugin-transform-svg-component?_rev=22-dd33d51fad055590e982ba477c5c3bbe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

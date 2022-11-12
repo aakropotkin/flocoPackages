@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@vue/reactivity-transform?_rev=27-d3c1248085d809ba89667ea3fc14fb92";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@vue%2freactivity-transform?_rev=27-d3c1248085d809ba89667ea3fc14fb92";
   inputs.packument.flake = false;
 
   outputs = inputs: let

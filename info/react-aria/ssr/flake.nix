@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-aria/ssr?_rev=369-630ad87a1e5c82805e4858072ee410a5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-aria%2fssr?_rev=369-630ad87a1e5c82805e4858072ee410a5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

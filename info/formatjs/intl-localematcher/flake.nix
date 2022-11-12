@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs/intl-localematcher?_rev=33-b56808b55f9ccecee302e0fbea2656bc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs%2fintl-localematcher?_rev=33-b56808b55f9ccecee302e0fbea2656bc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

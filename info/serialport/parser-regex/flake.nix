@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport/parser-regex?_rev=21-6914d387ae678e0f0ae2c0968736669a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport%2fparser-regex?_rev=21-6914d387ae678e0f0ae2c0968736669a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

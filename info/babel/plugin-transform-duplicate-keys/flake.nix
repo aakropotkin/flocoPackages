@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-duplicate-keys?_rev=81-6a70490b56f58b37ff8f20f8b8d6a72f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-duplicate-keys?_rev=81-6a70490b56f58b37ff8f20f8b8d6a72f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

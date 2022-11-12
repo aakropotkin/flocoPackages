@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@blueprintjs/popover2?_rev=91-88d5ef9fe11440d75fb7ecbcd4d6a8f8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@blueprintjs%2fpopover2?_rev=91-88d5ef9fe11440d75fb7ecbcd4d6a8f8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

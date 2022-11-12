@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion/unitless?_rev=21-e0a39d0467b671648e0d749c8c3905fb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion%2funitless?_rev=21-e0a39d0467b671648e0d749c8c3905fb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-member-expression-literals?_rev=78-67177e12abcb74eedb298f5dfb9a0794";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-member-expression-literals?_rev=78-67177e12abcb74eedb298f5dfb9a0794";
   inputs.packument.flake = false;
 
   outputs = inputs: let

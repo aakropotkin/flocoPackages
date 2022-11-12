@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure/core-tracing?_rev=151-fa5184a11ad32477610a7408cdc7159e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure%2fcore-tracing?_rev=151-fa5184a11ad32477610a7408cdc7159e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

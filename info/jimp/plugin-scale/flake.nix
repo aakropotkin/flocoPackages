@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-scale?_rev=128-f5395231ffd21152b39e9f5344db6564";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp%2fplugin-scale?_rev=128-f5395231ffd21152b39e9f5344db6564";
   inputs.packument.flake = false;
 
   outputs = inputs: let

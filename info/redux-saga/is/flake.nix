@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@redux-saga/is?_rev=14-07c4db912919deb5664f1b5d2d7afe3d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@redux-saga%2fis?_rev=14-07c4db912919deb5664f1b5d2d7afe3d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

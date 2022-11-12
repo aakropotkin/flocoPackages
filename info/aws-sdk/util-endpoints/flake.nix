@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/util-endpoints?_rev=23-f3582d5822973cb95612329c386bac2c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2futil-endpoints?_rev=23-f3582d5822973cb95612329c386bac2c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

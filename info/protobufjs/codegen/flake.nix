@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@protobufjs/codegen?_rev=18-1de3d45a54c351b2de7525d3f2e23bed";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@protobufjs%2fcodegen?_rev=18-1de3d45a54c351b2de7525d3f2e23bed";
   inputs.packument.flake = false;
 
   outputs = inputs: let

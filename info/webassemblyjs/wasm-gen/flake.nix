@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs/wasm-gen?_rev=82-8b47cce3a76c34a5c0911a90c6812b11";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs%2fwasm-gen?_rev=82-8b47cce3a76c34a5c0911a90c6812b11";
   inputs.packument.flake = false;
 
   outputs = inputs: let

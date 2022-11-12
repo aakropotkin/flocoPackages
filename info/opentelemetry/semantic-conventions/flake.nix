@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry/semantic-conventions?_rev=91-ec30f4a1d73847cbc75891364f8d2098";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry%2fsemantic-conventions?_rev=91-ec30f4a1d73847cbc75891364f8d2098";
   inputs.packument.flake = false;
 
   outputs = inputs: let

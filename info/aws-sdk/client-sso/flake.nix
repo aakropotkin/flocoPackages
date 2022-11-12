@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/client-sso?_rev=191-f739f68cb7d87c6be98ca3aed8c95878";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fclient-sso?_rev=191-f739f68cb7d87c6be98ca3aed8c95878";
   inputs.packument.flake = false;
 
   outputs = inputs: let

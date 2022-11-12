@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure/core-paging?_rev=124-ad9a201af03f0e0115e6f74334d7d0e3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure%2fcore-paging?_rev=124-ad9a201af03f0e0115e6f74334d7d0e3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

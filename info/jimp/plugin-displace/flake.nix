@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-displace?_rev=129-2f319656bcb087398ce5d358eb43954f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp%2fplugin-displace?_rev=129-2f319656bcb087398ce5d358eb43954f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

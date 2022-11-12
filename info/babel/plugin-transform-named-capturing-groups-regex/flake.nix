@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-named-capturing-groups-regex?_rev=35-fe862ed107710932fd2cd38ddcac89ce";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-named-capturing-groups-regex?_rev=35-fe862ed107710932fd2cd38ddcac89ce";
   inputs.packument.flake = false;
 
   outputs = inputs: let

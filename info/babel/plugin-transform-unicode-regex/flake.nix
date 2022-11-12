@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-unicode-regex?_rev=81-1c71354af000985398e2880e0b34c2aa";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-unicode-regex?_rev=81-1c71354af000985398e2880e0b34c2aa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

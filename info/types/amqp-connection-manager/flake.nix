@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/amqp-connection-manager?_rev=449-58466fa29565b593a1f387201b26a0a7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2famqp-connection-manager?_rev=449-58466fa29565b593a1f387201b26a0a7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

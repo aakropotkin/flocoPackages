@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-cascade-layers?_rev=8-f9ef5edf0b7571e3a5085d913c527f73";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools%2fpostcss-cascade-layers?_rev=8-f9ef5edf0b7571e3a5085d913c527f73";
   inputs.packument.flake = false;
 
   outputs = inputs: let

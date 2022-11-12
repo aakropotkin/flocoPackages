@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-contain?_rev=134-c7c80badc68d2c532cff164baa34b5af";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp%2fplugin-contain?_rev=134-c7c80badc68d2c532cff164baa34b5af";
   inputs.packument.flake = false;
 
   outputs = inputs: let

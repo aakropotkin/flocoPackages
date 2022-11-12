@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@socket.io/component-emitter?_rev=5-6f1e4f3775ee7746ac2d802aae7a8f09";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@socket.io%2fcomponent-emitter?_rev=5-6f1e4f3775ee7746ac2d802aae7a8f09";
   inputs.packument.flake = false;
 
   outputs = inputs: let

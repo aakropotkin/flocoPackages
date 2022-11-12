@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-hwb-function?_rev=3-e43617fa1a7646aae650f96d5c16113c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools%2fpostcss-hwb-function?_rev=3-e43617fa1a7646aae650f96d5c16113c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

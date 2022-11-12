@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-for-of?_rev=90-b79f5355355f0bebab288125641db401";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-for-of?_rev=90-b79f5355355f0bebab288125641db401";
   inputs.packument.flake = false;
 
   outputs = inputs: let

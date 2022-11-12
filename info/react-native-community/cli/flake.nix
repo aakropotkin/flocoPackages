@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-native-community/cli?_rev=214-3a1c3abac6714f9d0925145fbccd9b7e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-native-community%2fcli?_rev=214-3a1c3abac6714f9d0925145fbccd9b7e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

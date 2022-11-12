@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-flow-strip-types?_rev=90-c93c382c5a60b70ad5a5ce2e28379157";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-flow-strip-types?_rev=90-c93c382c5a60b70ad5a5ce2e28379157";
   inputs.packument.flake = false;
 
   outputs = inputs: let

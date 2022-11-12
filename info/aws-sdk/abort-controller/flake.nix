@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/abort-controller?_rev=108-f13ceabc63933e061333a0db8d34eed4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fabort-controller?_rev=108-f13ceabc63933e061333a0db8d34eed4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@gulp-sourcemaps/identity-map?_rev=9-6449d80137953fc3d8db159629487d91";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@gulp-sourcemaps%2fidentity-map?_rev=9-6449d80137953fc3d8db159629487d91";
   inputs.packument.flake = false;
 
   outputs = inputs: let

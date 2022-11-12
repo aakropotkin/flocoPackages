@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/util-body-length-node?_rev=70-165204a02411594423213f837ef67605";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2futil-body-length-node?_rev=70-165204a02411594423213f837ef67605";
   inputs.packument.flake = false;
 
   outputs = inputs: let

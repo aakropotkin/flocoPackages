@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase/webchannel-wrapper?_rev=2532-86748f672b4643ad756511e8e90d4d0c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase%2fwebchannel-wrapper?_rev=2532-86748f672b4643ad756511e8e90d4d0c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

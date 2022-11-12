@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@octokit/plugin-paginate-rest?_rev=84-92ff9f8f479b1de79c38338d14d23f6b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@octokit%2fplugin-paginate-rest?_rev=84-92ff9f8f479b1de79c38338d14d23f6b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

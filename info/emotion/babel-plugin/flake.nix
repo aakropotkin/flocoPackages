@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion/babel-plugin?_rev=21-a703d4880031854330a0f70b8c4f31e5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion%2fbabel-plugin?_rev=21-a703d4880031854330a0f70b8c4f31e5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/d3-polygon?_rev=581-489dfcb95e1f8f317967aa54aa400a05";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fd3-polygon?_rev=581-489dfcb95e1f8f317967aa54aa400a05";
   inputs.packument.flake = false;
 
   outputs = inputs: let

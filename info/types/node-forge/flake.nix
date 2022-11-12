@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/node-forge?_rev=988-ec32b4885eb7a0cd3c7843b396809c66";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fnode-forge?_rev=988-ec32b4885eb7a0cd3c7843b396809c66";
   inputs.packument.flake = false;
 
   outputs = inputs: let

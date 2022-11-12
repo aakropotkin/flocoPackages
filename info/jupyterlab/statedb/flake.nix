@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jupyterlab/statedb?_rev=279-26f7b135173f65f0aa3dec707e318456";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jupyterlab%2fstatedb?_rev=279-26f7b135173f65f0aa3dec707e318456";
   inputs.packument.flake = false;
 
   outputs = inputs: let

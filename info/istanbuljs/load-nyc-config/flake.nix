@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@istanbuljs/load-nyc-config?_rev=6-149d0f8486389db4ce242ae751d5eebc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@istanbuljs%2fload-nyc-config?_rev=6-149d0f8486389db4ce242ae751d5eebc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

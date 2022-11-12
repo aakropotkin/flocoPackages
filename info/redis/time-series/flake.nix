@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@redis/time-series";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@redis%2ftime-series";
   inputs.packument.flake = false;
 
   outputs = inputs: let

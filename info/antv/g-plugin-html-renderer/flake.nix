@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/g-plugin-html-renderer?_rev=129-5d36da0e567f5468928f3e425dd1ef10";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv%2fg-plugin-html-renderer?_rev=129-5d36da0e567f5468928f3e425dd1ef10";
   inputs.packument.flake = false;
 
   outputs = inputs: let

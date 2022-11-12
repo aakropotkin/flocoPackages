@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@typescript-eslint/type-utils?_rev=721-2db619169f5c5feffcf3844f2ad15fcd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@typescript-eslint%2ftype-utils?_rev=721-2db619169f5c5feffcf3844f2ad15fcd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

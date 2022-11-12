@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/validator?_rev=933-9cd5966c4ede4480154469559bd675c1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fvalidator?_rev=933-9cd5966c4ede4480154469559bd675c1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

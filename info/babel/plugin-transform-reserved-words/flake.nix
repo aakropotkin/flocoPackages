@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-reserved-words?_rev=79-398c66417005926fb1e4990772765016";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-reserved-words?_rev=79-398c66417005926fb1e4990772765016";
   inputs.packument.flake = false;
 
   outputs = inputs: let

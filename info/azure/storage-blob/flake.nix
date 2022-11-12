@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure/storage-blob?_rev=245-b56d7c924d0532e94f436767a3104471";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure%2fstorage-blob?_rev=245-b56d7c924d0532e94f436767a3104471";
   inputs.packument.flake = false;
 
   outputs = inputs: let

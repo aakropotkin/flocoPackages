@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs/icu-messageformat-parser?_rev=41-acd55b1210be73a753c0e0bb4deef4f5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs%2ficu-messageformat-parser?_rev=41-acd55b1210be73a753c0e0bb4deef4f5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

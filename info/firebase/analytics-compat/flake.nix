@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase/analytics-compat?_rev=500-815923325689bbd0c9957d9147b0551d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase%2fanalytics-compat?_rev=500-815923325689bbd0c9957d9147b0551d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

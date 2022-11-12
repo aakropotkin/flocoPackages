@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@msgpackr-extract/msgpackr-extract-linux-x64?_rev=4-c26b4c0a9fcf30ed5a1a3534bc7a2b72";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@msgpackr-extract%2fmsgpackr-extract-linux-x64?_rev=4-c26b4c0a9fcf30ed5a1a3534bc7a2b72";
   inputs.packument.flake = false;
 
   outputs = inputs: let

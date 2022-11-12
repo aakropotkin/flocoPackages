@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@blueprintjs/icons?_rev=94-fa354a02431f6204905f17f834162c68";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@blueprintjs%2ficons?_rev=94-fa354a02431f6204905f17f834162c68";
   inputs.packument.flake = false;
 
   outputs = inputs: let

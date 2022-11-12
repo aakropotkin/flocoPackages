@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/credential-provider-cognito-identity?_rev=220-d6cecf161199dd675ebc2445ed763987";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fcredential-provider-cognito-identity?_rev=220-d6cecf161199dd675ebc2445ed763987";
   inputs.packument.flake = false;
 
   outputs = inputs: let

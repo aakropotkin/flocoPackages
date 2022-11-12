@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@apollo/react-hoc?_rev=39-920c6cf5805eaa9a335be7828f6a4d42";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@apollo%2freact-hoc?_rev=39-920c6cf5805eaa9a335be7828f6a4d42";
   inputs.packument.flake = false;
 
   outputs = inputs: let

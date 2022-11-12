@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@lumino/coreutils?_rev=39-e2ede02f57348232463e7f05637dce85";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@lumino%2fcoreutils?_rev=39-e2ede02f57348232463e7f05637dce85";
   inputs.packument.flake = false;
 
   outputs = inputs: let

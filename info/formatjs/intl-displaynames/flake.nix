@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs/intl-displaynames?_rev=109-20e320646a30fd1281a3665fb1a9506f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs%2fintl-displaynames?_rev=109-20e320646a30fd1281a3665fb1a9506f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

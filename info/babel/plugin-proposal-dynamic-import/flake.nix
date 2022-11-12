@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-dynamic-import?_rev=25-935f56c38f794fdcc4b9c4248327d075";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-proposal-dynamic-import?_rev=25-935f56c38f794fdcc4b9c4248327d075";
   inputs.packument.flake = false;
 
   outputs = inputs: let

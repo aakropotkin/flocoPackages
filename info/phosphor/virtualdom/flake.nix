@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@phosphor/virtualdom?_rev=23-5210466c4fb61c8255193094708ea21f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@phosphor%2fvirtualdom?_rev=23-5210466c4fb61c8255193094708ea21f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

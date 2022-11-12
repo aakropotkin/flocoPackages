@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sideway/formula?_rev=1-98641b6cac2c683b11abe2b5692bfb08";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sideway%2fformula?_rev=1-98641b6cac2c683b11abe2b5692bfb08";
   inputs.packument.flake = false;
 
   outputs = inputs: let

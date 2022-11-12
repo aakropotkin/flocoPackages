@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-decorators?_rev=114-37df352bf76c50d44bf18543db2f7c99";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-proposal-decorators?_rev=114-37df352bf76c50d44bf18543db2f7c99";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/normalize-package-data?_rev=492-efdef9b8884283f08dfadbd900ad7380";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fnormalize-package-data?_rev=492-efdef9b8884283f08dfadbd900ad7380";
   inputs.packument.flake = false;
 
   outputs = inputs: let

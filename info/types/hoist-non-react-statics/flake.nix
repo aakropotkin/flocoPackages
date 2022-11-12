@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/hoist-non-react-statics?_rev=348-80f3d94e43067bb2793d40bcd1309560";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fhoist-non-react-statics?_rev=348-80f3d94e43067bb2793d40bcd1309560";
   inputs.packument.flake = false;
 
   outputs = inputs: let

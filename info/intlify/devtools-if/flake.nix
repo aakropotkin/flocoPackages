@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@intlify/devtools-if?_rev=70-035a24e441064c8b211bf21af0c8b69a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@intlify%2fdevtools-if?_rev=70-035a24e441064c8b211bf21af0c8b69a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/middleware-host-header?_rev=103-d9647b8569a7993fa78e837331a9a942";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fmiddleware-host-header?_rev=103-d9647b8569a7993fa78e837331a9a942";
   inputs.packument.flake = false;
 
   outputs = inputs: let

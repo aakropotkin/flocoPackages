@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs/fast-memoize?_rev=10-4207956606987b6e9be1a7b28feef506";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs%2ffast-memoize?_rev=10-4207956606987b6e9be1a7b28feef506";
   inputs.packument.flake = false;
 
   outputs = inputs: let

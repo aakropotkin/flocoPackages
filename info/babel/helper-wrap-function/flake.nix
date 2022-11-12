@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-wrap-function?_rev=90-3e1bedbd1d4cd2986d563b3ea8ca56dc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fhelper-wrap-function?_rev=90-3e1bedbd1d4cd2986d563b3ea8ca56dc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

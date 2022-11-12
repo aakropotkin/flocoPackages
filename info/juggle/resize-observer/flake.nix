@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@juggle/resize-observer?_rev=69-0ba0a180545fe3f1df63505af05432e8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@juggle%2fresize-observer?_rev=69-0ba0a180545fe3f1df63505af05432e8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

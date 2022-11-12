@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-threshold?_rev=127-7dd9d7ef68518d3bb4b881d4c7c319ea";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp%2fplugin-threshold?_rev=127-7dd9d7ef68518d3bb4b881d4c7c319ea";
   inputs.packument.flake = false;
 
   outputs = inputs: let

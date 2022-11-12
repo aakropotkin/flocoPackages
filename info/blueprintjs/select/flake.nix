@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@blueprintjs/select?_rev=138-c0dda3c5806456e263eeacadbda2fb38";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@blueprintjs%2fselect?_rev=138-c0dda3c5806456e263eeacadbda2fb38";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport/parser-readline?_rev=21-64bf6ab841b785ce529c572cef2d3ff2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport%2fparser-readline?_rev=21-64bf6ab841b785ce529c572cef2d3ff2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@npmcli/run-script?_rev=61-7ce9dfa93f3c6b97dd6ec7eb5b6076cd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@npmcli%2frun-script?_rev=61-7ce9dfa93f3c6b97dd6ec7eb5b6076cd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

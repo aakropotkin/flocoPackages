@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/path-util?_rev=79-e1bac02dcdab486533ee5c3e7a430765";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv%2fpath-util?_rev=79-e1bac02dcdab486533ee5c3e7a430765";
   inputs.packument.flake = false;
 
   outputs = inputs: let

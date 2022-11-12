@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/d3-chord?_rev=571-f4edeb81cd2869ac14bbb37ee97cf30c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types%2fd3-chord?_rev=571-f4edeb81cd2869ac14bbb37ee97cf30c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

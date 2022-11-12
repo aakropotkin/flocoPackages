@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-trigonometric-functions?_rev=2-1dc0ecd2f484723f50f566f2945bdd0e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools%2fpostcss-trigonometric-functions?_rev=2-1dc0ecd2f484723f50f566f2945bdd0e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

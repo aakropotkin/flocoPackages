@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/color-util?_rev=65-ed4bfd4cd1198a014febf4637295e164";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv%2fcolor-util?_rev=65-ed4bfd4cd1198a014febf4637295e164";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-shorthand-properties?_rev=78-4cfb5736cd3b2a7e256e2c7f93172f7a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-shorthand-properties?_rev=78-4cfb5736cd3b2a7e256e2c7f93172f7a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

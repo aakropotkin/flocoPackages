@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion/memoize?_rev=23-19a9068aa4a4d2193146726e9a5a9a75";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@emotion%2fmemoize?_rev=23-19a9068aa4a4d2193146726e9a5a9a75";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/querystring-builder?_rev=108-f2ae4f0ce856f34a7809f028682193fa";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk%2fquerystring-builder?_rev=108-f2ae4f0ce856f34a7809f028682193fa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-arrow-functions?_rev=80-406d516e1654936d336a06e4287e869d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-arrow-functions?_rev=80-406d516e1654936d336a06e4287e869d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

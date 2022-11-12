@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@ungap/promise-all-settled?_rev=5-48420b60655192074035f2091f07cd9b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@ungap%2fpromise-all-settled?_rev=5-48420b60655192074035f2091f07cd9b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

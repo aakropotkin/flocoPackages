@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@octokit/auth-token?_rev=22-3632d3dd3e66e28ba53b817010ce46b9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@octokit%2fauth-token?_rev=22-3632d3dd3e66e28ba53b817010ce46b9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

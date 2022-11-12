@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-transform-template-literals?_rev=85-7c7e8544dfc4fd0e91bbba97a0b05dfe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-transform-template-literals?_rev=85-7c7e8544dfc4fd0e91bbba97a0b05dfe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-simple-access?_rev=90-0fb3f5e5fb18bc1d6829053075ac3217";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fhelper-simple-access?_rev=90-0fb3f5e5fb18bc1d6829053075ac3217";
   inputs.packument.flake = false;
 
   outputs = inputs: let

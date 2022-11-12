@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-syntax-dynamic-import?_rev=69-91cd2f60d084c8d7b7812e32b950039e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel%2fplugin-syntax-dynamic-import?_rev=69-91cd2f60d084c8d7b7812e32b950039e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

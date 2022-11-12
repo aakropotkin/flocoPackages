@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/convert-colors?_rev=8-cbb6ce7bdd94bcd7ee8f9bc35913ed68";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools%2fconvert-colors?_rev=8-cbb6ce7bdd94bcd7ee8f9bc35913ed68";
   inputs.packument.flake = false;
 
   outputs = inputs: let

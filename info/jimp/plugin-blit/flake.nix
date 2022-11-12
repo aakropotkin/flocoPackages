@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-blit?_rev=134-ee8f91d4b69eb859d8f4807f73de82a1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp%2fplugin-blit?_rev=134-ee8f91d4b69eb859d8f4807f73de82a1";
   inputs.packument.flake = false;
 
   outputs = inputs: let
