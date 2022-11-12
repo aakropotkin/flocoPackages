@@ -56,7 +56,7 @@ final: prev: let
      if hierHas inst   then "inst"   else
      if hierHas gyp    then "gyp"    else
      if hierHas simple then "simple" else
-     if builtins.pathExists "${dir}/fetchInfo.json" then "info" else
+     #if builtins.pathExists "${dir}/fetchInfo.json" then "info" else
      null;
 
   shouldExport = x: builtins.elem ( definedIn x ) ["info" "simple"];
