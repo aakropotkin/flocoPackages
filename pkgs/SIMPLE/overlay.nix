@@ -82,6 +82,7 @@ final: prev: let
     byVers  = prev.lib.importJSON "${dir}/fetchInfo.json";
     proc    = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
   in builtins.foldl' proc {} ( builtins.attrNames byVers );
+
   loadFetchInfo = ident: let
     m = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
   in loadFetchInfo' {
@@ -110,6 +111,7 @@ in {
       markedFetchInfos
       definedIn
       loadFetchInfo'
+      loadFetchInfo
     ;
   };
 
@@ -138,7 +140,8 @@ in {
           versions = map baseNameOf ( builtins.attrNames fis );
         in final.lib.librange.latestRelease versions;
         extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
-      in accS // fis // extra;
+        addV  = builtins.mapAttrs ( _: final.flocoSimpleFetcher ) fis;
+      in accS // addV // extra;
       addsB = builtins.foldl' procS {}
                               ( builtins.attrNames markedFetchInfos.${scope} );
     in acc // addsB;
