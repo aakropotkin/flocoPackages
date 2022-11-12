@@ -26,9 +26,6 @@
     "bunyan": [
       "1.8.15"
     ],
-    "core-js-pure": [
-      "3.25.2"
-    ],
     "errno": [
       "0.1.8"
     ],
@@ -46,12 +43,6 @@
     ],
     "eslint-config-prettier": [
       "8.5.0"
-    ],
-    "eslint-import-resolver-typescript": [
-      "2.7.1"
-    ],
-    "eslint-scope": [
-      "5.1.1"
     ],
     "esprima": [
       "4.0.1"
@@ -77,9 +68,6 @@
     ],
     "is-docker": [
       "2.2.1"
-    ],
-    "is-core-module": [
-      "2.10.0"
     ],
     "jest": [
       "27.5.1",
@@ -153,12 +141,6 @@
     "node-opcua-pki": [
       "2.18.3"
     ],
-    "os-name": [
-      "1.0.3"
-    ],
-    "osx-release": [
-      "1.1.0"
-    ],
     "pino": [
       "7.11.0"
     ],
@@ -208,9 +190,6 @@
     "ts-node": [
       "10.9.1",
       "7.0.1"
-    ],
-    "tsconfig-paths": [
-      "3.14.1"
     ],
     "typescript": [
       "4.7.4",
