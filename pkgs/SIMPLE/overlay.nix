@@ -11,7 +11,7 @@ final: prev: let
   infoDir = ../../info;
 
   # Packages explicitly marked for export.
-  #marked = prev.lib.importJSON ./npmjs.json;
+  marked = prev.lib.importJSON ./npmjs.json;
 
 # ---------------------------------------------------------------------------- #
 
@@ -61,10 +61,10 @@ final: prev: let
 
   shouldExport = x: builtins.elem ( definedIn x ) ["info" "simple"];
 
-  marked = let
-    filt = scope: bnames:
-      builtins.filter ( bname: shouldExport { inherit scope bname; } ) bnames;
-  in builtins.mapAttrs filt allFetchInfoDefs;
+  #marked = let
+  #  filt = scope: bnames:
+  #    builtins.filter ( bname: shouldExport { inherit scope bname; } ) bnames;
+  #in builtins.mapAttrs filt allFetchInfoDefs;
 
 
 # ---------------------------------------------------------------------------- #
