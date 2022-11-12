@@ -87,7 +87,8 @@ final: prev: let
       gminor =
         builtins.groupBy ( prev.lib.yank "([^.]+\\.[^.]+)\\..*" ) releases;
       minors = let
-        byMinor = builtins.mapAttrs final.lib.librange.latestVersion gminor;
+        byMinor =
+          builtins.mapAttrs ( _: final.lib.latestVersion ) gminor;
       in builtins.concatLists ( builtins.attrValues byMinor );
       highestMajor = let
         desc = a: b: b < a;
@@ -151,8 +152,12 @@ in {
         ident   = if scope == "unscoped" then bname else "@${scope}/${bname}";
         fis     = markedFetchInfos.${scope}.${bname};
         latestV = let
-          versions = map baseNameOf ( builtins.attrNames fis );
-        in final.lib.librange.latestRelease versions;
+          allVers  = map baseNameOf ( builtins.attrNames fis );
+          releases = builtins.filter final.lib.librange.isRelease allVers;
+          versions = if releases == [] then allVers else releases;
+          latest   = final.lib.latestVersion versions;
+          msg      = "${ident} has no versions in its 'fetchInfo' file";
+        in if ( builtins.length allVers ) < 1 then throw msg else latest;
         extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
         addV  = builtins.mapAttrs ( _: fetchInfo:
           final.flocoSimpleFetcher { inherit fetchInfo; }
