@@ -1,4 +1,10 @@
 {
+  "babel": [
+    "parser"
+  ],
+  "swc": [
+    "core"
+  ],
   "unscoped": [
     "acorn",
     "esbuild",
