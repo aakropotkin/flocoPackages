@@ -129,7 +129,7 @@ in {
       setBinPerms = false;   # None of these have bins.
     };
     src = if fetchInfo.type == "file" then unpacked else fetched;
-  in ent // src;
+  in ent // { sourceInfo = src; inherit (src) outPath; };
 
   flocoPackages = prev.flocoPackages.extend ( fpFinal: fpPrev: let
     proc = acc: scope: let
@@ -140,7 +140,9 @@ in {
           versions = map baseNameOf ( builtins.attrNames fis );
         in final.lib.librange.latestRelease versions;
         extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
-        addV  = builtins.mapAttrs ( _: final.flocoSimpleFetcher ) fis;
+        addV  = builtins.mapAttrs ( _: fetchInfo:
+          final.flocoSimpleFetcher { inherit fetchInfo; }
+        ) fis;
       in accS // addV // extra;
       addsB = builtins.foldl' procS {}
                               ( builtins.attrNames markedFetchInfos.${scope} );
