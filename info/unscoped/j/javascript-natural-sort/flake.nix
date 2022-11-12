@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/javascript-natural-sort?rev=11-63489a0edc4b975d7aacd7d34ada53c1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/javascript-natural-sort?_rev=11-63489a0edc4b975d7aacd7d34ada53c1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xml-name-validator?rev=16-7379295524b0924615650dc5b6cf104a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/xml-name-validator?_rev=16-7379295524b0924615650dc5b6cf104a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

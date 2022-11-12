@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-create-regexp-features-plugin?rev=30-0b0e7200073bf8249056278fbc3d1fd2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-create-regexp-features-plugin?_rev=30-0b0e7200073bf8249056278fbc3d1fd2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

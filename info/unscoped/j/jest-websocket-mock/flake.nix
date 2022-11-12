@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-websocket-mock?rev=23-93c65c7cc2db00052e6d3bf8ec4dbc57";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jest-websocket-mock?_rev=23-93c65c7cc2db00052e6d3bf8ec4dbc57";
   inputs.packument.flake = false;
 
   outputs = inputs: let

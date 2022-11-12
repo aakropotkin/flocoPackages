@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-icons?rev=106-0597e0813bbe2931284a8d7224d53c2b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-icons?_rev=106-0597e0813bbe2931284a8d7224d53c2b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

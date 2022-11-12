@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es6-object-assign?rev=7-499a10f478c86c5ed6b68c074685b0aa";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/es6-object-assign?_rev=7-499a10f478c86c5ed6b68c074685b0aa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

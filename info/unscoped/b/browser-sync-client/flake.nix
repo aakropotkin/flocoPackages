@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browser-sync-client?rev=116-1b48651d786f601af0490cc2d0493406";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/browser-sync-client?_rev=116-1b48651d786f601af0490cc2d0493406";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sqlstring?rev=27-078d8e4bbb7384430a2b4345b6ed2894";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/sqlstring?_rev=27-078d8e4bbb7384430a2b4345b6ed2894";
   inputs.packument.flake = false;
 
   outputs = inputs: let

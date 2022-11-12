@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/broccoli-kitchen-sink-helpers?rev=31-f955c350168890fd378c50f754d715f1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/broccoli-kitchen-sink-helpers?_rev=31-f955c350168890fd378c50f754d715f1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

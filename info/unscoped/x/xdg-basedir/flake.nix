@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xdg-basedir?rev=20-57104d5f5e72deaad92c872f7bc44094";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/xdg-basedir?_rev=20-57104d5f5e72deaad92c872f7bc44094";
   inputs.packument.flake = false;
 
   outputs = inputs: let

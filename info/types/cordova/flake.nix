@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/cordova?rev=543-f375536f978bee9b1b2910d03a662b39";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/cordova?_rev=543-f375536f978bee9b1b2910d03a662b39";
   inputs.packument.flake = false;
 
   outputs = inputs: let

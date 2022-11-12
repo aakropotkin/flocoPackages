@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/object-treeify?rev=49-c888d7b118e8080a420252c037563a0e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/object-treeify?_rev=49-c888d7b118e8080a420252c037563a0e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

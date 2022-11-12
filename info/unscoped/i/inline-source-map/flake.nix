@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/inline-source-map?rev=45-789975fcaf278ee3b76320006e5b0e9a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/inline-source-map?_rev=45-789975fcaf278ee3b76320006e5b0e9a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

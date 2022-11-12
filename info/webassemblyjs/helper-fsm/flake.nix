@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/helper-fsm?rev=64-b2697ccd43d25e5a3abea8606334755b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs/helper-fsm?_rev=64-b2697ccd43d25e5a3abea8606334755b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

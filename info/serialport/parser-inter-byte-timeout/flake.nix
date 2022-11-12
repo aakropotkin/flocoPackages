@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-inter-byte-timeout?rev=17-e7ff8ae9c3858eaecd1ffd940a2962f4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport/parser-inter-byte-timeout?_rev=17-e7ff8ae9c3858eaecd1ffd940a2962f4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/monocle-ts?rev=64-9f83257709d7b54c3aa4209c9fc0a5fc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/monocle-ts?_rev=64-9f83257709d7b54c3aa4209c9fc0a5fc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

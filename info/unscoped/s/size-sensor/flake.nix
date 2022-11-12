@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/size-sensor?rev=18-8cbf4700235c51309b41f193f7e5c0b0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/size-sensor?_rev=18-8cbf4700235c51309b41f193f7e5c0b0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

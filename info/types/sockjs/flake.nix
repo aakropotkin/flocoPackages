@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/sockjs?rev=484-b33292d53900d7d1f4cd6d8ecf16c7c9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/sockjs?_rev=484-b33292d53900d7d1f4cd6d8ecf16c7c9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

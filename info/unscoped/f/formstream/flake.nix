@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/formstream?rev=31-8d6ac1959cd912ada52dd7f247b2c275";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/formstream?_rev=31-8d6ac1959cd912ada52dd7f247b2c275";
   inputs.packument.flake = false;
 
   outputs = inputs: let

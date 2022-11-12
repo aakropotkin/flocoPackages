@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-color-rebeccapurple?rev=24-1b1995dc593538c5a110fcec8ebdc1fa";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-color-rebeccapurple?_rev=24-1b1995dc593538c5a110fcec8ebdc1fa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

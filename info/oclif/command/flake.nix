@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@oclif/command?rev=112-e5a7317d11741bcfa1102841b2211c63";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@oclif/command?_rev=112-e5a7317d11741bcfa1102841b2211c63";
   inputs.packument.flake = false;
 
   outputs = inputs: let

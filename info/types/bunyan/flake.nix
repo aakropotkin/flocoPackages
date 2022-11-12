@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/bunyan?rev=634-dd73f94d260b252066e15e937963d91d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/bunyan?_rev=634-dd73f94d260b252066e15e937963d91d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/promise-spawn?rev=28-b5bc38f9ea5aa5a9b96fb43565cfdddd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@npmcli/promise-spawn?_rev=28-b5bc38f9ea5aa5a9b96fb43565cfdddd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

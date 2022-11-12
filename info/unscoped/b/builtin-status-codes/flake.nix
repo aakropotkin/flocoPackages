@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/builtin-status-codes?rev=6-85c3de4fc11c01ced2df935707a35696";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/builtin-status-codes?_rev=6-85c3de4fc11c01ced2df935707a35696";
   inputs.packument.flake = false;
 
   outputs = inputs: let

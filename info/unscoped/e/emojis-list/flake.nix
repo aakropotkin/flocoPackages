@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/emojis-list?rev=15-9bb4bf27fd93465143c833d3074e927e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/emojis-list?_rev=15-9bb4bf27fd93465143c833d3074e927e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

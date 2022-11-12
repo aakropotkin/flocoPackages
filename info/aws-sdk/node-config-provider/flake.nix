@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/node-config-provider?rev=99-cbb74a5689950d436bf74fa4f09b2b75";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/node-config-provider?_rev=99-cbb74a5689950d436bf74fa4f09b2b75";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-dnd-touch-backend?rev=79-ddca86e11f74a9b2cfd5433261e53664";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-dnd-touch-backend?_rev=79-ddca86e11f74a9b2cfd5433261e53664";
   inputs.packument.flake = false;
 
   outputs = inputs: let

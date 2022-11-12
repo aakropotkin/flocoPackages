@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/multer?rev=382-58b214d8b7929f4f043906d0ba41db4d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/multer?_rev=382-58b214d8b7929f4f043906d0ba41db4d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

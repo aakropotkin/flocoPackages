@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/taffydb?rev=20-98bf95965877e653f87622e2241d6844";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/taffydb?_rev=20-98bf95965877e653f87622e2241d6844";
   inputs.packument.flake = false;
 
   outputs = inputs: let

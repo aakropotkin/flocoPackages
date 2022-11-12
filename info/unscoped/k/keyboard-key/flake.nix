@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/keyboard-key?rev=6-a55996f2319a20d95278da17662f25eb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/keyboard-key?_rev=6-a55996f2319a20d95278da17662f25eb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

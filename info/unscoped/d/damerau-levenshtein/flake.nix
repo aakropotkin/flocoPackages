@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/damerau-levenshtein?rev=19-a3586d5250760542e2fdec31cf96cc35";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/damerau-levenshtein?_rev=19-a3586d5250760542e2fdec31cf96cc35";
   inputs.packument.flake = false;
 
   outputs = inputs: let

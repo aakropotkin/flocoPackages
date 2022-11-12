@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rollup-plugin-terser?rev=25-e6cbf0fedec63832038b25738e56242b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/rollup-plugin-terser?_rev=25-e6cbf0fedec63832038b25738e56242b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

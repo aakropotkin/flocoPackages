@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@typescript-eslint/visitor-keys?rev=1651-d3f4c00f1bf757f495788c9239e870df";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@typescript-eslint/visitor-keys?_rev=1651-d3f4c00f1bf757f495788c9239e870df";
   inputs.packument.flake = false;
 
   outputs = inputs: let

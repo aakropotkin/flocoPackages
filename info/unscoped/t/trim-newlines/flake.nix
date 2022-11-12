@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/trim-newlines?rev=10-ac60117379dedacae526f9fb63e38656";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/trim-newlines?_rev=10-ac60117379dedacae526f9fb63e38656";
   inputs.packument.flake = false;
 
   outputs = inputs: let

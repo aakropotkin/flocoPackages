@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-add-jsx-attribute?rev=11-31489b9f662b13fb86f3385c9eae12f1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@svgr/babel-plugin-add-jsx-attribute?_rev=11-31489b9f662b13fb86f3385c9eae12f1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

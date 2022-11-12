@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-plugin-vue?rev=165-07324460f60200e20b8c929931ead48c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/eslint-plugin-vue?_rev=165-07324460f60200e20b8c929931ead48c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

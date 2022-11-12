@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/registry-auth-token?rev=31-ff511df2af172cd7f1ed796fcc636945";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/registry-auth-token?_rev=31-ff511df2af172cd7f1ed796fcc636945";
   inputs.packument.flake = false;
 
   outputs = inputs: let

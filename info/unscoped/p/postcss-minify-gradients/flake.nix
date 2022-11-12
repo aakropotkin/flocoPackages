@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-minify-gradients?rev=49-5e72eb4d9f38ae15a26e4d7abe00bd6a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-minify-gradients?_rev=49-5e72eb4d9f38ae15a26e4d7abe00bd6a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

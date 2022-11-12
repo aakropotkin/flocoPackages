@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strip-indent?rev=20-1142e4bd2314c2f55c95ac2e57cf9d11";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/strip-indent?_rev=20-1142e4bd2314c2f55c95ac2e57cf9d11";
   inputs.packument.flake = false;
 
   outputs = inputs: let

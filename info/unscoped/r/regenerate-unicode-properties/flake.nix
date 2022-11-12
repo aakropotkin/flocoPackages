@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/regenerate-unicode-properties?rev=34-c9d40faa78800abe56aeb043bc1bc485";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/regenerate-unicode-properties?_rev=34-c9d40faa78800abe56aeb043bc1bc485";
   inputs.packument.flake = false;
 
   outputs = inputs: let

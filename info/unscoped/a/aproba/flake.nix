@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/aproba?rev=40-cb8bd4853524e89005b13c4656690526";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/aproba?_rev=40-cb8bd4853524e89005b13c4656690526";
   inputs.packument.flake = false;
 
   outputs = inputs: let

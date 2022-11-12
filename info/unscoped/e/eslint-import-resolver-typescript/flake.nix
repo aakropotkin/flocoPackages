@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-import-resolver-typescript?rev=43-0eb7d96821e4dd9892d6a970d1bdbd1f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/eslint-import-resolver-typescript?_rev=43-0eb7d96821e4dd9892d6a970d1bdbd1f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

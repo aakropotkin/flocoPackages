@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-decimal-number?rev=8-b8785309f4acc060a6d5d34ff6d21916";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/parse-decimal-number?_rev=8-b8785309f4acc060a6d5d34ff6d21916";
   inputs.packument.flake = false;
 
   outputs = inputs: let

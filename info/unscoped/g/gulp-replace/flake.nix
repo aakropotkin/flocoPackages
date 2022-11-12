@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-replace?rev=187-87462be4877d1e5b1a1ed1c3e04c9f8b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gulp-replace?_rev=187-87462be4877d1e5b1a1ed1c3e04c9f8b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-opacity-percentage?rev=7-43eb2873f0843fcddc63796d99934d82";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-opacity-percentage?_rev=7-43eb2873f0843fcddc63796d99934d82";
   inputs.packument.flake = false;
 
   outputs = inputs: let

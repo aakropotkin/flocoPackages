@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@ethereumjs/tx?rev=97-bfea365abbeda458c6e00c9a5140b5d9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@ethereumjs/tx?_rev=97-bfea365abbeda458c6e00c9a5140b5d9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/word-wrap?rev=33-3027e8193ed18279beb28b98eadd41a9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/word-wrap?_rev=33-3027e8193ed18279beb28b98eadd41a9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

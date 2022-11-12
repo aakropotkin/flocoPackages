@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-logical-assignment-operators?rev=61-097382756c127a3e5909c45cdc28818e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-logical-assignment-operators?_rev=61-097382756c127a3e5909c45cdc28818e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

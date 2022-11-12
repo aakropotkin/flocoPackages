@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-onclickoutside?rev=103-27cf1bb9493601389e9e8ae23d0e7fd6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-onclickoutside?_rev=103-27cf1bb9493601389e9e8ae23d0e7fd6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

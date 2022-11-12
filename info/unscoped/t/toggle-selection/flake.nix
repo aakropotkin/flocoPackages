@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/toggle-selection?rev=10-314069f2db009eadff91bda6d02e3604";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/toggle-selection?_rev=10-314069f2db009eadff91bda6d02e3604";
   inputs.packument.flake = false;
 
   outputs = inputs: let

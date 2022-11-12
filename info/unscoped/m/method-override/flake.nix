@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/method-override?rev=162-e227cf0f178285258a31b4a1ed4ec700";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/method-override?_rev=162-e227cf0f178285258a31b4a1ed4ec700";
   inputs.packument.flake = false;
 
   outputs = inputs: let

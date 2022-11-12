@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browser-process-hrtime?rev=26-9c7f28c3e9b92f12948ae7dc3aaba2d9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/browser-process-hrtime?_rev=26-9c7f28c3e9b92f12948ae7dc3aaba2d9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

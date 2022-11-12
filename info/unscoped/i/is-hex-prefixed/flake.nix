@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-hex-prefixed?rev=3-5d4384bb3931ccdd9960e0719a0f2bf1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-hex-prefixed?_rev=3-5d4384bb3931ccdd9960e0719a0f2bf1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

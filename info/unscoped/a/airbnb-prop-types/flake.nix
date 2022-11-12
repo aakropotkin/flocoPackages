@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/airbnb-prop-types?rev=58-0523ac7bfe604bc5739a5f178bc7f543";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/airbnb-prop-types?_rev=58-0523ac7bfe604bc5739a5f178bc7f543";
   inputs.packument.flake = false;
 
   outputs = inputs: let

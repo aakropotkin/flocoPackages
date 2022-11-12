@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/path-is-absolute?rev=18-c407e6ad08bab22f0fc7184a356560ef";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/path-is-absolute?_rev=18-c407e6ad08bab22f0fc7184a356560ef";
   inputs.packument.flake = false;
 
   outputs = inputs: let

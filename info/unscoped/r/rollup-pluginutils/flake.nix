@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rollup-pluginutils?rev=39-91cac85404bbfe7756efd2be8dd38710";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/rollup-pluginutils?_rev=39-91cac85404bbfe7756efd2be8dd38710";
   inputs.packument.flake = false;
 
   outputs = inputs: let

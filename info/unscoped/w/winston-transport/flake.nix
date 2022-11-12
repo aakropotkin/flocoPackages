@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/winston-transport?rev=28-e8cc75bbdef5653b2120e5e56e6bcdf1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/winston-transport?_rev=28-e8cc75bbdef5653b2120e5e56e6bcdf1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

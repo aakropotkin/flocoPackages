@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/has-tostringtag?rev=1-7200022bb2069a33a95e7b5c4fdc2113";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/has-tostringtag?_rev=1-7200022bb2069a33a95e7b5c4fdc2113";
   inputs.packument.flake = false;
 
   outputs = inputs: let

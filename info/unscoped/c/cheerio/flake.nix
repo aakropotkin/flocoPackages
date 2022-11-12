@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cheerio?rev=876-454715f8ee743ed93a8ca88664ed7802";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cheerio?_rev=876-454715f8ee743ed93a8ca88664ed7802";
   inputs.packument.flake = false;
 
   outputs = inputs: let

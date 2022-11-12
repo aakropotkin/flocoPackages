@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-accessor-descriptor?rev=13-3bb80084268b0bda08aaa0f90dda00fd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-accessor-descriptor?_rev=13-3bb80084268b0bda08aaa0f90dda00fd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

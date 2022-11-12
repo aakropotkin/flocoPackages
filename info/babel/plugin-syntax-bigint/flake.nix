@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-bigint?rev=35-ecdbc16aea285ec2a52367a2cc14214e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-syntax-bigint?_rev=35-ecdbc16aea285ec2a52367a2cc14214e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

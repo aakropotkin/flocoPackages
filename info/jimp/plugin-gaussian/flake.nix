@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-gaussian?rev=129-c7ce2fd3d9dff7ea41a7f7c58aff8f8d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-gaussian?_rev=129-c7ce2fd3d9dff7ea41a7f7c58aff8f8d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

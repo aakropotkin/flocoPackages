@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-stepped-value-functions?rev=1-3449efd7219dd71b49d756be4588fb1f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-stepped-value-functions?_rev=1-3449efd7219dd71b49d756be4588fb1f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

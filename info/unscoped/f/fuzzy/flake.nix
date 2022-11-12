@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fuzzy?rev=40-aff3c43d30c15585dc625af31243d0c6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fuzzy?_rev=40-aff3c43d30c15585dc625af31243d0c6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

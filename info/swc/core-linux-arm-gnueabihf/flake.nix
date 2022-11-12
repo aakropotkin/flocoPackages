@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@swc/core-linux-arm-gnueabihf?rev=199-84c42ab638b03977cca684c07e12410b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@swc/core-linux-arm-gnueabihf?_rev=199-84c42ab638b03977cca684c07e12410b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

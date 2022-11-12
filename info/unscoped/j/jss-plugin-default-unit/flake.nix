@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-default-unit?rev=52-0344e0063e918aed69f89d83a70a8fa2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jss-plugin-default-unit?_rev=52-0344e0063e918aed69f89d83a70a8fa2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

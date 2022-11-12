@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fs-write-stream-atomic?rev=52-bbf38a19c7bccd698a48be2b54475718";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fs-write-stream-atomic?_rev=52-bbf38a19c7bccd698a48be2b54475718";
   inputs.packument.flake = false;
 
   outputs = inputs: let

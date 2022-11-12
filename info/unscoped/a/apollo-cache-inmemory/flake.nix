@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/apollo-cache-inmemory?rev=174-08de31362cd2e640c650230f6b10c82f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/apollo-cache-inmemory?_rev=174-08de31362cd2e640c650230f6b10c82f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

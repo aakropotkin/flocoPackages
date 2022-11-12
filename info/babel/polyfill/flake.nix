@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/polyfill?rev=92-eb85fdd5a452884bf020ee05dfe177e0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/polyfill?_rev=92-eb85fdd5a452884bf020ee05dfe177e0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pgpass?rev=19-b15ebd215b8c97332711b3f5066413d7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/pgpass?_rev=19-b15ebd215b8c97332711b3f5066413d7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lcov-parse?rev=25-e3e55a410646061783504df5fe0204c0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/lcov-parse?_rev=25-e3e55a410646061783504df5fe0204c0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

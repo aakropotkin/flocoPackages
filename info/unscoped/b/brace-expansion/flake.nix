@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/brace-expansion?rev=33-2dda4af2cd1e8fbef6ba81ed26cbe077";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/brace-expansion?_rev=33-2dda4af2cd1e8fbef6ba81ed26cbe077";
   inputs.packument.flake = false;
 
   outputs = inputs: let

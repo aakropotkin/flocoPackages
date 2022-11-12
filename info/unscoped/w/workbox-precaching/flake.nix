@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-precaching?rev=103-c4d8673b03b8067d7de306dc71abdacd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/workbox-precaching?_rev=103-c4d8673b03b8067d7de306dc71abdacd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

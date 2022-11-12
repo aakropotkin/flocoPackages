@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-import-assertions?rev=10-c630d4dd49dce3fd481557496ccfc13d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-syntax-import-assertions?_rev=10-c630d4dd49dce3fd481557496ccfc13d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

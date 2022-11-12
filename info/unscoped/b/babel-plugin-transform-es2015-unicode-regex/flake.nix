@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-unicode-regex?rev=70-97703572641823981718c73d18330f32";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-transform-es2015-unicode-regex?_rev=70-97703572641823981718c73d18330f32";
   inputs.packument.flake = false;
 
   outputs = inputs: let

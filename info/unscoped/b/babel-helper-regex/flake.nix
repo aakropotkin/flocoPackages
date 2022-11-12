@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-regex?rev=87-cf8cd6b329d5ce2fe8b676489c622e08";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-helper-regex?_rev=87-cf8cd6b329d5ce2fe8b676489c622e08";
   inputs.packument.flake = false;
 
   outputs = inputs: let

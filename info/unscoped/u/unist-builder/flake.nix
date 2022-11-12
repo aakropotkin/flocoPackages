@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unist-builder?rev=18-3bbe784c33369f7a2a932d950c4c2294";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/unist-builder?_rev=18-3bbe784c33369f7a2a932d950c4c2294";
   inputs.packument.flake = false;
 
   outputs = inputs: let

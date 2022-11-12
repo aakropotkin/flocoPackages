@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/remove-trailing-separator?rev=7-37943f61e3c70157c5b0e6dcb521e3ad";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/remove-trailing-separator?_rev=7-37943f61e3c70157c5b0e6dcb521e3ad";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@rehooks/component-size?rev=5-853ff719fb4217dd5e5a55c46cd62b45";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@rehooks/component-size?_rev=5-853ff719fb4217dd5e5a55c46cd62b45";
   inputs.packument.flake = false;
 
   outputs = inputs: let

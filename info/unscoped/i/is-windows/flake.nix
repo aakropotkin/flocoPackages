@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-windows?rev=13-dd7d1a55fa30e592ef3aab7a5be059bd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-windows?_rev=13-dd7d1a55fa30e592ef3aab7a5be059bd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

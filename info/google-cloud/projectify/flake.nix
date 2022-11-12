@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@google-cloud/projectify?rev=28-01741af2858d078867d6d1aaba5138f5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@google-cloud/projectify?_rev=28-01741af2858d078867d6d1aaba5138f5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

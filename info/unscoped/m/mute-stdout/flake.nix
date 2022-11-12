@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mute-stdout?rev=12-a8d690a00ee19d1078f17f81c29ef160";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mute-stdout?_rev=12-a8d690a00ee19d1078f17f81c29ef160";
   inputs.packument.flake = false;
 
   outputs = inputs: let

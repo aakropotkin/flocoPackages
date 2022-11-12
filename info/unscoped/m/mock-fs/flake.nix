@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mock-fs?rev=150-575fef8a31ef6e977cb6d994f7ae9ad9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mock-fs?_rev=150-575fef8a31ef6e977cb6d994f7ae9ad9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

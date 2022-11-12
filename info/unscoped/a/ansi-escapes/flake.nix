@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ansi-escapes?rev=32-5702bdd0328c1d78958e65c5e328d218";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/ansi-escapes?_rev=32-5702bdd0328c1d78958e65c5e328d218";
   inputs.packument.flake = false;
 
   outputs = inputs: let

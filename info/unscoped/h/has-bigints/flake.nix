@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/has-bigints?rev=5-81c60c46549da99bd70ed3db0e4fc1e6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/has-bigints?_rev=5-81c60c46549da99bd70ed3db0e4fc1e6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-installed-globally?rev=8-4ced90ce2add9c5477b1ad1d0e9c6761";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-installed-globally?_rev=8-4ced90ce2add9c5477b1ad1d0e9c6761";
   inputs.packument.flake = false;
 
   outputs = inputs: let

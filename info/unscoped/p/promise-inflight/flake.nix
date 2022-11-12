@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/promise-inflight?rev=4-28ae9dd47aae514345e5fad190adaf44";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/promise-inflight?_rev=4-28ae9dd47aae514345e5fad190adaf44";
   inputs.packument.flake = false;
 
   outputs = inputs: let

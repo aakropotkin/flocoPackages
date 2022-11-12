@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-date-object?rev=14-17490cd930c6ac8d3390315f30f3f4f5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-date-object?_rev=14-17490cd930c6ac8d3390315f30f3f4f5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

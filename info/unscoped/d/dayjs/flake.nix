@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dayjs?rev=131-87357fa3d48d6e039728ef621f26aedb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/dayjs?_rev=131-87357fa3d48d6e039728ef621f26aedb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

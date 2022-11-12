@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cli-truncate?rev=14-1b0003ecca5b8250da0042e17adf047e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cli-truncate?_rev=14-1b0003ecca5b8250da0042e17adf047e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

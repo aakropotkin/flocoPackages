@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/restore-cursor?rev=10-eeee4a142e29943b215ec59b7e8d0149";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/restore-cursor?_rev=10-eeee4a142e29943b215ec59b7e8d0149";
   inputs.packument.flake = false;
 
   outputs = inputs: let

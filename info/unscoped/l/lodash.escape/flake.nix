@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lodash.escape?rev=41-d7077d0ab002aa5557bae908673345ab";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/lodash.escape?_rev=41-d7077d0ab002aa5557bae908673345ab";
   inputs.packument.flake = false;
 
   outputs = inputs: let

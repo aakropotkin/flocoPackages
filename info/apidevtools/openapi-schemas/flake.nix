@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/openapi-schemas?rev=9-1727f9fdb1ed8652ba7a9b3189ae2ac6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@apidevtools/openapi-schemas?_rev=9-1727f9fdb1ed8652ba7a9b3189ae2ac6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/defer-to-connect?rev=9-e1f0d81b2aa30ac80ddcb4cd5947f421";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/defer-to-connect?_rev=9-e1f0d81b2aa30ac80ddcb4cd5947f421";
   inputs.packument.flake = false;
 
   outputs = inputs: let

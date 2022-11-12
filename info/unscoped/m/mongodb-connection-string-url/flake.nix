@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mongodb-connection-string-url?rev=26-1f8e21d913162df730d74e43a89aa5aa";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mongodb-connection-string-url?_rev=26-1f8e21d913162df730d74e43a89aa5aa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

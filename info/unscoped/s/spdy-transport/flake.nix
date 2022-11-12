@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/spdy-transport?rev=59-d95fd6d41c65abcfef62f5c57b25c5a4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/spdy-transport?_rev=59-d95fd6d41c65abcfef62f5c57b25c5a4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

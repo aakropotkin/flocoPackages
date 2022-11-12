@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/docker-modem?rev=97-fcba5a82b506005d26840e6c099e2d22";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/docker-modem?_rev=97-fcba5a82b506005d26840e6c099e2d22";
   inputs.packument.flake = false;
 
   outputs = inputs: let

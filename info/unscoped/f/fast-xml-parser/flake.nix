@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fast-xml-parser?rev=121-20b4105a63c4042228d633a0f3a8365f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fast-xml-parser?_rev=121-20b4105a63c4042228d633a0f3a8365f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

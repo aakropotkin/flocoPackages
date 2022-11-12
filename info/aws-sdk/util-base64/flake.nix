@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-base64";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/util-base64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decompress-targz?rev=33-afecf01706e50d3d5f8be37a9b034fd4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/decompress-targz?_rev=33-afecf01706e50d3d5f8be37a9b034fd4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

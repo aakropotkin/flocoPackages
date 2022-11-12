@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gl-matrix?rev=57-8d3f714ee5c3616f0a6654f19a5fcbe9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gl-matrix?_rev=57-8d3f714ee5c3616f0a6654f19a5fcbe9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

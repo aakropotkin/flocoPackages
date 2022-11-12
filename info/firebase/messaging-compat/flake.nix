@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/messaging-compat?rev=506-6708e88304da695bbff0b7324740c4f3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase/messaging-compat?_rev=506-6708e88304da695bbff0b7324740c4f3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

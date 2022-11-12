@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-color-rgba-fallback?rev=19-992fce435c6abf4c4f2406d3855221b5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-color-rgba-fallback?_rev=19-992fce435c6abf4c4f2406d3855221b5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

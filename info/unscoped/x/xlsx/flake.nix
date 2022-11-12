@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xlsx?rev=511-af39b073e6b3220ee6d5cdaf53a8553e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/xlsx?_rev=511-af39b073e6b3220ee6d5cdaf53a8553e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

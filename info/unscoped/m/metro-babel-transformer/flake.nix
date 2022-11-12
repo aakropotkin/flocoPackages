@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-babel-transformer?rev=49-d1b98d74baf4b793063328bf635b6176";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/metro-babel-transformer?_rev=49-d1b98d74baf4b793063328bf635b6176";
   inputs.packument.flake = false;
 
   outputs = inputs: let

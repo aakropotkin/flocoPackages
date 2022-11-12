@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bluebird?rev=1130-abfb2550f32460c1c69aa4a2ececf966";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/bluebird?_rev=1130-abfb2550f32460c1c69aa4a2ececf966";
   inputs.packument.flake = false;
 
   outputs = inputs: let

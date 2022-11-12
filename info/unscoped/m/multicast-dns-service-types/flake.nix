@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/multicast-dns-service-types?rev=6-aad8958db575697d34f3f03c5eb3cc6b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/multicast-dns-service-types?_rev=6-aad8958db575697d34f3f03c5eb3cc6b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

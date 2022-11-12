@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/use-sync-external-store?rev=44-29b6134a4cd7f594137400c13e7f44e3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/use-sync-external-store?_rev=44-29b6134a4cd7f594137400c13e7f44e3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

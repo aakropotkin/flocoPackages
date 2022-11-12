@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/minipass-fetch?rev=31-d203176acb1df789264ee89438709dbe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/minipass-fetch?_rev=31-d203176acb1df789264ee89438709dbe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

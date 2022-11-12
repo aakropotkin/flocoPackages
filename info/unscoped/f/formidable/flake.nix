@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/formidable?rev=520-09349f8e77797fc1e1fab63c23d3efc5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/formidable?_rev=520-09349f8e77797fc1e1fab63c23d3efc5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

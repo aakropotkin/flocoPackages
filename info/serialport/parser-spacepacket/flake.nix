@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-spacepacket?rev=10-a36331f290835ad70ee7a8bf7837d32b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport/parser-spacepacket?_rev=10-a36331f290835ad70ee7a8bf7837d32b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

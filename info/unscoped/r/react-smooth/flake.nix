@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-smooth?rev=57-085579e9b63d50c728f5a89e10b788f0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-smooth?_rev=57-085579e9b63d50c728f5a89e10b788f0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

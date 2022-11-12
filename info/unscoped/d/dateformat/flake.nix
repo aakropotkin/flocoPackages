@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dateformat?rev=184-7d9ebd35f24870341f409151cb1ef50a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/dateformat?_rev=184-7d9ebd35f24870341f409151cb1ef50a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

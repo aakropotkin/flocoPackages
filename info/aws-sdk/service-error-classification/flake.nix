@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/service-error-classification?rev=104-b6b37f3bf12200aac8938cc479bfed48";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/service-error-classification?_rev=104-b6b37f3bf12200aac8938cc479bfed48";
   inputs.packument.flake = false;
 
   outputs = inputs: let

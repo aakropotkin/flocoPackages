@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hard-rejection?rev=7-9f3f68ac34604e1ae058f950437cf0ba";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/hard-rejection?_rev=7-9f3f68ac34604e1ae058f950437cf0ba";
   inputs.packument.flake = false;
 
   outputs = inputs: let

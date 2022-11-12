@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/croner?rev=150-116382ae482a6d35289c4f9b1da10c98";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/croner?_rev=150-116382ae482a6d35289c4f9b1da10c98";
   inputs.packument.flake = false;
 
   outputs = inputs: let

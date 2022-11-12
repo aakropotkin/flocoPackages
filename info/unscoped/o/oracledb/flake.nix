@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/oracledb?rev=113-07db92eaa73609220c4a091e6773c023";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/oracledb?_rev=113-07db92eaa73609220c4a091e6773c023";
   inputs.packument.flake = false;
 
   outputs = inputs: let

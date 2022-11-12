@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/msal-node?rev=50-87dc35b0866cb34c626e338d1d1bdd8f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure/msal-node?_rev=50-87dc35b0866cb34c626e338d1d1bdd8f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/beeper?rev=29-2e3e3bc999277d4e84a8048798da2dfe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/beeper?_rev=29-2e3e3bc999277d4e84a8048798da2dfe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

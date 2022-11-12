@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/queue-microtask?rev=11-812d80a7f1154bac10a622fd0adef4e3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/queue-microtask?_rev=11-812d80a7f1154bac10a622fd0adef4e3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

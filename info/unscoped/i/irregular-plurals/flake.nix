@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/irregular-plurals?rev=15-7b30b67c71a959e7e31dd98e8f020991";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/irregular-plurals?_rev=15-7b30b67c71a959e7e31dd98e8f020991";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-conflict-json?rev=10-ba35c58806b7de5be5028da3fba16245";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/parse-conflict-json?_rev=10-ba35c58806b7de5be5028da3fba16245";
   inputs.packument.flake = false;
 
   outputs = inputs: let

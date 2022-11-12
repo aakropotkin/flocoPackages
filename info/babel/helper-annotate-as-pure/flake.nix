@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-annotate-as-pure?rev=89-eedb9ff3bb7d0c4d4eabd1955038b3fa";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-annotate-as-pure?_rev=89-eedb9ff3bb7d0c4d4eabd1955038b3fa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

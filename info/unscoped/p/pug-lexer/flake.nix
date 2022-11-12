@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pug-lexer?rev=41-9457f93f92191c92e6d60a386a07b79a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/pug-lexer?_rev=41-9457f93f92191c92e6d60a386a07b79a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

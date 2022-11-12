@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/has-property-descriptors";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/has-property-descriptors";
   inputs.packument.flake = false;
 
   outputs = inputs: let

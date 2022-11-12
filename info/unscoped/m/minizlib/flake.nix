@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/minizlib?rev=47-964c95ee4734dfd52500447144447981";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/minizlib?_rev=47-964c95ee4734dfd52500447144447981";
   inputs.packument.flake = false;
 
   outputs = inputs: let

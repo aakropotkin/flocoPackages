@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-resolve-dependencies?rev=299-9234b74446f78947d47ac8c69aa6c5ad";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jest-resolve-dependencies?_rev=299-9234b74446f78947d47ac8c69aa6c5ad";
   inputs.packument.flake = false;
 
   outputs = inputs: let

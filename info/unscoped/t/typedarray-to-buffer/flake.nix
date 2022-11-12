@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/typedarray-to-buffer?rev=33-d686f62d034d10fba2a1683975038769";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/typedarray-to-buffer?_rev=33-d686f62d034d10fba2a1683975038769";
   inputs.packument.flake = false;
 
   outputs = inputs: let

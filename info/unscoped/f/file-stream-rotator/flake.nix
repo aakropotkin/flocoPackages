@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/file-stream-rotator?rev=71-9734f46d5d63246a332377a214c7689e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/file-stream-rotator?_rev=71-9734f46d5d63246a332377a214c7689e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cross-spawn?rev=145-433af37229f25378441b30ef147cf168";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cross-spawn?_rev=145-433af37229f25378441b30ef147cf168";
   inputs.packument.flake = false;
 
   outputs = inputs: let

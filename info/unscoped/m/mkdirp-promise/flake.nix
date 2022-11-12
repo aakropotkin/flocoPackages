@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mkdirp-promise?rev=26-b66ba36f07f6f7920d3fb0811b3313a3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mkdirp-promise?_rev=26-b66ba36f07f6f7920d3fb0811b3313a3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/natural-compare?rev=5-8c516a69af0c31f66e2f5779d606a044";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/natural-compare?_rev=5-8c516a69af0c31f66e2f5779d606a044";
   inputs.packument.flake = false;
 
   outputs = inputs: let

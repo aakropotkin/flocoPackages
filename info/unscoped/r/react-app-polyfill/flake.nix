@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-app-polyfill?rev=45-94a5e31b37a363286b12c1aad0c40ae2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-app-polyfill?_rev=45-94a5e31b37a363286b12c1aad0c40ae2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

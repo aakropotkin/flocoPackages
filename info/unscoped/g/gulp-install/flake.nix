@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-install?rev=66-434ac016607c05cf546571dd8ab2c26a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gulp-install?_rev=66-434ac016607c05cf546571dd8ab2c26a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

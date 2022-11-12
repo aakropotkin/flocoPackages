@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@opentelemetry/sdk-trace-base?rev=34-41ad354679cd7126f3320d9791e015ef";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry/sdk-trace-base?_rev=34-41ad354679cd7126f3320d9791e015ef";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/clipboardy?rev=39-0f95c93e8e8daeace4cc22fabd20152d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/clipboardy?_rev=39-0f95c93e8e8daeace4cc22fabd20152d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

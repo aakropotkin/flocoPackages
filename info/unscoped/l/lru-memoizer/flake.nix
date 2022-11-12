@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lru-memoizer?rev=30-0819ca64962678895473986a6827c2f5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/lru-memoizer?_rev=30-0819ca64962678895473986a6827c2f5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metalsmith?rev=145-9c04b2c060d45237fa8945153cc6c204";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/metalsmith?_rev=145-9c04b2c060d45237fa8945153cc6c204";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-class-constructor-call?rev=49-04ba0fb7bf2d91e50fcf0b9c03a5016a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-syntax-class-constructor-call?_rev=49-04ba0fb7bf2d91e50fcf0b9c03a5016a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

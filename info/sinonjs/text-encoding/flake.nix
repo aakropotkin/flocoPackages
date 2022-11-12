@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@sinonjs/text-encoding?rev=5-3aba1f0721d4412bd225605481527779";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sinonjs/text-encoding?_rev=5-3aba1f0721d4412bd225605481527779";
   inputs.packument.flake = false;
 
   outputs = inputs: let

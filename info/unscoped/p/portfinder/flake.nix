@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/portfinder?rev=68-a0c587e44ee6a6859a60be066022e8c9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/portfinder?_rev=68-a0c587e44ee6a6859a60be066022e8c9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

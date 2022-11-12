@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/remove-bom-buffer?rev=3-a0569ea8ce6a60a400551c19d3d00589";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/remove-bom-buffer?_rev=3-a0569ea8ce6a60a400551c19d3d00589";
   inputs.packument.flake = false;
 
   outputs = inputs: let

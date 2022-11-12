@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@graphql-tools/merge?rev=966-5be61a46aa7ef323d4b4d53208570d9e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@graphql-tools/merge?_rev=966-5be61a46aa7ef323d4b4d53208570d9e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/reduce-reducers?rev=22-109f712d85af88911257975d1acda467";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/reduce-reducers?_rev=22-109f712d85af88911257975d1acda467";
   inputs.packument.flake = false;
 
   outputs = inputs: let

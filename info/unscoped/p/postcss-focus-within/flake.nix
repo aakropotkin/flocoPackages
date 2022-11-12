@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-focus-within?rev=14-aaf68474ffa309133e3cee7a38a54184";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-focus-within?_rev=14-aaf68474ffa309133e3cee7a38a54184";
   inputs.packument.flake = false;
 
   outputs = inputs: let

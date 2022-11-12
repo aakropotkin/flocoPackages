@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decamelize-keys?rev=10-d2b7337a38f271284db7bce5f23ebdcc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/decamelize-keys?_rev=10-d2b7337a38f271284db7bce5f23ebdcc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

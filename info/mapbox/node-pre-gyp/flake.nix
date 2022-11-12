@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@mapbox/node-pre-gyp?rev=17-6219030b808a4256828edd79e295e02c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@mapbox/node-pre-gyp?_rev=17-6219030b808a4256828edd79e295e02c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

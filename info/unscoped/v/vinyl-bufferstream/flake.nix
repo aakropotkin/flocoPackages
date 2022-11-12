@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vinyl-bufferstream?rev=11-be504a183606f6cc48628dbd6de3a0ce";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/vinyl-bufferstream?_rev=11-be504a183606f6cc48628dbd6de3a0ce";
   inputs.packument.flake = false;
 
   outputs = inputs: let

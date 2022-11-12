@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-unicode-property-regex?rev=85-5eb29722cde750f16c00ddee0d1110dc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-unicode-property-regex?_rev=85-5eb29722cde750f16c00ddee0d1110dc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

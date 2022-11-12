@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-minify-params?rev=57-a2920cad535c7e698e1a5c33a2f57ebd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-minify-params?_rev=57-a2920cad535c7e698e1a5c33a2f57ebd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

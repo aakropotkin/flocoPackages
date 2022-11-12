@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/firestore-compat?rev=516-a884c859938d774ba31e3acab0d0792e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase/firestore-compat?_rev=516-a884c859938d774ba31e3acab0d0792e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

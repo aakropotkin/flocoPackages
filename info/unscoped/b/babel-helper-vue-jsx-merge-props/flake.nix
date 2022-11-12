@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-vue-jsx-merge-props?rev=9-975780240b282cff6db9daf3c4592bfe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-helper-vue-jsx-merge-props?_rev=9-975780240b282cff6db9daf3c4592bfe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

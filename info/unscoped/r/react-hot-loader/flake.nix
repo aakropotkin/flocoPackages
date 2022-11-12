@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-hot-loader?rev=321-85dbd179f551b55cd69538f3cf5a5dfc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-hot-loader?_rev=321-85dbd179f551b55cd69538f3cf5a5dfc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

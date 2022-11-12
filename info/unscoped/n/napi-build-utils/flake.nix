@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/napi-build-utils?rev=3-f0d72deeb2aca6ffef033960f2bcff52";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/napi-build-utils?_rev=3-f0d72deeb2aca6ffef033960f2bcff52";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-wsl?rev=8-c5a5b6aaa5f767f01a3783884fa78552";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-wsl?_rev=8-c5a5b6aaa5f767f01a3783884fa78552";
   inputs.packument.flake = false;
 
   outputs = inputs: let

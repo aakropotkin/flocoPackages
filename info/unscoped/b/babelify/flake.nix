@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babelify?rev=126-5827b7bee7822e6eef2fcba7f71d3697";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babelify?_rev=126-5827b7bee7822e6eef2fcba7f71d3697";
   inputs.packument.flake = false;
 
   outputs = inputs: let

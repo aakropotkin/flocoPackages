@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/copy-webpack-plugin?rev=141-58cde1346041bb2eef0e1832d4c39559";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/copy-webpack-plugin?_rev=141-58cde1346041bb2eef0e1832d4c39559";
   inputs.packument.flake = false;
 
   outputs = inputs: let

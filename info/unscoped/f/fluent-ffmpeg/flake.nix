@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fluent-ffmpeg?rev=200-c4579e8a7519b7e52af1bc1e70a14261";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fluent-ffmpeg?_rev=200-c4579e8a7519b7e52af1bc1e70a14261";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/posix-character-classes?rev=5-c4279174d1ca61ec4eb437cd444d0434";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/posix-character-classes?_rev=5-c4279174d1ca61ec4eb437cd444d0434";
   inputs.packument.flake = false;
 
   outputs = inputs: let

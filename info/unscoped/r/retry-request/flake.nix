@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/retry-request?rev=44-1a4b93b43ebce2371275a42b7585958a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/retry-request?_rev=44-1a4b93b43ebce2371275a42b7585958a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

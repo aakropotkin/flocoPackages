@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/d3-regression?rev=37-a56c4c42187b199ebf2366618defce22";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/d3-regression?_rev=37-a56c4c42187b199ebf2366618defce22";
   inputs.packument.flake = false;
 
   outputs = inputs: let

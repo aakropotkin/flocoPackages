@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/recharts-scale?rev=29-04ad5ae57339c0182c4ad627db80cb8b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/recharts-scale?_rev=29-04ad5ae57339c0182c4ad627db80cb8b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/grunt-contrib-concat?rev=203-ead6fb19d54f0cabe93cff4299af68f6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/grunt-contrib-concat?_rev=203-ead6fb19d54f0cabe93cff4299af68f6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

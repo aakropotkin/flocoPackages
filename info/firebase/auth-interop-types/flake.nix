@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/auth-interop-types?rev=1628-671ce4696d28a9bca196220eb710a4d1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase/auth-interop-types?_rev=1628-671ce4696d28a9bca196220eb710a4d1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

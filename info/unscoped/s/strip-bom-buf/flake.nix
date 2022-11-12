@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strip-bom-buf?rev=7-dd76e7bd872f2132e39e7d2457efcff4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/strip-bom-buf?_rev=7-dd76e7bd872f2132e39e7d2457efcff4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

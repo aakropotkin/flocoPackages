@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jsonc-parser?rev=145-1cc9f0650ab5d8f88f41dffd917cd37d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jsonc-parser?_rev=145-1cc9f0650ab5d8f88f41dffd917cd37d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

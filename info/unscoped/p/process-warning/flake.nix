@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/process-warning?rev=2-c48b2431f6d6a3cf0b044d5dc92caea3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/process-warning?_rev=2-c48b2431f6d6a3cf0b044d5dc92caea3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

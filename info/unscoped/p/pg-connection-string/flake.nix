@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pg-connection-string?rev=27-a648c619bb005f32599ca02c20bca11b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/pg-connection-string?_rev=27-a648c619bb005f32599ca02c20bca11b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/console-browserify?rev=38-fe60d5b9138373641fc397d547351e43";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/console-browserify?_rev=38-fe60d5b9138373641fc397d547351e43";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/treeverse?rev=31-3c2f894a515dfbdbaa5c3e7538039fa5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/treeverse?_rev=31-3c2f894a515dfbdbaa5c3e7538039fa5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

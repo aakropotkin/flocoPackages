@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@apollo/react-hooks?rev=45-dc34ebbfa06e562bdd61d89e288e45af";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@apollo/react-hooks?_rev=45-dc34ebbfa06e562bdd61d89e288e45af";
   inputs.packument.flake = false;
 
   outputs = inputs: let

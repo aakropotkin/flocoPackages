@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/watchify?rev=322-caf729d02caf426089cd0174c8fd3e2f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/watchify?_rev=322-caf729d02caf426089cd0174c8fd3e2f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xhr-request-promise?rev=6-0224b43fc3f4b314c201ecebd14a0fc2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/xhr-request-promise?_rev=6-0224b43fc3f4b314c201ecebd14a0fc2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

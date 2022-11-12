@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/contour_plot?rev=3-38cf01b3dc54dc65ecddcff7fa80bef7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/contour_plot?_rev=3-38cf01b3dc54dc65ecddcff7fa80bef7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

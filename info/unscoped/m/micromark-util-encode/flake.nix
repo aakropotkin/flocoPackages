@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark-util-encode?rev=6-679a7d50c4e959595d851a470801f9ec";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/micromark-util-encode?_rev=6-679a7d50c4e959595d851a470801f9ec";
   inputs.packument.flake = false;
 
   outputs = inputs: let

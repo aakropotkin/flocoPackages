@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cacheable-lookup?rev=37-e39b75573d62e69239303fa464efd49b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cacheable-lookup?_rev=37-e39b75573d62e69239303fa464efd49b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

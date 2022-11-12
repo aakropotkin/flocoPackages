@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/union-value?rev=16-95fa8ae8ae891288378aab1739b23ed6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/union-value?_rev=16-95fa8ae8ae891288378aab1739b23ed6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

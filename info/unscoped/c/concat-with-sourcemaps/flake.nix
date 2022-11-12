@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/concat-with-sourcemaps?rev=33-1a6f7689df1f7dd45ffe38cef1572318";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/concat-with-sourcemaps?_rev=33-1a6f7689df1f7dd45ffe38cef1572318";
   inputs.packument.flake = false;
 
   outputs = inputs: let

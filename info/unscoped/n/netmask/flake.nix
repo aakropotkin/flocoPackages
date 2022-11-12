@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/netmask?rev=29-309a2e9089f9d0705c114fa04f08e3e2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/netmask?_rev=29-309a2e9089f9d0705c114fa04f08e3e2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

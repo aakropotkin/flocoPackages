@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/password-prompt?rev=15-398e1040656ac73bc952e80a63e01f72";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/password-prompt?_rev=15-398e1040656ac73bc952e80a63e01f72";
   inputs.packument.flake = false;
 
   outputs = inputs: let

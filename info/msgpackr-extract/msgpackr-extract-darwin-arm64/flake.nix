@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-darwin-arm64?rev=4-57433681263742365d8d9e2869b9a6ef";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@msgpackr-extract/msgpackr-extract-darwin-arm64?_rev=4-57433681263742365d8d9e2869b9a6ef";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-safe-parser?rev=25-74f1efbd17513ebad88a539899a7f978";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-safe-parser?_rev=25-74f1efbd17513ebad88a539899a7f978";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/caniuse-api?rev=38-1d13e304f3dfd0bfbbb2e81e2d84b1cd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/caniuse-api?_rev=38-1d13e304f3dfd0bfbbb2e81e2d84b1cd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-canvas-renderer?rev=157-e7899531d17d48510f02342de698e37d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/g-plugin-canvas-renderer?_rev=157-e7899531d17d48510f02342de698e37d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

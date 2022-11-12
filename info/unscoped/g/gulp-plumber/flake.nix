@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-plumber?rev=319-c04e9477cfedc2fe5820e005c83913ed";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gulp-plumber?_rev=319-c04e9477cfedc2fe5820e005c83913ed";
   inputs.packument.flake = false;
 
   outputs = inputs: let

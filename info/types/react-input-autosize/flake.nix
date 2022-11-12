@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/react-input-autosize?rev=368-f77335f18425f4bb610c92184129cd72";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/react-input-autosize?_rev=368-f77335f18425f4bb610c92184129cd72";
   inputs.packument.flake = false;
 
   outputs = inputs: let

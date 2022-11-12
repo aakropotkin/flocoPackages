@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/intl-unified-numberformat?rev=45-f1d652bcd56c835ca70ea2020b8594fa";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@formatjs/intl-unified-numberformat?_rev=45-f1d652bcd56c835ca70ea2020b8594fa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark-factory-whitespace?rev=5-e0699ad5be4575dbddb2c59c1a284829";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/micromark-factory-whitespace?_rev=5-e0699ad5be4575dbddb2c59c1a284829";
   inputs.packument.flake = false;
 
   outputs = inputs: let

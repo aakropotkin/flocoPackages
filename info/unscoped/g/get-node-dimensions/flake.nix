@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/get-node-dimensions?rev=12-a533b4e9cc889a1ca086090d7fa01092";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/get-node-dimensions?_rev=12-a533b4e9cc889a1ca086090d7fa01092";
   inputs.packument.flake = false;
 
   outputs = inputs: let

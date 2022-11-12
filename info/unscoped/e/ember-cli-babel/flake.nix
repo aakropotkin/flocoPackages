@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ember-cli-babel?rev=183-8b3a605817cb0a5d7626acadadff3c06";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/ember-cli-babel?_rev=183-8b3a605817cb0a5d7626acadadff3c06";
   inputs.packument.flake = false;
 
   outputs = inputs: let

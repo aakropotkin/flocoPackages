@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fastest-levenshtein?rev=17-06fb60def3bd14efea8e34a793a86f5f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fastest-levenshtein?_rev=17-06fb60def3bd14efea8e34a793a86f5f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

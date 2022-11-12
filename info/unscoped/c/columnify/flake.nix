@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/columnify?rev=72-c8441cf8e17952a203e8e14e9183a13d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/columnify?_rev=72-c8441cf8e17952a203e8e14e9183a13d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

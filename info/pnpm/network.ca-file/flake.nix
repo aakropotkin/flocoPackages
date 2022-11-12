@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@pnpm/network.ca-file";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@pnpm/network.ca-file";
   inputs.packument.flake = false;
 
   outputs = inputs: let

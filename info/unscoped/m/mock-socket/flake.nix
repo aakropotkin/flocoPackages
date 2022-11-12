@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mock-socket?rev=83-61750a05a2eaed2ac27fbf6774a57a01";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mock-socket?_rev=83-61750a05a2eaed2ac27fbf6774a57a01";
   inputs.packument.flake = false;
 
   outputs = inputs: let

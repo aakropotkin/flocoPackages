@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/imagemin-svgo?rev=212-e39a80c816e0547b41f8e407171c2aa8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/imagemin-svgo?_rev=212-e39a80c816e0547b41f8e407171c2aa8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

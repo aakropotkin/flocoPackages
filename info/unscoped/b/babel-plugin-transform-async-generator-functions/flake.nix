@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-async-generator-functions?rev=69-f9bc212d00dc9a5614afbf837562f40d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-transform-async-generator-functions?_rev=69-f9bc212d00dc9a5614afbf837562f40d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/typescript-tuple?rev=39-bb600b5cf83d8fab0acb353e48eb5fc0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/typescript-tuple?_rev=39-bb600b5cf83d8fab0acb353e48eb5fc0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

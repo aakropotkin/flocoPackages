@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/whatwg-encoding?rev=11-2be376c3741b34f8effa02bbd66d84e1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/whatwg-encoding?_rev=11-2be376c3741b34f8effa02bbd66d84e1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

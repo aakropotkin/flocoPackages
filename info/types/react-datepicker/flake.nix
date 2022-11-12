@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/react-datepicker?rev=993-7e67c9231f822e61c8607450cf999883";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/react-datepicker?_rev=993-7e67c9231f822e61c8607450cf999883";
   inputs.packument.flake = false;
 
   outputs = inputs: let

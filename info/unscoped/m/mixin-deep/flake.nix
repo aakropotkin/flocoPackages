@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mixin-deep?rev=22-82bf1c6fb7f7baca8a1f313c4046905d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mixin-deep?_rev=22-82bf1c6fb7f7baca8a1f313c4046905d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

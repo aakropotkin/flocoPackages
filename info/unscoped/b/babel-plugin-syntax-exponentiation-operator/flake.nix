@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-exponentiation-operator?rev=62-afee490332a07c7bb1f5541109f5d2e3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-syntax-exponentiation-operator?_rev=62-afee490332a07c7bb1f5541109f5d2e3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

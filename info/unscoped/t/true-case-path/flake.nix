@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/true-case-path?rev=12-3ea627e62545f34b7eef9f379d53cab7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/true-case-path?_rev=12-3ea627e62545f34b7eef9f379d53cab7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

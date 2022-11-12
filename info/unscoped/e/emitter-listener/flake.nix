@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/emitter-listener?rev=11-4005e351691e8c53694432810d6e6ca7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/emitter-listener?_rev=11-4005e351691e8c53694432810d6e6ca7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

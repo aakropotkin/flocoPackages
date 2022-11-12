@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/redux-dynamic-modules-react?rev=82-162a409abb8e8e141a8523ee9275787d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/redux-dynamic-modules-react?_rev=82-162a409abb8e8e141a8523ee9275787d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

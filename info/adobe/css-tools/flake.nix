@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@adobe/css-tools?rev=4-58adb1ed946a811d9218785db02f5fe5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@adobe/css-tools?_rev=4-58adb1ed946a811d9218785db02f5fe5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

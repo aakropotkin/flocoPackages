@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/quickjs-emscripten?rev=30-07514df0bbb4b05361698f67edd61c8c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/quickjs-emscripten?_rev=30-07514df0bbb4b05361698f67edd61c8c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

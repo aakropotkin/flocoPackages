@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/puppeteer-core?rev=180-3be38ef77942ef112154b18fe4f26d69";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/puppeteer-core?_rev=180-3be38ef77942ef112154b18fe4f26d69";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-s390x?rev=62-110b0f7ad37f4989991d41f4e4f909ce";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/esbuild-linux-s390x?_rev=62-110b0f7ad37f4989991d41f4e4f909ce";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/duplexer?rev=47-3b1775b9eca0ed0ff8ce4eb52bd1b2e4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/duplexer?_rev=47-3b1775b9eca0ed0ff8ce4eb52bd1b2e4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

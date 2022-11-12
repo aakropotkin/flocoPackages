@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/async-retry?rev=351-e75355bcb065725ed5f8d01328845b5f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/async-retry?_rev=351-e75355bcb065725ed5f8d01328845b5f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

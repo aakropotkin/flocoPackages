@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/imurmurhash?rev=19-77c2232a90990af128696907d510ccba";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/imurmurhash?_rev=19-77c2232a90990af128696907d510ccba";
   inputs.packument.flake = false;
 
   outputs = inputs: let

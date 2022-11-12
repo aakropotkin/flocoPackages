@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-checkbox?rev=53-37d3053acf08af7252e7ec8eb5ec6bb8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/rc-checkbox?_rev=53-37d3053acf08af7252e7ec8eb5ec6bb8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

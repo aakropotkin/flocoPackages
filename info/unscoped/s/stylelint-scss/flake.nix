@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stylelint-scss?rev=100-f20678a2a937f8292efe88b716fa353c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/stylelint-scss?_rev=100-f20678a2a937f8292efe88b716fa353c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

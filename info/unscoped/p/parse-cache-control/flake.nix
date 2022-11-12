@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-cache-control?rev=6-0c132e8772202f8eb47f42151f79f673";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/parse-cache-control?_rev=6-0c132e8772202f8eb47f42151f79f673";
   inputs.packument.flake = false;
 
   outputs = inputs: let

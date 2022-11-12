@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/connect-history-api-fallback?rev=541-2913e8b995ebbe8c3561d15e36f54d10";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/connect-history-api-fallback?_rev=541-2913e8b995ebbe8c3561d15e36f54d10";
   inputs.packument.flake = false;
 
   outputs = inputs: let

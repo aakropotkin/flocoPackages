@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/teex?rev=2-d003c7794773f96a792acbf3e4fc276d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/teex?_rev=2-d003c7794773f96a792acbf3e4fc276d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

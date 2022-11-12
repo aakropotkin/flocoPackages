@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-async-functions?rev=68-f9f02e783f69fd39b79cebe0ca6123f9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-syntax-async-functions?_rev=68-f9f02e783f69fd39b79cebe0ca6123f9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

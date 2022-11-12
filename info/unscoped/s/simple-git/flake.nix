@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/simple-git?rev=337-645c2e58cc3a5a05d53e079ed62a8e39";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/simple-git?_rev=337-645c2e58cc3a5a05d53e079ed62a8e39";
   inputs.packument.flake = false;
 
   outputs = inputs: let

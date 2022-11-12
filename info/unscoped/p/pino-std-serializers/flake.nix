@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pino-std-serializers?rev=31-80cb7c4eba386ef1013ed0269dcd20f8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/pino-std-serializers?_rev=31-80cb7c4eba386ef1013ed0269dcd20f8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

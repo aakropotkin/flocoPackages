@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/formdata-polyfill?rev=51-971e2ae361d46445d7b7f796edfb2adf";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/formdata-polyfill?_rev=51-971e2ae361d46445d7b7f796edfb2adf";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-lambda?rev=4-ad739fba71f99829f2cc965076762da8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-lambda?_rev=4-ad739fba71f99829f2cc965076762da8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

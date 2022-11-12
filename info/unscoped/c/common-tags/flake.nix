@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/common-tags?rev=68-f4dffd92a5825cb369032b9630c1eb3a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/common-tags?_rev=68-f4dffd92a5825cb369032b9630c1eb3a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/foreground-child?rev=32-5ac59222fb0dc717b7bec458e62bfd1b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/foreground-child?_rev=32-5ac59222fb0dc717b7bec458e62bfd1b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

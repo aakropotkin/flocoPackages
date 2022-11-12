@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fs-constants?rev=1-19ed7e4ced0558104b3664b86391dc04";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fs-constants?_rev=1-19ed7e4ced0558104b3664b86391dc04";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-normalize-repeat-style?rev=39-b0bb85ee3c8a46bd99db667d657a4c87";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-normalize-repeat-style?_rev=39-b0bb85ee3c8a46bd99db667d657a4c87";
   inputs.packument.flake = false;
 
   outputs = inputs: let

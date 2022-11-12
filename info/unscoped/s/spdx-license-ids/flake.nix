@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/spdx-license-ids?rev=30-e9679dc6d335c6e77e3be68697ca7e2a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/spdx-license-ids?_rev=30-e9679dc6d335c6e77e3be68697ca7e2a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

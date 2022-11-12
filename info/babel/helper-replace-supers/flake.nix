@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-replace-supers?rev=104-1a3584f8d4d878e5e95eac00773d8517";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-replace-supers?_rev=104-1a3584f8d4d878e5e95eac00773d8517";
   inputs.packument.flake = false;
 
   outputs = inputs: let

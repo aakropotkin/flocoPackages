@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-dir-pseudo-class?rev=17-c2042f2d7851143907ed1c7389e0f52d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-dir-pseudo-class?_rev=17-c2042f2d7851143907ed1c7389e0f52d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

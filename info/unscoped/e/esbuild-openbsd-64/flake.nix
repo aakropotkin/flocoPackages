@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-openbsd-64?rev=122-863b3f79c0bc5f43cafb9fa406f0e610";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/esbuild-openbsd-64?_rev=122-863b3f79c0bc5f43cafb9fa406f0e610";
   inputs.packument.flake = false;
 
   outputs = inputs: let

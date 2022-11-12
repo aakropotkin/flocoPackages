@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/trim-right?rev=8-1c02c94406195ae518e32e5915224c63";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/trim-right?_rev=8-1c02c94406195ae518e32e5915224c63";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/elegant-spinner?rev=11-ccab46cce7fabf8c5710d8fe6c081f1e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/elegant-spinner?_rev=11-ccab46cce7fabf8c5710d8fe6c081f1e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

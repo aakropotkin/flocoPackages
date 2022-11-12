@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cookiejar?rev=55-9a39b5184bda52e63c2da721bde52d8c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cookiejar?_rev=55-9a39b5184bda52e63c2da721bde52d8c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

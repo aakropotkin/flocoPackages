@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-invert?rev=129-569d2647b3c60a9975721baaf31718f7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-invert?_rev=129-569d2647b3c60a9975721baaf31718f7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

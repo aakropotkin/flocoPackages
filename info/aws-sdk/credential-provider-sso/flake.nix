@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/credential-provider-sso?rev=118-05f892c029f7189ca74d2bcb484b2532";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/credential-provider-sso?_rev=118-05f892c029f7189ca74d2bcb484b2532";
   inputs.packument.flake = false;
 
   outputs = inputs: let

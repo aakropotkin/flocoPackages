@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/matrix-util?rev=89-b58e447f18586b934b9a5ec99b93ba06";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/matrix-util?_rev=89-b58e447f18586b934b9a5ec99b93ba06";
   inputs.packument.flake = false;
 
   outputs = inputs: let

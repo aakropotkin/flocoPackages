@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-strict-mode?rev=85-e3cc05a0aefd69cd7a0ced73853370e3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-transform-strict-mode?_rev=85-e3cc05a0aefd69cd7a0ced73853370e3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

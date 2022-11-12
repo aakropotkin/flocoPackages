@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/y-codemirror?rev=21-b1133f90f715640c975c4439aeafd5bf";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/y-codemirror?_rev=21-b1133f90f715640c975c4439aeafd5bf";
   inputs.packument.flake = false;
 
   outputs = inputs: let

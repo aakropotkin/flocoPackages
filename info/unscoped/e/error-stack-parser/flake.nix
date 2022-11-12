@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/error-stack-parser?rev=69-bb84dd7a6c73718d0e733ba7434007a3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/error-stack-parser?_rev=69-bb84dd7a6c73718d0e733ba7434007a3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

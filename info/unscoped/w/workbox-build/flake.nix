@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-build?rev=111-f6f0850ce810973fb2c77511af73c793";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/workbox-build?_rev=111-f6f0850ce810973fb2c77511af73c793";
   inputs.packument.flake = false;
 
   outputs = inputs: let

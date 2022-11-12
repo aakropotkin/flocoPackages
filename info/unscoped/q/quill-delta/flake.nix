@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/quill-delta?rev=24-40b8b2236e154701db174fb696e04736";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/quill-delta?_rev=24-40b8b2236e154701db174fb696e04736";
   inputs.packument.flake = false;
 
   outputs = inputs: let

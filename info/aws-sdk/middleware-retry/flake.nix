@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-retry?rev=125-2c182dff9e1dd263055b73e426608678";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/middleware-retry?_rev=125-2c182dff9e1dd263055b73e426608678";
   inputs.packument.flake = false;
 
   outputs = inputs: let

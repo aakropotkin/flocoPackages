@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/deep-eql?rev=34-ce3315b35d8c3a003121ae3d830cc552";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/deep-eql?_rev=34-ce3315b35d8c3a003121ae3d830cc552";
   inputs.packument.flake = false;
 
   outputs = inputs: let

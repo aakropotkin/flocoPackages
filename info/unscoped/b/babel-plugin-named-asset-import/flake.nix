@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-named-asset-import?rev=48-edf451e8f993aa490a1225bccdcb7905";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-named-asset-import?_rev=48-edf451e8f993aa490a1225bccdcb7905";
   inputs.packument.flake = false;
 
   outputs = inputs: let

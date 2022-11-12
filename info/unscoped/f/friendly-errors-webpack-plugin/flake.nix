@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/friendly-errors-webpack-plugin?rev=44-44232b151ae8f3569b58f959cce2680f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/friendly-errors-webpack-plugin?_rev=44-44232b151ae8f3569b58f959cce2680f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

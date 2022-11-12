@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sw-precache-webpack-plugin?rev=61-9dc55265213066ef6119666d96d1c14b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/sw-precache-webpack-plugin?_rev=61-9dc55265213066ef6119666d96d1c14b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

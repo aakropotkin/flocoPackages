@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/touch?rev=38-64a8e3663bd51fd039d9062fb33c0590";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/touch?_rev=38-64a8e3663bd51fd039d9062fb33c0590";
   inputs.packument.flake = false;
 
   outputs = inputs: let

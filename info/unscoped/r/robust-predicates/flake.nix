@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/robust-predicates?rev=10-b507564077a6a7a680810478b31d867e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/robust-predicates?_rev=10-b507564077a6a7a680810478b31d867e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

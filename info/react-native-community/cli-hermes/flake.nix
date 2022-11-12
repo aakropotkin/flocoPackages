@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@react-native-community/cli-hermes?rev=48-7efd5e498162a0616f07b6b03ed4c6e5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-native-community/cli-hermes?_rev=48-7efd5e498162a0616f07b6b03ed4c6e5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

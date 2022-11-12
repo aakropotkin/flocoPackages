@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-uglify?rev=742-4c3698045a00ec965635787707e96d22";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gulp-uglify?_rev=742-4c3698045a00ec965635787707e96d22";
   inputs.packument.flake = false;
 
   outputs = inputs: let

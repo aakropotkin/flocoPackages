@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fs-readdir-recursive?rev=27-d2a6ef5752a0b59782714e77ea6e0713";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fs-readdir-recursive?_rev=27-d2a6ef5752a0b59782714e77ea6e0713";
   inputs.packument.flake = false;
 
   outputs = inputs: let

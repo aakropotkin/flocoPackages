@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-serializer?rev=82-0454c480f5837f0c24351b34cad48294";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jest-serializer?_rev=82-0454c480f5837f0c24351b34cad48294";
   inputs.packument.flake = false;
 
   outputs = inputs: let

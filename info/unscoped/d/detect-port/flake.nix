@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/detect-port?rev=44-6997f0cb77cca35a8b67e78982f9ccd7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/detect-port?_rev=44-6997f0cb77cca35a8b67e78982f9ccd7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@material-ui/utils?rev=64-48b13edff9186c403b6b8b3cb4ab5300";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@material-ui/utils?_rev=64-48b13edff9186c403b6b8b3cb4ab5300";
   inputs.packument.flake = false;
 
   outputs = inputs: let

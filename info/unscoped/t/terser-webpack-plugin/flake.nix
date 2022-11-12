@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/terser-webpack-plugin?rev=76-830409008befabcafdff5dfeb62a4739";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/terser-webpack-plugin?_rev=76-830409008befabcafdff5dfeb62a4739";
   inputs.packument.flake = false;
 
   outputs = inputs: let

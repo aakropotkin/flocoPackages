@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/colorspace?rev=11-d1b71ff8229f95668739f467512caa13";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/colorspace?_rev=11-d1b71ff8229f95668739f467512caa13";
   inputs.packument.flake = false;
 
   outputs = inputs: let

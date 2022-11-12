@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@sinonjs/fake-timers?rev=24-744295d60cf16d527671ade6fda47c1e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@sinonjs/fake-timers?_rev=24-744295d60cf16d527671ade6fda47c1e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

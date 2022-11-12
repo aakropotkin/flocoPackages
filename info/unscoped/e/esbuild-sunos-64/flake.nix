@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-sunos-64?rev=91-8437bc538d1e3289b498e7db0d63f681";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/esbuild-sunos-64?_rev=91-8437bc538d1e3289b498e7db0d63f681";
   inputs.packument.flake = false;
 
   outputs = inputs: let

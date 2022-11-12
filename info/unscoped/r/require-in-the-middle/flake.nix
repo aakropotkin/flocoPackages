@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/require-in-the-middle?rev=27-df01354ca49ddec40d04be8a357ceca5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/require-in-the-middle?_rev=27-df01354ca49ddec40d04be8a357ceca5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

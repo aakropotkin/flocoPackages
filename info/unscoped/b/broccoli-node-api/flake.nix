@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/broccoli-node-api?rev=14-0c425bc7fb2c0a562dac8f5284e59262";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/broccoli-node-api?_rev=14-0c425bc7fb2c0a562dac8f5284e59262";
   inputs.packument.flake = false;
 
   outputs = inputs: let

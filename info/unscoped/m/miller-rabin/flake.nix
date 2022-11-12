@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/miller-rabin?rev=30-4227ff6336edd29cfdfd8558a7817e49";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/miller-rabin?_rev=30-4227ff6336edd29cfdfd8558a7817e49";
   inputs.packument.flake = false;
 
   outputs = inputs: let

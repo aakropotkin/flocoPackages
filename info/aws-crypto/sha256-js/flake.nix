@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-crypto/sha256-js?rev=24-cf48ca3000220b73e6f0bf731bd74adf";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-crypto/sha256-js?_rev=24-cf48ca3000220b73e6f0bf731bd74adf";
   inputs.packument.flake = false;
 
   outputs = inputs: let

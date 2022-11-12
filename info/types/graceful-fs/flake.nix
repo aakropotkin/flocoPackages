@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/graceful-fs?rev=531-240e869eeca54204efa656d8dcb61340";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/graceful-fs?_rev=531-240e869eeca54204efa656d8dcb61340";
   inputs.packument.flake = false;
 
   outputs = inputs: let

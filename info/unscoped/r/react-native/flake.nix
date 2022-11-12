@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-native?rev=1396-66eca702d5c0cb178e78c16257b72c39";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-native?_rev=1396-66eca702d5c0cb178e78c16257b72c39";
   inputs.packument.flake = false;
 
   outputs = inputs: let

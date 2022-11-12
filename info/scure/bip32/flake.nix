@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@scure/bip32?rev=6-f8aed83b17c630dff65d811c2de0368a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@scure/bip32?_rev=6-f8aed83b17c630dff65d811c2de0368a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

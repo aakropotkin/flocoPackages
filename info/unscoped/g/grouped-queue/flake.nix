@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/grouped-queue?rev=32-2d6dbaacd78906dde34c3fbd340f16bd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/grouped-queue?_rev=32-2d6dbaacd78906dde34c3fbd340f16bd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

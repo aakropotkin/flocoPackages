@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-user-agent?rev=104-05890d951b8500fae1d04382995069ed";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/middleware-user-agent?_rev=104-05890d951b8500fae1d04382995069ed";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hyphenate-style-name?rev=11-52463ce1d82fafef8e3d5b4e53fbceea";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/hyphenate-style-name?_rev=11-52463ce1d82fafef8e3d5b4e53fbceea";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-signing?rev=124-2c35d41265af56a38ec128c0c7028d80";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/middleware-signing?_rev=124-2c35d41265af56a38ec128c0c7028d80";
   inputs.packument.flake = false;
 
   outputs = inputs: let

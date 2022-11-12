@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/css-has-pseudo?rev=20-372ed59a701f83dc405afa2464bfbe56";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/css-has-pseudo?_rev=20-372ed59a701f83dc405afa2464bfbe56";
   inputs.packument.flake = false;
 
   outputs = inputs: let

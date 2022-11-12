@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-traverse?rev=216-ccf4a4460557a8e322c32c1b2e9839f2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-traverse?_rev=216-ccf4a4460557a8e322c32c1b2e9839f2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

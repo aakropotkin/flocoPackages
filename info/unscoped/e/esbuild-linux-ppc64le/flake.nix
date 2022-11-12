@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-ppc64le?rev=306-5ded2aefef46ac6a7b415c6081d268d4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/esbuild-linux-ppc64le?_rev=306-5ded2aefef46ac6a7b415c6081d268d4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

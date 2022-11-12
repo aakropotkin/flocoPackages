@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/glob-to-regexp?rev=21-89df3edd1a9bcf5bc59fc3c3810c1e88";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/glob-to-regexp?_rev=21-89df3edd1a9bcf5bc59fc3c3810c1e88";
   inputs.packument.flake = false;
 
   outputs = inputs: let

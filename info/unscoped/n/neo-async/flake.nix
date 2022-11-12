@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/neo-async?rev=137-2e6d530a99bd529dfc1540d1133d6bd3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/neo-async?_rev=137-2e6d530a99bd529dfc1540d1133d6bd3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/reactstrap?rev=193-2fbe87a1bbf7018234d6e05129857955";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/reactstrap?_rev=193-2fbe87a1bbf7018234d6e05129857955";
   inputs.packument.flake = false;
 
   outputs = inputs: let

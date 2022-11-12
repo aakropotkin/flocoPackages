@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/throttle-debounce?rev=36-671d585a9ce9f6cee4725098a2274c62";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/throttle-debounce?_rev=36-671d585a9ce9f6cee4725098a2274c62";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/web3-eth-iban?rev=144-53a14079ee847c68868e4b8f959e5beb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/web3-eth-iban?_rev=144-53a14079ee847c68868e4b8f959e5beb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

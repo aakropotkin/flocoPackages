@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ensure-posix-path?rev=9-18d043974dc7676a750cb734e1c9f89d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/ensure-posix-path?_rev=9-18d043974dc7676a750cb734e1c9f89d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

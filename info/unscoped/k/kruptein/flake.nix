@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/kruptein?rev=38-fe93164f3b03a90176bf4cf2e992dcc4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/kruptein?_rev=38-fe93164f3b03a90176bf4cf2e992dcc4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

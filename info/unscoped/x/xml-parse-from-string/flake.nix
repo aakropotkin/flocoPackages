@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xml-parse-from-string?rev=8-46aabb9aeb0e34c359b632594d70308b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/xml-parse-from-string?_rev=8-46aabb9aeb0e34c359b632594d70308b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

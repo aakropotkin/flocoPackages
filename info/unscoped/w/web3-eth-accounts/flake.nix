@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/web3-eth-accounts?rev=138-c81fe65a28029728226c6c4acfd3a310";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/web3-eth-accounts?_rev=138-c81fe65a28029728226c6c4acfd3a310";
   inputs.packument.flake = false;
 
   outputs = inputs: let

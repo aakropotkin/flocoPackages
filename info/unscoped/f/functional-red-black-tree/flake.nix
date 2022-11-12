@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/functional-red-black-tree?rev=15-4a402b861062bda0f73a645f128146e3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/functional-red-black-tree?_rev=15-4a402b861062bda0f73a645f128146e3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

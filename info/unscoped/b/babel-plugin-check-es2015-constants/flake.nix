@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-check-es2015-constants?rev=87-0f9c0d5a16948803949cedaf93ee04bf";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-check-es2015-constants?_rev=87-0f9c0d5a16948803949cedaf93ee04bf";
   inputs.packument.flake = false;
 
   outputs = inputs: let

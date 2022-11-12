@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/helper-api-error?rev=43-1aae347fecd56d018bf31f078a40aa77";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs/helper-api-error?_rev=43-1aae347fecd56d018bf31f078a40aa77";
   inputs.packument.flake = false;
 
   outputs = inputs: let

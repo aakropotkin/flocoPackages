@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g2plot?rev=244-1260f7e445acc6b58cb9c830e54638a7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@antv/g2plot?_rev=244-1260f7e445acc6b58cb9c830e54638a7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

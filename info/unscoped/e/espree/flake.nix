@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/espree?rev=134-31358c347a49f37dafe676159fa69bef";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/espree?_rev=134-31358c347a49f37dafe676159fa69bef";
   inputs.packument.flake = false;
 
   outputs = inputs: let

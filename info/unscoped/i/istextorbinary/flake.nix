@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/istextorbinary?rev=96-f947aef8600379547d66adb8fae4ec07";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/istextorbinary?_rev=96-f947aef8600379547d66adb8fae4ec07";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fancy-log?rev=28-48a33acbccb23e9a76b53ac4a55cedfe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fancy-log?_rev=28-48a33acbccb23e9a76b53ac4a55cedfe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

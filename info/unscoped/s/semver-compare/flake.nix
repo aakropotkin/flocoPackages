@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/semver-compare?rev=10-2c30e04ea6fe1c087fba2a24fda054fc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/semver-compare?_rev=10-2c30e04ea6fe1c087fba2a24fda054fc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

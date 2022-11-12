@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/language-tags?rev=23-7ab2634c6e18b9dfa19cd472abe46049";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/language-tags?_rev=23-7ab2634c6e18b9dfa19cd472abe46049";
   inputs.packument.flake = false;
 
   outputs = inputs: let

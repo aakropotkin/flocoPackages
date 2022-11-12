@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/nano-json-stream-parser?rev=4-bf1dd82801f4889edbb6ce54650e7bce";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/nano-json-stream-parser?_rev=4-bf1dd82801f4889edbb6ce54650e7bce";
   inputs.packument.flake = false;
 
   outputs = inputs: let

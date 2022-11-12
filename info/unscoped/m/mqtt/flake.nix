@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mqtt?rev=327-fb809bde4a4d49f2db25ec403a40a73c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mqtt?_rev=327-fb809bde4a4d49f2db25ec403a40a73c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

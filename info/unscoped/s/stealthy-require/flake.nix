@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stealthy-require?rev=8-f310afb5356e9e82fe825349430ecd7c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/stealthy-require?_rev=8-f310afb5356e9e82fe825349430ecd7c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

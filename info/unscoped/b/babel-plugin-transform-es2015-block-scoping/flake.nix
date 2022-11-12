@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoping?rev=118-1cffc2a885c6171cb1b0b86fba61ee04";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-transform-es2015-block-scoping?_rev=118-1cffc2a885c6171cb1b0b86fba61ee04";
   inputs.packument.flake = false;
 
   outputs = inputs: let

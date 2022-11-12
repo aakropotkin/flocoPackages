@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/get-symbol-description?rev=1-5acc86599a8996114927740aade58531";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/get-symbol-description?_rev=1-5acc86599a8996114927740aade58531";
   inputs.packument.flake = false;
 
   outputs = inputs: let

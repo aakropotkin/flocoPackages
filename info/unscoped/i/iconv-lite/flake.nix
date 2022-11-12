@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/iconv-lite?rev=213-d18e9f56f70305efca7563d6f41e039e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/iconv-lite?_rev=213-d18e9f56f70305efca7563d6f41e039e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/map-workspaces?rev=28-baed1b2d848e1a883da3218df99b0a08";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@npmcli/map-workspaces?_rev=28-baed1b2d848e1a883da3218df99b0a08";
   inputs.packument.flake = false;
 
   outputs = inputs: let

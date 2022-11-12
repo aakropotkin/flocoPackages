@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/toposort-class?rev=31-a64dd3175732471766cc06a8677d6e27";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/toposort-class?_rev=31-a64dd3175732471766cc06a8677d6e27";
   inputs.packument.flake = false;
 
   outputs = inputs: let

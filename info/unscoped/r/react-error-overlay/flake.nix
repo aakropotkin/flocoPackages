@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-error-overlay?rev=136-33fdc6044dd0c6eefcdcdb721c573982";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-error-overlay?_rev=136-33fdc6044dd0c6eefcdcdb721c573982";
   inputs.packument.flake = false;
 
   outputs = inputs: let

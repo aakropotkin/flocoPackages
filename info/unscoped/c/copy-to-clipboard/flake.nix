@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/copy-to-clipboard?rev=47-5b1c051aefb6972e06a2d73c13420991";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/copy-to-clipboard?_rev=47-5b1c051aefb6972e06a2d73c13420991";
   inputs.packument.flake = false;
 
   outputs = inputs: let

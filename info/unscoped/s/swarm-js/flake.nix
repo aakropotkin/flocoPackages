@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/swarm-js?rev=45-a506693922e0b138e8308c4f988da8e1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/swarm-js?_rev=45-a506693922e0b138e8308c4f988da8e1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

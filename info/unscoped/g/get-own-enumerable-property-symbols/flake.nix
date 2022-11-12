@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/get-own-enumerable-property-symbols?rev=10-e2e4409e655d08dda2e66f9092444eac";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/get-own-enumerable-property-symbols?_rev=10-e2e4409e655d08dda2e66f9092444eac";
   inputs.packument.flake = false;
 
   outputs = inputs: let

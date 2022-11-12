@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/grapheme-splitter?rev=6-74b7f107a42ae9c331f6e185593883b5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/grapheme-splitter?_rev=6-74b7f107a42ae9c331f6e185593883b5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

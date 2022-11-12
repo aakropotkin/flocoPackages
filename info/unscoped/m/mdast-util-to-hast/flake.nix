@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mdast-util-to-hast?rev=57-a4cb02722017edb70add135d01bb3299";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mdast-util-to-hast?_rev=57-a4cb02722017edb70add135d01bb3299";
   inputs.packument.flake = false;
 
   outputs = inputs: let

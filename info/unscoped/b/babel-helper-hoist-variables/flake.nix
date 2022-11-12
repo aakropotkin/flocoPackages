@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-hoist-variables?rev=80-9872986549e2bcf542ea7b614040df8b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-helper-hoist-variables?_rev=80-9872986549e2bcf542ea7b614040df8b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

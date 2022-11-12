@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-apollo?rev=289-df4ae942526a657cfe710d9acbc4a673";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-apollo?_rev=289-df4ae942526a657cfe710d9acbc4a673";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-discard-comments?rev=63-489d3627981aa08526eb6da5c625f0d4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-discard-comments?_rev=63-489d3627981aa08526eb6da5c625f0d4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

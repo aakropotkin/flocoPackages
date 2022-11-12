@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/passport-local?rev=153-5d3c5784d50f20326241901846177766";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/passport-local?_rev=153-5d3c5784d50f20326241901846177766";
   inputs.packument.flake = false;
 
   outputs = inputs: let

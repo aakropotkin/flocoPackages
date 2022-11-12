@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ddp-underscore-patched?rev=4-0bfe9241e8607dc0550ed130d768efa7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/ddp-underscore-patched?_rev=4-0bfe9241e8607dc0550ed130d768efa7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-netbsd-64?rev=80-4bb1784b4cbe39982b40228e7ad9e88b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/esbuild-netbsd-64?_rev=80-4bb1784b4cbe39982b40228e7ad9e88b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

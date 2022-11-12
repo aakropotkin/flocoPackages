@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/backbone?rev=221-209975780f5151b51db5ab472ea080d2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/backbone?_rev=221-209975780f5151b51db5ab472ea080d2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

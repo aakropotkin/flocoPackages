@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/release-zalgo?rev=3-c0fb037cff816facfd0d909f0cf969d7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/release-zalgo?_rev=3-c0fb037cff816facfd0d909f0cf969d7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

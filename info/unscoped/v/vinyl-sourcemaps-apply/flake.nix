@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vinyl-sourcemaps-apply?rev=16-42505548be1ad04552bf873302a3bc8d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/vinyl-sourcemaps-apply?_rev=16-42505548be1ad04552bf873302a3bc8d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

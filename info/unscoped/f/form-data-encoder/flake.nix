@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/form-data-encoder?rev=31-a2a6ab2c5349e53ab16bba45df514a75";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/form-data-encoder?_rev=31-a2a6ab2c5349e53ab16bba45df514a75";
   inputs.packument.flake = false;
 
   outputs = inputs: let

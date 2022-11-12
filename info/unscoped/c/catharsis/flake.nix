@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/catharsis?rev=71-69ab3a6ebb0b623475fe7166df0cd748";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/catharsis?_rev=71-69ab3a6ebb0b623475fe7166df0cd748";
   inputs.packument.flake = false;
 
   outputs = inputs: let

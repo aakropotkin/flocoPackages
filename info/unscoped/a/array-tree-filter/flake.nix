@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/array-tree-filter?rev=11-72a2a07b32bfcba9157c127b5939f952";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/array-tree-filter?_rev=11-72a2a07b32bfcba9157c127b5939f952";
   inputs.packument.flake = false;
 
   outputs = inputs: let

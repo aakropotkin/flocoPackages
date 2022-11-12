@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-decorators-legacy?rev=46-24d930bbbaa943e150c2f4c9a23c3503";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-transform-decorators-legacy?_rev=46-24d930bbbaa943e150c2f4c9a23c3503";
   inputs.packument.flake = false;
 
   outputs = inputs: let

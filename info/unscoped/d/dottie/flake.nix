@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dottie?rev=69-4b91a31a6bf2e5786cf4470131a011ac";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/dottie?_rev=69-4b91a31a6bf2e5786cf4470131a011ac";
   inputs.packument.flake = false;
 
   outputs = inputs: let

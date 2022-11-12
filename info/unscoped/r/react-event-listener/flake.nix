@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-event-listener?rev=40-fd984cb9431672cf4b301403aaad7e94";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-event-listener?_rev=40-fd984cb9431672cf4b301403aaad7e94";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bodec?rev=13-e547cec76fdc08390d23b11ed34ecf4d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/bodec?_rev=13-e547cec76fdc08390d23b11ed34ecf4d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/human-signals?rev=9-f6eeefd8169cff0464a4962b2654a55f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/human-signals?_rev=9-f6eeefd8169cff0464a4962b2654a55f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

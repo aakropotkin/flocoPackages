@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postgres-bytea?rev=6-e23b4f382f1deab67f1f8575918b53fb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postgres-bytea?_rev=6-e23b4f382f1deab67f1f8575918b53fb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/acorn-walk?rev=17-da6d6fd0a8c5d4bd33719707b6ca4062";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/acorn-walk?_rev=17-da6d6fd0a8c5d4bd33719707b6ca4062";
   inputs.packument.flake = false;
 
   outputs = inputs: let

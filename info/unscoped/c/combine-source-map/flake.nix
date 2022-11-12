@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/combine-source-map?rev=29-c198c85d9e3d5d5026f07278971fdcbe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/combine-source-map?_rev=29-c198c85d9e3d5d5026f07278971fdcbe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-concat?rev=626-52a6c8004f80a773d8d6495458dc93f2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gulp-concat?_rev=626-52a6c8004f80a773d8d6495458dc93f2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

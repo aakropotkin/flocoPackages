@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/escape-regexp-component?rev=6-0c9b5533a72e85cfa9ce2f3164080e21";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/escape-regexp-component?_rev=6-0c9b5533a72e85cfa9ce2f3164080e21";
   inputs.packument.flake = false;
 
   outputs = inputs: let

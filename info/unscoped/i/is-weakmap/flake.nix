@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-weakmap?rev=11-ad76b568821bddeb6d3cc63b1f65d608";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-weakmap?_rev=11-ad76b568821bddeb6d3cc63b1f65d608";
   inputs.packument.flake = false;
 
   outputs = inputs: let

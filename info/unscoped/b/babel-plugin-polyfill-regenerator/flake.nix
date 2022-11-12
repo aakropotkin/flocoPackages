@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-polyfill-regenerator?rev=25-c84a59661a02437481d41016a5ce904d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-polyfill-regenerator?_rev=25-c84a59661a02437481d41016a5ce904d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

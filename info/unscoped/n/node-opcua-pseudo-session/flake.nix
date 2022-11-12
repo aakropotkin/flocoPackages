@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-pseudo-session?rev=153-5af56924674d82658acefd3bca378a5f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/node-opcua-pseudo-session?_rev=153-5af56924674d82658acefd3bca378a5f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

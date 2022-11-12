@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/oauth-sign?rev=26-30730e3f7e611630bdb32e617bab8c25";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/oauth-sign?_rev=26-30730e3f7e611630bdb32e617bab8c25";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decompress-unzip?rev=38-c3f3840c9650af870e3c85e5e2a69538";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/decompress-unzip?_rev=38-c3f3840c9650af870e3c85e5e2a69538";
   inputs.packument.flake = false;
 
   outputs = inputs: let

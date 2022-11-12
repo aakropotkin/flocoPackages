@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/atomic-sleep?rev=1-efc5f44cdb4125909bb27f1ddb4e0380";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/atomic-sleep?_rev=1-efc5f44cdb4125909bb27f1ddb4e0380";
   inputs.packument.flake = false;
 
   outputs = inputs: let

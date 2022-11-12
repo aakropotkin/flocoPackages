@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tapable?rev=75-44c1e525187392f095b42637a118a1ff";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/tapable?_rev=75-44c1e525187392f095b42637a118a1ff";
   inputs.packument.flake = false;
 
   outputs = inputs: let

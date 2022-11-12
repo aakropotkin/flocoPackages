@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/snapdragon-util?rev=20-955bbd5b86bc6df0010d8852b7329205";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/snapdragon-util?_rev=20-955bbd5b86bc6df0010d8852b7329205";
   inputs.packument.flake = false;
 
   outputs = inputs: let

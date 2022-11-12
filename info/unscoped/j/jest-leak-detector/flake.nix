@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-leak-detector?rev=170-ec9c9e7070785f8670a96f420736957d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jest-leak-detector?_rev=170-ec9c9e7070785f8670a96f420736957d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

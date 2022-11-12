@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-watch?rev=410-f3410bed29b85a020f5dd646c0704c0b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gulp-watch?_rev=410-f3410bed29b85a020f5dd646c0704c0b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

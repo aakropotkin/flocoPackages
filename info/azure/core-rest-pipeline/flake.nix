@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-rest-pipeline?rev=112-9a175756620831f5153e03a7befa45cb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@azure/core-rest-pipeline?_rev=112-9a175756620831f5153e03a7befa45cb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

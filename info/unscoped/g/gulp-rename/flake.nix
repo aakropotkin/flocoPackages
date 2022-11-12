@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-rename?rev=418-97fb0202ba94e127028c02431dc8a7be";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gulp-rename?_rev=418-97fb0202ba94e127028c02431dc8a7be";
   inputs.packument.flake = false;
 
   outputs = inputs: let

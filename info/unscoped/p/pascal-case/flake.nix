@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pascal-case?rev=29-04606fe3dfa41db83ff1509eb41449e0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/pascal-case?_rev=29-04606fe3dfa41db83ff1509eb41449e0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

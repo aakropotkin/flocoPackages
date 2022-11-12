@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-explode-class?rev=87-f341f9c9d36a9d0f00859629ed4cadea";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-helper-explode-class?_rev=87-f341f9c9d36a9d0f00859629ed4cadea";
   inputs.packument.flake = false;
 
   outputs = inputs: let

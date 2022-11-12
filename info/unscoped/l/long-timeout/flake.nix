@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/long-timeout?rev=13-2d0e3e2321325abd802d6398d41bead1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/long-timeout?_rev=13-2d0e3e2321325abd802d6398d41bead1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

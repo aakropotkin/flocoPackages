@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark-util-combine-extensions?rev=5-32dfa394c00d9f812797e0c73485311b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/micromark-util-combine-extensions?_rev=5-32dfa394c00d9f812797e0c73485311b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fs-minipass?rev=37-0b9ce8af18f9073bab7bba962d8e90d9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fs-minipass?_rev=37-0b9ce8af18f9073bab7bba962d8e90d9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

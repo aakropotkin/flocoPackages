@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tr46?rev=16-88c7a209f666b51e8ab46c77024c6693";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/tr46?_rev=16-88c7a209f666b51e8ab46c77024c6693";
   inputs.packument.flake = false;
 
   outputs = inputs: let

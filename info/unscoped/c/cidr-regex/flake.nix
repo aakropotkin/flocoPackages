@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cidr-regex?rev=28-07afc39972c708c2eca0b8e41a054289";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cidr-regex?_rev=28-07afc39972c708c2eca0b8e41a054289";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/apollo-utilities?rev=115-1a97a8134e3fe03e8bccdb95bf3dae71";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/apollo-utilities?_rev=115-1a97a8134e3fe03e8bccdb95bf3dae71";
   inputs.packument.flake = false;
 
   outputs = inputs: let

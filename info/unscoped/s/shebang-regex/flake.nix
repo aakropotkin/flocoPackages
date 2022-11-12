@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/shebang-regex?rev=9-8064cefb0125d41107045f66a9548ac9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/shebang-regex?_rev=9-8064cefb0125d41107045f66a9548ac9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

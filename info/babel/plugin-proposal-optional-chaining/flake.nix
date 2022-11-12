@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-optional-chaining?rev=94-5bf4ea6cf9bfa49d281a42cfdfb2d392";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-optional-chaining?_rev=94-5bf4ea6cf9bfa49d281a42cfdfb2d392";
   inputs.packument.flake = false;
 
   outputs = inputs: let

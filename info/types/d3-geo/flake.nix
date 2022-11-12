@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-geo?rev=674-94c5692a997ef36c674c943916f863d4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/d3-geo?_rev=674-94c5692a997ef36c674c943916f863d4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

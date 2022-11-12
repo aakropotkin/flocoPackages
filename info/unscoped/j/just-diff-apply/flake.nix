@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/just-diff-apply?rev=19-c5dab101d633ca43baba5b1d576f8e2c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/just-diff-apply?_rev=19-c5dab101d633ca43baba5b1d576f8e2c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

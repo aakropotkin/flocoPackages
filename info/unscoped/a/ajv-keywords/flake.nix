@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ajv-keywords?rev=53-41b0a2bd594525961f07d9302932a8a8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/ajv-keywords?_rev=53-41b0a2bd594525961f07d9302932a8a8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

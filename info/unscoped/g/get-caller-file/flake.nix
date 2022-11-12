@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/get-caller-file?rev=14-ef4c458a8b0dc72bbda008288326e4bf";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/get-caller-file?_rev=14-ef4c458a8b0dc72bbda008288326e4bf";
   inputs.packument.flake = false;
 
   outputs = inputs: let

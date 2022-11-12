@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hasha?rev=36-c01bed4f6aa3515841f6b0052a9de467";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/hasha?_rev=36-c01bed4f6aa3515841f6b0052a9de467";
   inputs.packument.flake = false;
 
   outputs = inputs: let

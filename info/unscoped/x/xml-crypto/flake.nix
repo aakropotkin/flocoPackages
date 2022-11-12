@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xml-crypto?rev=107-9480677aa67d45c877c3c247b011ad4e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/xml-crypto?_rev=107-9480677aa67d45c877c3c247b011ad4e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

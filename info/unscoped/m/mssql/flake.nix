@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mssql?rev=422-6f3cd7f393cb480812549850b77e1fa2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mssql?_rev=422-6f3cd7f393cb480812549850b77e1fa2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

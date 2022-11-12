@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/levelup?rev=321-21588dc944f56f34845eba6ffeb2b358";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/levelup?_rev=321-21588dc944f56f34845eba6ffeb2b358";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@apideck/better-ajv-errors?rev=17-efb33cf92143e7f98852aab7b4587b75";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@apideck/better-ajv-errors?_rev=17-efb33cf92143e7f98852aab7b4587b75";
   inputs.packument.flake = false;
 
   outputs = inputs: let

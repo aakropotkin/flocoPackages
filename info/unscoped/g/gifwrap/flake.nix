@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gifwrap?rev=33-03feecf08f72316cb91f34ab6eb11a1e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gifwrap?_rev=33-03feecf08f72316cb91f34ab6eb11a1e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

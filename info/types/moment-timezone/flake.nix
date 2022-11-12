@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/moment-timezone?rev=580-3374dfd7f1f94770eabe54ba7c6ab27f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/moment-timezone?_rev=580-3374dfd7f1f94770eabe54ba7c6ab27f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

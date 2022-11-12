@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/async-validator?rev=112-63e562504a466bddf7da7975a639c6e7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/async-validator?_rev=112-63e562504a466bddf7da7975a639c6e7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

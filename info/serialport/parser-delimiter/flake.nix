@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-delimiter?rev=21-94660c59781e02241ee125db54720d7f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@serialport/parser-delimiter?_rev=21-94660c59781e02241ee125db54720d7f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

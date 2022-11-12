@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-potential-custom-element-name?rev=5-489c5441eee497ab9a8ab43f2d8f6fd5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-potential-custom-element-name?_rev=5-489c5441eee497ab9a8ab43f2d8f6fd5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

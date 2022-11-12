@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/karma-jasmine?rev=137-3c68e4ed34cb50ce5f054d1e522788af";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/karma-jasmine?_rev=137-3c68e4ed34cb50ce5f054d1e522788af";
   inputs.packument.flake = false;
 
   outputs = inputs: let

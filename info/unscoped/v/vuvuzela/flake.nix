@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vuvuzela?rev=8-d626847e6f0441570f34baa4a11c6586";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/vuvuzela?_rev=8-d626847e6f0441570f34baa4a11c6586";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bs-snippet-injector?rev=18-c4f2e7356705c6b41f4369e8358a3ceb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/bs-snippet-injector?_rev=18-c4f2e7356705c6b41f4369e8358a3ceb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

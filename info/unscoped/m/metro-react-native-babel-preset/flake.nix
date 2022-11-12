@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-react-native-babel-preset?rev=79-8f6cb0dcd594527309e1b64fac41256f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/metro-react-native-babel-preset?_rev=79-8f6cb0dcd594527309e1b64fac41256f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/log-driver?rev=22-294f1658d5c91cc021894379d7fd4fd0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/log-driver?_rev=22-294f1658d5c91cc021894379d7fd4fd0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

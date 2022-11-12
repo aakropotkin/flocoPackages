@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@octokit/plugin-rest-endpoint-methods?rev=163-fc007e8b79ce764be9382598a567ff3c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@octokit/plugin-rest-endpoint-methods?_rev=163-fc007e8b79ce764be9382598a567ff3c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

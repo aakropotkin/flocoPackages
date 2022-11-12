@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/keytar?rev=147-24493adae53aeada4ae2b81d68767d14";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/keytar?_rev=147-24493adae53aeada4ae2b81d68767d14";
   inputs.packument.flake = false;
 
   outputs = inputs: let

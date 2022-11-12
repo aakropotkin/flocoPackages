@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xml-writer?rev=57-bfde0c93b873c455ff41670d45860e1a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/xml-writer?_rev=57-bfde0c93b873c455ff41670d45860e1a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

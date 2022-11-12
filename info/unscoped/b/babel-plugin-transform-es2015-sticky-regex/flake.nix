@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-sticky-regex?rev=63-3c678e29da1396d0866afb855e485853";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-transform-es2015-sticky-regex?_rev=63-3c678e29da1396d0866afb855e485853";
   inputs.packument.flake = false;
 
   outputs = inputs: let

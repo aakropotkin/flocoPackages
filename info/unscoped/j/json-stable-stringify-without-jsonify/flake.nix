@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/json-stable-stringify-without-jsonify?rev=3-fadb616780bf85bd2945fce48a44abe6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/json-stable-stringify-without-jsonify?_rev=3-fadb616780bf85bd2945fce48a44abe6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

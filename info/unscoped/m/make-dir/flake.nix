@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/make-dir?rev=23-0667e6cb07dbb2cac67f9fecc782340e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/make-dir?_rev=23-0667e6cb07dbb2cac67f9fecc782340e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

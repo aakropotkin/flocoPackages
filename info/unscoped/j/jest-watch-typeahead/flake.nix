@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-watch-typeahead?rev=34-270983db898c45cda1c299cb24f0e4fc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jest-watch-typeahead?_rev=34-270983db898c45cda1c299cb24f0e4fc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

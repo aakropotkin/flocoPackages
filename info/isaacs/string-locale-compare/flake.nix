@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@isaacs/string-locale-compare?rev=4-e463d762a9436ecc806971f320cfec92";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@isaacs/string-locale-compare?_rev=4-e463d762a9436ecc806971f320cfec92";
   inputs.packument.flake = false;
 
   outputs = inputs: let

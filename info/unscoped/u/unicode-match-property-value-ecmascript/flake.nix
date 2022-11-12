@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unicode-match-property-value-ecmascript?rev=9-39837eb9f614d7802d6841011f1847a6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/unicode-match-property-value-ecmascript?_rev=9-39837eb9f614d7802d6841011f1847a6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

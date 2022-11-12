@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-date-time?rev=110-544757f6f6f91d6b9cdac2da578e71eb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/node-opcua-date-time?_rev=110-544757f6f6f91d6b9cdac2da578e71eb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

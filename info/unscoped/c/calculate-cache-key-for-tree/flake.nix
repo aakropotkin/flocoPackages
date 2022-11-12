@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/calculate-cache-key-for-tree?rev=16-bb0a02bb3485cb709b668ea850639932";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/calculate-cache-key-for-tree?_rev=16-bb0a02bb3485cb709b668ea850639932";
   inputs.packument.flake = false;
 
   outputs = inputs: let

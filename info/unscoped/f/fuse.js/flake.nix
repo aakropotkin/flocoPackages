@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fuse.js?rev=177-0aa6b7e57fbc68914e122fa2a9505334";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fuse.js?_rev=177-0aa6b7e57fbc68914e122fa2a9505334";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/moment?rev=1315-f0e364b7a225ed2e24f57c579e001ffe";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/moment?_rev=1315-f0e364b7a225ed2e24f57c579e001ffe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

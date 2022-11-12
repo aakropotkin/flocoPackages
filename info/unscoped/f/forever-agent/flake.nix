@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/forever-agent?rev=21-28fb5655544ddea141f524c88490c290";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/forever-agent?_rev=21-28fb5655544ddea141f524c88490c290";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-plugin-eslint-comments?rev=25-778eb50f403b2770bfe5ce342ef2d84d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/eslint-plugin-eslint-comments?_rev=25-778eb50f403b2770bfe5ce342ef2d84d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

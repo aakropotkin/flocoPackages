@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-remap-async-to-generator?rev=91-e7577d7dfb0388410392024815765e0a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/helper-remap-async-to-generator?_rev=91-e7577d7dfb0388410392024815765e0a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

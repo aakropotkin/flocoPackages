@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-font-format-keywords?rev=2-da67832ca2566a5cf62aae4f4558e2d1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-font-format-keywords?_rev=2-da67832ca2566a5cf62aae4f4558e2d1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

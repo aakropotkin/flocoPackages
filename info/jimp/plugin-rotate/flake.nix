@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-rotate?rev=134-5f739d5eb4a07a8deeb94d6545de913b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-rotate?_rev=134-5f739d5eb4a07a8deeb94d6545de913b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

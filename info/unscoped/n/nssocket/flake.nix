@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/nssocket?rev=92-b167f8826eb0bf2eadf47bf0b1f728cc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/nssocket?_rev=92-b167f8826eb0bf2eadf47bf0b1f728cc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

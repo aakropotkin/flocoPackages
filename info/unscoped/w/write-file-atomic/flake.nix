@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/write-file-atomic?rev=82-c7b3b587b6d192d52ae58febf36cdf6d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/write-file-atomic?_rev=82-c7b3b587b6d192d52ae58febf36cdf6d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

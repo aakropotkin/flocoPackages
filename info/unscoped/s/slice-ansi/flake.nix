@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/slice-ansi?rev=17-75ec782fc6608fb5040eba68b56e91d9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/slice-ansi?_rev=17-75ec782fc6608fb5040eba68b56e91d9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

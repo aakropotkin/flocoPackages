@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jpeg-js?rev=42-12118ccbf27dbeb35794e307bb186a31";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jpeg-js?_rev=42-12118ccbf27dbeb35794e307bb186a31";
   inputs.packument.flake = false;
 
   outputs = inputs: let

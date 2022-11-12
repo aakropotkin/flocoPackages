@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/axobject-query?rev=16-4eeed6b7226554c373e2e6f62b325aae";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/axobject-query?_rev=16-4eeed6b7226554c373e2e6f62b325aae";
   inputs.packument.flake = false;
 
   outputs = inputs: let

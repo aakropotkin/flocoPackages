@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@opentelemetry/context-async-hooks?rev=105-16b2e184f2859bfae97bbb142d5a9762";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@opentelemetry/context-async-hooks?_rev=105-16b2e184f2859bfae97bbb142d5a9762";
   inputs.packument.flake = false;
 
   outputs = inputs: let

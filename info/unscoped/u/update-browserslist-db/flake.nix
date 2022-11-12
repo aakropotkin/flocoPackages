@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/update-browserslist-db?rev=10-1fd32f693182827a86e6d2ff334c7456";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/update-browserslist-db?_rev=10-1fd32f693182827a86e6d2ff334c7456";
   inputs.packument.flake = false;
 
   outputs = inputs: let

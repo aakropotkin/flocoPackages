@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/scss-tokenizer?rev=16-941bad0566bf5e45df67fe8b566fc6ca";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/scss-tokenizer?_rev=16-941bad0566bf5e45df67fe8b566fc6ca";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/discontinuous-range?rev=4-f1448afa582c4daf581f7f39f27737cd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/discontinuous-range?_rev=4-f1448afa582c4daf581f7f39f27737cd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

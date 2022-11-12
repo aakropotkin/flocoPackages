@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/thenify?rev=34-e93afc0436fd93e5f4b1f1b4b653d83a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/thenify?_rev=34-e93afc0436fd93e5f4b1f1b4b653d83a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

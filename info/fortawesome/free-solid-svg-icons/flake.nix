@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons?rev=78-55cfa9428bcd2058e270fc0c43819415";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@fortawesome/free-solid-svg-icons?_rev=78-55cfa9428bcd2058e270fc0c43819415";
   inputs.packument.flake = false;
 
   outputs = inputs: let

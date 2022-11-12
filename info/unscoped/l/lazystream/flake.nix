@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lazystream?rev=11-acfad1cc997f7a5521de7a8d45c44021";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/lazystream?_rev=11-acfad1cc997f7a5521de7a8d45c44021";
   inputs.packument.flake = false;
 
   outputs = inputs: let

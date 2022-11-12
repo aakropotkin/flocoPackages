@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-cache-key?rev=33-c5ea953417316687c732b6281803b3d3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/metro-cache-key?_rev=33-c5ea953417316687c732b6281803b3d3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

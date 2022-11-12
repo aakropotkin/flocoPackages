@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/npm-bundled?rev=15-80c82dcab7ce067d9dfef9e4f91bd768";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/npm-bundled?_rev=15-80c82dcab7ce067d9dfef9e4f91bd768";
   inputs.packument.flake = false;
 
   outputs = inputs: let

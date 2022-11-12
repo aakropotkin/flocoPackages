@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/find-my-way?rev=114-4c866fa481a6926daac3e82c28261958";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/find-my-way?_rev=114-4c866fa481a6926daac3e82c28261958";
   inputs.packument.flake = false;
 
   outputs = inputs: let

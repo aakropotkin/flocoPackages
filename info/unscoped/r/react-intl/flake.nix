@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-intl?rev=389-ded390599986203787a3ec0cde3bc9ed";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-intl?_rev=389-ded390599986203787a3ec0cde3bc9ed";
   inputs.packument.flake = false;
 
   outputs = inputs: let

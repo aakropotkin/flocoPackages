@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-service-secure-channel?rev=178-8a331f58f1a3fc54eeaf72edc3f36f1f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/node-opcua-service-secure-channel?_rev=178-8a331f58f1a3fc54eeaf72edc3f36f1f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

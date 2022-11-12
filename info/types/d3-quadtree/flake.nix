@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-quadtree?rev=556-504287e0c28491a45b9fc37006b8070e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/d3-quadtree?_rev=556-504287e0c28491a45b9fc37006b8070e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

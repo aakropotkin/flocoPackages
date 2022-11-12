@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eth-ens-namehash?rev=14-a98e5579581d2a96ce13cd605c40fd84";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/eth-ens-namehash?_rev=14-a98e5579581d2a96ce13cd605c40fd84";
   inputs.packument.flake = false;
 
   outputs = inputs: let

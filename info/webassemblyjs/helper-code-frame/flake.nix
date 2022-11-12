@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/helper-code-frame?rev=63-1f48d6806294180bc199134d559cddc6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@webassemblyjs/helper-code-frame?_rev=63-1f48d6806294180bc199134d559cddc6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

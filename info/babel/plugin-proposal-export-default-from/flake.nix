@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-export-default-from?rev=72-ffd3c216755b535a6ac4224bf0d5b1b1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-export-default-from?_rev=72-ffd3c216755b535a6ac4224bf0d5b1b1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

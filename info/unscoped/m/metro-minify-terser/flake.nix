@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-minify-terser?rev=59-a6753e0b8e5e268a3be5b9d8078fe4ba";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/metro-minify-terser?_rev=59-a6753e0b8e5e268a3be5b9d8078fe4ba";
   inputs.packument.flake = false;
 
   outputs = inputs: let

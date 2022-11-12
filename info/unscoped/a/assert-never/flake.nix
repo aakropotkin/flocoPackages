@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/assert-never?rev=6-c114affc2d78319204851bc437d124d0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/assert-never?_rev=6-c114affc2d78319204851bc437d124d0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

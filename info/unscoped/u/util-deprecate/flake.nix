@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/util-deprecate?rev=10-316416ab420c938cec971364c2735d25";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/util-deprecate?_rev=10-316416ab420c938cec971364c2735d25";
   inputs.packument.flake = false;
 
   outputs = inputs: let

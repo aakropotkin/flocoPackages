@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-bmfont-ascii?rev=17-14c5d99a1bc925c9bb442cdfadd3ca40";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/parse-bmfont-ascii?_rev=17-14c5d99a1bc925c9bb442cdfadd3ca40";
   inputs.packument.flake = false;
 
   outputs = inputs: let

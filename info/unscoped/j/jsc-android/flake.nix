@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jsc-android?rev=33-5cbaf419e5c4b93afb7c173a14c40543";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jsc-android?_rev=33-5cbaf419e5c4b93afb7c173a14c40543";
   inputs.packument.flake = false;
 
   outputs = inputs: let

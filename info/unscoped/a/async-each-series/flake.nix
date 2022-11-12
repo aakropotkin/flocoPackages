@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/async-each-series?rev=10-2f3490ad958b10419c36cf3c3d77cfb3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/async-each-series?_rev=10-2f3490ad958b10419c36cf3c3d77cfb3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

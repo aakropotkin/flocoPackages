@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/spdx-exceptions?rev=13-90955ed49c99ce03340e06376438bd07";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/spdx-exceptions?_rev=13-90955ed49c99ce03340e06376438bd07";
   inputs.packument.flake = false;
 
   outputs = inputs: let

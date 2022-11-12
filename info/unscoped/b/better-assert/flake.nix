@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/better-assert?rev=30-09e7305e54a4335abcdca5e44fa91275";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/better-assert?_rev=30-09e7305e54a4335abcdca5e44fa91275";
   inputs.packument.flake = false;
 
   outputs = inputs: let

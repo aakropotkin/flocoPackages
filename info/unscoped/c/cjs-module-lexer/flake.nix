@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cjs-module-lexer?rev=38-a8400481e9cf5929c84488a73a19cdc5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cjs-module-lexer?_rev=38-a8400481e9cf5929c84488a73a19cdc5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

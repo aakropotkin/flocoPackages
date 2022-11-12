@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/regenerator-runtime?rev=46-172597335ee3ca6574976d472ef1a7b7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/regenerator-runtime?_rev=46-172597335ee3ca6574976d472ef1a7b7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

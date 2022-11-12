@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/symbol-observable?rev=28-7e5673f20efabd11be5b9b5249bb14a2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/symbol-observable?_rev=28-7e5673f20efabd11be5b9b5249bb14a2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

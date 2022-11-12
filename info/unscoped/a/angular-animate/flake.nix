@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/angular-animate?rev=196-2bb09b50798f183d54715f81f1455be8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/angular-animate?_rev=196-2bb09b50798f183d54715f81f1455be8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

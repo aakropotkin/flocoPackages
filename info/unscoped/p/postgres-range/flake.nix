@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postgres-range?rev=8-1a37dd23157c6416ebd7ad46b6b35a12";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postgres-range?_rev=8-1a37dd23157c6416ebd7ad46b6b35a12";
   inputs.packument.flake = false;
 
   outputs = inputs: let

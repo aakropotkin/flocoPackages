@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/csv-parse?rev=170-229e13d92b23f5fa021d06525ee3d0ea";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/csv-parse?_rev=170-229e13d92b23f5fa021d06525ee3d0ea";
   inputs.packument.flake = false;
 
   outputs = inputs: let

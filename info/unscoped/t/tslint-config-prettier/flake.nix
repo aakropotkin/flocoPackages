@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tslint-config-prettier?rev=26-94a56b5a911ca9308ea98257f3626578";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/tslint-config-prettier?_rev=26-94a56b5a911ca9308ea98257f3626578";
   inputs.packument.flake = false;
 
   outputs = inputs: let

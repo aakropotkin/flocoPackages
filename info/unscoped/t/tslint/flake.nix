@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tslint?rev=325-792570184f0182a7539255c7c1807fdc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/tslint?_rev=325-792570184f0182a7539255c7c1807fdc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

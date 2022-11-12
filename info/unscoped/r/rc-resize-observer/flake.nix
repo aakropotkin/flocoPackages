@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-resize-observer?rev=19-086561c54e9efada3e1dfb97015ad7a0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/rc-resize-observer?_rev=19-086561c54e9efada3e1dfb97015ad7a0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

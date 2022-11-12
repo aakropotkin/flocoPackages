@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/copy-props?rev=25-707414ad4bfca0847fb3c148bdd597b3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/copy-props?_rev=25-707414ad4bfca0847fb3c148bdd597b3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/phantomjs-prebuilt?rev=122-26e58d0b42cc3c42272cb477c435613b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/phantomjs-prebuilt?_rev=122-26e58d0b42cc3c42272cb477c435613b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

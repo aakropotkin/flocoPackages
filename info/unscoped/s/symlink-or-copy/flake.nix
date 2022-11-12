@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/symlink-or-copy?rev=24-4ab5f2857f6b01d0f5473a7e6d20ab53";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/symlink-or-copy?_rev=24-4ab5f2857f6b01d0f5473a7e6d20ab53";
   inputs.packument.flake = false;
 
   outputs = inputs: let

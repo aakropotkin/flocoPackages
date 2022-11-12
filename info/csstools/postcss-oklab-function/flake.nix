@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-oklab-function?rev=5-acb75e2b7ce58a3c5e9f8b30cb2ef414";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@csstools/postcss-oklab-function?_rev=5-acb75e2b7ce58a3c5e9f8b30cb2ef414";
   inputs.packument.flake = false;
 
   outputs = inputs: let

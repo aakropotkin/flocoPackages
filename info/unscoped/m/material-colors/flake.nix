@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/material-colors?rev=24-caadea501dd83c02c7025d8bdc407f3a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/material-colors?_rev=24-caadea501dd83c02c7025d8bdc407f3a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

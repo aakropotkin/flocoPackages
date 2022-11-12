@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/busboy?rev=168-bd67b9de2ec65a6f63c2705d88db3a59";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/busboy?_rev=168-bd67b9de2ec65a6f63c2705d88db3a59";
   inputs.packument.flake = false;
 
   outputs = inputs: let

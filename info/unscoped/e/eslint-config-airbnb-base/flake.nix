@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-config-airbnb-base?rev=122-74e8713dd5013e9b6ea9472ff264d2d9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/eslint-config-airbnb-base?_rev=122-74e8713dd5013e9b6ea9472ff264d2d9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pac-resolver?rev=35-3e188c81345cb17e705505d527df8a5d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/pac-resolver?_rev=35-3e188c81345cb17e705505d527df8a5d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

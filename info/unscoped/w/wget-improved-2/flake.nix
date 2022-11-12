@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/wget-improved-2?rev=1-a8387c8171809fc340bc6c99600e22e0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/wget-improved-2?_rev=1-a8387c8171809fc340bc6c99600e22e0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/js-calendar?rev=27-da8edcac0e4f9a0eacabb0f96237403b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/js-calendar?_rev=27-da8edcac0e4f9a0eacabb0f96237403b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/invalid-dependency?rev=84-7c0d90e77f0b8b36718414c3cc4a34c8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-sdk/invalid-dependency?_rev=84-7c0d90e77f0b8b36718414c3cc4a34c8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

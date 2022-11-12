@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/autoprefixer?rev=657-55d61845983d41346d0864726d4d27df";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/autoprefixer?_rev=657-55d61845983d41346d0864726d4d27df";
   inputs.packument.flake = false;
 
   outputs = inputs: let

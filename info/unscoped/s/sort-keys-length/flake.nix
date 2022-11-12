@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sort-keys-length?rev=9-9b77bb9e5af17b342fa191accd71d9c8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/sort-keys-length?_rev=9-9b77bb9e5af17b342fa191accd71d9c8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

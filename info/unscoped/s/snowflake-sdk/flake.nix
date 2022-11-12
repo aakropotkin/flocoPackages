@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/snowflake-sdk?rev=51-8ecd7dffc7989e95b4d0b1138183d764";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/snowflake-sdk?_rev=51-8ecd7dffc7989e95b4d0b1138183d764";
   inputs.packument.flake = false;
 
   outputs = inputs: let

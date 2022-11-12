@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mini-css-extract-plugin?rev=78-dd26575211d4ed6606a7649cd9cec337";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/mini-css-extract-plugin?_rev=78-dd26575211d4ed6606a7649cd9cec337";
   inputs.packument.flake = false;
 
   outputs = inputs: let

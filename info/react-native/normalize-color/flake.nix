@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@react-native/normalize-color?rev=16-5ad27f0f5aa2b4158c900709f6d7c947";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@react-native/normalize-color?_rev=16-5ad27f0f5aa2b4158c900709f6d7c947";
   inputs.packument.flake = false;
 
   outputs = inputs: let

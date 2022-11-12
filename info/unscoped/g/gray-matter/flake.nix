@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gray-matter?rev=131-589a15430807056c5296bd82dbd7b64b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gray-matter?_rev=131-589a15430807056c5296bd82dbd7b64b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

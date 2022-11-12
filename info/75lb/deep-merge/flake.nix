@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@75lb/deep-merge?rev=3-4ee97a1176787d5b95d5a71bad44292a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@75lb/deep-merge?_rev=3-4ee97a1176787d5b95d5a71bad44292a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

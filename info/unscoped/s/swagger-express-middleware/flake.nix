@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/swagger-express-middleware?rev=79-2f2ef3234f05c4a7e04cf363d697a618";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/swagger-express-middleware?_rev=79-2f2ef3234f05c4a7e04cf363d697a618";
   inputs.packument.flake = false;
 
   outputs = inputs: let

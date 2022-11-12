@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-popper?rev=85-b3d9e702129a9d23497f474f8c294052";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-popper?_rev=85-b3d9e702129a9d23497f474f8c294052";
   inputs.packument.flake = false;
 
   outputs = inputs: let

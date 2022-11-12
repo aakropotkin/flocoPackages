@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-crypto/ie11-detection?rev=20-5286f604549fa2bbb248b130ade0b52b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@aws-crypto/ie11-detection?_rev=20-5286f604549fa2bbb248b130ade0b52b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-chunkmanager?rev=153-ac10ed3f98fad47097d0639f78b81960";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/node-opcua-chunkmanager?_rev=153-ac10ed3f98fad47097d0639f78b81960";
   inputs.packument.flake = false;
 
   outputs = inputs: let

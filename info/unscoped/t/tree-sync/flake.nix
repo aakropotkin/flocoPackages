@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tree-sync?rev=21-9a958dc14139bff4cee153f655407b90";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/tree-sync?_rev=21-9a958dc14139bff4cee153f655407b90";
   inputs.packument.flake = false;
 
   outputs = inputs: let

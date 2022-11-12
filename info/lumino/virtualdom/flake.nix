@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@lumino/virtualdom?rev=43-c4916c79cf98ede679ae62619113ef34";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@lumino/virtualdom?_rev=43-c4916c79cf98ede679ae62619113ef34";
   inputs.packument.flake = false;
 
   outputs = inputs: let

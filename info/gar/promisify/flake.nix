@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@gar/promisify?rev=7-0e4b7b88a2c3d1c15b916d087a97501f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@gar/promisify?_rev=7-0e4b7b88a2c3d1c15b916d087a97501f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

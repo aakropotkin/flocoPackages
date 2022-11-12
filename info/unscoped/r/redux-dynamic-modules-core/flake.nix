@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/redux-dynamic-modules-core?rev=82-a1c8f6512e412743a7c4394f7c2fb941";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/redux-dynamic-modules-core?_rev=82-a1c8f6512e412743a7c4394f7c2fb941";
   inputs.packument.flake = false;
 
   outputs = inputs: let

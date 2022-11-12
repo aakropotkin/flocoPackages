@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/yamljs?rev=112-c5fd2d17074c2f0bd6771127e116231f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/yamljs?_rev=112-c5fd2d17074c2f0bd6771127e116231f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

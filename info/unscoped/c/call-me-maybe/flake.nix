@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/call-me-maybe?rev=11-34407b76718694748acd21fe9568ffe3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/call-me-maybe?_rev=11-34407b76718694748acd21fe9568ffe3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

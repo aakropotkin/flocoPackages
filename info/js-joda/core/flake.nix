@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@js-joda/core?rev=21-fb8d985ec07488f7bf4c962b88064452";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@js-joda/core?_rev=21-fb8d985ec07488f7bf4c962b88064452";
   inputs.packument.flake = false;
 
   outputs = inputs: let

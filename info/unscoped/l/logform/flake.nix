@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/logform?rev=35-70a6f779007ecd36d2ba8151084bf8e0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/logform?_rev=35-70a6f779007ecd36d2ba8151084bf8e0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

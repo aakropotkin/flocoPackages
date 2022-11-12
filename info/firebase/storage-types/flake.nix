@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/storage-types?rev=2497-82026a106b2e9ca9d7baaf15466475d1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@firebase/storage-types?_rev=2497-82026a106b2e9ca9d7baaf15466475d1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

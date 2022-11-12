@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/signal-exit?rev=37-f3a1fa161a79fe1bc485dd0d509c841f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/signal-exit?_rev=37-f3a1fa161a79fe1bc485dd0d509c841f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

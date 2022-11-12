@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jest/fake-timers?rev=111-daa9f7098f4632f6471b3023c1fab119";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jest/fake-timers?_rev=111-daa9f7098f4632f6471b3023c1fab119";
   inputs.packument.flake = false;
 
   outputs = inputs: let

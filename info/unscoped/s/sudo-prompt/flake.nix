@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sudo-prompt?rev=55-d27c0424098139ad38bda070d3a96627";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/sudo-prompt?_rev=55-d27c0424098139ad38bda070d3a96627";
   inputs.packument.flake = false;
 
   outputs = inputs: let

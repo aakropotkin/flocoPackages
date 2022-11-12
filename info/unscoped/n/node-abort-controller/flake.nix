@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-abort-controller?rev=12-badf3641bb18a2e8b302422fcdbd0931";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/node-abort-controller?_rev=12-badf3641bb18a2e8b302422fcdbd0931";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/compress-commons?rev=58-9261274a0094d7e209cd278cd9f406df";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/compress-commons?_rev=58-9261274a0094d7e209cd278cd9f406df";
   inputs.packument.flake = false;
 
   outputs = inputs: let

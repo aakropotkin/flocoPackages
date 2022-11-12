@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vuex?rev=135-3038c890c1d650762357bf832fdab10d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/vuex?_rev=135-3038c890c1d650762357bf832fdab10d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

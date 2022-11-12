@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hermes-parser?rev=21-c3b6804ec86a6fd3bd6340500d8fbe04";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/hermes-parser?_rev=21-c3b6804ec86a6fd3bd6340500d8fbe04";
   inputs.packument.flake = false;
 
   outputs = inputs: let

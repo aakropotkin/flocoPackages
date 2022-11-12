@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cosmiconfig?rev=62-517489e6b5403e8d333e3275bdf96ad0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cosmiconfig?_rev=62-517489e6b5403e8d333e3275bdf96ad0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

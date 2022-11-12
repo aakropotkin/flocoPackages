@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fork-stream?rev=12-a883a44adad2127fcaa77add9489c1ec";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fork-stream?_rev=12-a883a44adad2127fcaa77add9489c1ec";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/serviceworker-cache-polyfill?rev=4-b6f4a14a62c1adc3e21eda9a021f88a6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/serviceworker-cache-polyfill?_rev=4-b6f4a14a62c1adc3e21eda9a021f88a6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

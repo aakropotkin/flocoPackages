@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-flexbugs-fixes?rev=33-15ecec5d5b3d0e12bbd7a605da2d5372";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-flexbugs-fixes?_rev=33-15ecec5d5b3d0e12bbd7a605da2d5372";
   inputs.packument.flake = false;
 
   outputs = inputs: let

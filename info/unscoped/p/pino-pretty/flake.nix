@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pino-pretty?rev=75-819f4137332286c0eb1669a63abd69f1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/pino-pretty?_rev=75-819f4137332286c0eb1669a63abd69f1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

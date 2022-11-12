@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tinytim?rev=23-508078195c3d360612d3f9ea7838d4ae";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/tinytim?_rev=23-508078195c3d360612d3f9ea7838d4ae";
   inputs.packument.flake = false;
 
   outputs = inputs: let

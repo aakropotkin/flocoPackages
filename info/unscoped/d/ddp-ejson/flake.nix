@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ddp-ejson?rev=8-e0a61eaaac2fc178ee6d731430acf91d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/ddp-ejson?_rev=8-e0a61eaaac2fc178ee6d731430acf91d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

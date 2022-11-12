@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/railroad-diagrams?rev=7-102cd3959892f2bfe3806bafc5889a26";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/railroad-diagrams?_rev=7-102cd3959892f2bfe3806bafc5889a26";
   inputs.packument.flake = false;
 
   outputs = inputs: let

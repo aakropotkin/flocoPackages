@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rust-result?rev=8-7fd31ec1cc45bb2f86fc06fdd45588a0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/rust-result?_rev=8-7fd31ec1cc45bb2f86fc06fdd45588a0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

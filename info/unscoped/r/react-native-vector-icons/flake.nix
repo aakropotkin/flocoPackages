@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-native-vector-icons?rev=136-eb94be3d4a926b5f16c9ab896955b062";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-native-vector-icons?_rev=136-eb94be3d4a926b5f16c9ab896955b062";
   inputs.packument.flake = false;
 
   outputs = inputs: let

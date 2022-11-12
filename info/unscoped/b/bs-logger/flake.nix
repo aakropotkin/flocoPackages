@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bs-logger?rev=7-caf7b15e92119cacfd922a3a7c981c52";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/bs-logger?_rev=7-caf7b15e92119cacfd922a3a7c981c52";
   inputs.packument.flake = false;
 
   outputs = inputs: let

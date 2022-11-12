@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-preset?rev=28-c13a7c453d0085918ee77f6d7eea0ecc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@svgr/babel-preset?_rev=28-c13a7c453d0085918ee77f6d7eea0ecc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

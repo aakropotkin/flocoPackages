@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vue-class-component?rev=60-facd44bcf9a13d91a3d548052f82ab6b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/vue-class-component?_rev=60-facd44bcf9a13d91a3d548052f82ab6b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

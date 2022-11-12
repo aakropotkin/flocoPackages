@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-side-effect?rev=31-e2e81969be0faa38102f608f11669e58";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-side-effect?_rev=31-e2e81969be0faa38102f608f11669e58";
   inputs.packument.flake = false;
 
   outputs = inputs: let

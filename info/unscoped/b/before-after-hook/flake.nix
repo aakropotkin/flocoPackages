@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/before-after-hook?rev=23-0b7b8ad87ffc62bdbc303b00df1e21ac";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/before-after-hook?_rev=23-0b7b8ad87ffc62bdbc303b00df1e21ac";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fastq?rev=26-27c574d30d8e297eb09b91f5762e19b6";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fastq?_rev=26-27c574d30d8e297eb09b91f5762e19b6";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gzip-size?rev=41-a056b058e5c093871bbdae9a962e74b0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/gzip-size?_rev=41-a056b058e5c093871bbdae9a962e74b0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

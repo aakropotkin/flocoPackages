@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vasync?rev=113-e7492529d20d85b7f9d3b339b8b4fee0";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/vasync?_rev=113-e7492529d20d85b7f9d3b339b8b4fee0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

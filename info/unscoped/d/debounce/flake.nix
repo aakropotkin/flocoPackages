@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/debounce?rev=63-4884d7029dec72230870febc839220f9";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/debounce?_rev=63-4884d7029dec72230870febc839220f9";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sumchecker?rev=14-14b83f40e9eb3a72ba6fd1ff8d5674c3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/sumchecker?_rev=14-14b83f40e9eb3a72ba6fd1ff8d5674c3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

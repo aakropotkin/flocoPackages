@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strip-hex-prefix?rev=3-85edc78d0978aa7a2fab5f8aaf54e29c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/strip-hex-prefix?_rev=3-85edc78d0978aa7a2fab5f8aaf54e29c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

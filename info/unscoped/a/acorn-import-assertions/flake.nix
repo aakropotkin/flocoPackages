@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/acorn-import-assertions?rev=22-cbfaa0eb59e510b037702388ca896949";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/acorn-import-assertions?_rev=22-cbfaa0eb59e510b037702388ca896949";
   inputs.packument.flake = false;
 
   outputs = inputs: let

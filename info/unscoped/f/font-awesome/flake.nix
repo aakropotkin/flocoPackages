@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/font-awesome?rev=231-410b7573d2b4589d9e4baa72c2ff0fbd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/font-awesome?_rev=231-410b7573d2b4589d9e4baa72c2ff0fbd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

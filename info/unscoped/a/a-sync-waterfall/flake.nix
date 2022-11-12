@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/a-sync-waterfall?rev=5-2be4c6e45a6ab02b7d50d46d3c5c5b7f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/a-sync-waterfall?_rev=5-2be4c6e45a6ab02b7d50d46d3c5c5b7f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

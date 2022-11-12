@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unist-util-visit-parents?rev=27-c45ed4973ca522d74f11301d20f14eb7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/unist-util-visit-parents?_rev=27-c45ed4973ca522d74f11301d20f14eb7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

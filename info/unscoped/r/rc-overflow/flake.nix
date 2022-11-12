@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-overflow?rev=36-3f2c1314522c5461df1700389ef2a872";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/rc-overflow?_rev=36-3f2c1314522c5461df1700389ef2a872";
   inputs.packument.flake = false;
 
   outputs = inputs: let

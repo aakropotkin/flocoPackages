@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/json-schema-faker-bb?rev=3-5df8e168e950001773c1ccfee7badae4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/json-schema-faker-bb?_rev=3-5df8e168e950001773c1ccfee7badae4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

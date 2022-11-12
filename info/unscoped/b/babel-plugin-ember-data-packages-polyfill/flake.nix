@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-ember-data-packages-polyfill?rev=3-d380a2722d211731f40b0e8bac864238";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-ember-data-packages-polyfill?_rev=3-d380a2722d211731f40b0e8bac864238";
   inputs.packument.flake = false;
 
   outputs = inputs: let

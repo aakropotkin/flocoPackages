@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/karma-chrome-launcher?rev=71-6d6876f799aef42cf3b4aa1d450a1366";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/karma-chrome-launcher?_rev=71-6d6876f799aef42cf3b4aa1d450a1366";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-get-function-arity?rev=87-a085e7b5f12c5822b07474e36c3f3763";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-helper-get-function-arity?_rev=87-a085e7b5f12c5822b07474e36c3f3763";
   inputs.packument.flake = false;
 
   outputs = inputs: let

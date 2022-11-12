@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@protobufjs/aspromise?rev=12-64af4e34e2676721daaa93c229aee15b";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@protobufjs/aspromise?_rev=12-64af4e34e2676721daaa93c229aee15b";
   inputs.packument.flake = false;
 
   outputs = inputs: let

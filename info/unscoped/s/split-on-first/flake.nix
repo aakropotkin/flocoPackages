@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/split-on-first?rev=5-b7c82c2feb59c476b45b63d9f4dbd556";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/split-on-first?_rev=5-b7c82c2feb59c476b45b63d9f4dbd556";
   inputs.packument.flake = false;
 
   outputs = inputs: let

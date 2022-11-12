@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-private-property-in-object?rev=16-aa7f5446082033ffeb70870f94bbc15c";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-private-property-in-object?_rev=16-aa7f5446082033ffeb70870f94bbc15c";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cssnano-preset-default?rev=68-22e3953a6a8d6d1458daf5ccce201e16";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/cssnano-preset-default?_rev=68-22e3953a6a8d6d1458daf5ccce201e16";
   inputs.packument.flake = false;
 
   outputs = inputs: let

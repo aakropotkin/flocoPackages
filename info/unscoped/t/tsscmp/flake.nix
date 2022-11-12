@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tsscmp?rev=12-accd41d48d6e579a317f57b7a71ecd36";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/tsscmp?_rev=12-accd41d48d6e579a317f57b7a71ecd36";
   inputs.packument.flake = false;
 
   outputs = inputs: let

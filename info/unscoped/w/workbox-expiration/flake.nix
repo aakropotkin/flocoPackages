@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-expiration?rev=59-a439ab57a233b1a626241dc474bd3608";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/workbox-expiration?_rev=59-a439ab57a233b1a626241dc474bd3608";
   inputs.packument.flake = false;
 
   outputs = inputs: let

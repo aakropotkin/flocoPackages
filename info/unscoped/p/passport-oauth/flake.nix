@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/passport-oauth?rev=57-11b10c7532c08f1241e5a3b972a059e5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/passport-oauth?_rev=57-11b10c7532c08f1241e5a3b972a059e5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

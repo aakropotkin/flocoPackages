@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/should-type-adaptors?rev=6-a7c485b71b30fea423b97ab099902310";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/should-type-adaptors?_rev=6-a7c485b71b30fea423b97ab099902310";
   inputs.packument.flake = false;
 
   outputs = inputs: let

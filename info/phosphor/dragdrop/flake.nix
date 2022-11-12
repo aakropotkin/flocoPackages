@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/dragdrop?rev=40-049438c5707737b8a66fb0922b3463cc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@phosphor/dragdrop?_rev=40-049438c5707737b8a66fb0922b3463cc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

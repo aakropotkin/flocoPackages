@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es-shim-unscopables";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/es-shim-unscopables";
   inputs.packument.flake = false;
 
   outputs = inputs: let

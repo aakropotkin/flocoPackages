@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/electron-to-chromium?rev=1206-b726de3fd9b83c4e7dc577b6ee5d9658";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/electron-to-chromium?_rev=1206-b726de3fd9b83c4e7dc577b6ee5d9658";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jsrsasign?rev=168-5bd51db98e6bb4e06fb6369640c5138a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/jsrsasign?_rev=168-5bd51db98e6bb4e06fb6369640c5138a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/enzyme-shallow-equal?rev=17-d4f7bc9f2ea266a189c2be75d79d0bb8";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/enzyme-shallow-equal?_rev=17-d4f7bc9f2ea266a189c2be75d79d0bb8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

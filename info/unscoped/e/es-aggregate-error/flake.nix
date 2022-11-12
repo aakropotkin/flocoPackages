@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es-aggregate-error?rev=13-c67c15147ede3c957a8ef4b2b9957ca4";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/es-aggregate-error?_rev=13-c67c15147ede3c957a8ef4b2b9957ca4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

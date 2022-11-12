@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/wrap-ansi?rev=45-ed918173e1ad40c30f02be00d7da8a53";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/wrap-ansi?_rev=45-ed918173e1ad40c30f02be00d7da8a53";
   inputs.packument.flake = false;
 
   outputs = inputs: let

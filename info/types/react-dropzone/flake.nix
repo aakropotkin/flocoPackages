@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/react-dropzone?rev=191-bc29ae70d90d6d453a61d99d4a8aeaaf";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@types/react-dropzone?_rev=191-bc29ae70d90d6d453a61d99d4a8aeaaf";
   inputs.packument.flake = false;
 
   outputs = inputs: let

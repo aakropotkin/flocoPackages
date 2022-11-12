@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/find-root?rev=23-8576e85f2b0dbcb015f52a55315d1dc2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/find-root?_rev=23-8576e85f2b0dbcb015f52a55315d1dc2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

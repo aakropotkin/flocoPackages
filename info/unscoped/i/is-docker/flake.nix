@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-docker?rev=13-1e8d55db0fae0c430e493b7a00d0ee88";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-docker?_rev=13-1e8d55db0fae0c430e493b7a00d0ee88";
   inputs.packument.flake = false;
 
   outputs = inputs: let

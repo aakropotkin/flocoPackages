@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/w3c-xmlserializer?rev=16-77e468a6f43746ff4bc9f270394fd210";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/w3c-xmlserializer?_rev=16-77e468a6f43746ff4bc9f270394fd210";
   inputs.packument.flake = false;
 
   outputs = inputs: let

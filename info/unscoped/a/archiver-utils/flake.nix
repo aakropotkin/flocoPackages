@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/archiver-utils?rev=13-815b99213089934877605cba016e4f25";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/archiver-utils?_rev=13-815b99213089934877605cba016e4f25";
   inputs.packument.flake = false;
 
   outputs = inputs: let

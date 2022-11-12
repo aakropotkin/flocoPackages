@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-addons-css-transition-group?rev=126-07482fbc40c2d7e0f80f7fdb03a9c619";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/react-addons-css-transition-group?_rev=126-07482fbc40c2d7e0f80f7fdb03a9c619";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-blur?rev=129-8a7f778478e6707c7b3e05951f0be951";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-blur?_rev=129-8a7f778478e6707c7b3e05951f0be951";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/keypress?rev=45-867883a245efd55e3b209fe0894177cb";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/keypress?_rev=45-867883a245efd55e3b209fe0894177cb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

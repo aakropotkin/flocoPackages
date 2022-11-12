@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strip-json-comments?rev=52-b1b09ff7b5681a2bceb7ffb917b5c132";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/strip-json-comments?_rev=52-b1b09ff7b5681a2bceb7ffb917b5c132";
   inputs.packument.flake = false;
 
   outputs = inputs: let

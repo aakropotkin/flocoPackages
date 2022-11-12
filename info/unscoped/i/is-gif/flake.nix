@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-gif?rev=16-6adb4d5b6938a974be6c024e6b13cfb7";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-gif?_rev=16-6adb4d5b6938a974be6c024e6b13cfb7";
   inputs.packument.flake = false;
 
   outputs = inputs: let

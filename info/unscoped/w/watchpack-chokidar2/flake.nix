@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/watchpack-chokidar2?rev=2-3b474cf23fe0e5be94265b52d4e2a68f";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/watchpack-chokidar2?_rev=2-3b474cf23fe0e5be94265b52d4e2a68f";
   inputs.packument.flake = false;
 
   outputs = inputs: let

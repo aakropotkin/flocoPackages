@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/memoizee?rev=94-13dd413f9812c929203053330c34ff4e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/memoizee?_rev=94-13dd413f9812c929203053330c34ff4e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

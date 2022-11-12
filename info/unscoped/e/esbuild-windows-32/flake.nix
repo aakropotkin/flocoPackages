@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-windows-32?rev=259-8c4a5c547de9fff36998f7bc4fb522e1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/esbuild-windows-32?_rev=259-8c4a5c547de9fff36998f7bc4fb522e1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

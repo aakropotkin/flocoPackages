@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-browser-comments?rev=4-482b6b839066e43751e59ca6f34b0849";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-browser-comments?_rev=4-482b6b839066e43751e59ca6f34b0849";
   inputs.packument.flake = false;
 
   outputs = inputs: let

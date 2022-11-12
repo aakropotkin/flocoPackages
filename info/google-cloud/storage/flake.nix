@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@google-cloud/storage?rev=194-b54dccd58df96ad6acbc6aec303f9569";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@google-cloud/storage?_rev=194-b54dccd58df96ad6acbc6aec303f9569";
   inputs.packument.flake = false;
 
   outputs = inputs: let

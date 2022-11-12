@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-merge-rules?rev=79-f5fd86f8d9cf08ef709020c126d9649a";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-merge-rules?_rev=79-f5fd86f8d9cf08ef709020c126d9649a";
   inputs.packument.flake = false;
 
   outputs = inputs: let

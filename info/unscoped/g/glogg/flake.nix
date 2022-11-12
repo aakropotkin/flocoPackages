@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/glogg?rev=14-9fc699c87da9ff3c80b7339cc393194d";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/glogg?_rev=14-9fc699c87da9ff3c80b7339cc393194d";
   inputs.packument.flake = false;
 
   outputs = inputs: let

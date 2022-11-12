@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-unc-path?rev=6-3d8efb9757e4ebd45177c0fb37d601fc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/is-unc-path?_rev=6-3d8efb9757e4ebd45177c0fb37d601fc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

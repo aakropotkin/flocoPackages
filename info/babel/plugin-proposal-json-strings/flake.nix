@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-json-strings?rev=46-5ca5ed30a7860e0e2ce63fe6c6456efc";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@babel/plugin-proposal-json-strings?_rev=46-5ca5ed30a7860e0e2ce63fe6c6456efc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

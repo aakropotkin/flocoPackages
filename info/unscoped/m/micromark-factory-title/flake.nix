@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark-factory-title?rev=8-30df5bb6045e4cb60ae7626182a29763";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/micromark-factory-title?_rev=8-30df5bb6045e4cb60ae7626182a29763";
   inputs.packument.flake = false;
 
   outputs = inputs: let

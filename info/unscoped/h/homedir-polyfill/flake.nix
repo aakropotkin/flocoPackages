@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/homedir-polyfill?rev=7-f2f5c325a0c17766eba7adb533f45e9e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/homedir-polyfill?_rev=7-f2f5c325a0c17766eba7adb533f45e9e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

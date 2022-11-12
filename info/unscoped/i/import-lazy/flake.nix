@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/import-lazy?rev=6-c36bbd8040a4e6c8a1ed4b32cd0bf753";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/import-lazy?_rev=6-c36bbd8040a4e6c8a1ed4b32cd0bf753";
   inputs.packument.flake = false;
 
   outputs = inputs: let

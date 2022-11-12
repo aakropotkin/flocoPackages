@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fb-watchman?rev=37-c7afc18cf12e401ebab83583e554bfbd";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fb-watchman?_rev=37-c7afc18cf12e401ebab83583e554bfbd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

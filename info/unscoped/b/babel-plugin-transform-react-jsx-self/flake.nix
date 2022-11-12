@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-react-jsx-self?rev=65-012890c096815d76abd89cde00a27538";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/babel-plugin-transform-react-jsx-self?_rev=65-012890c096815d76abd89cde00a27538";
   inputs.packument.flake = false;
 
   outputs = inputs: let

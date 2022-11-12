@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-config-standard?rev=162-abccca8b0f85fd7472545b7bb45887a2";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/eslint-config-standard?_rev=162-abccca8b0f85fd7472545b7bb45887a2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

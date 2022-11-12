@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-fisheye?rev=126-07bca2455d21293bb6a438a206d2f5e5";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@jimp/plugin-fisheye?_rev=126-07bca2455d21293bb6a438a206d2f5e5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

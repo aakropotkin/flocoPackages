@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fs-promise?rev=69-858e4eb4babcd480b32ca6188795780e";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fs-promise?_rev=69-858e4eb4babcd480b32ca6188795780e";
   inputs.packument.flake = false;
 
   outputs = inputs: let

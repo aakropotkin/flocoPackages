@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/grunt-contrib-copy?rev=164-fe3974c0eead72159e321ef137b35b29";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/grunt-contrib-copy?_rev=164-fe3974c0eead72159e321ef137b35b29";
   inputs.packument.flake = false;
 
   outputs = inputs: let

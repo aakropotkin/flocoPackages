@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fast-decode-uri-component?rev=3-158a58f41ae241f5307730e036a54cce";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/fast-decode-uri-component?_rev=3-158a58f41ae241f5307730e036a54cce";
   inputs.packument.flake = false;
 
   outputs = inputs: let

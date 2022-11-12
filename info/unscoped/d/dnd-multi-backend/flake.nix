@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dnd-multi-backend?rev=50-82f0bbd2fa4631a54f0aa8d388720936";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/dnd-multi-backend?_rev=50-82f0bbd2fa4631a54f0aa8d388720936";
   inputs.packument.flake = false;
 
   outputs = inputs: let

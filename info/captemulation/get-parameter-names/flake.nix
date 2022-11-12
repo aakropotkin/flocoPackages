@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@captemulation/get-parameter-names?rev=11-5b0993c27dee8e4d3411180e117d1669";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/@captemulation/get-parameter-names?_rev=11-5b0993c27dee8e4d3411180e117d1669";
   inputs.packument.flake = false;
 
   outputs = inputs: let

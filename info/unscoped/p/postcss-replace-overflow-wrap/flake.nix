@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-replace-overflow-wrap?rev=10-2a945d2d8904211cb0c4c710f259b1e3";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-replace-overflow-wrap?_rev=10-2a945d2d8904211cb0c4c710f259b1e3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/serialize-error?rev=33-9b8a4bbc3e06a50d4c01870321433640";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/serialize-error?_rev=33-9b8a4bbc3e06a50d4c01870321433640";
   inputs.packument.flake = false;
 
   outputs = inputs: let

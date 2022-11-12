@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-modules-values?rev=29-24413d949f57431656faae3dc9c59ea1";
+  inputs.packument.url   = "https://skimdb.npmjs.com/registry/postcss-modules-values?_rev=29-24413d949f57431656faae3dc9c59ea1";
   inputs.packument.flake = false;
 
   outputs = inputs: let
