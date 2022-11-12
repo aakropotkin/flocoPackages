@@ -113,16 +113,16 @@ final: prev: let
     ;
     inherit (final) flocoPackages;
     nodejs = prev.nodejs-14_x;  # FIXME
+    globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
+      inherit keyTree;
+      inherit (final) flocoPackages;
+    };
   } builder {
     inherit ident version;
     src = let # FIXME: add `latest'
       fetchInfos = loadFetchInfo ident;
     in final.flocoBinsFetcher {
       fetchInfo = fetchInfos."${ident}/${version}";
-    };
-    globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
-      inherit keyTree;
-      inherit (final) flocoPackages;
     };
   } );
 
