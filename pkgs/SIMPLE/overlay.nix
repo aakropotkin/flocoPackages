@@ -6,45 +6,132 @@
 
 final: prev: let
 
-  # A miniature `lib' for using treelock registries.
-  rlib = import ../../registry/lib.nix;
+# ---------------------------------------------------------------------------- #
 
-  lockedEnts = builtins.foldl' ( acc: ent: acc // {
-    ${ent.ident} = final.flocoPackages."${ent.ident}/${ent.version}";
-    "${ent.ident}/${ent.version}" = final.flocoSimpleFetcher ent;
-  } ) {} ( prev.lib.importJSON ./locked.json );
+  infoDir = ../../info;
 
-  unregisteredEnts = builtins.foldl' ( acc: ent: acc // {
-    ${ent.ident} = final.flocoPackages."${ent.ident}/${ent.version}";
-    "${ent.ident}/${ent.version}" = final.flocoSimpleFetcher ent;
-  } ) {} ( prev.lib.importJSON ./locked-no-reg.json );
+  # Packages explicitly marked for export.
+  marked = prev.lib.importJSON ./npmjs.json;
 
-  # Fills all past versions for any locked packages.
-  # NOTE: excludes "*--latest" trees.
-  regEnts = let
-    idents = prev.lib.unique ( map ( { ident, scope, ... }: {
-      inherit ident scope;
-    } ) ( prev.lib.importJSON ./locked.json ) );
-    idsProc = acc: si: let
-      trees = rlib.lookup si.ident;
-      filt  = k: v:
-        ( ! ( prev.lib.hasSuffix "--latest" k ) ) && ( v ? narHash );
-      keeps = prev.lib.filterAttrs filt trees;
-      treesProc = tacc: k: let
-        key = rlib.lockIdToKey k;
-      in tacc // {
-        ${key} = final.flocoSimpleFetcher {
-          ident   = dirOf key;
-          version = baseNameOf key;
-          fetchInfo = keeps.${k};
-        };
+# ---------------------------------------------------------------------------- #
+
+  allFetchInfoDefs = let
+    subdirsOf = d: let
+      des = builtins.readDir d;
+      proc = acc: name:
+        if des.${name} != "directory" then acc else acc ++ [name];
+    in builtins.foldl' proc [] ( builtins.attrNames des );
+    scopes = subdirsOf infoDir;
+    scopeBnames = s:
+      if s != "unscoped" then subdirsOf "${infoDir}/${s}" else
+      builtins.concatMap ( l: subdirsOf "${infoDir}/unscoped/${l}" )
+                         ( subdirsOf "${infoDir}/unscoped" );
+    hier =
+      builtins.foldl' ( acc: s: acc // { ${s} = scopeBnames s; } ) {} scopes;
+  in hier;
+
+
+# ---------------------------------------------------------------------------- #
+
+  definedIn = {
+    scope   ? if final.lib.test "@.*" ident
+              then final.lib.yank "@([^@/]+)/.*" ident
+              else "unscoped"
+  , bname   ? baseNameOf ident
+  , key     ? null #"${ident}/${version}"
+  , ident   ? if args ? key then dirOf key else
+              if scope == "unscoped" then bname else "@${scope}/${bname}"
+  #, version ? baseNameOf args.key
+  } @ args: let
+    bins    = final.lib.importJSONOr {} ../BINS/npmjs.json;
+    inst    = final.lib.importJSONOr {} ../INST/npmjs.json;
+    gyp     = final.lib.importJSONOr {} ../GYP/npmjs.json;
+    simple  = final.lib.importJSONOr {} ../SIMPLE/npmjs.json;
+    hierHas = h: ( h ? ${scope} ) && ( builtins.elem bname h.${scope} );
+    shard   = prev.lib.toLower ( builtins.substring 0 1 bname );
+    dir     = if ( scope == null ) || ( scope == "unscoped" )
+              then "${infoDir}/unscoped/${shard}/${bname}"
+              else "${infoDir}/${scope}/${bname}";
+  in if hierHas bins   then "bins"   else
+     if hierHas inst   then "inst"   else
+     if hierHas gyp    then "gyp"    else
+     if hierHas simple then "simple" else
+     #if builtins.pathExists "${dir}/fetchInfo.json" then "info" else
+     null;
+
+  shouldExport = x: builtins.elem ( definedIn x ) ["info" "simple"];
+
+  #marked = let
+  #  filt = scope: bnames:
+  #    builtins.filter ( bname: shouldExport { inherit scope bname; } ) bnames;
+  #in builtins.mapAttrs filt allFetchInfoDefs;
+
+
+# ---------------------------------------------------------------------------- #
+
+  loadFetchInfo' = {
+    scope
+  , bname
+  , shard ? prev.lib.toLower ( builtins.substring 0 1 bname )
+  }: let
+    ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
+            "@${scope}/${bname}";
+    dir = if ( scope == null ) || ( scope == "unscoped" )
+          then "${infoDir}/unscoped/${shard}/${bname}"
+          else "${infoDir}/${scope}/${bname}";
+    byVers = prev.lib.importJSON "${dir}/fetchInfo.json";
+    allVersions = builtins.attrNames byVers;
+    filt = vs: let
+      releases = builtins.filter final.lib.librange.isRelease vs;
+      gmajor = builtins.groupBy ( prev.lib.yank "([^.]+)\\..*" ) releases;
+      gminor =
+        builtins.groupBy ( prev.lib.yank "([^.]+\\.[^.]+)\\..*" ) releases;
+      minors = let
+        byMinor =
+          builtins.mapAttrs ( _: final.lib.latestVersion ) gminor;
+      in builtins.concatLists ( builtins.attrValues byMinor );
+      highestMajor = let
+        desc = a: b: b < a;
+      in builtins.head ( builtins.sort desc ( builtins.attrNames gmajor ) );
+    in if ( builtins.length vs ) < 10 then vs else
+       minors ++ ( prev.lib.take 10 gmajor.${highestMajor} );
+    proc = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
+  in builtins.foldl' proc {} ( builtins.attrNames byVers );
+
+  loadFetchInfo = ident: let
+    m = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
+  in loadFetchInfo' {
+    scope = builtins.elemAt m 1;
+    bname = builtins.elemAt m 2;
+    shard = prev.lib.toLower ( builtins.elemAt m 3 );
+  };
+
+  markedFetchInfos = let
+    asSb = scope: let
+      proc = acc: bname: acc // {
+        ${bname} = loadFetchInfo' { inherit scope bname; };
       };
-    in acc // ( builtins.foldl' treesProc {} ( builtins.attrNames keeps ) );
-  in builtins.foldl' idsProc {} idents;
+    in builtins.foldl' proc {};
+  in builtins.mapAttrs asSb marked;
 
-  ents = prev.lib.recursiveUpdate regEnts ( lockedEnts // unregisteredEnts );
+
+# ---------------------------------------------------------------------------- #
 
 in {
+
+  __internalSimple = {
+    inherit
+      marked
+      allFetchInfoDefs
+      markedFetchInfos
+      definedIn
+      loadFetchInfo'
+      loadFetchInfo
+    ;
+  };
+
+
+# ---------------------------------------------------------------------------- #
 
   # Produces store paths from `./locked.json' tree entries.
   # In the case of `type = "file"' entries we produce a derivation of the
@@ -57,9 +144,32 @@ in {
       setBinPerms = false;   # None of these have bins.
     };
     src = if fetchInfo.type == "file" then unpacked else fetched;
-  in ent // src;
+  in ent // { sourceInfo = src; inherit (src) outPath; };
 
-  flocoPackages = final.lib.addFlocoPackages prev ents;
+  flocoPackages = prev.flocoPackages.extend ( fpFinal: fpPrev: let
+    proc = acc: scope: let
+      procS = accS: bname: let
+        ident   = if scope == "unscoped" then bname else "@${scope}/${bname}";
+        fis     = markedFetchInfos.${scope}.${bname};
+        latestV = let
+          allVers  = map baseNameOf ( builtins.attrNames fis );
+          releases = builtins.filter final.lib.librange.isRelease allVers;
+          versions = if releases == [] then allVers else releases;
+          latest   = final.lib.latestVersion versions;
+          msg      = "${ident} has no versions in its 'fetchInfo' file";
+        in if ( builtins.length allVers ) < 1 then throw msg else latest;
+        extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
+        addV  = builtins.mapAttrs ( _: fetchInfo:
+          final.flocoSimpleFetcher { inherit fetchInfo; }
+        ) fis;
+      in accS // addV // extra;
+      addsB = builtins.foldl' procS {}
+                              ( builtins.attrNames markedFetchInfos.${scope} );
+    in acc // addsB;
+    exported = builtins.foldl' proc {} ( builtins.attrNames markedFetchInfos );
+  in ( exported // {
+    # Add any explicit defs here.
+  } ) );
 
 }
 

@@ -1,0 +1,1 @@
+jq -Rs 'split( "\n" )|map( select( . != "" ) )|map( capture( "(@(?<scope>[^@/]+)/)?(?<bname>(?<shard>.).*)" )|( if ( .scope == null ) then ( . += { scope: "unscoped", ident: .bname, dir: "unscoped/\(.shard)/\(.bname)" } ) else ( . += { shard: null, ident: "@\(.scope)/\(.bname)", dir: "\(.scope)/\(.bname)" } ) end ) )'
