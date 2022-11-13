@@ -23,9 +23,9 @@ final: prev: let
     in builtins.foldl' proc [] ( builtins.attrNames des );
     scopes = subdirsOf infoDir;
     scopeBnames = s:
-      if s != "unscoped" then subdirsOf "${infoDir}/${s}" else
-      builtins.concatMap ( l: subdirsOf "${infoDir}/unscoped/${l}" )
-                         ( subdirsOf "${infoDir}/unscoped" );
+      if s != "unscoped" then subdirsOf ( infoDir + "/${s}" ) else
+      builtins.concatMap ( l: subdirsOf ( infoDir + "/unscoped/${l}" ) )
+                         ( subdirsOf ( infoDir + "/unscoped" ) );
     hier =
       builtins.foldl' ( acc: s: acc // { ${s} = scopeBnames s; } ) {} scopes;
   in hier;
@@ -50,8 +50,8 @@ final: prev: let
     hierHas = h: ( h ? ${scope} ) && ( builtins.elem bname h.${scope} );
     shard   = prev.lib.toLower ( builtins.substring 0 1 bname );
     dir     = if ( scope == null ) || ( scope == "unscoped" )
-              then "${infoDir}/unscoped/${shard}/${bname}"
-              else "${infoDir}/${scope}/${bname}";
+              then infoDir + "/unscoped/${shard}/${bname}"
+              else infoDir + "/${scope}/${bname}";
   in if hierHas bins   then "bins"   else
      if hierHas inst   then "inst"   else
      if hierHas gyp    then "gyp"    else
@@ -77,8 +77,8 @@ final: prev: let
     ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
             "@${scope}/${bname}";
     dir = if ( scope == null ) || ( scope == "unscoped" )
-          then "${infoDir}/unscoped/${shard}/${bname}"
-          else "${infoDir}/${scope}/${bname}";
+          then infoDir + "/unscoped/${shard}/${bname}"
+          else infoDir + "/${scope}/${bname}";
     byVers = prev.lib.importJSON "${dir}/fetchInfo.json";
     allVersions = builtins.attrNames byVers;
     filt = vs: let
@@ -170,20 +170,22 @@ in {
   in ( exported // {
     # Add any explicit defs here.
     "@azure/msal-node/1.0.0-beta.6" = let
-      fis = prev.lib.importJSON "${infoDir}/azure/msal-node/fetchInfo.json";
+      fis = prev.lib.importJSON ( infoDir + "/azure/msal-node/fetchInfo.json" );
     in final.flocoSimpleFetcher { fetchInfo = fis."1.0.0-beta.6"; };
 
     # FIXME: these are installed packages but we can get away with a copy.
     # Move to `GYP' later.
     "dtrace-provider/0.8.8" = let
       fis = prev.lib.importJSON
-              "${infoDir}/unscoped/d/dtrace-provider/fetchInfo.json";
+              ( infoDir + "/unscoped/d/dtrace-provider/fetchInfo.json" );
     in final.flocoSimpleFetcher { fetchInfo = fis."0.8.8"; };
     "fsevents/2.3.2" = let
-      fis = prev.lib.importJSON "${infoDir}/unscoped/f/fsevents/fetchInfo.json";
+      fis = prev.lib.importJSON
+              ( infoDir + "/unscoped/f/fsevents/fetchInfo.json" );
     in final.flocoSimpleFetcher { fetchInfo = fis."2.3.2"; };
     "keytar/7.9.0" = let
-      fis = prev.lib.importJSON "${infoDir}/unscoped/k/keytar/fetchInfo.json";
+      fis = prev.lib.importJSON
+              ( infoDir + "/unscoped/k/keytar/fetchInfo.json" );
     in final.flocoSimpleFetcher { fetchInfo = fis."7.9.0"; };
   } ) );
 
