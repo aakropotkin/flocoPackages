@@ -273,5 +273,10 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@opentelemetry/api/-/api-1.2.0.tgz",
     "narHash": "sha256-aFdEWh/KdTmE99PJQ2qWn2+uJrXnoM9VL91TaIaAoNw="
+  },
+  "1.3.0": {
+    "narHash": "sha256-TYTeJKciBd/Yf4xd4S3wQYnNWTFoISEO85agvJ/FFd0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@opentelemetry/api/-/api-1.3.0.tgz"
   }
 }

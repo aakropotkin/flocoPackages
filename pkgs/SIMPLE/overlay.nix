@@ -169,6 +169,22 @@ in {
     exported = builtins.foldl' proc {} ( builtins.attrNames markedFetchInfos );
   in ( exported // {
     # Add any explicit defs here.
+    "@azure/msal-node/1.0.0-beta.6" = let
+      fis = prev.lib.importJSON "${infoDir}/azure/msal-node/fetchInfo.json";
+    in final.flocoSimpleFetcher { fetchInfo = fis."1.0.0-beta.6"; };
+
+    # FIXME: these are installed packages but we can get away with a copy.
+    # Move to `GYP' later.
+    "dtrace-provider/0.8.8" = let
+      fis = prev.lib.importJSON
+              "${infoDir}/unscoped/d/dtrace-provider/fetchInfo.json";
+    in final.flocoSimpleFetcher { fetchInfo = fis."0.8.8"; };
+    "fsevents/2.3.2" = let
+      fis = prev.lib.importJSON "${infoDir}/unscoped/f/fsevents/fetchInfo.json";
+    in final.flocoSimpleFetcher { fetchInfo = fis."2.3.2"; };
+    "keytar/7.9.0" = let
+      fis = prev.lib.importJSON "${infoDir}/unscoped/k/keytar/fetchInfo.json";
+    in final.flocoSimpleFetcher { fetchInfo = fis."7.9.0"; };
   } ) );
 
 }
