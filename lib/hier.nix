@@ -22,11 +22,12 @@
 
 
   # For a set of `{ <SCOPE>: [<BNAME>...] }'.
-  scopeBnamesToKeys = hier: let
+  scopeBnamesToIdents = hier: let
     addScopeTo = scope: bnames:
       if scope == "unscoped" then bnames else
       map ( b: "@${scope}/${b}" ) bnames;
-  in builtins.mapAttrs addScopeTo hier;
+    identsByScope = builtins.mapAttrs addScopeTo hier;
+  in builtins.concatLists ( builtins.attrValues identsByScope );
 
 
 # ---------------------------------------------------------------------------- #
@@ -34,7 +35,7 @@
 in {
   inherit
     hierToKeys
-    scopeBnamesToKeys
+    scopeBnamesToIdents
   ;
 }
 
