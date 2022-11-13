@@ -25,7 +25,7 @@
 
 in {
   inherit
-    hierToKey
+    hierToKeys
   ;
 }
 
