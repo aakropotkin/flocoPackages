@@ -32,7 +32,7 @@ final: prev: let
   in builtins.foldl' proc {} ( builtins.attrNames byVers );
 
   loadFetchInfo = ident: let
-    m       = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
+    m = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
   in loadFetchInfo' {
     scope   = builtins.elemAt m 1;
     bname   = builtins.elemAt m 2;

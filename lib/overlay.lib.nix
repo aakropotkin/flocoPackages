@@ -25,6 +25,14 @@ in {  # Begin Exports
     m = prev.recursiveUpdate j ( prev.flocoConfig or {} );
   in prev.libcfg.mkFlocoConfig m;
 
+  inherit (callLib ./hier.nix)
+    hierToKey
+  ;
+  inherit (callLib ./loadFetchInfo.nix)
+    loadFetchInfo'
+    loadFetchInfo
+  ;
+
 }  # End Lib Overlay
 
 

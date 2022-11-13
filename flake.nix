@@ -67,6 +67,8 @@
 
 # ---------------------------------------------------------------------------- #
 
+    lib = at-node-nix.lib.extend libOverlays.default;
+
     inherit overlays packages;
 
     flocoPackagesFor = eachSupportedSystemMap ( system: let
