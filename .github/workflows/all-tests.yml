@@ -77,7 +77,7 @@ jobs:
       - name: All Checks
         run: |
           nix flake check head --show-trace||  \
-          nix flake check head --show-trace -vvvvv;
+          nix flake check head --show-trace -vvvvv --debug -L;
           echo "# ---------------------------------------------------------------------------- #" >&2;
           nix flake check head --show-trace --impure||  \
-          nix flake check head --show-trace --impure -vvvvv;
+          nix flake check head --show-trace --impure -vvvvv --debug -L;
