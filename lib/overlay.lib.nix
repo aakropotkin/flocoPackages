@@ -9,7 +9,7 @@ final: prev: let
 # ---------------------------------------------------------------------------- #
 
   callLibWith = { lib ? final, ... } @ auto: x: let
-    f    = if prev.lib.isFunction x then x else import x;
+    f    = if prev.isFunction x then x else import x;
     args = builtins.intersectAttrs ( builtins.functionArgs f )
                                     ( { inherit lib; } // auto );
   in f args;
