@@ -15,51 +15,51 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  allFetchInfoDefs = let
-    subdirsOf = d: let
-      des = builtins.readDir d;
-      proc = acc: name:
-        if des.${name} != "directory" then acc else acc ++ [name];
-    in builtins.foldl' proc [] ( builtins.attrNames des );
-    scopes = subdirsOf infoDir;
-    scopeBnames = s:
-      if s != "unscoped" then subdirsOf ( infoDir + "/${s}" ) else
-      builtins.concatMap ( l: subdirsOf ( infoDir + "/unscoped/${l}" ) )
-                         ( subdirsOf ( infoDir + "/unscoped" ) );
-    hier =
-      builtins.foldl' ( acc: s: acc // { ${s} = scopeBnames s; } ) {} scopes;
-  in hier;
+  #allFetchInfoDefs = let
+  #  subdirsOf = d: let
+  #    des = builtins.readDir d;
+  #    proc = acc: name:
+  #      if des.${name} != "directory" then acc else acc ++ [name];
+  #  in builtins.foldl' proc [] ( builtins.attrNames des );
+  #  scopes = subdirsOf infoDir;
+  #  scopeBnames = s:
+  #    if s != "unscoped" then subdirsOf ( infoDir + "/${s}" ) else
+  #    builtins.concatMap ( l: subdirsOf ( infoDir + "/unscoped/${l}" ) )
+  #                       ( subdirsOf ( infoDir + "/unscoped" ) );
+  #  hier =
+  #    builtins.foldl' ( acc: s: acc // { ${s} = scopeBnames s; } ) {} scopes;
+  #in hier;
 
 
 # ---------------------------------------------------------------------------- #
 
-  definedIn = {
-    scope   ? if final.lib.test "@.*" ident
-              then final.lib.yank "@([^@/]+)/.*" ident
-              else "unscoped"
-  , bname   ? baseNameOf ident
-  , key     ? null #"${ident}/${version}"
-  , ident   ? if args ? key then dirOf key else
-              if scope == "unscoped" then bname else "@${scope}/${bname}"
-  #, version ? baseNameOf args.key
-  } @ args: let
-    bins    = final.lib.importJSONOr {} ../BINS/npmjs.json;
-    inst    = final.lib.importJSONOr {} ../INST/npmjs.json;
-    gyp     = final.lib.importJSONOr {} ../GYP/npmjs.json;
-    simple  = final.lib.importJSONOr {} ../SIMPLE/npmjs.json;
-    hierHas = h: ( h ? ${scope} ) && ( builtins.elem bname h.${scope} );
-    shard   = prev.lib.toLower ( builtins.substring 0 1 bname );
-    dir     = if ( scope == null ) || ( scope == "unscoped" )
-              then infoDir + "/unscoped/${shard}/${bname}"
-              else infoDir + "/${scope}/${bname}";
-  in if hierHas bins   then "bins"   else
-     if hierHas inst   then "inst"   else
-     if hierHas gyp    then "gyp"    else
-     if hierHas simple then "simple" else
-     #if builtins.pathExists "${dir}/fetchInfo.json" then "info" else
-     null;
+  #definedIn = {
+  #  scope   ? if final.lib.test "@.*" ident
+  #            then final.lib.yank "@([^@/]+)/.*" ident
+  #            else "unscoped"
+  #, bname   ? baseNameOf ident
+  #, key     ? null #"${ident}/${version}"
+  #, ident   ? if args ? key then dirOf key else
+  #            if scope == "unscoped" then bname else "@${scope}/${bname}"
+  ##, version ? baseNameOf args.key
+  #} @ args: let
+  #  bins    = final.lib.importJSONOr {} ../BINS/npmjs.json;
+  #  inst    = final.lib.importJSONOr {} ../INST/npmjs.json;
+  #  gyp     = final.lib.importJSONOr {} ../GYP/npmjs.json;
+  #  simple  = final.lib.importJSONOr {} ../SIMPLE/npmjs.json;
+  #  hierHas = h: ( h ? ${scope} ) && ( builtins.elem bname h.${scope} );
+  #  shard   = prev.lib.toLower ( builtins.substring 0 1 bname );
+  #  dir     = if ( scope == null ) || ( scope == "unscoped" )
+  #            then infoDir + "/unscoped/${shard}/${bname}"
+  #            else infoDir + "/${scope}/${bname}";
+  #in if hierHas bins   then "bins"   else
+  #   if hierHas inst   then "inst"   else
+  #   if hierHas gyp    then "gyp"    else
+  #   if hierHas simple then "simple" else
+  #   #if builtins.pathExists "${dir}/fetchInfo.json" then "info" else
+  #   null;
 
-  shouldExport = x: builtins.elem ( definedIn x ) ["info" "simple"];
+  #shouldExport = x: builtins.elem ( definedIn x ) ["info" "simple"];
 
   #marked = let
   #  filt = scope: bnames:
@@ -122,9 +122,9 @@ in {
   __internalSimple = {
     inherit
       marked
-      allFetchInfoDefs
+      #allFetchInfoDefs
       markedFetchInfos
-      definedIn
+      #definedIn
       loadFetchInfo'
       loadFetchInfo
     ;
