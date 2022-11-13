@@ -8,7 +8,7 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  infoDir = ../../info;
+  infoDir = toString ../../info;
 
   # Packages explicitly marked for export.
   marked = prev.lib.importJSON ./npmjs.json;

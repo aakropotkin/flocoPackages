@@ -15,23 +15,23 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
+  infoDir = toString ../../info;
+
   loadFetchInfo' = {
     scope
   , bname
   , shard ? prev.lib.toLower ( builtins.substring 0 1 bname )
   }: let
-    infoDir = ../../info;
     ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
             "@${scope}/${bname}";
     ldir = if ( scope == null ) || ( scope == "unscoped" )
-           then "${infoDir}/unscoped/${shard}/${bname}"
-           else "${infoDir}/${scope}/${bname}";
-    byVers  = prev.lib.importJSON "${ldir}/fetchInfo.json";
+           then infoDir + "/unscoped/${shard}/${bname}"
+           else infoDir + "/${scope}/${bname}";
+    byVers  = prev.lib.importJSON ( ldir + "/fetchInfo.json" );
     proc    = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
   in builtins.foldl' proc {} ( builtins.attrNames byVers );
 
   loadFetchInfo = ident: let
-    infoDir = ../../info;
     m       = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
   in loadFetchInfo' {
     scope   = builtins.elemAt m 1;
