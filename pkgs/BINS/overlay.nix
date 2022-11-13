@@ -34,9 +34,9 @@ final: prev: let
   loadFetchInfo = ident: let
     m = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
   in loadFetchInfo' {
-    scope   = builtins.elemAt m 1;
-    bname   = builtins.elemAt m 2;
-    shard   = prev.lib.toLower ( builtins.elemAt m 3 );
+    scope = builtins.elemAt m 1;
+    bname = builtins.elemAt m 2;
+    shard = prev.lib.toLower ( builtins.elemAt m 3 );
   };
 
   markedFetchInfos = let
@@ -82,17 +82,52 @@ final: prev: let
     hasExplicitBuild = builtins.pathExists "${dir}/default.nix";
     builder = if hasExplicitBuild then import "${dir}/default.nix" else
               final.mkBinPackage;
+    forTreeNix = let
+      f = import ( dir + "/tree.nix" );
+      forFn = final.lib.apply f { inherit (final) lib stdenv system; };
+    in if prev.lib.isFunction f then forFn else f;
     # TODO: the tree handling has a lot of room for improvement.
     keyTree = args.keyTree or (
-      if builtins.pathExists "${dir}/tree.nix"
-      then builtins.traceVerbose "${ident} using tree.nix"
-                                 ( import "${dir}/tree.nix" )
+      if builtins.pathExists ( dir + "/tree.nix" )
+      then builtins.trace "${ident} using tree.nix" forTreeNix
       else if builtins.pathExists "${dir}/tree.json"
-           then builtins.traceVerbose "${ident} using tree.json"
+           then builtins.trace "${ident} using tree.json"
                                       ( prev.lib.importJSON "${dir}/tree.json" )
            else builtins.trace "${ident} no tree info" {}
     );
-  in builtins.traceVerbose ''
+    buildEnv = {
+      inherit (prev)
+        pjsUtil
+        evalScripts
+        mkBinPackage
+      ;
+      inherit (final)
+        flocoPackages
+        lib
+        stdenv
+      ;
+      nodejs = prev.nodejs-14_x;  # FIXME
+      globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
+        inherit keyTree;
+        inherit (final) flocoPackages;
+      };
+      inherit ident version;
+      src = let # FIXME: add `latest'
+        fetchInfos = loadFetchInfo ident;
+      in final.flocoBinsFetcher {
+        fetchInfo = fetchInfos."${ident}/${version}";
+      };
+    };
+    args =
+      if hasExplicitBuild then final.lib.canPassStrict builder buildEnv else
+      removeAttrs buildEnv [
+        "flocoPackages"
+        "mkBinPackage"
+        "evalScripts"
+        "pjsUtil"
+        "lib"
+      ];
+  in builtins.trace ''
     Generating BIN package: ${ident}@${version}
       ident:   ${ident}
       version: ${version}
@@ -102,29 +137,9 @@ final: prev: let
       dir:     ${dir}
       hasExplicitBuild: ${if hasExplicitBuild then "true" else "false"}
       hasExplicitTree:  ${if keyTree != {} then "true" else "false"}
+      keyTree: ${prev.lib.generators.toPretty {} keyTree}
   ''
-    ( prev.lib.callPackageWith {
-    inherit (prev)
-      pjsUtil
-      stdenv
-      lib
-      evalScripts
-      mkBinPackage
-    ;
-    inherit (final) flocoPackages;
-    nodejs = prev.nodejs-14_x;  # FIXME
-    globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
-      inherit keyTree;
-      inherit (final) flocoPackages;
-    };
-  } builder {
-    inherit ident version;
-    src = let # FIXME: add `latest'
-      fetchInfos = loadFetchInfo ident;
-    in final.flocoBinsFetcher {
-      fetchInfo = fetchInfos."${ident}/${version}";
-    };
-  } );
+    builder args;
 
 
 # ---------------------------------------------------------------------------- #
