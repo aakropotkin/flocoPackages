@@ -77,10 +77,10 @@ final: prev: let
       then builtins.replaceStrings ["@"] [""] ( dirOf ident )
       else "unscoped";
     dir = if scope == "unscoped"
-          then "${toString ./.}/unscoped/${shard}/${bname}/${version}"
-          else "${toString ./.}/${scope}/${bname}/${version}";
-    hasExplicitBuild = builtins.pathExists "${dir}/default.nix";
-    builder = if hasExplicitBuild then import "${dir}/default.nix" else
+          then ( toString ./. ) + "/unscoped/${shard}/${bname}/${version}"
+          else ( toString ./. ) + "/${scope}/${bname}/${version}";
+    hasExplicitBuild = builtins.pathExists ( dir + "/default.nix" );
+    builder = if hasExplicitBuild then import ( dir + "/default.nix" ) else
               final.mkBinPackage;
     forTreeNix = let
       f = import ( dir + "/tree.nix" );
@@ -90,9 +90,9 @@ final: prev: let
     keyTree = args.keyTree or (
       if builtins.pathExists ( dir + "/tree.nix" )
       then builtins.traceVerbose "${ident} using tree.nix" forTreeNix
-      else if builtins.pathExists "${dir}/tree.json"
+      else if builtins.pathExists ( dir + "/tree.json" )
            then builtins.traceVerbose "${ident} using tree.json"
-                                      ( prev.lib.importJSON "${dir}/tree.json" )
+                  ( prev.lib.importJSON ( dir + "/tree.json" ) )
            else builtins.traceVerbose "${ident} no tree info" {}
     );
     buildEnv = {
@@ -203,6 +203,9 @@ in {
     exported = builtins.foldl' proc {} ( builtins.attrNames exports );
   in ( exported // {
     # Add any explicit defs here.
+    "update-browserslist-db/1.0.10" = let
+      prev = exported."update-browserslist-db/1.0.10";
+    in prev // { inherit (prev.src) outPath; };
   } ) );
 
 
@@ -228,6 +231,10 @@ in {
     in builtins.foldl' getLatests {} ( builtins.attrNames exports );
   in exported // {
     # Add explicit defs
+
+    # FIXME: These have a peer cycle
+    # "update-browserslist-db/1.0.10" = final.flocoPackages."browserslist/4.21.4";
+
   };
 
 

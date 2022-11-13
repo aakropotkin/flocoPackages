@@ -1,1 +1,27 @@
-{"0.1.0":{"narHash":"sha256-PGVZW/SbSjh+TmpBZqiQW0Mus3K4ejdTWRqOUEpvT4s=","type":"tarball","url":"https://registry.npmjs.org/function-bind/-/function-bind-0.1.0.tgz"},"1.0.0":{"narHash":"sha256-yIB6c5yVan6QJKRv3d73wkzKd6BabIZTUYjcZFXMKyU=","type":"tarball","url":"https://registry.npmjs.org/function-bind/-/function-bind-1.0.0.tgz"},"1.0.2":{"narHash":"sha256-Wjc4w3wZ8oiwj7z/qeADWUpoTfxq29GNWnU0tfT1aGk=","type":"tarball","url":"https://registry.npmjs.org/function-bind/-/function-bind-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-4Xb/WwwJXmNZg6ygtFkuWvwqUK2Wyg0RHQ8Hvs35se4=","type":"tarball","url":"https://registry.npmjs.org/function-bind/-/function-bind-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-9SZTeDBJ87ogdiEHyC3b2/wr1Bv8qb8rCJeD+OYvf9A=","type":"tarball","url":"https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-PGVZW/SbSjh+TmpBZqiQW0Mus3K4ejdTWRqOUEpvT4s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/function-bind/-/function-bind-0.1.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-yIB6c5yVan6QJKRv3d73wkzKd6BabIZTUYjcZFXMKyU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/function-bind/-/function-bind-1.0.0.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-Wjc4w3wZ8oiwj7z/qeADWUpoTfxq29GNWnU0tfT1aGk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/function-bind/-/function-bind-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-4Xb/WwwJXmNZg6ygtFkuWvwqUK2Wyg0RHQ8Hvs35se4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-9SZTeDBJ87ogdiEHyC3b2/wr1Bv8qb8rCJeD+OYvf9A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz"
+  }
+}

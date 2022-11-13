@@ -1,1 +1,52 @@
-{"1.0.0":{"narHash":"sha256-eVMHgCJDAadFgDQIjCBzvpk7kOKhp+fPeVlLs4zDWNo=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-F0Jy2DdDXRg4pCdhnujCpyIoXdvny1APFeNz0xr83c0=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-iP44hvt19NaxCnbCEdeqMcN92d0d9UwGfPmHtkBi7sI=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-1.2.0.tgz"},"1.3.0":{"narHash":"sha256-Y6NZMjDF6eVlnVCy9bDk5B/RWblkYsJtma9qojsxYxQ=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-1.3.0.tgz"},"2.0.0":{"narHash":"sha256-gfatlV46evnSbx4+NvLDP4PdV73Dakdzj+th27PYTE4=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-VpMQaNPSO18Y7q971kfUOr/HmxCiIU6yhllsGyDOlD0=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-AnR2TiOnsMe3AOlrowBX89akl0owmWLkMfNYjH10x/I=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-757OldFjksDgW0pAliY1+v+0v53f5OarsuZ2BqeBUSQ=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-ljowyqsX7OR2BzxZ8+LNg5LYotBOe7vIxlnR3uLAVU8=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-3.0.2.tgz"},"3.1.0":{"narHash":"sha256-dUB70vIpdmwQzuUKc2swXy2Bk8jj8Ehyg2doWs/Dveg=","type":"tarball","url":"https://registry.npmjs.org/make-dir/-/make-dir-3.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-eVMHgCJDAadFgDQIjCBzvpk7kOKhp+fPeVlLs4zDWNo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-F0Jy2DdDXRg4pCdhnujCpyIoXdvny1APFeNz0xr83c0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-iP44hvt19NaxCnbCEdeqMcN92d0d9UwGfPmHtkBi7sI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-1.2.0.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-Y6NZMjDF6eVlnVCy9bDk5B/RWblkYsJtma9qojsxYxQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-1.3.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-gfatlV46evnSbx4+NvLDP4PdV73Dakdzj+th27PYTE4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-VpMQaNPSO18Y7q971kfUOr/HmxCiIU6yhllsGyDOlD0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-AnR2TiOnsMe3AOlrowBX89akl0owmWLkMfNYjH10x/I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-757OldFjksDgW0pAliY1+v+0v53f5OarsuZ2BqeBUSQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-ljowyqsX7OR2BzxZ8+LNg5LYotBOe7vIxlnR3uLAVU8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-3.0.2.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-dUB70vIpdmwQzuUKc2swXy2Bk8jj8Ehyg2doWs/Dveg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-dir/-/make-dir-3.1.0.tgz"
+  }
+}

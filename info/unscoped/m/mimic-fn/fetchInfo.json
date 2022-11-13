@@ -1,1 +1,42 @@
-{"1.0.0":{"narHash":"sha256-ARVkGbMlERpr6fuoV1H3rxPoJ/e1BBqICs0I/jzdX+0=","type":"tarball","url":"https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-iRp3UAP7tqEikVokM53fGC3pQ7Jh5vidTT4rA4cP+a8=","type":"tarball","url":"https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-bKmECsKZMPkmbA2qjjCOgueKKYiRWC39jHAzXznDdns=","type":"tarball","url":"https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-PFH9GRJe3af9AfuwyJlCVRb85q7saJCJr6ZfjQu7+gM=","type":"tarball","url":"https://registry.npmjs.org/mimic-fn/-/mimic-fn-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-up0po5F914aiPm0fCqnagVNmpVJeMAroQXpYiWZAOn0=","type":"tarball","url":"https://registry.npmjs.org/mimic-fn/-/mimic-fn-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-/oY4ZMNcAT0tcHk9VBpZESHmbQIAteGBkQoWEg29edo=","type":"tarball","url":"https://registry.npmjs.org/mimic-fn/-/mimic-fn-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-kmH2Fg2qKseQt59FvpFhjA7BrLCWD0diNfmGMz1f0bw=","type":"tarball","url":"https://registry.npmjs.org/mimic-fn/-/mimic-fn-3.1.0.tgz"},"4.0.0":{"narHash":"sha256-4gq4guzIkxbI2PrFcSthURsGsVPdysKoVGg1vMd9x8M=","type":"tarball","url":"https://registry.npmjs.org/mimic-fn/-/mimic-fn-4.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-ARVkGbMlERpr6fuoV1H3rxPoJ/e1BBqICs0I/jzdX+0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-iRp3UAP7tqEikVokM53fGC3pQ7Jh5vidTT4rA4cP+a8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-bKmECsKZMPkmbA2qjjCOgueKKYiRWC39jHAzXznDdns=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-PFH9GRJe3af9AfuwyJlCVRb85q7saJCJr6ZfjQu7+gM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-up0po5F914aiPm0fCqnagVNmpVJeMAroQXpYiWZAOn0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-/oY4ZMNcAT0tcHk9VBpZESHmbQIAteGBkQoWEg29edo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-kmH2Fg2qKseQt59FvpFhjA7BrLCWD0diNfmGMz1f0bw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-3.1.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-4gq4guzIkxbI2PrFcSthURsGsVPdysKoVGg1vMd9x8M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-4.0.0.tgz"
+  }
+}

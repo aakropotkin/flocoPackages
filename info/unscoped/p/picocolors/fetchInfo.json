@@ -1,1 +1,32 @@
-{"0.0.0":{"narHash":"sha256-rycf/yAWf45GropaEl2yvFmJenjdF4lGAdUNw6HJiEs=","type":"tarball","url":"https://registry.npmjs.org/picocolors/-/picocolors-0.0.0.tgz"},"0.0.1":{"narHash":"sha256-X8SXkbvT5YGLaSd556GVRo0HR2tGZJfMBPJcQd/V/Ok=","type":"tarball","url":"https://registry.npmjs.org/picocolors/-/picocolors-0.0.1.tgz"},"0.1.0":{"narHash":"sha256-vZE3OAgcofKISWD0c/y5xfWux3xTKDUXZOfkUHJJXLk=","type":"tarball","url":"https://registry.npmjs.org/picocolors/-/picocolors-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-zuTACUuXehAfu+4D8MFgDRtzURql05sM2NJJivf8CcA=","type":"tarball","url":"https://registry.npmjs.org/picocolors/-/picocolors-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-CGklJsRRN2+rXgJ6MeAuv9GVZupQb2MCO3jYsrARv2I=","type":"tarball","url":"https://registry.npmjs.org/picocolors/-/picocolors-0.2.1.tgz"},"1.0.0":{"narHash":"sha256-zo0dDKQASSCpixflPOwG61jzA9IqjZMBN8dwojRu+l8=","type":"tarball","url":"https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-rycf/yAWf45GropaEl2yvFmJenjdF4lGAdUNw6HJiEs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/picocolors/-/picocolors-0.0.0.tgz"
+  },
+  "0.0.1": {
+    "narHash": "sha256-X8SXkbvT5YGLaSd556GVRo0HR2tGZJfMBPJcQd/V/Ok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/picocolors/-/picocolors-0.0.1.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-vZE3OAgcofKISWD0c/y5xfWux3xTKDUXZOfkUHJJXLk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/picocolors/-/picocolors-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-zuTACUuXehAfu+4D8MFgDRtzURql05sM2NJJivf8CcA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/picocolors/-/picocolors-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-CGklJsRRN2+rXgJ6MeAuv9GVZupQb2MCO3jYsrARv2I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/picocolors/-/picocolors-0.2.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-zo0dDKQASSCpixflPOwG61jzA9IqjZMBN8dwojRu+l8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz"
+  }
+}

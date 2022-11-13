@@ -1,1 +1,42 @@
-{"1.0.0":{"narHash":"sha256-QYt2JdWQtT26mgfQnrspaTZ88r8wg0+HmPOVU7JiN1Y=","type":"tarball","url":"https://registry.npmjs.org/leven/-/leven-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-qI7qOOZqHtOadwtxi7HYo6NetLLe2+VmDjOml1cKd8Y=","type":"tarball","url":"https://registry.npmjs.org/leven/-/leven-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-Q3y3nMu7Q8SFyUQTqWp8jlGEsSQyo2U1TvT6kDG6u0A=","type":"tarball","url":"https://registry.npmjs.org/leven/-/leven-1.0.2.tgz"},"2.0.0":{"narHash":"sha256-zsBQRGZfTGybvVNCfUXOFmrxTiFv4QOcTGoZdERA83E=","type":"tarball","url":"https://registry.npmjs.org/leven/-/leven-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-0ZK3RQ2LdtuehE9mgwSwHuBkWvp6EjOf8MJWIOmBz3U=","type":"tarball","url":"https://registry.npmjs.org/leven/-/leven-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-wi9GFVhgaWtNmPUVhNMafOPPPc96XawBzMgo4ZxZYcE=","type":"tarball","url":"https://registry.npmjs.org/leven/-/leven-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-Lqb1AQUSH/47Zodo4pnzTiJ7YVH/ZJ1KxQDyUOvr3Ok=","type":"tarball","url":"https://registry.npmjs.org/leven/-/leven-3.1.0.tgz"},"4.0.0":{"narHash":"sha256-v4VEHdGPE1kuawHbcDwM895oXgm+z5xhwCLcYDLmzC0=","type":"tarball","url":"https://registry.npmjs.org/leven/-/leven-4.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-QYt2JdWQtT26mgfQnrspaTZ88r8wg0+HmPOVU7JiN1Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/leven/-/leven-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-qI7qOOZqHtOadwtxi7HYo6NetLLe2+VmDjOml1cKd8Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/leven/-/leven-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-Q3y3nMu7Q8SFyUQTqWp8jlGEsSQyo2U1TvT6kDG6u0A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/leven/-/leven-1.0.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-zsBQRGZfTGybvVNCfUXOFmrxTiFv4QOcTGoZdERA83E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/leven/-/leven-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-0ZK3RQ2LdtuehE9mgwSwHuBkWvp6EjOf8MJWIOmBz3U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/leven/-/leven-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-wi9GFVhgaWtNmPUVhNMafOPPPc96XawBzMgo4ZxZYcE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/leven/-/leven-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-Lqb1AQUSH/47Zodo4pnzTiJ7YVH/ZJ1KxQDyUOvr3Ok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/leven/-/leven-3.1.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-v4VEHdGPE1kuawHbcDwM895oXgm+z5xhwCLcYDLmzC0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/leven/-/leven-4.0.0.tgz"
+  }
+}
