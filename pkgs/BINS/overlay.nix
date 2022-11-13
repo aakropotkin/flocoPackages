@@ -89,11 +89,11 @@ final: prev: let
     # TODO: the tree handling has a lot of room for improvement.
     keyTree = args.keyTree or (
       if builtins.pathExists ( dir + "/tree.nix" )
-      then builtins.trace "${ident} using tree.nix" forTreeNix
+      then builtins.traceVerbose "${ident} using tree.nix" forTreeNix
       else if builtins.pathExists "${dir}/tree.json"
-           then builtins.trace "${ident} using tree.json"
+           then builtins.traceVerbose "${ident} using tree.json"
                                       ( prev.lib.importJSON "${dir}/tree.json" )
-           else builtins.trace "${ident} no tree info" {}
+           else builtins.traceVerbose "${ident} no tree info" {}
     );
     buildEnv = {
       inherit (prev)
@@ -127,7 +127,7 @@ final: prev: let
         "pjsUtil"
         "lib"
       ];
-  in builtins.trace ''
+  in builtins.traceVerbose ''
     Generating BIN package: ${ident}@${version}
       ident:   ${ident}
       version: ${version}
