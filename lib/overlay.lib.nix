@@ -26,7 +26,7 @@ in {  # Begin Exports
   in prev.libcfg.mkFlocoConfig m;
 
   inherit (callLib ./hier.nix)
-    hierToKey
+    hierToKeys
   ;
   inherit (callLib ./loadFetchInfo.nix)
     loadFetchInfo'
