@@ -27,6 +27,7 @@ in {  # Begin Exports
 
   inherit (callLib ./hier.nix)
     hierToKeys
+    scopeBnamesToKeys
   ;
   inherit (callLib ./loadFetchInfo.nix)
     loadFetchInfo'

@@ -21,11 +21,20 @@
   in builtins.concatLists ( builtins.attrValues versioned );
 
 
+  # For a set of `{ <SCOPE>: [<BNAME>...] }'.
+  scopeBnamesToKeys = hier: let
+    addScopeTo = scope: bnames:
+      if scope == "unscoped" then bnames else
+      map ( b: "@${scope}/${b}" ) bnames;
+  in builtins.mapAttrs addScopeTo hier;
+
+
 # ---------------------------------------------------------------------------- #
 
 in {
   inherit
     hierToKeys
+    scopeBnamesToKeys
   ;
 }
 
