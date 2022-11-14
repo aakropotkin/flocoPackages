@@ -1,1 +1,27 @@
-{"4.0.0":{"narHash":"sha256-qYhsZl8hnmcK5Qwoi6xsRaQzh/4ZBZrbDhCSzo2SSiM=","type":"tarball","url":"https://registry.npmjs.org/@xtuc/long/-/long-4.0.0.tgz"},"4.1.0":{"narHash":"sha256-j0oM/5cmOoLjYCg71eiPYlMe2uMAj6lWIExVlUxC+fk=","type":"tarball","url":"https://registry.npmjs.org/@xtuc/long/-/long-4.1.0.tgz"},"4.2.0":{"narHash":"sha256-Zr3remueU5d5CJ9irK2fW77+AK1Yt/gN7+gPbTxBv9Q=","type":"tarball","url":"https://registry.npmjs.org/@xtuc/long/-/long-4.2.0.tgz"},"4.2.1":{"narHash":"sha256-DvAztSeN9DXsNu8oYUTY7LYYYBX3SS8A39GmE+LMi3U=","type":"tarball","url":"https://registry.npmjs.org/@xtuc/long/-/long-4.2.1.tgz"},"4.2.2":{"narHash":"sha256-vHExajnTeupP2HOcy4djS3gGA+9wJg6McK8dad3Y//8=","type":"tarball","url":"https://registry.npmjs.org/@xtuc/long/-/long-4.2.2.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-qYhsZl8hnmcK5Qwoi6xsRaQzh/4ZBZrbDhCSzo2SSiM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@xtuc/long/-/long-4.0.0.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-j0oM/5cmOoLjYCg71eiPYlMe2uMAj6lWIExVlUxC+fk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@xtuc/long/-/long-4.1.0.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-Zr3remueU5d5CJ9irK2fW77+AK1Yt/gN7+gPbTxBv9Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@xtuc/long/-/long-4.2.0.tgz"
+  },
+  "4.2.1": {
+    "narHash": "sha256-DvAztSeN9DXsNu8oYUTY7LYYYBX3SS8A39GmE+LMi3U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@xtuc/long/-/long-4.2.1.tgz"
+  },
+  "4.2.2": {
+    "narHash": "sha256-vHExajnTeupP2HOcy4djS3gGA+9wJg6McK8dad3Y//8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@xtuc/long/-/long-4.2.2.tgz"
+  }
+}

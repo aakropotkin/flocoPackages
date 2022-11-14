@@ -22,9 +22,9 @@
   prefix = "${npmSys.os}-${npmSys.cpu}";
 
   suffix = let
-    forLinux = if stdenv.isMusl then "-musl" else "-gnu";
-  in if stdenv.isDarwin then "" else
-     if stdenv.isLinux  then forLinux else
+    forLinux = if stdenv.hostPlatform.isMusl then "-musl" else "-gnu";
+  in if stdenv.hostPlatform.isDarwin then "" else
+     if stdenv.hostPlatform.isLinux  then forLinux else
      throw "@swc/core: Unsupported system: ${system}";
 
   ident = "@swc/core-${prefix}${suffix}";

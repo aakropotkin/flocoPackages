@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-O50ZWiMjPIo/YeVqyjnbtAZzUFNtaEcR13eENLIrTMw=","type":"tarball","url":"https://registry.npmjs.org/unique-slug/-/unique-slug-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-gemPN7J7ZVMmoM/WWlyZ9JzT2NWjCAvM3eOw+0hYfTo=","type":"tarball","url":"https://registry.npmjs.org/unique-slug/-/unique-slug-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-xBkD30YpAJjzzgdWSPNj5C/x2nuVZ50MVcOtGO54svc=","type":"tarball","url":"https://registry.npmjs.org/unique-slug/-/unique-slug-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-62VcWr2HHzj7Z3BXIvqsDE6c+BH5G4dJPvisKKysH8w=","type":"tarball","url":"https://registry.npmjs.org/unique-slug/-/unique-slug-2.0.2.tgz"},"3.0.0":{"narHash":"sha256-ASKDRDp5bziQTLbFUmU3TADM7lvSjCcwpfUjVzmpbLg=","type":"tarball","url":"https://registry.npmjs.org/unique-slug/-/unique-slug-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-uKJ0dzgfnBLxlyMHoLvymQllDSVUc1l4z5oql/I/03I=","type":"tarball","url":"https://registry.npmjs.org/unique-slug/-/unique-slug-4.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-O50ZWiMjPIo/YeVqyjnbtAZzUFNtaEcR13eENLIrTMw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-slug/-/unique-slug-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-gemPN7J7ZVMmoM/WWlyZ9JzT2NWjCAvM3eOw+0hYfTo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-slug/-/unique-slug-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-xBkD30YpAJjzzgdWSPNj5C/x2nuVZ50MVcOtGO54svc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-slug/-/unique-slug-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-62VcWr2HHzj7Z3BXIvqsDE6c+BH5G4dJPvisKKysH8w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-slug/-/unique-slug-2.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-ASKDRDp5bziQTLbFUmU3TADM7lvSjCcwpfUjVzmpbLg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-slug/-/unique-slug-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-uKJ0dzgfnBLxlyMHoLvymQllDSVUc1l4z5oql/I/03I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unique-slug/-/unique-slug-4.0.0.tgz"
+  }
+}

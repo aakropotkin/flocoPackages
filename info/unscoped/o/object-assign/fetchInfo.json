@@ -1,1 +1,87 @@
-{"0.1.0":{"narHash":"sha256-AMIVbQ1/A+DgS+c6EfX7XtUZZPmwtyu5Q/RWNiSAbeA=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-2EZf/B/4xGVCw7pn3wDPB6YWK9FQ9fLqSj6ByZG7+eI=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-qIxi/cwjskwQJdv/i2vqJaMSkVoWCkxXuOFl264AyQU=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.1.2.tgz"},"0.2.0":{"narHash":"sha256-NShZ0sj7kmm7IIbkgJ2DwTjfJOOy9/A+6CymSafQtCI=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-G7EIQqQ5Z4nlsBgJxdFmbVuymJHNIaENgTnbRsQ3F5I=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.2.1.tgz"},"0.2.2":{"narHash":"sha256-zwN4wPn8b02qE0Yyjo5i777k1HZvkia74jVAHIM9MtE=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.2.2.tgz"},"0.3.0":{"narHash":"sha256-CrS/biZkzwaP0XzwMckQCbLhpCa95HorwnHVlTb/Z8g=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.3.0.tgz"},"0.3.1":{"narHash":"sha256-4ZoAln4dyzNegKN53W91Ug1bhD426tylfDKN8TfVys0=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.3.1.tgz"},"0.4.0":{"narHash":"sha256-cbmijBOxA5sEaHQMMgUoJdZTSv9rIQ49Tq/LigHZ51w=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-0.4.0.tgz"},"1.0.0":{"narHash":"sha256-IirbnxdvWnTDt1gphuKm5nWPNJWR1C7IiMnjyt505So=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-t7hL8oyq82Qzb4WOlcGXEWH0mbpisV9OyNKGmftQdz4=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-2.0.0.tgz"},"2.1.1":{"narHash":"sha256-UAkmoiNyz+aWNjr1V2T6Der8EUXtVa/7xo2gCvbOLB0=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-2.1.1.tgz"},"3.0.0":{"narHash":"sha256-+KpfwJMNwzrlV9Ygz+3iPnN2yx/6vWupU/MumKqfuHc=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-2k8Jk3/0ZzE6VMlsnq2FWfDdbsMymWnuyQdjBGa51Gc=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-FYYZjyi49wT3aYwGQodtNPyU55VRXCwK1csdrOILBD8=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-4.0.1.tgz"},"4.1.0":{"narHash":"sha256-p15GjXmUYgtsyQgMtaYaAiYje+14HzyhN4nDo9uhVrI=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz"},"4.1.1":{"narHash":"sha256-fy4mKEXjhbY13vj3gcgJUn+6sWqwAFywEe9ioQJAia4=","type":"tarball","url":"https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-AMIVbQ1/A+DgS+c6EfX7XtUZZPmwtyu5Q/RWNiSAbeA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-2EZf/B/4xGVCw7pn3wDPB6YWK9FQ9fLqSj6ByZG7+eI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-qIxi/cwjskwQJdv/i2vqJaMSkVoWCkxXuOFl264AyQU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.1.2.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-NShZ0sj7kmm7IIbkgJ2DwTjfJOOy9/A+6CymSafQtCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-G7EIQqQ5Z4nlsBgJxdFmbVuymJHNIaENgTnbRsQ3F5I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.2.1.tgz"
+  },
+  "0.2.2": {
+    "narHash": "sha256-zwN4wPn8b02qE0Yyjo5i777k1HZvkia74jVAHIM9MtE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.2.2.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-CrS/biZkzwaP0XzwMckQCbLhpCa95HorwnHVlTb/Z8g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.3.0.tgz"
+  },
+  "0.3.1": {
+    "narHash": "sha256-4ZoAln4dyzNegKN53W91Ug1bhD426tylfDKN8TfVys0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.3.1.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-cbmijBOxA5sEaHQMMgUoJdZTSv9rIQ49Tq/LigHZ51w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-0.4.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-IirbnxdvWnTDt1gphuKm5nWPNJWR1C7IiMnjyt505So=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-t7hL8oyq82Qzb4WOlcGXEWH0mbpisV9OyNKGmftQdz4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-2.0.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-UAkmoiNyz+aWNjr1V2T6Der8EUXtVa/7xo2gCvbOLB0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-2.1.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-+KpfwJMNwzrlV9Ygz+3iPnN2yx/6vWupU/MumKqfuHc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-2k8Jk3/0ZzE6VMlsnq2FWfDdbsMymWnuyQdjBGa51Gc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-FYYZjyi49wT3aYwGQodtNPyU55VRXCwK1csdrOILBD8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-4.0.1.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-p15GjXmUYgtsyQgMtaYaAiYje+14HzyhN4nDo9uhVrI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz"
+  },
+  "4.1.1": {
+    "narHash": "sha256-fy4mKEXjhbY13vj3gcgJUn+6sWqwAFywEe9ioQJAia4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz"
+  }
+}

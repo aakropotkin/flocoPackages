@@ -47,7 +47,12 @@
     # Installable Packages for Flake CLI.
     packages = eachSupportedSystemMap ( system: let
       pkgsFor = pkgsForSys system;
-      bins    = pkgsFor.flocoApps;
+
+      bins'   = pkgsFor.flocoApps;
+      no-i686 = removeAttrs bins' ["swc--core"];
+
+      bins = if system != "i686-linux" then bins' else no-i686;
+
     in bins // {
 
       fsevents--1_2_13 = pkgsFor.flocoPackages."fsevents/1.2.13";
