@@ -139,11 +139,7 @@
     "url": "https://registry.npmjs.org/node-opcua-crypto/-/node-opcua-crypto-1.11.0.tgz",
     "narHash": "sha256-Oqspl8GMCOSURPe4566r4DlCItqI0nLl4LV+OEXO7HI="
   },
-  "1.12.0": {
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/node-opcua-crypto/-/node-opcua-crypto-1.12.0.tgz",
-    "narHash": "sha256-VU5Z8tCFNUWnVvLRW0yhmXwfkgYR4ZKJ/3A5rufbSpc="
-  },
+  "1.12.0": null,
   "1.2.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/node-opcua-crypto/-/node-opcua-crypto-1.2.0.tgz",

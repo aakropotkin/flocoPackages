@@ -1,1 +1,28 @@
-{"1.0.0":{"narHash":"sha256-k1Rruslee7I2bqIt4+LHJ1BM1Ih+ICywFPeYY9t2of4=","type":"tarball","url":"https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-D8TYbKz5QbGkww1ICCPShFR9vyZ42xKzaxNgiAZNrRs=","type":"tarball","url":"https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.1.tgz"},"1.0.3":{"narHash":"sha256-DMgfRJ4nV0GjV+uqefn28yTrtsXPdNtkBb17BOIPOpA=","type":"tarball","url":"https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-DSishVvyBduYv47rhFZl6gMy8Ip8uUSehH+7S69aLVQ=","type":"tarball","url":"https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.4.tgz"},"1.1.0":{"narHash":"sha256-y14ZhusA1LEqisb2LFVjdtW57DkkzcOZS6uICYVmbHs=","type":"tarball","url":"https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-vGU4OvpwDGE0bY4mwlLXGNIECj01cGXUZNnIomU3U+k=","type":"tarball","url":"https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.2.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-k1Rruslee7I2bqIt4+LHJ1BM1Ih+ICywFPeYY9t2of4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-D8TYbKz5QbGkww1ICCPShFR9vyZ42xKzaxNgiAZNrRs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.1.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-DMgfRJ4nV0GjV+uqefn28yTrtsXPdNtkBb17BOIPOpA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-DSishVvyBduYv47rhFZl6gMy8Ip8uUSehH+7S69aLVQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.4.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-y14ZhusA1LEqisb2LFVjdtW57DkkzcOZS6uICYVmbHs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.1.0.tgz"
+  },
+  "1.2.0": null
+}

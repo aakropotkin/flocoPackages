@@ -254,11 +254,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz"
   },
-  "6.0.0": {
-    "narHash": "sha256-lBc6340YZYAh1Numj5iz418ChtGb3UUtRZLOYj/WJXg=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/lru-cache/-/lru-cache-6.0.0.tgz"
-  },
+  "6.0.0": null,
   "7.0.0": {
     "narHash": "sha256-PpVgORWjEcsx0zvMVufRiPA2kwXFRMhoOVw9WdKsrIM=",
     "type": "tarball",

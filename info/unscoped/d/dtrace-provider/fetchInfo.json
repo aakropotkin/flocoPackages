@@ -169,9 +169,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/dtrace-provider/-/dtrace-provider-0.8.7.tgz"
   },
-  "0.8.8": {
-    "narHash": "sha256-mc4Ha9ozh3CyA8cGi592Io4H1XhPjy5Vl6ZbbrQ65F4=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/dtrace-provider/-/dtrace-provider-0.8.8.tgz"
-  }
+  "0.8.8": null
 }

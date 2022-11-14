@@ -1,1 +1,33 @@
-{"1.0.0":{"narHash":"sha256-d7l3O1f5GLTgL6PSNqYCiG0WebaQyX3LhB3dslkFGPg=","type":"tarball","url":"https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-qCsM0NfTluMrcXmlzcT6nsNMR5JZqii6B0gxiFyhsBM=","type":"tarball","url":"https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-3s8uScUHmIAcJL4t1kso1pRgL0b/MAs8dd8nokgPpDw=","type":"tarball","url":"https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-TfDN0wM2hLboqnVein4kjWYMqqLhmsymImFqGTkbFyA=","type":"tarball","url":"https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-EN8p9BNOJOMrZ5guxUaJCb4AkDBiVIq2Te2biFuMMtI=","type":"tarball","url":"https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.2.0.tgz"},"1.3.0":{"narHash":"sha256-ap3cLOt9gVlH1RBSoLnuEeU131pHkagYw6EnMxgXvMI=","type":"tarball","url":"https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.3.0.tgz"},"1.3.1":{"narHash":"sha256-/YdTJ+akyx6LN0WTEwOKFJmR7Myd33sj+pNN5qtCyls=","type":"tarball","url":"https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.3.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-d7l3O1f5GLTgL6PSNqYCiG0WebaQyX3LhB3dslkFGPg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-qCsM0NfTluMrcXmlzcT6nsNMR5JZqii6B0gxiFyhsBM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-3s8uScUHmIAcJL4t1kso1pRgL0b/MAs8dd8nokgPpDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-TfDN0wM2hLboqnVein4kjWYMqqLhmsymImFqGTkbFyA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-EN8p9BNOJOMrZ5guxUaJCb4AkDBiVIq2Te2biFuMMtI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.2.0.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-ap3cLOt9gVlH1RBSoLnuEeU131pHkagYw6EnMxgXvMI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.3.0.tgz"
+  },
+  "1.3.1": null
+}

@@ -184,11 +184,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/js-yaml/-/js-yaml-3.14.0.tgz"
   },
-  "3.14.1": {
-    "narHash": "sha256-77V7kBw4w4mGhwUA3ay8IvZMqBK8XpXCEjaCDhCyuHU=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/js-yaml/-/js-yaml-3.14.1.tgz"
-  },
+  "3.14.1": null,
   "3.2.1": {
     "narHash": "sha256-sq03YGmp9+isD0wmB+aZ5TNt61TSTj8FmKF3ve3p/4w=",
     "type": "tarball",
@@ -354,9 +350,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/js-yaml/-/js-yaml-4.0.0.tgz"
   },
-  "4.1.0": {
-    "narHash": "sha256-puppzIyc3zvi1et748xYGKqaZdZwBxnBhqjUHXHA898=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz"
-  }
+  "4.1.0": null
 }

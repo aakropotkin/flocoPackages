@@ -304,11 +304,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jest/test-sequencer/-/test-sequencer-27.5.0.tgz"
   },
-  "27.5.1": {
-    "narHash": "sha256-P6jWYLsrM8b8p1DCIhtFP21WfSCiY09yj3H0ngKVl5I=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/@jest/test-sequencer/-/test-sequencer-27.5.1.tgz"
-  },
+  "27.5.1": null,
   "28.0.0": {
     "narHash": "sha256-nHs7zkSHVqrja4azPNZ19/C+/YKf4G8i3FpugbDwtUM=",
     "type": "tarball",
@@ -334,11 +330,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jest/test-sequencer/-/test-sequencer-28.1.1.tgz"
   },
-  "28.1.3": {
-    "narHash": "sha256-d9lHlWyOHJ/KmlNoIFB01CX9e5/+U6aVlSfrY27cY4E=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/@jest/test-sequencer/-/test-sequencer-28.1.3.tgz"
-  },
+  "28.1.3": null,
   "29.0.0": {
     "narHash": "sha256-MABxScpRjWfODLUL/yTxvdsIAYEPfERQJLSuISpp4Do=",
     "type": "tarball",
@@ -384,9 +376,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jest/test-sequencer/-/test-sequencer-29.2.2.tgz"
   },
-  "29.3.1": {
-    "narHash": "sha256-iEVcj/BWGmWf55bOP+OU3ikmL0JQEVMvb65Gb3egdTs=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/@jest/test-sequencer/-/test-sequencer-29.3.1.tgz"
-  }
+  "29.3.1": null
 }

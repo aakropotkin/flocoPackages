@@ -39,11 +39,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/json5/-/json5-1.0.0.tgz"
   },
-  "1.0.1": {
-    "narHash": "sha256-/+H/3159fHMNlZPlkcdIlLhqKp8mDombkdemH6u2kMY=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/json5/-/json5-1.0.1.tgz"
-  },
+  "1.0.1": null,
   "2.0.0": {
     "narHash": "sha256-+ndMbQxddZ8Im1oTZXjPJnDkCFe6ySwoL4uoMuVK8B8=",
     "type": "tarball",
@@ -79,9 +75,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/json5/-/json5-2.2.0.tgz"
   },
-  "2.2.1": {
-    "narHash": "sha256-PgrLu4SpiCoTAiOXFU+cLSmXVh5SlRpioTfUw6Eiuh4=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/json5/-/json5-2.2.1.tgz"
-  }
+  "2.2.1": null
 }

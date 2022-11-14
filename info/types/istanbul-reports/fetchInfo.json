@@ -1,1 +1,23 @@
-{"1.1.0":{"narHash":"sha256-Z2oGftwhlYIBonwLTY7tVx7WmSJfzsfzPwEg/CmR01U=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-cxnqE+eF/9n8zWUTr9v5H5DdpAtwmwTHG7rS8OWOgxA=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-EyuCGCzjrX/ikSzhpjwhKaLarvIVe8ct/ffT/mwBG6Y=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-1.1.2.tgz"},"3.0.0":{"narHash":"sha256-Am7dMvnRB/pyQ/7700/VQtHBaPuF7TSL/p8Z3yDAA20=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-4QFiNHjYRB44vWHfJBGOt/Msc/4sM6lvkaXTJUE0jtU=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-3.0.1.tgz"}}
+{
+  "1.1.0": {
+    "narHash": "sha256-Z2oGftwhlYIBonwLTY7tVx7WmSJfzsfzPwEg/CmR01U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-cxnqE+eF/9n8zWUTr9v5H5DdpAtwmwTHG7rS8OWOgxA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-EyuCGCzjrX/ikSzhpjwhKaLarvIVe8ct/ffT/mwBG6Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-1.1.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-Am7dMvnRB/pyQ/7700/VQtHBaPuF7TSL/p8Z3yDAA20=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-3.0.0.tgz"
+  },
+  "3.0.1": null
+}

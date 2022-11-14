@@ -1,1 +1,58 @@
-{"1.0.0":{"narHash":"sha256-ARdcufGMRWfpWMAX0H4+p/Hrk5DK/1qedqMtvNjap9M=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.0.0.tgz"},"1.0.2":{"narHash":"sha256-z0XwQayHyoxwJl3xqwzE6jSPRZDfwxFNw3Nt5fJ5npE=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-KvsbozH3bFVM6iDmoHfzPKef0hlBAkeLb3PxLpWNSHs=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-YqWEGZBA5R3IOFSGADR2Aun8f4f05wx1YAS6FAf/0fM=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-D13FKc8yM0rEEyRqUuHZUk3EbOYfc6FZlDoP+V458Pw=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.2.tgz"},"1.1.3":{"narHash":"sha256-s9haLGlv747NkIQAQhDtqB+dipjhxu5Lhbn+C3SbqYo=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.3.tgz"},"1.1.4":{"narHash":"sha256-TzFRxNy4LPkU2AOFMUDiMbSPB262lTVg/IlEM0P3S0o=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.4.tgz"},"1.2.0":{"narHash":"sha256-QYIUe2ob5nvs9kphNyS1OFc/w0XjWF/0+sTtcqJMdOs=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.2.0.tgz"},"1.3.0":{"narHash":"sha256-UE6t7pFwBN6kaLZ7K3UmHfLbY9oS29NvV/9FiIOaGLY=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.3.0.tgz"},"1.3.1":{"narHash":"sha256-bmfAl9MchEqECLkMGWJsNgY0jYbQuUzFxVfCPqJvXFQ=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.3.1.tgz"},"1.3.2":{"narHash":"sha256-evInIiBs7QAz7pO8/vv5z3cYKN4NVVt5ZqJyFAuHgWM=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.3.2.tgz"},"1.4.0":{"narHash":"sha256-LXMklE13SPqs0ke/PY+C3j6ZwDcifpJx3UawWqNIA3A=","type":"tarball","url":"https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.4.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-ARdcufGMRWfpWMAX0H4+p/Hrk5DK/1qedqMtvNjap9M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.0.0.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-z0XwQayHyoxwJl3xqwzE6jSPRZDfwxFNw3Nt5fJ5npE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-KvsbozH3bFVM6iDmoHfzPKef0hlBAkeLb3PxLpWNSHs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-YqWEGZBA5R3IOFSGADR2Aun8f4f05wx1YAS6FAf/0fM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-D13FKc8yM0rEEyRqUuHZUk3EbOYfc6FZlDoP+V458Pw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.2.tgz"
+  },
+  "1.1.3": {
+    "narHash": "sha256-s9haLGlv747NkIQAQhDtqB+dipjhxu5Lhbn+C3SbqYo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.3.tgz"
+  },
+  "1.1.4": {
+    "narHash": "sha256-TzFRxNy4LPkU2AOFMUDiMbSPB262lTVg/IlEM0P3S0o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.1.4.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-QYIUe2ob5nvs9kphNyS1OFc/w0XjWF/0+sTtcqJMdOs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.2.0.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-UE6t7pFwBN6kaLZ7K3UmHfLbY9oS29NvV/9FiIOaGLY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.3.0.tgz"
+  },
+  "1.3.1": {
+    "narHash": "sha256-bmfAl9MchEqECLkMGWJsNgY0jYbQuUzFxVfCPqJvXFQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.3.1.tgz"
+  },
+  "1.3.2": {
+    "narHash": "sha256-evInIiBs7QAz7pO8/vv5z3cYKN4NVVt5ZqJyFAuHgWM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-auth/-/core-auth-1.3.2.tgz"
+  },
+  "1.4.0": null
+}

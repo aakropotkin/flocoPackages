@@ -49,11 +49,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-2.1.0.tgz"
   },
-  "2.1.1": {
-    "narHash": "sha256-azGXDJjRJQOGqXVizLJKXDsCUKxdaLJsQ/wO3hqAHxw=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-2.1.1.tgz"
-  },
+  "2.1.1": null,
   "3.0.0": {
     "narHash": "sha256-yYD6nP5JDKvnWnkv+049uiJ+fLpN32W+EwQWfPgRGzY=",
     "type": "tarball",
@@ -84,9 +80,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.0.tgz"
   },
-  "5.0.1": {
-    "narHash": "sha256-+vtC2A5vM5ixOFrv1pRteDxoFLswFln/YcK09AmMbQM=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.1.tgz"
-  }
+  "5.0.1": null
 }

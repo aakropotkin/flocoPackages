@@ -1,1 +1,18 @@
-{"1.0.1":{"narHash":"sha256-OdRiPxoCkDkadlqgCbXNGmUEOSNXi30SWcx1s6P49QE=","type":"tarball","url":"https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-tMFDn7hb/dRIKN1R9kCaPkA1OiCM5NWtrQ2HQCOuA0o=","type":"tarball","url":"https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-vHZOwG0Ly7KtIM7yacZfGz1P+Uq6Yd1ohS7qz0EuML0=","type":"tarball","url":"https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-CE2xHQXW+86NSKVLtjRH1sqnBbV3lYlI2mlLCVOxgzs=","type":"tarball","url":"https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.4.tgz"}}
+{
+  "1.0.1": {
+    "narHash": "sha256-OdRiPxoCkDkadlqgCbXNGmUEOSNXi30SWcx1s6P49QE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-tMFDn7hb/dRIKN1R9kCaPkA1OiCM5NWtrQ2HQCOuA0o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-vHZOwG0Ly7KtIM7yacZfGz1P+Uq6Yd1ohS7qz0EuML0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.3.tgz"
+  },
+  "1.0.4": null
+}

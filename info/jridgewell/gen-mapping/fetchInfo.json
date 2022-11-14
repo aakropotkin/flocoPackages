@@ -1,1 +1,24 @@
-{"0.1.0":{"narHash":"sha256-hpcUgw4c96GxfDimE3eGTWiHaT9+5hl66Dk48GAiugY=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-4s0QHwGuQ7U9seKMKMknmZy0UOJFVSAyuQc5Dm3Ylt0=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz"},"0.2.0":{"narHash":"sha256-d6w/ROxxJQTFnGbETb8mJWSNtOdewtqvZe5sh2j+NYE=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-kn/WCxNIlW4Xwk4OzUaCAZ+HoYPKM2HgvZE2cAAW54U=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.0.tgz"},"0.3.1":{"narHash":"sha256-grOEb010ccJ1GB0GiNcMKHfSRS5pxA8OyOo1TXnMGfc=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.1.tgz"},"0.3.2":{"narHash":"sha256-KmYeSuSah43dRS1I6Tit9AyhP9MP9jmyhdOGbzLOi8A=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.2.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-hpcUgw4c96GxfDimE3eGTWiHaT9+5hl66Dk48GAiugY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.1.0.tgz"
+  },
+  "0.1.1": null,
+  "0.2.0": {
+    "narHash": "sha256-d6w/ROxxJQTFnGbETb8mJWSNtOdewtqvZe5sh2j+NYE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-kn/WCxNIlW4Xwk4OzUaCAZ+HoYPKM2HgvZE2cAAW54U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.0.tgz"
+  },
+  "0.3.1": {
+    "narHash": "sha256-grOEb010ccJ1GB0GiNcMKHfSRS5pxA8OyOo1TXnMGfc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.1.tgz"
+  },
+  "0.3.2": null
+}

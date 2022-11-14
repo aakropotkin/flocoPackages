@@ -1,1 +1,69 @@
-{"6.0.0":{"narHash":"sha256-FiaLNpGXKp9d+5Dnvhxh5mDVDX6jngnKIZ/0afX8m5o=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.0.0.tgz"},"6.0.1":{"narHash":"sha256-PlofqOEGafofkbn7iDKN0vpwrkWdcx+n269j37Bq99I=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.0.1.tgz"},"6.1.0":{"narHash":"sha256-x6G37V4ZhMImNv4iuMAbqEv3Nxr0POCnhzmK/ZEmZZg=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.1.0.tgz"},"6.1.1":{"narHash":"sha256-bHTf1UKZn9JZD/3X2ph0ep1cYS3yx857RmSTPONpHyI=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.1.1.tgz"},"6.2.0":{"narHash":"sha256-H2hOZYHyNxhNEkPH31Bb6oGkUDNeZ0gGLTDhGjq00Z8=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.2.0.tgz"},"7.0.0":{"narHash":"sha256-zL25HTYMrbOzRjmJy06tTT74InwDv8YZEiElE/5QKDc=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.0.0.tgz"},"7.1.0":{"narHash":"sha256-I5mn2uDMKXtcgvEG/XAUIsLUSOAdIAPSRV0O8/HG3xo=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.1.0.tgz"},"7.1.1":{"narHash":"sha256-aAsI/3loTZl3yGB6tO9iy7ZxPmlb2X6UGtTl8yZxPz0=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.1.1.tgz"},"7.2.0":{"narHash":"sha256-ff/jwu956olgLIt9uw4CVY+uqIax0drvz5xetSF6KC8=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.2.0.tgz"},"8.0.0":{"narHash":"sha256-n2CD3DaRddivTnSVYWzP4SWMdNKUXHIlevtCTh1+BPM=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.0.0.tgz"},"8.0.1":{"narHash":"sha256-JlLOUw9kNNjrYCMOaHrD7Kb7Ra06U3TeNxErAOCYw5A=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.0.1.tgz"},"8.0.2":{"narHash":"sha256-FQTh6DYtf+fm6VK15er1VY4Sn/U5SAetrsh3RfiF6r4=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.0.2.tgz"},"8.1.0":{"narHash":"sha256-eA9y+0J1x8JTljlxeubYH75W7q7Eq0szApZrH/i/cVQ=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.1.0.tgz"},"8.1.1":{"narHash":"sha256-L/3708NnkHyVQd4yMupY/GPqOfDP8WkWJdX6cFKQ8Ns=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.1.1.tgz"},"8.2.0":{"narHash":"sha256-r0AD0ghO/QtrsmNIpAR8ZRPKo67l9fqf1Z5RSSgBImM=","type":"tarball","url":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.2.0.tgz"}}
+{
+  "6.0.0": {
+    "narHash": "sha256-FiaLNpGXKp9d+5Dnvhxh5mDVDX6jngnKIZ/0afX8m5o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.0.0.tgz"
+  },
+  "6.0.1": {
+    "narHash": "sha256-PlofqOEGafofkbn7iDKN0vpwrkWdcx+n269j37Bq99I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.0.1.tgz"
+  },
+  "6.1.0": {
+    "narHash": "sha256-x6G37V4ZhMImNv4iuMAbqEv3Nxr0POCnhzmK/ZEmZZg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.1.0.tgz"
+  },
+  "6.1.1": {
+    "narHash": "sha256-bHTf1UKZn9JZD/3X2ph0ep1cYS3yx857RmSTPONpHyI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.1.1.tgz"
+  },
+  "6.2.0": {
+    "narHash": "sha256-H2hOZYHyNxhNEkPH31Bb6oGkUDNeZ0gGLTDhGjq00Z8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.2.0.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-zL25HTYMrbOzRjmJy06tTT74InwDv8YZEiElE/5QKDc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.0.0.tgz"
+  },
+  "7.1.0": {
+    "narHash": "sha256-I5mn2uDMKXtcgvEG/XAUIsLUSOAdIAPSRV0O8/HG3xo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.1.0.tgz"
+  },
+  "7.1.1": {
+    "narHash": "sha256-aAsI/3loTZl3yGB6tO9iy7ZxPmlb2X6UGtTl8yZxPz0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.1.1.tgz"
+  },
+  "7.2.0": null,
+  "8.0.0": {
+    "narHash": "sha256-n2CD3DaRddivTnSVYWzP4SWMdNKUXHIlevtCTh1+BPM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.0.0.tgz"
+  },
+  "8.0.1": {
+    "narHash": "sha256-JlLOUw9kNNjrYCMOaHrD7Kb7Ra06U3TeNxErAOCYw5A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.0.1.tgz"
+  },
+  "8.0.2": {
+    "narHash": "sha256-FQTh6DYtf+fm6VK15er1VY4Sn/U5SAetrsh3RfiF6r4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.0.2.tgz"
+  },
+  "8.1.0": {
+    "narHash": "sha256-eA9y+0J1x8JTljlxeubYH75W7q7Eq0szApZrH/i/cVQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.1.0.tgz"
+  },
+  "8.1.1": {
+    "narHash": "sha256-L/3708NnkHyVQd4yMupY/GPqOfDP8WkWJdX6cFKQ8Ns=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.1.1.tgz"
+  },
+  "8.2.0": null
+}

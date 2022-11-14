@@ -204,19 +204,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/v8-to-istanbul/-/v8-to-istanbul-8.1.0.tgz"
   },
-  "8.1.1": {
-    "narHash": "sha256-zG9qSrDOovf/3/ucQoml6bw0xX/SHElr5TWFEVVzRic=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/v8-to-istanbul/-/v8-to-istanbul-8.1.1.tgz"
-  },
+  "8.1.1": null,
   "9.0.0": {
     "narHash": "sha256-9cZSQBZ70Od9c90HbQpGBL98eDqDN/O7219163PleLA=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/v8-to-istanbul/-/v8-to-istanbul-9.0.0.tgz"
   },
-  "9.0.1": {
-    "narHash": "sha256-7KEKlZfsL2VKrB1Vdr6jqjDyoT0Cb8HhFr3UDpU9Cbs=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/v8-to-istanbul/-/v8-to-istanbul-9.0.1.tgz"
-  }
+  "9.0.1": null
 }

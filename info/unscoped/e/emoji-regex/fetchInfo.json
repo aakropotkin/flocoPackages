@@ -129,16 +129,8 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-7.0.2.tgz"
   },
-  "7.0.3": {
-    "narHash": "sha256-VwcNgz/UbV/rDpYLbPL34EpEHdIhrATQaez1gZxA9dg=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-7.0.3.tgz"
-  },
-  "8.0.0": {
-    "narHash": "sha256-WRW3MHslwJkKGL+xt09TThHNLeRiKIcUGIk1j+ewTpc=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz"
-  },
+  "7.0.3": null,
+  "8.0.0": null,
   "9.0.0": {
     "narHash": "sha256-TBaAM3hcY/LvIjRtMWA7BX8SlBuxnGJ6Idpdphxgig0=",
     "type": "tarball",

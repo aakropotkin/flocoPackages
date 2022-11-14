@@ -1,1 +1,48 @@
-{"1.0.0":{"narHash":"sha256-+XFV/3iQk+6kkTEAQicU2woHYgaD6U3H1RLRhK4S4KI=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-of/AForYRIjeGEwXhrz6nVdsTDbetDI6vKEUCMVgBmE=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.1.tgz"},"1.0.10":{"narHash":"sha256-9sVX1ZVj7gRg/clUrONf4wH1H9oI4PPHtN9BOpK9jbY=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.10.tgz"},"1.0.11":{"narHash":"sha256-3HNMjoSIuD56Wv8pn04C+S1DqSsmpyolftcEcAiekDY=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.11.tgz"},"1.0.2":{"narHash":"sha256-rC1QjQ2BuY9nSK5njgs46/DAOcU+bf2J0IDiLeNcxlc=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.2.tgz"},"1.0.5":{"narHash":"sha256-1nlOhOM8YmwgM9wz6xHgVcykfkzTcrB3JSrKxPhtZNY=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-jEx/y9QShuzGLGNb1Vt74XJ1rqy7hFUtT9e057zsFPs=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.6.tgz"},"1.0.7":{"narHash":"sha256-qlGIxQSw50NrFZSIAaHVBQoJuSUN0wwMEoHGjzmIBok=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.7.tgz"},"1.0.8":{"narHash":"sha256-VK1c/ds05uHfNVcwYr5D5l2wVhdQ6DTf3qvvIWfvey8=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.8.tgz"},"1.0.9":{"narHash":"sha256-6S/9Tx0th9cGKeuEtdjF96bzP4HiW/Oxa4EGoWK0lrk=","type":"tarball","url":"https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.9.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-+XFV/3iQk+6kkTEAQicU2woHYgaD6U3H1RLRhK4S4KI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-of/AForYRIjeGEwXhrz6nVdsTDbetDI6vKEUCMVgBmE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.1.tgz"
+  },
+  "1.0.10": {
+    "narHash": "sha256-9sVX1ZVj7gRg/clUrONf4wH1H9oI4PPHtN9BOpK9jbY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.10.tgz"
+  },
+  "1.0.11": null,
+  "1.0.2": {
+    "narHash": "sha256-rC1QjQ2BuY9nSK5njgs46/DAOcU+bf2J0IDiLeNcxlc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.2.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-1nlOhOM8YmwgM9wz6xHgVcykfkzTcrB3JSrKxPhtZNY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-jEx/y9QShuzGLGNb1Vt74XJ1rqy7hFUtT9e057zsFPs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.6.tgz"
+  },
+  "1.0.7": {
+    "narHash": "sha256-qlGIxQSw50NrFZSIAaHVBQoJuSUN0wwMEoHGjzmIBok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.7.tgz"
+  },
+  "1.0.8": {
+    "narHash": "sha256-VK1c/ds05uHfNVcwYr5D5l2wVhdQ6DTf3qvvIWfvey8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.8.tgz"
+  },
+  "1.0.9": {
+    "narHash": "sha256-6S/9Tx0th9cGKeuEtdjF96bzP4HiW/Oxa4EGoWK0lrk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.9.tgz"
+  }
+}

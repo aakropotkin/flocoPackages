@@ -79,11 +79,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/cliui/-/cliui-4.1.0.tgz"
   },
-  "5.0.0": {
-    "narHash": "sha256-RCxmU8i+8rwYnwsGSh03/EY/COJlAsNvj4iV/uFdy7M=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/cliui/-/cliui-5.0.0.tgz"
-  },
+  "5.0.0": null,
   "6.0.0": {
     "narHash": "sha256-lhm+47pKG+t2gz4CLBX6fUKUyydrlMk8rBHZVdU90co=",
     "type": "tarball",
@@ -109,19 +105,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/cliui/-/cliui-7.0.3.tgz"
   },
-  "7.0.4": {
-    "narHash": "sha256-nV2Fqd/nLmnxgtfDp4NuMDtAHVGsnGUVjtyNjDBmqvU=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/cliui/-/cliui-7.0.4.tgz"
-  },
+  "7.0.4": null,
   "8.0.0": {
     "narHash": "sha256-ki7xdTtgZKdHBk9gG9jsliO+VxwkY+XCVoYvIs3QlL0=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/cliui/-/cliui-8.0.0.tgz"
   },
-  "8.0.1": {
-    "narHash": "sha256-nVNQ7y2LEDV4luAmcd2ekYXE25Xq85gYPuir9zE/RRw=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/cliui/-/cliui-8.0.1.tgz"
-  }
+  "8.0.1": null
 }

@@ -314,11 +314,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-27.5.0.tgz"
   },
-  "27.5.1": {
-    "narHash": "sha256-v2VYdySEpOs/jsLl2dGrOOON0K6RL8gf37EosZ5QY6k=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-27.5.1.tgz"
-  },
+  "27.5.1": null,
   "28.0.0": {
     "narHash": "sha256-+Dmyc5ywFoeZIXEP5ihwIO67H4mIh2/6WNJIKK7XyOs=",
     "type": "tarball",
@@ -344,11 +340,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-28.1.1.tgz"
   },
-  "28.1.3": {
-    "narHash": "sha256-Qqot73yWlIKDKqlKtlkiRUSfW+9zo8bVJEDd967W/4w=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-28.1.3.tgz"
-  },
+  "28.1.3": null,
   "29.0.0": {
     "narHash": "sha256-WZ+VmkzZ4HgIenpKkjBmLoj5kTShThF+TTsLJIHwMaM=",
     "type": "tarball",
@@ -389,9 +381,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-29.2.1.tgz"
   },
-  "29.3.1": {
-    "narHash": "sha256-ajBDB4X9cW3v6M8pIkisZnQw8YwD3oCTaEiIF8/RVuA=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-29.3.1.tgz"
-  }
+  "29.3.1": null
 }

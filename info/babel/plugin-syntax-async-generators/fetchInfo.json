@@ -1,1 +1,23 @@
-{"7.0.0":{"narHash":"sha256-GQ5EPS/AGhiJ1QCG0gtjMiQqsWrdJ0HQfbYqtJGdLbw=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.0.0.tgz"},"7.2.0":{"narHash":"sha256-6Q1IHKIkSjecmvf6k9OcPwrXBygd1lTDhmS1HqWhqYI=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.2.0.tgz"},"7.7.4":{"narHash":"sha256-P3YwvMV2f9Yvn19sPMcGVlAozNybMzsV+eh2kgjYfMA=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.7.4.tgz"},"7.8.0":{"narHash":"sha256-XedM5jYIWEYMco48Wr2SecB+V117SK2KU25iZex7Fy8=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.8.0.tgz"},"7.8.4":{"narHash":"sha256-9/emNrhV+VHJcl1CXrJoVXceOnwx/no73gRWZhveXDk=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.8.4.tgz"}}
+{
+  "7.0.0": {
+    "narHash": "sha256-GQ5EPS/AGhiJ1QCG0gtjMiQqsWrdJ0HQfbYqtJGdLbw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.0.0.tgz"
+  },
+  "7.2.0": {
+    "narHash": "sha256-6Q1IHKIkSjecmvf6k9OcPwrXBygd1lTDhmS1HqWhqYI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.2.0.tgz"
+  },
+  "7.7.4": {
+    "narHash": "sha256-P3YwvMV2f9Yvn19sPMcGVlAozNybMzsV+eh2kgjYfMA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.7.4.tgz"
+  },
+  "7.8.0": {
+    "narHash": "sha256-XedM5jYIWEYMco48Wr2SecB+V117SK2KU25iZex7Fy8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.8.0.tgz"
+  },
+  "7.8.4": null
+}

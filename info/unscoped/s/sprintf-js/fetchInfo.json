@@ -14,11 +14,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.2.tgz"
   },
-  "1.0.3": {
-    "narHash": "sha256-uUKz9y/hyOs58YEaXDOeVK7nhGxpTdNWE7IFSsdAtAc=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz"
-  },
+  "1.0.3": null,
   "1.1.0": {
     "narHash": "sha256-SSuYQ+q7bo3z49xG5vcvrToWT0CAB3J6hmeN1agQikc=",
     "type": "tarball",
@@ -29,9 +25,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.1.1.tgz"
   },
-  "1.1.2": {
-    "narHash": "sha256-JxP7r7OypQYzDJjYkgWHFKv5UTQRqK70/rcTS5dcl6c=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.1.2.tgz"
-  }
+  "1.1.2": null
 }

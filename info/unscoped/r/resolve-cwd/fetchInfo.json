@@ -4,14 +4,6 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/resolve-cwd/-/resolve-cwd-1.0.0.tgz"
   },
-  "2.0.0": {
-    "narHash": "sha256-fTJTXYKRYJ23IulayIQuTARYGXbbHVUrO9/V397ErJg=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/resolve-cwd/-/resolve-cwd-2.0.0.tgz"
-  },
-  "3.0.0": {
-    "narHash": "sha256-GRzvU5THR6GGQDxRGxEro/n8fCm34gy5wBwE8/3zvng=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/resolve-cwd/-/resolve-cwd-3.0.0.tgz"
-  }
+  "2.0.0": null,
+  "3.0.0": null
 }

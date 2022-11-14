@@ -159,11 +159,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/react-is/-/react-is-17.0.1.tgz"
   },
-  "17.0.2": {
-    "narHash": "sha256-/n+/fse+avpyQDN1FUJ2k7tKpP9K9qmhxPiwfB2gEhE=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
-  },
+  "17.0.2": null,
   "18.0.0": {
     "narHash": "sha256-ywb5n1FO8h0z1PPAs3rKa7Y7d7PhSpHPMnAJDyquPYE=",
     "type": "tarball",
@@ -174,9 +170,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/react-is/-/react-is-18.1.0.tgz"
   },
-  "18.2.0": {
-    "narHash": "sha256-eSOGsY/IVNB/U36bUYaUctK4n5DEM9hmzm1keaypG2c=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/react-is/-/react-is-18.2.0.tgz"
-  }
+  "18.2.0": null
 }

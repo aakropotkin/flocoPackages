@@ -569,11 +569,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-27.5.0.tgz"
   },
-  "27.5.1": {
-    "narHash": "sha256-vUh44QnsEvxzkkLrc3HLwYsUPu5f8TaDeDohp1t8VUY=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-27.5.1.tgz"
-  },
+  "27.5.1": null,
   "28.0.0": {
     "narHash": "sha256-IMiWfXGx3QTLb170YJ9TM/Vb0HSYTVABUrtoevQ/VvI=",
     "type": "tarball",
@@ -604,11 +600,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-28.1.2.tgz"
   },
-  "28.1.3": {
-    "narHash": "sha256-lByIuvd7ELWJlajN5cD/PEdBy7ad+ymiI2eT5qOoCnI=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-28.1.3.tgz"
-  },
+  "28.1.3": null,
   "29.0.0": {
     "narHash": "sha256-9H615wVWsg+6wKQIRwBQDkySyVR0ZZ/8N7lqF891SEw=",
     "type": "tarball",
@@ -659,9 +651,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-29.2.2.tgz"
   },
-  "29.3.1": {
-    "narHash": "sha256-gYddXVCWc7njqIu29zGNzxoDkqUmamfK3RL++1L0xnw=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-29.3.1.tgz"
-  }
+  "29.3.1": null
 }

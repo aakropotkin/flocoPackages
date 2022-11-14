@@ -49,11 +49,7 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-number/-/is-number-2.1.0.tgz"
   },
-  "3.0.0": {
-    "narHash": "sha256-iwxV0galuDYWXJ4R3386SK+vhLyZ0IPcIMTBdK9fLjg=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/is-number/-/is-number-3.0.0.tgz"
-  },
+  "3.0.0": null,
   "4.0.0": {
     "narHash": "sha256-ejcTiqWVR9hmcdgLYIJtmGxwypWn7tbqANawue0dVi0=",
     "type": "tarball",
@@ -69,9 +65,5 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-number/-/is-number-6.0.0.tgz"
   },
-  "7.0.0": {
-    "narHash": "sha256-sOcAFDhYCindWvE4jW6RNeoCBP4VZEyS7M3dq7cGgNI=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz"
-  }
+  "7.0.0": null
 }

@@ -1,1 +1,13 @@
-{"1.0.0":{"narHash":"sha256-6ZmvTIrUVx/Bp2KD6NKpwgdOLsmM2GYfGzKPZQQm4JU=","type":"tarball","url":"https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-nX/Fb3/dWO+04bH6g3TfLFvDR0hA+jFdPktQ+vPNO8Q=","type":"tarball","url":"https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-2iL91DfbvnCacv5Tpp32aUmAxCxvx30lZdnCX17mySw=","type":"tarball","url":"https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.2.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-6ZmvTIrUVx/Bp2KD6NKpwgdOLsmM2GYfGzKPZQQm4JU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-nX/Fb3/dWO+04bH6g3TfLFvDR0hA+jFdPktQ+vPNO8Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.1.tgz"
+  },
+  "1.0.2": null
+}

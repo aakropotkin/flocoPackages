@@ -169,14 +169,6 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/convert-source-map/-/convert-source-map-1.8.0.tgz"
   },
-  "1.9.0": {
-    "narHash": "sha256-9zjFbAgTFN8PnaoIBuarc6354vYjJomgtng2vak3ERQ=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/convert-source-map/-/convert-source-map-1.9.0.tgz"
-  },
-  "2.0.0": {
-    "narHash": "sha256-ygRy8nFjyNppUpu8cEnJ3SIud6Qjg9vHd86S8rX8nug=",
-    "type": "tarball",
-    "url": "https://registry.npmjs.org/convert-source-map/-/convert-source-map-2.0.0.tgz"
-  }
+  "1.9.0": null,
+  "2.0.0": null
 }

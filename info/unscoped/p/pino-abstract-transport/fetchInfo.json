@@ -1,1 +1,28 @@
-{"0.1.0":{"narHash":"sha256-jAqUWZAkV5kFltrph34WLkzRZ//B6yy1pFHm3fVjd48=","type":"tarball","url":"https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-iVcDymLYxfrta1R/C3VFIyd3utrZXp1cbj7AcT3D45E=","type":"tarball","url":"https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-ih0aYZRJU8ytktVDUxurUY7jmJU7KcKHOsZDFxba59M=","type":"tarball","url":"https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.3.0.tgz"},"0.4.0":{"narHash":"sha256-R86tGsxxUrTjNLt5jYtwpNVibLmxhmS33uaarNLwcXY=","type":"tarball","url":"https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.4.0.tgz"},"0.5.0":{"narHash":"sha256-MiSzIbwC4HzSMrf0Suiu9+5T8AYf1cKWr5TOJ+5Sbvg=","type":"tarball","url":"https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.5.0.tgz"},"1.0.0":{"narHash":"sha256-29hC9cEYSPMV8q4rQ8cFyoYXDh8OtcCzmiEQXaqYTzc=","type":"tarball","url":"https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-1.0.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-jAqUWZAkV5kFltrph34WLkzRZ//B6yy1pFHm3fVjd48=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-iVcDymLYxfrta1R/C3VFIyd3utrZXp1cbj7AcT3D45E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-ih0aYZRJU8ytktVDUxurUY7jmJU7KcKHOsZDFxba59M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.3.0.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-R86tGsxxUrTjNLt5jYtwpNVibLmxhmS33uaarNLwcXY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-0.4.0.tgz"
+  },
+  "0.5.0": null,
+  "1.0.0": {
+    "narHash": "sha256-29hC9cEYSPMV8q4rQ8cFyoYXDh8OtcCzmiEQXaqYTzc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pino-abstract-transport/-/pino-abstract-transport-1.0.0.tgz"
+  }
+}
