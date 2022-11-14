@@ -1,6 +1,6 @@
 { version }: {
 
-  bin = if ( builtins.compareVersions "1.1.2" version ) <= 0 then {
+  bin = if 0 <= ( builtins.compareVersions "1.1.2" version ) then {
     rc = "index.js";
   } else {
     rc = "cli.js";

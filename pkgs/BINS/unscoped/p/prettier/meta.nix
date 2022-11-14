@@ -1,6 +1,6 @@
 { version }: {
 
-  bin = if ( builtins.compareVersions "1.10.1" version ) <= 0 then {
+  bin = if 0 < ( builtins.compareVersions "1.10.1" version ) then {
     prettier = "bin/prettier.cjs";
   } else {
     prettier = "bin-prettier.js";
