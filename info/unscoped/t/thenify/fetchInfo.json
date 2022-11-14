@@ -1,1 +1,47 @@
-{"1.0.0":{"narHash":"sha256-8SjotM1AJgbG9HVL9EOO3kSiwaLpiRvY2glEOoAOKOg=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-UX5yMj7BOp0lTKz8nCD2hWdIK6OOWBlRIsFVsXAKH2Y=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-7WAs1yMdQ9zN7Ltu1MK4YOR2u1ohHIOHjCQZx7VlYcw=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-rEV22TwnLGfcZWVex6Lbw8d/u+PvtUHnkUcNp4o/IhY=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-3.1.0.tgz"},"3.1.1":{"narHash":"sha256-OOLx1LBuqnogKgadxh08eXXpxMg/qtBgkeasAks0hGg=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-3.1.1.tgz"},"3.2.0":{"narHash":"sha256-F9nfYT2vMUPJ1481Qhl31rtnKP8cgug5mVuLt5D+lDw=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-3.2.0.tgz"},"3.2.1":{"narHash":"sha256-PQ1PmzQ93dLchviWLyhyg/WQifsyJQZ0CumVXvGrTE8=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-3.2.1.tgz"},"3.3.0":{"narHash":"sha256-z8TXgnWkDQfmXawff53X7tzLn4xTYiOgAOMygAxTPF0=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-3.3.0.tgz"},"3.3.1":{"narHash":"sha256-d2NfLIezl4DKTUh/9oxpLlyHJomcXfReg0HBB+I3kVU=","type":"tarball","url":"https://registry.npmjs.org/thenify/-/thenify-3.3.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-8SjotM1AJgbG9HVL9EOO3kSiwaLpiRvY2glEOoAOKOg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-UX5yMj7BOp0lTKz8nCD2hWdIK6OOWBlRIsFVsXAKH2Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-7WAs1yMdQ9zN7Ltu1MK4YOR2u1ohHIOHjCQZx7VlYcw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-rEV22TwnLGfcZWVex6Lbw8d/u+PvtUHnkUcNp4o/IhY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-3.1.0.tgz"
+  },
+  "3.1.1": {
+    "narHash": "sha256-OOLx1LBuqnogKgadxh08eXXpxMg/qtBgkeasAks0hGg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-3.1.1.tgz"
+  },
+  "3.2.0": {
+    "narHash": "sha256-F9nfYT2vMUPJ1481Qhl31rtnKP8cgug5mVuLt5D+lDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-3.2.0.tgz"
+  },
+  "3.2.1": {
+    "narHash": "sha256-PQ1PmzQ93dLchviWLyhyg/WQifsyJQZ0CumVXvGrTE8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-3.2.1.tgz"
+  },
+  "3.3.0": {
+    "narHash": "sha256-z8TXgnWkDQfmXawff53X7tzLn4xTYiOgAOMygAxTPF0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-3.3.0.tgz"
+  },
+  "3.3.1": {
+    "narHash": "sha256-d2NfLIezl4DKTUh/9oxpLlyHJomcXfReg0HBB+I3kVU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thenify/-/thenify-3.3.1.tgz"
+  }
+}

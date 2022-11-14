@@ -1,1 +1,37 @@
-{"7.0.0":{"narHash":"sha256-/ldd8KjGXmFy3cCVkgksXieMhryEtsKXYHm2is+CAFc=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.0.0.tgz"},"7.2.0":{"narHash":"sha256-iSZTeC7Nanap5YCBvhJt0Rf8ePA+QrWjhZhCKqjTarE=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.2.0.tgz"},"7.4.3":{"narHash":"sha256-XjykJvnHF80+DP+fqOMj+MyC0RyS9fMP6Qa3gKkaVmA=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.4.3.tgz"},"7.4.4":{"narHash":"sha256-iYOCouHQ9jGu1XaJVbLsscUtQ+V7Aaf41QMlLRlgVMM=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.4.4.tgz"},"7.7.4":{"narHash":"sha256-URMql8QoB6zAWinIBmUOFgHsBNeHLbBllGjtxSGf/Kw=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.7.4.tgz"},"7.8.0":{"narHash":"sha256-ZMUkwiov8Rriu2K1wCwhIjSkoXoWfQV0NlF7o4EtmKM=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.8.0.tgz"},"7.8.3":{"narHash":"sha256-ZmH+j+SjXgEcl0LDyFRyKTai848EKBCrGUeTwSY37NQ=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.8.3.tgz"}}
+{
+  "7.0.0": {
+    "narHash": "sha256-/ldd8KjGXmFy3cCVkgksXieMhryEtsKXYHm2is+CAFc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.0.0.tgz"
+  },
+  "7.2.0": {
+    "narHash": "sha256-iSZTeC7Nanap5YCBvhJt0Rf8ePA+QrWjhZhCKqjTarE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.2.0.tgz"
+  },
+  "7.4.3": {
+    "narHash": "sha256-XjykJvnHF80+DP+fqOMj+MyC0RyS9fMP6Qa3gKkaVmA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.4.3.tgz"
+  },
+  "7.4.4": {
+    "narHash": "sha256-iYOCouHQ9jGu1XaJVbLsscUtQ+V7Aaf41QMlLRlgVMM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.4.4.tgz"
+  },
+  "7.7.4": {
+    "narHash": "sha256-URMql8QoB6zAWinIBmUOFgHsBNeHLbBllGjtxSGf/Kw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.7.4.tgz"
+  },
+  "7.8.0": {
+    "narHash": "sha256-ZMUkwiov8Rriu2K1wCwhIjSkoXoWfQV0NlF7o4EtmKM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.8.0.tgz"
+  },
+  "7.8.3": {
+    "narHash": "sha256-ZmH+j+SjXgEcl0LDyFRyKTai848EKBCrGUeTwSY37NQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.8.3.tgz"
+  }
+}

@@ -8,58 +8,58 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  infoDir = ../../info;
+  infoDir = toString ../../info;
 
   # Packages explicitly marked for export.
   marked = prev.lib.importJSON ./npmjs.json;
 
 # ---------------------------------------------------------------------------- #
 
-  allFetchInfoDefs = let
-    subdirsOf = d: let
-      des = builtins.readDir d;
-      proc = acc: name:
-        if des.${name} != "directory" then acc else acc ++ [name];
-    in builtins.foldl' proc [] ( builtins.attrNames des );
-    scopes = subdirsOf infoDir;
-    scopeBnames = s:
-      if s != "unscoped" then subdirsOf "${infoDir}/${s}" else
-      builtins.concatMap ( l: subdirsOf "${infoDir}/unscoped/${l}" )
-                         ( subdirsOf "${infoDir}/unscoped" );
-    hier =
-      builtins.foldl' ( acc: s: acc // { ${s} = scopeBnames s; } ) {} scopes;
-  in hier;
+  #allFetchInfoDefs = let
+  #  subdirsOf = d: let
+  #    des = builtins.readDir d;
+  #    proc = acc: name:
+  #      if des.${name} != "directory" then acc else acc ++ [name];
+  #  in builtins.foldl' proc [] ( builtins.attrNames des );
+  #  scopes = subdirsOf infoDir;
+  #  scopeBnames = s:
+  #    if s != "unscoped" then subdirsOf ( infoDir + "/${s}" ) else
+  #    builtins.concatMap ( l: subdirsOf ( infoDir + "/unscoped/${l}" ) )
+  #                       ( subdirsOf ( infoDir + "/unscoped" ) );
+  #  hier =
+  #    builtins.foldl' ( acc: s: acc // { ${s} = scopeBnames s; } ) {} scopes;
+  #in hier;
 
 
 # ---------------------------------------------------------------------------- #
 
-  definedIn = {
-    scope   ? if final.lib.test "@.*" ident
-              then final.lib.yank "@([^@/]+)/.*" ident
-              else "unscoped"
-  , bname   ? baseNameOf ident
-  , key     ? null #"${ident}/${version}"
-  , ident   ? if args ? key then dirOf key else
-              if scope == "unscoped" then bname else "@${scope}/${bname}"
-  #, version ? baseNameOf args.key
-  } @ args: let
-    bins    = final.lib.importJSONOr {} ../BINS/npmjs.json;
-    inst    = final.lib.importJSONOr {} ../INST/npmjs.json;
-    gyp     = final.lib.importJSONOr {} ../GYP/npmjs.json;
-    simple  = final.lib.importJSONOr {} ../SIMPLE/npmjs.json;
-    hierHas = h: ( h ? ${scope} ) && ( builtins.elem bname h.${scope} );
-    shard   = prev.lib.toLower ( builtins.substring 0 1 bname );
-    dir     = if ( scope == null ) || ( scope == "unscoped" )
-              then "${infoDir}/unscoped/${shard}/${bname}"
-              else "${infoDir}/${scope}/${bname}";
-  in if hierHas bins   then "bins"   else
-     if hierHas inst   then "inst"   else
-     if hierHas gyp    then "gyp"    else
-     if hierHas simple then "simple" else
-     #if builtins.pathExists "${dir}/fetchInfo.json" then "info" else
-     null;
+  #definedIn = {
+  #  scope   ? if final.lib.test "@.*" ident
+  #            then final.lib.yank "@([^@/]+)/.*" ident
+  #            else "unscoped"
+  #, bname   ? baseNameOf ident
+  #, key     ? null #"${ident}/${version}"
+  #, ident   ? if args ? key then dirOf key else
+  #            if scope == "unscoped" then bname else "@${scope}/${bname}"
+  ##, version ? baseNameOf args.key
+  #} @ args: let
+  #  bins    = final.lib.importJSONOr {} ../BINS/npmjs.json;
+  #  inst    = final.lib.importJSONOr {} ../INST/npmjs.json;
+  #  gyp     = final.lib.importJSONOr {} ../GYP/npmjs.json;
+  #  simple  = final.lib.importJSONOr {} ../SIMPLE/npmjs.json;
+  #  hierHas = h: ( h ? ${scope} ) && ( builtins.elem bname h.${scope} );
+  #  shard   = prev.lib.toLower ( builtins.substring 0 1 bname );
+  #  dir     = if ( scope == null ) || ( scope == "unscoped" )
+  #            then infoDir + "/unscoped/${shard}/${bname}"
+  #            else infoDir + "/${scope}/${bname}";
+  #in if hierHas bins   then "bins"   else
+  #   if hierHas inst   then "inst"   else
+  #   if hierHas gyp    then "gyp"    else
+  #   if hierHas simple then "simple" else
+  #   #if builtins.pathExists "${dir}/fetchInfo.json" then "info" else
+  #   null;
 
-  shouldExport = x: builtins.elem ( definedIn x ) ["info" "simple"];
+  #shouldExport = x: builtins.elem ( definedIn x ) ["info" "simple"];
 
   #marked = let
   #  filt = scope: bnames:
@@ -77,8 +77,8 @@ final: prev: let
     ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
             "@${scope}/${bname}";
     dir = if ( scope == null ) || ( scope == "unscoped" )
-          then "${infoDir}/unscoped/${shard}/${bname}"
-          else "${infoDir}/${scope}/${bname}";
+          then infoDir + "/unscoped/${shard}/${bname}"
+          else infoDir + "/${scope}/${bname}";
     byVers = prev.lib.importJSON "${dir}/fetchInfo.json";
     allVersions = builtins.attrNames byVers;
     filt = vs: let
@@ -122,9 +122,9 @@ in {
   __internalSimple = {
     inherit
       marked
-      allFetchInfoDefs
+      #allFetchInfoDefs
       markedFetchInfos
-      definedIn
+      #definedIn
       loadFetchInfo'
       loadFetchInfo
     ;
@@ -169,6 +169,24 @@ in {
     exported = builtins.foldl' proc {} ( builtins.attrNames markedFetchInfos );
   in ( exported // {
     # Add any explicit defs here.
+    "@azure/msal-node/1.0.0-beta.6" = let
+      fis = prev.lib.importJSON ( infoDir + "/azure/msal-node/fetchInfo.json" );
+    in final.flocoSimpleFetcher { fetchInfo = fis."1.0.0-beta.6"; };
+
+    # FIXME: these are installed packages but we can get away with a copy.
+    # Move to `GYP' later.
+    "dtrace-provider/0.8.8" = let
+      fis = prev.lib.importJSON
+              ( infoDir + "/unscoped/d/dtrace-provider/fetchInfo.json" );
+    in final.flocoSimpleFetcher { fetchInfo = fis."0.8.8"; };
+    "fsevents/2.3.2" = let
+      fis = prev.lib.importJSON
+              ( infoDir + "/unscoped/f/fsevents/fetchInfo.json" );
+    in final.flocoSimpleFetcher { fetchInfo = fis."2.3.2"; };
+    "keytar/7.9.0" = let
+      fis = prev.lib.importJSON
+              ( infoDir + "/unscoped/k/keytar/fetchInfo.json" );
+    in final.flocoSimpleFetcher { fetchInfo = fis."7.9.0"; };
   } ) );
 
 }

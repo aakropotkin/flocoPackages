@@ -1,1 +1,52 @@
-{"0.0.0":{"narHash":"sha256-ee6yjaYXXP/02pDZA6rEXV/E303Wnl0TIPbQwG0kwjw=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.0.tgz"},"0.0.1":{"narHash":"sha256-/hqEHFQlTqK04UdoE9UdQx0BZlq/8MB+LiAr5YApR0o=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-b91fQLpXxoAPlDFu5ZLpy+FXPEC2UlOpUGPH0C9wslI=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.2.tgz"},"0.0.3":{"narHash":"sha256-dbshXs46+8h4AtMF3MiesIiQtzuDxjGa2u2R+IJdMSg=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.3.tgz"},"0.0.4":{"narHash":"sha256-ZMGgGL29uXoGjcS114SE7Vow7JbJTNOABVdCt966Ejs=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.4.tgz"},"1.0.0":{"narHash":"sha256-/8ZSpV7tSFmrDiDpdKP5bSnJEX2a4P0+9rE9OmiOyPA=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-ty1VwkxxcGajGisKH/CDDH2AUG1A3C9Fjb12A5yLYy8=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-33p+Lg3O+NKg1AwlSO933XvVKu2P+6JPnkrcSoKGIqw=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-X/VbwhUipQxoBGLOY4XG4rRsYg/gLu+lncmH8Cpg8Ns=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-e/tMxZGNFKry/ISAugJvi7wvilTu1jvBMsxZSg1ilk4=","type":"tarball","url":"https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.2.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-ee6yjaYXXP/02pDZA6rEXV/E303Wnl0TIPbQwG0kwjw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.0.tgz"
+  },
+  "0.0.1": {
+    "narHash": "sha256-/hqEHFQlTqK04UdoE9UdQx0BZlq/8MB+LiAr5YApR0o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-b91fQLpXxoAPlDFu5ZLpy+FXPEC2UlOpUGPH0C9wslI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.2.tgz"
+  },
+  "0.0.3": {
+    "narHash": "sha256-dbshXs46+8h4AtMF3MiesIiQtzuDxjGa2u2R+IJdMSg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.3.tgz"
+  },
+  "0.0.4": {
+    "narHash": "sha256-ZMGgGL29uXoGjcS114SE7Vow7JbJTNOABVdCt966Ejs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-0.0.4.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-/8ZSpV7tSFmrDiDpdKP5bSnJEX2a4P0+9rE9OmiOyPA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-ty1VwkxxcGajGisKH/CDDH2AUG1A3C9Fjb12A5yLYy8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-33p+Lg3O+NKg1AwlSO933XvVKu2P+6JPnkrcSoKGIqw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-X/VbwhUipQxoBGLOY4XG4rRsYg/gLu+lncmH8Cpg8Ns=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-e/tMxZGNFKry/ISAugJvi7wvilTu1jvBMsxZSg1ilk4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.2.tgz"
+  }
+}

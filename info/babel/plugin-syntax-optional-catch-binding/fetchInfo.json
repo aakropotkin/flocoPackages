@@ -1,1 +1,27 @@
-{"7.0.0":{"narHash":"sha256-cZWOSAOB0YyqZ+jh+ni+weZO/ArWStD5Tuo+5y7Bhls=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.0.0.tgz"},"7.2.0":{"narHash":"sha256-oODYEIvC7EkUQ7r4Cww8AS6lMrh7EDyyp4vgarOxUIM=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.2.0.tgz"},"7.7.4":{"narHash":"sha256-Xg/P9dZM3qd1qhyPGgleMh8dkobBpYHW8u/Y1BtSjFY=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.7.4.tgz"},"7.8.0":{"narHash":"sha256-cczP0sv0Y2mHURqdlHrfzoWuR1EVIroqcsp+RpcYMVU=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.8.0.tgz"},"7.8.3":{"narHash":"sha256-wJIs2CiVURlzG9RZji8qHd/prYLjuC6IIOis+gk5QMM=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.8.3.tgz"}}
+{
+  "7.0.0": {
+    "narHash": "sha256-cZWOSAOB0YyqZ+jh+ni+weZO/ArWStD5Tuo+5y7Bhls=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.0.0.tgz"
+  },
+  "7.2.0": {
+    "narHash": "sha256-oODYEIvC7EkUQ7r4Cww8AS6lMrh7EDyyp4vgarOxUIM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.2.0.tgz"
+  },
+  "7.7.4": {
+    "narHash": "sha256-Xg/P9dZM3qd1qhyPGgleMh8dkobBpYHW8u/Y1BtSjFY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.7.4.tgz"
+  },
+  "7.8.0": {
+    "narHash": "sha256-cczP0sv0Y2mHURqdlHrfzoWuR1EVIroqcsp+RpcYMVU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.8.0.tgz"
+  },
+  "7.8.3": {
+    "narHash": "sha256-wJIs2CiVURlzG9RZji8qHd/prYLjuC6IIOis+gk5QMM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.8.3.tgz"
+  }
+}

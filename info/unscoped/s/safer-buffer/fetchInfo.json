@@ -1,1 +1,32 @@
-{"2.0.0":{"narHash":"sha256-cE/w03DeMnSUoGWHkvZG29RJwHCZUSLqCjnUaq11Q7w=","type":"tarball","url":"https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-Gk9emSUCsPTyz3vrXui2ppKM9NshRp2ghqzZf1cT0rI=","type":"tarball","url":"https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-xmpO5nNbg/ndCIxl6tj58GY/9OA1/kSrgBsZ2T6FEd4=","type":"tarball","url":"https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.0.2.tgz"},"2.1.0":{"narHash":"sha256-kSpw0S4kCn/ijGgFIlMefvvcBheP27GkBp7IZdx8pGk=","type":"tarball","url":"https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-sg+nR2xwxSwoLPf84/d6RxgWYkrW7jtPJN3GQ5jXEJE=","type":"tarball","url":"https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.1.tgz"},"2.1.2":{"narHash":"sha256-3h6PTqFTKFv3m2ETKDUSOB1rI9KcqogKnSfrV1qnJc0=","type":"tarball","url":"https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz"}}
+{
+  "2.0.0": {
+    "narHash": "sha256-cE/w03DeMnSUoGWHkvZG29RJwHCZUSLqCjnUaq11Q7w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-Gk9emSUCsPTyz3vrXui2ppKM9NshRp2ghqzZf1cT0rI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-xmpO5nNbg/ndCIxl6tj58GY/9OA1/kSrgBsZ2T6FEd4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.0.2.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-kSpw0S4kCn/ijGgFIlMefvvcBheP27GkBp7IZdx8pGk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-sg+nR2xwxSwoLPf84/d6RxgWYkrW7jtPJN3GQ5jXEJE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.1.tgz"
+  },
+  "2.1.2": {
+    "narHash": "sha256-3h6PTqFTKFv3m2ETKDUSOB1rI9KcqogKnSfrV1qnJc0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz"
+  }
+}

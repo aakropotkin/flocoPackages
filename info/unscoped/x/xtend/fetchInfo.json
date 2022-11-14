@@ -1,1 +1,87 @@
-{"1.0.0":{"narHash":"sha256-LRUXxktJTs2bxc+GWp6woc8uWZmv/N2ocEpOPF0MQFc=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-I2x4THgqv8Bigv1zeNX75BfxakSMRz83R4e2PVLdu+o=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-bv48UiGKUZluTMUYS3giXB9NyKHV8S+6W44Jqgf/r1M=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-00iCo/ylVz0Lqbf4rdBNcm3Q7kESUSEMVJTRkvPtlnY=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-1.0.3.tgz"},"2.0.1":{"narHash":"sha256-M3hzYqCwOWV3K8vjUFVPO5xuIstOu3J80VS9yhJ1Gog=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-tsaDicrZUESsIeqvnbSHFKci8jD/YNKvz9v1R7VZmeM=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-r+l3BzrfY5hGf/jNkiUWcsuLLiuGiBoK/TerY0tQcmI=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-ePmpVfvRjr3ONdoJZb6wZT2u45J0INzB4gRbNdw9I2E=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-rYatFcNcWaOwgFkpQf1fr2zb0mW6aatYBXxIEcVnltc=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.0.5.tgz"},"2.0.6":{"narHash":"sha256-+DAe0yC6zAMEV8KIu/I4aL8GazOnv8wyZK8wezbzaW0=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.0.6.tgz"},"2.1.1":{"narHash":"sha256-kWzN1sONE+tW4ZATlQ2GF+7FuhP1CiCig7Kp9c+9oDs=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.1.1.tgz"},"2.1.2":{"narHash":"sha256-LIv4AsZgaJqj1I7dlKNBhIEYAVsNmFAYM5Fec05LxWE=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.1.2.tgz"},"2.2.0":{"narHash":"sha256-Wxzk/0tDLPe7+CixqM3Y+tJp/s/yNFwnrqNN/7P0f/I=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-2.2.0.tgz"},"3.0.0":{"narHash":"sha256-aYorBkk2BnfdcKfhJcO7kbpMf3ErxecQLt1L/donfhA=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-jisGjgsRHfuqQFHoxogiIt86K9Go8ylp9e/sk2sxgSE=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-9ooNveGhd8j0ZLJ65jFxcNxwoTjWERrG7+0ifzeoejM=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-IOz1PyuMvBoyB1LPRuqwnkcsh/NkPY/BI93P2fhUwlQ=","type":"tarball","url":"https://registry.npmjs.org/xtend/-/xtend-4.0.2.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-LRUXxktJTs2bxc+GWp6woc8uWZmv/N2ocEpOPF0MQFc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-I2x4THgqv8Bigv1zeNX75BfxakSMRz83R4e2PVLdu+o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-bv48UiGKUZluTMUYS3giXB9NyKHV8S+6W44Jqgf/r1M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-00iCo/ylVz0Lqbf4rdBNcm3Q7kESUSEMVJTRkvPtlnY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-1.0.3.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-M3hzYqCwOWV3K8vjUFVPO5xuIstOu3J80VS9yhJ1Gog=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-tsaDicrZUESsIeqvnbSHFKci8jD/YNKvz9v1R7VZmeM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-r+l3BzrfY5hGf/jNkiUWcsuLLiuGiBoK/TerY0tQcmI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-ePmpVfvRjr3ONdoJZb6wZT2u45J0INzB4gRbNdw9I2E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-rYatFcNcWaOwgFkpQf1fr2zb0mW6aatYBXxIEcVnltc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.0.5.tgz"
+  },
+  "2.0.6": {
+    "narHash": "sha256-+DAe0yC6zAMEV8KIu/I4aL8GazOnv8wyZK8wezbzaW0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.0.6.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-kWzN1sONE+tW4ZATlQ2GF+7FuhP1CiCig7Kp9c+9oDs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.1.1.tgz"
+  },
+  "2.1.2": {
+    "narHash": "sha256-LIv4AsZgaJqj1I7dlKNBhIEYAVsNmFAYM5Fec05LxWE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.1.2.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-Wxzk/0tDLPe7+CixqM3Y+tJp/s/yNFwnrqNN/7P0f/I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-2.2.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-aYorBkk2BnfdcKfhJcO7kbpMf3ErxecQLt1L/donfhA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-jisGjgsRHfuqQFHoxogiIt86K9Go8ylp9e/sk2sxgSE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-9ooNveGhd8j0ZLJ65jFxcNxwoTjWERrG7+0ifzeoejM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-IOz1PyuMvBoyB1LPRuqwnkcsh/NkPY/BI93P2fhUwlQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xtend/-/xtend-4.0.2.tgz"
+  }
+}

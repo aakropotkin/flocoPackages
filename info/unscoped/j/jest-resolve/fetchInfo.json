@@ -1,1 +1,647 @@
-{"0.0.0":{"narHash":"sha256-lTbV11U/qsBB/IsyLsJsf+GPBQSZ5Nk5Q9zdH5JizvY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-0.0.0.tgz"},"12.1.0":{"narHash":"sha256-EAOa43EVWOysfu1jQi55qh+9AmGxhr3TBJ9oz+VBJ3Y=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-12.1.0.tgz"},"12.1.1":{"narHash":"sha256-d0gKLKpLLQd9voAFPA00pHDf6m6j4XoFvugGhyZSGpM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-12.1.1.tgz"},"13.0.0":{"narHash":"sha256-4vvouWg02DhYNxuMXobm5oonDxby8A6g0yQsowFiveQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-13.0.0.tgz"},"13.1.1":{"narHash":"sha256-k4EtO38oGtIFRW3d3+TSIA6cDaBUMExsp7P1MIz2VUM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-13.1.1.tgz"},"13.2.1":{"narHash":"sha256-AO/+6E/pGaGXtjUHMSavbo4ODOSQlj3HhyaU4SYBQ1A=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-13.2.1.tgz"},"13.2.2":{"narHash":"sha256-ih7oAX7jF8Ep+h5fVWlVy66s6F9z6ER20DG3n3x/EMo=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-13.2.2.tgz"},"14.0.0":{"narHash":"sha256-rygiRsKSBdCOmdPbuCYhNE6GTRMxwrFxCBHXWbdt7z4=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-14.0.0.tgz"},"14.1.0":{"narHash":"sha256-cty+KkIUBriigDwP3xk0Hsze+WiuQUg0Fg/24avO9jo=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-14.1.0.tgz"},"15.0.0":{"narHash":"sha256-9yRbAQi07uhNTOpPTdYvJ6szOAROJ/gGgdjJ+ozXLtQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-15.0.0.tgz"},"15.0.1":{"narHash":"sha256-AuSYnxuTEkOk3c5R3yxuHgNN353vZxgl8uxVw5kgsck=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-15.0.1.tgz"},"16.0.0":{"narHash":"sha256-G1VR9VhqcvwwnzIKPj7FXQ5tqiyWo8Jv9fhJkcRW0M0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-16.0.0.tgz"},"16.0.2":{"narHash":"sha256-5uqTEJx8YmkHfClDbxUSONJoEU/CvJDmNy1SVzbkrj4=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-16.0.2.tgz"},"17.0.0":{"narHash":"sha256-klhlaSZl/aiRlej5EAT7hhk7xu4uMpyUVPx2bC9fRRM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.0.tgz"},"17.0.1":{"narHash":"sha256-hMC3hj8x6CtBtWnSVxTSutPixAvTn0T9wBbmZYIJW14=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.1.tgz"},"17.0.2":{"narHash":"sha256-JbFuDtBDBgwC3PoN/pcF3P2EOLCxGb6V2mlhsQwb8sg=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.2.tgz"},"17.0.3":{"narHash":"sha256-Jj4O6xMPXuTJ3LRAJcxwD9EA6sDTzL7YcCvmm9hY7hI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.3.tgz"},"18.0.0":{"narHash":"sha256-1JOVa+lUV+WwVXjtueKTVRkeQ7S77P7ui0RLXwwLNX0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-18.0.0.tgz"},"18.1.0":{"narHash":"sha256-8kM9yFZI/sBIc4cp5Ys9rkbJfGJ+5fImvhhMwPKn6bc=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-18.1.0.tgz"},"19.0.0":{"narHash":"sha256-F3n8M9DNyCSs1FK98cDpc5DPoZD8/y9NVEYL6tSoKFY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-19.0.0.tgz"},"19.0.2":{"narHash":"sha256-xsbv3PMYBzqj8Dh5mTb031Rp1YinKvI6lr4XUhDxwDo=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-19.0.2.tgz"},"20.0.0":{"narHash":"sha256-DOI5MULiB0b4bnegXJV9NJdORDW6oSwL6wTR5gWDMWM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.0.tgz"},"20.0.1":{"narHash":"sha256-YecFm0bpk8WQXsIT9385s/9JNTDnU+l5zDB9d9ct+f4=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.1.tgz"},"20.0.2":{"narHash":"sha256-tB/7r1NfIFuseml9DcrrWFzN5SMACEBWTQFoGvSafpM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.2.tgz"},"20.0.3":{"narHash":"sha256-z0cDVgKIzTsizJDIpvJKF/0EEtzaWcbI2GiDyyRAaN4=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.3.tgz"},"20.0.4":{"narHash":"sha256-1wzpwSVgXQbHSiwH54Fgywk0wbCrVwSjMMPfoBxwEtg=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.4.tgz"},"21.0.0":{"narHash":"sha256-Zx0ag/FoKW9gOGXVOYE+3rsTKNM8pduie3KZEQE2+jM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-21.0.0.tgz"},"21.0.2":{"narHash":"sha256-xNnwcAwEyN9niZGD0EMUl6aBLQOAzwK5vjmOvMcgnU0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-21.0.2.tgz"},"21.1.0":{"narHash":"sha256-0je2pOhl5pbzIpkv6OsLxWi9yn+1fyWgTojr07pLh4E=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-21.1.0.tgz"},"21.2.0":{"narHash":"sha256-FK/e3xo6oSL5SpWKMEnOChjP+u5oA0/Sol82v/n3J9M=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-21.2.0.tgz"},"22.0.0":{"narHash":"sha256-a4IcGnc9opkEqSrIoC2ds+CCyMtTCWPGpKBR5FLZzo0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.0.tgz"},"22.0.1":{"narHash":"sha256-26jm/mMwksyrlqEiiXfQYQ4g694cZlhoPtx8xrjDOV0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.1.tgz"},"22.0.2":{"narHash":"sha256-RY0K8bqYrFn12BVnsYsFf3UEZpLQTeWM64oj9Oif+gA=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.2.tgz"},"22.0.3":{"narHash":"sha256-KWS3tp3MVSK0KGqyYOjD7nZkp0vprOJ5HpAZ+AgfM2g=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.3.tgz"},"22.0.4":{"narHash":"sha256-wRHYNb9bXKLTOdKj0MiFa4ta7zCkCsc7Y+zM+kRfQRI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.4.tgz"},"22.0.6":{"narHash":"sha256-vbYk+EYwTAsdyCtExjv8MwXZ2l+nmxE90cK5BSNFHQ8=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.6.tgz"},"22.1.0":{"narHash":"sha256-O8FbdoCFvb5OHDDQzCOhE2ufiruGvmET0pP+fYV3ZXU=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.1.0.tgz"},"22.1.4":{"narHash":"sha256-MHCi116jUtM8DyNibbGJG6GeZWTrYPEAGa8mwlkyz1w=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.1.4.tgz"},"22.2.0":{"narHash":"sha256-kvtGY4euZ7cH9doLO4dtlH5HVAkYVv4EBWI7ySUlEBI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.2.0.tgz"},"22.2.2":{"narHash":"sha256-oAB+eckBn9j/aA+c+r2xmaYOcmkB69gN+ZtjYm2ts7A=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.2.2.tgz"},"22.3.0":{"narHash":"sha256-PLV+nGgAOMTzIiBoMTlUcBHo5Xrj67AnzBbsEhhKM5U=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.3.0.tgz"},"22.4.0":{"narHash":"sha256-eISA72gmnBumQzMU1S33fuKMeYiQjERoPms03KbIPIk=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.4.0.tgz"},"22.4.1":{"narHash":"sha256-bZlyy3LN7/6wFi/Ugzw8OHba5i1ATT1coYIfDEfXYbU=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.4.1.tgz"},"22.4.2":{"narHash":"sha256-qEWeOUNznHWOAykFxOvk8GMIy0/JSiV77I27wOZrYXw=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.4.2.tgz"},"22.4.3":{"narHash":"sha256-+U9W1EYMRuskP+b58yAMowIpFmZ4Y/5fAY5CClcQfOg=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.4.3.tgz"},"23.0.0":{"narHash":"sha256-gw31j3Utgw4lhguQ5l8SXW6C3nYmSRNnZnYTsLSwByY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.0.0.tgz"},"23.0.1":{"narHash":"sha256-vHPaVqwajIJqibsL+mNSfNRXJgnopVTfgzseYTurnlE=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.0.1.tgz"},"23.0.2":{"narHash":"sha256-I9F906ZxpDQrdK+qyxd7yUT3SWj879aeZd774Fospds=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.0.2.tgz"},"23.1.0":{"narHash":"sha256-x4We4xseZEOVzKuel4Uvj7IqgRo0A6yonq7X/KuDcqU=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.1.0.tgz"},"23.2.0":{"narHash":"sha256-ebQllqtlSXikZJdO+fhW1utN1cLa6ydleJWlNU8YX0g=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.2.0.tgz"},"23.4.0":{"narHash":"sha256-Ynm7hISjlCp2x2cc3pJhi330WPIBpTJAwZLAQ+A0It8=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.4.0.tgz"},"23.4.1":{"narHash":"sha256-LRqYYarNvSi2iP2sd9J8/Peej5FBB6Dvr8wymqDOxWc=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.4.1.tgz"},"23.5.0":{"narHash":"sha256-lqaRP01Fx5hUqQJks8s5wp7n1QjTKpOf9oKsVzCDlgw=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.5.0.tgz"},"23.6.0":{"narHash":"sha256-ZE6oiwYDr9E9Jzu7ZPou6o2dhkYyQOBiIYWABWtk8w0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.6.0.tgz"},"24.0.0":{"narHash":"sha256-g2N4luedxXyw8TMApERmFmv0qbe8F9ORm1DPV/OxWFQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.0.0.tgz"},"24.1.0":{"narHash":"sha256-Mp2DEOAXEs9Vnjbo4uc/xJLQ5qxbjGmnHGlz6x2vNOk=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.1.0.tgz"},"24.3.0":{"narHash":"sha256-u1Nw2Ke3/sSD9bosXbljm7c/4K3ys97FXO6aR6Se70A=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.3.0.tgz"},"24.3.1":{"narHash":"sha256-rKBBEhdCn9FYM6vsEwbaYaw4yhtyuFoPqM4JORJHZCI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.3.1.tgz"},"24.4.0":{"narHash":"sha256-pRFpwUjsAeOICUCTY1CdEYz4kYZjIStun88yWk35Pqo=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.4.0.tgz"},"24.5.0":{"narHash":"sha256-4mvlO20OF5KPAeu7pubGSSNmDzmY8rmNnzOoM/a3MdM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.5.0.tgz"},"24.6.0":{"narHash":"sha256-53iROMrkHooOD6YQhguV3ijk06/gmglajNpfiK818/o=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.6.0.tgz"},"24.7.0":{"narHash":"sha256-8xuLc/ZanCy0YyfTpM6m3kgALazH99AK+sse4OwJn9w=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.7.0.tgz"},"24.7.1":{"narHash":"sha256-E8Fg7PoDAMoEPIWldWcaULOQmli41zlGUXGTCFPpzS4=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.7.1.tgz"},"24.8.0":{"narHash":"sha256-S4yT+lGTD8L3chq1Fn9n7jJwienMcl8xq1IFTYpgsk8=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.8.0.tgz"},"24.9.0":{"narHash":"sha256-7+WeWzS8zdo9WIVfDb/NfDdP+tRUKTDxs4B7N0J6igk=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.9.0.tgz"},"25.0.0":{"narHash":"sha256-bjoI8TD4X+R/qDvi47bwSVAQELDltsI58JP7rGla5Xc=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.0.0.tgz"},"25.1.0":{"narHash":"sha256-UmhIFkooru5D5gRPcLPzqbZNr+FRvDef32KGeSOJPHE=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.1.0.tgz"},"25.2.0":{"narHash":"sha256-IoEoUQu1KYuH4pK/KxCkOdC21c3fF7657ZHK/kJhDM0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.0.tgz"},"25.2.1":{"narHash":"sha256-3mKz1V8Yd2FUsxnw4hDf41jQQmjDI3ktuZXaJWtAuBE=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.1.tgz"},"25.2.3":{"narHash":"sha256-Ev9IfCi1A5TYqkFwZNdaWJ4MK+BDQUbEeMLgn3GjPJw=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.3.tgz"},"25.2.5":{"narHash":"sha256-hvL4y5v7M/P3tc8M4F1t1ndbTOsyXU+u6O9QYkPliAs=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.5.tgz"},"25.2.6":{"narHash":"sha256-lA8lUmEt2OYpEW4glpERZ2kkDqa75r5i6/g6RpFh+oA=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.6.tgz"},"25.3.0":{"narHash":"sha256-DqbwEKi+X2ED2KdIbuD+Y0rld2ZVFcMjzd6LdQJPevs=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.3.0.tgz"},"25.4.0":{"narHash":"sha256-6/A/GbBRDMkksCel15Aq44nhD7k2invAJJP6coXZVZo=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.4.0.tgz"},"25.5.0":{"narHash":"sha256-M/87ax1hCOf1NFU//+57ffZ7T876tsVzzPRizjoc7dI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.5.0.tgz"},"25.5.1":{"narHash":"sha256-ND1MkPyDMcDi/5mNZvv9NFNq29jDZFyLhlFmAjJ4Zy8=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.5.1.tgz"},"26.0.0":{"narHash":"sha256-aYw61fMUKZGPszHluspGC+o8vO0gaOhfQJ4S+aMY8so=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.0.0.tgz"},"26.0.1":{"narHash":"sha256-GjBOkuxdAdLlZAT5Udip1YGsWzrwfShisFTM3esIY4w=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.0.1.tgz"},"26.1.0":{"narHash":"sha256-nBj1pbzTtNWrPAZfXPsvetUD2PdPgqT2/ODxCQLGABQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.1.0.tgz"},"26.2.0":{"narHash":"sha256-qpgIvhUdyglFGTQ1wqVfWmqPQc0HZZX8oem07hRgUbE=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.2.0.tgz"},"26.2.1":{"narHash":"sha256-qWE9m2oJSuKnrK4VMvIMB0Gvy23vnM0bW2zlvx1EAgQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.2.1.tgz"},"26.2.2":{"narHash":"sha256-kJEpdP037wGBQ/WlcCFJON6rt0jk8coULZ+saloEXgo=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.2.2.tgz"},"26.3.0":{"narHash":"sha256-9rh18xe9UMkbX/O+4Z27+39SVvlsWJWoTrvCLYRbKjQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.3.0.tgz"},"26.4.0":{"narHash":"sha256-OGkDkA8U3/T7KZOe7x0O5RXrZV63YGLzjKgThuVnNfY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.4.0.tgz"},"26.5.0":{"narHash":"sha256-Iekw9SpPZWf/xXRSRYVik0Ur5h/zrhfvXw+XjJAs9l0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.5.0.tgz"},"26.5.2":{"narHash":"sha256-JEjl+ZGtaWGcU9pb+hlPU3u9Zo0CH+j+7kwPrAP3XKw=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.5.2.tgz"},"26.6.0":{"narHash":"sha256-bK+xXQZg57V2+sHp0DEIJ4v2KhWwtZX0t9rmYMdKbgI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.6.0.tgz"},"26.6.1":{"narHash":"sha256-heYZaOkMn+ErssMoxDGoKFjIlUCMdzN2DfJpjxC5pPY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.6.1.tgz"},"26.6.2":{"narHash":"sha256-xU6zAejCMYVEB3JAtkA3R4H6Fnc6gos20MvshZf73YY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.6.2.tgz"},"27.0.0":{"narHash":"sha256-bDSkvbvpn18eKCySTjx+qA6S2kuxTqcgOqwDrl5hI3Y=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.0.tgz"},"27.0.1":{"narHash":"sha256-KpeDY1wufOzv+WRu2W+xbPHL9+xeQpHDn4aEhuZDi1U=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.1.tgz"},"27.0.2":{"narHash":"sha256-iUZ0LyT8DKVQ1AZSApI8mCPSEa/eUcklyw/qGB/aG4U=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.2.tgz"},"27.0.4":{"narHash":"sha256-vRceUD40BjrQD31UAwp/ibg6ULdW000hCY68rb5XejI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.4.tgz"},"27.0.5":{"narHash":"sha256-uG6fQNKlQcsfILjj34N7o4oviWw4BJII+pP7bwkITCY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.5.tgz"},"27.0.6":{"narHash":"sha256-3OKQ5vZlFVzCBvNQVesAM5JHH7VtOWMw8p9pDXLpRhc=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.6.tgz"},"27.1.0":{"narHash":"sha256-HYHY8CCMoCg3DaNuvpGl4/9qCKQZfC9Y3hrnSLwNu+w=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.1.0.tgz"},"27.1.1":{"narHash":"sha256-nNW1S0+oRBNB3KJno2lFdJMTrtCJe513s9Mfni4aE2k=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.1.1.tgz"},"27.2.0":{"narHash":"sha256-r0UEmQ4+30iEin7Gpa+J1kwh7o5ybPnPfG2PATiFmSs=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.0.tgz"},"27.2.2":{"narHash":"sha256-xNdOV7F3mFZ6as28BhcBfpy5slqWFPYOw7B/0x1V7Kk=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.2.tgz"},"27.2.3":{"narHash":"sha256-LdN92PYbKY95GE5TRzz6MUVRslUzbKfAxd2pNVxXW/w=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.3.tgz"},"27.2.4":{"narHash":"sha256-UkKzeqvETj5C+3uoOBaq9NsSzZonRoHftjuO/Um4gGQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.4.tgz"},"27.2.5":{"narHash":"sha256-K5RTvt2C4OywcRLLtWJFQQKGl7s2RWLTK1cvJfPhnbc=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.5.tgz"},"27.3.0":{"narHash":"sha256-5urYFI/fgfWP7uzJGE8NMNSorUjcLxamIlvW5JFI4VQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.3.0.tgz"},"27.3.1":{"narHash":"sha256-M+ruIjfOCjK7XhrOzXqR1urmP5L6+mczj09HkXV9/gc=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.3.1.tgz"},"27.4.0":{"narHash":"sha256-U1DdfFLvF0F65yr1JAXyS50vavG/rohte/tnZ7gx/sg=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.0.tgz"},"27.4.1":{"narHash":"sha256-D+9p20yz/0VHvpaa3R+DW+oZqeeX4Dw431xNhOdwXzU=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.1.tgz"},"27.4.2":{"narHash":"sha256-GIxnqLda75sQr99KUtvBORd/C5RgDoQqZ2ZaCl6LWxY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.2.tgz"},"27.4.4":{"narHash":"sha256-H1bFAU0aFByv+SmBYwt4uVEiqi3+1kXKM6QsMm8L8Yk=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.4.tgz"},"27.4.5":{"narHash":"sha256-F9ntKTZpxWOu0uqVyhixdFOlq54beXD3qlOFMvJgvUU=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.5.tgz"},"27.4.6":{"narHash":"sha256-bKKDh2Hp5uT5+4cA7OSe8ZZOWES2iO12quK4IDhx0OE=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.6.tgz"},"27.5.0":{"narHash":"sha256-6KUdSDBTPe5qvPmxPhgVwUvq6XhjImhkfsyFZ2ALhvI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.5.0.tgz"},"27.5.1":{"narHash":"sha256-Q7VRGAWOxhtJZszBnL3ZMmAMNotq9KD1o33PmglBhY0=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.5.1.tgz"},"28.0.0":{"narHash":"sha256-1IHG/IoDMYyHDkD2FiE6jKKM59LQ1Ys05mNYgsJ2Z9g=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.0.0.tgz"},"28.0.1":{"narHash":"sha256-sNsrNdXqNnsJtlmed0la75T8hOgQ5QS1YGI+LkIqHT8=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.0.1.tgz"},"28.0.2":{"narHash":"sha256-WqP+QzkrBNsPWLcU4Ncq7W5dHHatIldXQS15oRL6lgY=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.0.2.tgz"},"28.0.3":{"narHash":"sha256-O6zZbn18NhBiXzujkJ7175E37h1j5IpNmKm61T1USKI=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.0.3.tgz"},"28.1.0":{"narHash":"sha256-D4V/earVBL7ZULtT3hkopYVzTWMqBZlEo2w17XS/2aM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.1.0.tgz"},"28.1.1":{"narHash":"sha256-J9S/Eb5z8i8XrtbuTotoGlPF4uGQGW80lerCOQ7WEXg=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.1.1.tgz"},"28.1.3":{"narHash":"sha256-eDEUBocWTNjxb4qMkq424VnlHD6SIr8titsWij8FTk8=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.1.3.tgz"},"29.0.0":{"narHash":"sha256-wdXvNWGz2DLCQ1dtQn5j5hd6rgVcjZKYwo3F0Ouz5UQ=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.0.0.tgz"},"29.0.1":{"narHash":"sha256-9crYpypsgO91Drh4CKYi5uSHegh/9sDJPwSzozFgO8I=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.0.1.tgz"},"29.0.2":{"narHash":"sha256-iUq66ol66opGFjGtU3mlx1NhAMcEdDxfgKkFnqbiTO4=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.0.2.tgz"},"29.0.3":{"narHash":"sha256-1lTF0RnNeDwxdECgtZy/U3qgzmcZk/dJsLqjGeef29g=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.0.3.tgz"},"29.1.0":{"narHash":"sha256-kYUuoSp1uG9rnhcezRNpM+QjySz5URL8aJSTWjUVFI4=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.1.0.tgz"},"29.1.2":{"narHash":"sha256-NEI3dsq6UYFykBEfsb//Qa/eSKvJ3WMfRxnZLzS2SLk=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.1.2.tgz"},"29.2.0":{"narHash":"sha256-ZbdbSl/kq+QCrsxJAhcjmI5t+VWbOpRTJGhEdSxbeqM=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.2.0.tgz"},"29.2.1":{"narHash":"sha256-GC0yYTMyftjEr1M+gWZZUWX4tdmAQqZQXx6TL4B1I4E=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.2.1.tgz"},"29.2.2":{"narHash":"sha256-8lxZPAdJN5/q101pIWhVN+IKvs0+TykSA/hcnIk/dZk=","type":"tarball","url":"https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.2.2.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-lTbV11U/qsBB/IsyLsJsf+GPBQSZ5Nk5Q9zdH5JizvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-0.0.0.tgz"
+  },
+  "12.1.0": {
+    "narHash": "sha256-EAOa43EVWOysfu1jQi55qh+9AmGxhr3TBJ9oz+VBJ3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-12.1.0.tgz"
+  },
+  "12.1.1": {
+    "narHash": "sha256-d0gKLKpLLQd9voAFPA00pHDf6m6j4XoFvugGhyZSGpM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-12.1.1.tgz"
+  },
+  "13.0.0": {
+    "narHash": "sha256-4vvouWg02DhYNxuMXobm5oonDxby8A6g0yQsowFiveQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-13.0.0.tgz"
+  },
+  "13.1.1": {
+    "narHash": "sha256-k4EtO38oGtIFRW3d3+TSIA6cDaBUMExsp7P1MIz2VUM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-13.1.1.tgz"
+  },
+  "13.2.1": {
+    "narHash": "sha256-AO/+6E/pGaGXtjUHMSavbo4ODOSQlj3HhyaU4SYBQ1A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-13.2.1.tgz"
+  },
+  "13.2.2": {
+    "narHash": "sha256-ih7oAX7jF8Ep+h5fVWlVy66s6F9z6ER20DG3n3x/EMo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-13.2.2.tgz"
+  },
+  "14.0.0": {
+    "narHash": "sha256-rygiRsKSBdCOmdPbuCYhNE6GTRMxwrFxCBHXWbdt7z4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-14.0.0.tgz"
+  },
+  "14.1.0": {
+    "narHash": "sha256-cty+KkIUBriigDwP3xk0Hsze+WiuQUg0Fg/24avO9jo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-14.1.0.tgz"
+  },
+  "15.0.0": {
+    "narHash": "sha256-9yRbAQi07uhNTOpPTdYvJ6szOAROJ/gGgdjJ+ozXLtQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-15.0.0.tgz"
+  },
+  "15.0.1": {
+    "narHash": "sha256-AuSYnxuTEkOk3c5R3yxuHgNN353vZxgl8uxVw5kgsck=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-15.0.1.tgz"
+  },
+  "16.0.0": {
+    "narHash": "sha256-G1VR9VhqcvwwnzIKPj7FXQ5tqiyWo8Jv9fhJkcRW0M0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-16.0.0.tgz"
+  },
+  "16.0.2": {
+    "narHash": "sha256-5uqTEJx8YmkHfClDbxUSONJoEU/CvJDmNy1SVzbkrj4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-16.0.2.tgz"
+  },
+  "17.0.0": {
+    "narHash": "sha256-klhlaSZl/aiRlej5EAT7hhk7xu4uMpyUVPx2bC9fRRM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.0.tgz"
+  },
+  "17.0.1": {
+    "narHash": "sha256-hMC3hj8x6CtBtWnSVxTSutPixAvTn0T9wBbmZYIJW14=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.1.tgz"
+  },
+  "17.0.2": {
+    "narHash": "sha256-JbFuDtBDBgwC3PoN/pcF3P2EOLCxGb6V2mlhsQwb8sg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.2.tgz"
+  },
+  "17.0.3": {
+    "narHash": "sha256-Jj4O6xMPXuTJ3LRAJcxwD9EA6sDTzL7YcCvmm9hY7hI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.3.tgz"
+  },
+  "18.0.0": {
+    "narHash": "sha256-1JOVa+lUV+WwVXjtueKTVRkeQ7S77P7ui0RLXwwLNX0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-18.0.0.tgz"
+  },
+  "18.1.0": {
+    "narHash": "sha256-8kM9yFZI/sBIc4cp5Ys9rkbJfGJ+5fImvhhMwPKn6bc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-18.1.0.tgz"
+  },
+  "19.0.0": {
+    "narHash": "sha256-F3n8M9DNyCSs1FK98cDpc5DPoZD8/y9NVEYL6tSoKFY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-19.0.0.tgz"
+  },
+  "19.0.2": {
+    "narHash": "sha256-xsbv3PMYBzqj8Dh5mTb031Rp1YinKvI6lr4XUhDxwDo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-19.0.2.tgz"
+  },
+  "20.0.0": {
+    "narHash": "sha256-DOI5MULiB0b4bnegXJV9NJdORDW6oSwL6wTR5gWDMWM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.0.tgz"
+  },
+  "20.0.1": {
+    "narHash": "sha256-YecFm0bpk8WQXsIT9385s/9JNTDnU+l5zDB9d9ct+f4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.1.tgz"
+  },
+  "20.0.2": {
+    "narHash": "sha256-tB/7r1NfIFuseml9DcrrWFzN5SMACEBWTQFoGvSafpM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.2.tgz"
+  },
+  "20.0.3": {
+    "narHash": "sha256-z0cDVgKIzTsizJDIpvJKF/0EEtzaWcbI2GiDyyRAaN4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.3.tgz"
+  },
+  "20.0.4": {
+    "narHash": "sha256-1wzpwSVgXQbHSiwH54Fgywk0wbCrVwSjMMPfoBxwEtg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-20.0.4.tgz"
+  },
+  "21.0.0": {
+    "narHash": "sha256-Zx0ag/FoKW9gOGXVOYE+3rsTKNM8pduie3KZEQE2+jM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-21.0.0.tgz"
+  },
+  "21.0.2": {
+    "narHash": "sha256-xNnwcAwEyN9niZGD0EMUl6aBLQOAzwK5vjmOvMcgnU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-21.0.2.tgz"
+  },
+  "21.1.0": {
+    "narHash": "sha256-0je2pOhl5pbzIpkv6OsLxWi9yn+1fyWgTojr07pLh4E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-21.1.0.tgz"
+  },
+  "21.2.0": {
+    "narHash": "sha256-FK/e3xo6oSL5SpWKMEnOChjP+u5oA0/Sol82v/n3J9M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-21.2.0.tgz"
+  },
+  "22.0.0": {
+    "narHash": "sha256-a4IcGnc9opkEqSrIoC2ds+CCyMtTCWPGpKBR5FLZzo0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.0.tgz"
+  },
+  "22.0.1": {
+    "narHash": "sha256-26jm/mMwksyrlqEiiXfQYQ4g694cZlhoPtx8xrjDOV0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.1.tgz"
+  },
+  "22.0.2": {
+    "narHash": "sha256-RY0K8bqYrFn12BVnsYsFf3UEZpLQTeWM64oj9Oif+gA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.2.tgz"
+  },
+  "22.0.3": {
+    "narHash": "sha256-KWS3tp3MVSK0KGqyYOjD7nZkp0vprOJ5HpAZ+AgfM2g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.3.tgz"
+  },
+  "22.0.4": {
+    "narHash": "sha256-wRHYNb9bXKLTOdKj0MiFa4ta7zCkCsc7Y+zM+kRfQRI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.4.tgz"
+  },
+  "22.0.6": {
+    "narHash": "sha256-vbYk+EYwTAsdyCtExjv8MwXZ2l+nmxE90cK5BSNFHQ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.0.6.tgz"
+  },
+  "22.1.0": {
+    "narHash": "sha256-O8FbdoCFvb5OHDDQzCOhE2ufiruGvmET0pP+fYV3ZXU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.1.0.tgz"
+  },
+  "22.1.4": {
+    "narHash": "sha256-MHCi116jUtM8DyNibbGJG6GeZWTrYPEAGa8mwlkyz1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.1.4.tgz"
+  },
+  "22.2.0": {
+    "narHash": "sha256-kvtGY4euZ7cH9doLO4dtlH5HVAkYVv4EBWI7ySUlEBI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.2.0.tgz"
+  },
+  "22.2.2": {
+    "narHash": "sha256-oAB+eckBn9j/aA+c+r2xmaYOcmkB69gN+ZtjYm2ts7A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.2.2.tgz"
+  },
+  "22.3.0": {
+    "narHash": "sha256-PLV+nGgAOMTzIiBoMTlUcBHo5Xrj67AnzBbsEhhKM5U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.3.0.tgz"
+  },
+  "22.4.0": {
+    "narHash": "sha256-eISA72gmnBumQzMU1S33fuKMeYiQjERoPms03KbIPIk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.4.0.tgz"
+  },
+  "22.4.1": {
+    "narHash": "sha256-bZlyy3LN7/6wFi/Ugzw8OHba5i1ATT1coYIfDEfXYbU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.4.1.tgz"
+  },
+  "22.4.2": {
+    "narHash": "sha256-qEWeOUNznHWOAykFxOvk8GMIy0/JSiV77I27wOZrYXw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.4.2.tgz"
+  },
+  "22.4.3": {
+    "narHash": "sha256-+U9W1EYMRuskP+b58yAMowIpFmZ4Y/5fAY5CClcQfOg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-22.4.3.tgz"
+  },
+  "23.0.0": {
+    "narHash": "sha256-gw31j3Utgw4lhguQ5l8SXW6C3nYmSRNnZnYTsLSwByY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.0.0.tgz"
+  },
+  "23.0.1": {
+    "narHash": "sha256-vHPaVqwajIJqibsL+mNSfNRXJgnopVTfgzseYTurnlE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.0.1.tgz"
+  },
+  "23.0.2": {
+    "narHash": "sha256-I9F906ZxpDQrdK+qyxd7yUT3SWj879aeZd774Fospds=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.0.2.tgz"
+  },
+  "23.1.0": {
+    "narHash": "sha256-x4We4xseZEOVzKuel4Uvj7IqgRo0A6yonq7X/KuDcqU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.1.0.tgz"
+  },
+  "23.2.0": {
+    "narHash": "sha256-ebQllqtlSXikZJdO+fhW1utN1cLa6ydleJWlNU8YX0g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.2.0.tgz"
+  },
+  "23.4.0": {
+    "narHash": "sha256-Ynm7hISjlCp2x2cc3pJhi330WPIBpTJAwZLAQ+A0It8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.4.0.tgz"
+  },
+  "23.4.1": {
+    "narHash": "sha256-LRqYYarNvSi2iP2sd9J8/Peej5FBB6Dvr8wymqDOxWc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.4.1.tgz"
+  },
+  "23.5.0": {
+    "narHash": "sha256-lqaRP01Fx5hUqQJks8s5wp7n1QjTKpOf9oKsVzCDlgw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.5.0.tgz"
+  },
+  "23.6.0": {
+    "narHash": "sha256-ZE6oiwYDr9E9Jzu7ZPou6o2dhkYyQOBiIYWABWtk8w0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-23.6.0.tgz"
+  },
+  "24.0.0": {
+    "narHash": "sha256-g2N4luedxXyw8TMApERmFmv0qbe8F9ORm1DPV/OxWFQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.0.0.tgz"
+  },
+  "24.1.0": {
+    "narHash": "sha256-Mp2DEOAXEs9Vnjbo4uc/xJLQ5qxbjGmnHGlz6x2vNOk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.1.0.tgz"
+  },
+  "24.3.0": {
+    "narHash": "sha256-u1Nw2Ke3/sSD9bosXbljm7c/4K3ys97FXO6aR6Se70A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.3.0.tgz"
+  },
+  "24.3.1": {
+    "narHash": "sha256-rKBBEhdCn9FYM6vsEwbaYaw4yhtyuFoPqM4JORJHZCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.3.1.tgz"
+  },
+  "24.4.0": {
+    "narHash": "sha256-pRFpwUjsAeOICUCTY1CdEYz4kYZjIStun88yWk35Pqo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.4.0.tgz"
+  },
+  "24.5.0": {
+    "narHash": "sha256-4mvlO20OF5KPAeu7pubGSSNmDzmY8rmNnzOoM/a3MdM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.5.0.tgz"
+  },
+  "24.6.0": {
+    "narHash": "sha256-53iROMrkHooOD6YQhguV3ijk06/gmglajNpfiK818/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.6.0.tgz"
+  },
+  "24.7.0": {
+    "narHash": "sha256-8xuLc/ZanCy0YyfTpM6m3kgALazH99AK+sse4OwJn9w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.7.0.tgz"
+  },
+  "24.7.1": {
+    "narHash": "sha256-E8Fg7PoDAMoEPIWldWcaULOQmli41zlGUXGTCFPpzS4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.7.1.tgz"
+  },
+  "24.8.0": {
+    "narHash": "sha256-S4yT+lGTD8L3chq1Fn9n7jJwienMcl8xq1IFTYpgsk8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.8.0.tgz"
+  },
+  "24.9.0": {
+    "narHash": "sha256-7+WeWzS8zdo9WIVfDb/NfDdP+tRUKTDxs4B7N0J6igk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-24.9.0.tgz"
+  },
+  "25.0.0": {
+    "narHash": "sha256-bjoI8TD4X+R/qDvi47bwSVAQELDltsI58JP7rGla5Xc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.0.0.tgz"
+  },
+  "25.1.0": {
+    "narHash": "sha256-UmhIFkooru5D5gRPcLPzqbZNr+FRvDef32KGeSOJPHE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.1.0.tgz"
+  },
+  "25.2.0": {
+    "narHash": "sha256-IoEoUQu1KYuH4pK/KxCkOdC21c3fF7657ZHK/kJhDM0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.0.tgz"
+  },
+  "25.2.1": {
+    "narHash": "sha256-3mKz1V8Yd2FUsxnw4hDf41jQQmjDI3ktuZXaJWtAuBE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.1.tgz"
+  },
+  "25.2.3": {
+    "narHash": "sha256-Ev9IfCi1A5TYqkFwZNdaWJ4MK+BDQUbEeMLgn3GjPJw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.3.tgz"
+  },
+  "25.2.5": {
+    "narHash": "sha256-hvL4y5v7M/P3tc8M4F1t1ndbTOsyXU+u6O9QYkPliAs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.5.tgz"
+  },
+  "25.2.6": {
+    "narHash": "sha256-lA8lUmEt2OYpEW4glpERZ2kkDqa75r5i6/g6RpFh+oA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.2.6.tgz"
+  },
+  "25.3.0": {
+    "narHash": "sha256-DqbwEKi+X2ED2KdIbuD+Y0rld2ZVFcMjzd6LdQJPevs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.3.0.tgz"
+  },
+  "25.4.0": {
+    "narHash": "sha256-6/A/GbBRDMkksCel15Aq44nhD7k2invAJJP6coXZVZo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.4.0.tgz"
+  },
+  "25.5.0": {
+    "narHash": "sha256-M/87ax1hCOf1NFU//+57ffZ7T876tsVzzPRizjoc7dI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.5.0.tgz"
+  },
+  "25.5.1": {
+    "narHash": "sha256-ND1MkPyDMcDi/5mNZvv9NFNq29jDZFyLhlFmAjJ4Zy8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-25.5.1.tgz"
+  },
+  "26.0.0": {
+    "narHash": "sha256-aYw61fMUKZGPszHluspGC+o8vO0gaOhfQJ4S+aMY8so=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.0.0.tgz"
+  },
+  "26.0.1": {
+    "narHash": "sha256-GjBOkuxdAdLlZAT5Udip1YGsWzrwfShisFTM3esIY4w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.0.1.tgz"
+  },
+  "26.1.0": {
+    "narHash": "sha256-nBj1pbzTtNWrPAZfXPsvetUD2PdPgqT2/ODxCQLGABQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.1.0.tgz"
+  },
+  "26.2.0": {
+    "narHash": "sha256-qpgIvhUdyglFGTQ1wqVfWmqPQc0HZZX8oem07hRgUbE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.2.0.tgz"
+  },
+  "26.2.1": {
+    "narHash": "sha256-qWE9m2oJSuKnrK4VMvIMB0Gvy23vnM0bW2zlvx1EAgQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.2.1.tgz"
+  },
+  "26.2.2": {
+    "narHash": "sha256-kJEpdP037wGBQ/WlcCFJON6rt0jk8coULZ+saloEXgo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.2.2.tgz"
+  },
+  "26.3.0": {
+    "narHash": "sha256-9rh18xe9UMkbX/O+4Z27+39SVvlsWJWoTrvCLYRbKjQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.3.0.tgz"
+  },
+  "26.4.0": {
+    "narHash": "sha256-OGkDkA8U3/T7KZOe7x0O5RXrZV63YGLzjKgThuVnNfY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.4.0.tgz"
+  },
+  "26.5.0": {
+    "narHash": "sha256-Iekw9SpPZWf/xXRSRYVik0Ur5h/zrhfvXw+XjJAs9l0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.5.0.tgz"
+  },
+  "26.5.2": {
+    "narHash": "sha256-JEjl+ZGtaWGcU9pb+hlPU3u9Zo0CH+j+7kwPrAP3XKw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.5.2.tgz"
+  },
+  "26.6.0": {
+    "narHash": "sha256-bK+xXQZg57V2+sHp0DEIJ4v2KhWwtZX0t9rmYMdKbgI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.6.0.tgz"
+  },
+  "26.6.1": {
+    "narHash": "sha256-heYZaOkMn+ErssMoxDGoKFjIlUCMdzN2DfJpjxC5pPY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.6.1.tgz"
+  },
+  "26.6.2": {
+    "narHash": "sha256-xU6zAejCMYVEB3JAtkA3R4H6Fnc6gos20MvshZf73YY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-26.6.2.tgz"
+  },
+  "27.0.0": {
+    "narHash": "sha256-bDSkvbvpn18eKCySTjx+qA6S2kuxTqcgOqwDrl5hI3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.0.tgz"
+  },
+  "27.0.1": {
+    "narHash": "sha256-KpeDY1wufOzv+WRu2W+xbPHL9+xeQpHDn4aEhuZDi1U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.1.tgz"
+  },
+  "27.0.2": {
+    "narHash": "sha256-iUZ0LyT8DKVQ1AZSApI8mCPSEa/eUcklyw/qGB/aG4U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.2.tgz"
+  },
+  "27.0.4": {
+    "narHash": "sha256-vRceUD40BjrQD31UAwp/ibg6ULdW000hCY68rb5XejI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.4.tgz"
+  },
+  "27.0.5": {
+    "narHash": "sha256-uG6fQNKlQcsfILjj34N7o4oviWw4BJII+pP7bwkITCY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.5.tgz"
+  },
+  "27.0.6": {
+    "narHash": "sha256-3OKQ5vZlFVzCBvNQVesAM5JHH7VtOWMw8p9pDXLpRhc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.0.6.tgz"
+  },
+  "27.1.0": {
+    "narHash": "sha256-HYHY8CCMoCg3DaNuvpGl4/9qCKQZfC9Y3hrnSLwNu+w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.1.0.tgz"
+  },
+  "27.1.1": {
+    "narHash": "sha256-nNW1S0+oRBNB3KJno2lFdJMTrtCJe513s9Mfni4aE2k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.1.1.tgz"
+  },
+  "27.2.0": {
+    "narHash": "sha256-r0UEmQ4+30iEin7Gpa+J1kwh7o5ybPnPfG2PATiFmSs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.0.tgz"
+  },
+  "27.2.2": {
+    "narHash": "sha256-xNdOV7F3mFZ6as28BhcBfpy5slqWFPYOw7B/0x1V7Kk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.2.tgz"
+  },
+  "27.2.3": {
+    "narHash": "sha256-LdN92PYbKY95GE5TRzz6MUVRslUzbKfAxd2pNVxXW/w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.3.tgz"
+  },
+  "27.2.4": {
+    "narHash": "sha256-UkKzeqvETj5C+3uoOBaq9NsSzZonRoHftjuO/Um4gGQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.4.tgz"
+  },
+  "27.2.5": {
+    "narHash": "sha256-K5RTvt2C4OywcRLLtWJFQQKGl7s2RWLTK1cvJfPhnbc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.2.5.tgz"
+  },
+  "27.3.0": {
+    "narHash": "sha256-5urYFI/fgfWP7uzJGE8NMNSorUjcLxamIlvW5JFI4VQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.3.0.tgz"
+  },
+  "27.3.1": {
+    "narHash": "sha256-M+ruIjfOCjK7XhrOzXqR1urmP5L6+mczj09HkXV9/gc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.3.1.tgz"
+  },
+  "27.4.0": {
+    "narHash": "sha256-U1DdfFLvF0F65yr1JAXyS50vavG/rohte/tnZ7gx/sg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.0.tgz"
+  },
+  "27.4.1": {
+    "narHash": "sha256-D+9p20yz/0VHvpaa3R+DW+oZqeeX4Dw431xNhOdwXzU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.1.tgz"
+  },
+  "27.4.2": {
+    "narHash": "sha256-GIxnqLda75sQr99KUtvBORd/C5RgDoQqZ2ZaCl6LWxY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.2.tgz"
+  },
+  "27.4.4": {
+    "narHash": "sha256-H1bFAU0aFByv+SmBYwt4uVEiqi3+1kXKM6QsMm8L8Yk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.4.tgz"
+  },
+  "27.4.5": {
+    "narHash": "sha256-F9ntKTZpxWOu0uqVyhixdFOlq54beXD3qlOFMvJgvUU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.5.tgz"
+  },
+  "27.4.6": {
+    "narHash": "sha256-bKKDh2Hp5uT5+4cA7OSe8ZZOWES2iO12quK4IDhx0OE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.4.6.tgz"
+  },
+  "27.5.0": {
+    "narHash": "sha256-6KUdSDBTPe5qvPmxPhgVwUvq6XhjImhkfsyFZ2ALhvI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.5.0.tgz"
+  },
+  "27.5.1": {
+    "narHash": "sha256-Q7VRGAWOxhtJZszBnL3ZMmAMNotq9KD1o33PmglBhY0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-27.5.1.tgz"
+  },
+  "28.0.0": {
+    "narHash": "sha256-1IHG/IoDMYyHDkD2FiE6jKKM59LQ1Ys05mNYgsJ2Z9g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.0.0.tgz"
+  },
+  "28.0.1": {
+    "narHash": "sha256-sNsrNdXqNnsJtlmed0la75T8hOgQ5QS1YGI+LkIqHT8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.0.1.tgz"
+  },
+  "28.0.2": {
+    "narHash": "sha256-WqP+QzkrBNsPWLcU4Ncq7W5dHHatIldXQS15oRL6lgY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.0.2.tgz"
+  },
+  "28.0.3": {
+    "narHash": "sha256-O6zZbn18NhBiXzujkJ7175E37h1j5IpNmKm61T1USKI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.0.3.tgz"
+  },
+  "28.1.0": {
+    "narHash": "sha256-D4V/earVBL7ZULtT3hkopYVzTWMqBZlEo2w17XS/2aM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.1.0.tgz"
+  },
+  "28.1.1": {
+    "narHash": "sha256-J9S/Eb5z8i8XrtbuTotoGlPF4uGQGW80lerCOQ7WEXg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.1.1.tgz"
+  },
+  "28.1.3": {
+    "narHash": "sha256-eDEUBocWTNjxb4qMkq424VnlHD6SIr8titsWij8FTk8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-28.1.3.tgz"
+  },
+  "29.0.0": {
+    "narHash": "sha256-wdXvNWGz2DLCQ1dtQn5j5hd6rgVcjZKYwo3F0Ouz5UQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.0.0.tgz"
+  },
+  "29.0.1": {
+    "narHash": "sha256-9crYpypsgO91Drh4CKYi5uSHegh/9sDJPwSzozFgO8I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.0.1.tgz"
+  },
+  "29.0.2": {
+    "narHash": "sha256-iUq66ol66opGFjGtU3mlx1NhAMcEdDxfgKkFnqbiTO4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.0.2.tgz"
+  },
+  "29.0.3": {
+    "narHash": "sha256-1lTF0RnNeDwxdECgtZy/U3qgzmcZk/dJsLqjGeef29g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.0.3.tgz"
+  },
+  "29.1.0": {
+    "narHash": "sha256-kYUuoSp1uG9rnhcezRNpM+QjySz5URL8aJSTWjUVFI4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.1.0.tgz"
+  },
+  "29.1.2": {
+    "narHash": "sha256-NEI3dsq6UYFykBEfsb//Qa/eSKvJ3WMfRxnZLzS2SLk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.1.2.tgz"
+  },
+  "29.2.0": {
+    "narHash": "sha256-ZbdbSl/kq+QCrsxJAhcjmI5t+VWbOpRTJGhEdSxbeqM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.2.0.tgz"
+  },
+  "29.2.1": {
+    "narHash": "sha256-GC0yYTMyftjEr1M+gWZZUWX4tdmAQqZQXx6TL4B1I4E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.2.1.tgz"
+  },
+  "29.2.2": {
+    "narHash": "sha256-8lxZPAdJN5/q101pIWhVN+IKvs0+TykSA/hcnIk/dZk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.2.2.tgz"
+  },
+  "29.3.1": {
+    "narHash": "sha256-xQKACPP4V/SfMHsEUrAGhEFnq8R6DnlIyWXp3POk0As=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.3.1.tgz"
+  }
+}

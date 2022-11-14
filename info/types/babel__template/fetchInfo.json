@@ -1,1 +1,32 @@
-{"7.0.0":{"narHash":"sha256-B7PTT25rCt9s8tiexOJvEH7PmyaMCH2xcHK5rEGkg8M=","type":"tarball","url":"https://registry.npmjs.org/@types/babel__template/-/babel__template-7.0.0.tgz"},"7.0.1":{"narHash":"sha256-EqLd1+JH7PqXZV7scsdbOYJiak/3RPQqsi27VhV4m78=","type":"tarball","url":"https://registry.npmjs.org/@types/babel__template/-/babel__template-7.0.1.tgz"},"7.0.2":{"narHash":"sha256-FVUJ77t05NGMTRwWeRFmCWZXJ0v2y7aODfyqWAQ5r1w=","type":"tarball","url":"https://registry.npmjs.org/@types/babel__template/-/babel__template-7.0.2.tgz"},"7.0.3":{"narHash":"sha256-xPDTyBy3jjL2i+6K+AEKE1s6MbeeL45TVJcO4GrX7ro=","type":"tarball","url":"https://registry.npmjs.org/@types/babel__template/-/babel__template-7.0.3.tgz"},"7.4.0":{"narHash":"sha256-LHyjD6vwtOBETP4xhGfHEgbc4VQrl7wouhDRT1xks/c=","type":"tarball","url":"https://registry.npmjs.org/@types/babel__template/-/babel__template-7.4.0.tgz"},"7.4.1":{"narHash":"sha256-vC/9MmlD/VSIjmQ+TTUy7fF5JDsj8f2Act67cMNvGNM=","type":"tarball","url":"https://registry.npmjs.org/@types/babel__template/-/babel__template-7.4.1.tgz"}}
+{
+  "7.0.0": {
+    "narHash": "sha256-B7PTT25rCt9s8tiexOJvEH7PmyaMCH2xcHK5rEGkg8M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/babel__template/-/babel__template-7.0.0.tgz"
+  },
+  "7.0.1": {
+    "narHash": "sha256-EqLd1+JH7PqXZV7scsdbOYJiak/3RPQqsi27VhV4m78=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/babel__template/-/babel__template-7.0.1.tgz"
+  },
+  "7.0.2": {
+    "narHash": "sha256-FVUJ77t05NGMTRwWeRFmCWZXJ0v2y7aODfyqWAQ5r1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/babel__template/-/babel__template-7.0.2.tgz"
+  },
+  "7.0.3": {
+    "narHash": "sha256-xPDTyBy3jjL2i+6K+AEKE1s6MbeeL45TVJcO4GrX7ro=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/babel__template/-/babel__template-7.0.3.tgz"
+  },
+  "7.4.0": {
+    "narHash": "sha256-LHyjD6vwtOBETP4xhGfHEgbc4VQrl7wouhDRT1xks/c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/babel__template/-/babel__template-7.4.0.tgz"
+  },
+  "7.4.1": {
+    "narHash": "sha256-vC/9MmlD/VSIjmQ+TTUy7fF5JDsj8f2Act67cMNvGNM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/babel__template/-/babel__template-7.4.1.tgz"
+  }
+}

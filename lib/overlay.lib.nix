@@ -9,7 +9,7 @@ final: prev: let
 # ---------------------------------------------------------------------------- #
 
   callLibWith = { lib ? final, ... } @ auto: x: let
-    f    = if prev.lib.isFunction x then x else import x;
+    f    = if prev.isFunction x then x else import x;
     args = builtins.intersectAttrs ( builtins.functionArgs f )
                                     ( { inherit lib; } // auto );
   in f args;
@@ -24,6 +24,15 @@ in {  # Begin Exports
     j = prev.importJSON ../config/flocoConfig.json;
     m = prev.recursiveUpdate j ( prev.flocoConfig or {} );
   in prev.libcfg.mkFlocoConfig m;
+
+  inherit (callLib ./hier.nix)
+    hierToKeys
+    scopeBnamesToIdents
+  ;
+  inherit (callLib ./loadFetchInfo.nix)
+    loadFetchInfo'
+    loadFetchInfo
+  ;
 
 }  # End Lib Overlay
 

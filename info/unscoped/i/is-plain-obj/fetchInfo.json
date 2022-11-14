@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-zseGXlIGu3NnbOCjNYfI1Qyx3H8f33dUYiKGdGybd2A=","type":"tarball","url":"https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-PQEa77XTcYweBNJauGDQUIx0LQ8dWS76UjVrk4IvK0w=","type":"tarball","url":"https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-LKyd+3te8I+ljk4Iqh0cOjKLZF/Iqqpw7H7lLN5UnIo=","type":"tarball","url":"https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-HIiBMdjqap/JL9wNUGTYUBWJTKDWBhvu5/F0avI33ew=","type":"tarball","url":"https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-9TIvLTmLezQUZw5r3vQqdY4Fx/139iNncN0bEgv1WYU=","type":"tarball","url":"https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-w71EH8SKKZZxfQk00ZPWbmo28NKeWGt5L8iON84xfZA=","type":"tarball","url":"https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-4.0.0.tgz"},"4.1.0":{"narHash":"sha256-0BUSxtQOguybk3imCXRgzQWWgHmlVKR746VJsMsCZQI=","type":"tarball","url":"https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-4.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-zseGXlIGu3NnbOCjNYfI1Qyx3H8f33dUYiKGdGybd2A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-PQEa77XTcYweBNJauGDQUIx0LQ8dWS76UjVrk4IvK0w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-LKyd+3te8I+ljk4Iqh0cOjKLZF/Iqqpw7H7lLN5UnIo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-HIiBMdjqap/JL9wNUGTYUBWJTKDWBhvu5/F0avI33ew=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-9TIvLTmLezQUZw5r3vQqdY4Fx/139iNncN0bEgv1WYU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-w71EH8SKKZZxfQk00ZPWbmo28NKeWGt5L8iON84xfZA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-4.0.0.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-0BUSxtQOguybk3imCXRgzQWWgHmlVKR746VJsMsCZQI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-4.1.0.tgz"
+  }
+}

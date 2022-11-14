@@ -1,1 +1,42 @@
-{"0.0.0":{"narHash":"sha256-7qdOVnu9sxy1aPIj/Gcqh+cowY8h3d/RhWVqfMgUG3M=","type":"tarball","url":"https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-0.0.0.tgz"},"1.0.0":{"narHash":"sha256-nQU2T45iU/j6NHnB9q5gb3ueejol54XRohtsRQHEpoA=","type":"tarball","url":"https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-9puq9KzHTazroqIRyhqEynEJ6YWNXAQVj8ijEjKoKSg=","type":"tarball","url":"https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-PWQx8/NRJcuyZQUapuS5PW+jijOcsr3Dr6dxBJs7kM8=","type":"tarball","url":"https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-0URE4BjQoKsZT/ZkhvwfT1cJtJ6GPASiszIkwLlc6o0=","type":"tarball","url":"https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-yzcg7f2WbGCf6ep2t34xurMUcVlrL/MgmIEpJRxuC2k=","type":"tarball","url":"https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-6T0JYzWm8or+8mEdcod7dp8bCOI9+GTX2Lx+7yOeLmM=","type":"tarball","url":"https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.1.tgz"},"1.2.2":{"narHash":"sha256-TWqhSIj4QZo9Hw4fGV7RywqlGA4+ocaIAPg8ji7m33c=","type":"tarball","url":"https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.2.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-7qdOVnu9sxy1aPIj/Gcqh+cowY8h3d/RhWVqfMgUG3M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-0.0.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-nQU2T45iU/j6NHnB9q5gb3ueejol54XRohtsRQHEpoA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-9puq9KzHTazroqIRyhqEynEJ6YWNXAQVj8ijEjKoKSg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-PWQx8/NRJcuyZQUapuS5PW+jijOcsr3Dr6dxBJs7kM8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-0URE4BjQoKsZT/ZkhvwfT1cJtJ6GPASiszIkwLlc6o0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-yzcg7f2WbGCf6ep2t34xurMUcVlrL/MgmIEpJRxuC2k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-6T0JYzWm8or+8mEdcod7dp8bCOI9+GTX2Lx+7yOeLmM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.1.tgz"
+  },
+  "1.2.2": {
+    "narHash": "sha256-TWqhSIj4QZo9Hw4fGV7RywqlGA4+ocaIAPg8ji7m33c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.2.tgz"
+  }
+}

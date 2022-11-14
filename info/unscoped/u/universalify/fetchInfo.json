@@ -1,1 +1,37 @@
-{"0.0.1":{"narHash":"sha256-mcw537eLLRMyQr/rv1lS8ynGW6x/HqXDZj08Al2paB4=","type":"tarball","url":"https://registry.npmjs.org/universalify/-/universalify-0.0.1.tgz"},"0.1.0":{"narHash":"sha256-GxcLQjc3Dkse4nOUjJH66ObxTt4Kn9eN5gwVqCdxoYc=","type":"tarball","url":"https://registry.npmjs.org/universalify/-/universalify-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-UD0J81avQexVOv345/oQI7xO2DXlNRFfQbcEPijnddY=","type":"tarball","url":"https://registry.npmjs.org/universalify/-/universalify-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-PkDgqRJyZNpsca4avOR/H4x+Nlp/4tsaJQiB9giHl1Q=","type":"tarball","url":"https://registry.npmjs.org/universalify/-/universalify-0.1.2.tgz"},"0.2.0":{"narHash":"sha256-4Gl72TmUB4hWdgt6GLiMdcGDrPRT1iL/96ibhoicODs=","type":"tarball","url":"https://registry.npmjs.org/universalify/-/universalify-0.2.0.tgz"},"1.0.0":{"narHash":"sha256-mzOiUWlX2KGyeHgWpUYCPYj48CmpEvDXx0DjUx+NcW8=","type":"tarball","url":"https://registry.npmjs.org/universalify/-/universalify-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-0ld8f/t33JjseUuroCnT/yjNIIwlGXekvICWB8dr5b4=","type":"tarball","url":"https://registry.npmjs.org/universalify/-/universalify-2.0.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-mcw537eLLRMyQr/rv1lS8ynGW6x/HqXDZj08Al2paB4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/universalify/-/universalify-0.0.1.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-GxcLQjc3Dkse4nOUjJH66ObxTt4Kn9eN5gwVqCdxoYc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/universalify/-/universalify-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-UD0J81avQexVOv345/oQI7xO2DXlNRFfQbcEPijnddY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/universalify/-/universalify-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-PkDgqRJyZNpsca4avOR/H4x+Nlp/4tsaJQiB9giHl1Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/universalify/-/universalify-0.1.2.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-4Gl72TmUB4hWdgt6GLiMdcGDrPRT1iL/96ibhoicODs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/universalify/-/universalify-0.2.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-mzOiUWlX2KGyeHgWpUYCPYj48CmpEvDXx0DjUx+NcW8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/universalify/-/universalify-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-0ld8f/t33JjseUuroCnT/yjNIIwlGXekvICWB8dr5b4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/universalify/-/universalify-2.0.0.tgz"
+  }
+}

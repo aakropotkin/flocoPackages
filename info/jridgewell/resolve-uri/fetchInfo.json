@@ -1,1 +1,67 @@
-{"0.1.0":{"narHash":"sha256-oBU0MBct12cvA4rikfvjo0kUuebduWVoNzyJjuuXJks=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-0.1.0.tgz"},"1.0.0":{"narHash":"sha256-pqroPy+yXgDiKTfkbunF3O4PwsIp8gN0CM8thQf92Ts=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-SCTcW7GDrqGJseHCm/NT4SOflAS+TB1VCAcqP1H1C7Y=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-3h8K+Y2pq+CUqzo65LxNfZbvEoC7Qqk46+QmHPTO/ts=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-nqP6NmD//b4YslF8JUY8EPXkfcAkLxMJnTrJcxR/SVg=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-tAGazFWZrxOOmdNspkFpCc505Yw/CenWrj22ag5melg=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.2.tgz"},"3.0.3":{"narHash":"sha256-Sl+arxVrHIZ8ifIXspCFsItJ7e5AJe9/dXPNeNvGYsA=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.3.tgz"},"3.0.4":{"narHash":"sha256-IV4SoNsQysKGuRZJAmQ6bIerOpWliDeiqp75QMHdRA4=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.4.tgz"},"3.0.5":{"narHash":"sha256-IE7JAFBd9PZcn2hLeOBkeRiQgMOvftoHo5D1JK6HEeo=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.5.tgz"},"3.0.6":{"narHash":"sha256-366+2zYA+yp8QF0QV43jBcPJwh7pANSlQIug4S18BjU=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.6.tgz"},"3.0.7":{"narHash":"sha256-b4tR+Z9ygH0knfgexwSb2V0PN+kPMbCmSO2iCXTtYXY=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.7.tgz"},"3.0.8":{"narHash":"sha256-Lpabh0XsbQ0gbmGDyVlgAwPRJX+HMRJPFoacVmgx3E8=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.8.tgz"},"3.1.0":{"narHash":"sha256-hED3kswj5waotVJCd7ougmOL65MmYhoI4YFae3fN2c0=","type":"tarball","url":"https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-oBU0MBct12cvA4rikfvjo0kUuebduWVoNzyJjuuXJks=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-0.1.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-pqroPy+yXgDiKTfkbunF3O4PwsIp8gN0CM8thQf92Ts=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-SCTcW7GDrqGJseHCm/NT4SOflAS+TB1VCAcqP1H1C7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-3h8K+Y2pq+CUqzo65LxNfZbvEoC7Qqk46+QmHPTO/ts=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-nqP6NmD//b4YslF8JUY8EPXkfcAkLxMJnTrJcxR/SVg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-tAGazFWZrxOOmdNspkFpCc505Yw/CenWrj22ag5melg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.2.tgz"
+  },
+  "3.0.3": {
+    "narHash": "sha256-Sl+arxVrHIZ8ifIXspCFsItJ7e5AJe9/dXPNeNvGYsA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.3.tgz"
+  },
+  "3.0.4": {
+    "narHash": "sha256-IV4SoNsQysKGuRZJAmQ6bIerOpWliDeiqp75QMHdRA4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.4.tgz"
+  },
+  "3.0.5": {
+    "narHash": "sha256-IE7JAFBd9PZcn2hLeOBkeRiQgMOvftoHo5D1JK6HEeo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.5.tgz"
+  },
+  "3.0.6": {
+    "narHash": "sha256-366+2zYA+yp8QF0QV43jBcPJwh7pANSlQIug4S18BjU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.6.tgz"
+  },
+  "3.0.7": {
+    "narHash": "sha256-b4tR+Z9ygH0knfgexwSb2V0PN+kPMbCmSO2iCXTtYXY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.7.tgz"
+  },
+  "3.0.8": {
+    "narHash": "sha256-Lpabh0XsbQ0gbmGDyVlgAwPRJX+HMRJPFoacVmgx3E8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.8.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-hED3kswj5waotVJCd7ougmOL65MmYhoI4YFae3fN2c0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz"
+  }
+}

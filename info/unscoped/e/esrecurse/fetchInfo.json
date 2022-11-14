@@ -1,1 +1,67 @@
-{"1.0.0":{"narHash":"sha256-FXFYpsVElZOS/9bvqYzwuJMm0k42d0dLsZ5rp9h3z7M=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-ozQ6M8zpRVC9g7ePLm/f+KvU+l4kChNZUBERUJUFl7k=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-JozG0/ZLainaFmU8SPao9jPybQm7rpnG2/DqDxY5EfI=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-Garse8rf+v+5vsfNMOHIRyCdi5IeZHN4cIVxmJQ7/dA=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-xrAnlmZhtsMmVetgCikMtt1HRhs7bAD4OqGOWbNuohc=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-cN/OA8x4m5PVpkupAQWDYKVl/CMKPt8wXclJlZFrZ/Q=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-L5Bs/6cy1bAEvELQSYBNKiOY1ulUD2yfNqLjT4oMk+0=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-3.1.0.tgz"},"3.1.1":{"narHash":"sha256-WRs+RN2tuyZXdH6nfGSsQ4Ichxu3htWXtdU5Xlbg1w0=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-3.1.1.tgz"},"4.0.0":{"narHash":"sha256-sYNKpdNLxRwb2w7AluCu8EnYTEucQaCoT8DbYdqCSS0=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-4.0.0.tgz"},"4.1.0":{"narHash":"sha256-lZQuT07LeYsvJAIsMZm/cow2bqKZQmNknfaVcohGW1o=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-4.1.0.tgz"},"4.2.0":{"narHash":"sha256-LT/3TPGq6lGcSwXQ8ufDmHBTLhVH417JRfVlReuzNRk=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-4.2.0.tgz"},"4.2.1":{"narHash":"sha256-LsdmsQ7azM1286OePglyq4hwXPQT7l02LaCKNZHoT5Y=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-4.2.1.tgz"},"4.3.0":{"narHash":"sha256-L2yCPwe2ilGsbvyZlJ+BZPHW5GTO7tz1uJwtojcSr9Y=","type":"tarball","url":"https://registry.npmjs.org/esrecurse/-/esrecurse-4.3.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-FXFYpsVElZOS/9bvqYzwuJMm0k42d0dLsZ5rp9h3z7M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-ozQ6M8zpRVC9g7ePLm/f+KvU+l4kChNZUBERUJUFl7k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-JozG0/ZLainaFmU8SPao9jPybQm7rpnG2/DqDxY5EfI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-Garse8rf+v+5vsfNMOHIRyCdi5IeZHN4cIVxmJQ7/dA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-xrAnlmZhtsMmVetgCikMtt1HRhs7bAD4OqGOWbNuohc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-cN/OA8x4m5PVpkupAQWDYKVl/CMKPt8wXclJlZFrZ/Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-L5Bs/6cy1bAEvELQSYBNKiOY1ulUD2yfNqLjT4oMk+0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-3.1.0.tgz"
+  },
+  "3.1.1": {
+    "narHash": "sha256-WRs+RN2tuyZXdH6nfGSsQ4Ichxu3htWXtdU5Xlbg1w0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-3.1.1.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-sYNKpdNLxRwb2w7AluCu8EnYTEucQaCoT8DbYdqCSS0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-4.0.0.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-lZQuT07LeYsvJAIsMZm/cow2bqKZQmNknfaVcohGW1o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-4.1.0.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-LT/3TPGq6lGcSwXQ8ufDmHBTLhVH417JRfVlReuzNRk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-4.2.0.tgz"
+  },
+  "4.2.1": {
+    "narHash": "sha256-LsdmsQ7azM1286OePglyq4hwXPQT7l02LaCKNZHoT5Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-4.2.1.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-L2yCPwe2ilGsbvyZlJ+BZPHW5GTO7tz1uJwtojcSr9Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-4.3.0.tgz"
+  }
+}

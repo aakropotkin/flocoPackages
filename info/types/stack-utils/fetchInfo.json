@@ -1,1 +1,22 @@
-{"1.0.0":{"narHash":"sha256-3CT8KIoxly1UHgkO1SJSWtEuvv/d47rh8WF72fxKtiQ=","type":"tarball","url":"https://registry.npmjs.org/@types/stack-utils/-/stack-utils-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-39occ3/QD5ylm40kZnKH0chh0xULEZEpr8vcWwrGYeQ=","type":"tarball","url":"https://registry.npmjs.org/@types/stack-utils/-/stack-utils-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-/h+AlmDXBz7wQHgmFfpBoIsrnOEG7ivHUfdocYqx7bM=","type":"tarball","url":"https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-gr91EFOuHHQwQFZkhLUrR2nuwle/BkVYOhlHQ7z2G3w=","type":"tarball","url":"https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-3CT8KIoxly1UHgkO1SJSWtEuvv/d47rh8WF72fxKtiQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-39occ3/QD5ylm40kZnKH0chh0xULEZEpr8vcWwrGYeQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-/h+AlmDXBz7wQHgmFfpBoIsrnOEG7ivHUfdocYqx7bM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-gr91EFOuHHQwQFZkhLUrR2nuwle/BkVYOhlHQ7z2G3w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.1.tgz"
+  }
+}

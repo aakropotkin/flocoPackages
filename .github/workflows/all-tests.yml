@@ -74,8 +74,11 @@ jobs:
           echo "# ---------------------------------------------------------------------------- #" >&2;
           nix build head#tests --show-trace --impure;
 
-      - name: All Checks
-        run: |
-          nix flake check head --show-trace;
-          echo "# ---------------------------------------------------------------------------- #" >&2;
-          nix flake check head --show-trace --impure;
+          # FIXME: OOM
+          #- name: All Checks
+          #  run: |
+          #    nix flake check head --show-trace --system x86_64-linux --no-build||  \
+          #    nix flake check head --show-trace -vvvvv --debug -L --no-build;
+          #    echo "# ---------------------------------------------------------------------------- #" >&2;
+          #    nix flake check head --show-trace --impure --system x86_64-linux --no-build||  \
+          #    nix flake check head --show-trace --impure -vvvvv --debug -L --no-build;

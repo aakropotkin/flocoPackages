@@ -1,1 +1,32 @@
-{"1.1.0":{"narHash":"sha256-jk02T6QQTAxr9bkFFtNkL/FhekjFcrp9a/+HOOOEZOY=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-2KveMv8C1/XYvBtHcVNACy7hFFXAsZkgzqjVDK5akFg=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-GdeDZUUJHYTw+DZOe0a7wg8SoFDKU90ZEBzIdXmjxoE=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-tZDwmsCUvSILPn1e07ukrI2ZnQqnZ+bi4x/LOzi4uCI=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-ttXeF6J8tVOibUAVMbtPtMUxrmBWs3ZG08gNX3F8c7Y=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-DtWhc4JGMhO7O0szwUUUAgO3Qgh8hrmgEygs8bL5Z1Q=","type":"tarball","url":"https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.4.tgz"}}
+{
+  "1.1.0": {
+    "narHash": "sha256-jk02T6QQTAxr9bkFFtNkL/FhekjFcrp9a/+HOOOEZOY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-2KveMv8C1/XYvBtHcVNACy7hFFXAsZkgzqjVDK5akFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-GdeDZUUJHYTw+DZOe0a7wg8SoFDKU90ZEBzIdXmjxoE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-tZDwmsCUvSILPn1e07ukrI2ZnQqnZ+bi4x/LOzi4uCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-ttXeF6J8tVOibUAVMbtPtMUxrmBWs3ZG08gNX3F8c7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-DtWhc4JGMhO7O0szwUUUAgO3Qgh8hrmgEygs8bL5Z1Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.4.tgz"
+  }
+}

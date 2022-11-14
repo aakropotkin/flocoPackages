@@ -1,1 +1,32 @@
-{"0.0.0":{"narHash":"sha256-24Qol4d0OuTEIulsXdfH6nNsYxZMjYFkzoYnmk0tdIU=","type":"tarball","url":"https://registry.npmjs.org/resolve.exports/-/resolve.exports-0.0.0.tgz"},"0.0.1":{"narHash":"sha256-RDmiNCVXFLl3gYTnoIOnPYpw/Ng9mV1aExzjtD/dqQ0=","type":"tarball","url":"https://registry.npmjs.org/resolve.exports/-/resolve.exports-0.0.1.tgz"},"1.0.0":{"narHash":"sha256-59IyK4zUKbgzNE2hidrW5wlbII5ljJpyLYZEBaBLSYo=","type":"tarball","url":"https://registry.npmjs.org/resolve.exports/-/resolve.exports-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-q44z1LASZa9rqDDlHt/p0kvVOd0BHUA7F77AZY5Mexs=","type":"tarball","url":"https://registry.npmjs.org/resolve.exports/-/resolve.exports-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-in0lpgnKUHlr2EvaPKcqadCBsLauerqCpzuq7uXh5CE=","type":"tarball","url":"https://registry.npmjs.org/resolve.exports/-/resolve.exports-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-lXIdqWZAP/pKwHiJ/NcTa/V1WyuP1ywX3kPtc7q7X2k=","type":"tarball","url":"https://registry.npmjs.org/resolve.exports/-/resolve.exports-1.1.0.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-24Qol4d0OuTEIulsXdfH6nNsYxZMjYFkzoYnmk0tdIU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve.exports/-/resolve.exports-0.0.0.tgz"
+  },
+  "0.0.1": {
+    "narHash": "sha256-RDmiNCVXFLl3gYTnoIOnPYpw/Ng9mV1aExzjtD/dqQ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve.exports/-/resolve.exports-0.0.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-59IyK4zUKbgzNE2hidrW5wlbII5ljJpyLYZEBaBLSYo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve.exports/-/resolve.exports-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-q44z1LASZa9rqDDlHt/p0kvVOd0BHUA7F77AZY5Mexs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve.exports/-/resolve.exports-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-in0lpgnKUHlr2EvaPKcqadCBsLauerqCpzuq7uXh5CE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve.exports/-/resolve.exports-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-lXIdqWZAP/pKwHiJ/NcTa/V1WyuP1ywX3kPtc7q7X2k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve.exports/-/resolve.exports-1.1.0.tgz"
+  }
+}

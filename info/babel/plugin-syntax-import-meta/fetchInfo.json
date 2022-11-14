@@ -1,1 +1,37 @@
-{"7.0.0":{"narHash":"sha256-R+5YvdKS2uAUDSyLTOE92ijqoIQA8yZBBk6GvIUSwzQ=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.0.0.tgz"},"7.10.1":{"narHash":"sha256-1jhYwv0bcVYFIxAsuJUnLFK/vXH+O/F5vCB5ywBO+PU=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.10.1.tgz"},"7.10.4":{"narHash":"sha256-i/fheZDmTxCs3FWlHNF1P1/RqANf8lHVmUNmMMtEo18=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.10.4.tgz"},"7.2.0":{"narHash":"sha256-CYGyHzrluMO1Z8ARiMVY36Sdlc31ziYHkayr02mSfXI=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.2.0.tgz"},"7.7.4":{"narHash":"sha256-c9ygWDCjojSFDmKuM0UYM7Lh+GAJxSctiXDraVueAZ0=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.7.4.tgz"},"7.8.0":{"narHash":"sha256-AUOJnw6NUBFOynmeONeGRm1Oc0iU7iODeQ3cvhvnpQE=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.8.0.tgz"},"7.8.3":{"narHash":"sha256-nhwCce5rgWZC4l3Ntcer8P4EwdnLJ4dhNateU+Y7aU0=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.8.3.tgz"}}
+{
+  "7.0.0": {
+    "narHash": "sha256-R+5YvdKS2uAUDSyLTOE92ijqoIQA8yZBBk6GvIUSwzQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.0.0.tgz"
+  },
+  "7.10.1": {
+    "narHash": "sha256-1jhYwv0bcVYFIxAsuJUnLFK/vXH+O/F5vCB5ywBO+PU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.10.1.tgz"
+  },
+  "7.10.4": {
+    "narHash": "sha256-i/fheZDmTxCs3FWlHNF1P1/RqANf8lHVmUNmMMtEo18=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.10.4.tgz"
+  },
+  "7.2.0": {
+    "narHash": "sha256-CYGyHzrluMO1Z8ARiMVY36Sdlc31ziYHkayr02mSfXI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.2.0.tgz"
+  },
+  "7.7.4": {
+    "narHash": "sha256-c9ygWDCjojSFDmKuM0UYM7Lh+GAJxSctiXDraVueAZ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.7.4.tgz"
+  },
+  "7.8.0": {
+    "narHash": "sha256-AUOJnw6NUBFOynmeONeGRm1Oc0iU7iODeQ3cvhvnpQE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.8.0.tgz"
+  },
+  "7.8.3": {
+    "narHash": "sha256-nhwCce5rgWZC4l3Ntcer8P4EwdnLJ4dhNateU+Y7aU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-import-meta/-/plugin-syntax-import-meta-7.8.3.tgz"
+  }
+}

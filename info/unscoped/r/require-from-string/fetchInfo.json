@@ -1,1 +1,47 @@
-{"1.0.0":{"narHash":"sha256-wYqfWqjelwn0W/KdqLO7LNgIqJxFfZW3pB3tNDd7TEc=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-tN3aOPt+JKoVos6595HpzZO+5xfRdmEBEmgiSIJIQrw=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-/i0Hsxa1kcJn28ZYls/S/g+bn+Nqd1Cr4PTKTQzMT48=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-PCq6y5V0WxZRi6v2I2fc2rHdLZIH3oGjWHwBlUc2SVE=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-U5RBl2s/JkC9ZIaCIKpZRq5ppkiGAZQb2k1IqdVoKQI=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-hCpYQMU/lxBRokZAUbFhaO6sJ/xThQ3lI1ig90FzB4Q=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-1.2.1.tgz"},"2.0.0":{"narHash":"sha256-uq01TOiNZxpQyM6aeeAJsNL2EOsiVKv1nmClJLGioUw=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-usOz6mY8DSnHyELLSAjQs8xJXmuynW30MQkw7R8oj3M=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-R0m+cS25k7csaqHl5tWyBoImM7R1Ru7tHSX3SVI6XqI=","type":"tarball","url":"https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.2.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-wYqfWqjelwn0W/KdqLO7LNgIqJxFfZW3pB3tNDd7TEc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-tN3aOPt+JKoVos6595HpzZO+5xfRdmEBEmgiSIJIQrw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-/i0Hsxa1kcJn28ZYls/S/g+bn+Nqd1Cr4PTKTQzMT48=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-PCq6y5V0WxZRi6v2I2fc2rHdLZIH3oGjWHwBlUc2SVE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-U5RBl2s/JkC9ZIaCIKpZRq5ppkiGAZQb2k1IqdVoKQI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-hCpYQMU/lxBRokZAUbFhaO6sJ/xThQ3lI1ig90FzB4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-1.2.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-uq01TOiNZxpQyM6aeeAJsNL2EOsiVKv1nmClJLGioUw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-usOz6mY8DSnHyELLSAjQs8xJXmuynW30MQkw7R8oj3M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-R0m+cS25k7csaqHl5tWyBoImM7R1Ru7tHSX3SVI6XqI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.2.tgz"
+  }
+}

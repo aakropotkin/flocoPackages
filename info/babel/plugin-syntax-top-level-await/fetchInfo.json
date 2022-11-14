@@ -1,1 +1,47 @@
-{"7.10.1":{"narHash":"sha256-/Ur7Kl2WSEYo0ARwNtKQFa3ONj8NJpjAzQfEk/H+r7Q=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.10.1.tgz"},"7.10.4":{"narHash":"sha256-/as623ryMSkxyMuO7qBHOtsejY28G6YGYFQYgqsBvns=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.10.4.tgz"},"7.12.1":{"narHash":"sha256-mdd2Ggso5LfRzQjo1+O5N9ys/y0T6vkC+MjhwCdNmtw=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.12.1.tgz"},"7.12.13":{"narHash":"sha256-iHDsHVigKNX1AIc7iU/A8x2tKQLpO9fLPd1ZRmBr7tA=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.12.13.tgz"},"7.14.5":{"narHash":"sha256-rW5bQ6vunS/ONImTJuL1bdJvJLCG0qxPUQTy38EiM18=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.14.5.tgz"},"7.7.0":{"narHash":"sha256-cLYCWwDCT7+2s9EyCM6XuOZi98c/ZcUfiqs9Vbzf1zo=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.7.0.tgz"},"7.7.4":{"narHash":"sha256-7c+8eC2z4ZCHxbkfa90ES/2ZFYfpSpnQv+tivjNtyek=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.7.4.tgz"},"7.8.0":{"narHash":"sha256-J0SKAiGmbpHjdLeVhhVuMNuZtnXn64lYpub+X6ZRkMY=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.8.0.tgz"},"7.8.3":{"narHash":"sha256-GonNPxKiu3bdI6ntUSoVUeiFWN2UbWcaDgowvBmTM48=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.8.3.tgz"}}
+{
+  "7.10.1": {
+    "narHash": "sha256-/Ur7Kl2WSEYo0ARwNtKQFa3ONj8NJpjAzQfEk/H+r7Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.10.1.tgz"
+  },
+  "7.10.4": {
+    "narHash": "sha256-/as623ryMSkxyMuO7qBHOtsejY28G6YGYFQYgqsBvns=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.10.4.tgz"
+  },
+  "7.12.1": {
+    "narHash": "sha256-mdd2Ggso5LfRzQjo1+O5N9ys/y0T6vkC+MjhwCdNmtw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.12.1.tgz"
+  },
+  "7.12.13": {
+    "narHash": "sha256-iHDsHVigKNX1AIc7iU/A8x2tKQLpO9fLPd1ZRmBr7tA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.12.13.tgz"
+  },
+  "7.14.5": {
+    "narHash": "sha256-rW5bQ6vunS/ONImTJuL1bdJvJLCG0qxPUQTy38EiM18=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.14.5.tgz"
+  },
+  "7.7.0": {
+    "narHash": "sha256-cLYCWwDCT7+2s9EyCM6XuOZi98c/ZcUfiqs9Vbzf1zo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.7.0.tgz"
+  },
+  "7.7.4": {
+    "narHash": "sha256-7c+8eC2z4ZCHxbkfa90ES/2ZFYfpSpnQv+tivjNtyek=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.7.4.tgz"
+  },
+  "7.8.0": {
+    "narHash": "sha256-J0SKAiGmbpHjdLeVhhVuMNuZtnXn64lYpub+X6ZRkMY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.8.0.tgz"
+  },
+  "7.8.3": {
+    "narHash": "sha256-GonNPxKiu3bdI6ntUSoVUeiFWN2UbWcaDgowvBmTM48=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.8.3.tgz"
+  }
+}

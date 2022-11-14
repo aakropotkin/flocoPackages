@@ -1,1 +1,42 @@
-{"0.1.0":{"narHash":"sha256-C1ioifGO4301zv159o4VFyfXCzl6PGK5O6dNX56lBj8=","type":"tarball","url":"https://registry.npmjs.org/array-union/-/array-union-0.1.0.tgz"},"1.0.0":{"narHash":"sha256-/PT7mB1OO45qnN4Esc0oe95eQ5FniRFxlJ5uASGv6cs=","type":"tarball","url":"https://registry.npmjs.org/array-union/-/array-union-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-09RApNtVYscbnq3fQyTwOiSZa447oy+oSxdEOG6g/Fg=","type":"tarball","url":"https://registry.npmjs.org/array-union/-/array-union-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-i/fD0CVSs3FDFpgvqOQR0CJkXQd6oRrzBIZ2370/1y0=","type":"tarball","url":"https://registry.npmjs.org/array-union/-/array-union-1.0.2.tgz"},"2.0.0":{"narHash":"sha256-S2POcvjHB5fFEPL4JZg5h0ecQrruU854afmJ2Fj7mc4=","type":"tarball","url":"https://registry.npmjs.org/array-union/-/array-union-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-bmQXg345RYsXeeq7IwVxYDrzUr9rWTXu9b8usPViYkk=","type":"tarball","url":"https://registry.npmjs.org/array-union/-/array-union-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-hedYf6MmL/HllccPjShnJWhSh14D2PJOavLcGnYB628=","type":"tarball","url":"https://registry.npmjs.org/array-union/-/array-union-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-ov7R4Duf4JrcJ0p/c6jzXD3uFaOiKW06tryRAkCm5As=","type":"tarball","url":"https://registry.npmjs.org/array-union/-/array-union-3.0.1.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-C1ioifGO4301zv159o4VFyfXCzl6PGK5O6dNX56lBj8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-0.1.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-/PT7mB1OO45qnN4Esc0oe95eQ5FniRFxlJ5uASGv6cs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-09RApNtVYscbnq3fQyTwOiSZa447oy+oSxdEOG6g/Fg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-i/fD0CVSs3FDFpgvqOQR0CJkXQd6oRrzBIZ2370/1y0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-1.0.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-S2POcvjHB5fFEPL4JZg5h0ecQrruU854afmJ2Fj7mc4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-bmQXg345RYsXeeq7IwVxYDrzUr9rWTXu9b8usPViYkk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-hedYf6MmL/HllccPjShnJWhSh14D2PJOavLcGnYB628=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-ov7R4Duf4JrcJ0p/c6jzXD3uFaOiKW06tryRAkCm5As=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-3.0.1.tgz"
+  }
+}

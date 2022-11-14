@@ -1,1 +1,102 @@
-{"1.0.0":{"narHash":"sha256-8cjBHjKnRDewlQ+Z12Ee7aEUjdLzOIzCX8/O1k1AHvc=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-IdIx4LoBllPaEZutxb66kw9Ifsi5a7keqsg4HdVoU5Y=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-v7WvTjQ/WldXHSl8clMTzORz9p6Fopq9SIbqHzfvN5Q=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-1kgMv10oL3KSLzCbkgd3fV4GAlzz14OpO8jI+h63n54=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-4EO2uD6muev0XgC4C5iD9gv48u/4xizS5ezSiFfrFNc=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-48O3T2MG2jIw101aHGA27bRlQb1PJhw/P/yjmEORaAI=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-cR8C/NP0QHhGGMx5mcbLySSKX08m3mQypsYJlMsXN5M=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.6.tgz"},"1.0.7":{"narHash":"sha256-NV9o+lHSepJhc1NJtQk0FDf6A57pnhwgmyf6Zzy3b0c=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.7.tgz"},"1.1.0":{"narHash":"sha256-B+4giTodezkNnGZL1SJ9GMq8Z5i1mShujgyGS6Kel7w=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.0.tgz"},"1.1.2":{"narHash":"sha256-nmJtFcHI/aAkayAJ2vCjSelfR0dsyclSLQplFHXpCaU=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.2.tgz"},"1.1.3":{"narHash":"sha256-2NLfhBgw/ZG+RrWECYS1HXC4gPS/b4b+7K0AWpqJu1g=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.3.tgz"},"1.1.4":{"narHash":"sha256-zFoHH5slD/xBRLjUevanmd6w5/qbKrQg/jzYz4KGubs=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.4.tgz"},"2.0.0":{"narHash":"sha256-MLC6Jjhzq6cN/gcG2f3m8xIoPw/jQ/f4CiA80BlD634=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-N7zWZLqedjlCNZFdrr7o8+HlcSpNSg2wX7uZkwPJwHQ=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-Otp7hFGSXrFe6iQG1Ts6q+QEfvvHOk3FlfISs97DJRc=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-5cH81qBgXx7treR/B8ayvSZXQnab7u2Dn2AjtlVVZ0I=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-OYfx7gTAvnY2/CAR1LQw6aA/jsx8JawyKDYvtUvSR+c=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-NUYjPqtmE3aEfRndw2hkrw+seOfZNc5YEHcjK67F8Tw=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.5.tgz"},"2.0.6":{"narHash":"sha256-ecbIyMHylbbr7yuhLAsB/amPAPjjzF0rZw6qZDni7b8=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"},"3.0.0":{"narHash":"sha256-ooQL9RhOkvfPPhiPXJYK3/uoR6ejwTPgRz5rV5hMLDY=","type":"tarball","url":"https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-3.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-8cjBHjKnRDewlQ+Z12Ee7aEUjdLzOIzCX8/O1k1AHvc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-IdIx4LoBllPaEZutxb66kw9Ifsi5a7keqsg4HdVoU5Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-v7WvTjQ/WldXHSl8clMTzORz9p6Fopq9SIbqHzfvN5Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-1kgMv10oL3KSLzCbkgd3fV4GAlzz14OpO8jI+h63n54=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-4EO2uD6muev0XgC4C5iD9gv48u/4xizS5ezSiFfrFNc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-48O3T2MG2jIw101aHGA27bRlQb1PJhw/P/yjmEORaAI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-cR8C/NP0QHhGGMx5mcbLySSKX08m3mQypsYJlMsXN5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.6.tgz"
+  },
+  "1.0.7": {
+    "narHash": "sha256-NV9o+lHSepJhc1NJtQk0FDf6A57pnhwgmyf6Zzy3b0c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.0.7.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-B+4giTodezkNnGZL1SJ9GMq8Z5i1mShujgyGS6Kel7w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.0.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-nmJtFcHI/aAkayAJ2vCjSelfR0dsyclSLQplFHXpCaU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.2.tgz"
+  },
+  "1.1.3": {
+    "narHash": "sha256-2NLfhBgw/ZG+RrWECYS1HXC4gPS/b4b+7K0AWpqJu1g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.3.tgz"
+  },
+  "1.1.4": {
+    "narHash": "sha256-zFoHH5slD/xBRLjUevanmd6w5/qbKrQg/jzYz4KGubs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.4.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-MLC6Jjhzq6cN/gcG2f3m8xIoPw/jQ/f4CiA80BlD634=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-N7zWZLqedjlCNZFdrr7o8+HlcSpNSg2wX7uZkwPJwHQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-Otp7hFGSXrFe6iQG1Ts6q+QEfvvHOk3FlfISs97DJRc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-5cH81qBgXx7treR/B8ayvSZXQnab7u2Dn2AjtlVVZ0I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-OYfx7gTAvnY2/CAR1LQw6aA/jsx8JawyKDYvtUvSR+c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-NUYjPqtmE3aEfRndw2hkrw+seOfZNc5YEHcjK67F8Tw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.5.tgz"
+  },
+  "2.0.6": {
+    "narHash": "sha256-ecbIyMHylbbr7yuhLAsB/amPAPjjzF0rZw6qZDni7b8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-ooQL9RhOkvfPPhiPXJYK3/uoR6ejwTPgRz5rV5hMLDY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-3.0.0.tgz"
+  }
+}

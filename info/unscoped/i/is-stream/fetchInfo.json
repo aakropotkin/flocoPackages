@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-Wlr5F9jzdp8HxKlcuTDnhZb24XLQuvzbiPtX8irNSpU=","type":"tarball","url":"https://registry.npmjs.org/is-stream/-/is-stream-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-Nj+1C1yPhY0O2oWHzPZzBPI5aFwZGri3j+B52BGTLHI=","type":"tarball","url":"https://registry.npmjs.org/is-stream/-/is-stream-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-8fAw+WPWodAWy1fYEX1/2r/OSGINjzccB2Nw+VUluRA=","type":"tarball","url":"https://registry.npmjs.org/is-stream/-/is-stream-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-86shQkY72f3P8Lb2QgUK9foJAHnXSwC73l38d7UEKl0=","type":"tarball","url":"https://registry.npmjs.org/is-stream/-/is-stream-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-Fh80EDj5F2Taioq1Q5Q877MARryNTEB3CzpqWiSUlJQ=","type":"tarball","url":"https://registry.npmjs.org/is-stream/-/is-stream-2.0.1.tgz"},"3.0.0":{"narHash":"sha256-1vnXxC/Da9IMv3J4hSA9lMDFmDrk+fxRkTAt0OLYcPk=","type":"tarball","url":"https://registry.npmjs.org/is-stream/-/is-stream-3.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-Wlr5F9jzdp8HxKlcuTDnhZb24XLQuvzbiPtX8irNSpU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-stream/-/is-stream-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-Nj+1C1yPhY0O2oWHzPZzBPI5aFwZGri3j+B52BGTLHI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-stream/-/is-stream-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-8fAw+WPWodAWy1fYEX1/2r/OSGINjzccB2Nw+VUluRA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-stream/-/is-stream-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-86shQkY72f3P8Lb2QgUK9foJAHnXSwC73l38d7UEKl0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-stream/-/is-stream-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-Fh80EDj5F2Taioq1Q5Q877MARryNTEB3CzpqWiSUlJQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-stream/-/is-stream-2.0.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-1vnXxC/Da9IMv3J4hSA9lMDFmDrk+fxRkTAt0OLYcPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-stream/-/is-stream-3.0.0.tgz"
+  }
+}

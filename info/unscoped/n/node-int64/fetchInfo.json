@@ -1,1 +1,37 @@
-{"0.1.0":{"narHash":"sha256-b4cC6L8gvRo+BXZtAZZ49+agArrc5cy8ph/Jxk+A4/E=","type":"tarball","url":"https://registry.npmjs.org/node-int64/-/node-int64-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-zncU1Zv0T7yRH1eieP372Aq8qLLyX8VYDTn/XHscXnw=","type":"tarball","url":"https://registry.npmjs.org/node-int64/-/node-int64-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-2h4h1MuqDHVjpbKJCe33tnwIdgvK8JbTBZjRnWjSdmk=","type":"tarball","url":"https://registry.npmjs.org/node-int64/-/node-int64-0.3.0.tgz"},"0.3.1":{"narHash":"sha256-5rFOHl+dxHYO9WtWHLvPh9QU7cvN81cLD9ADbRcoRZQ=","type":"tarball","url":"https://registry.npmjs.org/node-int64/-/node-int64-0.3.1.tgz"},"0.3.2":{"narHash":"sha256-rqCBDY/6QSfS/qUUguhFT12MvQuSFbl1E77MuBZjRIc=","type":"tarball","url":"https://registry.npmjs.org/node-int64/-/node-int64-0.3.2.tgz"},"0.3.3":{"narHash":"sha256-FstjbkMT4gXumMgoC9rIHJr3T7mG+rSSWUOpZsqoiDs=","type":"tarball","url":"https://registry.npmjs.org/node-int64/-/node-int64-0.3.3.tgz"},"0.4.0":{"narHash":"sha256-BOd48Uc57GvkSlqGJR5ZPMr5oGEdY6CKsrrLVTIjcvY=","type":"tarball","url":"https://registry.npmjs.org/node-int64/-/node-int64-0.4.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-b4cC6L8gvRo+BXZtAZZ49+agArrc5cy8ph/Jxk+A4/E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-zncU1Zv0T7yRH1eieP372Aq8qLLyX8VYDTn/XHscXnw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-2h4h1MuqDHVjpbKJCe33tnwIdgvK8JbTBZjRnWjSdmk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.3.0.tgz"
+  },
+  "0.3.1": {
+    "narHash": "sha256-5rFOHl+dxHYO9WtWHLvPh9QU7cvN81cLD9ADbRcoRZQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.3.1.tgz"
+  },
+  "0.3.2": {
+    "narHash": "sha256-rqCBDY/6QSfS/qUUguhFT12MvQuSFbl1E77MuBZjRIc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.3.2.tgz"
+  },
+  "0.3.3": {
+    "narHash": "sha256-FstjbkMT4gXumMgoC9rIHJr3T7mG+rSSWUOpZsqoiDs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.3.3.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-BOd48Uc57GvkSlqGJR5ZPMr5oGEdY6CKsrrLVTIjcvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.4.0.tgz"
+  }
+}

@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-dkypMzLrmNjRuXVsV4EqhGugB6VBkzDIfl+u9zlXEx4=","type":"tarball","url":"https://registry.npmjs.org/bser/-/bser-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-bwBz6aw7jE04KUAxbLLrgAHPoT6Tz1fNMGv0BYWbk70=","type":"tarball","url":"https://registry.npmjs.org/bser/-/bser-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-zdWFLxaQDYm1utDf35KmaApHgjZgY62fjf1qgIvhqms=","type":"tarball","url":"https://registry.npmjs.org/bser/-/bser-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-Zi1AZtyqx1qXGIFIMUMTIjK4aMsly9tTHJTce+Hx9eg=","type":"tarball","url":"https://registry.npmjs.org/bser/-/bser-1.0.3.tgz"},"2.0.0":{"narHash":"sha256-bXKJvvOu/csdl7XMAgHPsmBVmVbNad9LLMVNkUJUzPU=","type":"tarball","url":"https://registry.npmjs.org/bser/-/bser-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-ma8RYl3++K4qMIULxwDK57XeRYy324nu6e5qaiexwg8=","type":"tarball","url":"https://registry.npmjs.org/bser/-/bser-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-8jmp769FFc+RUwtnH56s0sdBOeUnLA2Sh2gyM9QZ/oc=","type":"tarball","url":"https://registry.npmjs.org/bser/-/bser-2.1.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-dkypMzLrmNjRuXVsV4EqhGugB6VBkzDIfl+u9zlXEx4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bser/-/bser-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-bwBz6aw7jE04KUAxbLLrgAHPoT6Tz1fNMGv0BYWbk70=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bser/-/bser-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-zdWFLxaQDYm1utDf35KmaApHgjZgY62fjf1qgIvhqms=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bser/-/bser-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-Zi1AZtyqx1qXGIFIMUMTIjK4aMsly9tTHJTce+Hx9eg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bser/-/bser-1.0.3.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-bXKJvvOu/csdl7XMAgHPsmBVmVbNad9LLMVNkUJUzPU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bser/-/bser-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-ma8RYl3++K4qMIULxwDK57XeRYy324nu6e5qaiexwg8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bser/-/bser-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-8jmp769FFc+RUwtnH56s0sdBOeUnLA2Sh2gyM9QZ/oc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bser/-/bser-2.1.1.tgz"
+  }
+}

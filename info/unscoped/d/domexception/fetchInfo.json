@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-qoO3WgewDyNvw6lZGueMiUuOyt+pNiBepiAYBMDQce8=","type":"tarball","url":"https://registry.npmjs.org/domexception/-/domexception-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-TZMwFJfG0zi6Y/6xZY4PMnmSFMIhRYuzirxohwVlN+M=","type":"tarball","url":"https://registry.npmjs.org/domexception/-/domexception-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-b8zG+tKt1Avg0Sdd2HC89WtmafBIGA+JMsBKW4O5ZqU=","type":"tarball","url":"https://registry.npmjs.org/domexception/-/domexception-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-W3PRaKB9KrAErgzF+AMmcwWNI2qkuD/DzbkyL06RcaY=","type":"tarball","url":"https://registry.npmjs.org/domexception/-/domexception-2.0.1.tgz"},"3.0.0":{"narHash":"sha256-BeLBpnLRuU1NP2f9YPYawU3XIcjs1T33aiwqVlYu09c=","type":"tarball","url":"https://registry.npmjs.org/domexception/-/domexception-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-4NtF1SjaTRGO+ccRUki7tc2FtsoSqmCHZ9amI95yEPM=","type":"tarball","url":"https://registry.npmjs.org/domexception/-/domexception-4.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-qoO3WgewDyNvw6lZGueMiUuOyt+pNiBepiAYBMDQce8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/domexception/-/domexception-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-TZMwFJfG0zi6Y/6xZY4PMnmSFMIhRYuzirxohwVlN+M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/domexception/-/domexception-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-b8zG+tKt1Avg0Sdd2HC89WtmafBIGA+JMsBKW4O5ZqU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/domexception/-/domexception-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-W3PRaKB9KrAErgzF+AMmcwWNI2qkuD/DzbkyL06RcaY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/domexception/-/domexception-2.0.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-BeLBpnLRuU1NP2f9YPYawU3XIcjs1T33aiwqVlYu09c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/domexception/-/domexception-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-4NtF1SjaTRGO+ccRUki7tc2FtsoSqmCHZ9amI95yEPM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/domexception/-/domexception-4.0.0.tgz"
+  }
+}

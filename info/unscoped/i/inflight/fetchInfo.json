@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-FLphP2jyZBXHmj8Qq4AZwgw1euP4wz5YFEjNgBUk/+s=","type":"tarball","url":"https://registry.npmjs.org/inflight/-/inflight-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-IRVWajQTNOB6966NmKM288dkETJNYNWCGF6FxA3pnoA=","type":"tarball","url":"https://registry.npmjs.org/inflight/-/inflight-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-aRYcDCS3WtPKfUqeN2InyoLFjtpHg2ShhGu8ypgOOXQ=","type":"tarball","url":"https://registry.npmjs.org/inflight/-/inflight-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-exBwJNP6nPSXvHK6KCFN13SvlIRrQpAlWvRyK1Cpuz4=","type":"tarball","url":"https://registry.npmjs.org/inflight/-/inflight-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-KgYgd+BNhwT1aZAe4ZoWtm9fKHnkMA9r3Jpr0lRf8Uo=","type":"tarball","url":"https://registry.npmjs.org/inflight/-/inflight-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-Ub/VXWKXyOxd9+wBl8MB/ir9zWc4lvrneZAuy0RMTyA=","type":"tarball","url":"https://registry.npmjs.org/inflight/-/inflight-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-QYcVNxVNod45ft7XJVhWJCKuVPN95a8FwfAefYWKqhg=","type":"tarball","url":"https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-FLphP2jyZBXHmj8Qq4AZwgw1euP4wz5YFEjNgBUk/+s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inflight/-/inflight-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-IRVWajQTNOB6966NmKM288dkETJNYNWCGF6FxA3pnoA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inflight/-/inflight-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-aRYcDCS3WtPKfUqeN2InyoLFjtpHg2ShhGu8ypgOOXQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inflight/-/inflight-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-exBwJNP6nPSXvHK6KCFN13SvlIRrQpAlWvRyK1Cpuz4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inflight/-/inflight-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-KgYgd+BNhwT1aZAe4ZoWtm9fKHnkMA9r3Jpr0lRf8Uo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inflight/-/inflight-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-Ub/VXWKXyOxd9+wBl8MB/ir9zWc4lvrneZAuy0RMTyA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inflight/-/inflight-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-QYcVNxVNod45ft7XJVhWJCKuVPN95a8FwfAefYWKqhg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz"
+  }
+}

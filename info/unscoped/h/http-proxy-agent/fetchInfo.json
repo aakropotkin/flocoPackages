@@ -1,1 +1,92 @@
-{"0.0.1":{"narHash":"sha256-Ag/u1rDA8UfPNcJoS7Ba+LSSWG6ytDYb32Na8VN4nKk=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-UFL319qMpgeBVxm5S7C4WFyHsjGdeHXmm/r/T63CLKE=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.0.2.tgz"},"0.1.0":{"narHash":"sha256-5ivKVK+mminO2YvwbxDKbPNajKcaWkRrZbPUcb5g+X0=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-W9Zg8Kop6MmQSiiA/H+T/521Uqrzjdd/M1NlVnsD6EA=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-oKdIgF9T7x73Qd5aWcS6/PGtA58yb7eVY6jka/dNsgI=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.1.tgz"},"0.2.2":{"narHash":"sha256-Mr211AWYdjOAfXDM3cAwvoYngu1FvLDn8fr7GW7hlNo=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.2.tgz"},"0.2.3":{"narHash":"sha256-uRnUtOo06hhTk3ERlshTzDFXrroplLEgBfhz/BfMqMk=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.3.tgz"},"0.2.4":{"narHash":"sha256-1ug8KZMhk3L5+ny7IPBDYpPeXKzlr41/14anXclJK78=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.4.tgz"},"0.2.5":{"narHash":"sha256-EoeaaCm6/wQrpDAR5NmbYgveBVHaR3P6g7zZZJGOEVo=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.5.tgz"},"0.2.6":{"narHash":"sha256-ETbzgNI/OzObbyaJrbOmWgbAhHA0ezDO589jCtlouTI=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.6.tgz"},"0.2.7":{"narHash":"sha256-hgB9M/kz102aAeLKVRgOkVM/mzcdI8IRMsMGRZYtQHw=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.7.tgz"},"1.0.0":{"narHash":"sha256-EK8x4LNKbokY398IbU+VO/T76hCpvwTIi9xVlVI13T0=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-m/gTMs36Kc26uMi/LHlmXq2sOrlpcYX/oEquDrkUJLg=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-r3a5bR7jYrhmWRW2Akyd+F2WvqawTVH0qglEaWQeYoE=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-M6bzK8goAOWRpSqfd6MLKS0OBtlV3aIF8PN6s+bXQ3k=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-9Q8fvhVvUpkHFeV+C55Grlps05yl6IGgA8wNbos0O18=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-O0SMclOVpPuhX70iTuX73AeluwsKSDmL3YfuthL5ohM=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-4.0.1.tgz"},"5.0.0":{"narHash":"sha256-8a7NywPQQPUQ+Vopnfsac/PAkj7rYUthODimqQEN5wE=","type":"tarball","url":"https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-5.0.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-Ag/u1rDA8UfPNcJoS7Ba+LSSWG6ytDYb32Na8VN4nKk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-UFL319qMpgeBVxm5S7C4WFyHsjGdeHXmm/r/T63CLKE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.0.2.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-5ivKVK+mminO2YvwbxDKbPNajKcaWkRrZbPUcb5g+X0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-W9Zg8Kop6MmQSiiA/H+T/521Uqrzjdd/M1NlVnsD6EA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-oKdIgF9T7x73Qd5aWcS6/PGtA58yb7eVY6jka/dNsgI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.1.tgz"
+  },
+  "0.2.2": {
+    "narHash": "sha256-Mr211AWYdjOAfXDM3cAwvoYngu1FvLDn8fr7GW7hlNo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.2.tgz"
+  },
+  "0.2.3": {
+    "narHash": "sha256-uRnUtOo06hhTk3ERlshTzDFXrroplLEgBfhz/BfMqMk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.3.tgz"
+  },
+  "0.2.4": {
+    "narHash": "sha256-1ug8KZMhk3L5+ny7IPBDYpPeXKzlr41/14anXclJK78=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.4.tgz"
+  },
+  "0.2.5": {
+    "narHash": "sha256-EoeaaCm6/wQrpDAR5NmbYgveBVHaR3P6g7zZZJGOEVo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.5.tgz"
+  },
+  "0.2.6": {
+    "narHash": "sha256-ETbzgNI/OzObbyaJrbOmWgbAhHA0ezDO589jCtlouTI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.6.tgz"
+  },
+  "0.2.7": {
+    "narHash": "sha256-hgB9M/kz102aAeLKVRgOkVM/mzcdI8IRMsMGRZYtQHw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-0.2.7.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-EK8x4LNKbokY398IbU+VO/T76hCpvwTIi9xVlVI13T0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-m/gTMs36Kc26uMi/LHlmXq2sOrlpcYX/oEquDrkUJLg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-r3a5bR7jYrhmWRW2Akyd+F2WvqawTVH0qglEaWQeYoE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-M6bzK8goAOWRpSqfd6MLKS0OBtlV3aIF8PN6s+bXQ3k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-9Q8fvhVvUpkHFeV+C55Grlps05yl6IGgA8wNbos0O18=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-O0SMclOVpPuhX70iTuX73AeluwsKSDmL3YfuthL5ohM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-4.0.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-8a7NywPQQPUQ+Vopnfsac/PAkj7rYUthODimqQEN5wE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-5.0.0.tgz"
+  }
+}

@@ -15,28 +15,28 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
+  infoDir = toString ../../info;
+
   loadFetchInfo' = {
     scope
   , bname
   , shard ? prev.lib.toLower ( builtins.substring 0 1 bname )
   }: let
-    infoDir = ../../info;
     ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
             "@${scope}/${bname}";
     ldir = if ( scope == null ) || ( scope == "unscoped" )
-           then "${infoDir}/unscoped/${shard}/${bname}"
-           else "${infoDir}/${scope}/${bname}";
-    byVers  = prev.lib.importJSON "${ldir}/fetchInfo.json";
+           then infoDir + "/unscoped/${shard}/${bname}"
+           else infoDir + "/${scope}/${bname}";
+    byVers  = prev.lib.importJSON ( ldir + "/fetchInfo.json" );
     proc    = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
   in builtins.foldl' proc {} ( builtins.attrNames byVers );
 
   loadFetchInfo = ident: let
-    infoDir = ../../info;
-    m       = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
+    m = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
   in loadFetchInfo' {
-    scope   = builtins.elemAt m 1;
-    bname   = builtins.elemAt m 2;
-    shard   = prev.lib.toLower ( builtins.elemAt m 3 );
+    scope = builtins.elemAt m 1;
+    bname = builtins.elemAt m 2;
+    shard = prev.lib.toLower ( builtins.elemAt m 3 );
   };
 
   markedFetchInfos = let
@@ -63,68 +63,89 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
+  keyTreeFor = ident: version: let
+    inherit (final.lib.parseNodeNames ident) scope bname sdir;
+    treeNixPath  = ./. + "/${sdir}/${bname}/${version}/tree.nix";
+    treeJSONPath = ./. + "/${sdir}/${bname}/${version}/tree.json";
+    forTreeNix = let
+      f     = import treeNixPath;
+      forFn = final.lib.apply f { inherit (final) lib stdenv system; };
+    in if prev.lib.isFunction f then forFn else f;
+    forJSON   = prev.lib.importJSON treeJSONPath;
+  in if builtins.pathExists treeNixPath
+     then builtins.trace "${ident} using tree.nix" forTreeNix
+     else if builtins.pathExists treeJSONPath
+     then builtins.trace "${ident} using tree.json" forJSON
+     else builtins.trace "${ident} no tree info" {};
+
+
+# ---------------------------------------------------------------------------- #
+
+  srcFor = ident: version: let
+    inherit (final.lib.parseNodeNames ident) scope bname sdir;
+    fetchInfos =
+      prev.lib.importJSON ( ../../info + "/${sdir}/${bname}/fetchInfo.json" );
+    ec = builtins.addErrorContext "Loading fetchInfo for ${ident}/${version}";
+  in final.flocoBinsFetcher {
+    fetchInfo = ec fetchInfos.${version};
+  };
+
+
+# ---------------------------------------------------------------------------- #
+
+  # This basically just exists to make `lib.canPassStrict' work.
+  defaultBuilder = {
+    ident
+  , version
+  , src            ? srcFor ident version
+  , keyTree        ? keyTreeFor ident version
+  , globalNmDirCmd ? if keyTree == {} then ":" else nmDirCmdFromTree {
+      inherit keyTree;
+      inherit (final) flocoPackages;
+    }
+  , nodejs ? prev.nodejs-14_x
+  }: final.mkBinPackage { inherit ident version src globalNmDirCmd nodejs; };
+
+
+
+# ---------------------------------------------------------------------------- #
+
   mkNodePackage = {
     ident
   , version
-  , src     ? null
-  , keyTree ? null  # fallback is set below
+  , src     ? srcFor ident version
+  , keyTree ? keyTreeFor ident version
   , ...
   } @ args: let
-    bname = baseNameOf ident;
-    shard = prev.lib.toLower ( builtins.substring 0 1 bname );
-    scope =
-      if ( dirOf ident ) != "."
-      then builtins.replaceStrings ["@"] [""] ( dirOf ident )
-      else "unscoped";
-    dir = if scope == "unscoped"
-          then "${toString ./.}/unscoped/${shard}/${bname}/${version}"
-          else "${toString ./.}/${scope}/${bname}/${version}";
-    hasExplicitBuild = builtins.pathExists "${dir}/default.nix";
-    builder = if hasExplicitBuild then import "${dir}/default.nix" else
-              final.mkBinPackage;
-    # TODO: the tree handling has a lot of room for improvement.
-    keyTree = args.keyTree or (
-      if builtins.pathExists "${dir}/tree.nix"
-      then builtins.traceVerbose "${ident} using tree.nix"
-                                 ( import "${dir}/tree.nix" )
-      else if builtins.pathExists "${dir}/tree.json"
-           then builtins.traceVerbose "${ident} using tree.json"
-                                      ( prev.lib.importJSON "${dir}/tree.json" )
-           else builtins.trace "${ident} no tree info" {}
-    );
-  in builtins.traceVerbose ''
-    Generating BIN package: ${ident}@${version}
-      ident:   ${ident}
-      version: ${version}
-      bname:   ${bname}
-      scope:   ${scope}
-      shard:   ${shard}
-      dir:     ${dir}
-      hasExplicitBuild: ${if hasExplicitBuild then "true" else "false"}
-      hasExplicitTree:  ${if keyTree != {} then "true" else "false"}
-  ''
-    ( prev.lib.callPackageWith {
-    inherit (prev)
-      pjsUtil
-      stdenv
-      lib
-      evalScripts
-      mkBinPackage
-    ;
-    inherit (final) flocoPackages;
-    nodejs = prev.nodejs-14_x;  # FIXME
-    globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
-      inherit keyTree;
-      inherit (final) flocoPackages;
+    inherit (final.lib.parseNodeNames ident) scope bname sdir;
+    defaultNixPath   = ./. + "/${sdir}/${bname}/${version}/default.nix";
+    hasExplicitBuild = builtins.pathExists defaultNixPath;
+    builder =
+      if hasExplicitBuild then import defaultNixPath else defaultBuilder;
+    buildEnv = {
+      inherit ident version src keyTree;
+      inherit (prev) pjsUtil evalScripts mkBinPackage;
+      inherit (final) flocoPackages lib stdenv;
+      globalNmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
+        inherit keyTree;
+        inherit (final) flocoPackages;
+      };
+      nodejs = prev.nodejs-14_x;  # FIXME
     };
-  } builder {
-    inherit ident version;
-    src = let # FIXME: add `latest'
-      fetchInfos = loadFetchInfo ident;
-    in final.flocoBinsFetcher {
-      fetchInfo = fetchInfos."${ident}/${version}";
-    };
-  } );
+    args= final.lib.canPassStrict builder buildEnv;
+    msg = ''
+      Generating BIN package: ${ident}@${version}
+        ident:   ${ident}
+        version: ${version}
+        scope:   ${if scope == null then "null" else scope}
+        bname:   ${bname}
+        sdir:    ${sdir}
+        hasExplicitBuild: ${if hasExplicitBuild then "true" else "false"}
+        hasExplicitTree:  ${if keyTree != {} then "true" else "false"}
+        keyTree: ${prev.lib.generators.toPretty {} keyTree}
+    '';
+    built = builder args;
+  in builtins.trace msg built;
 
 
 # ---------------------------------------------------------------------------- #
@@ -188,6 +209,27 @@ in {
     exported = builtins.foldl' proc {} ( builtins.attrNames exports );
   in ( exported // {
     # Add any explicit defs here.
+
+    "update-browserslist-db/1.0.10" = let
+      pkgPrev = exported."update-browserslist-db/1.0.10";
+    in pkgPrev // { inherit (pkgPrev.src) outPath; };
+
+    "jest-cli/27.5.1" = let
+      pkgPrev = exported."jest-cli/27.5.1";
+    in pkgPrev // { inherit (pkgPrev.src) outPath; };
+
+    "jest-cli/28.1.3" = let
+      pkgPrev = exported."jest-cli/28.1.3";
+    in pkgPrev // { inherit (pkgPrev.src) outPath; };
+
+    "jest-cli/29.3.0" = let
+      pkgPrev = exported."jest-cli/29.3.0";
+    in pkgPrev // { inherit (pkgPrev.src) outPath; };
+
+    "jest-cli/29.3.1" = let
+      pkgPrev = exported."jest-cli/29.3.1";
+    in pkgPrev // { inherit (pkgPrev.src) outPath; };
+
   } ) );
 
 
@@ -213,6 +255,10 @@ in {
     in builtins.foldl' getLatests {} ( builtins.attrNames exports );
   in exported // {
     # Add explicit defs
+
+    # FIXME: These have a peer cycle
+    # "update-browserslist-db/1.0.10" = final.flocoPackages."browserslist/4.21.4";
+
   };
 
 

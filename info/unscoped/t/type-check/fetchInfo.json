@@ -1,1 +1,32 @@
-{"0.1.0":{"narHash":"sha256-oLt4oBcwWWtZ6UAnANwwZGCO1uXA08ESWQBvoAqwLUI=","type":"tarball","url":"https://registry.npmjs.org/type-check/-/type-check-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-WoCiape8Xa+GgMsZ6jTI0EYb3MnrU6F6W7A/RZgKjPc=","type":"tarball","url":"https://registry.npmjs.org/type-check/-/type-check-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-ckoGiZbrSdoa7JLF2oNkvIN6+pnGtDyr39xiiEBpVIs=","type":"tarball","url":"https://registry.npmjs.org/type-check/-/type-check-0.3.0.tgz"},"0.3.1":{"narHash":"sha256-G8KkIQZbKkVl8MJ+VUAgSea2NLr7pTetyPBdSEFCqow=","type":"tarball","url":"https://registry.npmjs.org/type-check/-/type-check-0.3.1.tgz"},"0.3.2":{"narHash":"sha256-AnuKFV0wViWz6nhzYV/yz5+EvBYmaOerFgVhvw2LBNA=","type":"tarball","url":"https://registry.npmjs.org/type-check/-/type-check-0.3.2.tgz"},"0.4.0":{"narHash":"sha256-c7oK/LdUUDXwdCUbkbLmNDixyLJR9avZVfBbfOupE8g=","type":"tarball","url":"https://registry.npmjs.org/type-check/-/type-check-0.4.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-oLt4oBcwWWtZ6UAnANwwZGCO1uXA08ESWQBvoAqwLUI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/type-check/-/type-check-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-WoCiape8Xa+GgMsZ6jTI0EYb3MnrU6F6W7A/RZgKjPc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/type-check/-/type-check-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-ckoGiZbrSdoa7JLF2oNkvIN6+pnGtDyr39xiiEBpVIs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/type-check/-/type-check-0.3.0.tgz"
+  },
+  "0.3.1": {
+    "narHash": "sha256-G8KkIQZbKkVl8MJ+VUAgSea2NLr7pTetyPBdSEFCqow=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/type-check/-/type-check-0.3.1.tgz"
+  },
+  "0.3.2": {
+    "narHash": "sha256-AnuKFV0wViWz6nhzYV/yz5+EvBYmaOerFgVhvw2LBNA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/type-check/-/type-check-0.3.2.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-c7oK/LdUUDXwdCUbkbLmNDixyLJR9avZVfBbfOupE8g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/type-check/-/type-check-0.4.0.tgz"
+  }
+}

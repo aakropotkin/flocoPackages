@@ -1,1 +1,62 @@
-{"11.0.0":{"narHash":"sha256-KtDEcbkp8Rtk1d5Ac7mvIJna6V/AbIlvj98LSdPYSeo=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.0.tgz"},"11.0.1":{"narHash":"sha256-DMOsZ5ZXWEX3CBkSDZ3wp56qkOVAWDfphB4SfELavFU=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.1.tgz"},"11.0.2":{"narHash":"sha256-8crgc3CnnBNrS9/YBeFP+LEOqSh2PeomVCtvnag1/6c=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.2.tgz"},"11.0.3":{"narHash":"sha256-3dIocTr0hIoUp4aM4RmTCy0Xqlih+AEfxeoedFuc1pM=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.3.tgz"},"11.0.4":{"narHash":"sha256-/Cf6q5pD8+MgPFV6eq8XnNPK1d66bNuIn/jIlsJNLzY=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.4.tgz"},"13.0.0":{"narHash":"sha256-rCJbc9+RvnLP0I5WFHjfOSNI6Ih2mBfoi7hqVwzR7R0=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-13.0.0.tgz"},"13.1.0":{"narHash":"sha256-HBMxKQsUuM2ZRbaLq6VySE/RZnAqNEGfh5zzVeuwVxc=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-13.1.0.tgz"},"15.0.0":{"narHash":"sha256-aGfQm9hQYMBpVVAHj0QnDOj1iCV7DbNsTfQD/LvH/7g=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-15.0.0.tgz"},"20.2.0":{"narHash":"sha256-SEYOggHTJCz82HWaxpeGArctjlUYduabDQiaLAzId0Y=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.0.tgz"},"20.2.1":{"narHash":"sha256-ZgC6OPrtRQIzMj5aR3V41/2u+gwYVGaICKpyG8oZelI=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.1.tgz"},"20.2.2":{"narHash":"sha256-dXM9jkek6aFbG9/DYFOWeoPzBiNkbLxlEuDhlVdki2E=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.2.tgz"},"21.0.0":{"narHash":"sha256-5Eay5eyC90EFhvTlSqGxOTHiYHfZAKJVd58oLhEvv04=","type":"tarball","url":"https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-21.0.0.tgz"}}
+{
+  "11.0.0": {
+    "narHash": "sha256-KtDEcbkp8Rtk1d5Ac7mvIJna6V/AbIlvj98LSdPYSeo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.0.tgz"
+  },
+  "11.0.1": {
+    "narHash": "sha256-DMOsZ5ZXWEX3CBkSDZ3wp56qkOVAWDfphB4SfELavFU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.1.tgz"
+  },
+  "11.0.2": {
+    "narHash": "sha256-8crgc3CnnBNrS9/YBeFP+LEOqSh2PeomVCtvnag1/6c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.2.tgz"
+  },
+  "11.0.3": {
+    "narHash": "sha256-3dIocTr0hIoUp4aM4RmTCy0Xqlih+AEfxeoedFuc1pM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.3.tgz"
+  },
+  "11.0.4": {
+    "narHash": "sha256-/Cf6q5pD8+MgPFV6eq8XnNPK1d66bNuIn/jIlsJNLzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-11.0.4.tgz"
+  },
+  "13.0.0": {
+    "narHash": "sha256-rCJbc9+RvnLP0I5WFHjfOSNI6Ih2mBfoi7hqVwzR7R0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-13.0.0.tgz"
+  },
+  "13.1.0": {
+    "narHash": "sha256-HBMxKQsUuM2ZRbaLq6VySE/RZnAqNEGfh5zzVeuwVxc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-13.1.0.tgz"
+  },
+  "15.0.0": {
+    "narHash": "sha256-aGfQm9hQYMBpVVAHj0QnDOj1iCV7DbNsTfQD/LvH/7g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-15.0.0.tgz"
+  },
+  "20.2.0": {
+    "narHash": "sha256-SEYOggHTJCz82HWaxpeGArctjlUYduabDQiaLAzId0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.0.tgz"
+  },
+  "20.2.1": {
+    "narHash": "sha256-ZgC6OPrtRQIzMj5aR3V41/2u+gwYVGaICKpyG8oZelI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.1.tgz"
+  },
+  "20.2.2": {
+    "narHash": "sha256-dXM9jkek6aFbG9/DYFOWeoPzBiNkbLxlEuDhlVdki2E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.2.tgz"
+  },
+  "21.0.0": {
+    "narHash": "sha256-5Eay5eyC90EFhvTlSqGxOTHiYHfZAKJVd58oLhEvv04=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-21.0.0.tgz"
+  }
+}
