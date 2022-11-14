@@ -76,8 +76,8 @@ jobs:
 
       - name: All Checks
         run: |
-          nix flake check head --show-trace --system x86_64-linux||  \
-          nix flake check head --show-trace -vvvvv --debug -L;
+          nix flake check head --show-trace --system x86_64-linux --no-build||  \
+          nix flake check head --show-trace -vvvvv --debug -L --no-build;
           echo "# ---------------------------------------------------------------------------- #" >&2;
-          nix flake check head --show-trace --impure --system x86_64-linux||  \
-          nix flake check head --show-trace --impure -vvvvv --debug -L;
+          nix flake check head --show-trace --impure --system x86_64-linux --no-build||  \
+          nix flake check head --show-trace --impure -vvvvv --debug -L --no-build;
