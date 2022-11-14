@@ -1,0 +1,6 @@
+{
+  "bin": {
+    "esparse": "bin/esparse.js",
+    "esvalidate": "bin/esvalidate.js"
+  }
+}
