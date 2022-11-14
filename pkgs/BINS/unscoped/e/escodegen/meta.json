@@ -1,0 +1,6 @@
+{
+  "bin": {
+    "esgenerate": "bin/esgenerate.js",
+    "escodegen": "bin/escodegen.js"
+  }
+}

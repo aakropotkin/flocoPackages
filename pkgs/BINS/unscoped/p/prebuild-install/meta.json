@@ -1,0 +1,5 @@
+{
+  "bin": {
+    "prebuild-install": "bin.js"
+  }
+}

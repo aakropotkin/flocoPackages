@@ -81,6 +81,43 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
+  metaFor = ident: version: let
+    inherit (final.lib.parseNodeNames ident) scope bname sdir;
+    metaNixPathV  = ./. + "/${sdir}/${bname}/${version}/meta.nix";
+    metaJSONPathV = ./. + "/${sdir}/${bname}/${version}/meta.json";
+    metaNixPathP  = ./. + "/${sdir}/${bname}/meta.nix";
+    metaJSONPathP = ./. + "/${sdir}/${bname}/meta.json";
+    metaNixPath   =
+      if builtins.pathExists metaNixPathV  then metaNixPathV else
+      if builtins.pathExists metaNixPathP  then metaNixPathP else
+      null;
+    metaJSONPath = 
+      if builtins.pathExists metaJSONPathV then metaJSONPathV else
+      if builtins.pathExists metaJSONPathP then metaJSONPathP else
+      null;
+    forMetaNix = let
+      f     = import metaNixPath;
+      forFn = final.lib.apply f {
+        inherit version;
+        inherit (final) lib stdenv system;
+      };
+    in if prev.lib.isFunction f then forFn else f;
+    forMetaJSON = prev.lib.importJSON metaJSONPath;
+    fromFiles =
+      if metaNixPath != null then forMetaNix else
+      if metaJSONPath != null then forMetaJSON else {};
+    base = {
+      inherit ident version;
+      key    = "${ident}/${version}";
+      hasBin = true;
+    };
+    meta = base // fromFiles;
+  in assert meta ? bin;
+     meta;
+
+
+# ---------------------------------------------------------------------------- #
+
   srcFor = ident: version: let
     inherit (final.lib.parseNodeNames ident) scope bname sdir;
     fetchInfos =
@@ -104,7 +141,11 @@ final: prev: let
       inherit (final) flocoPackages;
     }
   , nodejs ? prev.nodejs-14_x
-  }: final.mkBinPackage { inherit ident version src globalNmDirCmd nodejs; };
+  }: final.mkBinPackage {
+    inherit ident version src globalNmDirCmd nodejs;
+    inherit (src) passthru;
+    meta = src.meta // ( metaFor ident version );
+  };
 
 
 
@@ -131,8 +172,10 @@ final: prev: let
         inherit (final) flocoPackages;
       };
       nodejs = prev.nodejs-14_x;  # FIXME
+      inherit (src) passthru;
+      meta = src.meta // ( metaFor ident version );
     };
-    args= final.lib.canPassStrict builder buildEnv;
+    args = final.lib.canPassStrict builder buildEnv;
     msg = ''
       Generating BIN package: ${ident}@${version}
         ident:   ${ident}
@@ -144,8 +187,26 @@ final: prev: let
         hasExplicitTree:  ${if keyTree != {} then "true" else "false"}
         keyTree: ${prev.lib.generators.toPretty {} keyTree}
     '';
-    built = builder args;
-  in builtins.trace msg built;
+    built  = builder args;
+    checks = ent: let
+      bin = ent.bin or ent.meta.bin or null;
+    in {
+      hasOutPath  = ent ? outPath;
+      hasGlobal   = ent ? global;
+      setBinAttrs = ( builtins.isAttrs bin ) && ( bin != {} );
+      setHasBin   = ( ent.hasBin or ent.meta.hasBin or null ) == true;
+    };
+    checked = let
+      loc = "flocoPackages#overlays.bins";
+      pp  = prev.lib.generators.toPretty { allowPrettyValues = true; } built;
+      msg = "(${loc}): ent/meta for ${ident}@${version} is invalid.\n${pp}";
+      tests   = checks built;
+      details = let
+        proc = acc: tf: if tests.${tf} then acc else acc + "\nFAIL: ${tf}";
+      in builtins.foldl' proc msg ( builtins.attrNames tests );
+      pass = builtins.all ( b: b ) ( builtins.attrValues tests );
+    in if pass then built else throw details;
+  in builtins.trace msg checked;
 
 
 # ---------------------------------------------------------------------------- #
@@ -175,8 +236,8 @@ in {
     fetchUnpacked = {
       fetchInfo = fetchInfo // fetched;
       inherit (fetched) outPath;
-      meta.hasBin = true;
       passthru.binPermsSet = false;
+      meta.hasBin          = true;
     };
     unpacked = let
       u = final.flocoUnpack {
