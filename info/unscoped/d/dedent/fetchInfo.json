@@ -39,5 +39,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/dedent/-/dedent-0.6.0.tgz"
   },
-  "0.7.0": null
+  "0.7.0": {
+    "narHash": "sha256-RJaMQA5CODyoemzKwNAw/T5f4r26gg7bE2t9iLCQA3E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dedent/-/dedent-0.7.0.tgz"
+  }
 }

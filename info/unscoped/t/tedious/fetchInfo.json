@@ -424,7 +424,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tedious/-/tedious-11.7.0.tgz"
   },
-  "11.8.0": null,
+  "11.8.0": {
+    "narHash": "sha256-XP7VGWuQYAE5KAJ5Grk5ZUpr2lqR664h119fuVl9jmg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tedious/-/tedious-11.8.0.tgz"
+  },
   "12.0.0": {
     "narHash": "sha256-HYqsrg36sVu1g6fOn0LNyvfzqk4LNEli01t9Wt0XOls=",
     "type": "tarball",

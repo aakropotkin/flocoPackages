@@ -39,7 +39,11 @@
     "url": "https://registry.npmjs.org/union-value/-/union-value-1.0.0.tgz",
     "narHash": "sha256-iX6BWAf+Xwrh6W/sVh59n4Ql4Le0FvL0MN/SZKKXtbE="
   },
-  "1.0.1": null,
+  "1.0.1": {
+    "narHash": "sha256-TKd0YDOYUNiLuHtSQ/34J82VOvU0IPysYpBCtOnjsBw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/union-value/-/union-value-1.0.1.tgz"
+  },
   "2.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/union-value/-/union-value-2.0.0.tgz",

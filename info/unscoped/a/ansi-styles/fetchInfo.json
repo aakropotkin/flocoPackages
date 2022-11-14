@@ -64,7 +64,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.0.tgz"
   },
-  "3.2.1": null,
+  "3.2.1": {
+    "narHash": "sha256-3VeRGkKqu2VUHvybLgjuzuTVZIYL6b4bwCEAhRF/Fzw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-LrwsML33FrFHgRFoegJdHfe6V0e3Fl1E7QzX4LhomI8=",
     "type": "tarball",
@@ -85,7 +89,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.2.1.tgz"
   },
-  "4.3.0": null,
+  "4.3.0": {
+    "narHash": "sha256-Kqu6XFQU9/7zx/Nryl7Asi5QsyP1By7Ig4Sn1HbFfdc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-EnVswdCQysGe1w21wH2xOIxyuG0+ryy9UvPYWPgpNWg=",
     "type": "tarball",
@@ -96,7 +104,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.1.0.tgz"
   },
-  "5.2.0": null,
+  "5.2.0": {
+    "narHash": "sha256-5C4MyF0m2ejHxZfO5pEUcVzC/HKj1JpYUuwYsGmf+Yk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-OkZKhMYNvDkwvhkI2JXMOUYldSNf/iE0gK+5dbpuJVo=",
     "type": "tarball",

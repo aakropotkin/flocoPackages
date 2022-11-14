@@ -244,7 +244,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-6.0.4.tgz"
   },
-  "6.0.5": null,
+  "6.0.5": {
+    "narHash": "sha256-ZTaJhCC7piYdoBcKukUDJkQL5qIhWDmALSzgdn7EOhw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-6.0.5.tgz"
+  },
   "7.0.0": {
     "narHash": "sha256-r/wXZfmyXddCZXXOQwOftlo7XKuKn4bhiskwSoaUTi0=",
     "type": "tarball",
@@ -260,5 +264,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.2.tgz"
   },
-  "7.0.3": null
+  "7.0.3": {
+    "narHash": "sha256-JZEEsKxB3BAGF+e9rlh4d9UUa8JEz4dSjfAvIXrerzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.3.tgz"
+  }
 }

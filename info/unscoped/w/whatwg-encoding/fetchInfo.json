@@ -24,7 +24,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/whatwg-encoding/-/whatwg-encoding-1.0.4.tgz"
   },
-  "1.0.5": null,
+  "1.0.5": {
+    "narHash": "sha256-Wc2UD5MNBeymRH+0ZMbNtCkmx70zGgH4mYsNQH8lAkY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/whatwg-encoding/-/whatwg-encoding-1.0.5.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-cEj5td96Mpdh7bP/MZRCSz3NoUHv6UylqP6d6SmsaTw=",
     "type": "tarball",

@@ -89,11 +89,19 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/split2/-/split2-3.2.1.tgz"
   },
-  "3.2.2": null,
+  "3.2.2": {
+    "narHash": "sha256-NcMoER+/youe/qmih6x+Ug//mVzdqkvaG7JRNFxnGnA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/split2/-/split2-3.2.2.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-XikcetrSONsXRrE27j7cxu4Km8KKqQq6i8J0/kyGPYE=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/split2/-/split2-4.0.0.tgz"
   },
-  "4.1.0": null
+  "4.1.0": {
+    "narHash": "sha256-E826HVJHZ1doHUo+YtDKOQiexDD/Je5rsjyHchM6YcA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/split2/-/split2-4.1.0.tgz"
+  }
 }

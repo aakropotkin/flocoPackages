@@ -1334,7 +1334,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@types/node/-/node-18.11.8.tgz"
   },
-  "18.11.9": null,
+  "18.11.9": {
+    "narHash": "sha256-xK6wRewosDtgdMEPLlKO6W7qOFbDutn2OBjWM6SbYA8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/node/-/node-18.11.9.tgz"
+  },
   "18.6.1": {
     "narHash": "sha256-MPjEox6jXWcFSD2Ra7lPO+BIDz3qOYUMMwuF3om9zMg=",
     "type": "tarball",

@@ -44,7 +44,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/colors/-/colors-1.0.2.tgz"
   },
-  "1.0.3": null,
+  "1.0.3": {
+    "narHash": "sha256-zuV07ERRwg0U608pJhYBpuiJkLjTKokt3NVCIccE2IU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colors/-/colors-1.0.3.tgz"
+  },
   "1.1.0": {
     "narHash": "sha256-Ht+krm4RlnBJ2CYItenmhbrdy77hLynnoldgCY6ML24=",
     "type": "tarball",

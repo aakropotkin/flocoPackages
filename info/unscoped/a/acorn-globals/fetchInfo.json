@@ -109,7 +109,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-5.0.0.tgz"
   },
-  "6.0.0": null,
+  "6.0.0": {
+    "narHash": "sha256-D2Bj2fL3fyeh0xNoGP3JqEtesgpRAfSc3GxxfShoBHA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-6.0.0.tgz"
+  },
   "7.0.0": {
     "narHash": "sha256-TBJxzh40jWebR+Pvp8dYRHL8BhsTq2SSxtptyNQnGyk=",
     "type": "tarball",

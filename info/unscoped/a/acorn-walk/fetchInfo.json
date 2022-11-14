@@ -39,7 +39,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.1.1.tgz"
   },
-  "7.2.0": null,
+  "7.2.0": {
+    "narHash": "sha256-ff/jwu956olgLIt9uw4CVY+uqIax0drvz5xetSF6KC8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-7.2.0.tgz"
+  },
   "8.0.0": {
     "narHash": "sha256-n2CD3DaRddivTnSVYWzP4SWMdNKUXHIlevtCTh1+BPM=",
     "type": "tarball",
@@ -65,5 +69,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.1.1.tgz"
   },
-  "8.2.0": null
+  "8.2.0": {
+    "narHash": "sha256-r0AD0ghO/QtrsmNIpAR8ZRPKo67l9fqf1Z5RSSgBImM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.2.0.tgz"
+  }
 }

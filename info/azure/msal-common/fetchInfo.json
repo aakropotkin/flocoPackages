@@ -144,7 +144,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@azure/msal-common/-/msal-common-4.5.0.tgz"
   },
-  "4.5.1": null,
+  "4.5.1": {
+    "narHash": "sha256-hrVyaxZzKNymw7f2V0T1bNjnRhcn5mdTyNnSTe4+bDo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/msal-common/-/msal-common-4.5.1.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-AFDhZBLNJ6ft0u1P8pMsYKwChV1UKyFk4FqtwUH+5rM=",
     "type": "tarball",

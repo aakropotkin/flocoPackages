@@ -4,7 +4,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/on-exit-leak-free/-/on-exit-leak-free-0.1.0.tgz"
   },
-  "0.2.0": null,
+  "0.2.0": {
+    "narHash": "sha256-yYtndqHsV00gTN+6pBnCwAqcvpqBNiNpuMv1P9UnJpQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/on-exit-leak-free/-/on-exit-leak-free-0.2.0.tgz"
+  },
   "1.0.0": {
     "narHash": "sha256-kaOMA8Rq5C9OGvKbUadGnvNrV4M8Zkk2IZWlZ1a9BA0=",
     "type": "tarball",

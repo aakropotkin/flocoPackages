@@ -219,7 +219,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/xmlbuilder/-/xmlbuilder-11.0.0.tgz"
   },
-  "11.0.1": null,
+  "11.0.1": {
+    "narHash": "sha256-7SgAQR7fqJQN1OcQ/aLrdPlsMU3allGqyLjY2YMnISY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xmlbuilder/-/xmlbuilder-11.0.1.tgz"
+  },
   "12.0.0": {
     "narHash": "sha256-WaZ3miRDK9Jq5oKEcyqTq2x0X3oW+ylHIFqJXl9H9vM=",
     "type": "tarball",

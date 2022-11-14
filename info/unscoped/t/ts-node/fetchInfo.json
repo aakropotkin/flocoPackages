@@ -479,7 +479,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ts-node/-/ts-node-7.0.0.tgz"
   },
-  "7.0.1": null,
+  "7.0.1": {
+    "narHash": "sha256-4s5QmHJM0bfBlvKAe/gTK9/uNHovno/zfCMMiAJBYsE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ts-node/-/ts-node-7.0.1.tgz"
+  },
   "8.0.0": {
     "narHash": "sha256-HdKhIp8LazPimwQTdmBDU74F2D5mRct3acoKELXE1sg=",
     "type": "tarball",

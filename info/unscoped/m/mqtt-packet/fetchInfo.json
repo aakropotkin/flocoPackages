@@ -234,7 +234,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/mqtt-packet/-/mqtt-packet-6.1.2.tgz"
   },
-  "6.10.0": null,
+  "6.10.0": {
+    "narHash": "sha256-aF8mWIsyGXgsocJD+QdH7+vrtTWp83mA4fkzYpDx7tE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mqtt-packet/-/mqtt-packet-6.10.0.tgz"
+  },
   "6.2.0": {
     "narHash": "sha256-dJrIrqxlgFk2KbruQQtnFAXYq6CmnudFa5Wfls0vUBk=",
     "type": "tarball",

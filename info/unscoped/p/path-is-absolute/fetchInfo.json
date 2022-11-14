@@ -4,7 +4,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.0.tgz"
   },
-  "1.0.1": null,
+  "1.0.1": {
+    "narHash": "sha256-+DjPlEsONpIJ3kBveAhTRCV2aRZt3KN8RNLsgoC+jXk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-vp8cSebjweiAswlKQD8UdF9H2VccQmiCxo7vvl8H12c=",
     "type": "tarball",

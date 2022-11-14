@@ -69,7 +69,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/cssom/-/cssom-0.3.7.tgz"
   },
-  "0.3.8": null,
+  "0.3.8": {
+    "narHash": "sha256-hWPHUp148mDHBzn49JK0ZodAwSXWO4e79fl3tcexzus=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cssom/-/cssom-0.3.8.tgz"
+  },
   "0.4.0": {
     "narHash": "sha256-gVj3E2Qj75OmukPR4pLwne8/1k42X0Wtj2OUREPJmf4=",
     "type": "tarball",
@@ -90,7 +94,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/cssom/-/cssom-0.4.3.tgz"
   },
-  "0.4.4": null,
+  "0.4.4": {
+    "narHash": "sha256-lLpEmGKmtPo/kjKPILqYl0VEWiDHlsXlgnIjEAoV/Wo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cssom/-/cssom-0.4.4.tgz"
+  },
   "0.5.0": {
     "narHash": "sha256-pr9oXTYOXbquw8o6zRbi6nka8mfOMNOuQMUEMHHNapY=",
     "type": "tarball",

@@ -479,5 +479,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/chokidar/-/chokidar-3.5.2.tgz"
   },
-  "3.5.3": null
+  "3.5.3": {
+    "narHash": "sha256-Slx/Vr6FfBtIiUULU8r/PEk+1bbG0Tcvc86kaRVwHiM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/chokidar/-/chokidar-3.5.3.tgz"
+  }
 }

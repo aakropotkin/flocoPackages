@@ -74,5 +74,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/detect-libc/-/detect-libc-2.0.0.tgz"
   },
-  "2.0.1": null
+  "2.0.1": {
+    "narHash": "sha256-tMcDNGP69cori7rGwO9BWxwPIziOi8Vxv6OLxFBlw8I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/detect-libc/-/detect-libc-2.0.1.tgz"
+  }
 }

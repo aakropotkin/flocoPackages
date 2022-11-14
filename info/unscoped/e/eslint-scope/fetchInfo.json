@@ -64,5 +64,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/eslint-scope/-/eslint-scope-7.1.0.tgz"
   },
-  "7.1.1": null
+  "7.1.1": {
+    "narHash": "sha256-vxZn7SNBK+y8ZomZiqDmfdhSL/mMnN6MEmKdPFAXU3I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-scope/-/eslint-scope-7.1.1.tgz"
+  }
 }

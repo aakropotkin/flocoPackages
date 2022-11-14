@@ -14,14 +14,26 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/locate-path/-/locate-path-2.0.0.tgz"
   },
-  "3.0.0": null,
+  "3.0.0": {
+    "narHash": "sha256-PL6JLv3yHkyLXYpeBBdTZ7/bFNiCbCjlr1YNfze21F4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/locate-path/-/locate-path-3.0.0.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-tT0/F9eDmleDFuya61f8l7gSdAeRyBAhDuE1zilh1pg=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/locate-path/-/locate-path-4.0.0.tgz"
   },
-  "5.0.0": null,
-  "6.0.0": null,
+  "5.0.0": {
+    "narHash": "sha256-gWogKcdUNqt/VW2g03Z2vjwEVQDwMbjTqaeDCyIcv1I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/locate-path/-/locate-path-5.0.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-bqbrOtZJVUwbqlw3MeIhr30gfcn1Unv2jM3LYAXal9Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/locate-path/-/locate-path-6.0.0.tgz"
+  },
   "7.0.0": {
     "narHash": "sha256-a8Rijn9avyZfASy+1ggT4FLzlSghe+ddIx438SiBtQ0=",
     "type": "tarball",

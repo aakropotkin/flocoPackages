@@ -69,7 +69,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@babel/plugin-syntax-typescript/-/plugin-syntax-typescript-7.2.0.tgz"
   },
-  "7.20.0": null,
+  "7.20.0": {
+    "narHash": "sha256-OyOkWRokE1ipCEOU/TV/35OmRvADPUHG94HuHlFiWAI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-typescript/-/plugin-syntax-typescript-7.20.0.tgz"
+  },
   "7.3.3": {
     "narHash": "sha256-Fbs1nrkq5vTLSRXmKeT3ULtPYAGLk+fdAyU6l+YP8rc=",
     "type": "tarball",

@@ -479,7 +479,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/lodash/-/lodash-4.17.20.tgz"
   },
-  "4.17.21": null,
+  "4.17.21": {
+    "narHash": "sha256-amyN064Yh6psvOfLgcpktd5dRNQStUYHHoIqiI6DMek=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
+  },
   "4.17.3": {
     "narHash": "sha256-VljMF2kkW14DqgCuwHlqGKYhDvGCL/pDKIfYw+8h07w=",
     "type": "tarball",

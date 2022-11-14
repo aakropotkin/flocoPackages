@@ -39,5 +39,9 @@
     "url": "https://registry.npmjs.org/xpath.js/-/xpath.js-1.0.7.tgz",
     "narHash": "sha256-I0s/aLJOn7O77gycOUaiSwmAuM8SDOAQZgEfFLW4vF4="
   },
-  "1.1.0": null
+  "1.1.0": {
+    "narHash": "sha256-39+mhvuOFpAPzbX8vcvh9pYQVG5OHm2ZfmmBFa6+R1k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xpath.js/-/xpath.js-1.1.0.tgz"
+  }
 }

@@ -179,7 +179,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/rimraf/-/rimraf-2.4.4.tgz"
   },
-  "2.4.5": null,
+  "2.4.5": {
+    "narHash": "sha256-0ykMFX713oj3f818mDSZkcd+99OlRRKHCyumUM5gzao=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rimraf/-/rimraf-2.4.5.tgz"
+  },
   "2.5.0": {
     "narHash": "sha256-pECnnl2swB3B7RGOBwwgQM2iWQ8Wu9SdktVDkZuRU7o=",
     "type": "tarball",
@@ -245,5 +249,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/rimraf/-/rimraf-3.0.1.tgz"
   },
-  "3.0.2": null
+  "3.0.2": {
+    "narHash": "sha256-5ZflqftTdzdyQtoHawWDKLP29TBYks2sneUZTaH6VJM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rimraf/-/rimraf-3.0.2.tgz"
+  }
 }

@@ -1,5 +1,9 @@
 {
-  "0.1.0": null,
+  "0.1.0": {
+    "narHash": "sha256-f7NmNNhyEOgGlUPLcDME6Y1jchJEWqp/sMzAW5Nq2AM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/real-require/-/real-require-0.1.0.tgz"
+  },
   "0.2.0": {
     "narHash": "sha256-25ly8znUpbKJyMT3EFDehweDn/urjhT2a6SlciMuPqQ=",
     "type": "tarball",

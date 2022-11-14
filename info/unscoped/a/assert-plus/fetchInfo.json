@@ -34,5 +34,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/assert-plus/-/assert-plus-0.2.0.tgz"
   },
-  "1.0.0": null
+  "1.0.0": {
+    "narHash": "sha256-/QjGpVP8wg2XWpVer/N5GYhLdIlcj7u3XxNwyVB89RM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assert-plus/-/assert-plus-1.0.0.tgz"
+  }
 }

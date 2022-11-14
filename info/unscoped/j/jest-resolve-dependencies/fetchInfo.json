@@ -514,7 +514,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-27.5.0.tgz"
   },
-  "27.5.1": null,
+  "27.5.1": {
+    "narHash": "sha256-EcsSanXZnqnqntlZgaSB9lQzrSQQXL9nwkMwnq6Sve0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-27.5.1.tgz"
+  },
   "28.0.0": {
     "narHash": "sha256-RX2rvdn3lej6yUU2IpcwPAGYMsn4fmcoa1QGcKGRnEM=",
     "type": "tarball",
@@ -550,7 +554,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-28.1.2.tgz"
   },
-  "28.1.3": null,
+  "28.1.3": {
+    "narHash": "sha256-LJcu7SDJVknv83Q9kbRdDEsgf4fBzAZWsC6uLt4M9HY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-28.1.3.tgz"
+  },
   "29.0.0": {
     "narHash": "sha256-A1+1JHcpDGgKNAxXWBvdxIsbPpfrGKvUhjYc2rsg7/c=",
     "type": "tarball",
@@ -601,5 +609,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-29.2.2.tgz"
   },
-  "29.3.1": null
+  "29.3.1": {
+    "narHash": "sha256-8apscpUWGEQ7JEI2oEoa2pgKPcGGzovMhekRh4DJrfE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-29.3.1.tgz"
+  }
 }

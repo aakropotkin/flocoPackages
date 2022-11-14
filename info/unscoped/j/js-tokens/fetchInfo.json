@@ -69,7 +69,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/js-tokens/-/js-tokens-3.0.2.tgz"
   },
-  "4.0.0": null,
+  "4.0.0": {
+    "narHash": "sha256-Dc0GyrdV+HX5ZTMTdtFfjh30QurY6nxA8wCQMZsnd6w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-9SlqvV5SVdXRX66CEUhGJbX87oAZmA1xhEFcuz2FQ84=",
     "type": "tarball",

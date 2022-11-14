@@ -149,5 +149,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/test-exclude/-/test-exclude-5.2.3.tgz"
   },
-  "6.0.0": null
+  "6.0.0": {
+    "narHash": "sha256-mAzD4R1N5GQhajG4/vQ7vBHOw61M4xwoDp6Rp2ckqGA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/test-exclude/-/test-exclude-6.0.0.tgz"
+  }
 }

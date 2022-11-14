@@ -259,7 +259,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/commander/-/commander-2.20.1.tgz"
   },
-  "2.20.3": null,
+  "2.20.3": {
+    "narHash": "sha256-Lhil45v7SD12GmCv/klyoXGnkisKbobmN4XYw1g8l54=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/commander/-/commander-2.20.3.tgz"
+  },
   "2.3.0": {
     "narHash": "sha256-Nfo5CSsLhcCq0j38Ndg6bCPF6eBwi/jmYxN3VwDj/KE=",
     "type": "tarball",

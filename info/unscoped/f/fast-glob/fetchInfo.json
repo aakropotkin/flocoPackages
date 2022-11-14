@@ -134,7 +134,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.11.tgz"
   },
-  "3.2.12": null,
+  "3.2.12": {
+    "narHash": "sha256-YnT17ehrbvhwqYLX+9p1qX6JPxDvNK81DX3DCzn/XPA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.12.tgz"
+  },
   "3.2.2": {
     "narHash": "sha256-1/7q74UCDp+zLvaT0KOPpGLLAzNDdZfxp2h0Gu6nCCw=",
     "type": "tarball",

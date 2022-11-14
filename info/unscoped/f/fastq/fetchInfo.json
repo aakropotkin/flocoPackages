@@ -44,7 +44,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/fastq/-/fastq-1.12.0.tgz"
   },
-  "1.13.0": null,
+  "1.13.0": {
+    "narHash": "sha256-KRCnH3+xuadp/ULow/EsM7P9k6q/iQbifqDjvLR+JPw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fastq/-/fastq-1.13.0.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-NeKLxcG/S5DxuMfp3uX6evBOxt41jbyoCAXwmfZovOA=",
     "type": "tarball",

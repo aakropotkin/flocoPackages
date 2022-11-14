@@ -109,5 +109,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/picomatch/-/picomatch-2.3.0.tgz"
   },
-  "2.3.1": null
+  "2.3.1": {
+    "narHash": "sha256-8N7a/2Aei6DYLZ9EvhCEbdxTSTb5pmy0OqHYuN/IJac=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
+  }
 }

@@ -9,7 +9,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/path-key/-/path-key-2.0.0.tgz"
   },
-  "2.0.1": null,
+  "2.0.1": {
+    "narHash": "sha256-qlTdXNo2yA39F7dzU54FRMJfPTySmMRnLg+1/zsW34Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/path-key/-/path-key-2.0.1.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-5wF2RhpqosBROLWoZfNwIPhLPSWBePREQv4/DvnJS80=",
     "type": "tarball",
@@ -20,7 +24,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/path-key/-/path-key-3.1.0.tgz"
   },
-  "3.1.1": null,
+  "3.1.1": {
+    "narHash": "sha256-gj4CYT2AeZ5jyhV6m/eAq4pETAxmqd5kAcw/Iw0yxiI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-2HXLMzFak6A8L5GRL1FWro0lEmQjs/x+a/7oEWvTPig=",
     "type": "tarball",

@@ -34,5 +34,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tunnel-agent/-/tunnel-agent-0.5.0.tgz"
   },
-  "0.6.0": null
+  "0.6.0": {
+    "narHash": "sha256-dwtOgVXwIaimJaDtTc7pUe6RKsRMIBgMCF4MtuQnDZ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tunnel-agent/-/tunnel-agent-0.6.0.tgz"
+  }
 }

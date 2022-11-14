@@ -79,5 +79,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/run-parallel/-/run-parallel-1.1.9.tgz"
   },
-  "1.2.0": null
+  "1.2.0": {
+    "narHash": "sha256-u5XLCbdOHvL+vVMeQBK5Ha1Y/ZkdCSQM9X8KZL4EvsM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/run-parallel/-/run-parallel-1.2.0.tgz"
+  }
 }

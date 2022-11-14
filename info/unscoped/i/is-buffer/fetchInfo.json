@@ -44,7 +44,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-buffer/-/is-buffer-1.1.5.tgz"
   },
-  "1.1.6": null,
+  "1.1.6": {
+    "narHash": "sha256-ZqhOEtSsW9VIca+cNURW1kJrDYAM/JqAv9c8kIaioHg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-buffer/-/is-buffer-1.1.6.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-ABN+IA+A2HNnzELIRjEaAOvMJZyRUTVcyzWow1S5zvc=",
     "type": "tarball",

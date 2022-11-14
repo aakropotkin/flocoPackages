@@ -34,7 +34,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.2.12.tgz"
   },
-  "0.2.13": null,
+  "0.2.13": {
+    "narHash": "sha256-fJILkAOow2AVzhz5Tord8DHlQTZEovY3UTX/fO3GzZs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.2.13.tgz"
+  },
   "0.2.3": {
     "narHash": "sha256-ngKc7dr2pVFxoIf4sM5LE/jdOC+3UF4hDcuFltRFgkQ=",
     "type": "tarball",

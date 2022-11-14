@@ -29,7 +29,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/cli-table/-/cli-table-0.3.10.tgz"
   },
-  "0.3.11": null,
+  "0.3.11": {
+    "narHash": "sha256-93oBoZGT9YuEY8JeDqEOColoN5q2GVByA66zEawDTJs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-table/-/cli-table-0.3.11.tgz"
+  },
   "0.3.2": {
     "narHash": "sha256-A/JyVBm3q3Ir9odz6LtqRnclGTYLUAynJ99u2TYvnbc=",
     "type": "tarball",

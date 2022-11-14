@@ -159,5 +159,9 @@
     "url": "https://registry.npmjs.org/@azure/ms-rest-nodeauth/-/ms-rest-nodeauth-3.1.0.tgz",
     "narHash": "sha256-iveEwM1Mwb08jwJDVg48LWGLwITQVnTwmcxe/iCBQco="
   },
-  "3.1.1": null
+  "3.1.1": {
+    "narHash": "sha256-AdYE2sKW4PHD/XZDjuwiYuPhDOQSA3j2+VAw+Ds8IM8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/ms-rest-nodeauth/-/ms-rest-nodeauth-3.1.1.tgz"
+  }
 }

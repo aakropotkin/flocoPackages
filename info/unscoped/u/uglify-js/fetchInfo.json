@@ -989,7 +989,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.17.3.tgz"
   },
-  "3.17.4": null,
+  "3.17.4": {
+    "narHash": "sha256-D543olZ9w2ryok3BByUFpnyJfTZmpNdfX/S96XqPxvc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.17.4.tgz"
+  },
   "3.2.0": {
     "narHash": "sha256-aEfJKSM7Fz/DHDagICbo+LOvTaJwkcXawCxdxtTtOqg=",
     "type": "tarball",

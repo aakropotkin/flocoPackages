@@ -234,7 +234,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jest/fake-timers/-/fake-timers-27.5.0.tgz"
   },
-  "27.5.1": null,
+  "27.5.1": {
+    "narHash": "sha256-bID2A7igMseZHNuz1MXT2D8iDanJfnk7XEYsxvnIfhM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jest/fake-timers/-/fake-timers-27.5.1.tgz"
+  },
   "28.0.0": {
     "narHash": "sha256-oPopdRZs0hcRsxevBRNlR+ZRshhnsLCoRNDfUq2BEwI=",
     "type": "tarball",
@@ -265,7 +269,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jest/fake-timers/-/fake-timers-28.1.2.tgz"
   },
-  "28.1.3": null,
+  "28.1.3": {
+    "narHash": "sha256-CAvaTSIF81wngN1NZKrzWZLQRymH91lmF7FaTpfVpMs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jest/fake-timers/-/fake-timers-28.1.3.tgz"
+  },
   "29.0.0": {
     "narHash": "sha256-hEW+PjZgvhTzjdXmW08wC4Dnc1CCCRnZoWu7MwJJwTw=",
     "type": "tarball",
@@ -316,5 +324,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jest/fake-timers/-/fake-timers-29.2.2.tgz"
   },
-  "29.3.1": null
+  "29.3.1": {
+    "narHash": "sha256-FPBGMsjiin53s8JSD9SDMVRVAIcetfttJG96jKLcg+E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jest/fake-timers/-/fake-timers-29.3.1.tgz"
+  }
 }

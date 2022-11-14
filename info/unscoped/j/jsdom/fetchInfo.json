@@ -719,7 +719,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jsdom/-/jsdom-16.6.0.tgz"
   },
-  "16.7.0": null,
+  "16.7.0": {
+    "narHash": "sha256-vnePNRFpM1d51E9/LuSYkxOY+PalylJhzbcyKFil2uU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jsdom/-/jsdom-16.7.0.tgz"
+  },
   "17.0.0": {
     "narHash": "sha256-GfJCXSgzq2dZcAT9GvlNkhuH9z0qDoh4R5Svy1T8gmc=",
     "type": "tarball",

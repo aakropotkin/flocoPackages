@@ -24,5 +24,9 @@
     "url": "https://registry.npmjs.org/collection-visit/-/collection-visit-0.2.3.tgz",
     "narHash": "sha256-GNZOFON/PNvISGwBprSaEQT+C7kOUatvx/6UFc/40Lo="
   },
-  "1.0.0": null
+  "1.0.0": {
+    "narHash": "sha256-lts9ghF+G1mrxID1EGdsf9Co8JX3o6//fwyE2liy5Qc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/collection-visit/-/collection-visit-1.0.0.tgz"
+  }
 }

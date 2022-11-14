@@ -14,7 +14,19 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/resolve-from/-/resolve-from-2.0.0.tgz"
   },
-  "3.0.0": null,
-  "4.0.0": null,
-  "5.0.0": null
+  "3.0.0": {
+    "narHash": "sha256-aUbm7+NoD0NlMesEmzlyPXbPbwFTZug8HAoC3Jo04Mg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-from/-/resolve-from-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-nD9AJZmCaf+wEw0JYsv2/4VWsD1nFdSK+pwFWFiRf5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-from/-/resolve-from-4.0.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-bab+/K+W0XuYFqBwFe2syabeEX2GjtK2SdfQmN6NiVI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-from/-/resolve-from-5.0.0.tgz"
+  }
 }

@@ -14,7 +14,11 @@
     "url": "https://registry.npmjs.org/unset-value/-/unset-value-0.1.2.tgz",
     "narHash": "sha256-2E7ECsLtD6bSntYpOB9ElY8+zF9nnh+IN3LvBu9g+So="
   },
-  "1.0.0": null,
+  "1.0.0": {
+    "narHash": "sha256-IUl+xJ6KBDcryGLqoOl+rFCADPUsG0svnKiIe6El4bU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unset-value/-/unset-value-1.0.0.tgz"
+  },
   "2.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/unset-value/-/unset-value-2.0.0.tgz",

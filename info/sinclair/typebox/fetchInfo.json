@@ -514,7 +514,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@sinclair/typebox/-/typebox-0.24.50.tgz"
   },
-  "0.24.51": null,
+  "0.24.51": {
+    "narHash": "sha256-Hxlc1SznBO5smwZ761Cdm/P3Q/6g607WUjFY79b3X8g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sinclair/typebox/-/typebox-0.24.51.tgz"
+  },
   "0.24.6": {
     "narHash": "sha256-2yXntT28OuL1frMSJ0bQLAOKd+O+yHb+CAo2Q/bX3kw=",
     "type": "tarball",

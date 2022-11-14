@@ -29,7 +29,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/typedarray/-/typedarray-0.0.5.tgz"
   },
-  "0.0.6": null,
+  "0.0.6": {
+    "narHash": "sha256-sjII8AEMZ7OAd0SN4XRO7J/tPPLxQM70Bf96M/HbT/I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
+  },
   "0.0.7": {
     "narHash": "sha256-78LpcCh5qRPPobChW9sXJyA3dVmMCc/NU2MhS3jI2P8=",
     "type": "tarball",

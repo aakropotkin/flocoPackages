@@ -124,7 +124,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/write-file-atomic/-/write-file-atomic-3.0.2.tgz"
   },
-  "3.0.3": null,
+  "3.0.3": {
+    "narHash": "sha256-1ClfkzDDazFSZ7aS4Mo/E2k9WzT+yo3CS9wX6+xyK5c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/write-file-atomic/-/write-file-atomic-3.0.3.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-34VK3SxvlypQfP1qT2RwHZyRBu3W8zwPvwGLt2k6eD8=",
     "type": "tarball",
@@ -135,7 +139,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/write-file-atomic/-/write-file-atomic-4.0.1.tgz"
   },
-  "4.0.2": null,
+  "4.0.2": {
+    "narHash": "sha256-z04PuStnfCYwKVzfwgAVvBqJgpLsci4suFOQRwzCmeg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/write-file-atomic/-/write-file-atomic-4.0.2.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-LgNDFmsSfCvxMqUIWB2oI4ZzEgc+4gi4iOZzbN9PzS4=",
     "type": "tarball",

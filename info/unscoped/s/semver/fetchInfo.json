@@ -339,7 +339,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/semver/-/semver-5.7.0.tgz"
   },
-  "5.7.1": null,
+  "5.7.1": {
+    "narHash": "sha256-2Qe9h/dJNkVsFoYVnJzBCzE161lkdSrM+zqGXEUAu1Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/semver/-/semver-5.7.1.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-+wcz50WCuNMKOfjCBVqpyOnRVk08Hq/ZILsGNWIFR+A=",
     "type": "tarball",
@@ -370,7 +374,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/semver/-/semver-6.2.0.tgz"
   },
-  "6.3.0": null,
+  "6.3.0": {
+    "narHash": "sha256-43shFLKGOi7rl5FbrvggFEm+CYJJASgy3GvSXCJf00I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/semver/-/semver-6.3.0.tgz"
+  },
   "7.0.0": {
     "narHash": "sha256-72UDzMb0cY76gWbXNK/RXXCmfIHP1L0p9UyvpsF9Qf8=",
     "type": "tarball",
@@ -456,5 +464,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/semver/-/semver-7.3.7.tgz"
   },
-  "7.3.8": null
+  "7.3.8": {
+    "narHash": "sha256-vqtjrIFs0Yw18hcdfShdL7BwyzqXdZ+K60Rp3oLNo/A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/semver/-/semver-7.3.8.tgz"
+  }
 }

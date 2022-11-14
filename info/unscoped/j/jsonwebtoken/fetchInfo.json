@@ -384,5 +384,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jsonwebtoken/-/jsonwebtoken-8.5.0.tgz"
   },
-  "8.5.1": null
+  "8.5.1": {
+    "narHash": "sha256-sx3FRrca7/XKgYy2z2dTmv3R87UOZbXdd+O0C0WPyCA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jsonwebtoken/-/jsonwebtoken-8.5.1.tgz"
+  }
 }

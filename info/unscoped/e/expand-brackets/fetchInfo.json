@@ -64,7 +64,11 @@
     "url": "https://registry.npmjs.org/expand-brackets/-/expand-brackets-2.1.3.tgz",
     "narHash": "sha256-WFatAltg3NFvPJ6/5kV37mBvvoqYLyE2T//FDCh6jB4="
   },
-  "2.1.4": null,
+  "2.1.4": {
+    "narHash": "sha256-GBo+FOiqZKWLs7NtwREFHtNJC4bLHVl/nLRbr46sV3Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/expand-brackets/-/expand-brackets-2.1.4.tgz"
+  },
   "3.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/expand-brackets/-/expand-brackets-3.0.0.tgz",

@@ -29,7 +29,11 @@
     "url": "https://registry.npmjs.org/is-descriptor/-/is-descriptor-0.1.5.tgz",
     "narHash": "sha256-sfFETKeK3D3585t3EdkzY6YimrIyjT+QvQf1DImtJ1Q="
   },
-  "0.1.6": null,
+  "0.1.6": {
+    "narHash": "sha256-jOTkqnZouYrPQIOm6zhzcOmIKoKo+n0b5oP+Rj0x2e8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-descriptor/-/is-descriptor-0.1.6.tgz"
+  },
   "1.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-descriptor/-/is-descriptor-1.0.0.tgz",
@@ -40,7 +44,11 @@
     "url": "https://registry.npmjs.org/is-descriptor/-/is-descriptor-1.0.1.tgz",
     "narHash": "sha256-xCA7RuThPDr6Pw0wL9pqnXYqTRQw7hMHL7xg2G6C9D8="
   },
-  "1.0.2": null,
+  "1.0.2": {
+    "narHash": "sha256-8wI/NPgqPImA4EZoKBXtojv3Kif89I4AANDIYGT6hNY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-descriptor/-/is-descriptor-1.0.2.tgz"
+  },
   "3.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-descriptor/-/is-descriptor-3.0.0.tgz",

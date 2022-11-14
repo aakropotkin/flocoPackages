@@ -4,7 +4,11 @@
     "url": "https://registry.npmjs.org/posix-character-classes/-/posix-character-classes-0.1.0.tgz",
     "narHash": "sha256-VsjqE8kTyeFK+tbZUIq9QeXtfyhF5phmJDdNVjhqVY0="
   },
-  "0.1.1": null,
+  "0.1.1": {
+    "narHash": "sha256-B4KHjxOQ8k7uG6vcvgZq+RUpC20JWJPCcyfBXMly374=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/posix-character-classes/-/posix-character-classes-0.1.1.tgz"
+  },
   "1.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/posix-character-classes/-/posix-character-classes-1.0.0.tgz",

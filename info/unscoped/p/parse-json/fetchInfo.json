@@ -49,7 +49,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/parse-json/-/parse-json-5.1.0.tgz"
   },
-  "5.2.0": null,
+  "5.2.0": {
+    "narHash": "sha256-hxVxyGV3iUu2t/nGE+bdgp9C38FU/lZU2iPbtazHLy4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parse-json/-/parse-json-5.2.0.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-gxfbVgOEQMHsompkMpyh708P1p933r2DoaQ6bkXDbuk=",
     "type": "tarball",

@@ -44,5 +44,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/process-nextick-args/-/process-nextick-args-2.0.0.tgz"
   },
-  "2.0.1": null
+  "2.0.1": {
+    "narHash": "sha256-tdgnOHpD9kWKSASfV9Srgis+KyJFq4AlBLVEW+LAn5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/process-nextick-args/-/process-nextick-args-2.0.1.tgz"
+  }
 }

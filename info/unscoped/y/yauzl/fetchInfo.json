@@ -44,7 +44,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/yauzl/-/yauzl-2.1.0.tgz"
   },
-  "2.10.0": null,
+  "2.10.0": {
+    "narHash": "sha256-eYHuqM8pwtggRWn5R/pYmloLYXpCsXUsSUZLIrGB5Zs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yauzl/-/yauzl-2.10.0.tgz"
+  },
   "2.2.0": {
     "narHash": "sha256-oxNyc78962RG5Sxke7iEEHaOhBy7WuDLRL6jJFDs5nk=",
     "type": "tarball",

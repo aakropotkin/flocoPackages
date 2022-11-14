@@ -9,7 +9,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/parent-module/-/parent-module-1.0.0.tgz"
   },
-  "1.0.1": null,
+  "1.0.1": {
+    "narHash": "sha256-di+kefBp4+PYz6izBuMghrrb7tOQQfrW/7tMfibKBI8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parent-module/-/parent-module-1.0.1.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-fWI2rKp+QxY85KMcuy2d99xGdTj+rCXijHErOyZ9PVI=",
     "type": "tarball",

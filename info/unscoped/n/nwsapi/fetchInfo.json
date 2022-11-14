@@ -84,5 +84,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/nwsapi/-/nwsapi-2.2.1.tgz"
   },
-  "2.2.2": null
+  "2.2.2": {
+    "narHash": "sha256-M+NFrv557aOmVCsKKpU8LSrY9b4K9W7SMQy7YsGytN0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/nwsapi/-/nwsapi-2.2.2.tgz"
+  }
 }

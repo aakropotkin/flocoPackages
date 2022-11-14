@@ -619,7 +619,11 @@
     "url": "https://registry.npmjs.org/esbuild-linux-ppc64le/-/esbuild-linux-ppc64le-0.14.53.tgz",
     "narHash": "sha256-8QMoVTEiG+OVD4il1AY6wcDvL/hYh8Hfu47sm96Ndlo="
   },
-  "0.14.54": null,
+  "0.14.54": {
+    "narHash": "sha256-v7SDjSMSXQj3RQWxXBPCM9Y8BGIarz8fsU35EAMjk0s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-linux-ppc64le/-/esbuild-linux-ppc64le-0.14.54.tgz"
+  },
   "0.14.6": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/esbuild-linux-ppc64le/-/esbuild-linux-ppc64le-0.14.6.tgz",

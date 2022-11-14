@@ -74,5 +74,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.7.tgz"
   },
-  "1.0.8": null
+  "1.0.8": {
+    "narHash": "sha256-+RCvzsa/ScK8HQNe6L6WRdxOuiJuqU1cRvV7qUfEbks=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.8.tgz"
+  }
 }

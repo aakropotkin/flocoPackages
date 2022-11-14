@@ -79,6 +79,14 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-4.0.0.tgz"
   },
-  "4.0.1": null,
-  "5.0.0": null
+  "4.0.1": {
+    "narHash": "sha256-O0SMclOVpPuhX70iTuX73AeluwsKSDmL3YfuthL5ohM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-4.0.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-8a7NywPQQPUQ+Vopnfsac/PAkj7rYUthODimqQEN5wE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-proxy-agent/-/http-proxy-agent-5.0.0.tgz"
+  }
 }

@@ -864,7 +864,11 @@
     "url": "https://registry.npmjs.org/@swc/core-win32-arm64-msvc/-/core-win32-arm64-msvc-1.3.13.tgz",
     "narHash": "sha256-8S9e6YzMTygIfe94Niv3kWPMcGPZD+dK4MCc5gaXdpA="
   },
-  "1.3.14": null,
+  "1.3.14": {
+    "narHash": "sha256-lfOSLkbfg6OTD3OHysPv2UH0M2L/YrlWcNERRtTaNS8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-win32-arm64-msvc/-/core-win32-arm64-msvc-1.3.14.tgz"
+  },
   "1.3.2": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/@swc/core-win32-arm64-msvc/-/core-win32-arm64-msvc-1.3.2.tgz",

@@ -949,7 +949,11 @@
     "url": "https://registry.npmjs.org/@swc/core-darwin-arm64/-/core-darwin-arm64-1.3.13.tgz",
     "narHash": "sha256-YJg6uKmhZHp1P1795Wl/f14MObqHnutlRs7DeIhpN/w="
   },
-  "1.3.14": null,
+  "1.3.14": {
+    "narHash": "sha256-P2FCWGg45NlD/eN546Yu3vyxHPhwb1ZL0+n2w9UULzk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-darwin-arm64/-/core-darwin-arm64-1.3.14.tgz"
+  },
   "1.3.2": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/@swc/core-darwin-arm64/-/core-darwin-arm64-1.3.2.tgz",

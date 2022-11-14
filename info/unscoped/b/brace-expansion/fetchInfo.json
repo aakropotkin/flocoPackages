@@ -29,7 +29,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.10.tgz"
   },
-  "1.1.11": null,
+  "1.1.11": {
+    "narHash": "sha256-3iQ502QjW10IEFOh3qnkAIivIbQ1TO1pgQTi7p9eado=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.11.tgz"
+  },
   "1.1.2": {
     "narHash": "sha256-xA3e788oDLsGHddeUF7EzD4xnN4O38mLLSDxqoy4cgs=",
     "type": "tarball",

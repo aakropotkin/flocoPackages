@@ -19,8 +19,16 @@
     "url": "https://registry.npmjs.org/is-data-descriptor/-/is-data-descriptor-0.1.3.tgz",
     "narHash": "sha256-LAYmcvb63Khp7PHJenwwKnG7clryKlEwwyj2FbAmffA="
   },
-  "0.1.4": null,
-  "1.0.0": null,
+  "0.1.4": {
+    "narHash": "sha256-8nXVGDnZJCtXUk65QO8vGocsA/Y0QKIm3Us1esPt9Fc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-data-descriptor/-/is-data-descriptor-0.1.4.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-gTKHdQHzL9Oteu+TyuDxXhn3pXOmDfvXlyN/X0tNT5E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-data-descriptor/-/is-data-descriptor-1.0.0.tgz"
+  },
   "2.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-data-descriptor/-/is-data-descriptor-2.0.0.tgz",

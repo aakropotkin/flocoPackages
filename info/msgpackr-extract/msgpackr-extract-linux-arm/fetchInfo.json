@@ -19,5 +19,9 @@
     "url": "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-linux-arm/-/msgpackr-extract-linux-arm-2.1.1.tgz",
     "narHash": "sha256-YhQOKFwWfKVxoxQM75UX3C4LpYP1nZWhntpt53x7z8s="
   },
-  "2.1.2": null
+  "2.1.2": {
+    "narHash": "sha256-qoiL1U9FHKRqH6h9ZEfqV48/E0HyRFpiRCuEN6tqSrk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-linux-arm/-/msgpackr-extract-linux-arm-2.1.2.tgz"
+  }
 }

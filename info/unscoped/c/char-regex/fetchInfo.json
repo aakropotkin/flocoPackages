@@ -9,7 +9,11 @@
     "type": "file",
     "url": "https://registry.npmjs.org/char-regex/-/char-regex-1.0.1.tgz"
   },
-  "1.0.2": null,
+  "1.0.2": {
+    "narHash": "sha256-Ar5DopRfohOqje0wX9y5ejvhuZPOzcqVxHR/HEtgDDg=",
+    "type": "file",
+    "url": "https://registry.npmjs.org/char-regex/-/char-regex-1.0.2.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-29KmVgPKP4PwUdjW7ogSGxWA38oT4CdAr3zyMNYtrfE=",
     "type": "file",

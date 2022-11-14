@@ -34,5 +34,9 @@
     "url": "https://registry.npmjs.org/to-regex/-/to-regex-3.0.1.tgz",
     "narHash": "sha256-0wk/oFxZAD0ep2uh3tDELw88DajVWjavYKnVpdOrJ3k="
   },
-  "3.0.2": null
+  "3.0.2": {
+    "narHash": "sha256-uPRe+lmezGzCJgbkGLVxtFcn+jXAQCisgJRUyJ8SQkM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/to-regex/-/to-regex-3.0.2.tgz"
+  }
 }

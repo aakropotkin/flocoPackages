@@ -124,5 +124,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/flat/-/flat-5.0.1.tgz"
   },
-  "5.0.2": null
+  "5.0.2": {
+    "narHash": "sha256-ezYyo/YmLbt2ZYlsHJEvsmE3IggEDnohmqmmjnRmjVA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/flat/-/flat-5.0.2.tgz"
+  }
 }

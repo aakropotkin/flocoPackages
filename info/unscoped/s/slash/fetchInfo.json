@@ -24,7 +24,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/slash/-/slash-2.0.0.tgz"
   },
-  "3.0.0": null,
+  "3.0.0": {
+    "narHash": "sha256-tZzgTJwTD+eFikcawSO8plEa7YR2/RULHUs98d+5EC4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/slash/-/slash-3.0.0.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-RiU5GFsHMUTKUwsfH9DcPpqZwVPuSdJIQVEqyt2+CKY=",
     "type": "tarball",

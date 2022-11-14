@@ -19,6 +19,14 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/type-check/-/type-check-0.3.1.tgz"
   },
-  "0.3.2": null,
-  "0.4.0": null
+  "0.3.2": {
+    "narHash": "sha256-AnuKFV0wViWz6nhzYV/yz5+EvBYmaOerFgVhvw2LBNA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/type-check/-/type-check-0.3.2.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-c7oK/LdUUDXwdCUbkbLmNDixyLJR9avZVfBbfOupE8g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/type-check/-/type-check-0.4.0.tgz"
+  }
 }

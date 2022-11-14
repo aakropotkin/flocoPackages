@@ -44,5 +44,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/safe-stable-stringify/-/safe-stable-stringify-2.4.0.tgz"
   },
-  "2.4.1": null
+  "2.4.1": {
+    "narHash": "sha256-QWfufIrXstsJK+UDzcHhuo0RfKnKutGpzdjCBVXckm8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-stable-stringify/-/safe-stable-stringify-2.4.1.tgz"
+  }
 }

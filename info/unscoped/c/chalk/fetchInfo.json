@@ -114,7 +114,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/chalk/-/chalk-2.4.1.tgz"
   },
-  "2.4.2": null,
+  "2.4.2": {
+    "narHash": "sha256-epyiOfJKhuYWuMNymawywjS+lFfsQvbhON+b8du38TQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/chalk/-/chalk-2.4.2.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-GXKxt/fGq6j28M6p9kRZvXhEkCWWL5wqu2yPNdDDhHs=",
     "type": "tarball",
@@ -135,7 +139,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/chalk/-/chalk-4.1.1.tgz"
   },
-  "4.1.2": null,
+  "4.1.2": {
+    "narHash": "sha256-dxAbdhq8BxCb4ae3E1eYjt6zC/nsq3c18/ZAOIXKiT8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-ozevRmiML4Msk+8TB4b8OYi6oI7/fs/LABy2vxjhwf0=",
     "type": "tarball",

@@ -84,7 +84,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/typedarray-to-buffer/-/typedarray-to-buffer-3.1.4.tgz"
   },
-  "3.1.5": null,
+  "3.1.5": {
+    "narHash": "sha256-09+sySCUeiKvar5b4mwle5U60gpQRwGb3FF+XPd6tF4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/typedarray-to-buffer/-/typedarray-to-buffer-3.1.5.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-fCmVSdTC8outwViUOlNePo9AWtaxhtEWsMSHMua/r0M=",
     "type": "tarball",

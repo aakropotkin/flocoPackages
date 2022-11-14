@@ -284,7 +284,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.1.tgz"
   },
-  "4.2.10": null,
+  "4.2.10": {
+    "narHash": "sha256-AUh4d+JbA0dSyhYmzx3ijrByR9pa70BABBehjnWiwG0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz"
+  },
   "4.2.2": {
     "narHash": "sha256-sSynT0ITuLt+ecAhA79bveclH9MSFyDq2I3pJmVtcIQ=",
     "type": "tarball",

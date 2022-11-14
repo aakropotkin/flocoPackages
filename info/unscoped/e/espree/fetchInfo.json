@@ -339,7 +339,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/espree/-/espree-7.3.0.tgz"
   },
-  "7.3.1": null,
+  "7.3.1": {
+    "narHash": "sha256-aThx9sYk4Mnbdq6Lsqk0cbcxNCMfjJHdDWvloeYxZmc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/espree/-/espree-7.3.1.tgz"
+  },
   "8.0.0": {
     "narHash": "sha256-cmXwcZpQGyCmJyr40pyeEBWgTPF2ePUil4gIb9VSfOg=",
     "type": "tarball",
@@ -380,6 +384,14 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/espree/-/espree-9.3.3.tgz"
   },
-  "9.4.0": null,
-  "9.4.1": null
+  "9.4.0": {
+    "narHash": "sha256-AsBHfDGayrocWcHtKqe9N1YTxiIIrwVPV9+hYexbbi0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/espree/-/espree-9.4.0.tgz"
+  },
+  "9.4.1": {
+    "narHash": "sha256-m2KuK0nAAJYZ2+rdU9jCZEnnYQJAz4HPXbAMqVD//tM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/espree/-/espree-9.4.1.tgz"
+  }
 }

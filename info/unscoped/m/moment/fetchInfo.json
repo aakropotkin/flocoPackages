@@ -304,7 +304,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/moment/-/moment-2.29.3.tgz"
   },
-  "2.29.4": null,
+  "2.29.4": {
+    "narHash": "sha256-axzBYoaA8f53hLQ3Zq6vd+bZuNUu2Uund0APKBVD/1U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/moment/-/moment-2.29.4.tgz"
+  },
   "2.3.0": {
     "narHash": "sha256-paEqMV5jn9iDqPj010psjhKKmOtSxIyjyv3cdbXWaTQ=",
     "type": "tarball",

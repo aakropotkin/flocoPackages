@@ -19,7 +19,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/html-escaper/-/html-escaper-2.0.1.tgz"
   },
-  "2.0.2": null,
+  "2.0.2": {
+    "narHash": "sha256-BbVGi29IKasBEuO7EaQYHa1vTtZfvbw05JhtCAvDhGw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/html-escaper/-/html-escaper-2.0.2.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-zgAOTpqj5GHf82wrX5VIj2hb0qRd+qjBIEItem5h5rA=",
     "type": "tarball",

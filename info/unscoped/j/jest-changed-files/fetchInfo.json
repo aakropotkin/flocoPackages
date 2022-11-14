@@ -369,7 +369,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-27.5.0.tgz"
   },
-  "27.5.1": null,
+  "27.5.1": {
+    "narHash": "sha256-2uFmHVzn2xI2teRltvly+W52zSA3MXXdTDncA1NTT9E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-27.5.1.tgz"
+  },
   "28.0.0": {
     "narHash": "sha256-16cZf6wiyndeOLx3cKbLOgfTIFx7aqpUWiyPyuZMufs=",
     "type": "tarball",
@@ -380,11 +384,19 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-28.0.2.tgz"
   },
-  "28.1.3": null,
+  "28.1.3": {
+    "narHash": "sha256-jRTjBvoHfwds/rVlTeNcyDT2+L7Gnbj6/3ELWzeMocc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-28.1.3.tgz"
+  },
   "29.0.0": {
     "narHash": "sha256-3WNe3Ry6gryJgViAwUBFZUVgB6weSdMqGM6xMNWlsRM=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-29.0.0.tgz"
   },
-  "29.2.0": null
+  "29.2.0": {
+    "narHash": "sha256-7yV3LSzAqkR3OGu+iCetQo0FCoyOjD7ODxrYnUnpFlI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-29.2.0.tgz"
+  }
 }

@@ -234,5 +234,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/rc/-/rc-1.2.7.tgz"
   },
-  "1.2.8": null
+  "1.2.8": {
+    "narHash": "sha256-kMQCqHYCBwtHYNERSM5Jn/n2rMghHcP3JVXkUHESluM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rc/-/rc-1.2.8.tgz"
+  }
 }

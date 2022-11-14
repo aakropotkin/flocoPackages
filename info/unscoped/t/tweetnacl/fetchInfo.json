@@ -84,7 +84,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tweetnacl/-/tweetnacl-0.14.4.tgz"
   },
-  "0.14.5": null,
+  "0.14.5": {
+    "narHash": "sha256-MCEPWBBw8I2D8KT4ztVQX2uq2LRsnNT/ENRZypBlTPc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tweetnacl/-/tweetnacl-0.14.5.tgz"
+  },
   "0.9.1": {
     "narHash": "sha256-M45uP8mkzFM/bNqbnrpXjBrIakMDnVwyzNbO+80492M=",
     "type": "tarball",

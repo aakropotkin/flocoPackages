@@ -14,7 +14,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-2.0.0.tgz"
   },
-  "2.1.0": null,
+  "2.1.0": {
+    "narHash": "sha256-HIiBMdjqap/JL9wNUGTYUBWJTKDWBhvu5/F0avI33ew=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-2.1.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-9TIvLTmLezQUZw5r3vQqdY4Fx/139iNncN0bEgv1WYU=",
     "type": "tarball",

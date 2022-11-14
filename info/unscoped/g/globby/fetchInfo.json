@@ -64,7 +64,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/globby/-/globby-11.0.4.tgz"
   },
-  "11.1.0": null,
+  "11.1.0": {
+    "narHash": "sha256-pDQt3eQJagRiZZ3o4V+Jnlbnwb4u03qB4/v0axxMp/A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/globby/-/globby-11.1.0.tgz"
+  },
   "12.0.0": {
     "narHash": "sha256-R0slPrBGDdmJuQv1iT17MmSuOWLnjbosiVS382e0dzg=",
     "type": "tarball",

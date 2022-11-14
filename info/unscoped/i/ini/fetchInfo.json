@@ -84,7 +84,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ini/-/ini-1.3.7.tgz"
   },
-  "1.3.8": null,
+  "1.3.8": {
+    "narHash": "sha256-zX9o4qsCsgLbZ/XCCnq9F/1fkx41mv4Y2AbsY0f345g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ini/-/ini-1.3.8.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-zKb86eyQCuWjzprZZwGZKrUggCQiuwqG/dNRKMszro8=",
     "type": "tarball",

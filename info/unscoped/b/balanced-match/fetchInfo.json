@@ -54,7 +54,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.1.tgz"
   },
-  "1.0.2": null,
+  "1.0.2": {
+    "narHash": "sha256-YH1+osaAiJvWUUR4VCe/Hh4eHhXS0gN3Lnr+Xd3cCzg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.2.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-c0lJ8LT4FG4C20uF5fUDpAnCW0VluHA3FOXTJnKVdtM=",
     "type": "tarball",

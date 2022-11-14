@@ -4,7 +4,11 @@
     "url": "https://registry.npmjs.org/pascalcase/-/pascalcase-0.1.0.tgz",
     "narHash": "sha256-ANRkw2WJA8mlBp0IHTvvHbBLM/ouPYSkeOtJ3jsEW8w="
   },
-  "0.1.1": null,
+  "0.1.1": {
+    "narHash": "sha256-xiAg1FPkRdimwBbHZymSSXEIphyAuQ1VrYlB0jxGhR4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascalcase/-/pascalcase-0.1.1.tgz"
+  },
   "1.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/pascalcase/-/pascalcase-1.0.0.tgz",

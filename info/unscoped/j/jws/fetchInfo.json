@@ -104,6 +104,14 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jws/-/jws-3.2.1.tgz"
   },
-  "3.2.2": null,
-  "4.0.0": null
+  "3.2.2": {
+    "narHash": "sha256-ArCejUA4j8L/FBcexwP+Ofd4+AADeZLgMcvIgM+k+nY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jws/-/jws-3.2.2.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-a9eqTIRz8RnRTBk03wZuIBQvulPk8pr9fDSoWl1Ocuc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jws/-/jws-4.0.0.tgz"
+  }
 }

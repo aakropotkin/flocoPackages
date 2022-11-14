@@ -344,7 +344,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/node-abi/-/node-abi-3.27.0.tgz"
   },
-  "3.28.0": null,
+  "3.28.0": {
+    "narHash": "sha256-HhG34j63LAoBo5BHQo1/OLebH7E89dnmczu+B1C31HU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-abi/-/node-abi-3.28.0.tgz"
+  },
   "3.3.0": {
     "narHash": "sha256-pb3FvqcQP4roJtDg0sV6z6z1JPea69MAEAhd1MTPiWs=",
     "type": "tarball",

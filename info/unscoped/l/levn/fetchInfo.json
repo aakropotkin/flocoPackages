@@ -34,11 +34,19 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/levn/-/levn-0.2.5.tgz"
   },
-  "0.3.0": null,
+  "0.3.0": {
+    "narHash": "sha256-iMX+ZSlxJcFBWJVcIPnkzvtpiuuq8IhvnVzzh4OQloE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/levn/-/levn-0.3.0.tgz"
+  },
   "0.4.0": {
     "narHash": "sha256-A/RQ7gIXN/mKlzfD/WxgcLDuDvrU2AzHUNVKP95MT94=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/levn/-/levn-0.4.0.tgz"
   },
-  "0.4.1": null
+  "0.4.1": {
+    "narHash": "sha256-azArXDTc0Dj7aDEBLsNQ4XOUQ/Vo86h4oHfl4AtwvAQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/levn/-/levn-0.4.1.tgz"
+  }
 }

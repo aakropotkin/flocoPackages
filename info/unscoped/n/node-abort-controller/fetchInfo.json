@@ -39,7 +39,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/node-abort-controller/-/node-abort-controller-1.2.1.tgz"
   },
-  "2.0.0": null,
+  "2.0.0": {
+    "narHash": "sha256-8isjNTGvr8FkXC/cpodQ26MR/zxiKsztGxadoEDh9/4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-abort-controller/-/node-abort-controller-2.0.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-mGWozCrGa16kRZip4S/Gx8G3KCNRWxXu3Cs5yjCOoJ4=",
     "type": "tarball",

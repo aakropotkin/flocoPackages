@@ -34,7 +34,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/help-me/-/help-me-2.0.1.tgz"
   },
-  "3.0.0": null,
+  "3.0.0": {
+    "narHash": "sha256-YO9JQ2MjtGDHgvLj5aokp4JIgTAyfr3GgCHMSLVJg9Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/help-me/-/help-me-3.0.0.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-wRDfxegVgnWYtjqmBi7y3uCVLE6XS4ITvYdrxARNyRM=",
     "type": "tarball",

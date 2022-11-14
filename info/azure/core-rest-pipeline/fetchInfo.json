@@ -34,7 +34,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@azure/core-rest-pipeline/-/core-rest-pipeline-1.1.1.tgz"
   },
-  "1.10.0": null,
+  "1.10.0": {
+    "narHash": "sha256-yCPvqxBuD9VoRfrpDc/OH5uI3s5Ln5iYgSzCny9yEZo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-rest-pipeline/-/core-rest-pipeline-1.10.0.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-gdZvq7CK+BGjGoud2JDK8TxYggJCF/sXbzqTG75WkqA=",
     "type": "tarball",

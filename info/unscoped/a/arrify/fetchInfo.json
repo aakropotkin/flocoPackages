@@ -4,7 +4,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/arrify/-/arrify-1.0.0.tgz"
   },
-  "1.0.1": null,
+  "1.0.1": {
+    "narHash": "sha256-LS0BNywhxm1JAm5vLkw1YDqIIK7vpZbUzGkvl01MVy0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arrify/-/arrify-1.0.1.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-7Y7FvkPKsF37MP+psibmoLeaoBACoznHU+YmEQ5gvDE=",
     "type": "tarball",

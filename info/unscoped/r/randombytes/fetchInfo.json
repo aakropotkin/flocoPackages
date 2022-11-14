@@ -39,5 +39,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/randombytes/-/randombytes-2.0.6.tgz"
   },
-  "2.1.0": null
+  "2.1.0": {
+    "narHash": "sha256-Abr0ohEDpcB9XXrFyNIPNqFVeANanb4rkCQR5B2MXjY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/randombytes/-/randombytes-2.1.0.tgz"
+  }
 }

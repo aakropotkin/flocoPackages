@@ -54,5 +54,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/v8-compile-cache/-/v8-compile-cache-2.2.0.tgz"
   },
-  "2.3.0": null
+  "2.3.0": {
+    "narHash": "sha256-5Kzs3k3iqtocZSQix4YVrF2PaJ+Cf+LPoI9k+eH8MW0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz"
+  }
 }

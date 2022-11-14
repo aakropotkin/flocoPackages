@@ -434,5 +434,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/node-releases/-/node-releases-2.0.5.tgz"
   },
-  "2.0.6": null
+  "2.0.6": {
+    "narHash": "sha256-XKC3HAV7Tdy8GYasKlGtevLhUDRB2I9NH0+CLHIlib4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-releases/-/node-releases-2.0.6.tgz"
+  }
 }

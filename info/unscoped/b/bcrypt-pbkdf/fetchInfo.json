@@ -9,5 +9,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.1.tgz"
   },
-  "1.0.2": null
+  "1.0.2": {
+    "narHash": "sha256-2iL91DfbvnCacv5Tpp32aUmAxCxvx30lZdnCX17mySw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.2.tgz"
+  }
 }

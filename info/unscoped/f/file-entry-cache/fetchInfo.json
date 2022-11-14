@@ -64,5 +64,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-6.0.0.tgz"
   },
-  "6.0.1": null
+  "6.0.1": {
+    "narHash": "sha256-MwVItPdMFD5YC4DfaF68o699xdGokviC2VW6Z0rw1Hs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-6.0.1.tgz"
+  }
 }

@@ -69,7 +69,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@azure/identity/-/identity-1.5.1.tgz"
   },
-  "1.5.2": null,
+  "1.5.2": {
+    "narHash": "sha256-PHrn4b87/8qCCSNrFC7weu7DjqREAsgFtnu09oCjvDA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/identity/-/identity-1.5.2.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-yQZLILAK2nt1wkD6Uj9rcdDp4QiX9UMVzHeGpH76Jrk=",
     "type": "tarball",

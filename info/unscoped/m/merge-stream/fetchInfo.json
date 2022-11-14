@@ -59,5 +59,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/merge-stream/-/merge-stream-1.0.1.tgz"
   },
-  "2.0.0": null
+  "2.0.0": {
+    "narHash": "sha256-0ZC11XNq6TaUxEXOV9bwaS71Qd3wQoqZAkFRvtnab5I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/merge-stream/-/merge-stream-2.0.0.tgz"
+  }
 }

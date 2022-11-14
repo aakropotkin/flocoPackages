@@ -59,7 +59,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/source-map-resolve/-/source-map-resolve-0.5.2.tgz"
   },
-  "0.5.3": null,
+  "0.5.3": {
+    "narHash": "sha256-GLKC5T82TX6zLZefQPy5ygeDbpBdhzpKEIEWKkX4KXc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/source-map-resolve/-/source-map-resolve-0.5.3.tgz"
+  },
   "0.6.0": {
     "narHash": "sha256-CPmhOD2xsi8hovgRbsgLyZm9lTL9wmPsTiSNFzdWugg=",
     "type": "tarball",

@@ -244,7 +244,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.12.tgz"
   },
-  "0.5.13": null,
+  "0.5.13": {
+    "narHash": "sha256-DMiRX7QMl1ewmSXe/wX33WYPxD/XhWkZntVAdR013Cc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.13.tgz"
+  },
   "0.5.14": {
     "narHash": "sha256-i+VQflzUD/KSNgcpqe2SQujXEuWdxTA50LUdDRZSToY=",
     "type": "tarball",
@@ -285,7 +289,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.20.tgz"
   },
-  "0.5.21": null,
+  "0.5.21": {
+    "narHash": "sha256-jq9veAxl7soqheG69ft6ac42qP61CrHG9kGOfaPGzmg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.21.tgz"
+  },
   "0.5.3": {
     "narHash": "sha256-22xplbj0vghKFLECVpCaq/XbJpp+Vr1kfhsQlTXaExM=",
     "type": "tarball",

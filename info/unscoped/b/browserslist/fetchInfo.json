@@ -679,7 +679,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/browserslist/-/browserslist-4.21.3.tgz"
   },
-  "4.21.4": null,
+  "4.21.4": {
+    "narHash": "sha256-TcjpXfoVP59lp0FZE27h2pMOWRAv45tL6r4ex/Jhf5o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/browserslist/-/browserslist-4.21.4.tgz"
+  },
   "4.3.0": {
     "narHash": "sha256-VZTMYpV07lh8xstumgdR0qIF//JE7NSLYSJUNTlaojw=",
     "type": "tarball",

@@ -44,7 +44,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@xmldom/xmldom/-/xmldom-0.7.8.tgz"
   },
-  "0.7.9": null,
+  "0.7.9": {
+    "narHash": "sha256-iWd0rBUAMDIHn8HcE2/XnzCptgd/fAxCKrVbLqJY3Dw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@xmldom/xmldom/-/xmldom-0.7.9.tgz"
+  },
   "0.8.0": {
     "narHash": "sha256-3VVlqR9SP+dbHMrIxBx/TCQaQC6CooEq/cwZCxY+aDs=",
     "type": "tarball",

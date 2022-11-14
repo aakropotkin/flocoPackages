@@ -44,5 +44,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/dir-glob/-/dir-glob-3.0.0.tgz"
   },
-  "3.0.1": null
+  "3.0.1": {
+    "narHash": "sha256-VBtlDAN9t0rKKmCQqhsZEe7+FBMkKgQ+qSMH+0UgQuk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dir-glob/-/dir-glob-3.0.1.tgz"
+  }
 }

@@ -94,7 +94,11 @@
     "url": "https://registry.npmjs.org/nanomatch/-/nanomatch-1.2.1.tgz",
     "narHash": "sha256-iBuQdIf6uuDIrgMXKgBNalb3TY8NO7ziBwgny59Cw0A="
   },
-  "1.2.13": null,
+  "1.2.13": {
+    "narHash": "sha256-Fm9tifAK1BLj/wk5ybJLuEd7VZGnfYe6pakz/cmzxoo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/nanomatch/-/nanomatch-1.2.13.tgz"
+  },
   "1.2.2": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/nanomatch/-/nanomatch-1.2.2.tgz",

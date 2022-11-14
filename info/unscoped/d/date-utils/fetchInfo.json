@@ -119,7 +119,11 @@
     "url": "https://registry.npmjs.org/date-utils/-/date-utils-1.2.20.tgz",
     "narHash": "sha256-DTlEfBdYS96kjcvUtxCtSFM7m7RSer2qQc84fUbo/cs="
   },
-  "1.2.21": null,
+  "1.2.21": {
+    "narHash": "sha256-KoMc/mCJgFIi4OrtLk4kLaUZLTJXwPZkey7I/CY6Fjs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/date-utils/-/date-utils-1.2.21.tgz"
+  },
   "1.2.3": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/date-utils/-/date-utils-1.2.3.tgz",

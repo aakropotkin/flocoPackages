@@ -39,11 +39,19 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.1.tgz"
   },
-  "5.1.2": null,
+  "5.1.2": {
+    "narHash": "sha256-iK8v+7aYHwzIkCwPku95juIQq9K7Mm81P7iZPA+FJj4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz"
+  },
   "5.2.0": {
     "narHash": "sha256-i5muVdOX5T9vldaxtEidqWhg+zHQ7JcHKPFdnMTYaUA=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.0.tgz"
   },
-  "5.2.1": null
+  "5.2.1": {
+    "narHash": "sha256-wXBrp88QpZPUzawZ33OaWsjCtWTVMsflFJRBg2/U4y8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.1.tgz"
+  }
 }

@@ -364,7 +364,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/async/-/async-2.6.3.tgz"
   },
-  "2.6.4": null,
+  "2.6.4": {
+    "narHash": "sha256-gN1JfCq+gdch//u4v2guRHiZ6KtzeGxynwc7xc9N9AI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async/-/async-2.6.4.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-fXCRCL02r55wqN0QOjMTc3EqPxBYFZ0Cnt968mTEJeA=",
     "type": "tarball",
@@ -405,5 +409,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/async/-/async-3.2.3.tgz"
   },
-  "3.2.4": null
+  "3.2.4": {
+    "narHash": "sha256-a/6aY3tGBPU6CA2lUdgxAezxfjnDJGU+qodau28UTHE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async/-/async-3.2.4.tgz"
+  }
 }

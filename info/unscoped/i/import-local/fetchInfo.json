@@ -14,7 +14,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/import-local/-/import-local-1.0.0.tgz"
   },
-  "2.0.0": null,
+  "2.0.0": {
+    "narHash": "sha256-C+dDRJuewOP+mmoci6vnAFNzbhKJu8sg7A1hfoeBkIk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/import-local/-/import-local-2.0.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-eEW8V1qLwClzCJ3/JRZveAPkaID4RzsbYF2jRHmJaRA=",
     "type": "tarball",
@@ -35,5 +39,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/import-local/-/import-local-3.0.3.tgz"
   },
-  "3.1.0": null
+  "3.1.0": {
+    "narHash": "sha256-pItB0MAjJCBTcipME2xzK2VkkjVmtMEQSzklnUUpM+M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/import-local/-/import-local-3.1.0.tgz"
+  }
 }

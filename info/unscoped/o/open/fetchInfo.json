@@ -109,7 +109,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/open/-/open-7.4.1.tgz"
   },
-  "7.4.2": null,
+  "7.4.2": {
+    "narHash": "sha256-JgZsCY4oNPGncT/4KJ3b+XyuFm+lg2UsyYnbstQxhF8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/open/-/open-7.4.2.tgz"
+  },
   "8.0.0": {
     "narHash": "sha256-ePrY2XylUJYXCCUSShN/73LkiiChuB43COoF0DrDPWM=",
     "type": "tarball",

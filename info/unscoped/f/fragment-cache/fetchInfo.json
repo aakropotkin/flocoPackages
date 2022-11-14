@@ -9,5 +9,9 @@
     "url": "https://registry.npmjs.org/fragment-cache/-/fragment-cache-0.2.0.tgz",
     "narHash": "sha256-tSRqkntM+sFupa1VuQnbAkpnWEf+ZPc90mu1YyQI+YQ="
   },
-  "0.2.1": null
+  "0.2.1": {
+    "narHash": "sha256-t/OgDc0EtHrkH4Lh31vfntgdTZQ6Dr0pIQY5cULHFAQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fragment-cache/-/fragment-cache-0.2.1.tgz"
+  }
 }

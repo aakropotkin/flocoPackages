@@ -109,7 +109,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/event-target-shim/-/event-target-shim-5.0.0.tgz"
   },
-  "5.0.1": null,
+  "5.0.1": {
+    "narHash": "sha256-2AJGuQbw+qwoe5mZd1JvbkE/oksRSHLS5K6rYdwvt0A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/event-target-shim/-/event-target-shim-5.0.1.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-3YXtA4STVAbDbi5ncUne9zWJLKLBP0b/qTJ15eoSTOA=",
     "type": "tarball",

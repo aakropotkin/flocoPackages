@@ -39,7 +39,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/slice-ansi/-/slice-ansi-3.0.0.tgz"
   },
-  "4.0.0": null,
+  "4.0.0": {
+    "narHash": "sha256-Xn07t4myALG3lrY8iJmZE5PrSqK8MlYt5Arz1fAeMvM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/slice-ansi/-/slice-ansi-4.0.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-B2xK8K1MTRTgFxdkEGbupAvrIrUj5J1KoqucTNXjMNo=",
     "type": "tarball",

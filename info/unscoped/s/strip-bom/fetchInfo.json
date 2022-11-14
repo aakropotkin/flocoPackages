@@ -34,8 +34,16 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/strip-bom/-/strip-bom-2.0.0.tgz"
   },
-  "3.0.0": null,
-  "4.0.0": null,
+  "3.0.0": {
+    "narHash": "sha256-J87gjr955s09mqu6GTyZDmNOXqX1FJDX4CLFTMuM+zU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strip-bom/-/strip-bom-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-1ep2vpPJQUeyDPma6RIYvQ22vmGsXsGAGxoRnySl+2s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strip-bom/-/strip-bom-4.0.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-CsbrYoPQ0MzUdWcyi7xQNVR4E0o7lUZ/QLP6+fpHdr4=",
     "type": "tarball",

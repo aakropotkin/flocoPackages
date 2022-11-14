@@ -139,7 +139,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/get-value/-/get-value-2.0.5.tgz"
   },
-  "2.0.6": null,
+  "2.0.6": {
+    "narHash": "sha256-TkTTouXDqF8fjzasPKBDygOONtWtXjCgyG2wHcBO2h4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/get-value/-/get-value-2.0.6.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-Jvb6n0IMxmZpKFHDcz6bD6zsSbPoPxs0MUQ8tbvhsCk=",
     "type": "tarball",

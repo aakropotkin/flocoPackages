@@ -74,5 +74,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-glob/-/is-glob-4.0.2.tgz"
   },
-  "4.0.3": null
+  "4.0.3": {
+    "narHash": "sha256-7FIQemaZXYPFuIoAykkbzU8g5B2TlAUoymUpYM0QO9A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz"
+  }
 }

@@ -84,7 +84,11 @@
     "url": "https://registry.npmjs.org/set-value/-/set-value-2.0.0.tgz",
     "narHash": "sha256-YNbRWhO5wTP+L8/61ZooJfouyVUYg41Sd7D1aFujBnY="
   },
-  "2.0.1": null,
+  "2.0.1": {
+    "narHash": "sha256-2EtoEuiiBzkVWZUl4Z9BcfyMagim5T5zN3dKAzgcynk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/set-value/-/set-value-2.0.1.tgz"
+  },
   "3.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/set-value/-/set-value-3.0.0.tgz",

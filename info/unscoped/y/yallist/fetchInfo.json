@@ -74,5 +74,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/yallist/-/yallist-3.1.1.tgz"
   },
-  "4.0.0": null
+  "4.0.0": {
+    "narHash": "sha256-JQNNkqswg1ZH4o8PQS2R8WsZWJtv/5R3vRgc4d1vDR0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yallist/-/yallist-4.0.0.tgz"
+  }
 }

@@ -104,5 +104,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-5.0.1.tgz"
   },
-  "6.0.0": null
+  "6.0.0": {
+    "narHash": "sha256-Sr3EQ5DBCKtjZTqtAcUpGsqnOa8KbqsazmKWDIl430M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-6.0.0.tgz"
+  }
 }

@@ -4,7 +4,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.1.0.tgz"
   },
-  "0.1.1": null,
+  "0.1.1": {
+    "narHash": "sha256-4s0QHwGuQ7U9seKMKMknmZy0UOJFVSAyuQc5Dm3Ylt0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz"
+  },
   "0.2.0": {
     "narHash": "sha256-d6w/ROxxJQTFnGbETb8mJWSNtOdewtqvZe5sh2j+NYE=",
     "type": "tarball",
@@ -20,5 +24,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.1.tgz"
   },
-  "0.3.2": null
+  "0.3.2": {
+    "narHash": "sha256-KmYeSuSah43dRS1I6Tit9AyhP9MP9jmyhdOGbzLOi8A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.2.tgz"
+  }
 }

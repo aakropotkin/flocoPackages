@@ -79,5 +79,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ieee754/-/ieee754-1.2.0.tgz"
   },
-  "1.2.1": null
+  "1.2.1": {
+    "narHash": "sha256-tFbpZ+yAyaBm8/G327gTlNUtZS5zfUaAHi8W3HG6q48=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz"
+  }
 }

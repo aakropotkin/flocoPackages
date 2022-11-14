@@ -179,7 +179,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/node-addon-api/-/node-addon-api-4.2.0.tgz"
   },
-  "4.3.0": null,
+  "4.3.0": {
+    "narHash": "sha256-Tx2R3aklydHe/RqTRkq+qCMs1pYmWKllvF24Mkh8s/A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-addon-api/-/node-addon-api-4.3.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-ekEZWS2IaTtXFL/18cWrOr5x8ZHqFhB3CafC7gaVtxI=",
     "type": "tarball",

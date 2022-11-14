@@ -164,7 +164,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.23.tgz"
   },
-  "0.4.24": null,
+  "0.4.24": {
+    "narHash": "sha256-AKyquJsE0pmfPSGiC+7IuhvniNI9MEFVEub2XcvIKjc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.24.tgz"
+  },
   "0.4.3": {
     "narHash": "sha256-Tje83s8M0CcNjeYgEoJRJ89V8JpP84jcMQ9bq94dAXc=",
     "type": "tarball",
@@ -230,5 +234,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.6.2.tgz"
   },
-  "0.6.3": null
+  "0.6.3": {
+    "narHash": "sha256-5WTD6wj4xQL0yKVTnCsqIUkbWZ6/A1wPKJeLlMvP6xA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.6.3.tgz"
+  }
 }

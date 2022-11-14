@@ -369,5 +369,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/neo-async/-/neo-async-2.6.1.tgz"
   },
-  "2.6.2": null
+  "2.6.2": {
+    "narHash": "sha256-QFng9dwYIorbPusgMvQVI19ueJFRIHJnhszio3IykAY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
+  }
 }

@@ -59,5 +59,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/eslint-utils/-/eslint-utils-2.1.0.tgz"
   },
-  "3.0.0": null
+  "3.0.0": {
+    "narHash": "sha256-ENLkBTzXojfeHfdaeEd1UXvOQAcRpst6h5hmz8CAugA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-utils/-/eslint-utils-3.0.0.tgz"
+  }
 }

@@ -1,5 +1,9 @@
 {
-  "1.0.0": null,
+  "1.0.0": {
+    "narHash": "sha256-JikaZvwU2qebvN3mO+8xC3VzyjDgy3kHGlUUsUcZYSk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/process-warning/-/process-warning-1.0.0.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-LVdMW/5mIeQ1k5XnGxnEPh0PXMP9xmrCKVfSyPdm5c0=",
     "type": "tarball",

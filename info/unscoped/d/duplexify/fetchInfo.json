@@ -189,5 +189,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/duplexify/-/duplexify-4.1.1.tgz"
   },
-  "4.1.2": null
+  "4.1.2": {
+    "narHash": "sha256-6Cd845VtPiL9HwSVspMa1Q+i1qeGFDdi5V/eY50EQh0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/duplexify/-/duplexify-4.1.2.tgz"
+  }
 }

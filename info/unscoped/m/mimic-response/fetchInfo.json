@@ -24,7 +24,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/mimic-response/-/mimic-response-3.0.0.tgz"
   },
-  "3.1.0": null,
+  "3.1.0": {
+    "narHash": "sha256-19JpS4wWC7aJczKnJEOrEbn1JN86yNCgXCQ1ibQcG8s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mimic-response/-/mimic-response-3.1.0.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-TUnXDsYh4oQzaIaJGQf/cxH/oLc/0wfd6SasmEf6D6k=",
     "type": "tarball",

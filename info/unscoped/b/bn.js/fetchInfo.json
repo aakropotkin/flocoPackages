@@ -469,7 +469,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/bn.js/-/bn.js-4.11.9.tgz"
   },
-  "4.12.0": null,
+  "4.12.0": {
+    "narHash": "sha256-2aGFB9RA0g4i+n9WW+HLoVjTZfRg7KtC74vossgRjpw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bn.js/-/bn.js-4.12.0.tgz"
+  },
   "4.2.0": {
     "narHash": "sha256-RFz/2it2/QFQ6a98JLMMkEt+FahZwONZU+szqljJuBA=",
     "type": "tarball",

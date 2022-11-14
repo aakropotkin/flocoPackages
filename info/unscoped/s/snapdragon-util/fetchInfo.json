@@ -64,7 +64,11 @@
     "url": "https://registry.npmjs.org/snapdragon-util/-/snapdragon-util-3.0.0.tgz",
     "narHash": "sha256-yW9JFYnzY7nAmWcPeeUYzHvsi9eSo0Shj8vfbhjO378="
   },
-  "3.0.1": null,
+  "3.0.1": {
+    "narHash": "sha256-o1KGS2sO7mQjZOzaUZ24TNUG+NzQLH9kAVBR8qNfcL4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/snapdragon-util/-/snapdragon-util-3.0.1.tgz"
+  },
   "4.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/snapdragon-util/-/snapdragon-util-4.0.0.tgz",

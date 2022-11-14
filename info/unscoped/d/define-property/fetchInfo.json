@@ -34,8 +34,16 @@
     "url": "https://registry.npmjs.org/define-property/-/define-property-0.2.3.tgz",
     "narHash": "sha256-asghC7B235rjek2Et1qoOFSIiqZezDbePpyaldXgeWk="
   },
-  "0.2.5": null,
-  "1.0.0": null,
+  "0.2.5": {
+    "narHash": "sha256-JKQmvrotGzN34kAMUn9DNwMPIoYz/nYfG0gG8hc1bGk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/define-property/-/define-property-0.2.5.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-EP0qyyw0bScGhvPtCBeE/vo/m/TraoD1sc9XRyKnogo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/define-property/-/define-property-1.0.0.tgz"
+  },
   "2.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/define-property/-/define-property-2.0.0.tgz",
@@ -46,5 +54,9 @@
     "url": "https://registry.npmjs.org/define-property/-/define-property-2.0.1.tgz",
     "narHash": "sha256-RlRMdPhcJys+6jyo3wPd+9m9wf8mmEpby+pUbG0xuiQ="
   },
-  "2.0.2": null
+  "2.0.2": {
+    "narHash": "sha256-C6AZSBzDfNXToXE8/l5zdIp9UWt+BpfcjPPjySdKARo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/define-property/-/define-property-2.0.2.tgz"
+  }
 }

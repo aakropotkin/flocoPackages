@@ -359,7 +359,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/qs/-/qs-6.10.5.tgz"
   },
-  "6.11.0": null,
+  "6.11.0": {
+    "narHash": "sha256-Tgg4CFsWaBIbHg6+zhiIJiQwB2P/fiERkR5JXCSRJ7U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/qs/-/qs-6.11.0.tgz"
+  },
   "6.2.0": {
     "narHash": "sha256-8J0vJXL/nn8FEjRSUmToX3cEpHoKZfbJstl6OitKh98=",
     "type": "tarball",

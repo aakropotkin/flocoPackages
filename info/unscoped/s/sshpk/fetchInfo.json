@@ -99,7 +99,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/sshpk/-/sshpk-1.16.1.tgz"
   },
-  "1.17.0": null,
+  "1.17.0": {
+    "narHash": "sha256-gFpJ4Rgq5LjKGrV8SttqCqeUN6nUCZD6d7tabAcGMN4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sshpk/-/sshpk-1.17.0.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-DRoV0ixLKkfgJoZlJgv0wcASv58bAEC5Vz8KaOKcbU8=",
     "type": "tarball",

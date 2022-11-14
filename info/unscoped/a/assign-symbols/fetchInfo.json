@@ -9,7 +9,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/assign-symbols/-/assign-symbols-0.1.1.tgz"
   },
-  "1.0.0": null,
+  "1.0.0": {
+    "narHash": "sha256-0HPW1l/lvJDzFILSnCHmqHN0rr0znGgX0nD4HXdy7KE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assign-symbols/-/assign-symbols-1.0.0.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-wXxww5gbjGhz3z8fElEfqx+j6MEmOG4/3Q/cdxh6em0=",
     "type": "tarball",

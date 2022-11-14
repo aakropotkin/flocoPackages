@@ -64,7 +64,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/findup-sync/-/findup-sync-2.0.0.tgz"
   },
-  "3.0.0": null,
+  "3.0.0": {
+    "narHash": "sha256-kGU2CC8MI4ENyQxuwpYP87yYXVbFHXWG573EGN5PBC0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/findup-sync/-/findup-sync-3.0.0.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-caGl5vQT3vG5qgkXXzEeVAsMdPc4aKPnUeMSN8U2nV8=",
     "type": "tarball",

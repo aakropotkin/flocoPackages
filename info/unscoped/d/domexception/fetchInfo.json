@@ -14,7 +14,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/domexception/-/domexception-2.0.0.tgz"
   },
-  "2.0.1": null,
+  "2.0.1": {
+    "narHash": "sha256-W3PRaKB9KrAErgzF+AMmcwWNI2qkuD/DzbkyL06RcaY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/domexception/-/domexception-2.0.1.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-BeLBpnLRuU1NP2f9YPYawU3XIcjs1T33aiwqVlYu09c=",
     "type": "tarball",

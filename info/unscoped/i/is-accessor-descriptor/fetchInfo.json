@@ -24,8 +24,16 @@
     "url": "https://registry.npmjs.org/is-accessor-descriptor/-/is-accessor-descriptor-0.1.5.tgz",
     "narHash": "sha256-5xUUb9f8pcgbeTQIMEeGJhbnYhQEACS7HTbE0ITaBdw="
   },
-  "0.1.6": null,
-  "1.0.0": null,
+  "0.1.6": {
+    "narHash": "sha256-6qoX3aQFUWJvyOp3MveM8/CBB/T0lUCLy12NdvNrquI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-accessor-descriptor/-/is-accessor-descriptor-0.1.6.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-vJvAJ8szdmV1k3ujo6Wkam6GK7zGfEuI4ldKaPnr1Yk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-accessor-descriptor/-/is-accessor-descriptor-1.0.0.tgz"
+  },
   "2.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-accessor-descriptor/-/is-accessor-descriptor-2.0.0.tgz",

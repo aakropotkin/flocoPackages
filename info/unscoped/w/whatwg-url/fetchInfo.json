@@ -174,7 +174,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/whatwg-url/-/whatwg-url-4.8.0.tgz"
   },
-  "5.0.0": null,
+  "5.0.0": {
+    "narHash": "sha256-GXbxi1vs/ypuwABnqV82s42jMh1mhmVR8gycudzD5vc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/whatwg-url/-/whatwg-url-5.0.0.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-7O/DQ/TWh0e0cT3CkA+wJdl+yvCh2SEMX8u7lOgdu1Q=",
     "type": "tarball",
@@ -275,7 +279,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/whatwg-url/-/whatwg-url-8.6.0.tgz"
   },
-  "8.7.0": null,
+  "8.7.0": {
+    "narHash": "sha256-edSE+gVaD0Ecy+6MMbiN82Idga984hxYkU4mpBuK8Ys=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/whatwg-url/-/whatwg-url-8.7.0.tgz"
+  },
   "9.0.0": {
     "narHash": "sha256-vt1FZDKBgny2F7zQ0/xbtRmUtAZzTiNpwUYCXqZ1+AY=",
     "type": "tarball",

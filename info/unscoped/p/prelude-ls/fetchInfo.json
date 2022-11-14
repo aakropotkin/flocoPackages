@@ -54,11 +54,19 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.1.1.tgz"
   },
-  "1.1.2": null,
+  "1.1.2": {
+    "narHash": "sha256-gMNYDzse9LGVfvNvpTLIqU/4IGG3nt8/i7jVyl4u+mc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.1.2.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-U/02A4tacvl7yG+iM87nvuXl1khd+RS8rxe903aIh5Q=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.2.0.tgz"
   },
-  "1.2.1": null
+  "1.2.1": {
+    "narHash": "sha256-jC9FXbfy9euuL95bO+VZT03+rR3CqpwVKxBmj5hSYls=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.2.1.tgz"
+  }
 }

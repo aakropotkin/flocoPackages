@@ -89,5 +89,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/lodash.isplainobject/-/lodash.isplainobject-4.0.5.tgz"
   },
-  "4.0.6": null
+  "4.0.6": {
+    "narHash": "sha256-NVOlH64tawZiNolvNv9AEpXLsL7B9zuqybDnCyaMZq4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz"
+  }
 }

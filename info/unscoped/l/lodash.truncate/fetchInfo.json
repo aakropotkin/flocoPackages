@@ -49,5 +49,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/lodash.truncate/-/lodash.truncate-4.4.1.tgz"
   },
-  "4.4.2": null
+  "4.4.2": {
+    "narHash": "sha256-gS9PInRAUo8xQNPVhWTpaZJu1GpPqew2t1yYyy5FonA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.truncate/-/lodash.truncate-4.4.2.tgz"
+  }
 }

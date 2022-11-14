@@ -84,7 +84,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/pino-std-serializers/-/pino-std-serializers-3.2.0.tgz"
   },
-  "4.0.0": null,
+  "4.0.0": {
+    "narHash": "sha256-0vc0wWqiJ9q5+34JnwRo+SbjQWk5F82zZmQY5WapdJ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pino-std-serializers/-/pino-std-serializers-4.0.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-8E6zxmY8bQLKEiaVtBhUs1mLET5/+wwJq/Xcvj1F9Ns=",
     "type": "tarball",

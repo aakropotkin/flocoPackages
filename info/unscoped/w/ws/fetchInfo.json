@@ -639,7 +639,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ws/-/ws-7.5.8.tgz"
   },
-  "7.5.9": null,
+  "7.5.9": {
+    "narHash": "sha256-AN2PKyDXMovvSznANyDAWaMK3AfxVSFzp3apPBpFyGY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ws/-/ws-7.5.9.tgz"
+  },
   "8.0.0": {
     "narHash": "sha256-caKsDQlH9e7GkViGWKSOru8trzj5blbkFizFL6eQ/x8=",
     "type": "tarball",

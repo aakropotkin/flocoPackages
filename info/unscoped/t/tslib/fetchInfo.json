@@ -44,7 +44,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tslib/-/tslib-1.14.0.tgz"
   },
-  "1.14.1": null,
+  "1.14.1": {
+    "narHash": "sha256-7y4Tt/r8MTDqLmGZXj/Drd0crGnXs+XXwT5QcgjdzPI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-UwenzqhPUkGTryz/6KlSwd5NQsKBnqwQ2gyETYBF3Zo=",
     "type": "tarball",
@@ -160,5 +164,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tslib/-/tslib-2.4.0.tgz"
   },
-  "2.4.1": null
+  "2.4.1": {
+    "narHash": "sha256-FiwE6rSizwP7OFdFC9X61Ehx99M5L7q4N2o2IRm4MVM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tslib/-/tslib-2.4.1.tgz"
+  }
 }

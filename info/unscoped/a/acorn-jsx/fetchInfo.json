@@ -99,5 +99,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.1.tgz"
   },
-  "5.3.2": null
+  "5.3.2": {
+    "narHash": "sha256-AleG2zYzv9doV8blgXmOhx7ExOUJ+0hofIUgxOID8Q8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
+  }
 }

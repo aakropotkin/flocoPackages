@@ -59,5 +59,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-4.2.1.tgz"
   },
-  "4.3.0": null
+  "4.3.0": {
+    "narHash": "sha256-L2yCPwe2ilGsbvyZlJ+BZPHW5GTO7tz1uJwtojcSr9Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esrecurse/-/esrecurse-4.3.0.tgz"
+  }
 }

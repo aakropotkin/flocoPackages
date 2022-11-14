@@ -149,7 +149,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tsconfig-paths/-/tsconfig-paths-3.14.0.tgz"
   },
-  "3.14.1": null,
+  "3.14.1": {
+    "narHash": "sha256-wHD5trCRSD2A79D0AvK+H42agr/RehYzqcnVHjoTj+8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tsconfig-paths/-/tsconfig-paths-3.14.1.tgz"
+  },
   "3.2.0": {
     "narHash": "sha256-SwYsVF6kjuEe2Tw+hmqDGUnzPPV3K5jIrrctd6+3+iA=",
     "type": "tarball",

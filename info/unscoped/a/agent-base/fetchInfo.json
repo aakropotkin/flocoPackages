@@ -109,5 +109,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/agent-base/-/agent-base-6.0.1.tgz"
   },
-  "6.0.2": null
+  "6.0.2": {
+    "narHash": "sha256-AQld7XJmKIUaV57uNtAsbtxHDp/V8psPWC/xn8srfhE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/agent-base/-/agent-base-6.0.2.tgz"
+  }
 }

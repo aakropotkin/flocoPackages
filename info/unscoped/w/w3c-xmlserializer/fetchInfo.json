@@ -39,7 +39,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/w3c-xmlserializer/-/w3c-xmlserializer-1.1.2.tgz"
   },
-  "2.0.0": null,
+  "2.0.0": {
+    "narHash": "sha256-wDAqk82w+93qgEHgYGS/7ab8YU00TZ6t6fN6JGG2OyI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/w3c-xmlserializer/-/w3c-xmlserializer-2.0.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-DB+AjBjk12iSvUHabseVuwFni5nb7iLnGsACLhEQkj0=",
     "type": "tarball",

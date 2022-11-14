@@ -234,7 +234,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.1.tgz"
   },
-  "3.1.2": null,
+  "3.1.2": {
+    "narHash": "sha256-lngTO0Bk/Spf3t/zG5/j7C2STufjXWF5DlmKjvj1M8s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.2.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-pz/xPP3JC4kTIZsv4oRATCOMeNvMvsfrrxXsBqb/MV4=",
     "type": "tarball",
@@ -255,7 +259,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/minimatch/-/minimatch-4.2.0.tgz"
   },
-  "4.2.1": null,
+  "4.2.1": {
+    "narHash": "sha256-Uu5p39dWsCZx+d7xB48i3EZgK52b0yV0m0DZM7y7Kyw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/minimatch/-/minimatch-4.2.1.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-ndHsH5lJ2+voihHaKo5fVNsytqZPr5O8NtUh8jqmgFQ=",
     "type": "tarball",

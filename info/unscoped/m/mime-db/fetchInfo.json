@@ -274,7 +274,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/mime-db/-/mime-db-1.51.0.tgz"
   },
-  "1.52.0": null,
+  "1.52.0": {
+    "narHash": "sha256-NWkhw5USnQpCVdzynhDEG/VbDLOdjy0JtGgopd89jr8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mime-db/-/mime-db-1.52.0.tgz"
+  },
   "1.6.0": {
     "narHash": "sha256-r3wkio+c7n1iWbC9sI2F36DERahMj2adu6A1eD/Oh94=",
     "type": "tarball",

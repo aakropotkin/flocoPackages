@@ -54,5 +54,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.2.tgz"
   },
-  "21.0.0": null
+  "21.0.0": {
+    "narHash": "sha256-5Eay5eyC90EFhvTlSqGxOTHiYHfZAKJVd58oLhEvv04=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-21.0.0.tgz"
+  }
 }

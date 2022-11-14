@@ -59,7 +59,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-8.0.1.tgz"
   },
-  "8.1.0": null,
+  "8.1.0": {
+    "narHash": "sha256-6r888R8wBBmDqT0mam4x92hIvQba2tcGJIaBYU9qm1A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-8.1.0.tgz"
+  },
   "9.0.0": {
     "narHash": "sha256-By0x/yRnXQpY0JhkqBlMCgymK+ZxHe+WU0UfOLaokpw=",
     "type": "tarball",
@@ -75,5 +79,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-9.1.1.tgz"
   },
-  "9.1.2": null
+  "9.1.2": {
+    "narHash": "sha256-+8qsGcGe/1LHaB+YsE4pombIhEFmYCrbJ0nCdje9Z5k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-9.1.2.tgz"
+  }
 }

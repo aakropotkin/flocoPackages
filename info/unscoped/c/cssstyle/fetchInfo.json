@@ -234,5 +234,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/cssstyle/-/cssstyle-2.2.0.tgz"
   },
-  "2.3.0": null
+  "2.3.0": {
+    "narHash": "sha256-CnWC2AaInFNY6iQiWdDf+A7x1S7BLpcBJnguiYvdE+M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cssstyle/-/cssstyle-2.3.0.tgz"
+  }
 }

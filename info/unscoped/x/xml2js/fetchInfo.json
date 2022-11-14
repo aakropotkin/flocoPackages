@@ -194,7 +194,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/xml2js/-/xml2js-0.4.22.tgz"
   },
-  "0.4.23": null,
+  "0.4.23": {
+    "narHash": "sha256-V7YxUJLb1PWoXJG8d5GYA10p8F7Lc/1kklJ+CuVnCZA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xml2js/-/xml2js-0.4.23.tgz"
+  },
   "0.4.3": {
     "narHash": "sha256-nYBvAg7gGMdMe47YFf3FzlPzDuapMuVAhfdszPHFpn8=",
     "type": "tarball",

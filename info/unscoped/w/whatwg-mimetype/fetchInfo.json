@@ -19,7 +19,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/whatwg-mimetype/-/whatwg-mimetype-2.2.0.tgz"
   },
-  "2.3.0": null,
+  "2.3.0": {
+    "narHash": "sha256-pfj2ExLAH+gXIFz3zn4uI/Q/YBTB8bRCyu/UlLlEbqY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/whatwg-mimetype/-/whatwg-mimetype-2.3.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-bQRXXBNUi75IfVYgHD20dm08VVjtX8I59kVgF86wUvU=",
     "type": "tarball",

@@ -34,13 +34,21 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/isobject/-/isobject-2.0.0.tgz"
   },
-  "2.1.0": null,
+  "2.1.0": {
+    "narHash": "sha256-FcJ6shT4owGFSFlyhBUtxcLgbvlaovz2JSWSLf0+vG8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/isobject/-/isobject-2.1.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-ago8dTJXUPcoxyWprc3ZVg9qHQN/PGW/CpVabtpAAFs=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/isobject/-/isobject-3.0.0.tgz"
   },
-  "3.0.1": null,
+  "3.0.1": {
+    "narHash": "sha256-9BvmvB6upW/lzT2RVapZS1bMdEKFO4stN29WY0wIX2g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/isobject/-/isobject-3.0.1.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-1IDuNhAoHGmu4CqwqQ6rfPogvjrhHSoIhteemz12bi4=",
     "type": "tarball",

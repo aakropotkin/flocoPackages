@@ -24,7 +24,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@js-joda/core/-/core-3.1.0.tgz"
   },
-  "3.2.0": null,
+  "3.2.0": {
+    "narHash": "sha256-T+t8NNt4lAq3XCAG5t5HNarn+p0woTNpeD/BI3ZHVQw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@js-joda/core/-/core-3.2.0.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-Lb79dIaRHqzM8lLpYLQ9iLblI4l28y6/P1zmK1AB2tQ=",
     "type": "tarball",

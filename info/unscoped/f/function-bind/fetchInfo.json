@@ -19,5 +19,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.0.tgz"
   },
-  "1.1.1": null
+  "1.1.1": {
+    "narHash": "sha256-9SZTeDBJ87ogdiEHyC3b2/wr1Bv8qb8rCJeD+OYvf9A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz"
+  }
 }

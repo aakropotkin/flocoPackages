@@ -109,5 +109,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/base64-js/-/base64-js-1.5.0.tgz"
   },
-  "1.5.1": null
+  "1.5.1": {
+    "narHash": "sha256-LZGj7J4BbIJL9l6ECGOwv/mtGWvPNoNs9F+RrJUH9Ds=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/base64-js/-/base64-js-1.5.1.tgz"
+  }
 }

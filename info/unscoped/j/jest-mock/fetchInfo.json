@@ -439,7 +439,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-mock/-/jest-mock-27.5.0.tgz"
   },
-  "27.5.1": null,
+  "27.5.1": {
+    "narHash": "sha256-zpDYzW1kOV/Xyh9drZDghwa4grhw4A8dxNLzQ+DlSwA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-mock/-/jest-mock-27.5.1.tgz"
+  },
   "28.0.0": {
     "narHash": "sha256-3+xnT9XY8PNO0zuY2Tw1HeRQicc5ukBWchguHqKsv8g=",
     "type": "tarball",
@@ -465,7 +469,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-mock/-/jest-mock-28.1.1.tgz"
   },
-  "28.1.3": null,
+  "28.1.3": {
+    "narHash": "sha256-EPKLvLBsVkpeF+5uAQSJpTJlcQMlrr4CgIsT7WdVbws=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-mock/-/jest-mock-28.1.3.tgz"
+  },
   "29.0.0": {
     "narHash": "sha256-unCYsTOfa+4X/SslJ+joqHd12lFQBWFnId67Nx6Vr+I=",
     "type": "tarball",
@@ -521,5 +529,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-mock/-/jest-mock-9.0.3.tgz"
   },
-  "29.3.1": null
+  "29.3.1": {
+    "narHash": "sha256-ncw5F3kftHcGLduE8yblp4EFZcUbC/MW6oaEKrSFsxM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-mock/-/jest-mock-29.3.1.tgz"
+  }
 }

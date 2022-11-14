@@ -19,13 +19,21 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-1.2.0.tgz"
   },
-  "1.3.0": null,
+  "1.3.0": {
+    "narHash": "sha256-d89WfZu0vHRt2CGts2Ib+ID+dZoPBXZBKDpBgtCR/o0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-1.3.0.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-/STuf32H6R/VpXshjOZUr4EuZ9CXS9oDgL+8f0Olu9U=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-2.0.0.tgz"
   },
-  "2.1.0": null,
+  "2.1.0": {
+    "narHash": "sha256-SLnl03m6xlscb7UNR5qB0LxbDVpZPiFquDy/QN7UGLs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-2.1.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-YbC1ijCflJAJRhtrsSRLhVZ9MQ9NPgWqWhHyglQRgqI=",
     "type": "tarball",
@@ -41,5 +49,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-3.2.0.tgz"
   },
-  "3.3.0": null
+  "3.3.0": {
+    "narHash": "sha256-TwCGTGNIypqdMstj8xDbkKQ958eKA3Xyu+tiPN1Z8ug=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-3.3.0.tgz"
+  }
 }

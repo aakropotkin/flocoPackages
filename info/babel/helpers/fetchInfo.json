@@ -194,7 +194,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@babel/helpers/-/helpers-7.20.0.tgz"
   },
-  "7.20.1": null,
+  "7.20.1": {
+    "narHash": "sha256-SpqAz1fmlAH81xm0xK2/BsUiIKKqZ6KR7B44KaQYCog=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/helpers/-/helpers-7.20.1.tgz"
+  },
   "7.3.0": {
     "narHash": "sha256-DXAJLvnbXDwWgUyg063oIxCsh4Z0jClaK0NT7tKV/PU=",
     "type": "tarball",

@@ -419,5 +419,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/table/-/table-6.8.0.tgz"
   },
-  "6.8.1": null
+  "6.8.1": {
+    "narHash": "sha256-ESk/GexwTbVmOMnfywbi0iUL2TtagoOEdv5zIWTCshk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/table/-/table-6.8.1.tgz"
+  }
 }

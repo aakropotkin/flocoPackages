@@ -224,5 +224,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/psl/-/psl-1.8.0.tgz"
   },
-  "1.9.0": null
+  "1.9.0": {
+    "narHash": "sha256-SQEgNmCnR3qw1cvFd2eKgrB1uGfKBWnX0t6hagMtNb8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/psl/-/psl-1.9.0.tgz"
+  }
 }

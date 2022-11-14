@@ -314,7 +314,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ignore/-/ignore-4.0.5.tgz"
   },
-  "4.0.6": null,
+  "4.0.6": {
+    "narHash": "sha256-C/HSzZg4hu+NAZ8sUp/dJkQN3/FqhGopPBntgVcryy0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ignore/-/ignore-4.0.6.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-CW+I0OtV/aYcBdQh/yNUMoWZncKSGpQSuRTFa2UAQxM=",
     "type": "tarball",
@@ -400,5 +404,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ignore/-/ignore-5.1.9.tgz"
   },
-  "5.2.0": null
+  "5.2.0": {
+    "narHash": "sha256-8VT+gt+1YpYKQgxJkQilNJ6jFeXvrlGCxt9V3E4S1kQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ignore/-/ignore-5.2.0.tgz"
+  }
 }

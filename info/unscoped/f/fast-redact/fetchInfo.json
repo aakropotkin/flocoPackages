@@ -159,5 +159,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/fast-redact/-/fast-redact-3.1.1.tgz"
   },
-  "3.1.2": null
+  "3.1.2": {
+    "narHash": "sha256-NkbM/WdiTbSTf1uBG+9r71rVIRM08JjXBvHi7whJdGY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-redact/-/fast-redact-3.1.2.tgz"
+  }
 }

@@ -139,7 +139,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/estraverse/-/estraverse-4.2.0.tgz"
   },
-  "4.3.0": null,
+  "4.3.0": {
+    "narHash": "sha256-ekB0YUgzdakntluHF3FoHv9+GZr7QJEua1FF32TYBaQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/estraverse/-/estraverse-4.3.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-jv1ocWLzlYe5fYCxGPSjRMlm25aP0UyAiJDOddPy/AE=",
     "type": "tarball",
@@ -155,5 +159,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/estraverse/-/estraverse-5.2.0.tgz"
   },
-  "5.3.0": null
+  "5.3.0": {
+    "narHash": "sha256-Vb6OEwicNHaYjRSLyES24y4OJtyPPb/7ecZpH6ZOGFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/estraverse/-/estraverse-5.3.0.tgz"
+  }
 }

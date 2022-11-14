@@ -119,7 +119,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jest-serializer/-/jest-serializer-27.5.0.tgz"
   },
-  "27.5.1": null,
+  "27.5.1": {
+    "narHash": "sha256-W8kCaX8a0hz60rhIxTvnFUzr3V3rdho2QSMLByUwmu4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jest-serializer/-/jest-serializer-27.5.1.tgz"
+  },
   "28.0.0": {
     "narHash": "sha256-XiYBYaUP9hQBdMe1rltvQe3A3v8oIUP/yUa9UwA2yqI=",
     "type": "tarball",

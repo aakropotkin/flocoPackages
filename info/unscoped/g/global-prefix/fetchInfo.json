@@ -39,6 +39,14 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/global-prefix/-/global-prefix-1.0.1.tgz"
   },
-  "1.0.2": null,
-  "3.0.0": null
+  "1.0.2": {
+    "narHash": "sha256-mrK/zB35GoEY66Hs+lwPmAemDwPChvEnD2uQdZYjGXI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/global-prefix/-/global-prefix-1.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-Zk6jkADnreFCCuKX8QWw0hQ6IaCUUjwo+pxoHtPrF8g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/global-prefix/-/global-prefix-3.0.0.tgz"
+  }
 }

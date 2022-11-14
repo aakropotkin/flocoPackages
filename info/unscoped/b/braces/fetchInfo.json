@@ -159,7 +159,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/braces/-/braces-2.3.1.tgz"
   },
-  "2.3.2": null,
+  "2.3.2": {
+    "narHash": "sha256-t/YqZaoaOClNvpMPsVWI90uo4CLdwOTrq3Z2t2YSvfU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/braces/-/braces-2.3.2.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-W1ngFzAf/458Pl0Bo286uN4HVqvFgKGl+8nj6a263yU=",
     "type": "tarball",
@@ -170,5 +174,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/braces/-/braces-3.0.1.tgz"
   },
-  "3.0.2": null
+  "3.0.2": {
+    "narHash": "sha256-x3Cs+dWp0z2CXH2OaHCHtF2aWMrrV5/kFWM4+JCkcZ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/braces/-/braces-3.0.2.tgz"
+  }
 }

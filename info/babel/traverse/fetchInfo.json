@@ -314,7 +314,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@babel/traverse/-/traverse-7.20.0.tgz"
   },
-  "7.20.1": null,
+  "7.20.1": {
+    "narHash": "sha256-q5zhrZYGf89V9OWAcUSqHYqrAIBKGrWRn0/Xv+mcUvk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/traverse/-/traverse-7.20.1.tgz"
+  },
   "7.3.4": {
     "narHash": "sha256-19Gwh90gkz2YvXw5VFQzxjDtgPEbATX7lkBYTcPZ18Y=",
     "type": "tarball",

@@ -64,7 +64,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/thread-stream/-/thread-stream-0.15.1.tgz"
   },
-  "0.15.2": null,
+  "0.15.2": {
+    "narHash": "sha256-Y/uFNlIZ+zxUv7N3YP/bIey914HhAstw3cM2cxUfzPc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/thread-stream/-/thread-stream-0.15.2.tgz"
+  },
   "0.2.0": {
     "narHash": "sha256-ZQ1xOF/VXnZt4HDvIlIjb3xCxkGDY+Rgv4pNBb2iwv0=",
     "type": "tarball",

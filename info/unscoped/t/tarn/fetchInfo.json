@@ -79,5 +79,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tarn/-/tarn-3.0.1.tgz"
   },
-  "3.0.2": null
+  "3.0.2": {
+    "narHash": "sha256-u5dNIbCC7JjF8M3L7+6oITBI4HlaoD2F20EDWOZXtsg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tarn/-/tarn-3.0.2.tgz"
+  }
 }

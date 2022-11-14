@@ -49,5 +49,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.2.tgz"
   },
-  "1.2.3": null
+  "1.2.3": {
+    "narHash": "sha256-toA5eXCuEXuopI11sr2erVOgFPTNlS3krZO/l7Ob2CQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
+  }
 }

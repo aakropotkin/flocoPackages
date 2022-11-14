@@ -119,5 +119,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/https-proxy-agent/-/https-proxy-agent-5.0.0.tgz"
   },
-  "5.0.1": null
+  "5.0.1": {
+    "narHash": "sha256-02M71F+3Y2l1gbLk9upzpL6IU7T0t6cbtIgaQzGFQW8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/https-proxy-agent/-/https-proxy-agent-5.0.1.tgz"
+  }
 }

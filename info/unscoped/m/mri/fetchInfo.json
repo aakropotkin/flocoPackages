@@ -29,7 +29,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/mri/-/mri-1.1.3.tgz"
   },
-  "1.1.4": null,
+  "1.1.4": {
+    "narHash": "sha256-bxNoOXp/ZAMwbvhJ9clPPBMOaoONv8qCp5WkS9OUjsA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mri/-/mri-1.1.4.tgz"
+  },
   "1.1.5": {
     "narHash": "sha256-a0wVElYeCn066pWIayVFLLYZcfFvEZCiZU7O+BFtycI=",
     "type": "tarball",

@@ -44,5 +44,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/abort-controller/-/abort-controller-2.0.3.tgz"
   },
-  "3.0.0": null
+  "3.0.0": {
+    "narHash": "sha256-8iDKo2rTwnYtzjP8LMIiR+7lAZz33Lwm1eMIZUf1KfU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/abort-controller/-/abort-controller-3.0.0.tgz"
+  }
 }

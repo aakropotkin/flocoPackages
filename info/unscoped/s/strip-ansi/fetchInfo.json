@@ -69,13 +69,21 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-5.1.0.tgz"
   },
-  "5.2.0": null,
+  "5.2.0": {
+    "narHash": "sha256-xzVmJ+x0+UFKJiSC8NbbDS2e0k7xXYsysF1aO5GZvKc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-5.2.0.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-K5BvgFe3qp2OMmoxpJnq0A3mdQMIJFPbXQpXRs1+LVg=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.0.tgz"
   },
-  "6.0.1": null,
+  "6.0.1": {
+    "narHash": "sha256-mMRzEL6fWJXYmQ2ZhRAhnYMcjdNCfvGF3Y7NekoLgXc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz"
+  },
   "7.0.0": {
     "narHash": "sha256-xay6AcYTSnO3znMM5D5JTLLCar5bup6wWfIULCXXOks=",
     "type": "tarball",

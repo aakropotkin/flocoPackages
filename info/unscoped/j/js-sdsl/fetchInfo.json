@@ -174,13 +174,21 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/js-sdsl/-/js-sdsl-4.1.3.tgz"
   },
-  "4.1.4": null,
+  "4.1.4": {
+    "narHash": "sha256-tAmkiIRHk1jehJs3CKftTN4BosO7mopnNSVt5cQj75Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js-sdsl/-/js-sdsl-4.1.4.tgz"
+  },
   "4.1.4-beta.0": {
     "narHash": "sha256-R2ZOpr2bnTqKWOuhI5nz5cw0Z6SA+OZLHNzWFoW+oRM=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/js-sdsl/-/js-sdsl-4.1.4-beta.0.tgz"
   },
-  "4.1.5": null,
+  "4.1.5": {
+    "narHash": "sha256-Hg2r5dDWf4W/D4HdN67UCpqGMVYoe3se3szTLw3XGeM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js-sdsl/-/js-sdsl-4.1.5.tgz"
+  },
   "4.1.5-beta.0": {
     "narHash": "sha256-3vb6F3bqKgikjlueg8FgkNQ0ReycUnHKNXQAu6RCz+g=",
     "type": "tarball",

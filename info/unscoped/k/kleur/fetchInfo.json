@@ -49,7 +49,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/kleur/-/kleur-3.0.2.tgz"
   },
-  "3.0.3": null,
+  "3.0.3": {
+    "narHash": "sha256-331h8iP1Kf/G4bGdKQ1BteYEr9bGbLjpTi7bB0kG0ks=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/kleur/-/kleur-3.0.3.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-iiOQSrIJkWi/nWxbMUyBxvYiP768yNMflusuDAZZjVw=",
     "type": "tarball",

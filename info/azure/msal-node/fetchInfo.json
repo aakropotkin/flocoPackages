@@ -124,5 +124,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@azure/msal-node/-/msal-node-1.9.1.tgz"
   },
-  "1.0.0-beta.6": null
+  "1.0.0-beta.6": {
+    "narHash": "sha256-BzjQFz/OBYo88O7pNzUz1JeQiD5rYOl7WvOQyzdY44Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/msal-node/-/msal-node-1.0.0-beta.6.tgz"
+  }
 }

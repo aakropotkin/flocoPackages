@@ -104,7 +104,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/saxes/-/saxes-5.0.0.tgz"
   },
-  "5.0.1": null,
+  "5.0.1": {
+    "narHash": "sha256-suHyrooPLHxI00PciE6rDS9lr68wzP+h1lm1E+OmQy4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/saxes/-/saxes-5.0.1.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-H3wsRr6fcz173oGj12OT24TDwjcNWoAKTz4AxW8t05c=",
     "type": "tarball",

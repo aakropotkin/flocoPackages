@@ -69,5 +69,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/end-of-stream/-/end-of-stream-1.4.3.tgz"
   },
-  "1.4.4": null
+  "1.4.4": {
+    "narHash": "sha256-DoZb+q1+jRXeFeejb2j6KVLM/pFXGVWa+ZR3+3MDSbo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/end-of-stream/-/end-of-stream-1.4.4.tgz"
+  }
 }

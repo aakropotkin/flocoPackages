@@ -64,7 +64,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/camelcase/-/camelcase-4.1.0.tgz"
   },
-  "5.0.0": null,
+  "5.0.0": {
+    "narHash": "sha256-xcXWQgluecltVCUvjs5jEKsUvKJLWWyuZV1Ay6gBZJ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelcase/-/camelcase-5.0.0.tgz"
+  },
   "5.1.0": {
     "narHash": "sha256-0Fqo8N2u49m1OpaSS50jbMJEGsVrVyGevXFzNX8O7Lg=",
     "type": "tarball",
@@ -80,7 +84,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/camelcase/-/camelcase-5.3.0.tgz"
   },
-  "5.3.1": null,
+  "5.3.1": {
+    "narHash": "sha256-SEQ2na3HtClyAEqDAyp5jKNnb4w4Awuf57CZv7D5EOo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelcase/-/camelcase-5.3.1.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-a34/Ul9dW9oNFf+ygpGEqjIp3hIk7aw21pOaZiboCoQ=",
     "type": "tarball",
@@ -101,7 +109,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/camelcase/-/camelcase-6.2.1.tgz"
   },
-  "6.3.0": null,
+  "6.3.0": {
+    "narHash": "sha256-nIBs7h+GPjWl7L83JokvFCEP7ICrLUwBcyEbtZYRbdw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelcase/-/camelcase-6.3.0.tgz"
+  },
   "7.0.0": {
     "narHash": "sha256-E21FeXlbA7xpDn7qa5HsiGZRethz8kBLHxU8o6h4o78=",
     "type": "tarball",

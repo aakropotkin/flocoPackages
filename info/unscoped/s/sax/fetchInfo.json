@@ -219,5 +219,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/sax/-/sax-1.2.3.tgz"
   },
-  "1.2.4": null
+  "1.2.4": {
+    "narHash": "sha256-4a4vr/6lWbqB09AZQDJacCODN1ep+KgXyA/YEsovuoY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sax/-/sax-1.2.4.tgz"
+  }
 }

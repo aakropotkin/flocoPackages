@@ -39,7 +39,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/log-symbols/-/log-symbols-4.0.0.tgz"
   },
-  "4.1.0": null,
+  "4.1.0": {
+    "narHash": "sha256-fH4dN2b1hnRfYFAh9kk6+OOmtJ+c42yzr0xuNpUYrOQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/log-symbols/-/log-symbols-4.1.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-qwb2E8/2iF0KmkAPmMxTFOypnNDRbvc28kliGVL8GRA=",
     "type": "tarball",

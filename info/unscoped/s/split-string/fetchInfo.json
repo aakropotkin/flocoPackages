@@ -49,7 +49,11 @@
     "url": "https://registry.npmjs.org/split-string/-/split-string-3.0.2.tgz",
     "narHash": "sha256-L/j/UP5pmk3twko6cYB/JQN5KHYKi10YVfdSHqAJZ/g="
   },
-  "3.1.0": null,
+  "3.1.0": {
+    "narHash": "sha256-xL67GqCh5RFfudE5SQQPrAApqLTTrz55BxjxO7weoa4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/split-string/-/split-string-3.1.0.tgz"
+  },
   "4.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/split-string/-/split-string-4.0.0.tgz",

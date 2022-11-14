@@ -64,7 +64,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/dashdash/-/dashdash-1.14.0.tgz"
   },
-  "1.14.1": null,
+  "1.14.1": {
+    "narHash": "sha256-kR/UG43nguRG4uqv3YbhysWG8Ms+Tg/yPnceaRLPPVY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dashdash/-/dashdash-1.14.1.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-fNl5ZFdZuOwluWVQKexpYK7Wz0yoKnToZuBijEnSNYw=",
     "type": "tarball",

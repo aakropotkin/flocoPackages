@@ -19,7 +19,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.13.tgz"
   },
-  "1.4.14": null,
+  "1.4.14": {
+    "narHash": "sha256-7F2YWRn9nvp2Il2EJvymCsvK2CgVu/MTDTvCL6o0K1I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz"
+  },
   "1.4.9": {
     "narHash": "sha256-KE+V/ovlOQE1JYqQWMbjtgrxUJcalSVaXQIebBLRJTY=",
     "type": "tarball",

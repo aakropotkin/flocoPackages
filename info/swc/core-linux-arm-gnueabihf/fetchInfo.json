@@ -949,7 +949,11 @@
     "url": "https://registry.npmjs.org/@swc/core-linux-arm-gnueabihf/-/core-linux-arm-gnueabihf-1.3.13.tgz",
     "narHash": "sha256-EhXIvIZWcgsRxn6jJDPpXLQ8mHb6KmKHjlTNExGO54s="
   },
-  "1.3.14": null,
+  "1.3.14": {
+    "narHash": "sha256-q6lLwiMK9i7QSQXvGLpQiSsyKnMKjsFOtezLVHD7LDI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm-gnueabihf/-/core-linux-arm-gnueabihf-1.3.14.tgz"
+  },
   "1.3.2": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/@swc/core-linux-arm-gnueabihf/-/core-linux-arm-gnueabihf-1.3.2.tgz",

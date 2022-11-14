@@ -19,7 +19,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/decamelize/-/decamelize-1.1.2.tgz"
   },
-  "1.2.0": null,
+  "1.2.0": {
+    "narHash": "sha256-G8OX5wV0xknHqDgEaZaTWrtgh6GZ7kMs/ZjFdPgOB5k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decamelize/-/decamelize-1.2.0.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-Mo5CMaEfnqrQnCqkcrpEQeMR3V6/PVAs4VWgPhAwn74=",
     "type": "tarball",
@@ -45,7 +49,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/decamelize/-/decamelize-3.2.0.tgz"
   },
-  "4.0.0": null,
+  "4.0.0": {
+    "narHash": "sha256-BN+w0EfrQqGY9/uLZc5eAtxdIKj2/BZxTCUWi491lyI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decamelize/-/decamelize-4.0.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-29KjEemITzTirtVz+RtX+IUcFV2+Ck8/8MqLRlDEWfc=",
     "type": "tarball",

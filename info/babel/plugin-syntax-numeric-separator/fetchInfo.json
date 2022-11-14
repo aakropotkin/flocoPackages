@@ -9,7 +9,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@babel/plugin-syntax-numeric-separator/-/plugin-syntax-numeric-separator-7.10.1.tgz"
   },
-  "7.10.4": null,
+  "7.10.4": {
+    "narHash": "sha256-m07GEQy/cmBs4IoKArDhvzx/kiCaA1pBPeg1hn04/X4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-numeric-separator/-/plugin-syntax-numeric-separator-7.10.4.tgz"
+  },
   "7.2.0": {
     "narHash": "sha256-YA+9/df5H+F2vdA3AuK5rbn8m1iaDySM+3k9oY/a7Dw=",
     "type": "tarball",

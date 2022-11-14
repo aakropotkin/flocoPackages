@@ -109,7 +109,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jsbi/-/jsbi-3.2.4.tgz"
   },
-  "3.2.5": null,
+  "3.2.5": {
+    "narHash": "sha256-F72uRCYIO3CGFg9na1ZNWquaIK+YxyQ2KO/5MOl9VmA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jsbi/-/jsbi-3.2.5.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-phyOt48Vg2KjzfQ7xJnc71cmIdGI0hd02lzmMe7xmK0=",
     "type": "tarball",

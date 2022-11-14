@@ -134,7 +134,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/dateformat/-/dateformat-4.6.2.tgz"
   },
-  "4.6.3": null,
+  "4.6.3": {
+    "narHash": "sha256-36yx62guJbuiyvZUobS+0mixDMU+xs0B0sQPCzY5C2w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/dateformat/-/dateformat-4.6.3.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-ogzS+r4TqeDkHTEOKLmxjZfIhf9kB8ckzrmC00PQasc=",
     "type": "tarball",

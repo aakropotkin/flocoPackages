@@ -69,5 +69,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/yargs-unparser/-/yargs-unparser-1.6.4.tgz"
   },
-  "2.0.0": null
+  "2.0.0": {
+    "narHash": "sha256-ehc+zG134sU5x9q5Mr2WcpEfAEKn8ffUkU438BFrjHo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yargs-unparser/-/yargs-unparser-2.0.0.tgz"
+  }
 }

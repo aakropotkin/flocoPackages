@@ -14,5 +14,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/asynckit/-/asynckit-0.3.0.tgz"
   },
-  "0.4.0": null
+  "0.4.0": {
+    "narHash": "sha256-ySX1KUru2VwlCX4xMQynwHNOtbX8yyqtirHD2ILEuyc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz"
+  }
 }

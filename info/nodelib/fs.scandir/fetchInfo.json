@@ -74,5 +74,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.4.tgz"
   },
-  "2.1.5": null
+  "2.1.5": {
+    "narHash": "sha256-XkaO6o9trImz7QHxNe8P0l09Kmn8rsFIP5W/s1+HV7w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"
+  }
 }

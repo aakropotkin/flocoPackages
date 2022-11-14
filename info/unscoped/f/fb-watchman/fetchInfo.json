@@ -79,5 +79,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/fb-watchman/-/fb-watchman-2.0.1.tgz"
   },
-  "2.0.2": null
+  "2.0.2": {
+    "narHash": "sha256-Kj2gr0cIacdte4HN/EIVHEB+ijMg60KZ0yo+Rbo93kE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fb-watchman/-/fb-watchman-2.0.2.tgz"
+  }
 }

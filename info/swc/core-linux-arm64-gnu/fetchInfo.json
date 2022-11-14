@@ -949,7 +949,11 @@
     "url": "https://registry.npmjs.org/@swc/core-linux-arm64-gnu/-/core-linux-arm64-gnu-1.3.13.tgz",
     "narHash": "sha256-U40ARdhGC5qWWCZPmYgYJlD68qyrain26rEYPb+wkq8="
   },
-  "1.3.14": null,
+  "1.3.14": {
+    "narHash": "sha256-fhW0lWM81tWSwQI4mFNP+Pao6epafCcuMe/KeC7NX/Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@swc/core-linux-arm64-gnu/-/core-linux-arm64-gnu-1.3.14.tgz"
+  },
   "1.3.2": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/@swc/core-linux-arm64-gnu/-/core-linux-arm64-gnu-1.3.2.tgz",

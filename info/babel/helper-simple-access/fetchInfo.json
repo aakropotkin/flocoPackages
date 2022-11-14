@@ -79,7 +79,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@babel/helper-simple-access/-/helper-simple-access-7.19.4.tgz"
   },
-  "7.20.2": null,
+  "7.20.2": {
+    "narHash": "sha256-b392PPfLcHu84mcT9ro39qlbEngz1SiPZ5hEjKNumg4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/helper-simple-access/-/helper-simple-access-7.20.2.tgz"
+  },
   "7.7.0": {
     "narHash": "sha256-zMT05cUSY3qcU37wD1vrXSrQSbr9W+Dl7BGrqwvf3Ec=",
     "type": "tarball",

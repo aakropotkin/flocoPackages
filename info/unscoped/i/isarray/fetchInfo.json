@@ -9,7 +9,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz"
   },
-  "1.0.0": null,
+  "1.0.0": {
+    "narHash": "sha256-MgGyCOqRFUXaO8KLEId+Y33InKHReFgmLkbofWbfhgA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/isarray/-/isarray-1.0.0.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-Fh6IMVSKqQlyBmxZ25XVHZmZZse9xBlBdOeVDWLmO+s=",
     "type": "tarball",

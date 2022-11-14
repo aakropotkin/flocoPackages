@@ -624,7 +624,11 @@
     "url": "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.53.tgz",
     "narHash": "sha256-MGbrVP5ZUZYvAgT+mVC+Er9Vfcgqw/H9PEnfKG0NjMA="
   },
-  "0.14.54": null,
+  "0.14.54": {
+    "narHash": "sha256-q/gaWtLMC+i/N6sXUYoLAXxf1LvwmbhLJIgnII79g5k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.54.tgz"
+  },
   "0.14.6": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.6.tgz",

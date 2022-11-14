@@ -104,7 +104,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/object-inspect/-/object-inspect-1.12.1.tgz"
   },
-  "1.12.2": null,
+  "1.12.2": {
+    "narHash": "sha256-RLt/9FKyyIWMUO14sdqrmRzvhBP7RZDmtFvK/lniikM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-inspect/-/object-inspect-1.12.2.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-thGsS9XJcXOqJ+cf/4+IIZ9VhUZuXHqVezOXElarPn8=",
     "type": "tarball",

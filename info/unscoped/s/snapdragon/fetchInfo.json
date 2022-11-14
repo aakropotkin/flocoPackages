@@ -149,7 +149,11 @@
     "url": "https://registry.npmjs.org/snapdragon/-/snapdragon-0.8.1.tgz",
     "narHash": "sha256-jt4vPbn8aEcTS+vX+qLyqXiuei1/CXLcpj8J1/8n5Rw="
   },
-  "0.8.2": null,
+  "0.8.2": {
+    "narHash": "sha256-g2gz7NO4ulmtz8LfFombvjvGjlFAj1rOhIUkF3n2hfU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/snapdragon/-/snapdragon-0.8.2.tgz"
+  },
   "0.9.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/snapdragon/-/snapdragon-0.9.0.tgz",

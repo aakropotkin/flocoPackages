@@ -34,5 +34,9 @@
     "url": "https://registry.npmjs.org/emojis-list/-/emojis-list-2.1.0.tgz",
     "narHash": "sha256-xP7Lq1cZ5q++ym4xG8JY9JAknxOrcS2RPHiE1pEWsaM="
   },
-  "3.0.0": null
+  "3.0.0": {
+    "narHash": "sha256-DxuzGeJnRf7QiDVviBdn7nbbKCGdZQPkn21k7UzfE9Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/emojis-list/-/emojis-list-3.0.0.tgz"
+  }
 }

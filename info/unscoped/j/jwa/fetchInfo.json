@@ -84,6 +84,14 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jwa/-/jwa-1.4.0.tgz"
   },
-  "1.4.1": null,
-  "2.0.0": null
+  "1.4.1": {
+    "narHash": "sha256-hcO5KNb3seok5ge6GTVRaHVupVVDkVSXkO4h4eRs5lk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jwa/-/jwa-1.4.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-oARdfWlOIuFKpfEIefguHi0+G+Q9T92kZUtNJcS5vd0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jwa/-/jwa-2.0.0.tgz"
+  }
 }

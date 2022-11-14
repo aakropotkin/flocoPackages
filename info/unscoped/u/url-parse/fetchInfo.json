@@ -209,7 +209,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/url-parse/-/url-parse-1.5.1.tgz"
   },
-  "1.5.10": null,
+  "1.5.10": {
+    "narHash": "sha256-dPK6V1ZULfNhpdCQxgHGzTM0rHXz+wz2dkC59KVOESw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-parse/-/url-parse-1.5.10.tgz"
+  },
   "1.5.2": {
     "narHash": "sha256-4f/KT3Mf6X3IuMNRhcHdz1H+KJPmoL6net5GllcCZiQ=",
     "type": "tarball",

@@ -194,5 +194,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/readdirp/-/readdirp-3.5.0.tgz"
   },
-  "3.6.0": null
+  "3.6.0": {
+    "narHash": "sha256-MpmVWT8izPROQ0Z1uwPFUP6CBTg3Hl+T0O+wJsdxWBY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readdirp/-/readdirp-3.6.0.tgz"
+  }
 }

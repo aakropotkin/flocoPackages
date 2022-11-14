@@ -264,5 +264,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tar-stream/-/tar-stream-2.1.4.tgz"
   },
-  "2.2.0": null
+  "2.2.0": {
+    "narHash": "sha256-V4gn04ZClfbBs9BW+zKEd9D4u7nfuvDEY/N5FL8l1Sg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tar-stream/-/tar-stream-2.2.0.tgz"
+  }
 }

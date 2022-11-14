@@ -289,5 +289,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/escodegen/-/escodegen-1.9.1.tgz"
   },
-  "2.0.0": null
+  "2.0.0": {
+    "narHash": "sha256-MuIRkdqf56FlJW74Mx0ru38fbSgaaN8b/fUvxws+2jk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/escodegen/-/escodegen-2.0.0.tgz"
+  }
 }

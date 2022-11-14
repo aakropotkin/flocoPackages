@@ -109,5 +109,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.1.0.tgz"
   },
-  "2.2.0": null
+  "2.2.0": {
+    "narHash": "sha256-kDL1HV8+/e0b6CoYfVTpZymjgnwJW/QYAHRHf0R6Ih8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.2.0.tgz"
+  }
 }

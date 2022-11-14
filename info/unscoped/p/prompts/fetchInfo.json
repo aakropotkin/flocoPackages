@@ -169,5 +169,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/prompts/-/prompts-2.4.1.tgz"
   },
-  "2.4.2": null
+  "2.4.2": {
+    "narHash": "sha256-E/G2OK8TyexZ9g/C3SYchJOBGLzfFsEhaUxgZrLCf7c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/prompts/-/prompts-2.4.2.tgz"
+  }
 }

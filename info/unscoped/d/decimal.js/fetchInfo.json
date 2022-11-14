@@ -59,7 +59,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/decimal.js/-/decimal.js-10.4.1.tgz"
   },
-  "10.4.2": null,
+  "10.4.2": {
+    "narHash": "sha256-qWLC/6nY6HPUlbrTdzJAxp1eEkHE1bbJJGF5MLAC79M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decimal.js/-/decimal.js-10.4.2.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-XY2aptJmRR42D26aKznmFRxdBOLMAjbeITLubGLVmgg=",
     "type": "tarball",

@@ -34,7 +34,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ret/-/ret-0.1.14.tgz"
   },
-  "0.1.15": null,
+  "0.1.15": {
+    "narHash": "sha256-oST3RGiIW/0q5TRS2IZ+AT+WmGiaGYaxL2SaRlUKy8k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ret/-/ret-0.1.15.tgz"
+  },
   "0.1.2": {
     "narHash": "sha256-kKuk7NSu5altxHNm1SGu7Oj1Q3FU67FtZtClvQpxHSU=",
     "type": "tarball",

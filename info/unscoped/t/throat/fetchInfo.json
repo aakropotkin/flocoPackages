@@ -59,5 +59,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/throat/-/throat-6.0.0.tgz"
   },
-  "6.0.1": null
+  "6.0.1": {
+    "narHash": "sha256-rutCq5k7cgiVv/uAVhz2B0e5KZRemhfmyOU+N+Ypldw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/throat/-/throat-6.0.1.tgz"
+  }
 }

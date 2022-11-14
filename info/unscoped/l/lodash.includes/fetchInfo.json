@@ -59,5 +59,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/lodash.includes/-/lodash.includes-4.2.0.tgz"
   },
-  "4.3.0": null
+  "4.3.0": {
+    "narHash": "sha256-0IzlzjWDMP3VyoZ+V0ZRUZnFH7YmCoDHixAGx1M/Drs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.includes/-/lodash.includes-4.3.0.tgz"
+  }
 }

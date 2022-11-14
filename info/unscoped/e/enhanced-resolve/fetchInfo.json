@@ -404,7 +404,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/enhanced-resolve/-/enhanced-resolve-4.4.0.tgz"
   },
-  "4.5.0": null,
+  "4.5.0": {
+    "narHash": "sha256-ejETZkfeQ8GsYHYtawiQwLoVYJmav1Tb4cpoNzSUHDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/enhanced-resolve/-/enhanced-resolve-4.5.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-ghIChZ+m8CZKpFTUiyYV50k8VJA8UD2JEv6mz30AYbo=",
     "type": "tarball",

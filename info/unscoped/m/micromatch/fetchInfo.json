@@ -254,7 +254,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/micromatch/-/micromatch-3.1.1.tgz"
   },
-  "3.1.10": null,
+  "3.1.10": {
+    "narHash": "sha256-y6LLvAmfdQdl2o5igr9j+7I51wo0BXDiA4+f7R9I8mI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromatch/-/micromatch-3.1.10.tgz"
+  },
   "3.1.2": {
     "narHash": "sha256-8Nae3hyvP/LoRmx6GzC02cIYSR+Fio2yrscST1IDTdU=",
     "type": "tarball",
@@ -320,5 +324,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/micromatch/-/micromatch-4.0.4.tgz"
   },
-  "4.0.5": null
+  "4.0.5": {
+    "narHash": "sha256-5sy/ExTbi9X3zWFTVMx8cfbQCpl3Kyqc7RVqcpj11gg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromatch/-/micromatch-4.0.5.tgz"
+  }
 }

@@ -119,5 +119,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/pump/-/pump-2.0.1.tgz"
   },
-  "3.0.0": null
+  "3.0.0": {
+    "narHash": "sha256-a+tDrPKxD94V7wzJP9H+JSjQ/EmCpDftL+YDgGW/Nnc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pump/-/pump-3.0.0.tgz"
+  }
 }

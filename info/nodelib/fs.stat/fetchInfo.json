@@ -59,5 +59,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.4.tgz"
   },
-  "2.0.5": null
+  "2.0.5": {
+    "narHash": "sha256-9D6qDZ0i0QJCngfEgCsDkX1/BFc1UpQ7Yy8b3jMLDCk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz"
+  }
 }

@@ -14,7 +14,11 @@
     "url": "https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.14.53.tgz",
     "narHash": "sha256-m7qE4v6zXOXcO9C8fTEYsjsGiR7K34prfmt6SF+WPLw="
   },
-  "0.14.54": null,
+  "0.14.54": {
+    "narHash": "sha256-4t99TdJApGgLlSvrIKT3ZURol27AwZ97l2gZsfqd6xI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.14.54.tgz"
+  },
   "0.15.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.15.0.tgz",

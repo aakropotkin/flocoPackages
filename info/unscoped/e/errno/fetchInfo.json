@@ -64,7 +64,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/errno/-/errno-0.1.7.tgz"
   },
-  "0.1.8": null,
+  "0.1.8": {
+    "narHash": "sha256-P15vQe64tAzfEFiu7yGLVIJHZID/JdSx+zYGvwyw0m4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/errno/-/errno-0.1.8.tgz"
+  },
   "1.0.0": {
     "narHash": "sha256-PpaSwQ2hmYnFBiepi6+csbPpPWlcrG7a8XRqEwFBfwY=",
     "type": "tarball",

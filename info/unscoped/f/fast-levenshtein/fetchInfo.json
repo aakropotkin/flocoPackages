@@ -89,7 +89,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.5.tgz"
   },
-  "2.0.6": null,
+  "2.0.6": {
+    "narHash": "sha256-ecbIyMHylbbr7yuhLAsB/amPAPjjzF0rZw6qZDni7b8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-ooQL9RhOkvfPPhiPXJYK3/uoR6ejwTPgRz5rV5hMLDY=",
     "type": "tarball",

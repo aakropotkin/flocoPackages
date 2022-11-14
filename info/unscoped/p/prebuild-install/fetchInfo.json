@@ -224,5 +224,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/prebuild-install/-/prebuild-install-7.1.0.tgz"
   },
-  "7.1.1": null
+  "7.1.1": {
+    "narHash": "sha256-HElA7BbLPwElfsI5Af9m/fyWMghGcXQ2sl6TdwIIbeU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/prebuild-install/-/prebuild-install-7.1.1.tgz"
+  }
 }

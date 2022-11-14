@@ -299,7 +299,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.3.6.tgz"
   },
-  "2.3.7": null,
+  "2.3.7": {
+    "narHash": "sha256-NMNMh4Qel86O5PwHv3rH21i2qUhpe/0RFbDtvpiq8ok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.3.7.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-YbCkaxDZ7A7Plst7Ce7BvjX72dueTl/gJQKBjxygqOw=",
     "type": "tarball",
@@ -365,7 +369,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/readable-stream/-/readable-stream-3.5.0.tgz"
   },
-  "3.6.0": null,
+  "3.6.0": {
+    "narHash": "sha256-pvwBMxYeE5paPfTTAXnvO9IJIEcvBww9FyIr95bDA7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readable-stream/-/readable-stream-3.6.0.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-PTwnH1s5+qcFTKxkbckQicWjCcAJnikDW1QEnk38Qbk=",
     "type": "tarball",

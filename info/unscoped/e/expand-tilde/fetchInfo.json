@@ -39,5 +39,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/expand-tilde/-/expand-tilde-2.0.1.tgz"
   },
-  "2.0.2": null
+  "2.0.2": {
+    "narHash": "sha256-wn7y5RiD2cpQiTtTZICWNxD4CHFh9u8IOzuMUqorUGM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/expand-tilde/-/expand-tilde-2.0.2.tgz"
+  }
 }

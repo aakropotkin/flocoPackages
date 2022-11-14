@@ -14,7 +14,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/commist/-/commist-1.0.0.tgz"
   },
-  "1.1.0": null,
+  "1.1.0": {
+    "narHash": "sha256-k3iPlqmnca2m39WF463c2R49ZlFogFI7VOYs2ydLBos=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/commist/-/commist-1.1.0.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-dr+OhIbCXnfII9n8vdZpKw2g/QxIhKtUo2eW8GsiaBY=",
     "type": "tarball",

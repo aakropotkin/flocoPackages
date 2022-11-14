@@ -134,7 +134,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/colorette/-/colorette-2.0.18.tgz"
   },
-  "2.0.19": null,
+  "2.0.19": {
+    "narHash": "sha256-JW/SANO+V4OZd5Zjbp/fi1GC2ZOKihOcPa34j/mgFqQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colorette/-/colorette-2.0.19.tgz"
+  },
   "2.0.2": {
     "narHash": "sha256-hdatrAT8s6N43yetmyr2vI6cwyCilOenw2KXkUTayNI=",
     "type": "tarball",

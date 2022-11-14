@@ -54,5 +54,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@azure/keyvault-keys/-/keyvault-keys-4.5.0.tgz"
   },
-  "4.6.0": null
+  "4.6.0": {
+    "narHash": "sha256-WRBONhvGGqO3ynbPzjKtyRkJ6IxC3Avwb4BvsA95g/c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/keyvault-keys/-/keyvault-keys-4.6.0.tgz"
+  }
 }

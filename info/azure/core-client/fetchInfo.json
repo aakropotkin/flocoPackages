@@ -74,5 +74,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@azure/core-client/-/core-client-1.6.0.tgz"
   },
-  "1.6.1": null
+  "1.6.1": {
+    "narHash": "sha256-6gPAribAFPfgbVym0gRxcyEQAShtfQAT0c/v1WPrUyk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/core-client/-/core-client-1.6.1.tgz"
+  }
 }

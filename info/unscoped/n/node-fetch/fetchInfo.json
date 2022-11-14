@@ -239,7 +239,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.6.tgz"
   },
-  "2.6.7": null,
+  "2.6.7": {
+    "narHash": "sha256-3irTo8l3AmeaqlbCfMDo7EzSzZOwXmKlAOsqrR7t9lg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.7.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-wCrrJ6P02uEZ6v6/F7patoEC24g1YWFnDOAM+oa8rNw=",
     "type": "tarball",

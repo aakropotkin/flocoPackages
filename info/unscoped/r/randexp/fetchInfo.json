@@ -59,7 +59,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/randexp/-/randexp-0.4.5.tgz"
   },
-  "0.4.6": null,
+  "0.4.6": {
+    "narHash": "sha256-rrZqHM5oZTm8ohfEJadtkejI24UnTL1iFbf38BqYb24=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/randexp/-/randexp-0.4.6.tgz"
+  },
   "0.4.7": {
     "narHash": "sha256-PXTDRMWkxEwDUo1QPGDj7BgOjSzIATBi/toh8jxYQCQ=",
     "type": "tarball",

@@ -1,5 +1,9 @@
 {
-  "0.1.0": null,
+  "0.1.0": {
+    "narHash": "sha256-dfOahErblnMXMQM9t3ybI5VspkmypPRTcHIZf3CNKJs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/object-copy/-/object-copy-0.1.0.tgz"
+  },
   "1.0.0": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/object-copy/-/object-copy-1.0.0.tgz",

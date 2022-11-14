@@ -269,5 +269,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tar-fs/-/tar-fs-2.1.0.tgz"
   },
-  "2.1.1": null
+  "2.1.1": {
+    "narHash": "sha256-ZiYUmZzZDkwOeZ0uJpE6CRL7FdWILNR19h8EgRK8TFc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tar-fs/-/tar-fs-2.1.1.tgz"
+  }
 }

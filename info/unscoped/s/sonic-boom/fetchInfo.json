@@ -224,7 +224,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/sonic-boom/-/sonic-boom-2.7.0.tgz"
   },
-  "2.8.0": null,
+  "2.8.0": {
+    "narHash": "sha256-FQvjbYEdBDmx5ILoua8wD/cEhryMzne6GeqyMKkyhLA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sonic-boom/-/sonic-boom-2.8.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-jdQ+WPa4yPyrTl3qw+UY3f47Dd3JrOk2HkaWkuJaInI=",
     "type": "tarball",

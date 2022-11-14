@@ -24,7 +24,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/array-union/-/array-union-2.0.0.tgz"
   },
-  "2.1.0": null,
+  "2.1.0": {
+    "narHash": "sha256-bmQXg345RYsXeeq7IwVxYDrzUr9rWTXu9b8usPViYkk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/array-union/-/array-union-2.1.0.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-hedYf6MmL/HllccPjShnJWhSh14D2PJOavLcGnYB628=",
     "type": "tarball",

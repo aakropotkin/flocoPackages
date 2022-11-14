@@ -79,5 +79,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/events/-/events-3.2.0.tgz"
   },
-  "3.3.0": null
+  "3.3.0": {
+    "narHash": "sha256-vyCUI7EY87lECH1RNaWXgIceirsdiolbBOIkW4MREp8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/events/-/events-3.3.0.tgz"
+  }
 }

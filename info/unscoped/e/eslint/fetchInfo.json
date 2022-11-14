@@ -1334,7 +1334,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/eslint/-/eslint-8.25.0.tgz"
   },
-  "8.26.0": null,
+  "8.26.0": {
+    "narHash": "sha256-5vJ87wzAzHbMQ+zYGGDD7ooNHeQNEl2neOLtUfoPaTI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint/-/eslint-8.26.0.tgz"
+  },
   "8.27.0": {
     "narHash": "sha256-6OyRg8RpiotkNqMnd3I+QzLp3x+5p4Vq0Jt6vQjZaKk=",
     "type": "tarball",

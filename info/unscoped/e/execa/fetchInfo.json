@@ -194,7 +194,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/execa/-/execa-5.1.0.tgz"
   },
-  "5.1.1": null,
+  "5.1.1": {
+    "narHash": "sha256-P5IyUg7KIfSrao+yxAluQcJpF6R2YDzPqoOnmcLbVtQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/execa/-/execa-5.1.1.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-oEqeOvR2b5g/P2uwO13VZGGw+8Z6ryvzbdg+cPBrciU=",
     "type": "tarball",

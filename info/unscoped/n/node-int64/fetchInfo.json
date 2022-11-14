@@ -29,5 +29,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.3.3.tgz"
   },
-  "0.4.0": null
+  "0.4.0": {
+    "narHash": "sha256-BOd48Uc57GvkSlqGJR5ZPMr5oGEdY6CKsrrLVTIjcvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/node-int64/-/node-int64-0.4.0.tgz"
+  }
 }

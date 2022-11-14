@@ -179,5 +179,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.1.tgz"
   },
-  "4.6.2": null
+  "4.6.2": {
+    "narHash": "sha256-AnfgvzyOFLIADkPCDfsDKkaKULahu8+mA2KlIMIAg14=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.2.tgz"
+  }
 }

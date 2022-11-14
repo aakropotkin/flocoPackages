@@ -24,5 +24,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.1.0.tgz"
   },
-  "1.2.0": null
+  "1.2.0": {
+    "narHash": "sha256-vGU4OvpwDGE0bY4mwlLXGNIECj01cGXUZNnIomU3U+k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.2.0.tgz"
+  }
 }

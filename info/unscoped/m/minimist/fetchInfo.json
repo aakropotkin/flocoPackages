@@ -99,7 +99,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/minimist/-/minimist-1.1.3.tgz"
   },
-  "1.2.0": null,
+  "1.2.0": {
+    "narHash": "sha256-LLUwVrKQT3U0APD5OId7TZn1HezF409d5GTWWq606u0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz"
+  },
   "1.2.1": {
     "narHash": "sha256-TKE4gvdnTAY6b5b1Q7bgcBKKh/QqGGpIW0Ka3UmH8hA=",
     "type": "tarball",
@@ -125,6 +129,14 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.5.tgz"
   },
-  "1.2.6": null,
-  "1.2.7": null
+  "1.2.6": {
+    "narHash": "sha256-7TCl1ruw+nyf5BfmjdzYzqzOkaCITc3BKD6u5ysgslc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
+  },
+  "1.2.7": {
+    "narHash": "sha256-Jo/bc6MFNhtfsnF2bEhRiZzEt/Ex+4paLZ7I4AHdge4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.7.tgz"
+  }
 }

@@ -119,7 +119,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/big.js/-/big.js-5.2.1.tgz"
   },
-  "5.2.2": null,
+  "5.2.2": {
+    "narHash": "sha256-J12Ape5tLHJ/3SHCpM2rtQ9AgWnDcZjIEFV9l8w0xeI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/big.js/-/big.js-5.2.2.tgz"
+  },
   "6.0.0": {
     "narHash": "sha256-b9hf9Y0ej35VNzuGhuYy5ahD9S7fSjdNv5ZEgy6ZG9I=",
     "type": "tarball",

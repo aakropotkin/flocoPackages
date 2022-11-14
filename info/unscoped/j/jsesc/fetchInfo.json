@@ -24,7 +24,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jsesc/-/jsesc-0.4.3.tgz"
   },
-  "0.5.0": null,
+  "0.5.0": {
+    "narHash": "sha256-bN1ULR4jepGtAsuG0yYWBf840QoDfw7ua+2uo4Oi57g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jsesc/-/jsesc-0.5.0.tgz"
+  },
   "1.0.0": {
     "narHash": "sha256-0YrB+Nalx5K/LOvRcmTGTpIS6OogzoSxBB/5XBLA3Us=",
     "type": "tarball",
@@ -85,7 +89,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/jsesc/-/jsesc-2.5.1.tgz"
   },
-  "2.5.2": null,
+  "2.5.2": {
+    "narHash": "sha256-VzeXB9PvqZY9dcodPxeMGHJ9YldUc7jTJQQ8RMZH17A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/jsesc/-/jsesc-2.5.2.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-OAjahZRxEGkKC0OYFHrqb5b64lJM1T5XDNT4xAjYvEs=",
     "type": "tarball",

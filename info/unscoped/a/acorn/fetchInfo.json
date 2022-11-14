@@ -504,7 +504,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/acorn/-/acorn-7.4.0.tgz"
   },
-  "7.4.1": null,
+  "7.4.1": {
+    "narHash": "sha256-4h5Ap7o59zvBR6qPsEcelOyWLfz2A7+ulPyr3Uy9xI8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn/-/acorn-7.4.1.tgz"
+  },
   "8.0.0": {
     "narHash": "sha256-912KIxgZt7ny4T8ZkHsoZk5DBDilp7DQOIVXDqqy568=",
     "type": "tarball",
@@ -605,6 +609,14 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/acorn/-/acorn-8.7.1.tgz"
   },
-  "8.8.0": null,
-  "8.8.1": null
+  "8.8.0": {
+    "narHash": "sha256-R9rMulyoUvH2a8AdSD9TtymmQTpgQ1AyhJjE4tpgzGQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn/-/acorn-8.8.0.tgz"
+  },
+  "8.8.1": {
+    "narHash": "sha256-W14mU7fhfZajYWDfzRxzSMexNSYKIg63yXSnM/vG0P8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/acorn/-/acorn-8.8.1.tgz"
+  }
 }

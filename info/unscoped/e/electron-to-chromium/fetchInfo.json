@@ -5614,7 +5614,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.283.tgz"
   },
-  "1.4.284": null,
+  "1.4.284": {
+    "narHash": "sha256-Z+0fzj4ZAoeSElHh0dZhKM2XJrgplmkxKiaQI71qTys=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.284.tgz"
+  },
   "1.4.29": {
     "narHash": "sha256-60dM1tEHFqYFiRiQg6QRpXBDavU00uja7ixgyh/T6LY=",
     "type": "tarball",

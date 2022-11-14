@@ -109,7 +109,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ip/-/ip-1.1.7.tgz"
   },
-  "1.1.8": null,
+  "1.1.8": {
+    "narHash": "sha256-bwM4kAutLDrKHEJj4jvui8Y5cBdyINBw/1uv4MZA0tM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ip/-/ip-1.1.8.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-2DDZlTSMc1SzHR9ef9OlHzZUeCThLWIcU3V56F4Zf8k=",
     "type": "tarball",

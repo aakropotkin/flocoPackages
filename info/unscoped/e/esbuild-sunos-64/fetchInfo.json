@@ -359,7 +359,11 @@
     "url": "https://registry.npmjs.org/esbuild-sunos-64/-/esbuild-sunos-64-0.14.53.tgz",
     "narHash": "sha256-61yrN28qJHxqoOaU4ny3v5rFSvsTGmfEy3JHuLAcx+s="
   },
-  "0.14.54": null,
+  "0.14.54": {
+    "narHash": "sha256-B/VND1wYub20w6q3IJRpa3T9scbG8BpWT5pZpVTauMw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esbuild-sunos-64/-/esbuild-sunos-64-0.14.54.tgz"
+  },
   "0.14.6": {
     "type": "tarball",
     "url": "https://registry.npmjs.org/esbuild-sunos-64/-/esbuild-sunos-64-0.14.6.tgz",

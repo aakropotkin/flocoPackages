@@ -129,5 +129,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@types/babel__traverse/-/babel__traverse-7.18.1.tgz"
   },
-  "7.18.2": null
+  "7.18.2": {
+    "narHash": "sha256-p83HXtHOPSkLmM68eH5CS5vPx147Ok7T4f6XpLdoK/M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/babel__traverse/-/babel__traverse-7.18.2.tgz"
+  }
 }

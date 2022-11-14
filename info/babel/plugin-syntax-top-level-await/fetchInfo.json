@@ -19,7 +19,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.12.13.tgz"
   },
-  "7.14.5": null,
+  "7.14.5": {
+    "narHash": "sha256-rW5bQ6vunS/ONImTJuL1bdJvJLCG0qxPUQTy38EiM18=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.14.5.tgz"
+  },
   "7.7.0": {
     "narHash": "sha256-cLYCWwDCT7+2s9EyCM6XuOZi98c/ZcUfiqs9Vbzf1zo=",
     "type": "tarball",

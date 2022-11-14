@@ -19,7 +19,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/universalify/-/universalify-0.1.2.tgz"
   },
-  "0.2.0": null,
+  "0.2.0": {
+    "narHash": "sha256-4Gl72TmUB4hWdgt6GLiMdcGDrPRT1iL/96ibhoicODs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/universalify/-/universalify-0.2.0.tgz"
+  },
   "1.0.0": {
     "narHash": "sha256-mzOiUWlX2KGyeHgWpUYCPYj48CmpEvDXx0DjUx+NcW8=",
     "type": "tarball",

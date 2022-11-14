@@ -154,11 +154,19 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/color-convert/-/color-convert-1.9.2.tgz"
   },
-  "1.9.3": null,
+  "1.9.3": {
+    "narHash": "sha256-o/p0tqrXMvGg2VduYwUNx05gEWI11GuHgyq9nrd6khM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz"
+  },
   "2.0.0": {
     "narHash": "sha256-5oND1N6OEHsn9XmAHbncgxvGmdJv/n1wCMwipEmYXxc=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.0.tgz"
   },
-  "2.0.1": null
+  "2.0.1": {
+    "narHash": "sha256-EU7d3q55UXpfbMmk+wu8nYaxXGBK3Pwu2pIe5TVZiwc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz"
+  }
 }

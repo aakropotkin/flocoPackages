@@ -129,5 +129,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/he/-/he-1.1.1.tgz"
   },
-  "1.2.0": null
+  "1.2.0": {
+    "narHash": "sha256-wBzE/RjUsqZK7a11zL7mAFGGJlSGUgZE+7J++mWYVN4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/he/-/he-1.2.0.tgz"
+  }
 }

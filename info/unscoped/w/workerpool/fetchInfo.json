@@ -209,7 +209,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/workerpool/-/workerpool-6.1.5.tgz"
   },
-  "6.2.0": null,
+  "6.2.0": {
+    "narHash": "sha256-IV4YShspDmLEfEl+xbMnjcReulizkxQYvjKcsX19gz8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/workerpool/-/workerpool-6.2.0.tgz"
+  },
   "6.2.1": {
     "narHash": "sha256-Ct++6BGqLwo1b7rtxNkuzaoutW3NBOFIpTf6gKrEqBI=",
     "type": "tarball",

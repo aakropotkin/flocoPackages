@@ -129,7 +129,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.5.tgz"
   },
-  "0.5.6": null,
+  "0.5.6": {
+    "narHash": "sha256-tZp8STUp5DdTzh/78AI6SH3MpYdYvUeIUhLbTe8OmrY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.6.tgz"
+  },
   "1.0.0": {
     "narHash": "sha256-UYBNNkB1G0DKRsAZaGjNznnbQpwJCtWTWk7BzWyGs+k=",
     "type": "tarball",

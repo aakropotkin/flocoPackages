@@ -14,5 +14,9 @@
     "url": "https://registry.npmjs.org/@azure/ms-rest-azure-env/-/ms-rest-azure-env-1.1.2.tgz",
     "narHash": "sha256-4WeDwrZPJ6sRlVCn6CrQKSGNQkadjTQP2UtTigwy5xA="
   },
-  "2.0.0": null
+  "2.0.0": {
+    "narHash": "sha256-nDYrrJ9DYc6+vXZ6n1MkM0KSD2IIYneaL3dCib3sftg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@azure/ms-rest-azure-env/-/ms-rest-azure-env-2.0.0.tgz"
+  }
 }

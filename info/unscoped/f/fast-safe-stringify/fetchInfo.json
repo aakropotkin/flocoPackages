@@ -174,5 +174,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/fast-safe-stringify/-/fast-safe-stringify-2.1.0.tgz"
   },
-  "2.1.1": null
+  "2.1.1": {
+    "narHash": "sha256-8JSjejXM3vYZcePsFSgp3nsuz1MS9pJyLf0hqJPSpcY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/fast-safe-stringify/-/fast-safe-stringify-2.1.1.tgz"
+  }
 }

@@ -159,5 +159,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/doctrine/-/doctrine-2.1.0.tgz"
   },
-  "3.0.0": null
+  "3.0.0": {
+    "narHash": "sha256-o01Hdcu2uhZR8r2cI2b7geXXkLjjXze+96vyIoMiNzU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/doctrine/-/doctrine-3.0.0.tgz"
+  }
 }

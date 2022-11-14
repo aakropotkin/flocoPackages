@@ -129,5 +129,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/punycode/-/punycode-2.1.0.tgz"
   },
-  "2.1.1": null
+  "2.1.1": {
+    "narHash": "sha256-T0XEU9p6DxVAp8PSfIGeCDdZk2MAG5CKGTXcTppHsnI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/punycode/-/punycode-2.1.1.tgz"
+  }
 }

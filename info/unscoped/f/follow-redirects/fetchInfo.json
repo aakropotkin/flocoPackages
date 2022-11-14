@@ -159,7 +159,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.15.1.tgz"
   },
-  "1.15.2": null,
+  "1.15.2": {
+    "narHash": "sha256-MK6jEPJVqrI028JDGPYWVcf11eBgflgylSJU+Z1RAF8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.15.2.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-QJIjj8v4ipmXUbc5HNfDnGOy+nAC43No+wtMi48w3mE=",
     "type": "tarball",

@@ -114,5 +114,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/ncp/-/ncp-1.0.1.tgz"
   },
-  "2.0.0": null
+  "2.0.0": {
+    "narHash": "sha256-TcChOuvtJa6JbtKvKFAAgLMhTvSTPRLOCeeXPeWjsFo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/ncp/-/ncp-2.0.0.tgz"
+  }
 }

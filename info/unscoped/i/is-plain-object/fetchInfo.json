@@ -29,7 +29,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-plain-object/-/is-plain-object-2.0.3.tgz"
   },
-  "2.0.4": null,
+  "2.0.4": {
+    "narHash": "sha256-/5upb4OB9itAJTTssxgDReqRLG+DTV0CA6BmqfqD3OI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-plain-object/-/is-plain-object-2.0.4.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-k19pFphnx2mNV9foXwgN32igF+UC5g9o7c/5prKCAJk=",
     "type": "tarball",

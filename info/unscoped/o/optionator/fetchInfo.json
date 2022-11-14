@@ -69,11 +69,19 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/optionator/-/optionator-0.8.2.tgz"
   },
-  "0.8.3": null,
+  "0.8.3": {
+    "narHash": "sha256-xJUpz6mgwDvkXNp7M9deqI054eFuX5IFv5sdalYplv8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/optionator/-/optionator-0.8.3.tgz"
+  },
   "0.9.0": {
     "narHash": "sha256-j2qCPH9yy0iZo22yAf2iJxak3vtQKtyd7T/UmRp/VYo=",
     "type": "tarball",
     "url": "https://registry.npmjs.org/optionator/-/optionator-0.9.0.tgz"
   },
-  "0.9.1": null
+  "0.9.1": {
+    "narHash": "sha256-7jlLNVQjsM1XPG2GTpjdhQ3517T2iOlwZZrJwljSgLs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/optionator/-/optionator-0.9.1.tgz"
+  }
 }

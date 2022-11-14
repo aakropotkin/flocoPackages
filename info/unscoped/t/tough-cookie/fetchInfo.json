@@ -179,7 +179,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tough-cookie/-/tough-cookie-3.0.0.tgz"
   },
-  "3.0.1": null,
+  "3.0.1": {
+    "narHash": "sha256-+cdb5MdSWXFGhkEHe1MdHK1+HkoB1V5xuztEtE31PMQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tough-cookie/-/tough-cookie-3.0.1.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-GaTDm6z9WCMA/hC2vzrxi1exfwgyTnI+VJwSxMK7KT0=",
     "type": "tarball",
@@ -195,5 +199,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/tough-cookie/-/tough-cookie-4.1.1.tgz"
   },
-  "4.1.2": null
+  "4.1.2": {
+    "narHash": "sha256-QddPi5mAI+DKZr862DxPHfmnBhXSAq2MirYMm5/Zaak=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/tough-cookie/-/tough-cookie-4.1.2.tgz"
+  }
 }

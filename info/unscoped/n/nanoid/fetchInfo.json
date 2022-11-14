@@ -409,7 +409,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.0.tgz"
   },
-  "3.3.1": null,
+  "3.3.1": {
+    "narHash": "sha256-uHIeM0n7ARD4k/jittFvrifmRkie3pGMizwv5jE3opI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.1.tgz"
+  },
   "3.3.2": {
     "narHash": "sha256-VxaQxnKHdyLKhSTK3GZD8ZCpyl49l8D6Q14E0ku7Y0g=",
     "type": "tarball",

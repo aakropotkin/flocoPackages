@@ -24,5 +24,9 @@
     "url": "https://registry.npmjs.org/arr-union/-/arr-union-3.0.0.tgz",
     "narHash": "sha256-vfIHa8/uiWiVV9y2Go1DndCh9vi/HKFaiwL9N9zdhn8="
   },
-  "3.1.0": null
+  "3.1.0": {
+    "narHash": "sha256-mybBR6j11whgJ7BkvPcpiyCsyV4yN3qmMuVVQ9aOkHE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arr-union/-/arr-union-3.1.0.tgz"
+  }
 }

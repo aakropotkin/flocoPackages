@@ -34,7 +34,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/is-docker/-/is-docker-2.2.0.tgz"
   },
-  "2.2.1": null,
+  "2.2.1": {
+    "narHash": "sha256-sbDG7WOLZPR6l14Z2Vq2ytVOqsQXSRqLQyDpmNyh1z8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-docker/-/is-docker-2.2.1.tgz"
+  },
   "3.0.0": {
     "narHash": "sha256-5ZOfyuEjFeGEkrArfpo56gGXcqAPZt6JDdU2mu8sWYI=",
     "type": "tarball",

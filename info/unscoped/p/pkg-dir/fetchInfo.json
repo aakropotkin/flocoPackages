@@ -9,7 +9,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/pkg-dir/-/pkg-dir-2.0.0.tgz"
   },
-  "3.0.0": null,
+  "3.0.0": {
+    "narHash": "sha256-ReaDd7rzH4VTioB7KhOda68ili6sXhJyLi1sUgyO02Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pkg-dir/-/pkg-dir-3.0.0.tgz"
+  },
   "4.0.0": {
     "narHash": "sha256-iG+TswDGQRiiDc1NxTjMHPatzc03qr5w8il0bjVOKVE=",
     "type": "tarball",
@@ -20,7 +24,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/pkg-dir/-/pkg-dir-4.1.0.tgz"
   },
-  "4.2.0": null,
+  "4.2.0": {
+    "narHash": "sha256-T2WIK6kImvw8h8UkVKVSXIBs7KNbQ3d8XkU9FV8CCXA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pkg-dir/-/pkg-dir-4.2.0.tgz"
+  },
   "5.0.0": {
     "narHash": "sha256-bhj+tkHD4ehFrgGPB+74uuvn/la88Z992rKjLG17z6o=",
     "type": "tarball",

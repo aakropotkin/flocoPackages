@@ -74,7 +74,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/@babel/helper-function-name/-/helper-function-name-7.18.9.tgz"
   },
-  "7.19.0": null,
+  "7.19.0": {
+    "narHash": "sha256-VC+iwlAPre/V+8BAN3BaxhHF4II6G6hYEHJ0Ki+X71w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/helper-function-name/-/helper-function-name-7.19.0.tgz"
+  },
   "7.7.0": {
     "narHash": "sha256-dJa7DRwgKzTbXk1F28imVyu3a7D6Sh874c1EpTr2yJE=",
     "type": "tarball",

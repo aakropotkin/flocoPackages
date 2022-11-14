@@ -94,5 +94,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/progress/-/progress-2.0.2.tgz"
   },
-  "2.0.3": null
+  "2.0.3": {
+    "narHash": "sha256-AtFLPjyC2TcSpxjkvY2WPEOcqocgn4byo4cb2TZsZ+w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress/-/progress-2.0.3.tgz"
+  }
 }

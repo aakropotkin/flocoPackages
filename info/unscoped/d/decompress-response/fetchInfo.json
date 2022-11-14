@@ -39,7 +39,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/decompress-response/-/decompress-response-5.0.0.tgz"
   },
-  "6.0.0": null,
+  "6.0.0": {
+    "narHash": "sha256-L7oDFODTyen+qYk81sxNJ9EYq042/llh9SsGJA0Q1eU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decompress-response/-/decompress-response-6.0.0.tgz"
+  },
   "7.0.0": {
     "narHash": "sha256-o8hpN4ah/I0CqJvDMGNOQZsde4QipJ15QjETvM1wI84=",
     "type": "tarball",

@@ -54,5 +54,9 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
   },
-  "2.0.3": null
+  "2.0.3": {
+    "narHash": "sha256-5ELIsVusYd9/R/gTN89JTtg9quxfu170hXVKuwceIdg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/esutils/-/esutils-2.0.3.tgz"
+  }
 }

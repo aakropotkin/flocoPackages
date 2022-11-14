@@ -109,7 +109,11 @@
     "type": "tarball",
     "url": "https://registry.npmjs.org/underscore/-/underscore-1.13.5.tgz"
   },
-  "1.13.6": null,
+  "1.13.6": {
+    "narHash": "sha256-r47jZQiOZRqO3teimv5HYBRHjGcXcp01i7ohlGHr8S8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/underscore/-/underscore-1.13.6.tgz"
+  },
   "1.2.0": {
     "narHash": "sha256-ON3S/x64lwA4GQ3XWiBBkYmbuOB4gRjBE6kic3PS9MA=",
     "type": "tarball",

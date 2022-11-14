@@ -1,5 +1,9 @@
 {
-  "0.1.0": null,
+  "0.1.0": {
+    "narHash": "sha256-1ksODnVi/GpJeGisnG6fvR4tJWxrohqm3uuo8yGbocs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-unicode-supported/-/is-unicode-supported-0.1.0.tgz"
+  },
   "1.0.0": {
     "narHash": "sha256-uETKassiTAMG5TzTCixAr8GfBcBP39JesqcXtFP89UI=",
     "type": "tarball",
