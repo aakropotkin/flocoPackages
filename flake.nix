@@ -49,7 +49,7 @@
       pkgsFor = pkgsForSys system;
 
       bins'   = pkgsFor.flocoApps;
-      no-i686 = removeAttrs bins' ["swc--core"];
+      no-i686 = removeAttrs bins' ["swc--core" "msgpackr-extract"];
 
       bins = if system != "i686-linux" then bins' else no-i686;
 
