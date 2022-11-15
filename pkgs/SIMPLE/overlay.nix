@@ -55,7 +55,10 @@ in {
       setBinPerms = false;   # None of these have bins.
     };
     src = if fetchInfo.type == "file" then unpacked else fetched;
-  in ent // { sourceInfo = src; inherit (src) outPath; };
+  in ent // {
+    sourceInfo = src;
+    inherit (src) outPath;
+  };
 
 
 # ---------------------------------------------------------------------------- #
@@ -73,14 +76,17 @@ in {
           msg      = "${ident} has no versions in its 'fetchInfo' file";
         in if ( builtins.length allVers ) < 1 then throw msg else latest;
         extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
-        addV  = builtins.foldl' ( acc: version: acc // {
-          "${ident}/${version}" = final.flocoSimpleFetcher {
+        addV  = builtins.foldl' ( acc: version: let
+          meta = {  # FIXME: `metaFor'
             inherit ident version;
             key              = "${ident}/${version}";
-            fetchInfo        = fis.${version};
             hasBin           = false;
             hasInstallScript = false;
           };
+        in acc // {
+          "${ident}/${version}" = ( final.flocoSimpleFetcher ( meta // {
+            fetchInfo = fis.${version};
+          } ) ) // { inherit meta; };
         } ) {} ( builtins.attrNames fis );
       in accS // addV // extra;
       addsB = builtins.foldl' procS {}

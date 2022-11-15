@@ -38,10 +38,10 @@ final: prev: let
     in if prev.lib.isFunction f then forFn else f;
     forJSON   = prev.lib.importJSON treeJSONPath;
   in if builtins.pathExists treeNixPath
-     then builtins.trace "${ident} using tree.nix" forTreeNix
+     then builtins.traceVerbose "${ident} using tree.nix" forTreeNix
      else if builtins.pathExists treeJSONPath
-     then builtins.trace "${ident} using tree.json" forJSON
-     else builtins.trace "${ident} no tree info" {};
+     then builtins.traceVerbose "${ident} using tree.json" forJSON
+     else builtins.traceVerbose "${ident} no tree info" {};
 
 
 # ---------------------------------------------------------------------------- #
@@ -87,10 +87,11 @@ final: prev: let
     inherit (final.lib.parseNodeNames ident) scope bname sdir;
     fetchInfos =
       prev.lib.importJSON ( ../../info + "/${sdir}/${bname}/fetchInfo.json" );
-    ec = builtins.addErrorContext "Loading fetchInfo for ${ident}/${version}";
-  in final.flocoBinsFetcher {
+    ec   = builtins.addErrorContext "Loading fetchInfo for ${ident}/${version}";
+    meta = metaFor ident version;
+  in final.flocoBinsFetcher ( meta // {
     fetchInfo = ec fetchInfos.${version};
-  };
+  } );
 
 
 # ---------------------------------------------------------------------------- #
@@ -111,7 +112,6 @@ final: prev: let
     inherit (src) passthru;
     meta = src.meta // ( metaFor ident version );
   };
-
 
 
 # ---------------------------------------------------------------------------- #
@@ -171,7 +171,7 @@ final: prev: let
       in builtins.foldl' proc msg ( builtins.attrNames tests );
       pass = builtins.all ( b: b ) ( builtins.attrValues tests );
     in if pass then built else throw details;
-  in builtins.trace msg checked;
+  in builtins.traceVerbose msg checked;
 
 
 # ---------------------------------------------------------------------------- #
@@ -189,19 +189,17 @@ in {
       fetchInfo = fetchInfo // fetched;
       inherit (fetched) outPath;
       passthru.binPermsSet = false;
-      meta.hasBin          = true;
     };
     unpacked = let
       u = final.flocoUnpack {
         name        = "source";
         tarball     = fetched;
         setBinPerms = true;
-        meta.hasBin = true;
       };
     in u // { passthru = u.passtrhu // { binPermsSet = true; }; };
     src = if ( ent.type or ent.fetchInfo.type ) == "file" then unpacked else
           fetchUnpacked;
-  in ent // src;
+  in ent // { sourceInfo = src; inherit (src) outPath; };
 
 
 # ---------------------------------------------------------------------------- #
