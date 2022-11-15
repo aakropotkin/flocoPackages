@@ -57,9 +57,7 @@
 
     in bins // {
 
-      fsevents--1_2_13 = pkgsFor.flocoPackages."fsevents/1.2.13";
-
-      fsevents = pkgsFor.flocoPackages."fsevents/latest".prepared;
+      fsevents--1_2_13 = pkgsFor.flocoPackages."fsevents/1.2.13".prepared;
 
       tests = ( import ./tests {
         inherit system pkgsFor;

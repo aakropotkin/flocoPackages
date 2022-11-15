@@ -77,6 +77,62 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
+  inputsFor = ident: version: let
+    inherit (final.lib.parseNodeNames ident) scope bname sdir;
+    inputsNixPathV  = ./. + "/${sdir}/${bname}/${version}/inputs.nix";
+    inputsJSONPathV = ./. + "/${sdir}/${bname}/${version}/inputs.json";
+    inputsNixPathP  = ./. + "/${sdir}/${bname}/inputs.nix";
+    inputsJSONPathP = ./. + "/${sdir}/${bname}/inputs.json";
+    inputsNixPath   =
+      if builtins.pathExists inputsNixPathV  then inputsNixPathV else
+      if builtins.pathExists inputsNixPathP  then inputsNixPathP else
+      null;
+    inputsJSONPath =
+      if builtins.pathExists inputsJSONPathV then inputsJSONPathV else
+      if builtins.pathExists inputsJSONPathP then inputsJSONPathP else
+      null;
+    forInputsNix = let
+      f     = import inputsNixPath;
+      forFn = final.lib.apply f {
+        inherit version;
+        inherit (final) lib stdenv system;
+        pkgs = final;
+      };
+    in if prev.lib.isFunction f then forFn else f;
+
+    # Map top level of JSON file to parse accessors on `final'.
+    # Either attrs of accessors or a list of accessors is accepted.
+    # {
+    #   "deps": { "foo": "bar.foo", "baz": "quux.\"fizz.buzz\"" },
+    #   "buildInputs": ["bar.foo" "quux.\"fizz.buzz\""]
+    # }
+    # =>
+    # {
+    #   deps = { foo = final.bar.foo; baz = final.quux."fizz.buzz"; };
+    #   buildInputs = [final.bar.foo final.quux."fizz.buzz" ]
+    # }
+    forInputsJSON = let
+      json     = prev.lib.importJSON inputsJSONPath;
+      attrPath = str: let
+        dropEmpty = builtins.filter ( x: x != "" );
+        esc  = dropEmpty ( builtins.split "\"([^\"]*)\"" str );
+        proc = acc: x: let
+          sp = dropEmpty ( prev.lib.splitString "." x );
+        in if builtins.isList x then acc ++ x else acc ++ sp;
+      in builtins.foldl' proc [] esc;
+      forList = map ( p: builtins.getAttr ( attrPath p ) final );
+      forAttrs = builtins.mapAttrs ( k: p:
+        builtins.getAttr ( attrPath p ) final
+      );
+      doField = _: v: if builtins.isList v then forList v else forAttrs v;
+    in builtins.mapAttrs doField json;
+
+  in if inputsNixPath  != null then forInputsNix else
+     if inputsJSONPath != null then forInputsJSON else {};
+
+
+# ---------------------------------------------------------------------------- #
+
   srcFor = ident: version: let
     inherit (final.lib.parseNodeNames ident) scope bname sdir;
     fetchInfos =
@@ -90,26 +146,28 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  ## This basically just exists to make `lib.canPassStrict' work.
-  #defaultBuilder = {
-  #  ident
-  #, version
-  #, src      ? srcFor ident version
-  #, keyTree  ? keyTreeFor ident version
-  #, nmDirCmd ? if keyTree == {} then ":" else nmDirCmdFromTree {
-  #    inherit keyTree;
-  #    inherit (final) flocoPackages;
-  #  }
-  #, nodejs      ? prev.nodejs-14_x
-  #, node-gyp    ? nodejs.pkgs.build-gyp
-  #, python      ? nodejs.python
-  #, xcbuild     ? prev.xcbuild
-  #, buildInputs ? []
-  #}: final.mkInstPackage {
-  #  inherit ident version src nmDirCmd nodejs node-gyp python xcbuild;
-  #  inherit buildInputs;
-  #  meta = src.meta // ( metaFor ident version );
-  #};
+  # This basically just exists to make `lib.canPassStrict' work.
+  defaultBuilder = {
+    name     ? "${baseNameOf ident}-inst-${version}"
+  , ident    ? meta.ident
+  , version  ? meta.version
+  , src      ? srcFor ident version
+  , keyTree  ? keyTreeFor ident version
+  , nmDirCmd ? if keyTree == {} then ":" else nmDirCmdFromTree {
+      inherit keyTree;
+      inherit (final) flocoPackages;
+    }
+  , nodejs   ? prev.nodejs-14_x
+  , node-gyp ? nodejs.pkgs.node-gyp
+  , python   ? nodejs.python
+  , xcbuild  ? prev.xcbuild
+  , buildInputs       ? ( inputsFor ident version ).buildInputs or []
+  , nativeBuildInputs ? ( inputsFor ident version ).nativeBuildInputs or []
+  , meta              ? metaFor ident version
+  }: final.buildGyp {
+    inherit name ident version src nmDirCmd nodejs node-gyp python xcbuild;
+    inherit buildInputs nativeBuildInputs meta;
+  };
 
 
 # ---------------------------------------------------------------------------- #
@@ -146,12 +204,13 @@ in {
           msg      = "${ident} has no versions in its 'fetchInfo' file";
         in if ( builtins.length allVers ) < 1 then throw msg else latest;
         extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
+
         addV  = builtins.foldl' ( acc: version: acc // {
           "${ident}/${version}" = let
             keyTree = keyTreeFor ident version;
           in {
             source    = srcFor ident version;
-            installed = final.buildGyp {
+            installed = defaultBuilder {
               name = "${baseNameOf ident}-inst-${version}";
               src  = fpFinal."${ident}/${version}".source;
               inherit ident version;
@@ -166,6 +225,7 @@ in {
               outPath
             ;
           };
+
         } ) {} ( builtins.attrNames fis );
       in accS // addV // extra;
       addsB = builtins.foldl' procS {}
@@ -174,6 +234,17 @@ in {
     exported = builtins.foldl' proc {} ( builtins.attrNames markedFetchInfos );
   in ( exported // {
     # Add any explicit defs here.
+
+    # FIXME: fsevents 2.x is "simple"
+    "fsevents/2.3.2" = let
+      meta = metaFor "fsevents" "2.3.2";
+    in {
+      inherit (meta) ident version key;
+      inherit (exported."fsevents/2.3.2") source;
+      meta = { hasInstallScript = false;  gypfile = false; hasBin = false; };
+      inherit (exported."fsevents/2.3.2".source) outPath;
+    };
+
   } ) );
 
 
