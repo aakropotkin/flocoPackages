@@ -9,7 +9,7 @@
              then {}
              else { _ts-node = "dist/_bin.js"; };
     script' = if 0 < ( builtins.compareVersions "8.5.0" version ) then {} else
-              if 0 < ( builtins.compareVersions "8.7.0" version then {
+              if 0 < ( builtins.compareVersions "8.7.0" version ) then {
                 ts-script = "dist/script.js";
               } else {
                 ts-script              = "dist/bin-script-deprecated.js";
