@@ -1188,6 +1188,7 @@
     "promise-all-settled"
   ],
   "unscoped": [
+    "dtrace-provider",
     "esbuild-linux-ppc64le",
     "esbuild-freebsd-arm64",
     "executable",

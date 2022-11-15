@@ -40,6 +40,8 @@ final: prev: let
 
 in {
 
+  __internalSimple = { inherit markedFetchInfos; };
+
 # ---------------------------------------------------------------------------- #
 
   # Produces store paths from `./locked.json' tree entries.
@@ -71,9 +73,15 @@ in {
           msg      = "${ident} has no versions in its 'fetchInfo' file";
         in if ( builtins.length allVers ) < 1 then throw msg else latest;
         extra = { "${ident}/latest" = fpFinal."${ident}/${latestV}"; };
-        addV  = builtins.mapAttrs ( _: fetchInfo:
-          final.flocoSimpleFetcher { inherit fetchInfo; }
-        ) fis;
+        addV  = builtins.foldl' ( acc: version: acc // {
+          "${ident}/${version}" = final.flocoSimpleFetcher {
+            inherit ident version;
+            key              = "${ident}/${version}";
+            fetchInfo        = fis.${version};
+            hasBin           = false;
+            hasInstallScript = false;
+          };
+        } ) {} ( builtins.attrNames fis );
       in accS // addV // extra;
       addsB = builtins.foldl' procS {}
                               ( builtins.attrNames markedFetchInfos.${scope} );
@@ -81,9 +89,15 @@ in {
     exported = builtins.foldl' proc {} ( builtins.attrNames markedFetchInfos );
   in ( exported // {
     # Add any explicit defs here.
+
+    # FIXME: remove dtrace-provider
+
   } ) );
 
-}
+
+# ---------------------------------------------------------------------------- #
+
+}  # End Overlay
 
 
 # ---------------------------------------------------------------------------- #
