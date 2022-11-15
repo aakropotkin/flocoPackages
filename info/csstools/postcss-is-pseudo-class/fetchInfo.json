@@ -1,1 +1,52 @@
-{"1.0.0":{"narHash":"sha256-vTKGJoQtQSPZGrFIs3sK8BSrrxwwQieM0aH6Y5owOCU=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-3nyy4JLL6Jlj9NJcj+QF0kBrW3UhGMMuqbRxhLDSKAw=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-kbhaoT3+GSa/FtT05o1GEqTVewbdA7kL76m+bYSU1Rw=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-wELnZQ/zno0owupqz50TwvFAfEC/pWWI8djqaITtqzM=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-O/2h7NV0ZP9RO3fecuYMRUuSRg2YRuNkmAUWWh6PCcQ=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-8R65BWKuLTaYewXuZnVpMrvilslkcyynYUz6vAEnK9I=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-S1BFp/P4aOcNFA8RF5wd1uasbAd6yMcHWDdFNhU47w4=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-lVqLJLGpWbp/KMUD3Mz2NirV2PlMdOuSIo9fig7zxEk=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.5.tgz"},"2.0.6":{"narHash":"sha256-+J0RqxVEud8gpVxnQv2EoWNfWVewPoDoupUjhHrhrjk=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.6.tgz"},"2.0.7":{"narHash":"sha256-A3cWHjSQvHu/NsfDXw12UAKO0841fIe8lA4x/y5RG3c=","type":"tarball","url":"https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.7.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-vTKGJoQtQSPZGrFIs3sK8BSrrxwwQieM0aH6Y5owOCU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-3nyy4JLL6Jlj9NJcj+QF0kBrW3UhGMMuqbRxhLDSKAw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-kbhaoT3+GSa/FtT05o1GEqTVewbdA7kL76m+bYSU1Rw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-wELnZQ/zno0owupqz50TwvFAfEC/pWWI8djqaITtqzM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-O/2h7NV0ZP9RO3fecuYMRUuSRg2YRuNkmAUWWh6PCcQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-8R65BWKuLTaYewXuZnVpMrvilslkcyynYUz6vAEnK9I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-S1BFp/P4aOcNFA8RF5wd1uasbAd6yMcHWDdFNhU47w4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-lVqLJLGpWbp/KMUD3Mz2NirV2PlMdOuSIo9fig7zxEk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.5.tgz"
+  },
+  "2.0.6": {
+    "narHash": "sha256-+J0RqxVEud8gpVxnQv2EoWNfWVewPoDoupUjhHrhrjk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.6.tgz"
+  },
+  "2.0.7": {
+    "narHash": "sha256-A3cWHjSQvHu/NsfDXw12UAKO0841fIe8lA4x/y5RG3c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class/-/postcss-is-pseudo-class-2.0.7.tgz"
+  }
+}

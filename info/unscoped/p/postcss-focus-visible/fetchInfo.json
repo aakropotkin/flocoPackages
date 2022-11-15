@@ -1,1 +1,57 @@
-{"2.0.0":{"narHash":"sha256-Yxk0+3QQqZfjksCeau7g4lOeVWjLqfXvc5GyDZaTVaU=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-ZcLvRJRgmJDh4Vh8RKzuTWwm4vm2nFuAYYgoA1etXDs=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-QkMB/3BMJzq1d6QePUmd0N43S2Wj9Dz7wyP/ZqRvEKg=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-4.0.0.tgz"},"5.0.0":{"narHash":"sha256-01hH7EXtRt7T0rdgOuUha6BQqwIqy27O11lwHZSw03M=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-5.0.0.tgz"},"6.0.0":{"narHash":"sha256-C7dWkIgkk5r2Z8F0rYfctyPTl7ofs1Y6kMHH1tSUT2w=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.0.tgz"},"6.0.1":{"narHash":"sha256-aKoI4xblauh1hcItoiB+ZlWe3GLham/BwB6wJjv5/hY=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.1.tgz"},"6.0.2":{"narHash":"sha256-BTVgZZHIA1jabg2YEGGwCLkK+TyLbB+wCfSFutEM2gc=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.2.tgz"},"6.0.3":{"narHash":"sha256-cC04lltpGpNddvMAzsd7JjvCxpYUvVF09A9l9V1nxWo=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.3.tgz"},"6.0.4":{"narHash":"sha256-ZVLVpft5xmplYrP49ZZsXuHJMPflOtG7QX0R4sPpwhE=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.4.tgz"},"7.0.0":{"narHash":"sha256-77Vw+ZLXQwM1DBNTtpXKOZxNvCleH8d7wIcMaa1wfa4=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-7.0.0.tgz"},"7.1.0":{"narHash":"sha256-ze+6gQYO1KFTXeI9SRqAzDLr4lhPQMP9vTDWOCJsHsA=","type":"tarball","url":"https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-7.1.0.tgz"}}
+{
+  "2.0.0": {
+    "narHash": "sha256-Yxk0+3QQqZfjksCeau7g4lOeVWjLqfXvc5GyDZaTVaU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-ZcLvRJRgmJDh4Vh8RKzuTWwm4vm2nFuAYYgoA1etXDs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-QkMB/3BMJzq1d6QePUmd0N43S2Wj9Dz7wyP/ZqRvEKg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-4.0.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-01hH7EXtRt7T0rdgOuUha6BQqwIqy27O11lwHZSw03M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-5.0.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-C7dWkIgkk5r2Z8F0rYfctyPTl7ofs1Y6kMHH1tSUT2w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.0.tgz"
+  },
+  "6.0.1": {
+    "narHash": "sha256-aKoI4xblauh1hcItoiB+ZlWe3GLham/BwB6wJjv5/hY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.1.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-BTVgZZHIA1jabg2YEGGwCLkK+TyLbB+wCfSFutEM2gc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.2.tgz"
+  },
+  "6.0.3": {
+    "narHash": "sha256-cC04lltpGpNddvMAzsd7JjvCxpYUvVF09A9l9V1nxWo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.3.tgz"
+  },
+  "6.0.4": {
+    "narHash": "sha256-ZVLVpft5xmplYrP49ZZsXuHJMPflOtG7QX0R4sPpwhE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-6.0.4.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-77Vw+ZLXQwM1DBNTtpXKOZxNvCleH8d7wIcMaa1wfa4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-7.0.0.tgz"
+  },
+  "7.1.0": {
+    "narHash": "sha256-ze+6gQYO1KFTXeI9SRqAzDLr4lhPQMP9vTDWOCJsHsA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-focus-visible/-/postcss-focus-visible-7.1.0.tgz"
+  }
+}

@@ -1,1 +1,52 @@
-{"3.2.1":{"narHash":"sha256-0rdQsO0UIqGeFsb1vHrJSe0qJmmXgkcA8Mp7riBGfNk=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-3.2.1.tgz"},"4.0.3":{"narHash":"sha256-Ywg24/4wNOxf/tVGtLus6SmHTSkMi3LB18gG7FyyJ4A=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.0.3.tgz"},"4.1.0":{"narHash":"sha256-NlmABEstvGMLp9nCg+hFcaU911Njo/4kHasDdP05j3U=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.1.0.tgz"},"4.2.0":{"narHash":"sha256-dWGDvsr52NMOwB1o3Cak8NnSTwxQirfgfjHNe7GXsAs=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.2.0.tgz"},"4.3.0":{"narHash":"sha256-it1CUiQ2eEpygHTKfL78aLFnD4nW1g0dCAB2BIq2xVQ=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.3.0.tgz"},"4.4.0":{"narHash":"sha256-AZ7C6/ShjyfLWh0IpWjzgobcORaaVuvTjsFe23/JMA8=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.4.0.tgz"},"4.5.0":{"narHash":"sha256-WNjAiJhVeCMQ6BD/BTqSfxAcqjk6X8ul9XcqiKbgClM=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.5.0.tgz"},"4.6.1":{"narHash":"sha256-JyrKK4o5lFnOhY3zmha3JgAKXz0erI4kypTI49dO5A0=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.6.1.tgz"},"4.6.3":{"narHash":"sha256-6DaqXneJqU9iwrZu2QfB4+XlzP9S0Ef5alU3+lDZWD8=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.6.3.tgz"},"4.7.0":{"narHash":"sha256-c7VvpSJmt1Fr8PP6yzHls6U5RUZVlNBj+cC05mhb3fY=","type":"tarball","url":"https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz"}}
+{
+  "3.2.1": {
+    "narHash": "sha256-0rdQsO0UIqGeFsb1vHrJSe0qJmmXgkcA8Mp7riBGfNk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-3.2.1.tgz"
+  },
+  "4.0.3": {
+    "narHash": "sha256-Ywg24/4wNOxf/tVGtLus6SmHTSkMi3LB18gG7FyyJ4A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.0.3.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-NlmABEstvGMLp9nCg+hFcaU911Njo/4kHasDdP05j3U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.1.0.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-dWGDvsr52NMOwB1o3Cak8NnSTwxQirfgfjHNe7GXsAs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.2.0.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-it1CUiQ2eEpygHTKfL78aLFnD4nW1g0dCAB2BIq2xVQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.3.0.tgz"
+  },
+  "4.4.0": {
+    "narHash": "sha256-AZ7C6/ShjyfLWh0IpWjzgobcORaaVuvTjsFe23/JMA8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.4.0.tgz"
+  },
+  "4.5.0": {
+    "narHash": "sha256-WNjAiJhVeCMQ6BD/BTqSfxAcqjk6X8ul9XcqiKbgClM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.5.0.tgz"
+  },
+  "4.6.1": {
+    "narHash": "sha256-JyrKK4o5lFnOhY3zmha3JgAKXz0erI4kypTI49dO5A0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.6.1.tgz"
+  },
+  "4.6.3": {
+    "narHash": "sha256-6DaqXneJqU9iwrZu2QfB4+XlzP9S0Ef5alU3+lDZWD8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.6.3.tgz"
+  },
+  "4.7.0": {
+    "narHash": "sha256-c7VvpSJmt1Fr8PP6yzHls6U5RUZVlNBj+cC05mhb3fY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz"
+  }
+}

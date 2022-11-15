@@ -1,1 +1,17 @@
-{"1.0.0":{"narHash":"sha256-uXdwyc7rcYVxnOFNv2YQzNPEQUEjyUceUE1VXjPgeBI=","type":"tarball","url":"https://registry.npmjs.org/parse-node-version/-/parse-node-version-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-2Vpt952qr7bqt7ly7ergMf+oQdB+eFPBSemLNtT5Qpk=","type":"tarball","url":"https://registry.npmjs.org/parse-node-version/-/parse-node-version-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-ke1V+gfuuASc7ijA27/nO0/XJLa1tF2QFXkxsTm0ivg=","type":"tarball","url":"https://registry.npmjs.org/parse-node-version/-/parse-node-version-2.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-uXdwyc7rcYVxnOFNv2YQzNPEQUEjyUceUE1VXjPgeBI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parse-node-version/-/parse-node-version-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-2Vpt952qr7bqt7ly7ergMf+oQdB+eFPBSemLNtT5Qpk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parse-node-version/-/parse-node-version-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-ke1V+gfuuASc7ijA27/nO0/XJLa1tF2QFXkxsTm0ivg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/parse-node-version/-/parse-node-version-2.0.0.tgz"
+  }
+}

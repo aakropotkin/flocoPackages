@@ -1,1 +1,37 @@
-{"0.0.0":{"narHash":"sha256-aAmm7BzK+/yHzUoUz3k9GQC7xlV4KfCPiLI+uNCVU9I=","type":"tarball","url":"https://registry.npmjs.org/camelize/-/camelize-0.0.0.tgz"},"0.1.0":{"narHash":"sha256-rEo3l+Ppvex/qBSPoLYTMRd+lKqpuW2BNJR/RW8aCxk=","type":"tarball","url":"https://registry.npmjs.org/camelize/-/camelize-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-jlliZ7Vl8xvfy6UGhgJQbBJBu6s/c/+nJldURIkKhAo=","type":"tarball","url":"https://registry.npmjs.org/camelize/-/camelize-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-cCx5889+AqlppNoZ530O0ZwR2J/ni1X7RDTXadWiuuA=","type":"tarball","url":"https://registry.npmjs.org/camelize/-/camelize-0.1.2.tgz"},"0.2.0":{"narHash":"sha256-Q94ETXCJIKfxWyD16GfAbxeHdBaSgzbKxhQDzeRfJ5c=","type":"tarball","url":"https://registry.npmjs.org/camelize/-/camelize-0.2.0.tgz"},"1.0.0":{"narHash":"sha256-yIgZQAOMCMGj0ik18MV7s9uQ31DvUosCLplfwfDZXDY=","type":"tarball","url":"https://registry.npmjs.org/camelize/-/camelize-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-qhH4WihtaSgUxFvOooN35Nf/35Eerr8Hk2fdZGVguxQ=","type":"tarball","url":"https://registry.npmjs.org/camelize/-/camelize-1.0.1.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-aAmm7BzK+/yHzUoUz3k9GQC7xlV4KfCPiLI+uNCVU9I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelize/-/camelize-0.0.0.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-rEo3l+Ppvex/qBSPoLYTMRd+lKqpuW2BNJR/RW8aCxk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelize/-/camelize-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-jlliZ7Vl8xvfy6UGhgJQbBJBu6s/c/+nJldURIkKhAo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelize/-/camelize-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-cCx5889+AqlppNoZ530O0ZwR2J/ni1X7RDTXadWiuuA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelize/-/camelize-0.1.2.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-Q94ETXCJIKfxWyD16GfAbxeHdBaSgzbKxhQDzeRfJ5c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelize/-/camelize-0.2.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-yIgZQAOMCMGj0ik18MV7s9uQ31DvUosCLplfwfDZXDY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelize/-/camelize-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-qhH4WihtaSgUxFvOooN35Nf/35Eerr8Hk2fdZGVguxQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/camelize/-/camelize-1.0.1.tgz"
+  }
+}

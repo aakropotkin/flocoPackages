@@ -1,1 +1,52 @@
-{"4.0.0":{"narHash":"sha256-z2xV2iJYIxEVfruQrr5BpWQJo37QX+uP+Ghq9xjY50w=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-KKoiM7xmh1kEswtC8N4v+DNPU6WgTSp4FMmbz4Oxeqs=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-lubH3jcbbRHV06hfSa7CeNcj/rUpvuK7IBPQB9zcj2c=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-4.0.2.tgz"},"5.0.0":{"narHash":"sha256-QTaBpOFFefcatd2XH8Z6TTjLZ9avp8zP9L2K4KbAAcU=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-yHAjEih0jxU/pWXUO0XgyAdGZM5QOUoA9PJGotTX2C4=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-M1cIYczDR00BxCWO5Z01M3FKCCUy6VQem6YAMYejpdk=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-qebASXI9x0IcMNlsgPDWEatrpCPEu6aXfQHCu4aJtKI=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-nvAQwGldVSVoeWo499OgcQh/i9jzMEJi0OIX24WWvjU=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.4.tgz"},"5.1.0":{"narHash":"sha256-5Ng3FeH1bvD8Wdu07SK1FurXjlQo1irMhFrHo/XA6Qo=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.1.0.tgz"},"5.1.1":{"narHash":"sha256-1uwW2qTLFVmCVGtuNcgncm95atfRy159E72dGCUBF8k=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.1.1.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-z2xV2iJYIxEVfruQrr5BpWQJo37QX+uP+Ghq9xjY50w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-KKoiM7xmh1kEswtC8N4v+DNPU6WgTSp4FMmbz4Oxeqs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-lubH3jcbbRHV06hfSa7CeNcj/rUpvuK7IBPQB9zcj2c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-4.0.2.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-QTaBpOFFefcatd2XH8Z6TTjLZ9avp8zP9L2K4KbAAcU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-yHAjEih0jxU/pWXUO0XgyAdGZM5QOUoA9PJGotTX2C4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-M1cIYczDR00BxCWO5Z01M3FKCCUy6VQem6YAMYejpdk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-qebASXI9x0IcMNlsgPDWEatrpCPEu6aXfQHCu4aJtKI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-nvAQwGldVSVoeWo499OgcQh/i9jzMEJi0OIX24WWvjU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.0.4.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-5Ng3FeH1bvD8Wdu07SK1FurXjlQo1irMhFrHo/XA6Qo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.1.0.tgz"
+  },
+  "5.1.1": {
+    "narHash": "sha256-1uwW2qTLFVmCVGtuNcgncm95atfRy159E72dGCUBF8k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.1.1.tgz"
+  }
+}

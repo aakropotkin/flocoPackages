@@ -1,1 +1,47 @@
-{"0.0.0":{"narHash":"sha256-iNajg+lGAcpeykAX16oKaYhultF+qgh3zfHBzlSUuJM=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-0.0.0.tgz"},"1.0.0":{"narHash":"sha256-WK4tLmFgwnco3rAOTgPzfKvTfZFrCpyAX/F0HBstwyU=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-b9Ic/owpGwRGRjY2BWYh49kSj2XCfTNP3hLC+lFIdsU=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-25stp30mxwhFmUbykd7RcTUFD3M01NtNrSM6MV8cJFg=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-BWJcZe4T/eD6ZP5lHBbvXqSY8sFh+fW1ze3kSb1t49o=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-xD02VOVF1sud24r/FZfnpIdwwbBkDFtIqaGWJJjhtEc=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-n9/QHGcjd9B/qI8PttJvfVDEKlJBYg1dLPChiN0nvFc=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-PajYAn/vC9xotehgx5T/6QwcuZ51sY4k1EOOVkunrZc=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-2.0.5.tgz"},"2.0.6":{"narHash":"sha256-VGF+fmtuChbJCwWa1gk8lWgMfReMWyQdybsHDBJYH1w=","type":"tarball","url":"https://registry.npmjs.org/asap/-/asap-2.0.6.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-iNajg+lGAcpeykAX16oKaYhultF+qgh3zfHBzlSUuJM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-0.0.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-WK4tLmFgwnco3rAOTgPzfKvTfZFrCpyAX/F0HBstwyU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-b9Ic/owpGwRGRjY2BWYh49kSj2XCfTNP3hLC+lFIdsU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-25stp30mxwhFmUbykd7RcTUFD3M01NtNrSM6MV8cJFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-BWJcZe4T/eD6ZP5lHBbvXqSY8sFh+fW1ze3kSb1t49o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-xD02VOVF1sud24r/FZfnpIdwwbBkDFtIqaGWJJjhtEc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-n9/QHGcjd9B/qI8PttJvfVDEKlJBYg1dLPChiN0nvFc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-PajYAn/vC9xotehgx5T/6QwcuZ51sY4k1EOOVkunrZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-2.0.5.tgz"
+  },
+  "2.0.6": {
+    "narHash": "sha256-VGF+fmtuChbJCwWa1gk8lWgMfReMWyQdybsHDBJYH1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/asap/-/asap-2.0.6.tgz"
+  }
+}

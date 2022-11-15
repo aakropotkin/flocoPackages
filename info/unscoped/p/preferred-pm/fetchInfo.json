@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-mA1rXr9Rrdku6Qd1AAOHmhdo6UvAZGwlg8hZHZ7Mb3Y=","type":"tarball","url":"https://registry.npmjs.org/preferred-pm/-/preferred-pm-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-IgfDcFoLTK0hhOw2vJVcfIdopt+/74Xctoj3FjUaJmY=","type":"tarball","url":"https://registry.npmjs.org/preferred-pm/-/preferred-pm-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-gPafOZ/F7AVo+qJyBxl8ipsjfAjvEWznqMdSlEHJHbk=","type":"tarball","url":"https://registry.npmjs.org/preferred-pm/-/preferred-pm-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-FEfqWkyGdiXPUSLdmM9KaoCbSH7KIvoQJIXcxHDbaVA=","type":"tarball","url":"https://registry.npmjs.org/preferred-pm/-/preferred-pm-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-M2OqpPNkdiQ9MnGZWQONqZr0sX5CA1CVyP/bMPTBge0=","type":"tarball","url":"https://registry.npmjs.org/preferred-pm/-/preferred-pm-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-Ne5V3PJozcs3SYLKOHXzWMivw/GSnMOfZjuKJfrALQ0=","type":"tarball","url":"https://registry.npmjs.org/preferred-pm/-/preferred-pm-3.0.2.tgz"},"3.0.3":{"narHash":"sha256-Mf4Ayjbw0mT2gdh+3gkdDNBRAR/e2u4xnOh5v5SDzWA=","type":"tarball","url":"https://registry.npmjs.org/preferred-pm/-/preferred-pm-3.0.3.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-mA1rXr9Rrdku6Qd1AAOHmhdo6UvAZGwlg8hZHZ7Mb3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/preferred-pm/-/preferred-pm-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-IgfDcFoLTK0hhOw2vJVcfIdopt+/74Xctoj3FjUaJmY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/preferred-pm/-/preferred-pm-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-gPafOZ/F7AVo+qJyBxl8ipsjfAjvEWznqMdSlEHJHbk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/preferred-pm/-/preferred-pm-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-FEfqWkyGdiXPUSLdmM9KaoCbSH7KIvoQJIXcxHDbaVA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/preferred-pm/-/preferred-pm-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-M2OqpPNkdiQ9MnGZWQONqZr0sX5CA1CVyP/bMPTBge0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/preferred-pm/-/preferred-pm-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-Ne5V3PJozcs3SYLKOHXzWMivw/GSnMOfZjuKJfrALQ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/preferred-pm/-/preferred-pm-3.0.2.tgz"
+  },
+  "3.0.3": {
+    "narHash": "sha256-Mf4Ayjbw0mT2gdh+3gkdDNBRAR/e2u4xnOh5v5SDzWA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/preferred-pm/-/preferred-pm-3.0.3.tgz"
+  }
+}

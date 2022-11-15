@@ -1,1 +1,27 @@
-{"1.0.0":{"narHash":"sha256-MiuMUoDNdmIihLd868SyQirTtx0qnkoKO2pjfglNcuo=","type":"tarball","url":"https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-77NojB+TCvmqDwsuNiEUrnLvEjPUWpK3h7dovCcYmT8=","type":"tarball","url":"https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-uOhyvQ9BOdYHrOl6YenfceN/SAdhSDyZAgCc6o9lTGg=","type":"tarball","url":"https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-E70Un4GCf6+piiDTuJvaHrBPOJtTYxsWI2O6I7ar3k8=","type":"tarball","url":"https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-OJ/MlWLluZOiNTvuOx4KwNt40yp3DMiB29QnR6BAFGQ=","type":"tarball","url":"https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-2.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-MiuMUoDNdmIihLd868SyQirTtx0qnkoKO2pjfglNcuo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-77NojB+TCvmqDwsuNiEUrnLvEjPUWpK3h7dovCcYmT8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-uOhyvQ9BOdYHrOl6YenfceN/SAdhSDyZAgCc6o9lTGg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-E70Un4GCf6+piiDTuJvaHrBPOJtTYxsWI2O6I7ar3k8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-OJ/MlWLluZOiNTvuOx4KwNt40yp3DMiB29QnR6BAFGQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-2.0.0.tgz"
+  }
+}

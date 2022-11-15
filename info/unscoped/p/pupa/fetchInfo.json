@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-wljD3h4kWoi/ARnNM+e2vIJgADvKv4MzTlZLJhWf1Lc=","type":"tarball","url":"https://registry.npmjs.org/pupa/-/pupa-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-aRvBa3RF7cuq3eaUP2za+h6pFTO/m6e4Nry8keJdvPk=","type":"tarball","url":"https://registry.npmjs.org/pupa/-/pupa-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-VPf8vjBpi10IFlKYbXTH20WLHdgCTdB+6vfsKOxaQtE=","type":"tarball","url":"https://registry.npmjs.org/pupa/-/pupa-2.0.1.tgz"},"2.1.0":{"narHash":"sha256-FMMCFlc6PeJ9Iwe9p+P/Al9VhfPFGL4STCelcQWfBOQ=","type":"tarball","url":"https://registry.npmjs.org/pupa/-/pupa-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-jJpV3Hf3co7OTiI+4hLL/3oWmnLgc/YtojorkwsEw7w=","type":"tarball","url":"https://registry.npmjs.org/pupa/-/pupa-2.1.1.tgz"},"3.0.0":{"narHash":"sha256-qGEWSWpjeO65HjH+PAGqyTv4q1M5jwcn8yR6Pe5uGXs=","type":"tarball","url":"https://registry.npmjs.org/pupa/-/pupa-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-vL6rAvtXGaqVKUnFoYACVIWz1qjZnLAfqEO5AfeEZb8=","type":"tarball","url":"https://registry.npmjs.org/pupa/-/pupa-3.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-wljD3h4kWoi/ARnNM+e2vIJgADvKv4MzTlZLJhWf1Lc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pupa/-/pupa-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-aRvBa3RF7cuq3eaUP2za+h6pFTO/m6e4Nry8keJdvPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pupa/-/pupa-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-VPf8vjBpi10IFlKYbXTH20WLHdgCTdB+6vfsKOxaQtE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pupa/-/pupa-2.0.1.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-FMMCFlc6PeJ9Iwe9p+P/Al9VhfPFGL4STCelcQWfBOQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pupa/-/pupa-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-jJpV3Hf3co7OTiI+4hLL/3oWmnLgc/YtojorkwsEw7w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pupa/-/pupa-2.1.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-qGEWSWpjeO65HjH+PAGqyTv4q1M5jwcn8yR6Pe5uGXs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pupa/-/pupa-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-vL6rAvtXGaqVKUnFoYACVIWz1qjZnLAfqEO5AfeEZb8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pupa/-/pupa-3.1.0.tgz"
+  }
+}

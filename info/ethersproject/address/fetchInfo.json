@@ -1,1 +1,102 @@
-{"5.0.0":{"narHash":"sha256-E+YSbUVHWXv8SutV0K2qcAlgmBV0wfto4mjhgDiKSfg=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-aLSagvGIzF7nXH+3ceQxlRipQpKzzsyw+QZfY0w2oEI=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.1.tgz"},"5.0.10":{"narHash":"sha256-K5JJl6epXpEYaXnuRzpSHQ8kzDjpeHig6xK5aSPvlNI=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.10.tgz"},"5.0.11":{"narHash":"sha256-thRjhGNbCzvm74K1e5+Mes4iEPFu6RPdl8JGg8obDMQ=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.11.tgz"},"5.0.2":{"narHash":"sha256-y8+Xn8bGgP9x0usxkg4HxViH9BVLRCRixa2i7nKZDus=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-R1K3EHRDTFixxwPMwGIEyenfd2O7JIQyi7eMXeXHKsI=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-+9Ia2Nl4PtUL/G/K11qwRaHi2VlTsA7tZdV4BgBlPe4=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.4.tgz"},"5.0.5":{"narHash":"sha256-646cI6kVNBIlNF+cpqHX8PZoRVaVhoseglZTZTt4dsE=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.5.tgz"},"5.0.6":{"narHash":"sha256-bIj9a0FTkxStjurZXoaJjJqdxJ9OYwgxJ9HfsWf5jKE=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.6.tgz"},"5.0.7":{"narHash":"sha256-Rq0XXV5Z89Kvssp1sya8w5ZOsAKHoI02fTW+XYft0u8=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.7.tgz"},"5.0.8":{"narHash":"sha256-Sui0DAElkDw+wiksvbCWxqFGObHLe0IKj5N+o2n7skc=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.8.tgz"},"5.0.9":{"narHash":"sha256-yB3zOJGnA1vO8q40h3vqCj/fvlVhqdQHU4UsIx2lBg8=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.0.9.tgz"},"5.1.0":{"narHash":"sha256-Bgu6bQu9EohG/duw+t4kJXBQUlQiM8UkNXoBBpnSMcI=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.1.0.tgz"},"5.2.0":{"narHash":"sha256-eAgjOQNsLTf5JAtrkoijvGdsa6Ikl3Urk2J9Ey+L2ps=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.2.0.tgz"},"5.3.0":{"narHash":"sha256-Fkih4ZYS1dsuCT+vLGOq8OKOv2cjViWBLNxeOdumulg=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.3.0.tgz"},"5.4.0":{"narHash":"sha256-R90K3dndn8KPwZ0Xccn9b+BKHoh4Ab2ffPBtPcXWow0=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.4.0.tgz"},"5.5.0":{"narHash":"sha256-H91Ct0ZPxZViS7Ts7d3zCxIGRk6SPfU2Ax0IF8hSJDw=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.5.0.tgz"},"5.6.0":{"narHash":"sha256-6KAq2+caf9qdm/UoH7u64eLNZ+LBhpzQHzXsZL0AcKM=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.6.0.tgz"},"5.6.1":{"narHash":"sha256-VLCv69q82sALKjpjUJ3JIDNW1BTABwiZAMZBcGXvUIk=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.6.1.tgz"},"5.7.0":{"narHash":"sha256-c51PgpYVFxapw/541fISnU7pIe00ugOi22+yiIevEQo=","type":"tarball","url":"https://registry.npmjs.org/@ethersproject/address/-/address-5.7.0.tgz"}}
+{
+  "5.0.0": {
+    "narHash": "sha256-E+YSbUVHWXv8SutV0K2qcAlgmBV0wfto4mjhgDiKSfg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-aLSagvGIzF7nXH+3ceQxlRipQpKzzsyw+QZfY0w2oEI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.1.tgz"
+  },
+  "5.0.10": {
+    "narHash": "sha256-K5JJl6epXpEYaXnuRzpSHQ8kzDjpeHig6xK5aSPvlNI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.10.tgz"
+  },
+  "5.0.11": {
+    "narHash": "sha256-thRjhGNbCzvm74K1e5+Mes4iEPFu6RPdl8JGg8obDMQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.11.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-y8+Xn8bGgP9x0usxkg4HxViH9BVLRCRixa2i7nKZDus=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-R1K3EHRDTFixxwPMwGIEyenfd2O7JIQyi7eMXeXHKsI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-+9Ia2Nl4PtUL/G/K11qwRaHi2VlTsA7tZdV4BgBlPe4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.4.tgz"
+  },
+  "5.0.5": {
+    "narHash": "sha256-646cI6kVNBIlNF+cpqHX8PZoRVaVhoseglZTZTt4dsE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.5.tgz"
+  },
+  "5.0.6": {
+    "narHash": "sha256-bIj9a0FTkxStjurZXoaJjJqdxJ9OYwgxJ9HfsWf5jKE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.6.tgz"
+  },
+  "5.0.7": {
+    "narHash": "sha256-Rq0XXV5Z89Kvssp1sya8w5ZOsAKHoI02fTW+XYft0u8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.7.tgz"
+  },
+  "5.0.8": {
+    "narHash": "sha256-Sui0DAElkDw+wiksvbCWxqFGObHLe0IKj5N+o2n7skc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.8.tgz"
+  },
+  "5.0.9": {
+    "narHash": "sha256-yB3zOJGnA1vO8q40h3vqCj/fvlVhqdQHU4UsIx2lBg8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.0.9.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-Bgu6bQu9EohG/duw+t4kJXBQUlQiM8UkNXoBBpnSMcI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.1.0.tgz"
+  },
+  "5.2.0": {
+    "narHash": "sha256-eAgjOQNsLTf5JAtrkoijvGdsa6Ikl3Urk2J9Ey+L2ps=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.2.0.tgz"
+  },
+  "5.3.0": {
+    "narHash": "sha256-Fkih4ZYS1dsuCT+vLGOq8OKOv2cjViWBLNxeOdumulg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.3.0.tgz"
+  },
+  "5.4.0": {
+    "narHash": "sha256-R90K3dndn8KPwZ0Xccn9b+BKHoh4Ab2ffPBtPcXWow0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.4.0.tgz"
+  },
+  "5.5.0": {
+    "narHash": "sha256-H91Ct0ZPxZViS7Ts7d3zCxIGRk6SPfU2Ax0IF8hSJDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.5.0.tgz"
+  },
+  "5.6.0": {
+    "narHash": "sha256-6KAq2+caf9qdm/UoH7u64eLNZ+LBhpzQHzXsZL0AcKM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.6.0.tgz"
+  },
+  "5.6.1": {
+    "narHash": "sha256-VLCv69q82sALKjpjUJ3JIDNW1BTABwiZAMZBcGXvUIk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.6.1.tgz"
+  },
+  "5.7.0": {
+    "narHash": "sha256-c51PgpYVFxapw/541fISnU7pIe00ugOi22+yiIevEQo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethersproject/address/-/address-5.7.0.tgz"
+  }
+}

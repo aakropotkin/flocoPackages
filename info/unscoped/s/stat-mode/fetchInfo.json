@@ -1,1 +1,37 @@
-{"0.0.1":{"narHash":"sha256-u9ioxe+/vHIzZownBDOxsg6lJ+gSDViw4ZIEOCmeeqY=","type":"tarball","url":"https://registry.npmjs.org/stat-mode/-/stat-mode-0.0.1.tgz"},"0.1.0":{"narHash":"sha256-C2E4orUKa/DGJddPk6ffZy8NBxthWSRUJ96aDkcXCUQ=","type":"tarball","url":"https://registry.npmjs.org/stat-mode/-/stat-mode-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-XvAsMd1sqN6VJxWgJsVcuAjaF8e6ROC+wwIRp/1rdrs=","type":"tarball","url":"https://registry.npmjs.org/stat-mode/-/stat-mode-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-VTYzXFDVBOOSwIUc0nFmHTiIHHySsYVWW2zWSMeDZ2A=","type":"tarball","url":"https://registry.npmjs.org/stat-mode/-/stat-mode-0.2.1.tgz"},"0.2.2":{"narHash":"sha256-xQb6cInsCBCx+3GJIbtU9maD2i4FKkxvnnEpL80iAQ0=","type":"tarball","url":"https://registry.npmjs.org/stat-mode/-/stat-mode-0.2.2.tgz"},"0.3.0":{"narHash":"sha256-CbJ0/pOPsxwhldJsLv3VsYgUxgpcKv7B2M4CjRtDd80=","type":"tarball","url":"https://registry.npmjs.org/stat-mode/-/stat-mode-0.3.0.tgz"},"1.0.0":{"narHash":"sha256-eHhFlJsTUhrLWCFVa+8ef+5e8dMHA+kX4GCDOuqByOc=","type":"tarball","url":"https://registry.npmjs.org/stat-mode/-/stat-mode-1.0.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-u9ioxe+/vHIzZownBDOxsg6lJ+gSDViw4ZIEOCmeeqY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-0.0.1.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-C2E4orUKa/DGJddPk6ffZy8NBxthWSRUJ96aDkcXCUQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-XvAsMd1sqN6VJxWgJsVcuAjaF8e6ROC+wwIRp/1rdrs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-VTYzXFDVBOOSwIUc0nFmHTiIHHySsYVWW2zWSMeDZ2A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-0.2.1.tgz"
+  },
+  "0.2.2": {
+    "narHash": "sha256-xQb6cInsCBCx+3GJIbtU9maD2i4FKkxvnnEpL80iAQ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-0.2.2.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-CbJ0/pOPsxwhldJsLv3VsYgUxgpcKv7B2M4CjRtDd80=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-0.3.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-eHhFlJsTUhrLWCFVa+8ef+5e8dMHA+kX4GCDOuqByOc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-1.0.0.tgz"
+  }
+}

@@ -1,1 +1,77 @@
-{"7.0.0":{"narHash":"sha256-Rv01re0+d8Q2V67Q5YuaVKenC3j4DJHaMUOQZPiVZjg=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.0.0.tgz"},"7.10.1":{"narHash":"sha256-o10nVm6BhsLAynFuZ7ahxUCPciQC7ADAK9Ub+5uwdTQ=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.10.1.tgz"},"7.10.4":{"narHash":"sha256-zudXKm2XNCqMRUSgNEd6sS58Zr+1t2On3cojoo2gv3s=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.10.4.tgz"},"7.12.1":{"narHash":"sha256-DHJB/LA+So2QzJeo49HRsc1S/aqkyMH2Olh+DWNxSrY=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.12.1.tgz"},"7.12.13":{"narHash":"sha256-/9Q7XhV1s4FZyP6UJG9XASWFLR0Hyc0fXsLtm9Nn38c=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.12.13.tgz"},"7.12.7":{"narHash":"sha256-G1O/Rn8l/sMwnPPL8TbNH6tLPLT5G5otJadup0Jejbg=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.12.7.tgz"},"7.14.5":{"narHash":"sha256-0xjKH2HrAlnfwTm2/1FDqdyYvLVcARnkXMzN2CO+t9M=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.14.5.tgz"},"7.16.0":{"narHash":"sha256-K41P+GcpIPf3FnfaiuPJoErpKzR03rPyOPJ0leFsK74=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.16.0.tgz"},"7.16.5":{"narHash":"sha256-58e+CMyl9WPQWPQrD15bZdB27zB/LMdGDCfdmdHA11E=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.16.5.tgz"},"7.16.7":{"narHash":"sha256-qk2wV2Ju1NXaPgSqQhKKTCj6slyaL2OqwbIydKxUjjs=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.16.7.tgz"},"7.18.6":{"narHash":"sha256-q3HSyoJ3g7KZFwcTKPPM5W7eebfcyKzifsDgN3XNz1U=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.18.6.tgz"},"7.2.0":{"narHash":"sha256-eXXK763NteP/nnTOz0GnFJdqJUav4J8Mp5/GNxq2zEY=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.2.0.tgz"},"7.7.4":{"narHash":"sha256-/E50GvuvfqVhzIk4ZX0387IYCFHFi0KeEt0SANVyT+4=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.7.4.tgz"},"7.8.0":{"narHash":"sha256-3uSBh6tRF9rq7w67ZOsLYIn3UoMAXfDhJ1ub8CjSrZo=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.8.0.tgz"},"7.8.3":{"narHash":"sha256-ZTh+ka25Wo/bv71fNnPjOUhhj7np9SDc0iPLnVd1fL4=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.8.3.tgz"}}
+{
+  "7.0.0": {
+    "narHash": "sha256-Rv01re0+d8Q2V67Q5YuaVKenC3j4DJHaMUOQZPiVZjg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.0.0.tgz"
+  },
+  "7.10.1": {
+    "narHash": "sha256-o10nVm6BhsLAynFuZ7ahxUCPciQC7ADAK9Ub+5uwdTQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.10.1.tgz"
+  },
+  "7.10.4": {
+    "narHash": "sha256-zudXKm2XNCqMRUSgNEd6sS58Zr+1t2On3cojoo2gv3s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.10.4.tgz"
+  },
+  "7.12.1": {
+    "narHash": "sha256-DHJB/LA+So2QzJeo49HRsc1S/aqkyMH2Olh+DWNxSrY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.12.1.tgz"
+  },
+  "7.12.13": {
+    "narHash": "sha256-/9Q7XhV1s4FZyP6UJG9XASWFLR0Hyc0fXsLtm9Nn38c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.12.13.tgz"
+  },
+  "7.12.7": {
+    "narHash": "sha256-G1O/Rn8l/sMwnPPL8TbNH6tLPLT5G5otJadup0Jejbg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.12.7.tgz"
+  },
+  "7.14.5": {
+    "narHash": "sha256-0xjKH2HrAlnfwTm2/1FDqdyYvLVcARnkXMzN2CO+t9M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.14.5.tgz"
+  },
+  "7.16.0": {
+    "narHash": "sha256-K41P+GcpIPf3FnfaiuPJoErpKzR03rPyOPJ0leFsK74=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.16.0.tgz"
+  },
+  "7.16.5": {
+    "narHash": "sha256-58e+CMyl9WPQWPQrD15bZdB27zB/LMdGDCfdmdHA11E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.16.5.tgz"
+  },
+  "7.16.7": {
+    "narHash": "sha256-qk2wV2Ju1NXaPgSqQhKKTCj6slyaL2OqwbIydKxUjjs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.16.7.tgz"
+  },
+  "7.18.6": {
+    "narHash": "sha256-q3HSyoJ3g7KZFwcTKPPM5W7eebfcyKzifsDgN3XNz1U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.18.6.tgz"
+  },
+  "7.2.0": {
+    "narHash": "sha256-eXXK763NteP/nnTOz0GnFJdqJUav4J8Mp5/GNxq2zEY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.2.0.tgz"
+  },
+  "7.7.4": {
+    "narHash": "sha256-/E50GvuvfqVhzIk4ZX0387IYCFHFi0KeEt0SANVyT+4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.7.4.tgz"
+  },
+  "7.8.0": {
+    "narHash": "sha256-3uSBh6tRF9rq7w67ZOsLYIn3UoMAXfDhJ1ub8CjSrZo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.8.0.tgz"
+  },
+  "7.8.3": {
+    "narHash": "sha256-ZTh+ka25Wo/bv71fNnPjOUhhj7np9SDc0iPLnVd1fL4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.8.3.tgz"
+  }
+}

@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-BbBlPXHCmJof9uxcNzZ3nxmbkcQy4wbgfnESQ3dsSFA=","type":"tarball","url":"https://registry.npmjs.org/colorspace/-/colorspace-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-cMHaSlVo/H0cHc5xtyCW5wWRVV4OQC51hBOMsGm1d48=","type":"tarball","url":"https://registry.npmjs.org/colorspace/-/colorspace-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-Is3nxScNXsiZJDdnrPQq/jnK6FPfUziqiQH0F+P21Eo=","type":"tarball","url":"https://registry.npmjs.org/colorspace/-/colorspace-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-9D/cMeJwSKhxNnJvhC1ogGNmOxNl6tH4Hc0dFCAvOZ4=","type":"tarball","url":"https://registry.npmjs.org/colorspace/-/colorspace-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-vqkYhjqTQ16Anw+4ieqhNgdn4+0oPDwEA7L+SsVudy4=","type":"tarball","url":"https://registry.npmjs.org/colorspace/-/colorspace-1.1.2.tgz"},"1.1.3":{"narHash":"sha256-O3tnLg65X8Kdb9D8mKMLgfjIJvVTTY6pUTNwDEefuSQ=","type":"tarball","url":"https://registry.npmjs.org/colorspace/-/colorspace-1.1.3.tgz"},"1.1.4":{"narHash":"sha256-xqazuJNdiHI/bHska/+EfYWIlzK1BfWXNthsD4hm61Y=","type":"tarball","url":"https://registry.npmjs.org/colorspace/-/colorspace-1.1.4.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-BbBlPXHCmJof9uxcNzZ3nxmbkcQy4wbgfnESQ3dsSFA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colorspace/-/colorspace-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-cMHaSlVo/H0cHc5xtyCW5wWRVV4OQC51hBOMsGm1d48=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colorspace/-/colorspace-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-Is3nxScNXsiZJDdnrPQq/jnK6FPfUziqiQH0F+P21Eo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colorspace/-/colorspace-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-9D/cMeJwSKhxNnJvhC1ogGNmOxNl6tH4Hc0dFCAvOZ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colorspace/-/colorspace-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-vqkYhjqTQ16Anw+4ieqhNgdn4+0oPDwEA7L+SsVudy4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colorspace/-/colorspace-1.1.2.tgz"
+  },
+  "1.1.3": {
+    "narHash": "sha256-O3tnLg65X8Kdb9D8mKMLgfjIJvVTTY6pUTNwDEefuSQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colorspace/-/colorspace-1.1.3.tgz"
+  },
+  "1.1.4": {
+    "narHash": "sha256-xqazuJNdiHI/bHska/+EfYWIlzK1BfWXNthsD4hm61Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/colorspace/-/colorspace-1.1.4.tgz"
+  }
+}

@@ -1,1 +1,52 @@
-{"0.2.0":{"narHash":"sha256-Pvzci9qpzmUyo+fC6KIYl49epNkPeFgOpBmpJKKlz2k=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-Y31oW3pQOAID3bWmIjSSiC3Jpr1yj4L8KqUi44LnhPo=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.3.0.tgz"},"0.4.0":{"narHash":"sha256-9DOuUxBkSvwpCQ5PND5ErI/xJdvQGsamQkddFSsXNC8=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.4.0.tgz"},"0.5.0":{"narHash":"sha256-vArqaD6snwNrG7sEGNDRXrb88mS6csLdkkHNewVMmJo=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.5.0.tgz"},"0.6.0":{"narHash":"sha256-27H3/giJgxvPOY3EvxoeMkAdsRk56Yl1/Kx/m4xjAuk=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.6.0.tgz"},"0.7.0":{"narHash":"sha256-QdLU4Lrgv0tTI168k+VolZazjDYRelt/VEUPeHBk+4A=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.7.0.tgz"},"0.8.0":{"narHash":"sha256-OKnL5xeqVi92t++SmSlMLTlz+x+f3jHkU5C7/ccHrmE=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.8.0.tgz"},"0.8.1":{"narHash":"sha256-JNjuDYMs5MqPby3kseH5Ex+HeQwF++OQlICa57jHd7Y=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.8.1.tgz"},"0.8.2":{"narHash":"sha256-W5YOEwX8JjcUBNVi/6/KPFQESGhXjUmp7pVmuAM7xSw=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.8.2.tgz"},"0.9.0":{"narHash":"sha256-zV2PDn3Hb7/j5Y5A3X5ktufZ1YCE22PlYgYgyGENdiU=","type":"tarball","url":"https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.9.0.tgz"}}
+{
+  "0.2.0": {
+    "narHash": "sha256-Pvzci9qpzmUyo+fC6KIYl49epNkPeFgOpBmpJKKlz2k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-Y31oW3pQOAID3bWmIjSSiC3Jpr1yj4L8KqUi44LnhPo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.3.0.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-9DOuUxBkSvwpCQ5PND5ErI/xJdvQGsamQkddFSsXNC8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.4.0.tgz"
+  },
+  "0.5.0": {
+    "narHash": "sha256-vArqaD6snwNrG7sEGNDRXrb88mS6csLdkkHNewVMmJo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.5.0.tgz"
+  },
+  "0.6.0": {
+    "narHash": "sha256-27H3/giJgxvPOY3EvxoeMkAdsRk56Yl1/Kx/m4xjAuk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.6.0.tgz"
+  },
+  "0.7.0": {
+    "narHash": "sha256-QdLU4Lrgv0tTI168k+VolZazjDYRelt/VEUPeHBk+4A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.7.0.tgz"
+  },
+  "0.8.0": {
+    "narHash": "sha256-OKnL5xeqVi92t++SmSlMLTlz+x+f3jHkU5C7/ccHrmE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.8.0.tgz"
+  },
+  "0.8.1": {
+    "narHash": "sha256-JNjuDYMs5MqPby3kseH5Ex+HeQwF++OQlICa57jHd7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.8.1.tgz"
+  },
+  "0.8.2": {
+    "narHash": "sha256-W5YOEwX8JjcUBNVi/6/KPFQESGhXjUmp7pVmuAM7xSw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.8.2.tgz"
+  },
+  "0.9.0": {
+    "narHash": "sha256-zV2PDn3Hb7/j5Y5A3X5ktufZ1YCE22PlYgYgyGENdiU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.9.0.tgz"
+  }
+}

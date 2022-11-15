@@ -1,1 +1,67 @@
-{"0.0.1":{"narHash":"sha256-TpOAwyZsI12VIaUHBU/PVYaiqqK10d366gL7UfUL7/E=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-0.0.1.tgz"},"1.0.0":{"narHash":"sha256-uQy19sS2i5XsK+piYffa1ucN6IziFH9JMVQl6dGfULU=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-Hgm4opTQZGeyWfKrzDUuDxRWpawPmULSH9pPbH7bR0k=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-9zcoPWWZTDBQ2hcxbVooAdl+gK4yy4IEO8QEZk5az0k=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-CyewiBinFhC7RxoxMFSNJ1PMH7UGOWzGwhYbvxMTbQ0=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-3A8HC9YAIJ8BoubmYD/d969Y7J/hOwNfPBs3vgdCEE4=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-oaCkLf15xm54mJIrLRPbWYUOeVOF5D2E1v05Xk6IpnY=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-IwXalHKtCFK9vFYvwhclYfzLwDeGsBT19z2lTpYmNbw=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-ns9LgvgxCdM9q05rOZLW/Ov2rkywfGcWsHY1QpA0PU8=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-2.0.5.tgz"},"3.0.0":{"narHash":"sha256-MtGiXAR99wHr9+YVHnbD7lTCcXU/KlIsLwJionWvDnI=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-IIgo2fa63Vg9MdMk7F7LzYe3IMZ2U2fuIy2y/5AA8Ig=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-m8os0Q9A8yZIcVRA5Zjx0t7htZxad+9rg419EKaZmHI=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-4.0.1.tgz"},"5.0.0":{"narHash":"sha256-YFt7KBT6QRfberQbo64qH/hd/mX7xfvY+DNyioYy3Pw=","type":"tarball","url":"https://registry.npmjs.org/url-join/-/url-join-5.0.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-TpOAwyZsI12VIaUHBU/PVYaiqqK10d366gL7UfUL7/E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-0.0.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-uQy19sS2i5XsK+piYffa1ucN6IziFH9JMVQl6dGfULU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-Hgm4opTQZGeyWfKrzDUuDxRWpawPmULSH9pPbH7bR0k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-9zcoPWWZTDBQ2hcxbVooAdl+gK4yy4IEO8QEZk5az0k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-CyewiBinFhC7RxoxMFSNJ1PMH7UGOWzGwhYbvxMTbQ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-3A8HC9YAIJ8BoubmYD/d969Y7J/hOwNfPBs3vgdCEE4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-oaCkLf15xm54mJIrLRPbWYUOeVOF5D2E1v05Xk6IpnY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-IwXalHKtCFK9vFYvwhclYfzLwDeGsBT19z2lTpYmNbw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-ns9LgvgxCdM9q05rOZLW/Ov2rkywfGcWsHY1QpA0PU8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-2.0.5.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-MtGiXAR99wHr9+YVHnbD7lTCcXU/KlIsLwJionWvDnI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-IIgo2fa63Vg9MdMk7F7LzYe3IMZ2U2fuIy2y/5AA8Ig=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-m8os0Q9A8yZIcVRA5Zjx0t7htZxad+9rg419EKaZmHI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-4.0.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-YFt7KBT6QRfberQbo64qH/hd/mX7xfvY+DNyioYy3Pw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/url-join/-/url-join-5.0.0.tgz"
+  }
+}

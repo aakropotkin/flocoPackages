@@ -1,1 +1,37 @@
-{"0.2.0":{"narHash":"sha256-rTjFacE/YzLPStucwcHSGnAf8UUkft8vWHLQiO8L38g=","type":"tarball","url":"https://registry.npmjs.org/forever-agent/-/forever-agent-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-V76mgpZXjKLH3bErVgaVSNld6QzFBypwNO6qYckh72o=","type":"tarball","url":"https://registry.npmjs.org/forever-agent/-/forever-agent-0.3.0.tgz"},"0.4.0":{"narHash":"sha256-ssa3NxtgWuToLGEvLEQX7M60yWjG1Avtne2n9NmdVjc=","type":"tarball","url":"https://registry.npmjs.org/forever-agent/-/forever-agent-0.4.0.tgz"},"0.5.0":{"narHash":"sha256-15NFYyRAd5CZK8PGoD9d/ye/r09oCVvopsEeVjgjlQY=","type":"tarball","url":"https://registry.npmjs.org/forever-agent/-/forever-agent-0.5.0.tgz"},"0.5.2":{"narHash":"sha256-QqLkYNEPdla0Ov/qw6AKhdaGvGAFJ0O+hbbPcuRR+VU=","type":"tarball","url":"https://registry.npmjs.org/forever-agent/-/forever-agent-0.5.2.tgz"},"0.6.0":{"narHash":"sha256-BTFmFnMro8OPSS1WNZ53tE7sUd6D9Hzk7XdywXE5LmA=","type":"tarball","url":"https://registry.npmjs.org/forever-agent/-/forever-agent-0.6.0.tgz"},"0.6.1":{"narHash":"sha256-40O7yb39mqzcsHaLjpGI08sLSut7RJnJejFJBYpkL6Y=","type":"tarball","url":"https://registry.npmjs.org/forever-agent/-/forever-agent-0.6.1.tgz"}}
+{
+  "0.2.0": {
+    "narHash": "sha256-rTjFacE/YzLPStucwcHSGnAf8UUkft8vWHLQiO8L38g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/forever-agent/-/forever-agent-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-V76mgpZXjKLH3bErVgaVSNld6QzFBypwNO6qYckh72o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/forever-agent/-/forever-agent-0.3.0.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-ssa3NxtgWuToLGEvLEQX7M60yWjG1Avtne2n9NmdVjc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/forever-agent/-/forever-agent-0.4.0.tgz"
+  },
+  "0.5.0": {
+    "narHash": "sha256-15NFYyRAd5CZK8PGoD9d/ye/r09oCVvopsEeVjgjlQY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/forever-agent/-/forever-agent-0.5.0.tgz"
+  },
+  "0.5.2": {
+    "narHash": "sha256-QqLkYNEPdla0Ov/qw6AKhdaGvGAFJ0O+hbbPcuRR+VU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/forever-agent/-/forever-agent-0.5.2.tgz"
+  },
+  "0.6.0": {
+    "narHash": "sha256-BTFmFnMro8OPSS1WNZ53tE7sUd6D9Hzk7XdywXE5LmA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/forever-agent/-/forever-agent-0.6.0.tgz"
+  },
+  "0.6.1": {
+    "narHash": "sha256-40O7yb39mqzcsHaLjpGI08sLSut7RJnJejFJBYpkL6Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/forever-agent/-/forever-agent-0.6.1.tgz"
+  }
+}

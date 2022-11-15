@@ -1,1 +1,37 @@
-{"1.0.2":{"narHash":"sha256-kVEN9UY5CaxFM2RQrJhsv2UPQbS7EbHX32jU58KuQ/c=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-61bMVl5xLPL8cnxdnvNEJzr064mcFHdItpHFvP/RBog=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-EGp/kbYI2N1NddnZBgmB7t2n3bipd1m68UxhQJs9S28=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-3U8mtRRs/+wOccTL6LhM53fK4uONmpr3UaVk31QT0Lo=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.0.5.tgz"},"1.1.0":{"narHash":"sha256-TUSperjzIskBiCiCAbSOdRsw3EXlzvxdWqRSN0SaWzs=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-da1xQaEV2TxURaa1Dk5qBA21T6duyKSTg8a4IwkMA0o=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-xFfhoOOP4AsyKiCo4Am8I0PPFAMto0iPl6lVGjESS/U=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.1.2.tgz"}}
+{
+  "1.0.2": {
+    "narHash": "sha256-kVEN9UY5CaxFM2RQrJhsv2UPQbS7EbHX32jU58KuQ/c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-61bMVl5xLPL8cnxdnvNEJzr064mcFHdItpHFvP/RBog=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-EGp/kbYI2N1NddnZBgmB7t2n3bipd1m68UxhQJs9S28=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-3U8mtRRs/+wOccTL6LhM53fK4uONmpr3UaVk31QT0Lo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.0.5.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-TUSperjzIskBiCiCAbSOdRsw3EXlzvxdWqRSN0SaWzs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-da1xQaEV2TxURaa1Dk5qBA21T6duyKSTg8a4IwkMA0o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-xFfhoOOP4AsyKiCo4Am8I0PPFAMto0iPl6lVGjESS/U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.1.2.tgz"
+  }
+}

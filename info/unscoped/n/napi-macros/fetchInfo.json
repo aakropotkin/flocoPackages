@@ -1,1 +1,72 @@
-{"1.0.0":{"narHash":"sha256-v/JHMRMBQzIfMxOVQFNYZ4O87Be9MSQNDtj5P5V+ujQ=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-LRtTMYj4ep3AkSr6hKet4Lh0vUx9VBHB/GqylR85Mqw=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-DfXRW+wPKYPHTkkCFHwobjZXSGR5oWBXw/TNpdq7YN0=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.2.0.tgz"},"1.3.0":{"narHash":"sha256-4PKNkMCQ5dREncESlrw/Qfuhnr0Fk/QIoFEx1CjPMTM=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.3.0.tgz"},"1.4.0":{"narHash":"sha256-hvKzEpNTzcvt8LEiN8mngT9M6Jeeogh3plrr0eJNpR4=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.4.0.tgz"},"1.4.1":{"narHash":"sha256-xg/bEe7nlTv3tf57+vFIDRrZ1HgP9YZ29l1yNEqrNZQ=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.4.1.tgz"},"1.5.0":{"narHash":"sha256-X9QnLBLUglvQIP4reYDM0W5B0zss4VHxFgzRuBKbUaY=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.5.0.tgz"},"1.6.0":{"narHash":"sha256-gltL1f1HC4VeYUEtZDZj8xmXZqpyeC8gT+gn+tBEmYc=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.6.0.tgz"},"1.7.0":{"narHash":"sha256-AJfKVlgd4mZak9RyIoeISrir18f5t+YFjoaKB13NeMQ=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.7.0.tgz"},"1.8.0":{"narHash":"sha256-CnIHq1I5GMbB7MoMdPWG16tibfZFZ1EzKK5uMux5nbE=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.8.0.tgz"},"1.8.1":{"narHash":"sha256-llTKXJXXpBdPg04iImNmNtJV2k9rAqLqjH8pUmDDxpk=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.8.1.tgz"},"1.8.2":{"narHash":"sha256-0m/7A8MWiMefHa8jbcpnxipP7mMMPmj+3tQ0W7mw29Y=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-1.8.2.tgz"},"2.0.0":{"narHash":"sha256-soyWUJTO9L69AlvsVtRWU+HFrshTYhg8EoC+MvTCmCg=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-j+5nOGEV0rtCMtlb2wGaMXYs8uMxQhzWLOq5sLc+o1s=","type":"tarball","url":"https://registry.npmjs.org/napi-macros/-/napi-macros-2.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-v/JHMRMBQzIfMxOVQFNYZ4O87Be9MSQNDtj5P5V+ujQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-LRtTMYj4ep3AkSr6hKet4Lh0vUx9VBHB/GqylR85Mqw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-DfXRW+wPKYPHTkkCFHwobjZXSGR5oWBXw/TNpdq7YN0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.2.0.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-4PKNkMCQ5dREncESlrw/Qfuhnr0Fk/QIoFEx1CjPMTM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.3.0.tgz"
+  },
+  "1.4.0": {
+    "narHash": "sha256-hvKzEpNTzcvt8LEiN8mngT9M6Jeeogh3plrr0eJNpR4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.4.0.tgz"
+  },
+  "1.4.1": {
+    "narHash": "sha256-xg/bEe7nlTv3tf57+vFIDRrZ1HgP9YZ29l1yNEqrNZQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.4.1.tgz"
+  },
+  "1.5.0": {
+    "narHash": "sha256-X9QnLBLUglvQIP4reYDM0W5B0zss4VHxFgzRuBKbUaY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.5.0.tgz"
+  },
+  "1.6.0": {
+    "narHash": "sha256-gltL1f1HC4VeYUEtZDZj8xmXZqpyeC8gT+gn+tBEmYc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.6.0.tgz"
+  },
+  "1.7.0": {
+    "narHash": "sha256-AJfKVlgd4mZak9RyIoeISrir18f5t+YFjoaKB13NeMQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.7.0.tgz"
+  },
+  "1.8.0": {
+    "narHash": "sha256-CnIHq1I5GMbB7MoMdPWG16tibfZFZ1EzKK5uMux5nbE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.8.0.tgz"
+  },
+  "1.8.1": {
+    "narHash": "sha256-llTKXJXXpBdPg04iImNmNtJV2k9rAqLqjH8pUmDDxpk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.8.1.tgz"
+  },
+  "1.8.2": {
+    "narHash": "sha256-0m/7A8MWiMefHa8jbcpnxipP7mMMPmj+3tQ0W7mw29Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-1.8.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-soyWUJTO9L69AlvsVtRWU+HFrshTYhg8EoC+MvTCmCg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-j+5nOGEV0rtCMtlb2wGaMXYs8uMxQhzWLOq5sLc+o1s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/napi-macros/-/napi-macros-2.1.0.tgz"
+  }
+}

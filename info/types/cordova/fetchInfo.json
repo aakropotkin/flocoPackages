@@ -1,1 +1,32 @@
-{"0.0.29":{"narHash":"sha256-bkRJmr2UqkGH4BlubSiw16bOJ3zezDw6p/8nx9ROs3E=","type":"tarball","url":"https://registry.npmjs.org/@types/cordova/-/cordova-0.0.29.tgz"},"0.0.30":{"narHash":"sha256-osQdQGE5C1F9fI2xETcx5w5PXpT1gCKhEwCOrZGYcls=","type":"file","url":"https://registry.npmjs.org/@types/cordova/-/cordova-0.0.30.tgz"},"0.0.31":{"narHash":"sha256-F9CYwoNqs4v1JOW3ne01eogQoI8x7Z5Pd9c0leG4uzU=","type":"file","url":"https://registry.npmjs.org/@types/cordova/-/cordova-0.0.31.tgz"},"0.0.32":{"narHash":"sha256-21Rf1awysD1e75hHzX1Hncluo5TDLIVRdQvNTYf6FXk=","type":"tarball","url":"https://registry.npmjs.org/@types/cordova/-/cordova-0.0.32.tgz"},"0.0.33":{"narHash":"sha256-MgUrjdX2C7uXHT26Bct7PDlUA16oUetZBt2hpq1hgWE=","type":"tarball","url":"https://registry.npmjs.org/@types/cordova/-/cordova-0.0.33.tgz"},"0.0.34":{"narHash":"sha256-7xd+M+2VSpNw5OH2scFVHgXwGPR08tEcpxxgIemdRlI=","type":"tarball","url":"https://registry.npmjs.org/@types/cordova/-/cordova-0.0.34.tgz"}}
+{
+  "0.0.29": {
+    "narHash": "sha256-bkRJmr2UqkGH4BlubSiw16bOJ3zezDw6p/8nx9ROs3E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/cordova/-/cordova-0.0.29.tgz"
+  },
+  "0.0.30": {
+    "narHash": "sha256-osQdQGE5C1F9fI2xETcx5w5PXpT1gCKhEwCOrZGYcls=",
+    "type": "file",
+    "url": "https://registry.npmjs.org/@types/cordova/-/cordova-0.0.30.tgz"
+  },
+  "0.0.31": {
+    "narHash": "sha256-F9CYwoNqs4v1JOW3ne01eogQoI8x7Z5Pd9c0leG4uzU=",
+    "type": "file",
+    "url": "https://registry.npmjs.org/@types/cordova/-/cordova-0.0.31.tgz"
+  },
+  "0.0.32": {
+    "narHash": "sha256-21Rf1awysD1e75hHzX1Hncluo5TDLIVRdQvNTYf6FXk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/cordova/-/cordova-0.0.32.tgz"
+  },
+  "0.0.33": {
+    "narHash": "sha256-MgUrjdX2C7uXHT26Bct7PDlUA16oUetZBt2hpq1hgWE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/cordova/-/cordova-0.0.33.tgz"
+  },
+  "0.0.34": {
+    "narHash": "sha256-7xd+M+2VSpNw5OH2scFVHgXwGPR08tEcpxxgIemdRlI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/cordova/-/cordova-0.0.34.tgz"
+  }
+}

@@ -1,1 +1,47 @@
-{"1.0.0":{"narHash":"sha256-OFVgVkDcZO/kiIcLPnl+78qRtqoSA7XS5h0833segWs=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-uFQ0qnmNYMp+NM+6vs5Wq38vEPw8P90Sp3N8TgIRMVo=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-9GgBEvvuNQW00mncvn8H5B77FU8W2yVTaFwXv10Vr40=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-MU5dAD9LmiYz9RN2JZlJAwcaq+co5NzeblUbfHg3Qy4=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-maJhCOeQnhrN820sK7hwg29Ez5dcQewp/UPLfEWnFtM=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-VsY4xbOiMWzvSuMJhOp3a2426FSOAnmtcliaIQukX/I=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.5.tgz"},"1.1.0":{"narHash":"sha256-W21nOFybZfqVQrbOzMnXVL785porSAswmA91nwe1OXI=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-IkhwmpVoGQHbZPPInXPSIicH64EDMW3ef6NjjN8S8S4=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-KXoG76rhjyrwKek+9IZ1Hjd1Re5E/UWp2OdoqL71cio=","type":"tarball","url":"https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-2.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-OFVgVkDcZO/kiIcLPnl+78qRtqoSA7XS5h0833segWs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-uFQ0qnmNYMp+NM+6vs5Wq38vEPw8P90Sp3N8TgIRMVo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-9GgBEvvuNQW00mncvn8H5B77FU8W2yVTaFwXv10Vr40=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-MU5dAD9LmiYz9RN2JZlJAwcaq+co5NzeblUbfHg3Qy4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-maJhCOeQnhrN820sK7hwg29Ez5dcQewp/UPLfEWnFtM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-VsY4xbOiMWzvSuMJhOp3a2426FSOAnmtcliaIQukX/I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.5.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-W21nOFybZfqVQrbOzMnXVL785porSAswmA91nwe1OXI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-IkhwmpVoGQHbZPPInXPSIicH64EDMW3ef6NjjN8S8S4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-KXoG76rhjyrwKek+9IZ1Hjd1Re5E/UWp2OdoqL71cio=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-2.1.0.tgz"
+  }
+}

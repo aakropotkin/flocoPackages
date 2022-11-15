@@ -1,1 +1,82 @@
-{"0.1.1":{"narHash":"sha256-Sa6AGqbEEdVK833Mci2g8ac5zz7Nj5rMUsz/EQjnN0o=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.1.1.tgz"},"0.2.0":{"narHash":"sha256-5l2yQTAjaKw3PWQAIXOWCaRKk5Ds8imeQ0qOxsZIDDI=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-RyF2ZHcrncnkKJvWoN0LM4R4HxZT7iWdC1sWDuvy+us=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.3.0.tgz"},"0.3.1":{"narHash":"sha256-F+7HUi4rxX59z6MewgGhFphMCFqXXqlY7IjL1R4p3FQ=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.3.1.tgz"},"0.3.2":{"narHash":"sha256-rcQrc9eZzO2lVgoBdK4H3H9leUqh2653viedbQf3Ndc=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.3.2.tgz"},"0.3.3":{"narHash":"sha256-4MvAGfiyJFnXTBehMhwCArFilJf//yJlel3866Y4DtQ=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.3.3.tgz"},"1.0.0":{"narHash":"sha256-K+sq2yql+ho5VzbMJ1eIhN+l1tEqyOvuZkxaNXAGL3k=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-AjEGf7fj+IX0xF0DSX59cW9KWF8bliNWyu9w3Sa1Wtw=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-LWPs+xYUNWdZBbuI4rUGI/vnDPvFH6rRnzrOI7wQeL8=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-Yb/UVPkCBjhx577K1pTxAPDmymthWCq78I1cDK3ZwHU=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-XVTCA4d7gG7oToNbsyuFfRTnUm9XNIDx5jhZvOJIcAg=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.4.tgz"},"2.0.0":{"narHash":"sha256-YjislgZECvuAIr3Reen0YprNmNuLmC6AUlFohv6Roc0=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-nBS7wYuoJm6M4a9YwwPs4/i/17uiCptwceyfVj4UAGs=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-2.0.1.tgz"},"2.1.0":{"narHash":"sha256-GWxwKyhuM+TMtb9lqYM2O9l7nHYCiQOVZjwynIpb4ik=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-x+o6tJBi/Gg371+8mMlk/NZkKKzE4jg4fxPqZLIWZvg=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-2.1.1.tgz"},"3.0.0":{"narHash":"sha256-A3eLarlqN1XPBYBcFPY1yUpfxdhJKvDBjN+vsOAmOoc=","type":"tarball","url":"https://registry.npmjs.org/@google-cloud/projectify/-/projectify-3.0.0.tgz"}}
+{
+  "0.1.1": {
+    "narHash": "sha256-Sa6AGqbEEdVK833Mci2g8ac5zz7Nj5rMUsz/EQjnN0o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.1.1.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-5l2yQTAjaKw3PWQAIXOWCaRKk5Ds8imeQ0qOxsZIDDI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-RyF2ZHcrncnkKJvWoN0LM4R4HxZT7iWdC1sWDuvy+us=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.3.0.tgz"
+  },
+  "0.3.1": {
+    "narHash": "sha256-F+7HUi4rxX59z6MewgGhFphMCFqXXqlY7IjL1R4p3FQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.3.1.tgz"
+  },
+  "0.3.2": {
+    "narHash": "sha256-rcQrc9eZzO2lVgoBdK4H3H9leUqh2653viedbQf3Ndc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.3.2.tgz"
+  },
+  "0.3.3": {
+    "narHash": "sha256-4MvAGfiyJFnXTBehMhwCArFilJf//yJlel3866Y4DtQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-0.3.3.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-K+sq2yql+ho5VzbMJ1eIhN+l1tEqyOvuZkxaNXAGL3k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-AjEGf7fj+IX0xF0DSX59cW9KWF8bliNWyu9w3Sa1Wtw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-LWPs+xYUNWdZBbuI4rUGI/vnDPvFH6rRnzrOI7wQeL8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-Yb/UVPkCBjhx577K1pTxAPDmymthWCq78I1cDK3ZwHU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-XVTCA4d7gG7oToNbsyuFfRTnUm9XNIDx5jhZvOJIcAg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-1.0.4.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-YjislgZECvuAIr3Reen0YprNmNuLmC6AUlFohv6Roc0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-nBS7wYuoJm6M4a9YwwPs4/i/17uiCptwceyfVj4UAGs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-2.0.1.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-GWxwKyhuM+TMtb9lqYM2O9l7nHYCiQOVZjwynIpb4ik=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-x+o6tJBi/Gg371+8mMlk/NZkKKzE4jg4fxPqZLIWZvg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-2.1.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-A3eLarlqN1XPBYBcFPY1yUpfxdhJKvDBjN+vsOAmOoc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@google-cloud/projectify/-/projectify-3.0.0.tgz"
+  }
+}

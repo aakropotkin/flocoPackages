@@ -1,1 +1,47 @@
-{"4.0.0":{"narHash":"sha256-JSFTlFU3U0jVOxIA3ZFeGIcn6Hmg/DJ6RLiVMw8fvOo=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-DIAlsYHgZyhS8oPyb0Kypm4LrjGkwZldSmRIJvsvfP8=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-4.0.1.tgz"},"5.0.0":{"narHash":"sha256-g8pbyiJ92ycN2GAXKV8RN/Dj4HzHLFxV1SLnbO7l+XA=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-qSQLULoAe1MhJ1IPAgmp00fzX9w+iRRaLXBxhLJxyGQ=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-DI4hrYOvkAiqXN1VslTn/N14ddhcr2muP51vc2JgYVk=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-mFqx9hH+6ou1zRAV//tCfzyIbcGmfecOANg2kBiJFMs=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-8bg5tsug5XbnrIeuQOf845rQqBaESQUtfiwi/znQtT4=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.4.tgz"},"5.1.0":{"narHash":"sha256-n9ylhd4gmwQLV9z9sPmiCE1WIIVbA05jeGXCQes8ZrE=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.1.0.tgz"},"5.1.1":{"narHash":"sha256-IpOPnh3hGO1uzpqs3JgrbdYIoihSIofWfEFY7J2E18U=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.1.1.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-JSFTlFU3U0jVOxIA3ZFeGIcn6Hmg/DJ6RLiVMw8fvOo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-DIAlsYHgZyhS8oPyb0Kypm4LrjGkwZldSmRIJvsvfP8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-4.0.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-g8pbyiJ92ycN2GAXKV8RN/Dj4HzHLFxV1SLnbO7l+XA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-qSQLULoAe1MhJ1IPAgmp00fzX9w+iRRaLXBxhLJxyGQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-DI4hrYOvkAiqXN1VslTn/N14ddhcr2muP51vc2JgYVk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-mFqx9hH+6ou1zRAV//tCfzyIbcGmfecOANg2kBiJFMs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-8bg5tsug5XbnrIeuQOf845rQqBaESQUtfiwi/znQtT4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.0.4.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-n9ylhd4gmwQLV9z9sPmiCE1WIIVbA05jeGXCQes8ZrE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.1.0.tgz"
+  },
+  "5.1.1": {
+    "narHash": "sha256-IpOPnh3hGO1uzpqs3JgrbdYIoihSIofWfEFY7J2E18U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.1.1.tgz"
+  }
+}

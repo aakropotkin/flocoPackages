@@ -1,1 +1,52 @@
-{"2.1.0":{"narHash":"sha256-aX74daZ9PpU6TVP3S9eRQjQwT4fRNnJSaSchOpxUn7s=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-5UrsUacvSladb9XAa/dq9YWJvhJxF8A3Wyfny0b1Ido=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-R3SJphXmggZWcdn3T6apWZ3T7osger5FE77XuElD0/o=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-DcDINiaIwM7t1GGURbR5Ohf7D3us6g5t8mhCAy020Ms=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-fa+eA26vik6d3IXTFE7DByAekqGVwcP/Az7d+KAWZsc=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.2.tgz"},"4.0.4":{"narHash":"sha256-clWkr9ka6OMUMoGo2rvXPBMQh1uUuH9Du6PYnXtR7n8=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.4.tgz"},"4.0.5":{"narHash":"sha256-uhGtPwGKP+7tg8OWmHJ9U8ShOR60Rl13Sj1r+VXEqRw=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.5.tgz"},"4.0.6":{"narHash":"sha256-31K7BXMhsKp5sp4aEeiKsT2qPL8MII03KjAGMplodUQ=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.6.tgz"},"4.0.7":{"narHash":"sha256-tGnNDm6gJQ9ffBgWjyZofQmWuEavlWFhddKEHhM5mlU=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.7.tgz"},"4.0.8":{"narHash":"sha256-21ppkfN4ebAIUUafpXwei+fS8BIj7SwaIqD//GI6Xy8=","type":"tarball","url":"https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.8.tgz"}}
+{
+  "2.1.0": {
+    "narHash": "sha256-aX74daZ9PpU6TVP3S9eRQjQwT4fRNnJSaSchOpxUn7s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-5UrsUacvSladb9XAa/dq9YWJvhJxF8A3Wyfny0b1Ido=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-R3SJphXmggZWcdn3T6apWZ3T7osger5FE77XuElD0/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-DcDINiaIwM7t1GGURbR5Ohf7D3us6g5t8mhCAy020Ms=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-fa+eA26vik6d3IXTFE7DByAekqGVwcP/Az7d+KAWZsc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.2.tgz"
+  },
+  "4.0.4": {
+    "narHash": "sha256-clWkr9ka6OMUMoGo2rvXPBMQh1uUuH9Du6PYnXtR7n8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.4.tgz"
+  },
+  "4.0.5": {
+    "narHash": "sha256-uhGtPwGKP+7tg8OWmHJ9U8ShOR60Rl13Sj1r+VXEqRw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.5.tgz"
+  },
+  "4.0.6": {
+    "narHash": "sha256-31K7BXMhsKp5sp4aEeiKsT2qPL8MII03KjAGMplodUQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.6.tgz"
+  },
+  "4.0.7": {
+    "narHash": "sha256-tGnNDm6gJQ9ffBgWjyZofQmWuEavlWFhddKEHhM5mlU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.7.tgz"
+  },
+  "4.0.8": {
+    "narHash": "sha256-21ppkfN4ebAIUUafpXwei+fS8BIj7SwaIqD//GI6Xy8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/react-router-redux/-/react-router-redux-4.0.8.tgz"
+  }
+}

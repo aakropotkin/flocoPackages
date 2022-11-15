@@ -1,1 +1,12 @@
-{"0.0.1":{"narHash":"sha256-4NJIArqEAvLpe3Z8pvdbtUVhCAXdcvAoTDrrqRgYBlc=","type":"tarball","url":"https://registry.npmjs.org/passthrough-counter/-/passthrough-counter-0.0.1.tgz"},"1.0.0":{"narHash":"sha256-s/ONXGwjWj5bIatKGMWZ4KFpJuqJIXKHrc81bfUALEo=","type":"tarball","url":"https://registry.npmjs.org/passthrough-counter/-/passthrough-counter-1.0.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-4NJIArqEAvLpe3Z8pvdbtUVhCAXdcvAoTDrrqRgYBlc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/passthrough-counter/-/passthrough-counter-0.0.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-s/ONXGwjWj5bIatKGMWZ4KFpJuqJIXKHrc81bfUALEo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/passthrough-counter/-/passthrough-counter-1.0.0.tgz"
+  }
+}

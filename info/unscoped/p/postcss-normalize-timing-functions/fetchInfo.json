@@ -1,1 +1,42 @@
-{"4.0.0":{"narHash":"sha256-bkdnhilvUJVDc6SnNKZ1G4nqyWvLlkWo+qAy5JkzqZI=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-wSAOEuZMMpMSK1PZnvDR2J9RojJxwSvwOwNO8XrxFjM=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-bmF5tG9uF3p43u2uoTcTTrFY+zBAbiGPbvCjXAmlkps=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-4.0.2.tgz"},"5.0.0":{"narHash":"sha256-DvnNKmJDaU9x4W+xVlaMNZ2SjQnCWuXwiupjPd69AzY=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-yGRry5N4TNgtLm3rpN9z/j9ziGQHKaivyONgncaBkUg=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-dUhd3sUkCgttdqSkaNr3NeGMf+IYORxV3zYcW8qmviE=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-0vU1Pd+vHTZo7wMVMpuvUNLmaa25ypvK5T+OesHCyIA=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.0.3.tgz"},"5.1.0":{"narHash":"sha256-p6epqOQBXML8Z8b4vivnV1HPR3814Il1Dbg7pi65IO0=","type":"tarball","url":"https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.1.0.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-bkdnhilvUJVDc6SnNKZ1G4nqyWvLlkWo+qAy5JkzqZI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-wSAOEuZMMpMSK1PZnvDR2J9RojJxwSvwOwNO8XrxFjM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-bmF5tG9uF3p43u2uoTcTTrFY+zBAbiGPbvCjXAmlkps=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-4.0.2.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-DvnNKmJDaU9x4W+xVlaMNZ2SjQnCWuXwiupjPd69AzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-yGRry5N4TNgtLm3rpN9z/j9ziGQHKaivyONgncaBkUg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-dUhd3sUkCgttdqSkaNr3NeGMf+IYORxV3zYcW8qmviE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-0vU1Pd+vHTZo7wMVMpuvUNLmaa25ypvK5T+OesHCyIA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.0.3.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-p6epqOQBXML8Z8b4vivnV1HPR3814Il1Dbg7pi65IO0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-5.1.0.tgz"
+  }
+}

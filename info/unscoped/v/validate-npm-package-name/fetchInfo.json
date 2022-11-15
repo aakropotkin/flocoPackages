@@ -1,1 +1,72 @@
-{"1.0.0":{"narHash":"sha256-sC1PyNvilH+xOFnl4BHwOok5ArGuNbe3UsB786wookY=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-zqaq8FV/IIjiTD8dP6yFXeGLzelgqEvENQlsNZfkop8=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-tgwYUmAPXUTkuakScaxMn8BKnanre++1Q8NzFlAnAFI=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-XXYi9yy3bTHc1z7Zo20V4ujG08tqcLhL8sk1KdP8pIA=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.1.1.tgz"},"1.2.0":{"narHash":"sha256-HoVtLqb+XfTqgUNi9iNaTMnLCK+E4vJSK+eyvjFZ+zM=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-s635kbymRVRu+H3zfCdyRthSt4bH4rC6bdfloNizyeY=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-QvIGIFYDclqQg0XMkssAzZQFl564bvpuGJUhW/PeyxM=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.0.1.tgz"},"2.1.0":{"narHash":"sha256-M9HTO/gMRkgb5vXJmM1Jp3a25R4kPo/MfLAHrE78TQc=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.1.0.tgz"},"2.2.0":{"narHash":"sha256-zd2yWYnwqVxMiaPxsdVJ1Sh8/dHqyiAKt29mGMMu2SU=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.2.0.tgz"},"2.2.1":{"narHash":"sha256-46bMgH0rsctZ19H/74CE21CRLkiVb3Sv9PagUHM+eao=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.2.1.tgz"},"2.2.2":{"narHash":"sha256-OIfujmPkKMluBeqa3PPDp6zdWWETUVzhYARTL/ZWKCo=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.2.2.tgz"},"3.0.0":{"narHash":"sha256-55fgzZHXlnXvSxslpzNNqnR6E0zlAHWjAY8hvW5Yv3c=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-Lalu+wGzmv5I2oWKO8BgNCH8u28RFns8ygeqdTOM4pc=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-4.0.0.tgz"},"5.0.0":{"narHash":"sha256-3BNDtBVszcLmoCKQT7BK45jy91N6pkcfN4wZCrUqDaU=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-5.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-sC1PyNvilH+xOFnl4BHwOok5ArGuNbe3UsB786wookY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-zqaq8FV/IIjiTD8dP6yFXeGLzelgqEvENQlsNZfkop8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-tgwYUmAPXUTkuakScaxMn8BKnanre++1Q8NzFlAnAFI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-XXYi9yy3bTHc1z7Zo20V4ujG08tqcLhL8sk1KdP8pIA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.1.1.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-HoVtLqb+XfTqgUNi9iNaTMnLCK+E4vJSK+eyvjFZ+zM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-s635kbymRVRu+H3zfCdyRthSt4bH4rC6bdfloNizyeY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-QvIGIFYDclqQg0XMkssAzZQFl564bvpuGJUhW/PeyxM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.0.1.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-M9HTO/gMRkgb5vXJmM1Jp3a25R4kPo/MfLAHrE78TQc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.1.0.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-zd2yWYnwqVxMiaPxsdVJ1Sh8/dHqyiAKt29mGMMu2SU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.2.0.tgz"
+  },
+  "2.2.1": {
+    "narHash": "sha256-46bMgH0rsctZ19H/74CE21CRLkiVb3Sv9PagUHM+eao=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.2.1.tgz"
+  },
+  "2.2.2": {
+    "narHash": "sha256-OIfujmPkKMluBeqa3PPDp6zdWWETUVzhYARTL/ZWKCo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-2.2.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-55fgzZHXlnXvSxslpzNNqnR6E0zlAHWjAY8hvW5Yv3c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-Lalu+wGzmv5I2oWKO8BgNCH8u28RFns8ygeqdTOM4pc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-4.0.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-3BNDtBVszcLmoCKQT7BK45jy91N6pkcfN4wZCrUqDaU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-name/-/validate-npm-package-name-5.0.0.tgz"
+  }
+}

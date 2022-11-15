@@ -1,1 +1,37 @@
-{"3.4.29":{"narHash":"sha256-qSx15/AKDCL/Lxfrg+GRXY1q//MPTX6nlisyQhL8uug=","type":"tarball","url":"https://registry.npmjs.org/@types/connect/-/connect-3.4.29.tgz"},"3.4.30":{"narHash":"sha256-KVoOfaxM2lz/cFSNDknweFzFrXnQvDQ3TCClNtYPoWk=","type":"tarball","url":"https://registry.npmjs.org/@types/connect/-/connect-3.4.30.tgz"},"3.4.31":{"narHash":"sha256-r6UZOVK34D/xKJI817P1IBNEGa1r05zo+fG+SsOnsxw=","type":"tarball","url":"https://registry.npmjs.org/@types/connect/-/connect-3.4.31.tgz"},"3.4.32":{"narHash":"sha256-JEhWKdwFKfdDGblVUErBeBJP1g7d9ctggyB2fE7132Y=","type":"tarball","url":"https://registry.npmjs.org/@types/connect/-/connect-3.4.32.tgz"},"3.4.33":{"narHash":"sha256-8Wa5HEBFRBPOmignKMAvv+zEqoKf60jk2CkPu32R0U8=","type":"tarball","url":"https://registry.npmjs.org/@types/connect/-/connect-3.4.33.tgz"},"3.4.34":{"narHash":"sha256-Hpe04Mj9S6m6zfvGxCURkouSM7/mpk9kiuoc8I/nxCo=","type":"tarball","url":"https://registry.npmjs.org/@types/connect/-/connect-3.4.34.tgz"},"3.4.35":{"narHash":"sha256-ywcYc3DFIpcrFCrfYZJ8JT5Ob7mVESkjytlVnbURZdg=","type":"tarball","url":"https://registry.npmjs.org/@types/connect/-/connect-3.4.35.tgz"}}
+{
+  "3.4.29": {
+    "narHash": "sha256-qSx15/AKDCL/Lxfrg+GRXY1q//MPTX6nlisyQhL8uug=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/connect/-/connect-3.4.29.tgz"
+  },
+  "3.4.30": {
+    "narHash": "sha256-KVoOfaxM2lz/cFSNDknweFzFrXnQvDQ3TCClNtYPoWk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/connect/-/connect-3.4.30.tgz"
+  },
+  "3.4.31": {
+    "narHash": "sha256-r6UZOVK34D/xKJI817P1IBNEGa1r05zo+fG+SsOnsxw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/connect/-/connect-3.4.31.tgz"
+  },
+  "3.4.32": {
+    "narHash": "sha256-JEhWKdwFKfdDGblVUErBeBJP1g7d9ctggyB2fE7132Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/connect/-/connect-3.4.32.tgz"
+  },
+  "3.4.33": {
+    "narHash": "sha256-8Wa5HEBFRBPOmignKMAvv+zEqoKf60jk2CkPu32R0U8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/connect/-/connect-3.4.33.tgz"
+  },
+  "3.4.34": {
+    "narHash": "sha256-Hpe04Mj9S6m6zfvGxCURkouSM7/mpk9kiuoc8I/nxCo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/connect/-/connect-3.4.34.tgz"
+  },
+  "3.4.35": {
+    "narHash": "sha256-ywcYc3DFIpcrFCrfYZJ8JT5Ob7mVESkjytlVnbURZdg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/connect/-/connect-3.4.35.tgz"
+  }
+}

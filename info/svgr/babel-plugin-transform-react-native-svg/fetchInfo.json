@@ -1,1 +1,52 @@
-{"4.0.0":{"narHash":"sha256-q+aKmVAluCQC/AbVl6A9KVKewScvuWf11rf8hhp8Q40=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-4.0.0.tgz"},"4.2.0":{"narHash":"sha256-OyAuFJ8ZdWA3WVUr6Wqm/BxzYAyWwRu5G3hmBiZHtQ8=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-4.2.0.tgz"},"5.0.0":{"narHash":"sha256-q87jJwfYInL4Ed1EPeWDcL0idCXSQJn85+1/HQ25e+c=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-Axr8sePEZuj9z4h/Oto8bHkKUdQZeAVgwwqliosiZzk=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-5.0.1.tgz"},"5.4.0":{"narHash":"sha256-z3qKesglk5bF0jOQ+JTK8WrvE1vWRjTzjWJQyJN7kPA=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-5.4.0.tgz"},"6.0.0":{"narHash":"sha256-9C2MQfB/SpTIrSkZ+7m1j9doc6fc50Q3QhkWL7z0Cqc=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.0.0.tgz"},"6.3.0":{"narHash":"sha256-aAlgj42K+o+xqRfifBC/CeEtOQHAJdwpGjKT1pT3EoE=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.3.0.tgz"},"6.3.1":{"narHash":"sha256-oFnUJbWXTEoPlA9WJ+ug3TrzciU+Ee0Yv5BR6Iubrxg=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.3.1.tgz"},"6.5.0":{"narHash":"sha256-/2P4TJRdEob2obF2JJ9uWtJw2SYwMqQSQx5KIoZnTW8=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.5.0.tgz"},"6.5.1":{"narHash":"sha256-OzihdA+PuSeNPlnGcWJa2qt1I7jvjQQtjh4PK8an5uM=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.5.1.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-q+aKmVAluCQC/AbVl6A9KVKewScvuWf11rf8hhp8Q40=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-4.0.0.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-OyAuFJ8ZdWA3WVUr6Wqm/BxzYAyWwRu5G3hmBiZHtQ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-4.2.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-q87jJwfYInL4Ed1EPeWDcL0idCXSQJn85+1/HQ25e+c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-Axr8sePEZuj9z4h/Oto8bHkKUdQZeAVgwwqliosiZzk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-5.0.1.tgz"
+  },
+  "5.4.0": {
+    "narHash": "sha256-z3qKesglk5bF0jOQ+JTK8WrvE1vWRjTzjWJQyJN7kPA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-5.4.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-9C2MQfB/SpTIrSkZ+7m1j9doc6fc50Q3QhkWL7z0Cqc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.0.0.tgz"
+  },
+  "6.3.0": {
+    "narHash": "sha256-aAlgj42K+o+xqRfifBC/CeEtOQHAJdwpGjKT1pT3EoE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.3.0.tgz"
+  },
+  "6.3.1": {
+    "narHash": "sha256-oFnUJbWXTEoPlA9WJ+ug3TrzciU+Ee0Yv5BR6Iubrxg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.3.1.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-/2P4TJRdEob2obF2JJ9uWtJw2SYwMqQSQx5KIoZnTW8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.5.0.tgz"
+  },
+  "6.5.1": {
+    "narHash": "sha256-OzihdA+PuSeNPlnGcWJa2qt1I7jvjQQtjh4PK8an5uM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-6.5.1.tgz"
+  }
+}

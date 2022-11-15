@@ -1,1 +1,67 @@
-{"0.0.1":{"narHash":"sha256-hgU6uEjaKsRuZD/LAjAQ3343H/nZtlWy4pj5oHEx3po=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-0CnoXiYxWI0lTU4zYIXCNw0tmeOq/RUT9blB0T6LDcc=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.2.tgz"},"0.0.3":{"narHash":"sha256-FliD2HBMa+Lr6bGd9mAmL92mCBG7yyFIk0bMQnG4XrQ=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.3.tgz"},"0.0.4":{"narHash":"sha256-wcDvz0jiYFAVv2v41RxeUFySb326zPx7R5OumQboU4I=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.4.tgz"},"0.0.5":{"narHash":"sha256-zopaZ8Bo/xxBtsw18pYz8G7P1tbHBFjwcM4hd3E3AW8=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.5.tgz"},"0.1.0":{"narHash":"sha256-Ud3DMMEX+vMoL0PQlSEOFMogMLNSoOm8Hr9cYnFTagc=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-9ocGPzsDENV6Cu22ZUieQWPQkpb8ip2oiaCXrPGwwik=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-SoBDsLuBJ7/bnurNMGCAiUQBaHI2YzBSfGoQFIadJjg=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.2.tgz"},"0.1.3":{"narHash":"sha256-nFwRC4MSZbKrx/s1q+cR52ic4MMvhnwCwq6ToloaBmM=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.3.tgz"},"0.1.4":{"narHash":"sha256-+nTPgYeEw68oT8HqXEvs4HgygaxRaNr6dbuqxRqZlWc=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.4.tgz"},"0.1.5":{"narHash":"sha256-DOtvoXqFNJ7OQfGPS3SMvURGlxWbvZT45GkHGLK2Onc=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.5.tgz"},"0.1.6":{"narHash":"sha256-IPLrnZy5n5Ls/58xR/PS+Ua9MuysJJ3UJqLIfMG/h0Y=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.6.tgz"},"0.2.0":{"narHash":"sha256-NqAO0fBQqhgNuL3b2kPfWLgvihc7pza6QmZIN/htgCw=","type":"tarball","url":"https://registry.npmjs.org/memory-cache/-/memory-cache-0.2.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-hgU6uEjaKsRuZD/LAjAQ3343H/nZtlWy4pj5oHEx3po=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-0CnoXiYxWI0lTU4zYIXCNw0tmeOq/RUT9blB0T6LDcc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.2.tgz"
+  },
+  "0.0.3": {
+    "narHash": "sha256-FliD2HBMa+Lr6bGd9mAmL92mCBG7yyFIk0bMQnG4XrQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.3.tgz"
+  },
+  "0.0.4": {
+    "narHash": "sha256-wcDvz0jiYFAVv2v41RxeUFySb326zPx7R5OumQboU4I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.4.tgz"
+  },
+  "0.0.5": {
+    "narHash": "sha256-zopaZ8Bo/xxBtsw18pYz8G7P1tbHBFjwcM4hd3E3AW8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.0.5.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-Ud3DMMEX+vMoL0PQlSEOFMogMLNSoOm8Hr9cYnFTagc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-9ocGPzsDENV6Cu22ZUieQWPQkpb8ip2oiaCXrPGwwik=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-SoBDsLuBJ7/bnurNMGCAiUQBaHI2YzBSfGoQFIadJjg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.2.tgz"
+  },
+  "0.1.3": {
+    "narHash": "sha256-nFwRC4MSZbKrx/s1q+cR52ic4MMvhnwCwq6ToloaBmM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.3.tgz"
+  },
+  "0.1.4": {
+    "narHash": "sha256-+nTPgYeEw68oT8HqXEvs4HgygaxRaNr6dbuqxRqZlWc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.4.tgz"
+  },
+  "0.1.5": {
+    "narHash": "sha256-DOtvoXqFNJ7OQfGPS3SMvURGlxWbvZT45GkHGLK2Onc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.5.tgz"
+  },
+  "0.1.6": {
+    "narHash": "sha256-IPLrnZy5n5Ls/58xR/PS+Ua9MuysJJ3UJqLIfMG/h0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.1.6.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-NqAO0fBQqhgNuL3b2kPfWLgvihc7pza6QmZIN/htgCw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/memory-cache/-/memory-cache-0.2.0.tgz"
+  }
+}

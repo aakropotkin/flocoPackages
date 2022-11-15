@@ -1,1 +1,82 @@
-{"1.0.0":{"narHash":"sha256-brV+uwwSyVTe97S8IDD3hpCB3/Am/rwmFp8KTihCGGg=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-98rtWaBsjSR6PtV9ymeq/dTYS7UoOZH4aLtbijMt+do=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-a7ldY0ncGtQOddJt0/IMZqpnQDRXbI/bANaGk32uQII=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-EUfBR8K8jB+oesAdbOAYK71llCK2ns7FumX22Wg5J/E=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-zSTm5+VmUbOufU4IyB3dfyzRTOsaekkrOTMo2Ca21dA=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-2UaYkx2NQDBUzV219fLc+4SZYDaBzCIn5Uh/opjIIPk=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.5.tgz"},"1.1.0":{"narHash":"sha256-QAKZ+i7tyxhkjh7ltztpx38KDrXS8uDekWQewTaarQI=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-5g2e2aZshnkEK2YRaOrERq4DklRo7EoMs0Vcgq861lg=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-TfexF9yaybkJT9htQ1IfkRmgC7vUKHv6tkRL7Tts230=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.2.1.tgz"},"1.2.2":{"narHash":"sha256-XyqSV9E0zfT1P/ta0+bg1j8KgomK0mXyGZTZt1gXZo8=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.2.2.tgz"},"1.2.3":{"narHash":"sha256-F7VZs2fXJlI2v01oztwokmDJV03urWyIb2ZjkWnaHlA=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.2.3.tgz"},"1.3.0":{"narHash":"sha256-GG9W990X8FaZidbUIOn/Q4q22ol4iQLMKt++9exjO54=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.0.tgz"},"1.3.1":{"narHash":"sha256-ZnG3sDzcMDLYw/pvXAkgWZP19RMZHuoCIzJA3tzmBy8=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.1.tgz"},"1.3.2":{"narHash":"sha256-R7m1Fw8uYBCOqSidu9n8w22zaZ6fxgAKupORaiSMHkA=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.2.tgz"},"1.3.3":{"narHash":"sha256-COtKiyEd4xJ0dcOKbacnnONMrZD5ilEpe3ZiWOXKCLI=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.3.tgz"},"1.3.4":{"narHash":"sha256-TZSlLq9wCgXewjqkqBKaRRMVeHY7clR6qFFr3LMgXtg=","type":"tarball","url":"https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.4.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-brV+uwwSyVTe97S8IDD3hpCB3/Am/rwmFp8KTihCGGg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-98rtWaBsjSR6PtV9ymeq/dTYS7UoOZH4aLtbijMt+do=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-a7ldY0ncGtQOddJt0/IMZqpnQDRXbI/bANaGk32uQII=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-EUfBR8K8jB+oesAdbOAYK71llCK2ns7FumX22Wg5J/E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-zSTm5+VmUbOufU4IyB3dfyzRTOsaekkrOTMo2Ca21dA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-2UaYkx2NQDBUzV219fLc+4SZYDaBzCIn5Uh/opjIIPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.0.5.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-QAKZ+i7tyxhkjh7ltztpx38KDrXS8uDekWQewTaarQI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-5g2e2aZshnkEK2YRaOrERq4DklRo7EoMs0Vcgq861lg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-TfexF9yaybkJT9htQ1IfkRmgC7vUKHv6tkRL7Tts230=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.2.1.tgz"
+  },
+  "1.2.2": {
+    "narHash": "sha256-XyqSV9E0zfT1P/ta0+bg1j8KgomK0mXyGZTZt1gXZo8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.2.2.tgz"
+  },
+  "1.2.3": {
+    "narHash": "sha256-F7VZs2fXJlI2v01oztwokmDJV03urWyIb2ZjkWnaHlA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.2.3.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-GG9W990X8FaZidbUIOn/Q4q22ol4iQLMKt++9exjO54=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.0.tgz"
+  },
+  "1.3.1": {
+    "narHash": "sha256-ZnG3sDzcMDLYw/pvXAkgWZP19RMZHuoCIzJA3tzmBy8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.1.tgz"
+  },
+  "1.3.2": {
+    "narHash": "sha256-R7m1Fw8uYBCOqSidu9n8w22zaZ6fxgAKupORaiSMHkA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.2.tgz"
+  },
+  "1.3.3": {
+    "narHash": "sha256-COtKiyEd4xJ0dcOKbacnnONMrZD5ilEpe3ZiWOXKCLI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.3.tgz"
+  },
+  "1.3.4": {
+    "narHash": "sha256-TZSlLq9wCgXewjqkqBKaRRMVeHY7clR6qFFr3LMgXtg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.4.tgz"
+  }
+}

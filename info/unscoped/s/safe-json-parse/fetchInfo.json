@@ -1,1 +1,22 @@
-{"0.1.1":{"narHash":"sha256-vQxSej7a8+TQb+qwI6QyiiSvKTxc/scN0q5hSR93ACs=","type":"tarball","url":"https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-0.1.1.tgz"},"1.0.1":{"narHash":"sha256-MvZ61JueowAJ3RvggyOaMzmbbcx7Aa+RBTpOews57QE=","type":"tarball","url":"https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-CfJOJVG5N8ArPpd3rnxwlkduJS1RLFrxUDpXEFuCIas=","type":"tarball","url":"https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-2.0.0.tgz"},"4.0.0":{"narHash":"sha256-dbBXUnL9faWsKh6oVAvejxLTDTGzV7WCiROWnci70kw=","type":"tarball","url":"https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-4.0.0.tgz"}}
+{
+  "0.1.1": {
+    "narHash": "sha256-vQxSej7a8+TQb+qwI6QyiiSvKTxc/scN0q5hSR93ACs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-0.1.1.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-MvZ61JueowAJ3RvggyOaMzmbbcx7Aa+RBTpOews57QE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-CfJOJVG5N8ArPpd3rnxwlkduJS1RLFrxUDpXEFuCIas=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-2.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-dbBXUnL9faWsKh6oVAvejxLTDTGzV7WCiROWnci70kw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-4.0.0.tgz"
+  }
+}

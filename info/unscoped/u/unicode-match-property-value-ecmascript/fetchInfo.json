@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-40GcGyCrHYsLsnVx6uceytgT1mQhd00JGyCEyQwHTGA=","type":"tarball","url":"https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-GbS0YRaAWs4qy10QiQBk7GnsVVl6X69hrIvZaFEQjKo=","type":"tarball","url":"https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-ZJymOWMtrdktdFRVaJL3qMZSQ7VYAaltYKzEQ85q9MY=","type":"tarball","url":"https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-KSLSB7Dlf/kcEPHFMwMebvZ6zSxuIGNP5Q6lkQhM3Ho=","type":"tarball","url":"https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-zISVyY3tWhO26ALxzwIAt1rOtPT5aEct7EJhlEhip+Q=","type":"tarball","url":"https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-lnNJVzxu4cWJmw+/Ym3abeXUeXh+o8RGiIIacAsLlWU=","type":"tarball","url":"https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-2.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-40GcGyCrHYsLsnVx6uceytgT1mQhd00JGyCEyQwHTGA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-GbS0YRaAWs4qy10QiQBk7GnsVVl6X69hrIvZaFEQjKo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-ZJymOWMtrdktdFRVaJL3qMZSQ7VYAaltYKzEQ85q9MY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-KSLSB7Dlf/kcEPHFMwMebvZ6zSxuIGNP5Q6lkQhM3Ho=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-zISVyY3tWhO26ALxzwIAt1rOtPT5aEct7EJhlEhip+Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-lnNJVzxu4cWJmw+/Ym3abeXUeXh+o8RGiIIacAsLlWU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/unicode-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-2.0.0.tgz"
+  }
+}

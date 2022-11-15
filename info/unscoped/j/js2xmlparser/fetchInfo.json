@@ -1,1 +1,97 @@
-{"0.1.0":{"narHash":"sha256-x8Knuk1V7RUP+2dKhtixMqScVWl6CLxdvTh9+AQfVuQ=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-Jjuo5GBABGlovaO6QIvapFZFDC57oa2Aj3/X2fpKtUg=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-i4FWeKbVnd12FVN3RTvJzUFkpCkPSd8Zk6oWVSFsdwg=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.2.tgz"},"0.1.3":{"narHash":"sha256-sVu7OMOpNETCDWayuNMfCTyYZAcOFNLXPWSRxhmIaKs=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.3.tgz"},"0.1.4":{"narHash":"sha256-NXkifUJ/MCiKsUhRyu0xJryrkNQUHt1aE4qGauwiJ5o=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.4.tgz"},"0.1.5":{"narHash":"sha256-5B6oYVoK2qHLbcR0lNrThAUn+nQM52pqSL+PSRLAdvc=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.5.tgz"},"0.1.6":{"narHash":"sha256-oq+04Hjc7tkvkELiKiSani8We8FsE/E4lT9OXtNnM34=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.6.tgz"},"0.1.7":{"narHash":"sha256-cYzaD4v+VDspK7pnWMZDDgfORuvPsFbSvsJsHPvnTeY=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.7.tgz"},"0.1.8":{"narHash":"sha256-lr24dcVYPFVaZf+QoyuZ2M6rsukshsZUnEklTCmzYEw=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.8.tgz"},"0.1.9":{"narHash":"sha256-NsDKpj+QnB6MQ8o/zPnvJFmHqSobfHdCzuyckuyL1xo=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.9.tgz"},"1.0.0":{"narHash":"sha256-yeBKTjjmlzpE5HXSeiJ0u5xC/OrJTSsQfH1JNUW76gw=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-RuoTJWLKqo3AURTe42L3KfCBpxTHtAVJRmaqcYmgeMk=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-icbushfkyolEgRkBWZoK7JTE0VY0khmPmb55Ttcm0Jo=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-6TzhxmrkAClZuj4zzcRi0bopM4LScaUUsyNH2PoDwkE=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-2.0.2.tgz"},"3.0.0":{"narHash":"sha256-tXxDwlnQP7TRv0ZmJG5sQWV/DUdgdFCAy4Xgfw1L6Vc=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-AUKlGayqHxsJA0ZbMLsqxsEsNg6oYkPU0jn4BgiaIb0=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-wpbIXsoxHGljsH/CWOY6H2+nnaNHrd8/UUmUWhmLatU=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-KOf+O2qUAm2pdFFyY6yUQQaQMhlGwmtGoCeKPwrgBxE=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-4.0.2.tgz"},"5.0.0":{"narHash":"sha256-xPqIiaHa/o3ycN6FhJQQMeyfBMN07JqgcrYBQINSJ4c=","type":"tarball","url":"https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-5.0.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-x8Knuk1V7RUP+2dKhtixMqScVWl6CLxdvTh9+AQfVuQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-Jjuo5GBABGlovaO6QIvapFZFDC57oa2Aj3/X2fpKtUg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-i4FWeKbVnd12FVN3RTvJzUFkpCkPSd8Zk6oWVSFsdwg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.2.tgz"
+  },
+  "0.1.3": {
+    "narHash": "sha256-sVu7OMOpNETCDWayuNMfCTyYZAcOFNLXPWSRxhmIaKs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.3.tgz"
+  },
+  "0.1.4": {
+    "narHash": "sha256-NXkifUJ/MCiKsUhRyu0xJryrkNQUHt1aE4qGauwiJ5o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.4.tgz"
+  },
+  "0.1.5": {
+    "narHash": "sha256-5B6oYVoK2qHLbcR0lNrThAUn+nQM52pqSL+PSRLAdvc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.5.tgz"
+  },
+  "0.1.6": {
+    "narHash": "sha256-oq+04Hjc7tkvkELiKiSani8We8FsE/E4lT9OXtNnM34=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.6.tgz"
+  },
+  "0.1.7": {
+    "narHash": "sha256-cYzaD4v+VDspK7pnWMZDDgfORuvPsFbSvsJsHPvnTeY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.7.tgz"
+  },
+  "0.1.8": {
+    "narHash": "sha256-lr24dcVYPFVaZf+QoyuZ2M6rsukshsZUnEklTCmzYEw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.8.tgz"
+  },
+  "0.1.9": {
+    "narHash": "sha256-NsDKpj+QnB6MQ8o/zPnvJFmHqSobfHdCzuyckuyL1xo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.9.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-yeBKTjjmlzpE5HXSeiJ0u5xC/OrJTSsQfH1JNUW76gw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-RuoTJWLKqo3AURTe42L3KfCBpxTHtAVJRmaqcYmgeMk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-icbushfkyolEgRkBWZoK7JTE0VY0khmPmb55Ttcm0Jo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-6TzhxmrkAClZuj4zzcRi0bopM4LScaUUsyNH2PoDwkE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-2.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-tXxDwlnQP7TRv0ZmJG5sQWV/DUdgdFCAy4Xgfw1L6Vc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-AUKlGayqHxsJA0ZbMLsqxsEsNg6oYkPU0jn4BgiaIb0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-wpbIXsoxHGljsH/CWOY6H2+nnaNHrd8/UUmUWhmLatU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-KOf+O2qUAm2pdFFyY6yUQQaQMhlGwmtGoCeKPwrgBxE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-4.0.2.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-xPqIiaHa/o3ycN6FhJQQMeyfBMN07JqgcrYBQINSJ4c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-5.0.0.tgz"
+  }
+}

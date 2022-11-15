@@ -1,1 +1,832 @@
-{"4.0.1":{"narHash":"sha256-/9wJ1LVO629m6DhZCQ2vknO+s6UhPgEBDYUjq/vTBOY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-Z1MKQdFoEGS4eQ++6oGXI/BrNu4uO2ZiBPKhgiMwdNA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.0.2.tgz"},"4.1.1":{"narHash":"sha256-x7Vi/S4UyRQPnD1boav9LxLAfyJDGOwIkuM98gDYeRY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.1.1.tgz"},"4.2.0":{"narHash":"sha256-ltyQbPGJK5h41xDUazb3l11oUK1uZySryA+c4XzdrCE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.2.0.tgz"},"4.2.1":{"narHash":"sha256-sHtLMGTeGhllgPaJfss8I3g4yoygLbr6SIA+ac3gLRo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.2.1.tgz"},"4.3.0":{"narHash":"sha256-roEa3bVINCRvFNG15JlrOgudNQm+GITLXDL+JCXwHsw=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.3.0.tgz"},"4.4.1":{"narHash":"sha256-zlGvZqwwMeM3/sV7Hgt3aQ7LrRRiNaMpEWtLTzf3Puo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.1.tgz"},"4.4.2":{"narHash":"sha256-a9xl/rCJgzc9GECqlH6/UL6PjWiQV7RBZBK6FxzXkkE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.2.tgz"},"4.4.3":{"narHash":"sha256-VF20cC/slFjCncqUjPZ3g/r2dnjxGRNNBvrPX8yGxWA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.3.tgz"},"4.4.4":{"narHash":"sha256-ZxBT62r4tpCAzAPuJ+Y3AWXnOalg6Iq0OCPFppEwgJ4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.4.tgz"},"4.4.5":{"narHash":"sha256-K0gFkGrNccyaZvhFYin9IKBX97v/y7YhhlZKIfAI6V0=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.5.tgz"},"4.4.6":{"narHash":"sha256-eapuQKimjJa0P4gbhMLA41NClvALz1lTZwuchEXndFM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.6.tgz"},"4.5.0":{"narHash":"sha256-fr2aCnKgB18F3dElJDFpHGo3+1iokOJVZ0UMX/DCsQY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.0.tgz"},"4.5.1":{"narHash":"sha256-yMiIl4UXEx/WWdMM0fQ6MnQDQbMKbMXRdpIPz6tZjZE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.1.tgz"},"4.5.2":{"narHash":"sha256-q23QzYemUra4VFWsGSkDV14yIotNn+BdPKcpRqCMcR0=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.2.tgz"},"4.5.3":{"narHash":"sha256-WxKYHw63x3JYGkFuv9FoDNtZOl4wh92rE/oY+skGHWo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.3.tgz"},"4.5.4":{"narHash":"sha256-wQAalBfSKQy39U+1lLFGE21JHiMjAD3UPAXL+CAqvdM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.4.tgz"},"4.5.5":{"narHash":"sha256-DU4ZoLbPVrWhLns+XpgUCIufZCnMoMMLkqf/r/k/MLk=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.5.tgz"},"4.6.0":{"narHash":"sha256-LzZu90hPLNXWnIVDIp2yrtaugi7IJ3yr/C7t0YoTg9U=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.0.tgz"},"4.6.1":{"narHash":"sha256-y7iZaxEfXFqIGpYa8jP5oelMXMuQQ9ZwVm0Onb6LauM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.1.tgz"},"4.6.3":{"narHash":"sha256-RH1v9aTUX7HwyiSViKrFyjwtxviWny45g+bJ8UDg6QU=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.3.tgz"},"4.6.4":{"narHash":"sha256-5I6ZGhFf0yZl0lZz5hr4KkhVE+oRBxZyyrK6zeZT9HM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.4.tgz"},"4.6.5":{"narHash":"sha256-QaaIYZ0hWg5vXlC5pCbCF9P2myjmkU2CsnTeTo7Q1EY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.5.tgz"},"4.6.6":{"narHash":"sha256-SMeWUOGDwEX3ZjnKkmY76Dwo2WQSlnEK1j2G71u3CIs=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.6.tgz"},"4.7.0":{"narHash":"sha256-ARKL/k8lIe7aZnmielMqhK0PRQKtOncVdhYoQI/SKzo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.0.tgz"},"4.7.1":{"narHash":"sha256-V2cUrYT8pQ7CqIeHgL0Loyf3vtUM6ZUn090PYQOK2tA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.1.tgz"},"4.7.10":{"narHash":"sha256-2EFWgxPUB30Bk0EgMlCJxRzNtutP+TsyReu1A/4FhcU=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.10.tgz"},"4.7.11":{"narHash":"sha256-sxtsT5wEEwLOShKZTUQ74ECuijG+pAKEmOFKvypBjTY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.11.tgz"},"4.7.12":{"narHash":"sha256-IZFoD96cksd65RgNrCpaAHeVMoxqJa2M+EWibCq33cU=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.12.tgz"},"4.7.13":{"narHash":"sha256-JUHxOIFHX0fMgEJe/PFvzUnlVzw4M/LVkg0UNmjqxlM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.13.tgz"},"4.7.14":{"narHash":"sha256-D4Kuyb1PFCo8doS/uX6uKwm6cQURVc40RWe8O4+DJJY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.14.tgz"},"4.7.15":{"narHash":"sha256-0f4YX6EFiPqQrrlivoS2F/pCGQ356DlCJHMzJvlwBE4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.15.tgz"},"4.7.16":{"narHash":"sha256-fmOF32nXk8NYuPpGU8r4XAp+obmi4tBVw4ENwS1+GQE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.16.tgz"},"4.7.2":{"narHash":"sha256-n4dafZzIppFf3koRS2vb9wr2KXRfhhEgsfQtHspaLfc=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.2.tgz"},"4.7.3":{"narHash":"sha256-qLhnMSt/WCqsaSH2MyKudPXdGETH9DyInwXEEkWcmfM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.3.tgz"},"4.7.4":{"narHash":"sha256-q/c/CmCQsZux4oQkJD/ovXno8J4Fqm2KdWdP7kO+StE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.4.tgz"},"4.7.5":{"narHash":"sha256-dQuEJhK/rifANiKW8c6uiHxwzlqhM/nAP9n1BpsTSAA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.5.tgz"},"4.7.6":{"narHash":"sha256-JuU350ojiaUnk40cJxnMnJ1xHQi9LVvHJsuD6z2VF3c=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.6.tgz"},"4.7.7":{"narHash":"sha256-FVJu2jPVG15U4sHBXVignEeibfYpP3HpxBzoPNgRFss=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.7.tgz"},"4.7.8":{"narHash":"sha256-/xiDo9GhMSHtub9n4Te5oypUu5BagYfhS1nDZ6BC//U=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.8.tgz"},"4.7.9":{"narHash":"sha256-87Nafi4Rp3TtblHDCANA5VW0aua9z02ho1I22ia6QT0=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.9.tgz"},"5.0.0":{"narHash":"sha256-jWItC2k3vzOr/aRUJqEyP+BkY5wuuv54G+De7XogkaQ=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-dl67bFis+uE7Sb4uAs/i87BH7G6CJ3i6rviusbeIhLI=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.1.tgz"},"5.0.10":{"narHash":"sha256-DnkD7I3kw5gnaCx4e9SrypBWoewoUyCsWyozOsXE8mc=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.10.tgz"},"5.0.11":{"narHash":"sha256-C5RL5nHHsXCy8F5yPJUjQH3pLovg1gm+j0QijYKzqTw=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.11.tgz"},"5.0.12":{"narHash":"sha256-oaHxJQbv9lqwHTinneSU2AcDQkKThgRHfU6T1JGv+g4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.12.tgz"},"5.0.13":{"narHash":"sha256-Sh5cv1+NmsxYRe80sa/QBzKhS+wNcqTASSL65SdLLQg=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.13.tgz"},"5.0.2":{"narHash":"sha256-pEVLsNR+ODBnyOPBhI2Gjh2WFc1AB82vqoL2ePWs2EA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-Ll5uNvGOqHQWlNfblAwy/A8bOIMK/9eH2brgsR1PEYI=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-qe9mLTeUJ8l/03SUoMlNzhMK8rEEKem4WbQgCRhZKps=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.4.tgz"},"5.0.5":{"narHash":"sha256-pxAPIoT15qEtHfC1NxLZqcHxwqmMV2CcTP5IJHx6CIE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.5.tgz"},"5.0.6":{"narHash":"sha256-yFbQvK1MPwV9Hl3hM5XR4TlyLdD9a3+T0wxocUdWVkw=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.6.tgz"},"5.0.7":{"narHash":"sha256-DJMnCM9hc+37fMkHGQkFdgw4xYYCM+CyOiQj251KBPY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.7.tgz"},"5.0.8":{"narHash":"sha256-1RkYY6emoikv3rezBmM2TAHkMoDVPMn8K/kda/9lDwM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.8.tgz"},"5.0.9":{"narHash":"sha256-yFg1ZfKlvKr6IzZFXGuhwBmJaOD6MXAmVzwI3x3EnAQ=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.9.tgz"},"5.1.0":{"narHash":"sha256-XjBBnc7D+I3PSsBhp8uUr6LQa8YSq/DqPA262l5pY1w=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.0.tgz"},"5.1.1":{"narHash":"sha256-4DR20Vxu0eGkG5Mo352dKfWwGc7cTS2CyWBX2ilzUwA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.1.tgz"},"5.1.10":{"narHash":"sha256-c5gUrRCWmglS7k+21LenhAbpqGx7Tgiu3xusPRA21kw=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.10.tgz"},"5.1.11":{"narHash":"sha256-ENwB+ERe269WCHf55chPGWcNU+M39SiJRmOczjiATj4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.11.tgz"},"5.1.12":{"narHash":"sha256-cBFbJ5/EL1Us/UeheG38JOnHYgn5CHhqDmFbH3Bnpko=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.12.tgz"},"5.1.13":{"narHash":"sha256-qf5DA8Zp/cGLxlVaBv5Ge6ufditlfFj9fB/OzKOnqeg=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.13.tgz"},"5.1.2":{"narHash":"sha256-w924OQLodexMOQsDolKC5ifJdf8iUyHnIySsg/U2sf8=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.2.tgz"},"5.1.3":{"narHash":"sha256-tw+tbOvZAYb9CFo26xeYDp9fnsf7daGUPYnaHBJjroU=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.3.tgz"},"5.1.4":{"narHash":"sha256-Y7HP74mxA1I3dGdMEzSs2QxvIJH14/lmbk8IwyyJzsI=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.4.tgz"},"5.1.5":{"narHash":"sha256-s1W0O+neOpFVRvLF6uDcsJXkf9c5SsrgZtY1XmPQwTM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.5.tgz"},"5.1.6":{"narHash":"sha256-O6ZiOV3JOPBD1J8i263I0f/z40FNkR6hdyBAHBFnfA8=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.6.tgz"},"5.1.7":{"narHash":"sha256-/IZsw9EcSxrA/XGz2Aw2wSnh2+xOtqE/C3aPBhTEh6Y=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.7.tgz"},"5.1.8":{"narHash":"sha256-Qm82j/BjQyqLbmBZ8aD4/D3bK8W9unUHdPLqvDwXX90=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.8.tgz"},"5.1.9":{"narHash":"sha256-tQQhcuFFq6+Bilb6N1oflwPKGrTsH+KKpwl64/Vb9/8=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.9.tgz"},"5.2.0":{"narHash":"sha256-w9qoXKu2kodo4Z5pAVogRGxodmiHaihghY9ASM/KUqw=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.0.tgz"},"5.2.1":{"narHash":"sha256-B7C3JL0N1ataBBpf41TnS8WBKoylNevQ4JKtzuHvRv0=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.1.tgz"},"5.2.10":{"narHash":"sha256-mr8UNUV5EampbPmp2jkJM+eEiVaK7PvYl1wp+IuPGe4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.10.tgz"},"5.2.11":{"narHash":"sha256-j1FVNHrJOE3vtsPda+KUue/6WzGKNaqW4KnSgv2eQt0=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.11.tgz"},"5.2.12":{"narHash":"sha256-+R9BzMxtjCLF2ZarwrQjljYRdO9lon5easYvSLH36JQ=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.12.tgz"},"5.2.13":{"narHash":"sha256-muDTpB/o5yCUssutZQxwFvMKKzlhSHiqs4LrtCHDyPI=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.13.tgz"},"5.2.14":{"narHash":"sha256-KYWySo8uQ0EpVk7OWvvqlMAZhCBSHUyxeEuz73BRhU4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.14.tgz"},"5.2.15":{"narHash":"sha256-I0c4TBNtUHU9dbavKzdMs/q3LTE+Y8JBp+a5t53+6a0=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.15.tgz"},"5.2.16":{"narHash":"sha256-1IGWnuJOm7q0548yC/xgoV6Vy9gBq75ruEYhruoSYGE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.16.tgz"},"5.2.17":{"narHash":"sha256-S6dy4QPkJD3gS0heS032d/r3NqSPi+kP+Q0BZvy8laA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.17.tgz"},"5.2.2":{"narHash":"sha256-wwultdSnEDAPv6PFHEkXSL53pD+Cn4wwh8S6pkd0BEA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.2.tgz"},"5.2.3":{"narHash":"sha256-fX8aRTufjRKjllYBjizoBQ0R8EZS84DVmYG8ONpg+Qg=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.3.tgz"},"5.2.4":{"narHash":"sha256-AhIbgHx1YztYfn7pigoYeRMvO2hkFmK1Hc0RmNb4YpY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.4.tgz"},"5.2.5":{"narHash":"sha256-M903ZN7hGkXVeR/HlR64pLKLhDs8o+Wt7KOVp+uHp8U=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.5.tgz"},"5.2.6":{"narHash":"sha256-UngODTLNFXPBKZSG/3dvLuHMLpl8zq9nrOZEjTeAd1w=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.6.tgz"},"5.2.7":{"narHash":"sha256-/LgBluciLp6uRUQgO3+OBwQ3rKtQfWaY4aJMxIsexgQ=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.7.tgz"},"5.2.9":{"narHash":"sha256-ewkts2HaYpDyzcXdlmGO+xg7yokPZ5eFQ0lJNgFyH84=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.9.tgz"},"5.3.0":{"narHash":"sha256-12qht8LDmryln2+A4ho8kcFhyFGqTkUN2oG0PY95xZU=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.3.0.tgz"},"5.3.1":{"narHash":"sha256-SNgJ6c5f6lyJM9uI/8bpvrGc4aY6+kdSP81/xJeCvVY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.3.1.tgz"},"5.3.2":{"narHash":"sha256-yFkxmhp3s6lqisouMaenxanm9jtccQuRVfp4n7k45hI=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.3.2.tgz"},"5.3.3":{"narHash":"sha256-KmCjyppqIJdA65ostuQ4YNHAOT7ohsvHnaZCoUJ5j90=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.3.3.tgz"},"5.4.0":{"narHash":"sha256-J+QAu5kS4UEZUovt77PUo+tYskayAW7YDVwwZadDLiA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.0.tgz"},"5.4.1":{"narHash":"sha256-Ae9cHYAUDZF+OSDhowTRiNeT+rwX1E9ao0qrNjk8ZYs=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.1.tgz"},"5.4.2":{"narHash":"sha256-B0XhKuOFtWrWi/vdsDL81STByHDgy41BTf0bVpAzAqE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.2.tgz"},"5.4.3":{"narHash":"sha256-Mo7DswM5a62N4ra2vWVzXSraYszQNESS4MDLpU4oPYw=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.3.tgz"},"5.4.4":{"narHash":"sha256-7BhVlPnNn+T32AI6nWfaf3DK4r2fXrMCz2dJFiQTdbo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.4.tgz"},"5.4.5":{"narHash":"sha256-rWeK7tlFR3XAyq8/GRiGyTcdfPLjSHPpHJjCANlCYHo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.5.tgz"},"5.4.6":{"narHash":"sha256-Xpq4F3cbDqm1zfjhkrR0Ive3I0oM1t/CC5zksAjg5BM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.6.tgz"},"5.4.7":{"narHash":"sha256-ajmW7Wdh+b4H0uO5niRMTLl4+s0yiKVJht75siwdhLA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.7.tgz"},"5.5.0":{"narHash":"sha256-H5XYgNUreyzTqo6L2enq0T/UVTKnFwPDCq7HO0hQkOA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.0.tgz"},"5.5.1":{"narHash":"sha256-pa+5Rc6+dqWNDnRV49OSbP2P82RfOxyR4PLL6yt52uM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.1.tgz"},"5.5.2":{"narHash":"sha256-6+E3yDJx3jP7R9zpWPmxrwz11noZ/dNMOBTS7IzBUxs=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.2.tgz"},"5.5.3":{"narHash":"sha256-AuE6e5e1wpgwEAVbMjS3XCkCzinMpToi/scqPrKjkwk=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.3.tgz"},"5.5.4":{"narHash":"sha256-hwlJr/5Z6T510USzcwCMj9c60PuID0ctPh7eqVinmvY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.4.tgz"},"5.5.5":{"narHash":"sha256-GGCz3fflsUOlpRqwRLrbUN/cUy2TLFPYaH8f0b1GblM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.5.tgz"},"5.5.6":{"narHash":"sha256-Vpj1zKfgqEI7247DVtZIf9BgtEi59hSVccXY5nbZiGU=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.6.tgz"},"5.5.7":{"narHash":"sha256-3Nmf3cZLF3u6pZgv9xyxkAjitODovxAcjVwKpG/cB08=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.7.tgz"},"5.5.8":{"narHash":"sha256-B8j8HROxIz0lhB9Mdoy6rjgruPqaVtoWOuGNThqM9/8=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.8.tgz"},"5.6.0":{"narHash":"sha256-pgRAH3FmWe0sO0cFlH3WOlvawmQzXOKRDYMODPLbK78=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.0.tgz"},"5.6.1":{"narHash":"sha256-qHehvBDoVE97uGuXs6LkUzx2TfN6a8b+3BwHh4depc0=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.1.tgz"},"5.6.10":{"narHash":"sha256-uDoBHIqDq2ZbIL9Oj3dnDNN9BS+07nFPEj20bzyXttc=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.10.tgz"},"5.6.11":{"narHash":"sha256-kfl8poMy4ZLi/iC4efkquOqD08o2dWYBYGNYueBvbuI=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.11.tgz"},"5.6.12":{"narHash":"sha256-pEiMZZ9ODvX0qyX2og80mVhLs8IDHQLKXG7InSbij14=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.12.tgz"},"5.6.14":{"narHash":"sha256-fzlMuRXttIUVz+c1eIrF8jcwjR5ToC4rdgl9n5ST3jg=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.14.tgz"},"5.6.15":{"narHash":"sha256-UnT1O3lpvfx4BrW97HlxQhA/twQ3+kAGjd0L6r4PcSQ=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.15.tgz"},"5.6.16":{"narHash":"sha256-W02JbOAauvbs9vhOUK6hBcNGBd9LeIRBp2jhW8XaxGI=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.16.tgz"},"5.6.17":{"narHash":"sha256-KNpff62WPAjlbmuJaEkoFTREJ02avgZd5bfX+WTsD7c=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.17.tgz"},"5.6.18":{"narHash":"sha256-pU3AIpqzYiB0Woyfa6bsZGpC2X1hoc9cpl/aZq8QUVg=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.18.tgz"},"5.6.19":{"narHash":"sha256-YaKM0JuWBKysnNWeDfrhB6YBPWJdnck0cznRXlbRG6Y=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.19.tgz"},"5.6.2":{"narHash":"sha256-4U7azP1CaoU/ezN3cRsLI85oJOeS1Uf3OesOY+zz3Es=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.2.tgz"},"5.6.20":{"narHash":"sha256-3dLl6Z7QgXWUaEMbhTrEomXTk/3bn3+tWmjD6/dAo1w=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.20.tgz"},"5.6.3":{"narHash":"sha256-vwE0/XlBSvwoRqDpxInHWd9Ircvfr2cFYUDmvH9CnXo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.3.tgz"},"5.6.4":{"narHash":"sha256-fKJlNF6YnoeIZu+iqgE9eJcmGUyQtfcXpdGrYVcOPuo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.4.tgz"},"5.6.5":{"narHash":"sha256-7FUAPKMArUnVGIOtX6pnkGJ6d9ONvdsQR8YeW1bZ0SQ=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.5.tgz"},"5.6.6":{"narHash":"sha256-lBM0YwZ0m6wD86C/41coazyfT0WwEmlTvmJURCwVi30=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.6.tgz"},"5.6.7":{"narHash":"sha256-9RDm5NdPUSilgiA1DBQPF9GjpD/IH2kRZq2TUVCUi9s=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.7.tgz"},"5.6.8":{"narHash":"sha256-1T49cawDRAWeDL4lUOXNn7UHaM/sjgNEHp+6EKtNp6s=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.8.tgz"},"5.6.9":{"narHash":"sha256-a04xqzXU2nON3tpoHhb+CFenmf2bG2St1EccYvpVJm8=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.9.tgz"},"5.7.0":{"narHash":"sha256-N9g9jQSguvZyi3W4xY4LVrLYW21hLoSuZ//ex5v0N9s=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.7.0.tgz"},"5.8.12":{"narHash":"sha256-y5bTIfjp7zeZ1qDv0/iu4pIi1sBbuwwJf1ddKe0+aU4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.12.tgz"},"5.8.19":{"narHash":"sha256-WOBHz9VH2YiIEn0fe9td0n+3S/yyR6XU7cqSOknlP7Y=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.19.tgz"},"5.8.2":{"narHash":"sha256-sKHCATM5XBvuPQdng9rOr0ylT1Eh0ZRocnuZBqEryMM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.2.tgz"},"5.8.20":{"narHash":"sha256-DQ1BODERLu5797zHTE2YIHD2oc3+bD46WK4lh28r2rA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.20.tgz"},"5.8.24":{"narHash":"sha256-gWQ1TWKqijlrX5QhqTqtN0TGlUB44J2nBVYYJ6NOnSk=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.24.tgz"},"5.8.25":{"narHash":"sha256-N3lejr+ILQNexeWHv7PDku6C8NG3EhZ8X+UEDkxtlLY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.25.tgz"},"5.8.29":{"narHash":"sha256-3+sOWVcQ8+PiRvObIePLfg4kV3ADdLMdeeEMqDg5WJc=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.29.tgz"},"5.8.3":{"narHash":"sha256-5Zkjxe3fCohHvz4nsHcKo/r01m5rn1oaAavpL2phers=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.3.tgz"},"5.8.34":{"narHash":"sha256-YgZbX61IkoHlz+01YOQJvQKSr1/Wutf3aVMMk0Ucj/o=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.34.tgz"},"5.8.35":{"narHash":"sha256-C95Q6FMIx1vm9dlrhRndTn8lo6VCSzJRuMAWmD2uEKI=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.35.tgz"},"5.8.38":{"narHash":"sha256-G6Ua8gatMde4AzUpJPg/8ZvK1SwDwq/De06rOwET+IU=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.38.tgz"},"5.8.5":{"narHash":"sha256-L/t0F1BWB34+9jVr4tZu38je+PSHCROP6c/5H6/QBf8=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.5.tgz"},"5.8.8":{"narHash":"sha256-l6dQcgDFiPfNfT/zbHByf7bwZldkbXLr7c3WEL0yTrM=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.8.tgz"},"5.8.9":{"narHash":"sha256-djKlaP6js8yIPlFxrri4Jw3AFPfuvEEiDNx0xe5id7k=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.9.tgz"},"6.0.12":{"narHash":"sha256-dwFMvxrKjrDatOzsIhrQM3hZVNdELCCvtYK9JWVjKFc=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.0.12.tgz"},"6.0.14":{"narHash":"sha256-zh6Tphr183ZRQI+D/8tpyihw/CYrI882Ooik5kzT0+w=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-/WuYwxKg8I/F78KLFaE/d7uig/+qCfcy5S/udQJlcS4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.0.2.tgz"},"6.0.8":{"narHash":"sha256-HAb7r1zB8IsRjEsPl5ocfc/gtu4KPI+iRD1ihGLn5yE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.0.8.tgz"},"6.1.17":{"narHash":"sha256-wbI68DSbAUcqdxBGpa+swHmswOsNCMEcHD/CUbiigtE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-BTgd661ckjJhLkFggpQ4Pfs2ePXmnGOiIqngL57Nk54=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-ycQ6RVwyAdlmT6nUZtNJyobkBzJ0dQIpxUk0qy7O3TU=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.1.4.tgz"},"6.11.6":{"narHash":"sha256-pWzbJkZKHAeU1c10lvcgPZz63CKefgHGWHqvTYPP8yo=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.11.6.tgz"},"6.18.0":{"narHash":"sha256-fYZ58e47yXgvvN63I7Kq7BK5fMd5PJ5C+moqmHZuRF4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.18.0.tgz"},"6.2.0":{"narHash":"sha256-vcP7PMXaX+K/rDPwbecNFM1+r2yjfoKKdbp3eUkBVhQ=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.2.0.tgz"},"6.2.4":{"narHash":"sha256-cYHKGZUkeKFOlC07HdITUS56UhrleGNzzeHPlpC3O1o=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.2.4.tgz"},"6.20.0":{"narHash":"sha256-hl0rfzKCXZU1Y9M0AHzUDVWygZmw8un9/KdBnspUDKE=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.20.0.tgz"},"6.22.0":{"narHash":"sha256-EAG3EPPNAi5cBG4MaRTpZwkTivSjOjgw2rKO92Fs3u4=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.22.0.tgz"},"6.23.0":{"narHash":"sha256-Tfxi3zypOPxAeu1Z/wYdq6GikAUb3gnMIHWcU521s4U=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.23.0.tgz"},"6.25.0":{"narHash":"sha256-EuoN4dgCl22a9ea4VRs4pIF0ij+qSxBRwgWl85/HSqs=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.25.0.tgz"},"6.26.0":{"narHash":"sha256-XTboQeKEwVs4kJq0HKcCHcm3hv4IM50CbRdfvNF9188=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz"},"6.3.13":{"narHash":"sha256-EPwZhbSq38ocNekTtf4zzbaoB9T1CHdoh8V82DvNbtA=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.3.13.tgz"},"6.3.19":{"narHash":"sha256-G1T4QVhKvtRVx7jW1zzuVreNcvTw/0UhXZ3Y03kZsno=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.3.19.tgz"},"6.5.0":{"narHash":"sha256-1ED76bQhGh3N0ro7qnWCnRTQNzMQJZ/bpIuJDlKfhcY=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.5.0.tgz"},"6.6.0":{"narHash":"sha256-qI+sfs1Tl98Xp1TjWwKPGiAQFqpv/eiAl2hJVIiX03Y=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.6.0.tgz"},"6.6.1":{"narHash":"sha256-xqkIA51L9V3PNBi6YNUCZloG/gdMY0sQeQnHT8zz3F0=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.6.1.tgz"},"6.9.0":{"narHash":"sha256-gnMWUgrKvMGeu3VOW2jvdahDWYHQ6xkFIpDZvrlCi40=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.9.0.tgz"},"6.9.1":{"narHash":"sha256-hqDCRjHbVX+VsC5q3vfuq56AMddeifioHqpv5ho3N8I=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.9.1.tgz"},"6.9.2":{"narHash":"sha256-pU94lJjH9+gE7lm+en8AByQ3oWzrUbqTPyIdNJlbIZQ=","type":"tarball","url":"https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.9.2.tgz"}}
+{
+  "4.0.1": {
+    "narHash": "sha256-/9wJ1LVO629m6DhZCQ2vknO+s6UhPgEBDYUjq/vTBOY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-Z1MKQdFoEGS4eQ++6oGXI/BrNu4uO2ZiBPKhgiMwdNA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.0.2.tgz"
+  },
+  "4.1.1": {
+    "narHash": "sha256-x7Vi/S4UyRQPnD1boav9LxLAfyJDGOwIkuM98gDYeRY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.1.1.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-ltyQbPGJK5h41xDUazb3l11oUK1uZySryA+c4XzdrCE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.2.0.tgz"
+  },
+  "4.2.1": {
+    "narHash": "sha256-sHtLMGTeGhllgPaJfss8I3g4yoygLbr6SIA+ac3gLRo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.2.1.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-roEa3bVINCRvFNG15JlrOgudNQm+GITLXDL+JCXwHsw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.3.0.tgz"
+  },
+  "4.4.1": {
+    "narHash": "sha256-zlGvZqwwMeM3/sV7Hgt3aQ7LrRRiNaMpEWtLTzf3Puo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.1.tgz"
+  },
+  "4.4.2": {
+    "narHash": "sha256-a9xl/rCJgzc9GECqlH6/UL6PjWiQV7RBZBK6FxzXkkE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.2.tgz"
+  },
+  "4.4.3": {
+    "narHash": "sha256-VF20cC/slFjCncqUjPZ3g/r2dnjxGRNNBvrPX8yGxWA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.3.tgz"
+  },
+  "4.4.4": {
+    "narHash": "sha256-ZxBT62r4tpCAzAPuJ+Y3AWXnOalg6Iq0OCPFppEwgJ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.4.tgz"
+  },
+  "4.4.5": {
+    "narHash": "sha256-K0gFkGrNccyaZvhFYin9IKBX97v/y7YhhlZKIfAI6V0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.5.tgz"
+  },
+  "4.4.6": {
+    "narHash": "sha256-eapuQKimjJa0P4gbhMLA41NClvALz1lTZwuchEXndFM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.4.6.tgz"
+  },
+  "4.5.0": {
+    "narHash": "sha256-fr2aCnKgB18F3dElJDFpHGo3+1iokOJVZ0UMX/DCsQY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.0.tgz"
+  },
+  "4.5.1": {
+    "narHash": "sha256-yMiIl4UXEx/WWdMM0fQ6MnQDQbMKbMXRdpIPz6tZjZE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.1.tgz"
+  },
+  "4.5.2": {
+    "narHash": "sha256-q23QzYemUra4VFWsGSkDV14yIotNn+BdPKcpRqCMcR0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.2.tgz"
+  },
+  "4.5.3": {
+    "narHash": "sha256-WxKYHw63x3JYGkFuv9FoDNtZOl4wh92rE/oY+skGHWo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.3.tgz"
+  },
+  "4.5.4": {
+    "narHash": "sha256-wQAalBfSKQy39U+1lLFGE21JHiMjAD3UPAXL+CAqvdM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.4.tgz"
+  },
+  "4.5.5": {
+    "narHash": "sha256-DU4ZoLbPVrWhLns+XpgUCIufZCnMoMMLkqf/r/k/MLk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.5.5.tgz"
+  },
+  "4.6.0": {
+    "narHash": "sha256-LzZu90hPLNXWnIVDIp2yrtaugi7IJ3yr/C7t0YoTg9U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.0.tgz"
+  },
+  "4.6.1": {
+    "narHash": "sha256-y7iZaxEfXFqIGpYa8jP5oelMXMuQQ9ZwVm0Onb6LauM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.1.tgz"
+  },
+  "4.6.3": {
+    "narHash": "sha256-RH1v9aTUX7HwyiSViKrFyjwtxviWny45g+bJ8UDg6QU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.3.tgz"
+  },
+  "4.6.4": {
+    "narHash": "sha256-5I6ZGhFf0yZl0lZz5hr4KkhVE+oRBxZyyrK6zeZT9HM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.4.tgz"
+  },
+  "4.6.5": {
+    "narHash": "sha256-QaaIYZ0hWg5vXlC5pCbCF9P2myjmkU2CsnTeTo7Q1EY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.5.tgz"
+  },
+  "4.6.6": {
+    "narHash": "sha256-SMeWUOGDwEX3ZjnKkmY76Dwo2WQSlnEK1j2G71u3CIs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.6.6.tgz"
+  },
+  "4.7.0": {
+    "narHash": "sha256-ARKL/k8lIe7aZnmielMqhK0PRQKtOncVdhYoQI/SKzo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.0.tgz"
+  },
+  "4.7.1": {
+    "narHash": "sha256-V2cUrYT8pQ7CqIeHgL0Loyf3vtUM6ZUn090PYQOK2tA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.1.tgz"
+  },
+  "4.7.10": {
+    "narHash": "sha256-2EFWgxPUB30Bk0EgMlCJxRzNtutP+TsyReu1A/4FhcU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.10.tgz"
+  },
+  "4.7.11": {
+    "narHash": "sha256-sxtsT5wEEwLOShKZTUQ74ECuijG+pAKEmOFKvypBjTY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.11.tgz"
+  },
+  "4.7.12": {
+    "narHash": "sha256-IZFoD96cksd65RgNrCpaAHeVMoxqJa2M+EWibCq33cU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.12.tgz"
+  },
+  "4.7.13": {
+    "narHash": "sha256-JUHxOIFHX0fMgEJe/PFvzUnlVzw4M/LVkg0UNmjqxlM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.13.tgz"
+  },
+  "4.7.14": {
+    "narHash": "sha256-D4Kuyb1PFCo8doS/uX6uKwm6cQURVc40RWe8O4+DJJY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.14.tgz"
+  },
+  "4.7.15": {
+    "narHash": "sha256-0f4YX6EFiPqQrrlivoS2F/pCGQ356DlCJHMzJvlwBE4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.15.tgz"
+  },
+  "4.7.16": {
+    "narHash": "sha256-fmOF32nXk8NYuPpGU8r4XAp+obmi4tBVw4ENwS1+GQE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.16.tgz"
+  },
+  "4.7.2": {
+    "narHash": "sha256-n4dafZzIppFf3koRS2vb9wr2KXRfhhEgsfQtHspaLfc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.2.tgz"
+  },
+  "4.7.3": {
+    "narHash": "sha256-qLhnMSt/WCqsaSH2MyKudPXdGETH9DyInwXEEkWcmfM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.3.tgz"
+  },
+  "4.7.4": {
+    "narHash": "sha256-q/c/CmCQsZux4oQkJD/ovXno8J4Fqm2KdWdP7kO+StE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.4.tgz"
+  },
+  "4.7.5": {
+    "narHash": "sha256-dQuEJhK/rifANiKW8c6uiHxwzlqhM/nAP9n1BpsTSAA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.5.tgz"
+  },
+  "4.7.6": {
+    "narHash": "sha256-JuU350ojiaUnk40cJxnMnJ1xHQi9LVvHJsuD6z2VF3c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.6.tgz"
+  },
+  "4.7.7": {
+    "narHash": "sha256-FVJu2jPVG15U4sHBXVignEeibfYpP3HpxBzoPNgRFss=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.7.tgz"
+  },
+  "4.7.8": {
+    "narHash": "sha256-/xiDo9GhMSHtub9n4Te5oypUu5BagYfhS1nDZ6BC//U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.8.tgz"
+  },
+  "4.7.9": {
+    "narHash": "sha256-87Nafi4Rp3TtblHDCANA5VW0aua9z02ho1I22ia6QT0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-4.7.9.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-jWItC2k3vzOr/aRUJqEyP+BkY5wuuv54G+De7XogkaQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-dl67bFis+uE7Sb4uAs/i87BH7G6CJ3i6rviusbeIhLI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.1.tgz"
+  },
+  "5.0.10": {
+    "narHash": "sha256-DnkD7I3kw5gnaCx4e9SrypBWoewoUyCsWyozOsXE8mc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.10.tgz"
+  },
+  "5.0.11": {
+    "narHash": "sha256-C5RL5nHHsXCy8F5yPJUjQH3pLovg1gm+j0QijYKzqTw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.11.tgz"
+  },
+  "5.0.12": {
+    "narHash": "sha256-oaHxJQbv9lqwHTinneSU2AcDQkKThgRHfU6T1JGv+g4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.12.tgz"
+  },
+  "5.0.13": {
+    "narHash": "sha256-Sh5cv1+NmsxYRe80sa/QBzKhS+wNcqTASSL65SdLLQg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.13.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-pEVLsNR+ODBnyOPBhI2Gjh2WFc1AB82vqoL2ePWs2EA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-Ll5uNvGOqHQWlNfblAwy/A8bOIMK/9eH2brgsR1PEYI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-qe9mLTeUJ8l/03SUoMlNzhMK8rEEKem4WbQgCRhZKps=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.4.tgz"
+  },
+  "5.0.5": {
+    "narHash": "sha256-pxAPIoT15qEtHfC1NxLZqcHxwqmMV2CcTP5IJHx6CIE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.5.tgz"
+  },
+  "5.0.6": {
+    "narHash": "sha256-yFbQvK1MPwV9Hl3hM5XR4TlyLdD9a3+T0wxocUdWVkw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.6.tgz"
+  },
+  "5.0.7": {
+    "narHash": "sha256-DJMnCM9hc+37fMkHGQkFdgw4xYYCM+CyOiQj251KBPY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.7.tgz"
+  },
+  "5.0.8": {
+    "narHash": "sha256-1RkYY6emoikv3rezBmM2TAHkMoDVPMn8K/kda/9lDwM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.8.tgz"
+  },
+  "5.0.9": {
+    "narHash": "sha256-yFg1ZfKlvKr6IzZFXGuhwBmJaOD6MXAmVzwI3x3EnAQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.0.9.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-XjBBnc7D+I3PSsBhp8uUr6LQa8YSq/DqPA262l5pY1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.0.tgz"
+  },
+  "5.1.1": {
+    "narHash": "sha256-4DR20Vxu0eGkG5Mo352dKfWwGc7cTS2CyWBX2ilzUwA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.1.tgz"
+  },
+  "5.1.10": {
+    "narHash": "sha256-c5gUrRCWmglS7k+21LenhAbpqGx7Tgiu3xusPRA21kw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.10.tgz"
+  },
+  "5.1.11": {
+    "narHash": "sha256-ENwB+ERe269WCHf55chPGWcNU+M39SiJRmOczjiATj4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.11.tgz"
+  },
+  "5.1.12": {
+    "narHash": "sha256-cBFbJ5/EL1Us/UeheG38JOnHYgn5CHhqDmFbH3Bnpko=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.12.tgz"
+  },
+  "5.1.13": {
+    "narHash": "sha256-qf5DA8Zp/cGLxlVaBv5Ge6ufditlfFj9fB/OzKOnqeg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.13.tgz"
+  },
+  "5.1.2": {
+    "narHash": "sha256-w924OQLodexMOQsDolKC5ifJdf8iUyHnIySsg/U2sf8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.2.tgz"
+  },
+  "5.1.3": {
+    "narHash": "sha256-tw+tbOvZAYb9CFo26xeYDp9fnsf7daGUPYnaHBJjroU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.3.tgz"
+  },
+  "5.1.4": {
+    "narHash": "sha256-Y7HP74mxA1I3dGdMEzSs2QxvIJH14/lmbk8IwyyJzsI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.4.tgz"
+  },
+  "5.1.5": {
+    "narHash": "sha256-s1W0O+neOpFVRvLF6uDcsJXkf9c5SsrgZtY1XmPQwTM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.5.tgz"
+  },
+  "5.1.6": {
+    "narHash": "sha256-O6ZiOV3JOPBD1J8i263I0f/z40FNkR6hdyBAHBFnfA8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.6.tgz"
+  },
+  "5.1.7": {
+    "narHash": "sha256-/IZsw9EcSxrA/XGz2Aw2wSnh2+xOtqE/C3aPBhTEh6Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.7.tgz"
+  },
+  "5.1.8": {
+    "narHash": "sha256-Qm82j/BjQyqLbmBZ8aD4/D3bK8W9unUHdPLqvDwXX90=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.8.tgz"
+  },
+  "5.1.9": {
+    "narHash": "sha256-tQQhcuFFq6+Bilb6N1oflwPKGrTsH+KKpwl64/Vb9/8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.1.9.tgz"
+  },
+  "5.2.0": {
+    "narHash": "sha256-w9qoXKu2kodo4Z5pAVogRGxodmiHaihghY9ASM/KUqw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.0.tgz"
+  },
+  "5.2.1": {
+    "narHash": "sha256-B7C3JL0N1ataBBpf41TnS8WBKoylNevQ4JKtzuHvRv0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.1.tgz"
+  },
+  "5.2.10": {
+    "narHash": "sha256-mr8UNUV5EampbPmp2jkJM+eEiVaK7PvYl1wp+IuPGe4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.10.tgz"
+  },
+  "5.2.11": {
+    "narHash": "sha256-j1FVNHrJOE3vtsPda+KUue/6WzGKNaqW4KnSgv2eQt0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.11.tgz"
+  },
+  "5.2.12": {
+    "narHash": "sha256-+R9BzMxtjCLF2ZarwrQjljYRdO9lon5easYvSLH36JQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.12.tgz"
+  },
+  "5.2.13": {
+    "narHash": "sha256-muDTpB/o5yCUssutZQxwFvMKKzlhSHiqs4LrtCHDyPI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.13.tgz"
+  },
+  "5.2.14": {
+    "narHash": "sha256-KYWySo8uQ0EpVk7OWvvqlMAZhCBSHUyxeEuz73BRhU4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.14.tgz"
+  },
+  "5.2.15": {
+    "narHash": "sha256-I0c4TBNtUHU9dbavKzdMs/q3LTE+Y8JBp+a5t53+6a0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.15.tgz"
+  },
+  "5.2.16": {
+    "narHash": "sha256-1IGWnuJOm7q0548yC/xgoV6Vy9gBq75ruEYhruoSYGE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.16.tgz"
+  },
+  "5.2.17": {
+    "narHash": "sha256-S6dy4QPkJD3gS0heS032d/r3NqSPi+kP+Q0BZvy8laA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.17.tgz"
+  },
+  "5.2.2": {
+    "narHash": "sha256-wwultdSnEDAPv6PFHEkXSL53pD+Cn4wwh8S6pkd0BEA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.2.tgz"
+  },
+  "5.2.3": {
+    "narHash": "sha256-fX8aRTufjRKjllYBjizoBQ0R8EZS84DVmYG8ONpg+Qg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.3.tgz"
+  },
+  "5.2.4": {
+    "narHash": "sha256-AhIbgHx1YztYfn7pigoYeRMvO2hkFmK1Hc0RmNb4YpY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.4.tgz"
+  },
+  "5.2.5": {
+    "narHash": "sha256-M903ZN7hGkXVeR/HlR64pLKLhDs8o+Wt7KOVp+uHp8U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.5.tgz"
+  },
+  "5.2.6": {
+    "narHash": "sha256-UngODTLNFXPBKZSG/3dvLuHMLpl8zq9nrOZEjTeAd1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.6.tgz"
+  },
+  "5.2.7": {
+    "narHash": "sha256-/LgBluciLp6uRUQgO3+OBwQ3rKtQfWaY4aJMxIsexgQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.7.tgz"
+  },
+  "5.2.9": {
+    "narHash": "sha256-ewkts2HaYpDyzcXdlmGO+xg7yokPZ5eFQ0lJNgFyH84=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.2.9.tgz"
+  },
+  "5.3.0": {
+    "narHash": "sha256-12qht8LDmryln2+A4ho8kcFhyFGqTkUN2oG0PY95xZU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.3.0.tgz"
+  },
+  "5.3.1": {
+    "narHash": "sha256-SNgJ6c5f6lyJM9uI/8bpvrGc4aY6+kdSP81/xJeCvVY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.3.1.tgz"
+  },
+  "5.3.2": {
+    "narHash": "sha256-yFkxmhp3s6lqisouMaenxanm9jtccQuRVfp4n7k45hI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.3.2.tgz"
+  },
+  "5.3.3": {
+    "narHash": "sha256-KmCjyppqIJdA65ostuQ4YNHAOT7ohsvHnaZCoUJ5j90=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.3.3.tgz"
+  },
+  "5.4.0": {
+    "narHash": "sha256-J+QAu5kS4UEZUovt77PUo+tYskayAW7YDVwwZadDLiA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.0.tgz"
+  },
+  "5.4.1": {
+    "narHash": "sha256-Ae9cHYAUDZF+OSDhowTRiNeT+rwX1E9ao0qrNjk8ZYs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.1.tgz"
+  },
+  "5.4.2": {
+    "narHash": "sha256-B0XhKuOFtWrWi/vdsDL81STByHDgy41BTf0bVpAzAqE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.2.tgz"
+  },
+  "5.4.3": {
+    "narHash": "sha256-Mo7DswM5a62N4ra2vWVzXSraYszQNESS4MDLpU4oPYw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.3.tgz"
+  },
+  "5.4.4": {
+    "narHash": "sha256-7BhVlPnNn+T32AI6nWfaf3DK4r2fXrMCz2dJFiQTdbo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.4.tgz"
+  },
+  "5.4.5": {
+    "narHash": "sha256-rWeK7tlFR3XAyq8/GRiGyTcdfPLjSHPpHJjCANlCYHo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.5.tgz"
+  },
+  "5.4.6": {
+    "narHash": "sha256-Xpq4F3cbDqm1zfjhkrR0Ive3I0oM1t/CC5zksAjg5BM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.6.tgz"
+  },
+  "5.4.7": {
+    "narHash": "sha256-ajmW7Wdh+b4H0uO5niRMTLl4+s0yiKVJht75siwdhLA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.4.7.tgz"
+  },
+  "5.5.0": {
+    "narHash": "sha256-H5XYgNUreyzTqo6L2enq0T/UVTKnFwPDCq7HO0hQkOA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.0.tgz"
+  },
+  "5.5.1": {
+    "narHash": "sha256-pa+5Rc6+dqWNDnRV49OSbP2P82RfOxyR4PLL6yt52uM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.1.tgz"
+  },
+  "5.5.2": {
+    "narHash": "sha256-6+E3yDJx3jP7R9zpWPmxrwz11noZ/dNMOBTS7IzBUxs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.2.tgz"
+  },
+  "5.5.3": {
+    "narHash": "sha256-AuE6e5e1wpgwEAVbMjS3XCkCzinMpToi/scqPrKjkwk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.3.tgz"
+  },
+  "5.5.4": {
+    "narHash": "sha256-hwlJr/5Z6T510USzcwCMj9c60PuID0ctPh7eqVinmvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.4.tgz"
+  },
+  "5.5.5": {
+    "narHash": "sha256-GGCz3fflsUOlpRqwRLrbUN/cUy2TLFPYaH8f0b1GblM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.5.tgz"
+  },
+  "5.5.6": {
+    "narHash": "sha256-Vpj1zKfgqEI7247DVtZIf9BgtEi59hSVccXY5nbZiGU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.6.tgz"
+  },
+  "5.5.7": {
+    "narHash": "sha256-3Nmf3cZLF3u6pZgv9xyxkAjitODovxAcjVwKpG/cB08=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.7.tgz"
+  },
+  "5.5.8": {
+    "narHash": "sha256-B8j8HROxIz0lhB9Mdoy6rjgruPqaVtoWOuGNThqM9/8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.5.8.tgz"
+  },
+  "5.6.0": {
+    "narHash": "sha256-pgRAH3FmWe0sO0cFlH3WOlvawmQzXOKRDYMODPLbK78=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.0.tgz"
+  },
+  "5.6.1": {
+    "narHash": "sha256-qHehvBDoVE97uGuXs6LkUzx2TfN6a8b+3BwHh4depc0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.1.tgz"
+  },
+  "5.6.10": {
+    "narHash": "sha256-uDoBHIqDq2ZbIL9Oj3dnDNN9BS+07nFPEj20bzyXttc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.10.tgz"
+  },
+  "5.6.11": {
+    "narHash": "sha256-kfl8poMy4ZLi/iC4efkquOqD08o2dWYBYGNYueBvbuI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.11.tgz"
+  },
+  "5.6.12": {
+    "narHash": "sha256-pEiMZZ9ODvX0qyX2og80mVhLs8IDHQLKXG7InSbij14=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.12.tgz"
+  },
+  "5.6.14": {
+    "narHash": "sha256-fzlMuRXttIUVz+c1eIrF8jcwjR5ToC4rdgl9n5ST3jg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.14.tgz"
+  },
+  "5.6.15": {
+    "narHash": "sha256-UnT1O3lpvfx4BrW97HlxQhA/twQ3+kAGjd0L6r4PcSQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.15.tgz"
+  },
+  "5.6.16": {
+    "narHash": "sha256-W02JbOAauvbs9vhOUK6hBcNGBd9LeIRBp2jhW8XaxGI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.16.tgz"
+  },
+  "5.6.17": {
+    "narHash": "sha256-KNpff62WPAjlbmuJaEkoFTREJ02avgZd5bfX+WTsD7c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.17.tgz"
+  },
+  "5.6.18": {
+    "narHash": "sha256-pU3AIpqzYiB0Woyfa6bsZGpC2X1hoc9cpl/aZq8QUVg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.18.tgz"
+  },
+  "5.6.19": {
+    "narHash": "sha256-YaKM0JuWBKysnNWeDfrhB6YBPWJdnck0cznRXlbRG6Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.19.tgz"
+  },
+  "5.6.2": {
+    "narHash": "sha256-4U7azP1CaoU/ezN3cRsLI85oJOeS1Uf3OesOY+zz3Es=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.2.tgz"
+  },
+  "5.6.20": {
+    "narHash": "sha256-3dLl6Z7QgXWUaEMbhTrEomXTk/3bn3+tWmjD6/dAo1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.20.tgz"
+  },
+  "5.6.3": {
+    "narHash": "sha256-vwE0/XlBSvwoRqDpxInHWd9Ircvfr2cFYUDmvH9CnXo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.3.tgz"
+  },
+  "5.6.4": {
+    "narHash": "sha256-fKJlNF6YnoeIZu+iqgE9eJcmGUyQtfcXpdGrYVcOPuo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.4.tgz"
+  },
+  "5.6.5": {
+    "narHash": "sha256-7FUAPKMArUnVGIOtX6pnkGJ6d9ONvdsQR8YeW1bZ0SQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.5.tgz"
+  },
+  "5.6.6": {
+    "narHash": "sha256-lBM0YwZ0m6wD86C/41coazyfT0WwEmlTvmJURCwVi30=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.6.tgz"
+  },
+  "5.6.7": {
+    "narHash": "sha256-9RDm5NdPUSilgiA1DBQPF9GjpD/IH2kRZq2TUVCUi9s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.7.tgz"
+  },
+  "5.6.8": {
+    "narHash": "sha256-1T49cawDRAWeDL4lUOXNn7UHaM/sjgNEHp+6EKtNp6s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.8.tgz"
+  },
+  "5.6.9": {
+    "narHash": "sha256-a04xqzXU2nON3tpoHhb+CFenmf2bG2St1EccYvpVJm8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.6.9.tgz"
+  },
+  "5.7.0": {
+    "narHash": "sha256-N9g9jQSguvZyi3W4xY4LVrLYW21hLoSuZ//ex5v0N9s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.7.0.tgz"
+  },
+  "5.8.12": {
+    "narHash": "sha256-y5bTIfjp7zeZ1qDv0/iu4pIi1sBbuwwJf1ddKe0+aU4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.12.tgz"
+  },
+  "5.8.19": {
+    "narHash": "sha256-WOBHz9VH2YiIEn0fe9td0n+3S/yyR6XU7cqSOknlP7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.19.tgz"
+  },
+  "5.8.2": {
+    "narHash": "sha256-sKHCATM5XBvuPQdng9rOr0ylT1Eh0ZRocnuZBqEryMM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.2.tgz"
+  },
+  "5.8.20": {
+    "narHash": "sha256-DQ1BODERLu5797zHTE2YIHD2oc3+bD46WK4lh28r2rA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.20.tgz"
+  },
+  "5.8.24": {
+    "narHash": "sha256-gWQ1TWKqijlrX5QhqTqtN0TGlUB44J2nBVYYJ6NOnSk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.24.tgz"
+  },
+  "5.8.25": {
+    "narHash": "sha256-N3lejr+ILQNexeWHv7PDku6C8NG3EhZ8X+UEDkxtlLY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.25.tgz"
+  },
+  "5.8.29": {
+    "narHash": "sha256-3+sOWVcQ8+PiRvObIePLfg4kV3ADdLMdeeEMqDg5WJc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.29.tgz"
+  },
+  "5.8.3": {
+    "narHash": "sha256-5Zkjxe3fCohHvz4nsHcKo/r01m5rn1oaAavpL2phers=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.3.tgz"
+  },
+  "5.8.34": {
+    "narHash": "sha256-YgZbX61IkoHlz+01YOQJvQKSr1/Wutf3aVMMk0Ucj/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.34.tgz"
+  },
+  "5.8.35": {
+    "narHash": "sha256-C95Q6FMIx1vm9dlrhRndTn8lo6VCSzJRuMAWmD2uEKI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.35.tgz"
+  },
+  "5.8.38": {
+    "narHash": "sha256-G6Ua8gatMde4AzUpJPg/8ZvK1SwDwq/De06rOwET+IU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.38.tgz"
+  },
+  "5.8.5": {
+    "narHash": "sha256-L/t0F1BWB34+9jVr4tZu38je+PSHCROP6c/5H6/QBf8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.5.tgz"
+  },
+  "5.8.8": {
+    "narHash": "sha256-l6dQcgDFiPfNfT/zbHByf7bwZldkbXLr7c3WEL0yTrM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.8.tgz"
+  },
+  "5.8.9": {
+    "narHash": "sha256-djKlaP6js8yIPlFxrri4Jw3AFPfuvEEiDNx0xe5id7k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-5.8.9.tgz"
+  },
+  "6.0.12": {
+    "narHash": "sha256-dwFMvxrKjrDatOzsIhrQM3hZVNdELCCvtYK9JWVjKFc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.0.12.tgz"
+  },
+  "6.0.14": {
+    "narHash": "sha256-zh6Tphr183ZRQI+D/8tpyihw/CYrI882Ooik5kzT0+w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-/WuYwxKg8I/F78KLFaE/d7uig/+qCfcy5S/udQJlcS4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.0.2.tgz"
+  },
+  "6.0.8": {
+    "narHash": "sha256-HAb7r1zB8IsRjEsPl5ocfc/gtu4KPI+iRD1ihGLn5yE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.0.8.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-wbI68DSbAUcqdxBGpa+swHmswOsNCMEcHD/CUbiigtE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-BTgd661ckjJhLkFggpQ4Pfs2ePXmnGOiIqngL57Nk54=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-ycQ6RVwyAdlmT6nUZtNJyobkBzJ0dQIpxUk0qy7O3TU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.1.4.tgz"
+  },
+  "6.11.6": {
+    "narHash": "sha256-pWzbJkZKHAeU1c10lvcgPZz63CKefgHGWHqvTYPP8yo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.11.6.tgz"
+  },
+  "6.18.0": {
+    "narHash": "sha256-fYZ58e47yXgvvN63I7Kq7BK5fMd5PJ5C+moqmHZuRF4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.18.0.tgz"
+  },
+  "6.2.0": {
+    "narHash": "sha256-vcP7PMXaX+K/rDPwbecNFM1+r2yjfoKKdbp3eUkBVhQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.2.0.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-cYHKGZUkeKFOlC07HdITUS56UhrleGNzzeHPlpC3O1o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.2.4.tgz"
+  },
+  "6.20.0": {
+    "narHash": "sha256-hl0rfzKCXZU1Y9M0AHzUDVWygZmw8un9/KdBnspUDKE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.20.0.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-EAG3EPPNAi5cBG4MaRTpZwkTivSjOjgw2rKO92Fs3u4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.22.0.tgz"
+  },
+  "6.23.0": {
+    "narHash": "sha256-Tfxi3zypOPxAeu1Z/wYdq6GikAUb3gnMIHWcU521s4U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.23.0.tgz"
+  },
+  "6.25.0": {
+    "narHash": "sha256-EuoN4dgCl22a9ea4VRs4pIF0ij+qSxBRwgWl85/HSqs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.25.0.tgz"
+  },
+  "6.26.0": {
+    "narHash": "sha256-XTboQeKEwVs4kJq0HKcCHcm3hv4IM50CbRdfvNF9188=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-EPwZhbSq38ocNekTtf4zzbaoB9T1CHdoh8V82DvNbtA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.3.13.tgz"
+  },
+  "6.3.19": {
+    "narHash": "sha256-G1T4QVhKvtRVx7jW1zzuVreNcvTw/0UhXZ3Y03kZsno=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.3.19.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-1ED76bQhGh3N0ro7qnWCnRTQNzMQJZ/bpIuJDlKfhcY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.5.0.tgz"
+  },
+  "6.6.0": {
+    "narHash": "sha256-qI+sfs1Tl98Xp1TjWwKPGiAQFqpv/eiAl2hJVIiX03Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.6.0.tgz"
+  },
+  "6.6.1": {
+    "narHash": "sha256-xqkIA51L9V3PNBi6YNUCZloG/gdMY0sQeQnHT8zz3F0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.6.1.tgz"
+  },
+  "6.9.0": {
+    "narHash": "sha256-gnMWUgrKvMGeu3VOW2jvdahDWYHQ6xkFIpDZvrlCi40=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.9.0.tgz"
+  },
+  "6.9.1": {
+    "narHash": "sha256-hqDCRjHbVX+VsC5q3vfuq56AMddeifioHqpv5ho3N8I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.9.1.tgz"
+  },
+  "6.9.2": {
+    "narHash": "sha256-pU94lJjH9+gE7lm+en8AByQ3oWzrUbqTPyIdNJlbIZQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.9.2.tgz"
+  }
+}

@@ -1,1 +1,67 @@
-{"0.0.0":{"narHash":"sha256-x/+VBNlevqUC0OSxGsPtXcnNV/G8wNm5WqyljZK2+5o=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-0.0.0.tgz"},"0.1.0":{"narHash":"sha256-ovfxpkEANaDXauHji+nGTbNgp9Z2G7Iv9siHsZ9OHlk=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-0.1.0.tgz"},"1.0.0":{"narHash":"sha256-TAIy63m1JKXbtkyg0+g69CtfAbnXuN1TnMQLnfPv3ok=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-75+GNsjxne++IzOt00l5La8NUGEsfTqo0hq+YQVRYNo=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-hQibl3XGE7dhFfDYnT64dU3yT50Bf7wEr5A6hC0vjq8=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-QXw4FOjEQHh6hKWbh2KdeMmoMFCoo05lEkMth+Fing8=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.0.3.tgz"},"1.1.0":{"narHash":"sha256-nCXpYmK9wacehs6FxKrEfo/ZgW93fhl7BvdcKEqnlzo=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-K76+KjZLvnrIqOAk8SsTUPIWvl9lYU2wF0dQErWtmzM=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.1.1.tgz"},"1.2.0":{"narHash":"sha256-XA6bD28VSArHKeCIcMdL1mCvGIO+q+cfjJO/U0HY0KA=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-WCObEDu8hnf+FmqIsbYuossv/7WQTpMcJ55iMBMRlU0=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.1.tgz"},"1.2.2":{"narHash":"sha256-kK26ztOdYKrK2tozqbLiJ5+6ox4pekXVJZ/B/pA1wq0=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.2.tgz"},"1.2.3":{"narHash":"sha256-VL09JH2UNT3iUu04kQODzBjwdBmJSAEbu1KFXkYuOzM=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.3.tgz"},"1.2.5":{"narHash":"sha256-QPXbyFNQYnzeELd3raA1DKAdu5ahY0GdzEb9Vl0kJcU=","type":"tarball","url":"https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.5.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-x/+VBNlevqUC0OSxGsPtXcnNV/G8wNm5WqyljZK2+5o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-0.0.0.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-ovfxpkEANaDXauHji+nGTbNgp9Z2G7Iv9siHsZ9OHlk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-0.1.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-TAIy63m1JKXbtkyg0+g69CtfAbnXuN1TnMQLnfPv3ok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-75+GNsjxne++IzOt00l5La8NUGEsfTqo0hq+YQVRYNo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-hQibl3XGE7dhFfDYnT64dU3yT50Bf7wEr5A6hC0vjq8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-QXw4FOjEQHh6hKWbh2KdeMmoMFCoo05lEkMth+Fing8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.0.3.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-nCXpYmK9wacehs6FxKrEfo/ZgW93fhl7BvdcKEqnlzo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-K76+KjZLvnrIqOAk8SsTUPIWvl9lYU2wF0dQErWtmzM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.1.1.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-XA6bD28VSArHKeCIcMdL1mCvGIO+q+cfjJO/U0HY0KA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-WCObEDu8hnf+FmqIsbYuossv/7WQTpMcJ55iMBMRlU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.1.tgz"
+  },
+  "1.2.2": {
+    "narHash": "sha256-kK26ztOdYKrK2tozqbLiJ5+6ox4pekXVJZ/B/pA1wq0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.2.tgz"
+  },
+  "1.2.3": {
+    "narHash": "sha256-VL09JH2UNT3iUu04kQODzBjwdBmJSAEbu1KFXkYuOzM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.3.tgz"
+  },
+  "1.2.5": {
+    "narHash": "sha256-QPXbyFNQYnzeELd3raA1DKAdu5ahY0GdzEb9Vl0kJcU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@sqltools/formatter/-/formatter-1.2.5.tgz"
+  }
+}

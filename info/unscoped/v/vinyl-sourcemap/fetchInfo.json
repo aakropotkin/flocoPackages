@@ -1,1 +1,42 @@
-{"0.1.0":{"narHash":"sha256-BQMePBG7ci7jj64r7LBGD6mUBfIKVaVYuxlMoaUSfo8=","type":"tarball","url":"https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-7ewM3nN2qNwEng5NZF9yoB6YaZG/GTx23kVFD4IFZYA=","type":"tarball","url":"https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.1.1.tgz"},"0.2.0":{"narHash":"sha256-waURW75AlfnsLttTVm+kZDRX/oNF5BQJymca2ZR7q04=","type":"tarball","url":"https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-IT0SBpBX797b5xjyYZHMHiVCDgbdpbcXvBk2IXZZFk0=","type":"tarball","url":"https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.3.0.tgz"},"0.4.0":{"narHash":"sha256-lbMHO+HoXn9r5TUMNUhRcmbeJ9fwrkI9Ku2cnp66Kg8=","type":"tarball","url":"https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.4.0.tgz"},"1.0.0":{"narHash":"sha256-3qG0qnJmHS15w3dxFopCPfVbSTRsCKvoOaY787v2AZs=","type":"tarball","url":"https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-jI1d8tzPwGDyBovC28SwLfZvaGeYDAJb43zx2AUd9dQ=","type":"tarball","url":"https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-MP5wujWewcWlSHUmd4iBAW/bn4fzpbFcMEK61xFs4To=","type":"tarball","url":"https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-2.0.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-BQMePBG7ci7jj64r7LBGD6mUBfIKVaVYuxlMoaUSfo8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-7ewM3nN2qNwEng5NZF9yoB6YaZG/GTx23kVFD4IFZYA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.1.1.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-waURW75AlfnsLttTVm+kZDRX/oNF5BQJymca2ZR7q04=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-IT0SBpBX797b5xjyYZHMHiVCDgbdpbcXvBk2IXZZFk0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.3.0.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-lbMHO+HoXn9r5TUMNUhRcmbeJ9fwrkI9Ku2cnp66Kg8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-0.4.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-3qG0qnJmHS15w3dxFopCPfVbSTRsCKvoOaY787v2AZs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-jI1d8tzPwGDyBovC28SwLfZvaGeYDAJb43zx2AUd9dQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-MP5wujWewcWlSHUmd4iBAW/bn4fzpbFcMEK61xFs4To=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-2.0.0.tgz"
+  }
+}

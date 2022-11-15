@@ -1,1 +1,52 @@
-{"1.0.0":{"narHash":"sha256-/KWK4A7B6xqFHN327UduBjkZ27uNpm+ika+nCAtP/gw=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-RO/ybjKkNLiCYfEtlYNu/sP5MmnT/IsHjilvsDsfo9s=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-ywdXv1m7D0wkFNiaMeM5ZUiNIMPzgRqH3QIoNSqWTOE=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-Ivx0Aqje8LVNUbfGBnELPmyjPAVuK1gdHwS7HT5xlcU=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-U0LGcZpW25lUWE/wH5Dt7RZkbsRaCShIgTs67nAD2FU=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-52ZrkA6boCYBqyTUslod6e7VRpfh3H9pWMgeeGDMQZ8=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-22cZsgOrnUDBF38v1zAYSH43lymWvhLt0HRE5zIsmxU=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.6.tgz"},"1.0.7":{"narHash":"sha256-8LvNX52v4LxnwT2XCvr9z3LE/kTlsZVdFruqCLbTVZw=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.7.tgz"},"1.1.0":{"narHash":"sha256-gzEPWt09e8yIzW6iRcM8lMKMOX3AZHgPw3LIq4lAeN0=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.1.0.tgz"},"1.1.2":{"narHash":"sha256-7fKd4P1foMR3U435FP3T4mmL37o68Vm0dINszzfHDfc=","type":"tarball","url":"https://registry.npmjs.org/password-prompt/-/password-prompt-1.1.2.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-/KWK4A7B6xqFHN327UduBjkZ27uNpm+ika+nCAtP/gw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-RO/ybjKkNLiCYfEtlYNu/sP5MmnT/IsHjilvsDsfo9s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-ywdXv1m7D0wkFNiaMeM5ZUiNIMPzgRqH3QIoNSqWTOE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-Ivx0Aqje8LVNUbfGBnELPmyjPAVuK1gdHwS7HT5xlcU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-U0LGcZpW25lUWE/wH5Dt7RZkbsRaCShIgTs67nAD2FU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-52ZrkA6boCYBqyTUslod6e7VRpfh3H9pWMgeeGDMQZ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-22cZsgOrnUDBF38v1zAYSH43lymWvhLt0HRE5zIsmxU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.6.tgz"
+  },
+  "1.0.7": {
+    "narHash": "sha256-8LvNX52v4LxnwT2XCvr9z3LE/kTlsZVdFruqCLbTVZw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.0.7.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-gzEPWt09e8yIzW6iRcM8lMKMOX3AZHgPw3LIq4lAeN0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.1.0.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-7fKd4P1foMR3U435FP3T4mmL37o68Vm0dINszzfHDfc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/password-prompt/-/password-prompt-1.1.2.tgz"
+  }
+}

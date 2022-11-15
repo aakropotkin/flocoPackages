@@ -1,1 +1,92 @@
-{"1.0.0":{"narHash":"sha256-2vWMVe7AxxvNvcgIt1DKqLdGMTxC0xF8YXSSqbUGgUI=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.0.0.tgz"},"1.0.2":{"narHash":"sha256-b204iDFP3DdZ4qEDTm4Aa5qipsASPgUtTaoxHwGnLqs=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-RHDO6XUBtGtPEDRbW0Tfb+tZdgPgWxJRBq8bQWQqPSk=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-0Z+/gPudc+6WWH6S16D0ZOQ/cP7fi6X5qpc5frlMKoU=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.0.4.tgz"},"1.1.0":{"narHash":"sha256-s0YEGsHIlps5Ia/gTl6nYoIW7ejV694Zvsg+VpiD4/U=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-tOq9x1RT6A0eaOBiHz7bs48y/M4bELzN9YEpj9Vcqb0=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-0eVt8qHngeAgO0ATjMTVo+NjtjtQ84CPCQNFyH3oWDw=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.1.2.tgz"},"1.1.3":{"narHash":"sha256-SPLbrcEYb7NBIuW6MUKtVskJ33ER0jUlNuHYLlkIcUQ=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.1.3.tgz"},"1.1.4":{"narHash":"sha256-B6cgIlq3FulVbHiCKjKA3ah2m7qeSaLHQbOdvxnIkyE=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.1.4.tgz"},"1.1.5":{"narHash":"sha256-QT9+R4euBuJ34J4MTjLFOd+xORSwmwujiMUPPh5Ipnk=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.1.5.tgz"},"1.2.0":{"narHash":"sha256-ZCGrNpCzC9uYaH4TxXDQBRZUJZDiWvbClypibQUKp5U=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-2YjVhyNP0xgc9Ie7XWPVngEGhnSvZkrmdSr71Cv5o/g=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.2.1.tgz"},"1.2.2":{"narHash":"sha256-UDy7vbKtQu6iIfN9aiMkh5zBZ2ZWPK/r5Y1wfJYE3eA=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.2.2.tgz"},"1.2.3":{"narHash":"sha256-keGePo2C4OYjNTI2nvV8mmsRiJ4oY9gLloZGIqkPcNk=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.2.3.tgz"},"1.2.4":{"narHash":"sha256-We6Vt2ZcKZKEyl4zcxMT49gW6mbExqq5nr/B1V4MOQ8=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.2.4.tgz"},"1.2.5":{"narHash":"sha256-are1v+9lNA3dtGwOp4Jdpnyn6RonrR4QMWesjRXgpeU=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.2.5.tgz"},"1.2.6":{"narHash":"sha256-AwR1iYPTvzxPaAgmM1ZQzeTogzR5ZLUEESN9wO5pO8A=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.2.6.tgz"},"1.2.7":{"narHash":"sha256-7h/ZjgrSnEtMqP8EQvVCNjfvNS7ZQ03uQIqtAG7afmw=","type":"tarball","url":"https://registry.npmjs.org/is-callable/-/is-callable-1.2.7.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-2vWMVe7AxxvNvcgIt1DKqLdGMTxC0xF8YXSSqbUGgUI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.0.0.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-b204iDFP3DdZ4qEDTm4Aa5qipsASPgUtTaoxHwGnLqs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-RHDO6XUBtGtPEDRbW0Tfb+tZdgPgWxJRBq8bQWQqPSk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-0Z+/gPudc+6WWH6S16D0ZOQ/cP7fi6X5qpc5frlMKoU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.0.4.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-s0YEGsHIlps5Ia/gTl6nYoIW7ejV694Zvsg+VpiD4/U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-tOq9x1RT6A0eaOBiHz7bs48y/M4bELzN9YEpj9Vcqb0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-0eVt8qHngeAgO0ATjMTVo+NjtjtQ84CPCQNFyH3oWDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.1.2.tgz"
+  },
+  "1.1.3": {
+    "narHash": "sha256-SPLbrcEYb7NBIuW6MUKtVskJ33ER0jUlNuHYLlkIcUQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.1.3.tgz"
+  },
+  "1.1.4": {
+    "narHash": "sha256-B6cgIlq3FulVbHiCKjKA3ah2m7qeSaLHQbOdvxnIkyE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.1.4.tgz"
+  },
+  "1.1.5": {
+    "narHash": "sha256-QT9+R4euBuJ34J4MTjLFOd+xORSwmwujiMUPPh5Ipnk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.1.5.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-ZCGrNpCzC9uYaH4TxXDQBRZUJZDiWvbClypibQUKp5U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-2YjVhyNP0xgc9Ie7XWPVngEGhnSvZkrmdSr71Cv5o/g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.1.tgz"
+  },
+  "1.2.2": {
+    "narHash": "sha256-UDy7vbKtQu6iIfN9aiMkh5zBZ2ZWPK/r5Y1wfJYE3eA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.2.tgz"
+  },
+  "1.2.3": {
+    "narHash": "sha256-keGePo2C4OYjNTI2nvV8mmsRiJ4oY9gLloZGIqkPcNk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.3.tgz"
+  },
+  "1.2.4": {
+    "narHash": "sha256-We6Vt2ZcKZKEyl4zcxMT49gW6mbExqq5nr/B1V4MOQ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.4.tgz"
+  },
+  "1.2.5": {
+    "narHash": "sha256-are1v+9lNA3dtGwOp4Jdpnyn6RonrR4QMWesjRXgpeU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.5.tgz"
+  },
+  "1.2.6": {
+    "narHash": "sha256-AwR1iYPTvzxPaAgmM1ZQzeTogzR5ZLUEESN9wO5pO8A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.6.tgz"
+  },
+  "1.2.7": {
+    "narHash": "sha256-7h/ZjgrSnEtMqP8EQvVCNjfvNS7ZQ03uQIqtAG7afmw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.7.tgz"
+  }
+}

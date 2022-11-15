@@ -1,1 +1,92 @@
-{"1.1.4":{"narHash":"sha256-HDZwTfFzEOS4XiUloLvbxKM0Imp/o0RUXD+Gc5LktTw=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.1.4.tgz"},"1.1.5":{"narHash":"sha256-dDG0haad+TUQZBbrE6xstoTzLkGnZtpYH9AwUcmG3jE=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.1.5.tgz"},"1.1.6":{"narHash":"sha256-qUBiyrZqzbPqlRvufSlI6PEwNga3kI3CN16rfetE/eM=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.1.6.tgz"},"1.1.7":{"narHash":"sha256-PbZeLj9AXM1YGFJSdG5H0Li/cVkPTR5MILvRPCRkBKk=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.1.7.tgz"},"1.2.0":{"narHash":"sha256-tb3O0ZuCb2FqPPsT/L9CFTwRvWFqYSQc/twhmBCnQd0=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-+ismmLqpo5czoxgX3Nu/WPR9mu9YcYXqjmHpfdyixrk=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.2.1.tgz"},"1.2.2":{"narHash":"sha256-TWE4jXTEPESsTLvS1W//2hR9Rqi0rQ27VLHYbCD13Fo=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.2.2.tgz"},"1.2.3":{"narHash":"sha256-0osgRqGJe8vrhM1r0hI1d1BMt1GPF9GpBzvoZ0MUQ88=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.2.3.tgz"},"1.3.0":{"narHash":"sha256-cyXPByUnRYOhxru+NXS9KUYFOYsXZR1YOWLFeqWgBWU=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.3.0.tgz"},"1.4.0":{"narHash":"sha256-1NVZBR17+gF/woYjSmnR2snp39b0zciQ7tU50yL5hMU=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.4.0.tgz"},"1.5.0":{"narHash":"sha256-M04JhMA+twYyOsIuTYkDjdBsyFDXH9ljVaRqc9uxZRk=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.5.0.tgz"},"1.5.1":{"narHash":"sha256-WlwMaBN1B/SU77d2TNlsBpqJn10gRnAV/fJkk+i1qYY=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.5.1.tgz"},"1.5.2":{"narHash":"sha256-9uHFSyDFPvv7IpvkGqe0vgl/9tDzAnHzqGEKfwRrSHw=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.5.2.tgz"},"1.6.0":{"narHash":"sha256-7F9YwfHJw1s3GHk2t/SYDKERotEALF0tNLCIsVp2FAo=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.6.0.tgz"},"1.7.0":{"narHash":"sha256-y1GDlPKnGoBkAwP2cEXBYDkeQtsjMZynJGhJDQzxKzI=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.7.0.tgz"},"1.8.0":{"narHash":"sha256-FmMQ8OxguqKHZt281+lPqo/q3zdOf/jqV87vQhh1MTk=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.8.0.tgz"},"1.8.1":{"narHash":"sha256-S1R5mWvbkeML289e8lS2kp2Lvx40De8t+RBpWaiMgFg=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.8.1.tgz"},"1.8.2":{"narHash":"sha256-tI3qL2FeEMf8jrZUjnl3kbTmUpc7DXUbmXMHRPcI098=","type":"tarball","url":"https://registry.npmjs.org/@lumino/domutils/-/domutils-1.8.2.tgz"}}
+{
+  "1.1.4": {
+    "narHash": "sha256-HDZwTfFzEOS4XiUloLvbxKM0Imp/o0RUXD+Gc5LktTw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.1.4.tgz"
+  },
+  "1.1.5": {
+    "narHash": "sha256-dDG0haad+TUQZBbrE6xstoTzLkGnZtpYH9AwUcmG3jE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.1.5.tgz"
+  },
+  "1.1.6": {
+    "narHash": "sha256-qUBiyrZqzbPqlRvufSlI6PEwNga3kI3CN16rfetE/eM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.1.6.tgz"
+  },
+  "1.1.7": {
+    "narHash": "sha256-PbZeLj9AXM1YGFJSdG5H0Li/cVkPTR5MILvRPCRkBKk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.1.7.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-tb3O0ZuCb2FqPPsT/L9CFTwRvWFqYSQc/twhmBCnQd0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-+ismmLqpo5czoxgX3Nu/WPR9mu9YcYXqjmHpfdyixrk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.2.1.tgz"
+  },
+  "1.2.2": {
+    "narHash": "sha256-TWE4jXTEPESsTLvS1W//2hR9Rqi0rQ27VLHYbCD13Fo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.2.2.tgz"
+  },
+  "1.2.3": {
+    "narHash": "sha256-0osgRqGJe8vrhM1r0hI1d1BMt1GPF9GpBzvoZ0MUQ88=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.2.3.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-cyXPByUnRYOhxru+NXS9KUYFOYsXZR1YOWLFeqWgBWU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.3.0.tgz"
+  },
+  "1.4.0": {
+    "narHash": "sha256-1NVZBR17+gF/woYjSmnR2snp39b0zciQ7tU50yL5hMU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.4.0.tgz"
+  },
+  "1.5.0": {
+    "narHash": "sha256-M04JhMA+twYyOsIuTYkDjdBsyFDXH9ljVaRqc9uxZRk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.5.0.tgz"
+  },
+  "1.5.1": {
+    "narHash": "sha256-WlwMaBN1B/SU77d2TNlsBpqJn10gRnAV/fJkk+i1qYY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.5.1.tgz"
+  },
+  "1.5.2": {
+    "narHash": "sha256-9uHFSyDFPvv7IpvkGqe0vgl/9tDzAnHzqGEKfwRrSHw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.5.2.tgz"
+  },
+  "1.6.0": {
+    "narHash": "sha256-7F9YwfHJw1s3GHk2t/SYDKERotEALF0tNLCIsVp2FAo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.6.0.tgz"
+  },
+  "1.7.0": {
+    "narHash": "sha256-y1GDlPKnGoBkAwP2cEXBYDkeQtsjMZynJGhJDQzxKzI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.7.0.tgz"
+  },
+  "1.8.0": {
+    "narHash": "sha256-FmMQ8OxguqKHZt281+lPqo/q3zdOf/jqV87vQhh1MTk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.8.0.tgz"
+  },
+  "1.8.1": {
+    "narHash": "sha256-S1R5mWvbkeML289e8lS2kp2Lvx40De8t+RBpWaiMgFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.8.1.tgz"
+  },
+  "1.8.2": {
+    "narHash": "sha256-tI3qL2FeEMf8jrZUjnl3kbTmUpc7DXUbmXMHRPcI098=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.8.2.tgz"
+  }
+}

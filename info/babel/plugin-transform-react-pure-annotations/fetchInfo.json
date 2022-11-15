@@ -1,1 +1,57 @@
-{"7.10.0":{"narHash":"sha256-gbvw/jfXT+KiIgn4qWg9KgkOfIukLGQjEDl6Sh3fLuI=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.10.0.tgz"},"7.10.1":{"narHash":"sha256-VytfGstceZ/dTAWSVJrPrcXf2HArGsPZGT4uvxlwkBY=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.10.1.tgz"},"7.10.3":{"narHash":"sha256-sZwkFYi2xL8j2gRl2PrHw4phCNn94ijDOedjcIVsZ2U=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.10.3.tgz"},"7.10.4":{"narHash":"sha256-DocIQzojJQmdG6XZgoY82O9NZeJ4ct5BsJ06OLVvgbM=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.10.4.tgz"},"7.12.1":{"narHash":"sha256-+5eFB9zSpnioxzjbc8z21aFJ91h72p77zjA4KCv6R+k=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.12.1.tgz"},"7.14.5":{"narHash":"sha256-9+ydlNvr/aZoitX6VuJ8/1Dp56+Q/lhk3TT9Mc1MqmA=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.14.5.tgz"},"7.16.0":{"narHash":"sha256-/3IlUjSASNofyVMCeZiGpQdQCEeAG8G4yG2D6BftlmM=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.16.0.tgz"},"7.16.5":{"narHash":"sha256-SLIFxC0qGcqCVYVUFPsofKwiboO1YBYzD5g7Vzy0Zzg=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.16.5.tgz"},"7.16.7":{"narHash":"sha256-Y4dfq5csvOnzCifBVoyFjrpTOjJV/0HgeW8cnujPlZc=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.16.7.tgz"},"7.18.0":{"narHash":"sha256-cHAARyvxR37vmKIa018WvLtU6xk6OXF+p6HazeKWIOs=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.18.0.tgz"},"7.18.6":{"narHash":"sha256-fEzsW1w43eS7+kvnO06WYmlf7jwZ2AVAftiw8riC4qo=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.18.6.tgz"}}
+{
+  "7.10.0": {
+    "narHash": "sha256-gbvw/jfXT+KiIgn4qWg9KgkOfIukLGQjEDl6Sh3fLuI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.10.0.tgz"
+  },
+  "7.10.1": {
+    "narHash": "sha256-VytfGstceZ/dTAWSVJrPrcXf2HArGsPZGT4uvxlwkBY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.10.1.tgz"
+  },
+  "7.10.3": {
+    "narHash": "sha256-sZwkFYi2xL8j2gRl2PrHw4phCNn94ijDOedjcIVsZ2U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.10.3.tgz"
+  },
+  "7.10.4": {
+    "narHash": "sha256-DocIQzojJQmdG6XZgoY82O9NZeJ4ct5BsJ06OLVvgbM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.10.4.tgz"
+  },
+  "7.12.1": {
+    "narHash": "sha256-+5eFB9zSpnioxzjbc8z21aFJ91h72p77zjA4KCv6R+k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.12.1.tgz"
+  },
+  "7.14.5": {
+    "narHash": "sha256-9+ydlNvr/aZoitX6VuJ8/1Dp56+Q/lhk3TT9Mc1MqmA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.14.5.tgz"
+  },
+  "7.16.0": {
+    "narHash": "sha256-/3IlUjSASNofyVMCeZiGpQdQCEeAG8G4yG2D6BftlmM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.16.0.tgz"
+  },
+  "7.16.5": {
+    "narHash": "sha256-SLIFxC0qGcqCVYVUFPsofKwiboO1YBYzD5g7Vzy0Zzg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.16.5.tgz"
+  },
+  "7.16.7": {
+    "narHash": "sha256-Y4dfq5csvOnzCifBVoyFjrpTOjJV/0HgeW8cnujPlZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.16.7.tgz"
+  },
+  "7.18.0": {
+    "narHash": "sha256-cHAARyvxR37vmKIa018WvLtU6xk6OXF+p6HazeKWIOs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.18.0.tgz"
+  },
+  "7.18.6": {
+    "narHash": "sha256-fEzsW1w43eS7+kvnO06WYmlf7jwZ2AVAftiw8riC4qo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.18.6.tgz"
+  }
+}

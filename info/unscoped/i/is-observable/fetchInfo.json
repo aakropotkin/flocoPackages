@@ -1,1 +1,37 @@
-{"0.1.0":{"narHash":"sha256-WW9qBGwtHsXUwdwc98QTUUkjMZxuZBY8i+n55nYN6b4=","type":"tarball","url":"https://registry.npmjs.org/is-observable/-/is-observable-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-sDFXNlO3eOiiKRAkZyOSgPYGSeNFicSEBm1IHP9usUA=","type":"tarball","url":"https://registry.npmjs.org/is-observable/-/is-observable-0.2.0.tgz"},"1.0.0":{"narHash":"sha256-70IdTx1jNc08WISojUV1Zz/v2A74XoYUKAPFEDO0H48=","type":"tarball","url":"https://registry.npmjs.org/is-observable/-/is-observable-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-sdqMCeXo9qffi+tKQRKxrEkWpJmkhsKKMyuFRzFIipY=","type":"tarball","url":"https://registry.npmjs.org/is-observable/-/is-observable-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-RdOU0IsG0WtiU1jQ5DQYfQikKSjxKI9+fZ5IOl39iGs=","type":"tarball","url":"https://registry.npmjs.org/is-observable/-/is-observable-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-rSXNnQYg4aY/y4LVH9+VhgE//ypkc63/ebtKI6nYHhk=","type":"tarball","url":"https://registry.npmjs.org/is-observable/-/is-observable-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-yq6FVnoA5rfOdjiTo8M7yK0enJlpbze0Y1hPTAqdbfY=","type":"tarball","url":"https://registry.npmjs.org/is-observable/-/is-observable-3.0.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-WW9qBGwtHsXUwdwc98QTUUkjMZxuZBY8i+n55nYN6b4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-observable/-/is-observable-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-sDFXNlO3eOiiKRAkZyOSgPYGSeNFicSEBm1IHP9usUA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-observable/-/is-observable-0.2.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-70IdTx1jNc08WISojUV1Zz/v2A74XoYUKAPFEDO0H48=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-observable/-/is-observable-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-sdqMCeXo9qffi+tKQRKxrEkWpJmkhsKKMyuFRzFIipY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-observable/-/is-observable-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-RdOU0IsG0WtiU1jQ5DQYfQikKSjxKI9+fZ5IOl39iGs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-observable/-/is-observable-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-rSXNnQYg4aY/y4LVH9+VhgE//ypkc63/ebtKI6nYHhk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-observable/-/is-observable-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-yq6FVnoA5rfOdjiTo8M7yK0enJlpbze0Y1hPTAqdbfY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-observable/-/is-observable-3.0.0.tgz"
+  }
+}

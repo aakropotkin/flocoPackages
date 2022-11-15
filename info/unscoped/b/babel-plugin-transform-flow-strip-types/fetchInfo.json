@@ -1,1 +1,92 @@
-{"6.0.14":{"narHash":"sha256-N850tbexP+G9/5HRLln6QyUE1QcWUZXxNYDPCd0I0v8=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-K0r8/qmZu3yAoydPzwlS8gZ8zsHOCZ2Wnew21NPxPDI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.0.2.tgz"},"6.1.17":{"narHash":"sha256-MNR12z6gSwL2Y4psxycBgiv0Be34HtqhawmOFWjaxjA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-GWNP5/DI0qMRF0TZFMCXq8dFIZx4HDKx7a5qOi04LiU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-dpxiuQ5VlhN0JVyhSyzhOlAUUWP3IfQh14taZGfiodM=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.1.4.tgz"},"6.14.0":{"narHash":"sha256-EDZ6MzNV9FHUyoT7DR4pxbIr9Mw/mYZNcVDGHmDgSkE=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.14.0.tgz"},"6.18.0":{"narHash":"sha256-iEWkwfm+cjKjbUoIOUvlXrBWkEk2wB5jSDhNDzD5qFg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.18.0.tgz"},"6.2.4":{"narHash":"sha256-ZkynBiEa/BE+uGKcVg7lkuuxL282233l0Sg5qMFcnGo=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.2.4.tgz"},"6.21.0":{"narHash":"sha256-5hYky1olbRlP7QvtGngkarh2TLxGFi7CQgvzr5EfTzU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.21.0.tgz"},"6.22.0":{"narHash":"sha256-fjrrK3pV5EiM/YSMgRipahoNf4seX88CD6wpWrCB4WU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.22.0.tgz"},"6.3.13":{"narHash":"sha256-NTO3D6vGuPEaBJ14CaV+dDrC+mi6aM8f+BYs45ybRR0=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.3.13.tgz"},"6.3.15":{"narHash":"sha256-EGbc+JAAQs5CPx6vZe/9VKxPG55u9VGivWUKK2j3uWU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.3.15.tgz"},"6.4.0":{"narHash":"sha256-C/3Qys8Mco6SS+a3zdklCBA0W/ZJQ1/7Do7R6pYTvYQ=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.4.0.tgz"},"6.5.0":{"narHash":"sha256-2G3h4wyRq1Cj/jDIH+546Usl6OQzVBftnJYTXkOnFdA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.5.0.tgz"},"6.6.4":{"narHash":"sha256-Jvsyxph/MozgbxNAjV82T3dd/rQnmBbMDmzUS81uIzo=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.6.4.tgz"},"6.6.5":{"narHash":"sha256-8/HnrZM4JgcFQHwubwmOf6g2xl06eetq7MZ51qeftvs=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.6.5.tgz"},"6.7.0":{"narHash":"sha256-abI7z0Zp1RM9iT0naodV0Jd7TrTNen8TPPM9g2VkCZA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.7.0.tgz"},"6.8.0":{"narHash":"sha256-gzPTE7nJsLeCjzbnDjQekF4P+N4ZjsKz1aMmqWAq7tA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-N850tbexP+G9/5HRLln6QyUE1QcWUZXxNYDPCd0I0v8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-K0r8/qmZu3yAoydPzwlS8gZ8zsHOCZ2Wnew21NPxPDI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.0.2.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-MNR12z6gSwL2Y4psxycBgiv0Be34HtqhawmOFWjaxjA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-GWNP5/DI0qMRF0TZFMCXq8dFIZx4HDKx7a5qOi04LiU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-dpxiuQ5VlhN0JVyhSyzhOlAUUWP3IfQh14taZGfiodM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.1.4.tgz"
+  },
+  "6.14.0": {
+    "narHash": "sha256-EDZ6MzNV9FHUyoT7DR4pxbIr9Mw/mYZNcVDGHmDgSkE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.14.0.tgz"
+  },
+  "6.18.0": {
+    "narHash": "sha256-iEWkwfm+cjKjbUoIOUvlXrBWkEk2wB5jSDhNDzD5qFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.18.0.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-ZkynBiEa/BE+uGKcVg7lkuuxL282233l0Sg5qMFcnGo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.2.4.tgz"
+  },
+  "6.21.0": {
+    "narHash": "sha256-5hYky1olbRlP7QvtGngkarh2TLxGFi7CQgvzr5EfTzU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.21.0.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-fjrrK3pV5EiM/YSMgRipahoNf4seX88CD6wpWrCB4WU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.22.0.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-NTO3D6vGuPEaBJ14CaV+dDrC+mi6aM8f+BYs45ybRR0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.3.13.tgz"
+  },
+  "6.3.15": {
+    "narHash": "sha256-EGbc+JAAQs5CPx6vZe/9VKxPG55u9VGivWUKK2j3uWU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.3.15.tgz"
+  },
+  "6.4.0": {
+    "narHash": "sha256-C/3Qys8Mco6SS+a3zdklCBA0W/ZJQ1/7Do7R6pYTvYQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.4.0.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-2G3h4wyRq1Cj/jDIH+546Usl6OQzVBftnJYTXkOnFdA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.5.0.tgz"
+  },
+  "6.6.4": {
+    "narHash": "sha256-Jvsyxph/MozgbxNAjV82T3dd/rQnmBbMDmzUS81uIzo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.6.4.tgz"
+  },
+  "6.6.5": {
+    "narHash": "sha256-8/HnrZM4JgcFQHwubwmOf6g2xl06eetq7MZ51qeftvs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.6.5.tgz"
+  },
+  "6.7.0": {
+    "narHash": "sha256-abI7z0Zp1RM9iT0naodV0Jd7TrTNen8TPPM9g2VkCZA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.7.0.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-gzPTE7nJsLeCjzbnDjQekF4P+N4ZjsKz1aMmqWAq7tA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.8.0.tgz"
+  }
+}

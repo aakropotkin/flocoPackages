@@ -1,1 +1,1912 @@
-{"0.5.0":{"narHash":"sha256-4W1+JaMVbv1wCFDTlBicvta+wcy1/lKH16R0Ckmb1Do=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.5.0.tgz"},"0.5.1":{"narHash":"sha256-xdVMFXYIhdCI80qPIUUBqnsliPyNneaNdLp7wu4YrGU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.5.1.tgz"},"0.5.2":{"narHash":"sha256-7ELSf/RNUmNMIb4R6IP7C/lFZYcYGtbUicB8zQ4yiaE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.5.2.tgz"},"0.5.3":{"narHash":"sha256-W4Evq78yP7nliUQkoFOJ0Iy6scQ0p2KnGhi+rrhkC0Y=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.5.3.tgz"},"0.5.4":{"narHash":"sha256-ceQWPFm3I0VqqcWQcybAIn8UUEPAoLB7Es7hZeZL28E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.5.4.tgz"},"0.6.0":{"narHash":"sha256-5GPmzn2pZYVn5WWI5WN/hhKFBb9cWu0VTixCtc8A2cg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.0.tgz"},"0.6.1":{"narHash":"sha256-nzfzQzLkhN+2s9W/UCE+nRfv7QLF2ru8RXLT1pq0KbY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.1.tgz"},"0.6.10":{"narHash":"sha256-xHYJS9iuhyPmRY+wcL3BYjwhGY0liBGpeXCFFmSwDrk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.10.tgz"},"0.6.11":{"narHash":"sha256-Sn47HQ7bPV/fIn+q3s072ZE78zKUXYx7TxxC6431UXE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.11.tgz"},"0.6.14":{"narHash":"sha256-ZwJ+OssGMFBe/RMFw7b/QWKKrh7eGeFFqtIARzR/t94=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.14.tgz"},"0.6.15":{"narHash":"sha256-8/ByOr42CLjLQRpNRKnSnwCmkFjcFc2KEeZAZbEAW7k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.15.tgz"},"0.6.16":{"narHash":"sha256-G7YsqK136VIAT0clvqEupVyEp2kSxCCp0Yz6NHdpzjw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.16.tgz"},"0.6.17":{"narHash":"sha256-tBumBogdcd5GtYM/GHQpb2PiNTr+Z+8KING6oCp8CL4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.17.tgz"},"0.6.19":{"narHash":"sha256-M4cwbdTNC3aVdM6VBfL1iItFAoqa5+SZxsvmQfJgzqQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.19.tgz"},"0.6.2":{"narHash":"sha256-Zkms0rlZ7C1PrpeW+aKRSXz1Oi/UonFmZe8kQ8v0qCI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.2.tgz"},"0.6.22":{"narHash":"sha256-N6SmpNhix0j8dHJ7QbRQUAhUwA6tnhiTnZQHV8Rb1DE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.22.tgz"},"0.6.3":{"narHash":"sha256-PKAiaxwXJHlfUaEo3AMOs/8kzzmTSTkTEJiURV0g/Sw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.3.tgz"},"0.6.4":{"narHash":"sha256-qsyytTDU17KprHA+GgIG51EL6u4nHzrUadOyD0Oest8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.4.tgz"},"0.6.5":{"narHash":"sha256-ZqhFO1wh5XdH5jfg9WUwnhr+HmC1HTivwopZSWK5U4Q=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.5.tgz"},"0.6.6":{"narHash":"sha256-G0hXxif13lHu95nmxQ/3j00eBMweliXbkKIkHrx9Z1Y=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.6.tgz"},"0.6.7":{"narHash":"sha256-0IgMXFbMGQYxH0Gptk7UZhqcD8xdw9poWiT00xiKxDg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.7.tgz"},"0.6.8":{"narHash":"sha256-+prf+XUBkaa9IpdrELk3vvH53eoHHJnwJIp0sAlI1us=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.8.tgz"},"0.6.9":{"narHash":"sha256-a8OBpIbh1cQNRM/ocFoCEin62Vvod7jRaAv6bb6FvQk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.6.9.tgz"},"0.800.1":{"narHash":"sha256-JapFfdzE8BMbtsTwsGAE1Gp9U3sb8wasTH9sC5ojRh8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.1.tgz"},"0.800.10":{"narHash":"sha256-jQlcpIJtXdOFLPQ/IkMPb8Bgcd/V7pQia87iZlmIQZg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.10.tgz"},"0.800.11":{"narHash":"sha256-cQzl9zWKs9lKwh2BmE8mz21BM/mZAYu+QMgYFvvik1U=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.11.tgz"},"0.800.2":{"narHash":"sha256-Dc3qnOk/2hhImk/a6+ELCKXqKlFCQIsqb9Z9Qs8Uw3c=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.2.tgz"},"0.800.3":{"narHash":"sha256-T0NK9uF0kXKiYlrPKqwj1Hv5APPxfn0V+AHeT5Eb64k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.3.tgz"},"0.800.4":{"narHash":"sha256-xKedyaVC1LUX6ZCZPG93PVJgncggIX5vGMlUHYZ0PDM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.4.tgz"},"0.800.5":{"narHash":"sha256-4Gfmvq0VHvDmEefqtyB3GL2yikDGUeuy4l6gFfEvCtQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.5.tgz"},"0.800.6":{"narHash":"sha256-JYtOGhyu6qnOzJd/7BzYhHgkunA2jtv6L3uerE+Cm/Q=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.6.tgz"},"0.800.7":{"narHash":"sha256-cPmbm1tBk5UBJXQ+Nkp9D//UdCccITeJZZzb2fMP2Z8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.7.tgz"},"0.800.8":{"narHash":"sha256-uveS1PeDhvFYD24mMsb5PONKUUZYWDVE9CqLuBGmDPY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.8.tgz"},"0.800.9":{"narHash":"sha256-dCbVrt3OuhMQqGdTqTTskO1WsyOcAg/LBKl3DQevusg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.800.9.tgz"},"0.900.1":{"narHash":"sha256-TtPPA6EzExAtCfnyM2tcTlt/73QZySUAxI1pK5MJ2WY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.1.tgz"},"0.900.10":{"narHash":"sha256-2ma5nHm4tDAKsdu0jxfv59Vqf/BOQNlwREjUfF9CH/s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.10.tgz"},"0.900.11":{"narHash":"sha256-7JLK++N1Ej2Wp00sefJqcp0Zb0TyahLoeP/bAWf3KZI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.11.tgz"},"0.900.12":{"narHash":"sha256-fP8kDzFojGS+PBXlJHDDiR+d2+lHW3Aga/8HHRbBTNY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.12.tgz"},"0.900.13":{"narHash":"sha256-vQ9GcpSLKZHaOeKpQ7lZaJtqX2X+6L1cuyrW8Y/oUHs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.13.tgz"},"0.900.14":{"narHash":"sha256-WtCO3vxnshFb1tTeNpa3G45VKn2b8nX8yyiGgFkrS+A=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.14.tgz"},"0.900.15":{"narHash":"sha256-sSoUD2u/BvrDSplvjZVz2FE/7v0oLKHlFXZGl2qUCAI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.15.tgz"},"0.900.16":{"narHash":"sha256-Fkj8MKiMcThbLN4HvbDALbAYwH1rUO2lEhsUu59YBjc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.16.tgz"},"0.900.17":{"narHash":"sha256-zJjHnMxDl3J+YSknpUOLEzQt0ikGIONQxiE/qxy3AN8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.17.tgz"},"0.900.18":{"narHash":"sha256-4BT5l4bsP9yVzucFS9br1Fz4yOTOXbFZgaL1I4D9IJo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.18.tgz"},"0.900.19":{"narHash":"sha256-WEcizafoEDafE41sEeWhbYxY0NUELjkJSkj4TzMQzg0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.19.tgz"},"0.900.2":{"narHash":"sha256-oXVV0gcpxOnsPq/E5A1/iRw6cxhc9gj3Q2rVwmVm0H0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.2.tgz"},"0.900.20":{"narHash":"sha256-E2wxPc1N6E0+HXXs2/uqDhwh+HcCis2b+EILpp8eb5k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.20.tgz"},"0.900.21":{"narHash":"sha256-1AZp8KXM+EIPuRnnNLENJxaf/V+puHCbsJyBRAXCNtM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.21.tgz"},"0.900.22":{"narHash":"sha256-OsrwwoI9C2z7Mvmcjv62i3Cc/8rPkvRviTc++gx8+SA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.22.tgz"},"0.900.23":{"narHash":"sha256-LYjLLUSChic9/0xjdsW+gdKWxGDLQS6XAZ5aIlxrqJk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.23.tgz"},"0.900.24":{"narHash":"sha256-3tdWZYBPo98Jxmqwl1AmmMqi0RUcEE/kMOMaaT1LVeY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.24.tgz"},"0.900.25":{"narHash":"sha256-7f2Q6B89X6ofVY+zTPqs8dcBB5Py7fiHILzpVWkV3A4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.25.tgz"},"0.900.3":{"narHash":"sha256-ee10ib1yqoXLLZqx1Y3lLLEbOJGY06DijPoUx0j0mlI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.3.tgz"},"0.900.4":{"narHash":"sha256-T1vdf8zMc2sZipRr92QDAmc9XTrLQVQUWfPMoG66K9s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.4.tgz"},"0.900.5":{"narHash":"sha256-7HbsiNYl5V8vLyVewqkU9on30EpOeNjHTqhKsHMTtTA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.5.tgz"},"0.900.6":{"narHash":"sha256-pb9vI070LDyHgW5jylD1PoZipLWarAsokNnB+N+iugk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.6.tgz"},"0.900.7":{"narHash":"sha256-EKNDKNxv+pv/4M+5DtfQpQKIOBNQ8cPvUjgA6y9Fg40=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.7.tgz"},"0.900.8":{"narHash":"sha256-DzdLxovU3rA4ZzRQ6HcYtKPyb55P21mOHulQd8oFDpc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.8.tgz"},"0.900.9":{"narHash":"sha256-d1tO5sFXr6az7q1m/j0ADUTlTigzmeVrqfbE4u7mYAg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-0.900.9.tgz"},"1.0.10":{"narHash":"sha256-0C2PnthkNpuvFmvYalIA4AAlX3Z4g2VavhV2t6gtamc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.10.tgz"},"1.0.11":{"narHash":"sha256-p3gFFHxBIHmRQRqGZUHt+G3c3y4qaRuuBdrBIdH/dD8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.11.tgz"},"1.0.12":{"narHash":"sha256-9fj2yy08xstBcRtK1MHhLiaOsdwOKQkO5HyoVoyBKuc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.12.tgz"},"1.0.13":{"narHash":"sha256-p/YWTl6CKnSJM1uc3W3IZU0T6E9CVQ+WNk1hkopMFzM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.13.tgz"},"1.0.14":{"narHash":"sha256-SVk0xR7syrh8+Ln+HKryyYXSWetsl9FqXZYwisKPheM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.14.tgz"},"1.0.15":{"narHash":"sha256-VuMEl/lgwkQP1cQOe0ZsrQs4AS9BU9kvRXdBn9Fh434=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.15.tgz"},"1.0.17":{"narHash":"sha256-S9tZOGtYr4YXpP+vA/hB5nXMs+bip2ogrVb/bHcIKQ8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.17.tgz"},"1.0.18":{"narHash":"sha256-oLkwDTNIC86Fsd1kUjtdv4U7Gro/I+5ku9rogFWM4Kw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.18.tgz"},"1.0.19":{"narHash":"sha256-baObof62R1yibZ7LEGe8kxsL28s3q3aPc4b21BSsFOs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.19.tgz"},"1.0.2":{"narHash":"sha256-NqYnXQOHkQpNsELyrPoBmxYRqnCb0ixmFdPgMCW6ABA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.2.tgz"},"1.0.20":{"narHash":"sha256-RuAcYs1nxk1vEH7nCpcDd5WkjX1tk04kjEJiWECDr+o=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.20.tgz"},"1.0.21":{"narHash":"sha256-raRbgDpK7bj4rpx/OoZr4eqBwimomoFB6sb2Oxk3wtw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.21.tgz"},"1.0.23":{"narHash":"sha256-ugpsTmwljpDmyYPlfq3k6r5qJMP33t3TBr73XQGghz0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.23.tgz"},"1.0.24":{"narHash":"sha256-vx7M20U54s58m9VyE4WNcpO3jj9e9737d5Z6ACsJGj0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.24.tgz"},"1.0.3":{"narHash":"sha256-0QkHgOF079S0y1ZDnwmPipa6EUM036EcUqpXXAVvQmI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.3.tgz"},"1.0.5":{"narHash":"sha256-KVaqxDZrpAziAID4h4OcgncZZauiEzLXI6JbQhf+TH8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.0.5.tgz"},"1.1.0":{"narHash":"sha256-IsFYE9jT66Cg6nLqyoma/B9GMf9USzdXZgNEO3Xm5uI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-83LQIZBN4rgN2ANbRbD591PJ7cwwGCPtGRqbAZCsnvE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-IewAcUfjdcZL4Sp2dxGlpJm4y5WJ/fGqXQgmeR5gDFE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.1.2.tgz"},"1.1.3":{"narHash":"sha256-4KrjBb0UGXONm7CDHwwNOQrVqhfV7bJJmHYbDnDuaAU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.1.3.tgz"},"1.2.0":{"narHash":"sha256-0dKfhgVv7ztyiKBdpZevCNWVMZOzYqsaFzp7ISTeoPE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-2VS6GLJxdENy2jwtBvWmGZ0w80dBKU9gLhnSprQn0H4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-DRWob6JmkUHHj5/ptXjSeNvRZBFDjry7l2FD/5QYQXg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-HSyBd1g4g6DFhMACdIKG97V07wLjBkTIC7T0AqkQWEg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-V6tRuL/wo01SfaOCenCJPdtA3bv666I5hapVTAePWSc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-umq5XjDt9IosNRT4mCrhxijxAB2DLwvrxoN68Nhdn7c=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-YnU6lgSdNOecGIpWvCu+NbO/7eoVsOB4tFEzd+DnkRg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.0.5.tgz"},"2.0.6":{"narHash":"sha256-UHNDj06GFwu+nhHcCLO0a8mhDHs2Y8AR/+NrJHBqGIQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.0.6.tgz"},"2.1.0":{"narHash":"sha256-XpjIL5o//IIYL6AJs6N5Y8eejqcBdKCISEvT5KZ6Pr4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-P1sHegl8JpocZySPl9Rnj4sro2mvuoqKVYSvbsLRDn4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.1.1.tgz"},"2.1.2":{"narHash":"sha256-uaWN509WKgNZkOCJSlbZT/iHoeW7cz9LqyZ5ZiHky2Q=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.1.2.tgz"},"2.2.0":{"narHash":"sha256-FwwqkcKPAWE/rFycNLNkLKnfMM5At90w7hUt1EXwfZU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.0.tgz"},"2.2.1":{"narHash":"sha256-PpRi/PrLBf1BLf1byuVUGyX5HTplOaEcSpQTwno4Wfs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.1.tgz"},"2.2.2":{"narHash":"sha256-nACyRUFGV56jWGNrZqpR88JOZKxz1FL2DGRC/QPJ4VI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.2.tgz"},"2.2.3":{"narHash":"sha256-/41QxaplQZkB2gN+owhh1yf5UZjCuhvOHi3B9qFR/5g=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.3.tgz"},"2.2.4":{"narHash":"sha256-9YqtjN8+MZhuyVGFFw8ajLEKRSIqHKeS8j7xHVkpE+4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.4.tgz"},"2.2.5":{"narHash":"sha256-tGaiTdDUIQ+rf5eHXtUdkB0ufROzGOOEE49SVH8mXqQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.5.tgz"},"2.2.6":{"narHash":"sha256-MKNfsfHOrzTeUnfhBjuzD+wjsWVnY9XK4hJcQQmVvS0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.6.tgz"},"2.2.7":{"narHash":"sha256-JOKZp8I/JMbKORAmRXdVlaIndOYLcTlZ/5BOm3eJkXM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.7.tgz"},"2.2.8":{"narHash":"sha256-rAh+IqhQmVc/KbBBHm4tG8DXkxIsqCbSnTQ8Y0mCU50=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.8.tgz"},"2.2.9":{"narHash":"sha256-WXmcrVeMhhfsfAUiWNoyH+1Jc7MbDQBwsOcDCOJQmRo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.2.9.tgz"},"2.3.0":{"narHash":"sha256-Bv7EVk/FiZiN7HN3Z/Yqam7mlLj07cu6TG0jw4zqOK0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.3.0.tgz"},"2.3.1":{"narHash":"sha256-P1HaJ+8UdsCoK+473EjwvYoa9O2SOUVNkw6UMlTYS/o=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.3.1.tgz"},"2.3.2":{"narHash":"sha256-NBJw+I3geItmFgh0n4yZ26pnNOO/q9UACoIexnRPDBM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.3.2.tgz"},"2.4.0":{"narHash":"sha256-ygKTtM18GFfNdpbKKGdCBhRqESyX6FkKf81AS4IsJho=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.4.0.tgz"},"2.4.1":{"narHash":"sha256-DPwcvDgc6ufQ2a1xEgfKXSBixUd6VNK+EBqyEKBDWis=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.4.1.tgz"},"2.4.2":{"narHash":"sha256-RL8o/ysr7314/V283phYEbACLQ6K9bCUzub6pTAzmuw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-2.4.2.tgz"},"3.0.0":{"narHash":"sha256-I8R1wlOp/lDi1VFb++d5QAkYMbzHm228sA+wUMeDRn4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-S0I+gGU7YUuIDjIAciAqGU30DcUE7QDcpenB1iGRu0E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-EWp1veWs8ls+lKDEkHQK+9fKnfle9UXax0lfdKD7DIo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.0.2.tgz"},"3.0.3":{"narHash":"sha256-QlVqNUXQe5aUG5jAc9/MYe0SI7Jxe5NlSgJ2UkbQP30=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.0.3.tgz"},"3.0.4":{"narHash":"sha256-wFszQ+NqFKRptot9EPS1j2WaKJYq0mKwNt5HWRp7ANs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.0.4.tgz"},"3.0.5":{"narHash":"sha256-9en3eLvhuy8C4zMuHRtu2JWITKPSGuMuJSc7Bqalw5w=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.0.5.tgz"},"3.1.0":{"narHash":"sha256-BX8pUAEn1BunR1ymDemhvwBbJ3Gst0WgZu3mi7Gms2E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.1.0.tgz"},"3.2.0":{"narHash":"sha256-vqtUIy2Se+C97qdWDpRgJP9H66z1Pu5z8PdNrILdpyA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.2.0.tgz"},"3.2.1":{"narHash":"sha256-sII72qzo2j2DNiO2ylnfq3rHpXpczC/CeqNMcsCdq08=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.2.1.tgz"},"3.3.0":{"narHash":"sha256-8wypAOX/GXwVYBfMEiL+e2BracY7TTL6LQd+qek5yII=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.3.0.tgz"},"3.3.1":{"narHash":"sha256-iLyd19ca6rEqd/KF78YCtL6uOq3jsfdX0Pxe8zVp2+w=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.3.1.tgz"},"3.3.2":{"narHash":"sha256-AgO8IX2OQg/IDrjZsW+DfKCiJg6YH6tKZyC3YYvaztk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.3.2.tgz"},"3.4.0":{"narHash":"sha256-LzSl6yIWpnrPjsm9+fs4FSZp5QBJYAGuilJ+UGdYi04=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.4.0.tgz"},"3.4.1":{"narHash":"sha256-uFIw97/VeJO/+YB6zJJHqFbOCENTZ4JPQO669XsyY+8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.4.1.tgz"},"3.5.0":{"narHash":"sha256-q21PQEFBcqBZb5Qe9CHND8lNVahPtD5eMQbe6kvJfPo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.5.0.tgz"},"3.5.1":{"narHash":"sha256-mDZP0PQB85wJw15ST9POF+wWXbDlTcVC7yYUz9kXizo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.5.1.tgz"},"3.5.2":{"narHash":"sha256-cDjF8efga/S/qRK11DQhQmrnrZvEdcMRCwyX+YoLnDc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.5.2.tgz"},"3.5.3":{"narHash":"sha256-GWNZ0ipCZAINFsQ54IkP05EVJv/dkpUWIQAUqUMyQgc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.5.3.tgz"},"3.6.0":{"narHash":"sha256-73bBFjvwpQgIp2UdFJk/yhhBeb/v5m9+dVPqt+NQyxo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.0.tgz"},"3.6.1":{"narHash":"sha256-tbF+/mIAXtq4kPNacj1JP/T2116pKtg+v7o6GdlaJzw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.1.tgz"},"3.6.10":{"narHash":"sha256-x2BocGT6JS1/w1N0zbNLJl8lTcbFKZ+h0ZfLBm2FBe4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.10.tgz"},"3.6.2":{"narHash":"sha256-fjCRyoluFn0jPWOGb7MAiWh59NFC0vaCcWt5MD699io=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.2.tgz"},"3.6.3":{"narHash":"sha256-WAiNSH86hUNDbhl9VU4o6OEDLqx74qez0B4lZJBgbvc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.3.tgz"},"3.6.4":{"narHash":"sha256-p//4iLYpDRCuSPAWmgLpEY0PmUusVsb866x1ttS7iis=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.4.tgz"},"3.6.5":{"narHash":"sha256-UkVv+3GYnrHOy0ZqV0rtyivn2lawTousbhl2c3fylO0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.5.tgz"},"3.6.6":{"narHash":"sha256-r/PkrcXD/Op9pFtjNmJq2ZaAmmWK5Q5W83m0r6x3v3c=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.6.tgz"},"3.6.7":{"narHash":"sha256-r9xMUGe8WkSgsLQ9dBG5nJmxpyYzcy3fDPj6sEbdONk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.7.tgz"},"3.6.8":{"narHash":"sha256-fegod65Yu2t5cXihC80soUbBOCyCm41OYkiwGbzBNUo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.8.tgz"},"3.6.9":{"narHash":"sha256-4RlgrA1KNQZrgDfnkaiR7816rJBfhW+xgKnK0ZEbDuk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.6.9.tgz"},"3.7.0":{"narHash":"sha256-TRayvQYgU6w9o2ry+nlXrMk4yvQCQvYsvZj4FZcn1Kg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.0.tgz"},"3.7.1":{"narHash":"sha256-kwJ/gIUPqYYOednEm+CdXmWSKNWyPdrDWfPmKkZF8ro=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.1.tgz"},"3.7.2":{"narHash":"sha256-+CcAdxXWO7oIBlsVzTGVvmhqVE2L8bibezyEpOJQw1A=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.2.tgz"},"3.7.3":{"narHash":"sha256-GdStMneNMYeuxhf26bPGBHdSKkq5fgdx0y4GEs8brC4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.3.tgz"},"3.7.4":{"narHash":"sha256-rDjcQzKds5jz66mMBnVYirUgpeO20oAnpKiJfmJBn6E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.4.tgz"},"3.7.5":{"narHash":"sha256-dn7MY47oBegm7nYmAmCV/5uxVBp0CX8457R+QaLDQzw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.5.tgz"},"3.7.6":{"narHash":"sha256-RlIYnp38qvLh3bAQGaKNOE6DTMNAspBLIeBW/f+X/W4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.6.tgz"},"3.7.7":{"narHash":"sha256-vf5SuN/C273F2zigQ7m+/9t2VEd473lx7gjtVcvfU8M=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.7.tgz"},"3.7.8":{"narHash":"sha256-yMyQ5NuZpDjgRtEgz8UR+wnrdfKSK22duLoN52ug7mo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.7.8.tgz"},"3.8.0":{"narHash":"sha256-y1DWKix3O241hQzeivBRkSWXZeOBrZFwTevRQoU0WAc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.8.0.tgz"},"3.9.0":{"narHash":"sha256-aAFvkEFH1paUaJ/b6NgstfDsBOALSWSWHSN+c+OAk0M=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-3.9.0.tgz"},"4.0.0":{"narHash":"sha256-S5EshlRNE4iB5sOsBJV0AARDPnFBW4olDUsnTtrJUJE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.0.0.tgz"},"4.1.0":{"narHash":"sha256-lJuvJdWWcS2Xv4tiu1rmqiB04xIqzJ0CjUg1kRPp1IU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.1.0.tgz"},"4.1.1":{"narHash":"sha256-9dhMXNNAao6oXa9J+RUDpWCpZ+JIl1qxhOfKru5jbts=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.1.1.tgz"},"4.1.2":{"narHash":"sha256-EA9hLOvggV4ARKR9XmM8KphV0aDmmPwm6JGc7mLi6DQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.1.2.tgz"},"4.1.3":{"narHash":"sha256-bh/MY0WhK9qloUCqEceWitl+y/rGrLIA11g9+fKoVX8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.1.3.tgz"},"4.1.4":{"narHash":"sha256-PLQRpPPpnKIExn3jKENhir4Xobr/GCRqeh4MHKXUT+I=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.1.4.tgz"},"4.1.5":{"narHash":"sha256-7qHeQDxDyf3WMp0iWg0UAmXYaHjsNRMBGxcEbzO2bv0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.1.5.tgz"},"4.10.0":{"narHash":"sha256-gX3P3jLCs5oqW2chglZox0Bu+lxUc2KZ3KUrIsjGx5E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.10.0.tgz"},"4.10.1":{"narHash":"sha256-x+sOKoD3Wo2thlqbm4yMyMcM5voMPvTy5dBQADxGPXs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.10.1.tgz"},"4.11.0":{"narHash":"sha256-V5QFQIkW2A/Kocx662pGEQ4q29peg7EENC3c8OoX78w=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.11.0.tgz"},"4.12.0":{"narHash":"sha256-zDiQdBII/nQbiNZZXC2vABD9FRx+ZM+fdfJZfposj1M=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.12.0.tgz"},"4.12.1":{"narHash":"sha256-hBzYuC+8u4TfPyRMEtUds1lYX9z16cRBGBj10x58CLY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.12.1.tgz"},"4.13.0":{"narHash":"sha256-C9Cb4oDdX3APfgvo6qPhqan6QfhPHK4oC5HCGEHuugI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.13.0.tgz"},"4.13.1":{"narHash":"sha256-BjoO2zf8U2BQCHco+w/uPzqbxRuMTIjJQSmAXrc9NZ0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.13.1.tgz"},"4.2.0":{"narHash":"sha256-x90jOvc/Z2x2qGnEtwqEtvsaGg1+Ddr9bMOLNlwl1wU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.2.0.tgz"},"4.3.0":{"narHash":"sha256-cxa19vcgmiu3HBqq3gcmNUpeTuyG2bMoifvW/uL1MmU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.3.0.tgz"},"4.3.1":{"narHash":"sha256-Fxy6GSPbKLVAWILLK8IMqfn+Gzn3QfhAjPdzil5F+M8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.3.1.tgz"},"4.4.0":{"narHash":"sha256-ZiM+D/fTpcp2XGYfr1ME9H55LLyYRLPsO9x3bQq77vs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.4.0.tgz"},"4.5.0":{"narHash":"sha256-GrYo/e8WRxf6RJ66HrClHkJo2CsIVIg8a91UdqRaMOY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.5.0.tgz"},"4.5.1":{"narHash":"sha256-KlJQbOtfJFW9JUbcmfQwxu34K+ertTbz3jviEDZqP/s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.5.1.tgz"},"4.5.2":{"narHash":"sha256-2f2nsMm+WDJlSV2t1C1qRDNdHu8jaHU54TPvRUfFZnI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.5.2.tgz"},"4.6.0":{"narHash":"sha256-Lb9bOczZ+H7u29FiYGgxA6H3U4ShZsIkWOqASEE2uFM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.6.0.tgz"},"4.6.1":{"narHash":"sha256-E3vkPoZF8k4fVqTCm0nhP6TP5lTKcUNBefEYwqb73X8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.6.1.tgz"},"4.6.2":{"narHash":"sha256-RAqsC1nMuMDKU6wIUGb98ieuA1PrO/Vzza1n3yGPRqk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.6.2.tgz"},"4.7.0":{"narHash":"sha256-r/Op841Oq0Jgc+TS0u97wv728tglgZQzCW2uvVpd82E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.7.0.tgz"},"4.8.0":{"narHash":"sha256-XfdNGaSChv6BAv/Uo7W53dSQoAujVH3cLSEwa8uub3s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.8.0.tgz"},"4.8.1":{"narHash":"sha256-L5bTxsbzaqhUCpj+YZzNYT3Mz5NPi9sF48PewADWF0Y=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.8.1.tgz"},"4.8.2":{"narHash":"sha256-Aq98sAXEr3mUT6EpWybTvActGc1wYmVxLk8z+eeuG6A=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.8.2.tgz"},"4.9.0":{"narHash":"sha256-/8dRUY6TMBRs+/q4pibSHaU5xGRQgBY9mi3neHDJt7g=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.9.0.tgz"},"4.9.1":{"narHash":"sha256-wyP182wQJka7Z8FgfKc0u7YH+clHsMHOva57p1pBoaY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-4.9.1.tgz"},"5.0.0":{"narHash":"sha256-9UKrWLroSF0kNLKFHmrPECALU7xqkdm/LcgwDa6rkCw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-TVPAy49C+LwAXUz3N0/C2wb9UIrxJU7fNG0jx0598Z4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-4lQ4jhGtIPWKzd8fYxJaMLfUzdiihnE9IeP9jOjd3uI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-wRmYA3VMn9CTZmH+MOaejU3BXvVXoKbU3EX3fcM4am0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-7qCYCz8CZwikEVxOqNaC3tuvOUjfSRuVjfOb8bL0czw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.0.4.tgz"},"5.1.0":{"narHash":"sha256-SsWhsUmT0JAPoBH5fhrl7+K47PqCK0iOz5oGBKwSe90=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.1.0.tgz"},"5.10.0":{"narHash":"sha256-oLz3JTgCeyG793NkU7fEwmYct9tehHrJpCAR5YQBMZ8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.10.0.tgz"},"5.10.1":{"narHash":"sha256-0UpQSPHz8vzqAGivfj4jCfXZt/YI1MvzKmxRlBAB7t8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.10.1.tgz"},"5.11.0":{"narHash":"sha256-3/gMjjDZUmH1Vv+Z1lagH/HklS4qayM53Aok9A+kgxQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.11.0.tgz"},"5.11.1":{"narHash":"sha256-UVn0e2TrN27B4Wr/JnOAF+wjjykET3afpwgZ1IkPjms=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.11.1.tgz"},"5.2.0":{"narHash":"sha256-8P6QZJb9N2LSaXYRmygrkLT4DTxXgco3Kb3+30vdrU0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.2.0.tgz"},"5.3.0":{"narHash":"sha256-NFFTqQts00X4sqFTwwsuFTXqGlZRcS/3QeqkExZB/3E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.3.0.tgz"},"5.3.1":{"narHash":"sha256-vUHVmU6X4XVKCsNBe9nIBVZNfkzNRluzlVpMhmcINEU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.3.1.tgz"},"5.4.0":{"narHash":"sha256-Wa732ZcWE1N0oYvam2zGFL7Exz7KtP0TDAB6UHz7/rw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.4.0.tgz"},"5.4.1":{"narHash":"sha256-YIqRZAEnB+lqNfTRR55GxX3Iv+vwlc9X9WoJG3res3k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.4.1.tgz"},"5.4.2":{"narHash":"sha256-1U26QWySp9wfKQyRlvFm8dYXyaXaqFbIDIghByRDKLo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.4.2.tgz"},"5.5.0":{"narHash":"sha256-+C/ETeB8j33PL4ECkbmHLvJBiiyUuvkdacPcoODrscU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.0.tgz"},"5.5.1":{"narHash":"sha256-j5ZaT+ZIFkIcpwV3tjQwBnZB2Wxiky9p9w7J4tWNE3c=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.1.tgz"},"5.5.2":{"narHash":"sha256-CGz44F3G7BrFqqaCtGkEs214FbFxvzXfGk/xOtLcgAQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.2.tgz"},"5.5.3":{"narHash":"sha256-Hc3d74s3mw2zH46ZSODllbZBhG9kxdTOW1uP7g3oh8c=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.3.tgz"},"5.5.4":{"narHash":"sha256-YldQA0NSk8KD6hdiw//I4Lf80EJuyjwwTDE6HH3ecXk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.4.tgz"},"5.5.5":{"narHash":"sha256-NJ8AxkNZ2m+jfdO2aSufWNWMI4r6LDevJp9UB/2Rh8Y=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.5.tgz"},"5.5.6":{"narHash":"sha256-STbPc2+nIJNMpUZ/u7zyN1h837lUHwe9vDsczqh9SNc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.6.tgz"},"5.5.7":{"narHash":"sha256-uqbyccvAAzi8b0OGhMIU1k1DrGRLSRhxxhS/JzP4t4I=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.7.tgz"},"5.5.8":{"narHash":"sha256-6uR5pHawPnuKe3iROIB5VFlFNJdJxn8u7ZRHD0Dmt0M=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.8.tgz"},"5.5.9":{"narHash":"sha256-1usx8biyxEycQ657uFJ0p02GOnxZxW8lcGoyKS5NUgk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.5.9.tgz"},"5.6.0":{"narHash":"sha256-xlOQpb10fDc2nQDHqK6O41le6Ujny6dSbjmzGHeC4xs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.6.0.tgz"},"5.7.0":{"narHash":"sha256-Eu84IEYsE4kvl17LJnrudoIoSeaK+F3f+p/RRptWIU4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.7.0.tgz"},"5.7.1":{"narHash":"sha256-7QICaTZ9D58pRMd28/Ece/OWVb6Mw9F4Ts9ue0mEJiU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.7.1.tgz"},"5.7.2":{"narHash":"sha256-HZSSYG0e4nyYBpn9YXdFwpgFVjXOFcrTlKoZlDW+sB8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.7.2.tgz"},"5.7.3":{"narHash":"sha256-x0b6C+t8bf/+0w2zyi/UrW01NP1NJvwEUDwqO3eLTZo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.7.3.tgz"},"5.8.0":{"narHash":"sha256-6eimfrW9IGBrgAltb3edswMxIraIJHkbMDyAOqLyngw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.8.0.tgz"},"5.8.1":{"narHash":"sha256-jX/RZKtvuvY5BNRSiNZA/bQLp5Aok3C/fLg2uMeu1J0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.8.1.tgz"},"5.8.2":{"narHash":"sha256-r1BqF/6XGwebi+grhO6Uel+kaU2ldNYcvVesXoY2cdI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.8.2.tgz"},"5.8.3":{"narHash":"sha256-pGK2tD+kVBU4UVbLXkT0R61rf/WrWv+N8sBj9RFR6to=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.8.3.tgz"},"5.8.4":{"narHash":"sha256-A3qKBoys+E7zqdI5BY7OJAf/FFIRk/Zd612uG57Gwvk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.8.4.tgz"},"5.8.5":{"narHash":"sha256-cLViRqnmDbaWplu/rm7XCna+unCD7FARS8Cda/0/tOQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.8.5.tgz"},"5.8.6":{"narHash":"sha256-83F2sKd7Pag5J4ka8aBLPNHl2xZngz7R28dIxdELb4M=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.8.6.tgz"},"5.9.0":{"narHash":"sha256-707BXX7S+3pjN0CgMrHxNhcOqUyfitVx3olNX2mFcHc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.9.0.tgz"},"5.9.1":{"narHash":"sha256-WuVFQX3veL0gMmVqcTHEymsTgls8IA8/7ATqtuEaTZo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.9.1.tgz"},"5.9.2":{"narHash":"sha256-EPdxlKS5ewMrAxnDUm502Gv80ORQGHHIt796kybuCj8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.9.2.tgz"},"5.9.3":{"narHash":"sha256-PoIDzQ6RyujHnfz7N2kLpNSa+Y0O+hJSJ3SNk75FVyg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.9.3.tgz"},"5.9.4":{"narHash":"sha256-e9UvQBhWT0BGVwPfiK4P5Bp6tEdWO5eZ1NcN06dI40k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-5.9.4.tgz"},"6.0.0":{"narHash":"sha256-QcoNBm6qUre2lg9euDcCQIhzmVWdhqvcbODu30VMLm4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.0.0.tgz"},"6.0.1":{"narHash":"sha256-obWEBC9XGkQbpvsNrHD8I+je8rLlPdN1H3uK/2kBMBA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.0.1.tgz"},"6.0.2":{"narHash":"sha256-tu3vuxLYO3sgsa5dSVlM2o/PB1ulULMC51bknJxtVP0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.0.2.tgz"},"6.0.4":{"narHash":"sha256-QCxq4h9aBim78AY7+6JJ9SLS6v3E1Ow0A1EPQjUUyjI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.0.4.tgz"},"6.1.0":{"narHash":"sha256-vQ/6PexQeoKlwuTauofhAj5rBiB5/AS6+BaJqV7Wq2s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.1.0.tgz"},"6.1.1":{"narHash":"sha256-08o6IsITdq1p4oiu32yJxZaulIpJ1SsiSYuM/94gAIs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.1.1.tgz"},"6.2.0":{"narHash":"sha256-pBOoFPEOkkx29tRUOSTxmF7bJ2q+LSXUjBFshRoAIPk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.2.0.tgz"},"6.2.1":{"narHash":"sha256-w/YgAW+AzPL+iKaUSgjlEdfg9Rypt0OWVRva08Exn4A=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.2.1.tgz"},"6.2.2":{"narHash":"sha256-xyyQ5zVRLcIHfsRjfYA+H/jzIL7rUrX+Lo0kyu6fKqM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.2.2.tgz"},"6.2.3":{"narHash":"sha256-5t1RkAYaDHBXb6NIDVh0LdjewfkTrIu5Bnv7YkrhTpU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.2.3.tgz"},"6.2.4":{"narHash":"sha256-94xo+7ppGk8Pn5xcIoi+P7OaaFe2YjltnkNaYZTqnVc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.2.4.tgz"},"6.3.0":{"narHash":"sha256-3Jxei3BtE5B1xDFBBmZV60Zb7QROq0YEtEZJHSzepyg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.3.0.tgz"},"6.3.1":{"narHash":"sha256-s0AKUABhRtRMonvQAXQRmjVpxH2bvCq49HYMp3yqqIs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.3.1.tgz"},"6.3.2":{"narHash":"sha256-tMKG6CyptEvNXxvNQWm/O6+VokRrWTHHIYCsdOGmtRs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.3.2.tgz"},"6.3.3":{"narHash":"sha256-sCQ8U54RFE4xOgm4V5Rx9uNsLkidcp9vZOZ6vWS7tmI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.3.3.tgz"},"6.3.4":{"narHash":"sha256-4JtKD77lxcp9Vbl1ZLImgy901YngO4BYv6KMChj0QvQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.3.4.tgz"},"6.3.5":{"narHash":"sha256-KknbEFLZcuLJx5FKOZjXJyoZKJWLHYViJcuYg5Fx9qY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.3.5.tgz"},"6.4.0":{"narHash":"sha256-FR1GhjPkc8RMpLyXimZa7MFLvHSYspgkxfjxrZkRUWI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.4.0.tgz"},"6.4.1":{"narHash":"sha256-J3Pc6fuxJrgZ2aeJ4EvKSFWzUmgcSdEawIRC0QtZjeU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.4.1.tgz"},"6.4.2":{"narHash":"sha256-UMNZ7HCGhZAs0cL7Yk39wNpyxiempzNZk+cmDW9OGzo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.4.2.tgz"},"6.5.0":{"narHash":"sha256-3Wvnm9FmJ1bwj7KIirW1XE51PCNRawe3P/teqnKgaxk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.5.0.tgz"},"6.6.0":{"narHash":"sha256-R2ZPUmDGjA+hSwlbyQrLIzWjugvA9iUNSzh29Rwy3Cg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.6.0.tgz"},"6.6.1":{"narHash":"sha256-P24lr/R7JYsD82vzIai2WGsX+6t1DYaoEBgj8ZFMs9k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.6.1.tgz"},"6.6.2":{"narHash":"sha256-GDb/jVl8yLmivR6FVbjqXgyAmVWQ6LGu2atwq+yZitc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-6.6.2.tgz"},"7.0.0":{"narHash":"sha256-xFuoecMRQGBTayVbx7rPVGuI1RzsM/d+x8TGs00keGA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.0.0.tgz"},"7.1.0":{"narHash":"sha256-G5IEvL7QwnCNYwyp/G+3jyFRuKegr9/bKNtAR7hZiKo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.1.0.tgz"},"7.10.0":{"narHash":"sha256-MywavHwvPjjXxT1WUncF62bZ+FvGAe10JVDn9DLDah4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.10.0.tgz"},"7.11.0":{"narHash":"sha256-mYDlf/ME2TWAQn/k+CXBH97ayRFUw9MDtAJRciRSOX0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.11.0.tgz"},"7.12.0":{"narHash":"sha256-luybT8G796F/183XmWClZf2Q2vtxIxwOox4BS+FdV4s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.12.0.tgz"},"7.13.0":{"narHash":"sha256-SFyLl5QJ3xxhGZDIGuIApPNWlxorR3ahNSmCrt+wCU0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.13.0.tgz"},"7.13.1":{"narHash":"sha256-xcpOkEoMeGIKMcffWK8g6BqK4bs7J12UJyO2cK28AsA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.13.1.tgz"},"7.13.2":{"narHash":"sha256-21AlTgHyV9u3bRKHDxA3N5wg5p8aYKLE+mcpl2pIPo0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.13.2.tgz"},"7.14.0":{"narHash":"sha256-04dI6hTHbexnjJfGIwFjVq6845wWOxmCsLDy5TwbQLA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.14.0.tgz"},"7.14.1":{"narHash":"sha256-REof//BmJt5E1ijAf1b2kd+jUQWBvj7sLDNbitA254k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.14.1.tgz"},"7.14.2":{"narHash":"sha256-5pc2sZRhJq7cmbOXJSywMNf9MmR47nLTBKMvEHYeouU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.14.2.tgz"},"7.14.3":{"narHash":"sha256-9unHEo/hqAAQSsypS43jENU6P/eYCsqLGrly/hBHCtY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.14.3.tgz"},"7.14.4":{"narHash":"sha256-Qo5L68VdMeOWZTfv0ndwYI+PiPENXm8G+/+2mRNPQ68=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.14.4.tgz"},"7.14.5":{"narHash":"sha256-xJPr/pjF24XpLr1Za7TrHD9IkEZzSjnXbgeQA4QHg64=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.14.5.tgz"},"7.14.6":{"narHash":"sha256-wUCa+4jJma8bgJ6PoJ5SJO4Nymwlfe31h2JYDeZKqB0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.14.6.tgz"},"7.15.0":{"narHash":"sha256-PpW7YpJ/yjvSyvuw+Xz8GcZRoWOTFOQ1MXhn8oPA7OA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.15.0.tgz"},"7.15.1":{"narHash":"sha256-VicZZnHRoc2hbA28plJ65pGs0NV4R58i+Nmw0RzFC4k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.15.1.tgz"},"7.15.2":{"narHash":"sha256-GWe934S0l0/ok2VJFwFwrYc+/DRgrwUJb0GxoA143/Q=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.15.2.tgz"},"7.15.3":{"narHash":"sha256-Ac6sr9jvBpsouXxxAr0UElDmkWMavfCRt1q7dZ9qGB8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.15.3.tgz"},"7.15.4":{"narHash":"sha256-0XjcJpZubLu2khcDkVm59q1yVNv7OFwEKAWCxlPkkr4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.15.4.tgz"},"7.15.5":{"narHash":"sha256-NhVejtsGNtAGOZfZcEgEWXVzTYobUL7qd4lIwr63Fdw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.15.5.tgz"},"7.16.0":{"narHash":"sha256-b3sMSqYVLhIkEBwgyHVUHXDWwyyvBk9BKtT4b3MEcTA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.16.0.tgz"},"7.16.1":{"narHash":"sha256-G+ELrz44c8V6FXrq+iypt4tq0iFGePczKuAgRlr8bSU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.16.1.tgz"},"7.17.0":{"narHash":"sha256-Epe5BjLf+jZvVHT3w4p0fXYrr0bdSoW1+zOnzzOdyDs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.17.0.tgz"},"7.17.1":{"narHash":"sha256-IB0OjxNdpk7UaYSUOK4ayMPhnu2OEA1KfM8hJ8kjt90=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.17.1.tgz"},"7.17.2":{"narHash":"sha256-4KjDEMGj+2+kUFo3hGp6uAkz+XlFYXiGclSk0VzIMos=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.17.2.tgz"},"7.18.0":{"narHash":"sha256-ldTdezQZ06Zuef/EomuPnfkKLIi9u4m+t/CDzIob1SQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.18.0.tgz"},"7.19.0":{"narHash":"sha256-U1e4tvT3QmWH/peRsqqy2O9WDf6Gk2xWGyXbl8LVRGc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.19.0.tgz"},"7.19.1":{"narHash":"sha256-J5qm4jsmTgetnCv3EIV7ZCaRMvXL1KpbNOYYo44M5K8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.19.1.tgz"},"7.2.0":{"narHash":"sha256-AN5ldN6oUuG4HQx+MJGPf8faSxhBXv/9JtEZe1JHAM8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.2.0.tgz"},"7.2.1":{"narHash":"sha256-Lb5OH0gwzCztcjOcjzHvbnCUgcAOUdK3d4/9bD+OELc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.2.1.tgz"},"7.2.2":{"narHash":"sha256-r6EqXo3YACs+QHzHaC264medZ58igB7WbMyaaN4AsfU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.2.2.tgz"},"7.2.3":{"narHash":"sha256-wiAzh1bkhKn0kTDOKI+koutNsCW47JS4q0c5ffDgmks=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.2.3.tgz"},"7.20.0":{"narHash":"sha256-TUOP8Yp49j76b1io8GoWt2prfG1EMWUzWjxZxSOza9Q=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.20.0.tgz"},"7.21.0":{"narHash":"sha256-xYh5ivuCr2ibhFrU8fIse+4dn99IkCpJyxiIDRFeV8k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.21.0.tgz"},"7.21.1":{"narHash":"sha256-5Bjm4Az8uUP9vopiCD8ol0kgSycEJcKYgbUAZd+ckDY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.21.1.tgz"},"7.22.0":{"narHash":"sha256-NBvrtAIFVSNVuixky4a1bnWZNq0c6IEVNb90H834eLE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.22.0.tgz"},"7.22.1":{"narHash":"sha256-tj9Y+WGouLXz63z3HW7e8ogRQjuzlAtN5BoncObmQFg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.22.1.tgz"},"7.23.0":{"narHash":"sha256-vCybp6HSQHKj9MQBzxsfTOyf8RH9TdENmXqW1XkYggE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.23.0.tgz"},"7.24.0":{"narHash":"sha256-3/6lybNHIcBkN5DX1f6QJbJry4p0fEHc6GceQdllKxA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.24.0.tgz"},"7.3.0":{"narHash":"sha256-zPEFffEmYy8c17TGhR7ua6BdLyGlzimDcbM3bF50X5A=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.3.0.tgz"},"7.4.0":{"narHash":"sha256-+Eh17Ph+V1Rm68cjkDLHsjMc+qzyr0Wjjdo46kpFC0s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.4.0.tgz"},"7.5.0":{"narHash":"sha256-//+AkHmx52DdTUJ7ADhLxQRK9TJ3W/dUczYzGynhuoc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.5.0.tgz"},"7.5.1":{"narHash":"sha256-DW6vC+V8H/I6M1E8u9sE3yfhZxSKSRrDffGpmc8xuO8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.5.1.tgz"},"7.5.2":{"narHash":"sha256-JBF28K4lYOmXg1Iy2+/pAd/LgKgRlxpJaupO5I/NgUo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.5.2.tgz"},"7.6.0":{"narHash":"sha256-7rsWDindrD5gFZWT2fegcXGMADKNE+f7yhKEdk3NrpY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.6.0.tgz"},"7.6.1":{"narHash":"sha256-e9CR0aufV84uCUjv0yxiEIjiDUBD/ti47hWA/xyCpzU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.6.1.tgz"},"7.6.2":{"narHash":"sha256-txOiQQnGKrXuZiJqE2v/qDDSu8J6eMwIxCtnQlqxH0Y=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.6.2.tgz"},"7.7.0":{"narHash":"sha256-+6dtcbt5qKE1kS2+9xGkntG6iSIIjmiKrXszuoEwBwY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.7.0.tgz"},"7.8.0":{"narHash":"sha256-WL18JkbVR5dfcMg4KXhGdqWwrLJYmP9v9zAz8phvk1E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.8.0.tgz"},"7.8.1":{"narHash":"sha256-J7CBgZIDJx+mMIceKi7B+YaJC0kCQgAhgwWFEVn0Ul4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.8.1.tgz"},"7.8.2":{"narHash":"sha256-EmbrAiMem34d4avKORXOKO5/s2wLdpkI5McdNkFWY5s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.8.2.tgz"},"7.9.0":{"narHash":"sha256-NuF/Uc16JwxsbeWCupWSPPi5RU+9djBYjakh2wqxgjY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.9.0.tgz"},"7.9.1":{"narHash":"sha256-3FxYu1HY9slrvVq45+zIEQrV76dX/Q5eKqC/lFZsmSM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.9.1.tgz"},"7.9.2":{"narHash":"sha256-o0UTNMmPcUQQMgaZLo3csxCEuZQ5w48Js9SeeR22G/k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.9.2.tgz"},"7.9.3":{"narHash":"sha256-1mXf4OcLEs9iibACNS5M6n5rKai4kal1f6SgmzWnibM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-7.9.3.tgz"},"8.0.0":{"narHash":"sha256-/2CmthkiIMMKBR5iRAF1n/HL5gzElbxLNhbV/PkRYjg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.0.0.tgz"},"8.0.1":{"narHash":"sha256-K1BfmRbL72DH3u9vn0IadenUyICTi2bLtNjev6kA04o=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.0.1.tgz"},"8.0.2":{"narHash":"sha256-vCK+qmaz5F8h6H6DDl971AJ/NFK+D6r+/zki/m+LEuI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.0.2.tgz"},"8.1.0":{"narHash":"sha256-0huQ1A/pMBYkwUa8HQV/Fik5nSL9BZOnXc5dsl6zVdE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.1.0.tgz"},"8.1.1":{"narHash":"sha256-zIiZzNHP9NKPUWRT0+BifKWUXHyvZsvJzeiUXXX8GoM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.1.1.tgz"},"8.1.2":{"narHash":"sha256-28CQLGSGwtwcuFHKYYtFn6szSTljnuHmKSZfSw5KBP4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.1.2.tgz"},"8.10.0":{"narHash":"sha256-MvL1HWOnWSm8pcLqyjnocSin82bMwkmif49HVCZRlck=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.10.0.tgz"},"8.10.1":{"narHash":"sha256-T2EHbpo6B7OgaW80gfrVBTc1fJTnHjOJsRJGovWw400=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.10.1.tgz"},"8.2.0":{"narHash":"sha256-YlWSaG0h7t0IxMco7GjVUsK1CId/ggdRpHwMgvqNErI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.0.tgz"},"8.2.1":{"narHash":"sha256-M5v/+NRFc6KqTW1xhBoUaRCUnFnS77my8STtQQdWRqE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.1.tgz"},"8.2.10":{"narHash":"sha256-H2MKEqld31lRJu7tk2PBsaUHgy7MNM0dztEI6NEejtU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.10.tgz"},"8.2.2":{"narHash":"sha256-9tjTMDboZi3WrnjUNtpl8t8ptRntVZCM9eAOj8ccKqs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.2.tgz"},"8.2.3":{"narHash":"sha256-AbYjDGbeaKLc/Sr5tE+6isyAmOydIOWp1DN3NKnHKfY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.3.tgz"},"8.2.4":{"narHash":"sha256-T/2VVjWenGCCQDWKR4xLvr9mMpn4jXy0h1Mgrt8nGqo=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.4.tgz"},"8.2.5":{"narHash":"sha256-I4XsyvTa1jvgvsE/YireGP+RkaPUGTR6VrTt/ZoZ0rM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.5.tgz"},"8.2.6":{"narHash":"sha256-kFbJ5SKU4OsHn0A7WoApx85lbvJ70k+rgf65riEXTQE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.6.tgz"},"8.2.7":{"narHash":"sha256-oA79OEbNUyJ2wl3WI+XAFSG4wUzwMu0T4Q+zgHnJh6E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.7.tgz"},"8.2.8":{"narHash":"sha256-0BtXjLoQ+sZSn+2epS5CypItX4lVOy1GgXxFspJhpAs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.8.tgz"},"8.2.9":{"narHash":"sha256-HM28c6ZnFRpPNHZeXrrWBk2slH0USmsX0amCbj6/fVs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.2.9.tgz"},"8.3.0":{"narHash":"sha256-wmjhxd16qqYXbx6k9VxROPzlBt42gyiwwdIoMw7EwGU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.3.0.tgz"},"8.3.1":{"narHash":"sha256-oO+lbT2X6jfLDyaY0N6uEoyAUw7+YTw/57idlJqN6uA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.3.1.tgz"},"8.3.2":{"narHash":"sha256-2+BCytVMfsYLnIgD75G0r0d0NEfdMZ0IZfdjtzHh59Y=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.3.2.tgz"},"8.3.3":{"narHash":"sha256-Tp7Z8ErmvMKzP/Q7HtmYnTkrJbhL0qYYtmbjM/6iXko=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.3.3.tgz"},"8.4.0":{"narHash":"sha256-vYIgSOGoABGZiRMxdu98TpAmFBxVBBtuOKypeEnKrBM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.4.0.tgz"},"8.4.1":{"narHash":"sha256-27tHXK9czkcjAOsiwYy/UjzhR/+EiZ5/Tyzqw7JmJ0M=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.4.1.tgz"},"8.4.2":{"narHash":"sha256-6JKoSj3BmLF61YZQWwC4Bb7ShBt/cGjlzTsl7csWboA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.4.2.tgz"},"8.4.3":{"narHash":"sha256-jdCnYthBUVHjbo35wsNRuMoS/R1VaZX++KyjGA7l5mk=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.4.3.tgz"},"8.5.0":{"narHash":"sha256-lULMc7/Eh91qr3cLOM/Y15PM5KqhlEdYqLzTnnXXwl8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.5.0.tgz"},"8.6.0":{"narHash":"sha256-o18Bxj5WUniN/qNNhjmXmHXrArpO1mMc5sWdRn7aj/g=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.0.tgz"},"8.6.1":{"narHash":"sha256-95jnjkl9t6F56PgA5dlhqc8MWT6FHzcThXPtY8HViHw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.1.tgz"},"8.6.2":{"narHash":"sha256-PEGsHJ/eJKLtfW0wH0ZvMnzTAoamZ3MqrZvAxW3W3+E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.2.tgz"},"8.6.3":{"narHash":"sha256-Y3tx/QZPVQFs+aJ2VHAHdP9yltMj0SeWlSH1QNXkH1w=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.3.tgz"},"8.6.4":{"narHash":"sha256-r9ksukwHrv83HrrnJiabhyuX4EVv6dwP2H2Bs8wsKFs=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.4.tgz"},"8.6.5":{"narHash":"sha256-W+/QwUGV7uLWShdFmt/gTDOiRnoPtcTg+hbB+F5+MQ4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.5.tgz"},"8.6.6":{"narHash":"sha256-x1U6fkqIuj3B48UGDTKI31RxFhwHYeg8Vl8riE3/nQM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.6.tgz"},"8.6.7":{"narHash":"sha256-gZpaZN8+81oVkWxFbTw6MmLtaNNq0BrONYPZ0tVtCQE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.7.tgz"},"8.6.8":{"narHash":"sha256-QO9GyoLU1A7Ao0tlGqhUf7FLJX64iRHdLvf9emS/b9Y=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.6.8.tgz"},"8.7.0":{"narHash":"sha256-AYERiRpicClcVgcyyY+2W/TexrwOTUhhYpCZJE/U17k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.7.0.tgz"},"8.7.1":{"narHash":"sha256-t1EAExZ7X0ky8O0/ZY6vVTiLU/qcDN8lM5rcAEsP00I=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.7.1.tgz"},"8.8.0":{"narHash":"sha256-+Gi22KpB81lOueTZ31oTnO56ilIycal4adrEfCWx/vA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.8.0.tgz"},"8.8.1":{"narHash":"sha256-T931GCTjjcEQpQirINqkgRaRjB/qdqHJAPmNVDyjl6U=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.8.1.tgz"},"8.9.0":{"narHash":"sha256-uwxNU6Gr3QdcVycGC2TJcs2dohnR+NjAbIu8nogDNts=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.9.0.tgz"},"8.9.1":{"narHash":"sha256-x8sElI4DYTPxATb71gAkZGby+m8pa8qg4R0/LlJGeAg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-8.9.1.tgz"},"9.0.0":{"narHash":"sha256-FymNZ0GFfP3JqXoBAqbw4AKEzAXpaguDeAhyvVpaLlI=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.0.0.tgz"},"9.0.1":{"narHash":"sha256-+iWKJRW6KDRGSvEPA4vtIW4i+vrJTTz31q2JPtdXMVQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.0.1.tgz"},"9.0.2":{"narHash":"sha256-WOJu6a1fQkmKoXeKWXij8QCvUglv74B/8PsLmTNUZSw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.0.2.tgz"},"9.1.0":{"narHash":"sha256-fPKWW0gf3t7jR4ur8miZxC7rOY4oWc27HDpaGyPaoq8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.1.0.tgz"},"9.1.1":{"narHash":"sha256-i+rOgLHjtkoUVfIuQapDukieHn4h4S7DxxTJmAhxPe4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.1.1.tgz"},"9.1.2":{"narHash":"sha256-AAsWzwYBW6QrEMyaLfG1dQTdlqFKZKr3MbMrLH2UWpw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.1.2.tgz"},"9.1.3":{"narHash":"sha256-Xe6UGsa41Z75kD5KDsh1e8VcP5WcPNYMkRnhe3xx1ek=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.1.3.tgz"},"9.10.0":{"narHash":"sha256-aOR2nmdstIdTftRKTxnK8HbxlS4JsO1U4W7cg7SMnE8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.10.0.tgz"},"9.11.0":{"narHash":"sha256-yl4gAgRqSbOCkjH29vzTwf61N7/EyXqZgigFo64fIto=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.11.0.tgz"},"9.12.0":{"narHash":"sha256-FG9edsMtNmlF1s++041Woyar+SbXwAn/G9/QHeXfI7E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.12.0.tgz"},"9.12.1":{"narHash":"sha256-4mTAe77yjOH+ow3z6+gllOfjSUdr4qbX26zWTfFDEd0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.12.1.tgz"},"9.13.0":{"narHash":"sha256-tAGRL9g3+hRUXv0VWoZmQWhcpT2zWpA0QVF+4Ku3byU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.13.0.tgz"},"9.2.0":{"narHash":"sha256-UBN/4uS90/dwGcQ0FwksUmffqG923shkKOH/fhsvWWc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.2.0.tgz"},"9.3.0":{"narHash":"sha256-fMIgRCYjmFC4WBR/NIrbN+EN4p4ud6hKwybEy/Kmn1w=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.3.0.tgz"},"9.4.0":{"narHash":"sha256-CcQ4ZWbBNl5wRIr1dl8PJyY/ouOPBEdzx9nYBYYOO8Q=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.4.0.tgz"},"9.4.1":{"narHash":"sha256-fzh8wjOAS6phykNahjT/fTYmrXgwhx7QlrM0/lUAnV4=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.4.1.tgz"},"9.5.0":{"narHash":"sha256-m3GY1NcwWM07EK1JUNoLsgDUVAb5FwzQFtjRTm+6FlY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.5.0.tgz"},"9.6.0":{"narHash":"sha256-phF5fxn4Quwi3X9G8RMIpTm8tp7Hln3OI2uCdLgoP9E=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.0.tgz"},"9.6.1":{"narHash":"sha256-TjFDmWKRepQ8zugG6Ua7vj/xTsBr9Q9wH0g3MRAWEs0=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.1.tgz"},"9.6.10":{"narHash":"sha256-Oq5C1w9J9qwCBFkcyGkujpy/0jA5wLsgcseRYAFdwtM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.10.tgz"},"9.6.11":{"narHash":"sha256-bXg5s43YPEkAboHfg6gYmzUNqTgx2aUCLrvQZbjEvAU=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.11.tgz"},"9.6.2":{"narHash":"sha256-+Q/gpZXi+DTunElsXwvePdq6iXhg/JUEcJGdQHAeFXg=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.2.tgz"},"9.6.3":{"narHash":"sha256-r3BzbvgiVEa+EnUFyMG3ro4QFXBg0KZDMcd4NUHCPzc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.3.tgz"},"9.6.4":{"narHash":"sha256-gtFPzV3TgfQgQxCulPZqe1rpn8PIIZMPZ5r64Wxsr50=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.4.tgz"},"9.6.5":{"narHash":"sha256-SSY21T3hNgxSbFJIGjcyrOg8w/jQA5CUKYKZ2u7Fllc=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.5.tgz"},"9.6.6":{"narHash":"sha256-Zd3wrjKEafjbEePKoIx7YIRtadFOr2JjwX9poTXSd+s=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.6.tgz"},"9.6.7":{"narHash":"sha256-D3V/dj5Qv4TQZRVTOM4CPWB0F8HE4vxb79fysajxbDM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.7.tgz"},"9.6.8":{"narHash":"sha256-guK2H6AMk+kCl1pL5tbFs1TUo79LqoLSEFHPs96l78k=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.8.tgz"},"9.6.9":{"narHash":"sha256-cfTFM82g1DLNsJ90FIft1cYoE9Q7nUD+k1+zh63NvaY=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.6.9.tgz"},"9.7.0":{"narHash":"sha256-QFZAqXXwZkZHSyu4SFZO36ycyzBlwTcKXApVhVBS7jw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.7.0.tgz"},"9.8.0":{"narHash":"sha256-NrfYKxGM7Rz0OcvxfxY63aqxVdAYbaeHUJgBw9PI3Po=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.8.0.tgz"},"9.8.1":{"narHash":"sha256-2UR9HktJEOw6jwKRkN4AQUXQaG0Ra0l5r/lDT9jsjxA=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.8.1.tgz"},"9.8.2":{"narHash":"sha256-6apgNd03l9dMu60/6Kr1XwsUHPj/tdmvge7dQENx2JM=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.8.2.tgz"},"9.8.3":{"narHash":"sha256-wztafZVViDx5qozpS2o6/t2ICOgMoXfFNVPbWFK8L3A=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.8.3.tgz"},"9.8.4":{"narHash":"sha256-sKqd1tMtow3RIxNdE7VPgGWRBxyE7N/4pt674GQEIsE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.8.4.tgz"},"9.9.0":{"narHash":"sha256-t+JKdAbu4l+Uy1CT1q/yk5dA0cNGl0fDh1QqbKmnRow=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.9.0.tgz"},"9.9.1":{"narHash":"sha256-H4DQBN1vpmWdWeQFJbWApAOjz6Imxx/SjSNmAiJNReQ=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.9.1.tgz"},"9.9.2":{"narHash":"sha256-OrXtgXha/eRzOxMmNfjLe17FH8M29jpQbXSc0n8xUr8=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.9.2.tgz"},"9.9.3":{"narHash":"sha256-CqJP8aEb+GQm3Py/jWKU5RnzHK9u/1ZeTKHnbE4NPSE=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.9.3.tgz"},"9.9.4":{"narHash":"sha256-3PwfcGTaSyXM+40CxAs2X3iX23jvgArs2RTlnduioFw=","type":"tarball","url":"https://registry.npmjs.org/firebase/-/firebase-9.9.4.tgz"}}
+{
+  "0.5.0": {
+    "narHash": "sha256-4W1+JaMVbv1wCFDTlBicvta+wcy1/lKH16R0Ckmb1Do=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.5.0.tgz"
+  },
+  "0.5.1": {
+    "narHash": "sha256-xdVMFXYIhdCI80qPIUUBqnsliPyNneaNdLp7wu4YrGU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.5.1.tgz"
+  },
+  "0.5.2": {
+    "narHash": "sha256-7ELSf/RNUmNMIb4R6IP7C/lFZYcYGtbUicB8zQ4yiaE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.5.2.tgz"
+  },
+  "0.5.3": {
+    "narHash": "sha256-W4Evq78yP7nliUQkoFOJ0Iy6scQ0p2KnGhi+rrhkC0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.5.3.tgz"
+  },
+  "0.5.4": {
+    "narHash": "sha256-ceQWPFm3I0VqqcWQcybAIn8UUEPAoLB7Es7hZeZL28E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.5.4.tgz"
+  },
+  "0.6.0": {
+    "narHash": "sha256-5GPmzn2pZYVn5WWI5WN/hhKFBb9cWu0VTixCtc8A2cg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.0.tgz"
+  },
+  "0.6.1": {
+    "narHash": "sha256-nzfzQzLkhN+2s9W/UCE+nRfv7QLF2ru8RXLT1pq0KbY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.1.tgz"
+  },
+  "0.6.10": {
+    "narHash": "sha256-xHYJS9iuhyPmRY+wcL3BYjwhGY0liBGpeXCFFmSwDrk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.10.tgz"
+  },
+  "0.6.11": {
+    "narHash": "sha256-Sn47HQ7bPV/fIn+q3s072ZE78zKUXYx7TxxC6431UXE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.11.tgz"
+  },
+  "0.6.14": {
+    "narHash": "sha256-ZwJ+OssGMFBe/RMFw7b/QWKKrh7eGeFFqtIARzR/t94=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.14.tgz"
+  },
+  "0.6.15": {
+    "narHash": "sha256-8/ByOr42CLjLQRpNRKnSnwCmkFjcFc2KEeZAZbEAW7k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.15.tgz"
+  },
+  "0.6.16": {
+    "narHash": "sha256-G7YsqK136VIAT0clvqEupVyEp2kSxCCp0Yz6NHdpzjw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.16.tgz"
+  },
+  "0.6.17": {
+    "narHash": "sha256-tBumBogdcd5GtYM/GHQpb2PiNTr+Z+8KING6oCp8CL4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.17.tgz"
+  },
+  "0.6.19": {
+    "narHash": "sha256-M4cwbdTNC3aVdM6VBfL1iItFAoqa5+SZxsvmQfJgzqQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.19.tgz"
+  },
+  "0.6.2": {
+    "narHash": "sha256-Zkms0rlZ7C1PrpeW+aKRSXz1Oi/UonFmZe8kQ8v0qCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.2.tgz"
+  },
+  "0.6.22": {
+    "narHash": "sha256-N6SmpNhix0j8dHJ7QbRQUAhUwA6tnhiTnZQHV8Rb1DE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.22.tgz"
+  },
+  "0.6.3": {
+    "narHash": "sha256-PKAiaxwXJHlfUaEo3AMOs/8kzzmTSTkTEJiURV0g/Sw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.3.tgz"
+  },
+  "0.6.4": {
+    "narHash": "sha256-qsyytTDU17KprHA+GgIG51EL6u4nHzrUadOyD0Oest8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.4.tgz"
+  },
+  "0.6.5": {
+    "narHash": "sha256-ZqhFO1wh5XdH5jfg9WUwnhr+HmC1HTivwopZSWK5U4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.5.tgz"
+  },
+  "0.6.6": {
+    "narHash": "sha256-G0hXxif13lHu95nmxQ/3j00eBMweliXbkKIkHrx9Z1Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.6.tgz"
+  },
+  "0.6.7": {
+    "narHash": "sha256-0IgMXFbMGQYxH0Gptk7UZhqcD8xdw9poWiT00xiKxDg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.7.tgz"
+  },
+  "0.6.8": {
+    "narHash": "sha256-+prf+XUBkaa9IpdrELk3vvH53eoHHJnwJIp0sAlI1us=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.8.tgz"
+  },
+  "0.6.9": {
+    "narHash": "sha256-a8OBpIbh1cQNRM/ocFoCEin62Vvod7jRaAv6bb6FvQk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.6.9.tgz"
+  },
+  "0.800.1": {
+    "narHash": "sha256-JapFfdzE8BMbtsTwsGAE1Gp9U3sb8wasTH9sC5ojRh8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.1.tgz"
+  },
+  "0.800.10": {
+    "narHash": "sha256-jQlcpIJtXdOFLPQ/IkMPb8Bgcd/V7pQia87iZlmIQZg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.10.tgz"
+  },
+  "0.800.11": {
+    "narHash": "sha256-cQzl9zWKs9lKwh2BmE8mz21BM/mZAYu+QMgYFvvik1U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.11.tgz"
+  },
+  "0.800.2": {
+    "narHash": "sha256-Dc3qnOk/2hhImk/a6+ELCKXqKlFCQIsqb9Z9Qs8Uw3c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.2.tgz"
+  },
+  "0.800.3": {
+    "narHash": "sha256-T0NK9uF0kXKiYlrPKqwj1Hv5APPxfn0V+AHeT5Eb64k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.3.tgz"
+  },
+  "0.800.4": {
+    "narHash": "sha256-xKedyaVC1LUX6ZCZPG93PVJgncggIX5vGMlUHYZ0PDM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.4.tgz"
+  },
+  "0.800.5": {
+    "narHash": "sha256-4Gfmvq0VHvDmEefqtyB3GL2yikDGUeuy4l6gFfEvCtQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.5.tgz"
+  },
+  "0.800.6": {
+    "narHash": "sha256-JYtOGhyu6qnOzJd/7BzYhHgkunA2jtv6L3uerE+Cm/Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.6.tgz"
+  },
+  "0.800.7": {
+    "narHash": "sha256-cPmbm1tBk5UBJXQ+Nkp9D//UdCccITeJZZzb2fMP2Z8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.7.tgz"
+  },
+  "0.800.8": {
+    "narHash": "sha256-uveS1PeDhvFYD24mMsb5PONKUUZYWDVE9CqLuBGmDPY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.8.tgz"
+  },
+  "0.800.9": {
+    "narHash": "sha256-dCbVrt3OuhMQqGdTqTTskO1WsyOcAg/LBKl3DQevusg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.800.9.tgz"
+  },
+  "0.900.1": {
+    "narHash": "sha256-TtPPA6EzExAtCfnyM2tcTlt/73QZySUAxI1pK5MJ2WY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.1.tgz"
+  },
+  "0.900.10": {
+    "narHash": "sha256-2ma5nHm4tDAKsdu0jxfv59Vqf/BOQNlwREjUfF9CH/s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.10.tgz"
+  },
+  "0.900.11": {
+    "narHash": "sha256-7JLK++N1Ej2Wp00sefJqcp0Zb0TyahLoeP/bAWf3KZI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.11.tgz"
+  },
+  "0.900.12": {
+    "narHash": "sha256-fP8kDzFojGS+PBXlJHDDiR+d2+lHW3Aga/8HHRbBTNY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.12.tgz"
+  },
+  "0.900.13": {
+    "narHash": "sha256-vQ9GcpSLKZHaOeKpQ7lZaJtqX2X+6L1cuyrW8Y/oUHs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.13.tgz"
+  },
+  "0.900.14": {
+    "narHash": "sha256-WtCO3vxnshFb1tTeNpa3G45VKn2b8nX8yyiGgFkrS+A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.14.tgz"
+  },
+  "0.900.15": {
+    "narHash": "sha256-sSoUD2u/BvrDSplvjZVz2FE/7v0oLKHlFXZGl2qUCAI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.15.tgz"
+  },
+  "0.900.16": {
+    "narHash": "sha256-Fkj8MKiMcThbLN4HvbDALbAYwH1rUO2lEhsUu59YBjc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.16.tgz"
+  },
+  "0.900.17": {
+    "narHash": "sha256-zJjHnMxDl3J+YSknpUOLEzQt0ikGIONQxiE/qxy3AN8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.17.tgz"
+  },
+  "0.900.18": {
+    "narHash": "sha256-4BT5l4bsP9yVzucFS9br1Fz4yOTOXbFZgaL1I4D9IJo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.18.tgz"
+  },
+  "0.900.19": {
+    "narHash": "sha256-WEcizafoEDafE41sEeWhbYxY0NUELjkJSkj4TzMQzg0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.19.tgz"
+  },
+  "0.900.2": {
+    "narHash": "sha256-oXVV0gcpxOnsPq/E5A1/iRw6cxhc9gj3Q2rVwmVm0H0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.2.tgz"
+  },
+  "0.900.20": {
+    "narHash": "sha256-E2wxPc1N6E0+HXXs2/uqDhwh+HcCis2b+EILpp8eb5k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.20.tgz"
+  },
+  "0.900.21": {
+    "narHash": "sha256-1AZp8KXM+EIPuRnnNLENJxaf/V+puHCbsJyBRAXCNtM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.21.tgz"
+  },
+  "0.900.22": {
+    "narHash": "sha256-OsrwwoI9C2z7Mvmcjv62i3Cc/8rPkvRviTc++gx8+SA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.22.tgz"
+  },
+  "0.900.23": {
+    "narHash": "sha256-LYjLLUSChic9/0xjdsW+gdKWxGDLQS6XAZ5aIlxrqJk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.23.tgz"
+  },
+  "0.900.24": {
+    "narHash": "sha256-3tdWZYBPo98Jxmqwl1AmmMqi0RUcEE/kMOMaaT1LVeY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.24.tgz"
+  },
+  "0.900.25": {
+    "narHash": "sha256-7f2Q6B89X6ofVY+zTPqs8dcBB5Py7fiHILzpVWkV3A4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.25.tgz"
+  },
+  "0.900.3": {
+    "narHash": "sha256-ee10ib1yqoXLLZqx1Y3lLLEbOJGY06DijPoUx0j0mlI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.3.tgz"
+  },
+  "0.900.4": {
+    "narHash": "sha256-T1vdf8zMc2sZipRr92QDAmc9XTrLQVQUWfPMoG66K9s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.4.tgz"
+  },
+  "0.900.5": {
+    "narHash": "sha256-7HbsiNYl5V8vLyVewqkU9on30EpOeNjHTqhKsHMTtTA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.5.tgz"
+  },
+  "0.900.6": {
+    "narHash": "sha256-pb9vI070LDyHgW5jylD1PoZipLWarAsokNnB+N+iugk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.6.tgz"
+  },
+  "0.900.7": {
+    "narHash": "sha256-EKNDKNxv+pv/4M+5DtfQpQKIOBNQ8cPvUjgA6y9Fg40=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.7.tgz"
+  },
+  "0.900.8": {
+    "narHash": "sha256-DzdLxovU3rA4ZzRQ6HcYtKPyb55P21mOHulQd8oFDpc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.8.tgz"
+  },
+  "0.900.9": {
+    "narHash": "sha256-d1tO5sFXr6az7q1m/j0ADUTlTigzmeVrqfbE4u7mYAg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-0.900.9.tgz"
+  },
+  "1.0.10": {
+    "narHash": "sha256-0C2PnthkNpuvFmvYalIA4AAlX3Z4g2VavhV2t6gtamc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.10.tgz"
+  },
+  "1.0.11": {
+    "narHash": "sha256-p3gFFHxBIHmRQRqGZUHt+G3c3y4qaRuuBdrBIdH/dD8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.11.tgz"
+  },
+  "1.0.12": {
+    "narHash": "sha256-9fj2yy08xstBcRtK1MHhLiaOsdwOKQkO5HyoVoyBKuc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.12.tgz"
+  },
+  "1.0.13": {
+    "narHash": "sha256-p/YWTl6CKnSJM1uc3W3IZU0T6E9CVQ+WNk1hkopMFzM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.13.tgz"
+  },
+  "1.0.14": {
+    "narHash": "sha256-SVk0xR7syrh8+Ln+HKryyYXSWetsl9FqXZYwisKPheM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.14.tgz"
+  },
+  "1.0.15": {
+    "narHash": "sha256-VuMEl/lgwkQP1cQOe0ZsrQs4AS9BU9kvRXdBn9Fh434=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.15.tgz"
+  },
+  "1.0.17": {
+    "narHash": "sha256-S9tZOGtYr4YXpP+vA/hB5nXMs+bip2ogrVb/bHcIKQ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.17.tgz"
+  },
+  "1.0.18": {
+    "narHash": "sha256-oLkwDTNIC86Fsd1kUjtdv4U7Gro/I+5ku9rogFWM4Kw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.18.tgz"
+  },
+  "1.0.19": {
+    "narHash": "sha256-baObof62R1yibZ7LEGe8kxsL28s3q3aPc4b21BSsFOs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.19.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-NqYnXQOHkQpNsELyrPoBmxYRqnCb0ixmFdPgMCW6ABA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.2.tgz"
+  },
+  "1.0.20": {
+    "narHash": "sha256-RuAcYs1nxk1vEH7nCpcDd5WkjX1tk04kjEJiWECDr+o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.20.tgz"
+  },
+  "1.0.21": {
+    "narHash": "sha256-raRbgDpK7bj4rpx/OoZr4eqBwimomoFB6sb2Oxk3wtw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.21.tgz"
+  },
+  "1.0.23": {
+    "narHash": "sha256-ugpsTmwljpDmyYPlfq3k6r5qJMP33t3TBr73XQGghz0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.23.tgz"
+  },
+  "1.0.24": {
+    "narHash": "sha256-vx7M20U54s58m9VyE4WNcpO3jj9e9737d5Z6ACsJGj0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.24.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-0QkHgOF079S0y1ZDnwmPipa6EUM036EcUqpXXAVvQmI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.3.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-KVaqxDZrpAziAID4h4OcgncZZauiEzLXI6JbQhf+TH8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.0.5.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-IsFYE9jT66Cg6nLqyoma/B9GMf9USzdXZgNEO3Xm5uI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-83LQIZBN4rgN2ANbRbD591PJ7cwwGCPtGRqbAZCsnvE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-IewAcUfjdcZL4Sp2dxGlpJm4y5WJ/fGqXQgmeR5gDFE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.1.2.tgz"
+  },
+  "1.1.3": {
+    "narHash": "sha256-4KrjBb0UGXONm7CDHwwNOQrVqhfV7bJJmHYbDnDuaAU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.1.3.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-0dKfhgVv7ztyiKBdpZevCNWVMZOzYqsaFzp7ISTeoPE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-2VS6GLJxdENy2jwtBvWmGZ0w80dBKU9gLhnSprQn0H4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-DRWob6JmkUHHj5/ptXjSeNvRZBFDjry7l2FD/5QYQXg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-HSyBd1g4g6DFhMACdIKG97V07wLjBkTIC7T0AqkQWEg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-V6tRuL/wo01SfaOCenCJPdtA3bv666I5hapVTAePWSc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-umq5XjDt9IosNRT4mCrhxijxAB2DLwvrxoN68Nhdn7c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-YnU6lgSdNOecGIpWvCu+NbO/7eoVsOB4tFEzd+DnkRg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.0.5.tgz"
+  },
+  "2.0.6": {
+    "narHash": "sha256-UHNDj06GFwu+nhHcCLO0a8mhDHs2Y8AR/+NrJHBqGIQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.0.6.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-XpjIL5o//IIYL6AJs6N5Y8eejqcBdKCISEvT5KZ6Pr4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-P1sHegl8JpocZySPl9Rnj4sro2mvuoqKVYSvbsLRDn4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.1.1.tgz"
+  },
+  "2.1.2": {
+    "narHash": "sha256-uaWN509WKgNZkOCJSlbZT/iHoeW7cz9LqyZ5ZiHky2Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.1.2.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-FwwqkcKPAWE/rFycNLNkLKnfMM5At90w7hUt1EXwfZU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.0.tgz"
+  },
+  "2.2.1": {
+    "narHash": "sha256-PpRi/PrLBf1BLf1byuVUGyX5HTplOaEcSpQTwno4Wfs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.1.tgz"
+  },
+  "2.2.2": {
+    "narHash": "sha256-nACyRUFGV56jWGNrZqpR88JOZKxz1FL2DGRC/QPJ4VI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.2.tgz"
+  },
+  "2.2.3": {
+    "narHash": "sha256-/41QxaplQZkB2gN+owhh1yf5UZjCuhvOHi3B9qFR/5g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.3.tgz"
+  },
+  "2.2.4": {
+    "narHash": "sha256-9YqtjN8+MZhuyVGFFw8ajLEKRSIqHKeS8j7xHVkpE+4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.4.tgz"
+  },
+  "2.2.5": {
+    "narHash": "sha256-tGaiTdDUIQ+rf5eHXtUdkB0ufROzGOOEE49SVH8mXqQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.5.tgz"
+  },
+  "2.2.6": {
+    "narHash": "sha256-MKNfsfHOrzTeUnfhBjuzD+wjsWVnY9XK4hJcQQmVvS0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.6.tgz"
+  },
+  "2.2.7": {
+    "narHash": "sha256-JOKZp8I/JMbKORAmRXdVlaIndOYLcTlZ/5BOm3eJkXM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.7.tgz"
+  },
+  "2.2.8": {
+    "narHash": "sha256-rAh+IqhQmVc/KbBBHm4tG8DXkxIsqCbSnTQ8Y0mCU50=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.8.tgz"
+  },
+  "2.2.9": {
+    "narHash": "sha256-WXmcrVeMhhfsfAUiWNoyH+1Jc7MbDQBwsOcDCOJQmRo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.2.9.tgz"
+  },
+  "2.3.0": {
+    "narHash": "sha256-Bv7EVk/FiZiN7HN3Z/Yqam7mlLj07cu6TG0jw4zqOK0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.3.0.tgz"
+  },
+  "2.3.1": {
+    "narHash": "sha256-P1HaJ+8UdsCoK+473EjwvYoa9O2SOUVNkw6UMlTYS/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.3.1.tgz"
+  },
+  "2.3.2": {
+    "narHash": "sha256-NBJw+I3geItmFgh0n4yZ26pnNOO/q9UACoIexnRPDBM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.3.2.tgz"
+  },
+  "2.4.0": {
+    "narHash": "sha256-ygKTtM18GFfNdpbKKGdCBhRqESyX6FkKf81AS4IsJho=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.4.0.tgz"
+  },
+  "2.4.1": {
+    "narHash": "sha256-DPwcvDgc6ufQ2a1xEgfKXSBixUd6VNK+EBqyEKBDWis=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.4.1.tgz"
+  },
+  "2.4.2": {
+    "narHash": "sha256-RL8o/ysr7314/V283phYEbACLQ6K9bCUzub6pTAzmuw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-2.4.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-I8R1wlOp/lDi1VFb++d5QAkYMbzHm228sA+wUMeDRn4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-S0I+gGU7YUuIDjIAciAqGU30DcUE7QDcpenB1iGRu0E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-EWp1veWs8ls+lKDEkHQK+9fKnfle9UXax0lfdKD7DIo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.0.2.tgz"
+  },
+  "3.0.3": {
+    "narHash": "sha256-QlVqNUXQe5aUG5jAc9/MYe0SI7Jxe5NlSgJ2UkbQP30=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.0.3.tgz"
+  },
+  "3.0.4": {
+    "narHash": "sha256-wFszQ+NqFKRptot9EPS1j2WaKJYq0mKwNt5HWRp7ANs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.0.4.tgz"
+  },
+  "3.0.5": {
+    "narHash": "sha256-9en3eLvhuy8C4zMuHRtu2JWITKPSGuMuJSc7Bqalw5w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.0.5.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-BX8pUAEn1BunR1ymDemhvwBbJ3Gst0WgZu3mi7Gms2E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.1.0.tgz"
+  },
+  "3.2.0": {
+    "narHash": "sha256-vqtUIy2Se+C97qdWDpRgJP9H66z1Pu5z8PdNrILdpyA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.2.0.tgz"
+  },
+  "3.2.1": {
+    "narHash": "sha256-sII72qzo2j2DNiO2ylnfq3rHpXpczC/CeqNMcsCdq08=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.2.1.tgz"
+  },
+  "3.3.0": {
+    "narHash": "sha256-8wypAOX/GXwVYBfMEiL+e2BracY7TTL6LQd+qek5yII=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.3.0.tgz"
+  },
+  "3.3.1": {
+    "narHash": "sha256-iLyd19ca6rEqd/KF78YCtL6uOq3jsfdX0Pxe8zVp2+w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.3.1.tgz"
+  },
+  "3.3.2": {
+    "narHash": "sha256-AgO8IX2OQg/IDrjZsW+DfKCiJg6YH6tKZyC3YYvaztk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.3.2.tgz"
+  },
+  "3.4.0": {
+    "narHash": "sha256-LzSl6yIWpnrPjsm9+fs4FSZp5QBJYAGuilJ+UGdYi04=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.4.0.tgz"
+  },
+  "3.4.1": {
+    "narHash": "sha256-uFIw97/VeJO/+YB6zJJHqFbOCENTZ4JPQO669XsyY+8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.4.1.tgz"
+  },
+  "3.5.0": {
+    "narHash": "sha256-q21PQEFBcqBZb5Qe9CHND8lNVahPtD5eMQbe6kvJfPo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.5.0.tgz"
+  },
+  "3.5.1": {
+    "narHash": "sha256-mDZP0PQB85wJw15ST9POF+wWXbDlTcVC7yYUz9kXizo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.5.1.tgz"
+  },
+  "3.5.2": {
+    "narHash": "sha256-cDjF8efga/S/qRK11DQhQmrnrZvEdcMRCwyX+YoLnDc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.5.2.tgz"
+  },
+  "3.5.3": {
+    "narHash": "sha256-GWNZ0ipCZAINFsQ54IkP05EVJv/dkpUWIQAUqUMyQgc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.5.3.tgz"
+  },
+  "3.6.0": {
+    "narHash": "sha256-73bBFjvwpQgIp2UdFJk/yhhBeb/v5m9+dVPqt+NQyxo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.0.tgz"
+  },
+  "3.6.1": {
+    "narHash": "sha256-tbF+/mIAXtq4kPNacj1JP/T2116pKtg+v7o6GdlaJzw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.1.tgz"
+  },
+  "3.6.10": {
+    "narHash": "sha256-x2BocGT6JS1/w1N0zbNLJl8lTcbFKZ+h0ZfLBm2FBe4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.10.tgz"
+  },
+  "3.6.2": {
+    "narHash": "sha256-fjCRyoluFn0jPWOGb7MAiWh59NFC0vaCcWt5MD699io=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.2.tgz"
+  },
+  "3.6.3": {
+    "narHash": "sha256-WAiNSH86hUNDbhl9VU4o6OEDLqx74qez0B4lZJBgbvc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.3.tgz"
+  },
+  "3.6.4": {
+    "narHash": "sha256-p//4iLYpDRCuSPAWmgLpEY0PmUusVsb866x1ttS7iis=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.4.tgz"
+  },
+  "3.6.5": {
+    "narHash": "sha256-UkVv+3GYnrHOy0ZqV0rtyivn2lawTousbhl2c3fylO0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.5.tgz"
+  },
+  "3.6.6": {
+    "narHash": "sha256-r/PkrcXD/Op9pFtjNmJq2ZaAmmWK5Q5W83m0r6x3v3c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.6.tgz"
+  },
+  "3.6.7": {
+    "narHash": "sha256-r9xMUGe8WkSgsLQ9dBG5nJmxpyYzcy3fDPj6sEbdONk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.7.tgz"
+  },
+  "3.6.8": {
+    "narHash": "sha256-fegod65Yu2t5cXihC80soUbBOCyCm41OYkiwGbzBNUo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.8.tgz"
+  },
+  "3.6.9": {
+    "narHash": "sha256-4RlgrA1KNQZrgDfnkaiR7816rJBfhW+xgKnK0ZEbDuk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.6.9.tgz"
+  },
+  "3.7.0": {
+    "narHash": "sha256-TRayvQYgU6w9o2ry+nlXrMk4yvQCQvYsvZj4FZcn1Kg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.0.tgz"
+  },
+  "3.7.1": {
+    "narHash": "sha256-kwJ/gIUPqYYOednEm+CdXmWSKNWyPdrDWfPmKkZF8ro=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.1.tgz"
+  },
+  "3.7.2": {
+    "narHash": "sha256-+CcAdxXWO7oIBlsVzTGVvmhqVE2L8bibezyEpOJQw1A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.2.tgz"
+  },
+  "3.7.3": {
+    "narHash": "sha256-GdStMneNMYeuxhf26bPGBHdSKkq5fgdx0y4GEs8brC4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.3.tgz"
+  },
+  "3.7.4": {
+    "narHash": "sha256-rDjcQzKds5jz66mMBnVYirUgpeO20oAnpKiJfmJBn6E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.4.tgz"
+  },
+  "3.7.5": {
+    "narHash": "sha256-dn7MY47oBegm7nYmAmCV/5uxVBp0CX8457R+QaLDQzw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.5.tgz"
+  },
+  "3.7.6": {
+    "narHash": "sha256-RlIYnp38qvLh3bAQGaKNOE6DTMNAspBLIeBW/f+X/W4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.6.tgz"
+  },
+  "3.7.7": {
+    "narHash": "sha256-vf5SuN/C273F2zigQ7m+/9t2VEd473lx7gjtVcvfU8M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.7.tgz"
+  },
+  "3.7.8": {
+    "narHash": "sha256-yMyQ5NuZpDjgRtEgz8UR+wnrdfKSK22duLoN52ug7mo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.7.8.tgz"
+  },
+  "3.8.0": {
+    "narHash": "sha256-y1DWKix3O241hQzeivBRkSWXZeOBrZFwTevRQoU0WAc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.8.0.tgz"
+  },
+  "3.9.0": {
+    "narHash": "sha256-aAFvkEFH1paUaJ/b6NgstfDsBOALSWSWHSN+c+OAk0M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-3.9.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-S5EshlRNE4iB5sOsBJV0AARDPnFBW4olDUsnTtrJUJE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.0.0.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-lJuvJdWWcS2Xv4tiu1rmqiB04xIqzJ0CjUg1kRPp1IU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.1.0.tgz"
+  },
+  "4.1.1": {
+    "narHash": "sha256-9dhMXNNAao6oXa9J+RUDpWCpZ+JIl1qxhOfKru5jbts=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.1.1.tgz"
+  },
+  "4.1.2": {
+    "narHash": "sha256-EA9hLOvggV4ARKR9XmM8KphV0aDmmPwm6JGc7mLi6DQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.1.2.tgz"
+  },
+  "4.1.3": {
+    "narHash": "sha256-bh/MY0WhK9qloUCqEceWitl+y/rGrLIA11g9+fKoVX8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.1.3.tgz"
+  },
+  "4.1.4": {
+    "narHash": "sha256-PLQRpPPpnKIExn3jKENhir4Xobr/GCRqeh4MHKXUT+I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.1.4.tgz"
+  },
+  "4.1.5": {
+    "narHash": "sha256-7qHeQDxDyf3WMp0iWg0UAmXYaHjsNRMBGxcEbzO2bv0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.1.5.tgz"
+  },
+  "4.10.0": {
+    "narHash": "sha256-gX3P3jLCs5oqW2chglZox0Bu+lxUc2KZ3KUrIsjGx5E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.10.0.tgz"
+  },
+  "4.10.1": {
+    "narHash": "sha256-x+sOKoD3Wo2thlqbm4yMyMcM5voMPvTy5dBQADxGPXs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.10.1.tgz"
+  },
+  "4.11.0": {
+    "narHash": "sha256-V5QFQIkW2A/Kocx662pGEQ4q29peg7EENC3c8OoX78w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.11.0.tgz"
+  },
+  "4.12.0": {
+    "narHash": "sha256-zDiQdBII/nQbiNZZXC2vABD9FRx+ZM+fdfJZfposj1M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.12.0.tgz"
+  },
+  "4.12.1": {
+    "narHash": "sha256-hBzYuC+8u4TfPyRMEtUds1lYX9z16cRBGBj10x58CLY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.12.1.tgz"
+  },
+  "4.13.0": {
+    "narHash": "sha256-C9Cb4oDdX3APfgvo6qPhqan6QfhPHK4oC5HCGEHuugI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.13.0.tgz"
+  },
+  "4.13.1": {
+    "narHash": "sha256-BjoO2zf8U2BQCHco+w/uPzqbxRuMTIjJQSmAXrc9NZ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.13.1.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-x90jOvc/Z2x2qGnEtwqEtvsaGg1+Ddr9bMOLNlwl1wU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.2.0.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-cxa19vcgmiu3HBqq3gcmNUpeTuyG2bMoifvW/uL1MmU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.3.0.tgz"
+  },
+  "4.3.1": {
+    "narHash": "sha256-Fxy6GSPbKLVAWILLK8IMqfn+Gzn3QfhAjPdzil5F+M8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.3.1.tgz"
+  },
+  "4.4.0": {
+    "narHash": "sha256-ZiM+D/fTpcp2XGYfr1ME9H55LLyYRLPsO9x3bQq77vs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.4.0.tgz"
+  },
+  "4.5.0": {
+    "narHash": "sha256-GrYo/e8WRxf6RJ66HrClHkJo2CsIVIg8a91UdqRaMOY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.5.0.tgz"
+  },
+  "4.5.1": {
+    "narHash": "sha256-KlJQbOtfJFW9JUbcmfQwxu34K+ertTbz3jviEDZqP/s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.5.1.tgz"
+  },
+  "4.5.2": {
+    "narHash": "sha256-2f2nsMm+WDJlSV2t1C1qRDNdHu8jaHU54TPvRUfFZnI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.5.2.tgz"
+  },
+  "4.6.0": {
+    "narHash": "sha256-Lb9bOczZ+H7u29FiYGgxA6H3U4ShZsIkWOqASEE2uFM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.6.0.tgz"
+  },
+  "4.6.1": {
+    "narHash": "sha256-E3vkPoZF8k4fVqTCm0nhP6TP5lTKcUNBefEYwqb73X8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.6.1.tgz"
+  },
+  "4.6.2": {
+    "narHash": "sha256-RAqsC1nMuMDKU6wIUGb98ieuA1PrO/Vzza1n3yGPRqk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.6.2.tgz"
+  },
+  "4.7.0": {
+    "narHash": "sha256-r/Op841Oq0Jgc+TS0u97wv728tglgZQzCW2uvVpd82E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.7.0.tgz"
+  },
+  "4.8.0": {
+    "narHash": "sha256-XfdNGaSChv6BAv/Uo7W53dSQoAujVH3cLSEwa8uub3s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.8.0.tgz"
+  },
+  "4.8.1": {
+    "narHash": "sha256-L5bTxsbzaqhUCpj+YZzNYT3Mz5NPi9sF48PewADWF0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.8.1.tgz"
+  },
+  "4.8.2": {
+    "narHash": "sha256-Aq98sAXEr3mUT6EpWybTvActGc1wYmVxLk8z+eeuG6A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.8.2.tgz"
+  },
+  "4.9.0": {
+    "narHash": "sha256-/8dRUY6TMBRs+/q4pibSHaU5xGRQgBY9mi3neHDJt7g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.9.0.tgz"
+  },
+  "4.9.1": {
+    "narHash": "sha256-wyP182wQJka7Z8FgfKc0u7YH+clHsMHOva57p1pBoaY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-4.9.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-9UKrWLroSF0kNLKFHmrPECALU7xqkdm/LcgwDa6rkCw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-TVPAy49C+LwAXUz3N0/C2wb9UIrxJU7fNG0jx0598Z4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-4lQ4jhGtIPWKzd8fYxJaMLfUzdiihnE9IeP9jOjd3uI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-wRmYA3VMn9CTZmH+MOaejU3BXvVXoKbU3EX3fcM4am0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-7qCYCz8CZwikEVxOqNaC3tuvOUjfSRuVjfOb8bL0czw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.0.4.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-SsWhsUmT0JAPoBH5fhrl7+K47PqCK0iOz5oGBKwSe90=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.1.0.tgz"
+  },
+  "5.10.0": {
+    "narHash": "sha256-oLz3JTgCeyG793NkU7fEwmYct9tehHrJpCAR5YQBMZ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.10.0.tgz"
+  },
+  "5.10.1": {
+    "narHash": "sha256-0UpQSPHz8vzqAGivfj4jCfXZt/YI1MvzKmxRlBAB7t8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.10.1.tgz"
+  },
+  "5.11.0": {
+    "narHash": "sha256-3/gMjjDZUmH1Vv+Z1lagH/HklS4qayM53Aok9A+kgxQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.11.0.tgz"
+  },
+  "5.11.1": {
+    "narHash": "sha256-UVn0e2TrN27B4Wr/JnOAF+wjjykET3afpwgZ1IkPjms=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.11.1.tgz"
+  },
+  "5.2.0": {
+    "narHash": "sha256-8P6QZJb9N2LSaXYRmygrkLT4DTxXgco3Kb3+30vdrU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.2.0.tgz"
+  },
+  "5.3.0": {
+    "narHash": "sha256-NFFTqQts00X4sqFTwwsuFTXqGlZRcS/3QeqkExZB/3E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.3.0.tgz"
+  },
+  "5.3.1": {
+    "narHash": "sha256-vUHVmU6X4XVKCsNBe9nIBVZNfkzNRluzlVpMhmcINEU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.3.1.tgz"
+  },
+  "5.4.0": {
+    "narHash": "sha256-Wa732ZcWE1N0oYvam2zGFL7Exz7KtP0TDAB6UHz7/rw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.4.0.tgz"
+  },
+  "5.4.1": {
+    "narHash": "sha256-YIqRZAEnB+lqNfTRR55GxX3Iv+vwlc9X9WoJG3res3k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.4.1.tgz"
+  },
+  "5.4.2": {
+    "narHash": "sha256-1U26QWySp9wfKQyRlvFm8dYXyaXaqFbIDIghByRDKLo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.4.2.tgz"
+  },
+  "5.5.0": {
+    "narHash": "sha256-+C/ETeB8j33PL4ECkbmHLvJBiiyUuvkdacPcoODrscU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.0.tgz"
+  },
+  "5.5.1": {
+    "narHash": "sha256-j5ZaT+ZIFkIcpwV3tjQwBnZB2Wxiky9p9w7J4tWNE3c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.1.tgz"
+  },
+  "5.5.2": {
+    "narHash": "sha256-CGz44F3G7BrFqqaCtGkEs214FbFxvzXfGk/xOtLcgAQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.2.tgz"
+  },
+  "5.5.3": {
+    "narHash": "sha256-Hc3d74s3mw2zH46ZSODllbZBhG9kxdTOW1uP7g3oh8c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.3.tgz"
+  },
+  "5.5.4": {
+    "narHash": "sha256-YldQA0NSk8KD6hdiw//I4Lf80EJuyjwwTDE6HH3ecXk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.4.tgz"
+  },
+  "5.5.5": {
+    "narHash": "sha256-NJ8AxkNZ2m+jfdO2aSufWNWMI4r6LDevJp9UB/2Rh8Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.5.tgz"
+  },
+  "5.5.6": {
+    "narHash": "sha256-STbPc2+nIJNMpUZ/u7zyN1h837lUHwe9vDsczqh9SNc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.6.tgz"
+  },
+  "5.5.7": {
+    "narHash": "sha256-uqbyccvAAzi8b0OGhMIU1k1DrGRLSRhxxhS/JzP4t4I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.7.tgz"
+  },
+  "5.5.8": {
+    "narHash": "sha256-6uR5pHawPnuKe3iROIB5VFlFNJdJxn8u7ZRHD0Dmt0M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.8.tgz"
+  },
+  "5.5.9": {
+    "narHash": "sha256-1usx8biyxEycQ657uFJ0p02GOnxZxW8lcGoyKS5NUgk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.5.9.tgz"
+  },
+  "5.6.0": {
+    "narHash": "sha256-xlOQpb10fDc2nQDHqK6O41le6Ujny6dSbjmzGHeC4xs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.6.0.tgz"
+  },
+  "5.7.0": {
+    "narHash": "sha256-Eu84IEYsE4kvl17LJnrudoIoSeaK+F3f+p/RRptWIU4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.7.0.tgz"
+  },
+  "5.7.1": {
+    "narHash": "sha256-7QICaTZ9D58pRMd28/Ece/OWVb6Mw9F4Ts9ue0mEJiU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.7.1.tgz"
+  },
+  "5.7.2": {
+    "narHash": "sha256-HZSSYG0e4nyYBpn9YXdFwpgFVjXOFcrTlKoZlDW+sB8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.7.2.tgz"
+  },
+  "5.7.3": {
+    "narHash": "sha256-x0b6C+t8bf/+0w2zyi/UrW01NP1NJvwEUDwqO3eLTZo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.7.3.tgz"
+  },
+  "5.8.0": {
+    "narHash": "sha256-6eimfrW9IGBrgAltb3edswMxIraIJHkbMDyAOqLyngw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.8.0.tgz"
+  },
+  "5.8.1": {
+    "narHash": "sha256-jX/RZKtvuvY5BNRSiNZA/bQLp5Aok3C/fLg2uMeu1J0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.8.1.tgz"
+  },
+  "5.8.2": {
+    "narHash": "sha256-r1BqF/6XGwebi+grhO6Uel+kaU2ldNYcvVesXoY2cdI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.8.2.tgz"
+  },
+  "5.8.3": {
+    "narHash": "sha256-pGK2tD+kVBU4UVbLXkT0R61rf/WrWv+N8sBj9RFR6to=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.8.3.tgz"
+  },
+  "5.8.4": {
+    "narHash": "sha256-A3qKBoys+E7zqdI5BY7OJAf/FFIRk/Zd612uG57Gwvk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.8.4.tgz"
+  },
+  "5.8.5": {
+    "narHash": "sha256-cLViRqnmDbaWplu/rm7XCna+unCD7FARS8Cda/0/tOQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.8.5.tgz"
+  },
+  "5.8.6": {
+    "narHash": "sha256-83F2sKd7Pag5J4ka8aBLPNHl2xZngz7R28dIxdELb4M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.8.6.tgz"
+  },
+  "5.9.0": {
+    "narHash": "sha256-707BXX7S+3pjN0CgMrHxNhcOqUyfitVx3olNX2mFcHc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.9.0.tgz"
+  },
+  "5.9.1": {
+    "narHash": "sha256-WuVFQX3veL0gMmVqcTHEymsTgls8IA8/7ATqtuEaTZo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.9.1.tgz"
+  },
+  "5.9.2": {
+    "narHash": "sha256-EPdxlKS5ewMrAxnDUm502Gv80ORQGHHIt796kybuCj8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.9.2.tgz"
+  },
+  "5.9.3": {
+    "narHash": "sha256-PoIDzQ6RyujHnfz7N2kLpNSa+Y0O+hJSJ3SNk75FVyg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.9.3.tgz"
+  },
+  "5.9.4": {
+    "narHash": "sha256-e9UvQBhWT0BGVwPfiK4P5Bp6tEdWO5eZ1NcN06dI40k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-5.9.4.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-QcoNBm6qUre2lg9euDcCQIhzmVWdhqvcbODu30VMLm4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.0.0.tgz"
+  },
+  "6.0.1": {
+    "narHash": "sha256-obWEBC9XGkQbpvsNrHD8I+je8rLlPdN1H3uK/2kBMBA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.0.1.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-tu3vuxLYO3sgsa5dSVlM2o/PB1ulULMC51bknJxtVP0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.0.2.tgz"
+  },
+  "6.0.4": {
+    "narHash": "sha256-QCxq4h9aBim78AY7+6JJ9SLS6v3E1Ow0A1EPQjUUyjI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.0.4.tgz"
+  },
+  "6.1.0": {
+    "narHash": "sha256-vQ/6PexQeoKlwuTauofhAj5rBiB5/AS6+BaJqV7Wq2s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.1.0.tgz"
+  },
+  "6.1.1": {
+    "narHash": "sha256-08o6IsITdq1p4oiu32yJxZaulIpJ1SsiSYuM/94gAIs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.1.1.tgz"
+  },
+  "6.2.0": {
+    "narHash": "sha256-pBOoFPEOkkx29tRUOSTxmF7bJ2q+LSXUjBFshRoAIPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.2.0.tgz"
+  },
+  "6.2.1": {
+    "narHash": "sha256-w/YgAW+AzPL+iKaUSgjlEdfg9Rypt0OWVRva08Exn4A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.2.1.tgz"
+  },
+  "6.2.2": {
+    "narHash": "sha256-xyyQ5zVRLcIHfsRjfYA+H/jzIL7rUrX+Lo0kyu6fKqM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.2.2.tgz"
+  },
+  "6.2.3": {
+    "narHash": "sha256-5t1RkAYaDHBXb6NIDVh0LdjewfkTrIu5Bnv7YkrhTpU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.2.3.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-94xo+7ppGk8Pn5xcIoi+P7OaaFe2YjltnkNaYZTqnVc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.2.4.tgz"
+  },
+  "6.3.0": {
+    "narHash": "sha256-3Jxei3BtE5B1xDFBBmZV60Zb7QROq0YEtEZJHSzepyg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.3.0.tgz"
+  },
+  "6.3.1": {
+    "narHash": "sha256-s0AKUABhRtRMonvQAXQRmjVpxH2bvCq49HYMp3yqqIs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.3.1.tgz"
+  },
+  "6.3.2": {
+    "narHash": "sha256-tMKG6CyptEvNXxvNQWm/O6+VokRrWTHHIYCsdOGmtRs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.3.2.tgz"
+  },
+  "6.3.3": {
+    "narHash": "sha256-sCQ8U54RFE4xOgm4V5Rx9uNsLkidcp9vZOZ6vWS7tmI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.3.3.tgz"
+  },
+  "6.3.4": {
+    "narHash": "sha256-4JtKD77lxcp9Vbl1ZLImgy901YngO4BYv6KMChj0QvQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.3.4.tgz"
+  },
+  "6.3.5": {
+    "narHash": "sha256-KknbEFLZcuLJx5FKOZjXJyoZKJWLHYViJcuYg5Fx9qY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.3.5.tgz"
+  },
+  "6.4.0": {
+    "narHash": "sha256-FR1GhjPkc8RMpLyXimZa7MFLvHSYspgkxfjxrZkRUWI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.4.0.tgz"
+  },
+  "6.4.1": {
+    "narHash": "sha256-J3Pc6fuxJrgZ2aeJ4EvKSFWzUmgcSdEawIRC0QtZjeU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.4.1.tgz"
+  },
+  "6.4.2": {
+    "narHash": "sha256-UMNZ7HCGhZAs0cL7Yk39wNpyxiempzNZk+cmDW9OGzo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.4.2.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-3Wvnm9FmJ1bwj7KIirW1XE51PCNRawe3P/teqnKgaxk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.5.0.tgz"
+  },
+  "6.6.0": {
+    "narHash": "sha256-R2ZPUmDGjA+hSwlbyQrLIzWjugvA9iUNSzh29Rwy3Cg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.6.0.tgz"
+  },
+  "6.6.1": {
+    "narHash": "sha256-P24lr/R7JYsD82vzIai2WGsX+6t1DYaoEBgj8ZFMs9k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.6.1.tgz"
+  },
+  "6.6.2": {
+    "narHash": "sha256-GDb/jVl8yLmivR6FVbjqXgyAmVWQ6LGu2atwq+yZitc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-6.6.2.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-xFuoecMRQGBTayVbx7rPVGuI1RzsM/d+x8TGs00keGA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.0.0.tgz"
+  },
+  "7.1.0": {
+    "narHash": "sha256-G5IEvL7QwnCNYwyp/G+3jyFRuKegr9/bKNtAR7hZiKo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.1.0.tgz"
+  },
+  "7.10.0": {
+    "narHash": "sha256-MywavHwvPjjXxT1WUncF62bZ+FvGAe10JVDn9DLDah4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.10.0.tgz"
+  },
+  "7.11.0": {
+    "narHash": "sha256-mYDlf/ME2TWAQn/k+CXBH97ayRFUw9MDtAJRciRSOX0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.11.0.tgz"
+  },
+  "7.12.0": {
+    "narHash": "sha256-luybT8G796F/183XmWClZf2Q2vtxIxwOox4BS+FdV4s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.12.0.tgz"
+  },
+  "7.13.0": {
+    "narHash": "sha256-SFyLl5QJ3xxhGZDIGuIApPNWlxorR3ahNSmCrt+wCU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.13.0.tgz"
+  },
+  "7.13.1": {
+    "narHash": "sha256-xcpOkEoMeGIKMcffWK8g6BqK4bs7J12UJyO2cK28AsA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.13.1.tgz"
+  },
+  "7.13.2": {
+    "narHash": "sha256-21AlTgHyV9u3bRKHDxA3N5wg5p8aYKLE+mcpl2pIPo0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.13.2.tgz"
+  },
+  "7.14.0": {
+    "narHash": "sha256-04dI6hTHbexnjJfGIwFjVq6845wWOxmCsLDy5TwbQLA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.14.0.tgz"
+  },
+  "7.14.1": {
+    "narHash": "sha256-REof//BmJt5E1ijAf1b2kd+jUQWBvj7sLDNbitA254k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.14.1.tgz"
+  },
+  "7.14.2": {
+    "narHash": "sha256-5pc2sZRhJq7cmbOXJSywMNf9MmR47nLTBKMvEHYeouU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.14.2.tgz"
+  },
+  "7.14.3": {
+    "narHash": "sha256-9unHEo/hqAAQSsypS43jENU6P/eYCsqLGrly/hBHCtY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.14.3.tgz"
+  },
+  "7.14.4": {
+    "narHash": "sha256-Qo5L68VdMeOWZTfv0ndwYI+PiPENXm8G+/+2mRNPQ68=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.14.4.tgz"
+  },
+  "7.14.5": {
+    "narHash": "sha256-xJPr/pjF24XpLr1Za7TrHD9IkEZzSjnXbgeQA4QHg64=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.14.5.tgz"
+  },
+  "7.14.6": {
+    "narHash": "sha256-wUCa+4jJma8bgJ6PoJ5SJO4Nymwlfe31h2JYDeZKqB0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.14.6.tgz"
+  },
+  "7.15.0": {
+    "narHash": "sha256-PpW7YpJ/yjvSyvuw+Xz8GcZRoWOTFOQ1MXhn8oPA7OA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.15.0.tgz"
+  },
+  "7.15.1": {
+    "narHash": "sha256-VicZZnHRoc2hbA28plJ65pGs0NV4R58i+Nmw0RzFC4k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.15.1.tgz"
+  },
+  "7.15.2": {
+    "narHash": "sha256-GWe934S0l0/ok2VJFwFwrYc+/DRgrwUJb0GxoA143/Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.15.2.tgz"
+  },
+  "7.15.3": {
+    "narHash": "sha256-Ac6sr9jvBpsouXxxAr0UElDmkWMavfCRt1q7dZ9qGB8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.15.3.tgz"
+  },
+  "7.15.4": {
+    "narHash": "sha256-0XjcJpZubLu2khcDkVm59q1yVNv7OFwEKAWCxlPkkr4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.15.4.tgz"
+  },
+  "7.15.5": {
+    "narHash": "sha256-NhVejtsGNtAGOZfZcEgEWXVzTYobUL7qd4lIwr63Fdw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.15.5.tgz"
+  },
+  "7.16.0": {
+    "narHash": "sha256-b3sMSqYVLhIkEBwgyHVUHXDWwyyvBk9BKtT4b3MEcTA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.16.0.tgz"
+  },
+  "7.16.1": {
+    "narHash": "sha256-G+ELrz44c8V6FXrq+iypt4tq0iFGePczKuAgRlr8bSU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.16.1.tgz"
+  },
+  "7.17.0": {
+    "narHash": "sha256-Epe5BjLf+jZvVHT3w4p0fXYrr0bdSoW1+zOnzzOdyDs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.17.0.tgz"
+  },
+  "7.17.1": {
+    "narHash": "sha256-IB0OjxNdpk7UaYSUOK4ayMPhnu2OEA1KfM8hJ8kjt90=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.17.1.tgz"
+  },
+  "7.17.2": {
+    "narHash": "sha256-4KjDEMGj+2+kUFo3hGp6uAkz+XlFYXiGclSk0VzIMos=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.17.2.tgz"
+  },
+  "7.18.0": {
+    "narHash": "sha256-ldTdezQZ06Zuef/EomuPnfkKLIi9u4m+t/CDzIob1SQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.18.0.tgz"
+  },
+  "7.19.0": {
+    "narHash": "sha256-U1e4tvT3QmWH/peRsqqy2O9WDf6Gk2xWGyXbl8LVRGc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.19.0.tgz"
+  },
+  "7.19.1": {
+    "narHash": "sha256-J5qm4jsmTgetnCv3EIV7ZCaRMvXL1KpbNOYYo44M5K8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.19.1.tgz"
+  },
+  "7.2.0": {
+    "narHash": "sha256-AN5ldN6oUuG4HQx+MJGPf8faSxhBXv/9JtEZe1JHAM8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.2.0.tgz"
+  },
+  "7.2.1": {
+    "narHash": "sha256-Lb5OH0gwzCztcjOcjzHvbnCUgcAOUdK3d4/9bD+OELc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.2.1.tgz"
+  },
+  "7.2.2": {
+    "narHash": "sha256-r6EqXo3YACs+QHzHaC264medZ58igB7WbMyaaN4AsfU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.2.2.tgz"
+  },
+  "7.2.3": {
+    "narHash": "sha256-wiAzh1bkhKn0kTDOKI+koutNsCW47JS4q0c5ffDgmks=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.2.3.tgz"
+  },
+  "7.20.0": {
+    "narHash": "sha256-TUOP8Yp49j76b1io8GoWt2prfG1EMWUzWjxZxSOza9Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.20.0.tgz"
+  },
+  "7.21.0": {
+    "narHash": "sha256-xYh5ivuCr2ibhFrU8fIse+4dn99IkCpJyxiIDRFeV8k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.21.0.tgz"
+  },
+  "7.21.1": {
+    "narHash": "sha256-5Bjm4Az8uUP9vopiCD8ol0kgSycEJcKYgbUAZd+ckDY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.21.1.tgz"
+  },
+  "7.22.0": {
+    "narHash": "sha256-NBvrtAIFVSNVuixky4a1bnWZNq0c6IEVNb90H834eLE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.22.0.tgz"
+  },
+  "7.22.1": {
+    "narHash": "sha256-tj9Y+WGouLXz63z3HW7e8ogRQjuzlAtN5BoncObmQFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.22.1.tgz"
+  },
+  "7.23.0": {
+    "narHash": "sha256-vCybp6HSQHKj9MQBzxsfTOyf8RH9TdENmXqW1XkYggE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.23.0.tgz"
+  },
+  "7.24.0": {
+    "narHash": "sha256-3/6lybNHIcBkN5DX1f6QJbJry4p0fEHc6GceQdllKxA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.24.0.tgz"
+  },
+  "7.3.0": {
+    "narHash": "sha256-zPEFffEmYy8c17TGhR7ua6BdLyGlzimDcbM3bF50X5A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.3.0.tgz"
+  },
+  "7.4.0": {
+    "narHash": "sha256-+Eh17Ph+V1Rm68cjkDLHsjMc+qzyr0Wjjdo46kpFC0s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.4.0.tgz"
+  },
+  "7.5.0": {
+    "narHash": "sha256-//+AkHmx52DdTUJ7ADhLxQRK9TJ3W/dUczYzGynhuoc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.5.0.tgz"
+  },
+  "7.5.1": {
+    "narHash": "sha256-DW6vC+V8H/I6M1E8u9sE3yfhZxSKSRrDffGpmc8xuO8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.5.1.tgz"
+  },
+  "7.5.2": {
+    "narHash": "sha256-JBF28K4lYOmXg1Iy2+/pAd/LgKgRlxpJaupO5I/NgUo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.5.2.tgz"
+  },
+  "7.6.0": {
+    "narHash": "sha256-7rsWDindrD5gFZWT2fegcXGMADKNE+f7yhKEdk3NrpY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.6.0.tgz"
+  },
+  "7.6.1": {
+    "narHash": "sha256-e9CR0aufV84uCUjv0yxiEIjiDUBD/ti47hWA/xyCpzU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.6.1.tgz"
+  },
+  "7.6.2": {
+    "narHash": "sha256-txOiQQnGKrXuZiJqE2v/qDDSu8J6eMwIxCtnQlqxH0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.6.2.tgz"
+  },
+  "7.7.0": {
+    "narHash": "sha256-+6dtcbt5qKE1kS2+9xGkntG6iSIIjmiKrXszuoEwBwY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.7.0.tgz"
+  },
+  "7.8.0": {
+    "narHash": "sha256-WL18JkbVR5dfcMg4KXhGdqWwrLJYmP9v9zAz8phvk1E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.8.0.tgz"
+  },
+  "7.8.1": {
+    "narHash": "sha256-J7CBgZIDJx+mMIceKi7B+YaJC0kCQgAhgwWFEVn0Ul4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.8.1.tgz"
+  },
+  "7.8.2": {
+    "narHash": "sha256-EmbrAiMem34d4avKORXOKO5/s2wLdpkI5McdNkFWY5s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.8.2.tgz"
+  },
+  "7.9.0": {
+    "narHash": "sha256-NuF/Uc16JwxsbeWCupWSPPi5RU+9djBYjakh2wqxgjY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.9.0.tgz"
+  },
+  "7.9.1": {
+    "narHash": "sha256-3FxYu1HY9slrvVq45+zIEQrV76dX/Q5eKqC/lFZsmSM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.9.1.tgz"
+  },
+  "7.9.2": {
+    "narHash": "sha256-o0UTNMmPcUQQMgaZLo3csxCEuZQ5w48Js9SeeR22G/k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.9.2.tgz"
+  },
+  "7.9.3": {
+    "narHash": "sha256-1mXf4OcLEs9iibACNS5M6n5rKai4kal1f6SgmzWnibM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-7.9.3.tgz"
+  },
+  "8.0.0": {
+    "narHash": "sha256-/2CmthkiIMMKBR5iRAF1n/HL5gzElbxLNhbV/PkRYjg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.0.0.tgz"
+  },
+  "8.0.1": {
+    "narHash": "sha256-K1BfmRbL72DH3u9vn0IadenUyICTi2bLtNjev6kA04o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.0.1.tgz"
+  },
+  "8.0.2": {
+    "narHash": "sha256-vCK+qmaz5F8h6H6DDl971AJ/NFK+D6r+/zki/m+LEuI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.0.2.tgz"
+  },
+  "8.1.0": {
+    "narHash": "sha256-0huQ1A/pMBYkwUa8HQV/Fik5nSL9BZOnXc5dsl6zVdE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.1.0.tgz"
+  },
+  "8.1.1": {
+    "narHash": "sha256-zIiZzNHP9NKPUWRT0+BifKWUXHyvZsvJzeiUXXX8GoM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.1.1.tgz"
+  },
+  "8.1.2": {
+    "narHash": "sha256-28CQLGSGwtwcuFHKYYtFn6szSTljnuHmKSZfSw5KBP4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.1.2.tgz"
+  },
+  "8.10.0": {
+    "narHash": "sha256-MvL1HWOnWSm8pcLqyjnocSin82bMwkmif49HVCZRlck=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.10.0.tgz"
+  },
+  "8.10.1": {
+    "narHash": "sha256-T2EHbpo6B7OgaW80gfrVBTc1fJTnHjOJsRJGovWw400=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.10.1.tgz"
+  },
+  "8.2.0": {
+    "narHash": "sha256-YlWSaG0h7t0IxMco7GjVUsK1CId/ggdRpHwMgvqNErI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.0.tgz"
+  },
+  "8.2.1": {
+    "narHash": "sha256-M5v/+NRFc6KqTW1xhBoUaRCUnFnS77my8STtQQdWRqE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.1.tgz"
+  },
+  "8.2.10": {
+    "narHash": "sha256-H2MKEqld31lRJu7tk2PBsaUHgy7MNM0dztEI6NEejtU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.10.tgz"
+  },
+  "8.2.2": {
+    "narHash": "sha256-9tjTMDboZi3WrnjUNtpl8t8ptRntVZCM9eAOj8ccKqs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.2.tgz"
+  },
+  "8.2.3": {
+    "narHash": "sha256-AbYjDGbeaKLc/Sr5tE+6isyAmOydIOWp1DN3NKnHKfY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.3.tgz"
+  },
+  "8.2.4": {
+    "narHash": "sha256-T/2VVjWenGCCQDWKR4xLvr9mMpn4jXy0h1Mgrt8nGqo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.4.tgz"
+  },
+  "8.2.5": {
+    "narHash": "sha256-I4XsyvTa1jvgvsE/YireGP+RkaPUGTR6VrTt/ZoZ0rM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.5.tgz"
+  },
+  "8.2.6": {
+    "narHash": "sha256-kFbJ5SKU4OsHn0A7WoApx85lbvJ70k+rgf65riEXTQE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.6.tgz"
+  },
+  "8.2.7": {
+    "narHash": "sha256-oA79OEbNUyJ2wl3WI+XAFSG4wUzwMu0T4Q+zgHnJh6E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.7.tgz"
+  },
+  "8.2.8": {
+    "narHash": "sha256-0BtXjLoQ+sZSn+2epS5CypItX4lVOy1GgXxFspJhpAs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.8.tgz"
+  },
+  "8.2.9": {
+    "narHash": "sha256-HM28c6ZnFRpPNHZeXrrWBk2slH0USmsX0amCbj6/fVs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.2.9.tgz"
+  },
+  "8.3.0": {
+    "narHash": "sha256-wmjhxd16qqYXbx6k9VxROPzlBt42gyiwwdIoMw7EwGU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.3.0.tgz"
+  },
+  "8.3.1": {
+    "narHash": "sha256-oO+lbT2X6jfLDyaY0N6uEoyAUw7+YTw/57idlJqN6uA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.3.1.tgz"
+  },
+  "8.3.2": {
+    "narHash": "sha256-2+BCytVMfsYLnIgD75G0r0d0NEfdMZ0IZfdjtzHh59Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.3.2.tgz"
+  },
+  "8.3.3": {
+    "narHash": "sha256-Tp7Z8ErmvMKzP/Q7HtmYnTkrJbhL0qYYtmbjM/6iXko=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.3.3.tgz"
+  },
+  "8.4.0": {
+    "narHash": "sha256-vYIgSOGoABGZiRMxdu98TpAmFBxVBBtuOKypeEnKrBM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.4.0.tgz"
+  },
+  "8.4.1": {
+    "narHash": "sha256-27tHXK9czkcjAOsiwYy/UjzhR/+EiZ5/Tyzqw7JmJ0M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.4.1.tgz"
+  },
+  "8.4.2": {
+    "narHash": "sha256-6JKoSj3BmLF61YZQWwC4Bb7ShBt/cGjlzTsl7csWboA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.4.2.tgz"
+  },
+  "8.4.3": {
+    "narHash": "sha256-jdCnYthBUVHjbo35wsNRuMoS/R1VaZX++KyjGA7l5mk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.4.3.tgz"
+  },
+  "8.5.0": {
+    "narHash": "sha256-lULMc7/Eh91qr3cLOM/Y15PM5KqhlEdYqLzTnnXXwl8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.5.0.tgz"
+  },
+  "8.6.0": {
+    "narHash": "sha256-o18Bxj5WUniN/qNNhjmXmHXrArpO1mMc5sWdRn7aj/g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.0.tgz"
+  },
+  "8.6.1": {
+    "narHash": "sha256-95jnjkl9t6F56PgA5dlhqc8MWT6FHzcThXPtY8HViHw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.1.tgz"
+  },
+  "8.6.2": {
+    "narHash": "sha256-PEGsHJ/eJKLtfW0wH0ZvMnzTAoamZ3MqrZvAxW3W3+E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.2.tgz"
+  },
+  "8.6.3": {
+    "narHash": "sha256-Y3tx/QZPVQFs+aJ2VHAHdP9yltMj0SeWlSH1QNXkH1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.3.tgz"
+  },
+  "8.6.4": {
+    "narHash": "sha256-r9ksukwHrv83HrrnJiabhyuX4EVv6dwP2H2Bs8wsKFs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.4.tgz"
+  },
+  "8.6.5": {
+    "narHash": "sha256-W+/QwUGV7uLWShdFmt/gTDOiRnoPtcTg+hbB+F5+MQ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.5.tgz"
+  },
+  "8.6.6": {
+    "narHash": "sha256-x1U6fkqIuj3B48UGDTKI31RxFhwHYeg8Vl8riE3/nQM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.6.tgz"
+  },
+  "8.6.7": {
+    "narHash": "sha256-gZpaZN8+81oVkWxFbTw6MmLtaNNq0BrONYPZ0tVtCQE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.7.tgz"
+  },
+  "8.6.8": {
+    "narHash": "sha256-QO9GyoLU1A7Ao0tlGqhUf7FLJX64iRHdLvf9emS/b9Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.6.8.tgz"
+  },
+  "8.7.0": {
+    "narHash": "sha256-AYERiRpicClcVgcyyY+2W/TexrwOTUhhYpCZJE/U17k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.7.0.tgz"
+  },
+  "8.7.1": {
+    "narHash": "sha256-t1EAExZ7X0ky8O0/ZY6vVTiLU/qcDN8lM5rcAEsP00I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.7.1.tgz"
+  },
+  "8.8.0": {
+    "narHash": "sha256-+Gi22KpB81lOueTZ31oTnO56ilIycal4adrEfCWx/vA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.8.0.tgz"
+  },
+  "8.8.1": {
+    "narHash": "sha256-T931GCTjjcEQpQirINqkgRaRjB/qdqHJAPmNVDyjl6U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.8.1.tgz"
+  },
+  "8.9.0": {
+    "narHash": "sha256-uwxNU6Gr3QdcVycGC2TJcs2dohnR+NjAbIu8nogDNts=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.9.0.tgz"
+  },
+  "8.9.1": {
+    "narHash": "sha256-x8sElI4DYTPxATb71gAkZGby+m8pa8qg4R0/LlJGeAg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-8.9.1.tgz"
+  },
+  "9.0.0": {
+    "narHash": "sha256-FymNZ0GFfP3JqXoBAqbw4AKEzAXpaguDeAhyvVpaLlI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.0.0.tgz"
+  },
+  "9.0.1": {
+    "narHash": "sha256-+iWKJRW6KDRGSvEPA4vtIW4i+vrJTTz31q2JPtdXMVQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.0.1.tgz"
+  },
+  "9.0.2": {
+    "narHash": "sha256-WOJu6a1fQkmKoXeKWXij8QCvUglv74B/8PsLmTNUZSw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.0.2.tgz"
+  },
+  "9.1.0": {
+    "narHash": "sha256-fPKWW0gf3t7jR4ur8miZxC7rOY4oWc27HDpaGyPaoq8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.1.0.tgz"
+  },
+  "9.1.1": {
+    "narHash": "sha256-i+rOgLHjtkoUVfIuQapDukieHn4h4S7DxxTJmAhxPe4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.1.1.tgz"
+  },
+  "9.1.2": {
+    "narHash": "sha256-AAsWzwYBW6QrEMyaLfG1dQTdlqFKZKr3MbMrLH2UWpw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.1.2.tgz"
+  },
+  "9.1.3": {
+    "narHash": "sha256-Xe6UGsa41Z75kD5KDsh1e8VcP5WcPNYMkRnhe3xx1ek=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.1.3.tgz"
+  },
+  "9.10.0": {
+    "narHash": "sha256-aOR2nmdstIdTftRKTxnK8HbxlS4JsO1U4W7cg7SMnE8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.10.0.tgz"
+  },
+  "9.11.0": {
+    "narHash": "sha256-yl4gAgRqSbOCkjH29vzTwf61N7/EyXqZgigFo64fIto=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.11.0.tgz"
+  },
+  "9.12.0": {
+    "narHash": "sha256-FG9edsMtNmlF1s++041Woyar+SbXwAn/G9/QHeXfI7E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.12.0.tgz"
+  },
+  "9.12.1": {
+    "narHash": "sha256-4mTAe77yjOH+ow3z6+gllOfjSUdr4qbX26zWTfFDEd0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.12.1.tgz"
+  },
+  "9.13.0": {
+    "narHash": "sha256-tAGRL9g3+hRUXv0VWoZmQWhcpT2zWpA0QVF+4Ku3byU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.13.0.tgz"
+  },
+  "9.2.0": {
+    "narHash": "sha256-UBN/4uS90/dwGcQ0FwksUmffqG923shkKOH/fhsvWWc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.2.0.tgz"
+  },
+  "9.3.0": {
+    "narHash": "sha256-fMIgRCYjmFC4WBR/NIrbN+EN4p4ud6hKwybEy/Kmn1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.3.0.tgz"
+  },
+  "9.4.0": {
+    "narHash": "sha256-CcQ4ZWbBNl5wRIr1dl8PJyY/ouOPBEdzx9nYBYYOO8Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.4.0.tgz"
+  },
+  "9.4.1": {
+    "narHash": "sha256-fzh8wjOAS6phykNahjT/fTYmrXgwhx7QlrM0/lUAnV4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.4.1.tgz"
+  },
+  "9.5.0": {
+    "narHash": "sha256-m3GY1NcwWM07EK1JUNoLsgDUVAb5FwzQFtjRTm+6FlY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.5.0.tgz"
+  },
+  "9.6.0": {
+    "narHash": "sha256-phF5fxn4Quwi3X9G8RMIpTm8tp7Hln3OI2uCdLgoP9E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.0.tgz"
+  },
+  "9.6.1": {
+    "narHash": "sha256-TjFDmWKRepQ8zugG6Ua7vj/xTsBr9Q9wH0g3MRAWEs0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.1.tgz"
+  },
+  "9.6.10": {
+    "narHash": "sha256-Oq5C1w9J9qwCBFkcyGkujpy/0jA5wLsgcseRYAFdwtM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.10.tgz"
+  },
+  "9.6.11": {
+    "narHash": "sha256-bXg5s43YPEkAboHfg6gYmzUNqTgx2aUCLrvQZbjEvAU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.11.tgz"
+  },
+  "9.6.2": {
+    "narHash": "sha256-+Q/gpZXi+DTunElsXwvePdq6iXhg/JUEcJGdQHAeFXg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.2.tgz"
+  },
+  "9.6.3": {
+    "narHash": "sha256-r3BzbvgiVEa+EnUFyMG3ro4QFXBg0KZDMcd4NUHCPzc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.3.tgz"
+  },
+  "9.6.4": {
+    "narHash": "sha256-gtFPzV3TgfQgQxCulPZqe1rpn8PIIZMPZ5r64Wxsr50=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.4.tgz"
+  },
+  "9.6.5": {
+    "narHash": "sha256-SSY21T3hNgxSbFJIGjcyrOg8w/jQA5CUKYKZ2u7Fllc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.5.tgz"
+  },
+  "9.6.6": {
+    "narHash": "sha256-Zd3wrjKEafjbEePKoIx7YIRtadFOr2JjwX9poTXSd+s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.6.tgz"
+  },
+  "9.6.7": {
+    "narHash": "sha256-D3V/dj5Qv4TQZRVTOM4CPWB0F8HE4vxb79fysajxbDM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.7.tgz"
+  },
+  "9.6.8": {
+    "narHash": "sha256-guK2H6AMk+kCl1pL5tbFs1TUo79LqoLSEFHPs96l78k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.8.tgz"
+  },
+  "9.6.9": {
+    "narHash": "sha256-cfTFM82g1DLNsJ90FIft1cYoE9Q7nUD+k1+zh63NvaY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.6.9.tgz"
+  },
+  "9.7.0": {
+    "narHash": "sha256-QFZAqXXwZkZHSyu4SFZO36ycyzBlwTcKXApVhVBS7jw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.7.0.tgz"
+  },
+  "9.8.0": {
+    "narHash": "sha256-NrfYKxGM7Rz0OcvxfxY63aqxVdAYbaeHUJgBw9PI3Po=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.8.0.tgz"
+  },
+  "9.8.1": {
+    "narHash": "sha256-2UR9HktJEOw6jwKRkN4AQUXQaG0Ra0l5r/lDT9jsjxA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.8.1.tgz"
+  },
+  "9.8.2": {
+    "narHash": "sha256-6apgNd03l9dMu60/6Kr1XwsUHPj/tdmvge7dQENx2JM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.8.2.tgz"
+  },
+  "9.8.3": {
+    "narHash": "sha256-wztafZVViDx5qozpS2o6/t2ICOgMoXfFNVPbWFK8L3A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.8.3.tgz"
+  },
+  "9.8.4": {
+    "narHash": "sha256-sKqd1tMtow3RIxNdE7VPgGWRBxyE7N/4pt674GQEIsE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.8.4.tgz"
+  },
+  "9.9.0": {
+    "narHash": "sha256-t+JKdAbu4l+Uy1CT1q/yk5dA0cNGl0fDh1QqbKmnRow=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.9.0.tgz"
+  },
+  "9.9.1": {
+    "narHash": "sha256-H4DQBN1vpmWdWeQFJbWApAOjz6Imxx/SjSNmAiJNReQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.9.1.tgz"
+  },
+  "9.9.2": {
+    "narHash": "sha256-OrXtgXha/eRzOxMmNfjLe17FH8M29jpQbXSc0n8xUr8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.9.2.tgz"
+  },
+  "9.9.3": {
+    "narHash": "sha256-CqJP8aEb+GQm3Py/jWKU5RnzHK9u/1ZeTKHnbE4NPSE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.9.3.tgz"
+  },
+  "9.9.4": {
+    "narHash": "sha256-3PwfcGTaSyXM+40CxAs2X3iX23jvgArs2RTlnduioFw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/firebase/-/firebase-9.9.4.tgz"
+  }
+}

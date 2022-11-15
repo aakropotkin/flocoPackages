@@ -1,1 +1,602 @@
-{"0.1.0":{"narHash":"sha256-R9Uve/DQN8fSg8BC7wbU4kw71I0jzr6Fw/AroYhRdwY=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-4g3bxTigkZQuOGMAG5fL9AyI5dg1e2UmG7APbnjWkbk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-kEcKSCQsc1kShymG+xUeXWRC2v/HAHWVflnxsFm5n1c=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.1.2.tgz"},"0.2.0":{"narHash":"sha256-pRJ4IRbSGTgr27+0UoWIhRhDbR1l3d6lHHkfZOaqdsg=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-W/3Ev8uD13Y1xFcmOP4ULmsmB3FD6+RfEfpKNYZ4ov0=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.0.tgz"},"0.3.1":{"narHash":"sha256-vy9TrfloOpLMR61yX1dlpHPSjR+mtndl27MuNQkltWg=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.1.tgz"},"0.3.10":{"narHash":"sha256-M5bUSutb5Cqoa0tgrLakuepebhkof3MLIrXmFegxrTs=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.10.tgz"},"0.3.11":{"narHash":"sha256-1IWdS36Ai3yeOm4/EI1RswSqhxCjRdu9slXcBfFbgxs=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.11.tgz"},"0.3.12":{"narHash":"sha256-t380UQw3PTjQoS4voqWPhNIeD0h48V1a7cgD1votb50=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.12.tgz"},"0.3.13":{"narHash":"sha256-ypSK2Ky0gnh/fSE6oLHEzV3CoecFWBq5B7B/tzgNQqc=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.13.tgz"},"0.3.14":{"narHash":"sha256-z2n9+xq+XYQzeWYEE6N6ctFIFboqPAogxXUxTEGyMtY=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.14.tgz"},"0.3.15":{"narHash":"sha256-Fe4PY7Un5t3YjUjxFcliW3HSpiglGUvj14H+GNAGkFg=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.15.tgz"},"0.3.16":{"narHash":"sha256-4mjLhgdrSmuwZKF/gfMYy698zwJqODg9zRxOOiraVlE=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.16.tgz"},"0.3.17":{"narHash":"sha256-0myJ7OABVkxw1KoMcBFdf4ADhOBEtU59ow2Cb6rXEgk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.17.tgz"},"0.3.18":{"narHash":"sha256-+pA5ov1me3OG8cKNdTh2CkjsVKMvSo9il7Y/vccvQ+o=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.18.tgz"},"0.3.19":{"narHash":"sha256-FpY+hl32yIkVnM78lvt8KRokN1rsnUeKbePZ7uUpix8=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.19.tgz"},"0.3.2":{"narHash":"sha256-/SNcBxLQvyqFPBf967n+Rw9vZR1gtSp8qkHG2bhNfZw=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.2.tgz"},"0.3.20":{"narHash":"sha256-V0vknRcpkyQOKS9J/ivER06HVkY6UIZxywUkD99Jkqg=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.20.tgz"},"0.3.21":{"narHash":"sha256-etDcA+muBZNCK38bo6PmNF+11AOh43mIZhwPwXMiv3I=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.21.tgz"},"0.3.22":{"narHash":"sha256-7gbbqHgwfZ0ljvjY13CZxWx3vxdJ9ZpKCvgIXAy3KMU=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.22.tgz"},"0.3.23":{"narHash":"sha256-wNm+Q+oa0q4u+knru2Tj0U7Z7pFt37rtj+Jl4V8NXIo=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.23.tgz"},"0.3.24":{"narHash":"sha256-Bb6gKWUQtyqA+tZLDkGz5aRO6EKEY0vucLC3I8ZBqnc=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.24.tgz"},"0.3.25":{"narHash":"sha256-B426RXAlcU0eeFIfHsxJ785W6QRgxfBku+vQfA/bAno=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.25.tgz"},"0.3.26":{"narHash":"sha256-0ktZCezIIFpfEtuGEYgg262naSkWx9UZ2wi7PAFDi/E=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.26.tgz"},"0.3.27":{"narHash":"sha256-5crkaaoeOLK1FmHRK8YgEGmfwkv6Mafi3C6R1eVUbRc=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.27.tgz"},"0.3.28":{"narHash":"sha256-U9nkp/mJewv6x3rdVuJZ3oWWI+ZIi//2WUiZPuxt9uk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.28.tgz"},"0.3.3":{"narHash":"sha256-sAu4AHJOYBYHEGH+zUOGHvrW3fbWhhBqrtKxTH2YFIQ=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.3.tgz"},"0.3.4":{"narHash":"sha256-lJwX3qYzFGzQMNXRbB9zhYa2kVs4I/MLU0eG4qttf3U=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.4.tgz"},"0.3.5":{"narHash":"sha256-Qg/yK30AsN3tbo3Jtk9gDfdXMvRCyvdMADZ3xWHgk+c=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.5.tgz"},"0.3.6":{"narHash":"sha256-DDMOAYT7FiPASaIlR+YMPHuMCbI3RhfObRFAeuuG+qA=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.6.tgz"},"0.3.7":{"narHash":"sha256-50WTY46SMvlKySmrOYDaOnO66vyAuNeag9XAQEoP99o=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.7.tgz"},"0.3.8":{"narHash":"sha256-PAOIjUzu7X9raKP9G6gi7jcK3FXD4RXEm7xS5xwN0FM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.8.tgz"},"0.3.9":{"narHash":"sha256-mLPaEDssa106sgmG+u+el+wcYFSWUmcoNeyWPCIR1FU=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.9.tgz"},"0.4.0":{"narHash":"sha256-mEt1+dXdoOPIR5XJIZVDUjseLfBt7uDMoJC9qH0ksXQ=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.0.tgz"},"0.4.1":{"narHash":"sha256-ikMupPoerCGApCGJ0JjLw1dXV0FrdhQz/97aVNZcAj0=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.1.tgz"},"0.4.2":{"narHash":"sha256-Pgpiw/xxZwAWNYYgMRnv7vJFWuRrCHMIy9HLETDMpsc=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.2.tgz"},"0.4.3":{"narHash":"sha256-OLjiWJg0nhI2pM1P9TIX4VDSANEoS8A+CAzQKOgBXdk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.3.tgz"},"0.4.4":{"narHash":"sha256-gNyGr6gH5sF5gCmXA0TOSfON46ehO1NDk6jXDpyh0o4=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.4.tgz"},"0.4.5":{"narHash":"sha256-RjAJ0+LfrvIYPizmzngOLZ9U5mEV0tBSSutxIr2MTMk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.5.tgz"},"0.4.6":{"narHash":"sha256-8bPMDMbOxDLO9rPiXxZehAFdUdOeyIkq3r/sbuKP0fA=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.6.tgz"},"0.4.7":{"narHash":"sha256-kvJ8zcR3p+x5RAgr0fXJRlGzLpTidOifV2aqwoeyZlM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.7.tgz"},"0.5.0":{"narHash":"sha256-fAoLFpq50wsUv5p4A3OCubDBZO9qp+LGiCahS7liiPk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.0.tgz"},"0.5.1":{"narHash":"sha256-0TrLj134ryxckcbBGt0/p4txI0qgCsoJD5CLClyxQ0k=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.1.tgz"},"0.5.2":{"narHash":"sha256-kLR5h47rAyOS/rh/DRb7n98gb1X3nBbj9sDKUJ6GkGw=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.2.tgz"},"0.5.5":{"narHash":"sha256-49Ydvze5B7bjr1JalHMPQhLagrNvceuVxsI4gLDnXes=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.5.tgz"},"0.5.6":{"narHash":"sha256-69QIyMDzKFewftbN4FUWckR0GWp2YTK8W4A/ZJHDpHk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.6.tgz"},"1.0.1":{"narHash":"sha256-G0nDPzsEevu7k90cLysqWj/9j9QFguX9YB/BPTU+Or4=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.1.tgz"},"1.0.10":{"narHash":"sha256-gCMOWVIWsJe0+2Mfrcls/Q8qy3XiYg3GrBMibSadf2g=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.10.tgz"},"1.0.11":{"narHash":"sha256-3YJSHRsDf6fOoEitUmfM4UCUd6dbP+rAHi6YfmaF4NM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.11.tgz"},"1.0.12":{"narHash":"sha256-7l+qgY762p80Zw+hyAZVIYupIJUYQnZaZKZrkkla8/A=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.12.tgz"},"1.0.13":{"narHash":"sha256-Y2kL+ly8fL9PI1Dq9WQh4dPz+G/lqaq8+NqV44d4v8M=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.13.tgz"},"1.0.14":{"narHash":"sha256-68wbKwRLDeYez40vGrLUMgBuDNH1zL1+y4+wNwfaNJM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.14.tgz"},"1.0.15":{"narHash":"sha256-zx3lF6ENnTxlRnwXDbNAsri3AtzO8sjwuyuKcAhHHDA=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.15.tgz"},"1.0.16":{"narHash":"sha256-zPhx9VKR6S9+nSWUkeWk/D8Ugs1cQx9DCkHvk1jngk0=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.16.tgz"},"1.0.18":{"narHash":"sha256-qCMa6JyD8qazGDGsvvF0pfn3YjMUIYYPcvz2q0gTnxo=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.18.tgz"},"1.0.19":{"narHash":"sha256-Mg/mWYFTS4DQbsMx1ddH4xqOKTNCXUvjuGclTwOyeWI=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.19.tgz"},"1.0.2":{"narHash":"sha256-kdysa1NC5N9mEgxSe+BzkzdO2uw5EgJcRilUWQOegfY=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.2.tgz"},"1.0.20":{"narHash":"sha256-E4FubpSpQ3UxjEVMjDRgrtXNuhnqfOItZa7cJVXdOeQ=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.20.tgz"},"1.0.21":{"narHash":"sha256-+ChJt46sgaCPRM99dk2u54XigEXOGsU8ou/SRQNfovI=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.21.tgz"},"1.0.3":{"narHash":"sha256-TVFe4o+MU1eE8ZB4Guh9ni4mKNyMWKNKl4nIL34oAJg=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-gx70WKkJMM69uDRBc/BEDnFI8/KyXAdKNurZfsA9ryU=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-Vp6x68WJSSrLhNzFGg6Ap6uV1EkeXmBUhkYGtsQwPHU=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-ll01U+zyJAMv4fJi4m/AAoycydfqzJCHWRQ5133zS2M=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.6.tgz"},"1.0.7":{"narHash":"sha256-UzRBWNgKyaLZUaZqxsJ+xWX0NgHaCOU2IALHCQN/beU=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.7.tgz"},"1.0.8":{"narHash":"sha256-qsKIwA7LWdi3n/IDUJiiiTjJ8FoGWYJFQmfSLm1Zsu0=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.8.tgz"},"1.0.9":{"narHash":"sha256-S+s7gShnygICkfuoaZBh2c/RfvxwG0khte5IpUQN5A0=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.9.tgz"},"1.1.0":{"narHash":"sha256-YU7PG/1nqEtQmChGSh5QdL7TLlhp4LolaF4pBQNIVno=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-o0bNm2i08dK+YrhKy+n+6as3yPcDLCwXVAsdleGXwFM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-vlkBb1cwg4x2Y+Pt3Q/2DjawVI+kXLKEIPNAsHL0gPk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.2.tgz"},"1.1.3":{"narHash":"sha256-nzuZigqE96DBAo2tT+1HDgqhtm2BE7k5fAj92hGmTrg=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.3.tgz"},"1.1.4":{"narHash":"sha256-dvJIQ2L6jyswKtktTXooNhQ0DAEUuTSEVPfXavYITL0=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.4.tgz"},"1.1.5":{"narHash":"sha256-jyrDGqujazm8glT++pWUutKf4CMfMMsZah2CCvD9UAc=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.5.tgz"},"1.1.6":{"narHash":"sha256-tBG3FOyabPsQIs/2LN43O0UUSkeoPBP3LnYS26lfUZE=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.6.tgz"},"1.1.7":{"narHash":"sha256-4VJOdOrQY8dzg0Pim2CtNKXHfdkgajy4CD868ZfMMkA=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.7.tgz"},"1.1.8":{"narHash":"sha256-NhSXaMjlaBJ4rHN+oRO91+Lmxnc+ze0TGRKCAEarNTo=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.8.tgz"},"1.2.0":{"narHash":"sha256-tf0XjK+bSUndwNyN8I6xyludIRVf7kpkOYhiTTxqZyo=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-Juzg85yvzDyY1MpwFQsl4l+aFbqq3pouCUe0LE12Ios=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.2.1.tgz"},"1.2.2":{"narHash":"sha256-Belel/XpxwyjYSTU9fJQ08TJPVnf9kYwvSVOx8jI1Jg=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.2.2.tgz"},"1.2.3":{"narHash":"sha256-DxVN7qW61JR4YD8W4A3jV8AuTEo6k/K6TcV/jY7+yCY=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.2.3.tgz"},"1.3.0":{"narHash":"sha256-pswWwjFjLil95xDozhaYvLtLachfQ3fyG+mVwb7PbGk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.3.0.tgz"},"1.3.1":{"narHash":"sha256-WPIzTPYl3Bhl5lejeS3yaFbPDicSljbgDyDZMxA0M2I=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.3.1.tgz"},"1.4.0":{"narHash":"sha256-lB+PI/ehNsKRoVQamXH8gvRvF0qze4OoNteus5xNv5M=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.4.0.tgz"},"1.5.0":{"narHash":"sha256-XFefMrnByW4KcKz8qo3gFNfJjSe651xeBYJPS7ScUAs=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.5.0.tgz"},"1.5.1":{"narHash":"sha256-qWV09qsTzD1gnN02sOMS3XIqDnV2t+pAxwZYZxnaC/Y=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.5.1.tgz"},"1.5.2":{"narHash":"sha256-PE2YUehr2lIl6dU76+6TkhMPhLx6mHFkUoYjjnpU/hQ=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.5.2.tgz"},"1.5.3":{"narHash":"sha256-kduaDSBAL5XFwzajScL4DU/1f3/jo/TkwaD6sVFM0OM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.5.3.tgz"},"1.6.0":{"narHash":"sha256-MghmxmarpUr+zwmjq6+dGKsmz0PKC3a4heVSs0mvstE=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.0.tgz"},"1.6.1":{"narHash":"sha256-UM7y5lvwDb8aov+3DGYjHYdnst633EK1PHi6R4dzTOc=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.1.tgz"},"1.6.2":{"narHash":"sha256-uq5nlaBXS/7JnpWzSiZ5UD/Dr0VStSuOpz5hiRWbnLU=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.2.tgz"},"1.6.3":{"narHash":"sha256-xev9Fujd61bAemKEoudpA0tSFBhtkGeoE+mTZ3N3owE=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.3.tgz"},"1.6.4":{"narHash":"sha256-7FArssK9N1+GJVfsljOMElfdtj5DYUCfvQHN8oDO8Bs=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.4.tgz"},"1.7.0":{"narHash":"sha256-SswR9jgrcmKRLxm36wN93PNN7MvQXh5SYeW4sgjYI3A=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.0.tgz"},"1.7.1":{"narHash":"sha256-/8yxFMiMwNkGt3ZYT1cp0brfSfPKYKAmhs7hGHuZskM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.1.tgz"},"1.7.2":{"narHash":"sha256-HozhljzsZbEUZ5lFy3EsKUg3I+5ONrPfH4osqmpvJzk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.2.tgz"},"1.7.3":{"narHash":"sha256-PsSunWGs6n0r9lRMjXED92nftuDBQ+/N3+MgxWd2x40=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.3.tgz"},"1.7.4":{"narHash":"sha256-Nx+xOTIjJouoWuPlxsekSpZM4pjpA85MXFxKz3KIjuc=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.4.tgz"},"1.8.0":{"narHash":"sha256-vpqdKDM/Rb3MUj3Cntdzw5DumQbfiI3ec+RFlH+mDF0=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.0.tgz"},"1.8.1":{"narHash":"sha256-S1P0T9TEbJlbeij2pVt6NAF25CDKQkSn8bzxiOvWYmM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.1.tgz"},"1.8.10":{"narHash":"sha256-9KuolTI/wpOXWsI0wBwX3WZ08ll1hwg5hK4TVAA/QkM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.10.tgz"},"1.8.11":{"narHash":"sha256-toEj1r9i6obegCo7fWjD2jpRoxB+fU5lkCjfbmk3QG4=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.11.tgz"},"1.8.12":{"narHash":"sha256-RKWHQEBJe/6Fog02pnh8/5HDAj480ec55Ns+jId/Mls=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.12.tgz"},"1.8.13":{"narHash":"sha256-C5ysjvsdRhObg3001umAqTJ0ZR4G67tFs8RBbvs2QRk=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.13.tgz"},"1.8.14":{"narHash":"sha256-fPEbxqAmBSzGgPnRShx4/Pmg+JHAdr0ygaIdvT6Rnpw=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.14.tgz"},"1.8.15":{"narHash":"sha256-/KbxZtSUKTFpJaZXvVKJZqQdetFqJkfEWKQRePpqdQ4=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.15.tgz"},"1.8.16":{"narHash":"sha256-SMvw8V7IcxDRMrQ7izFz36wEFnCf7gJwDaIITydW6Bs=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.16.tgz"},"1.8.17":{"narHash":"sha256-I4QcF0lBNMm3zZXQH0iSBStJ34ydshB66GUuOaLWS1E=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.17.tgz"},"1.8.18":{"narHash":"sha256-4+zMppC3SxO/ewMq6Xo+WQnW0TwZIIUx8HYNy66kDzY=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.18.tgz"},"1.8.19":{"narHash":"sha256-y5bCihAVRZhEoBtpEdhfSMp2f4jnvzOXuT6KZy8+WLc=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.19.tgz"},"1.8.2":{"narHash":"sha256-NmLaeA2O82+8lYgdtp9bJ32o2rJZUVbPlqf+Gt7V4mA=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.2.tgz"},"1.8.20":{"narHash":"sha256-+rVVmxhg5OWHPWiglIh0x4XoYxFf6PNo2qT+HD0GcyQ=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.20.tgz"},"1.8.21":{"narHash":"sha256-hiaDqhxmNvvxEYLKV3278zU/sJDTmTPCM0VNIPIPK00=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.21.tgz"},"1.8.22":{"narHash":"sha256-RHgDcgNCX6RDNuDmYCLRhXygsGKvkGlPvM1byDL6/rw=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.22.tgz"},"1.8.23":{"narHash":"sha256-BVR54moWTNlPG8ct0E5QosjzbqIMyPOlN4arVSxtqwM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.23.tgz"},"1.8.3":{"narHash":"sha256-rqQ27ZsF7CW26N+Xjz2q/Motp20JDsSZah7M41vzPWM=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.3.tgz"},"1.8.4":{"narHash":"sha256-Qxpzf9iTDIt0AVTpjxxY8denD8xHrtfT2BygiuEnj4U=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.4.tgz"},"1.8.5":{"narHash":"sha256-x9rHaAuUp2QErDKA2RbrNT5h9b0ZR6lfXLUeTeCm8AQ=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.5.tgz"},"1.8.6":{"narHash":"sha256-Nl3sTOoGdb8lDwCGI15nA8qwCCRSwObEU3XFDOqgpy0=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.6.tgz"},"1.8.7":{"narHash":"sha256-3+4A9LU2/mCxS8noDKgR35NYhBvd09lP6GWhID99w2s=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.7.tgz"},"1.8.8":{"narHash":"sha256-ZUY9x+WzAGN38B7EcXWGzKtqUlbs68342HzlJ5ATGAQ=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.8.tgz"},"1.8.9":{"narHash":"sha256-NYnG+Q38P8nLEG2DDw55HzhkXckNQJmiDNZiTTDU5nA=","type":"tarball","url":"https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.9.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-R9Uve/DQN8fSg8BC7wbU4kw71I0jzr6Fw/AroYhRdwY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-4g3bxTigkZQuOGMAG5fL9AyI5dg1e2UmG7APbnjWkbk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-kEcKSCQsc1kShymG+xUeXWRC2v/HAHWVflnxsFm5n1c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.1.2.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-pRJ4IRbSGTgr27+0UoWIhRhDbR1l3d6lHHkfZOaqdsg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-W/3Ev8uD13Y1xFcmOP4ULmsmB3FD6+RfEfpKNYZ4ov0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.0.tgz"
+  },
+  "0.3.1": {
+    "narHash": "sha256-vy9TrfloOpLMR61yX1dlpHPSjR+mtndl27MuNQkltWg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.1.tgz"
+  },
+  "0.3.10": {
+    "narHash": "sha256-M5bUSutb5Cqoa0tgrLakuepebhkof3MLIrXmFegxrTs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.10.tgz"
+  },
+  "0.3.11": {
+    "narHash": "sha256-1IWdS36Ai3yeOm4/EI1RswSqhxCjRdu9slXcBfFbgxs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.11.tgz"
+  },
+  "0.3.12": {
+    "narHash": "sha256-t380UQw3PTjQoS4voqWPhNIeD0h48V1a7cgD1votb50=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.12.tgz"
+  },
+  "0.3.13": {
+    "narHash": "sha256-ypSK2Ky0gnh/fSE6oLHEzV3CoecFWBq5B7B/tzgNQqc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.13.tgz"
+  },
+  "0.3.14": {
+    "narHash": "sha256-z2n9+xq+XYQzeWYEE6N6ctFIFboqPAogxXUxTEGyMtY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.14.tgz"
+  },
+  "0.3.15": {
+    "narHash": "sha256-Fe4PY7Un5t3YjUjxFcliW3HSpiglGUvj14H+GNAGkFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.15.tgz"
+  },
+  "0.3.16": {
+    "narHash": "sha256-4mjLhgdrSmuwZKF/gfMYy698zwJqODg9zRxOOiraVlE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.16.tgz"
+  },
+  "0.3.17": {
+    "narHash": "sha256-0myJ7OABVkxw1KoMcBFdf4ADhOBEtU59ow2Cb6rXEgk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.17.tgz"
+  },
+  "0.3.18": {
+    "narHash": "sha256-+pA5ov1me3OG8cKNdTh2CkjsVKMvSo9il7Y/vccvQ+o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.18.tgz"
+  },
+  "0.3.19": {
+    "narHash": "sha256-FpY+hl32yIkVnM78lvt8KRokN1rsnUeKbePZ7uUpix8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.19.tgz"
+  },
+  "0.3.2": {
+    "narHash": "sha256-/SNcBxLQvyqFPBf967n+Rw9vZR1gtSp8qkHG2bhNfZw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.2.tgz"
+  },
+  "0.3.20": {
+    "narHash": "sha256-V0vknRcpkyQOKS9J/ivER06HVkY6UIZxywUkD99Jkqg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.20.tgz"
+  },
+  "0.3.21": {
+    "narHash": "sha256-etDcA+muBZNCK38bo6PmNF+11AOh43mIZhwPwXMiv3I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.21.tgz"
+  },
+  "0.3.22": {
+    "narHash": "sha256-7gbbqHgwfZ0ljvjY13CZxWx3vxdJ9ZpKCvgIXAy3KMU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.22.tgz"
+  },
+  "0.3.23": {
+    "narHash": "sha256-wNm+Q+oa0q4u+knru2Tj0U7Z7pFt37rtj+Jl4V8NXIo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.23.tgz"
+  },
+  "0.3.24": {
+    "narHash": "sha256-Bb6gKWUQtyqA+tZLDkGz5aRO6EKEY0vucLC3I8ZBqnc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.24.tgz"
+  },
+  "0.3.25": {
+    "narHash": "sha256-B426RXAlcU0eeFIfHsxJ785W6QRgxfBku+vQfA/bAno=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.25.tgz"
+  },
+  "0.3.26": {
+    "narHash": "sha256-0ktZCezIIFpfEtuGEYgg262naSkWx9UZ2wi7PAFDi/E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.26.tgz"
+  },
+  "0.3.27": {
+    "narHash": "sha256-5crkaaoeOLK1FmHRK8YgEGmfwkv6Mafi3C6R1eVUbRc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.27.tgz"
+  },
+  "0.3.28": {
+    "narHash": "sha256-U9nkp/mJewv6x3rdVuJZ3oWWI+ZIi//2WUiZPuxt9uk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.28.tgz"
+  },
+  "0.3.3": {
+    "narHash": "sha256-sAu4AHJOYBYHEGH+zUOGHvrW3fbWhhBqrtKxTH2YFIQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.3.tgz"
+  },
+  "0.3.4": {
+    "narHash": "sha256-lJwX3qYzFGzQMNXRbB9zhYa2kVs4I/MLU0eG4qttf3U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.4.tgz"
+  },
+  "0.3.5": {
+    "narHash": "sha256-Qg/yK30AsN3tbo3Jtk9gDfdXMvRCyvdMADZ3xWHgk+c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.5.tgz"
+  },
+  "0.3.6": {
+    "narHash": "sha256-DDMOAYT7FiPASaIlR+YMPHuMCbI3RhfObRFAeuuG+qA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.6.tgz"
+  },
+  "0.3.7": {
+    "narHash": "sha256-50WTY46SMvlKySmrOYDaOnO66vyAuNeag9XAQEoP99o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.7.tgz"
+  },
+  "0.3.8": {
+    "narHash": "sha256-PAOIjUzu7X9raKP9G6gi7jcK3FXD4RXEm7xS5xwN0FM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.8.tgz"
+  },
+  "0.3.9": {
+    "narHash": "sha256-mLPaEDssa106sgmG+u+el+wcYFSWUmcoNeyWPCIR1FU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.3.9.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-mEt1+dXdoOPIR5XJIZVDUjseLfBt7uDMoJC9qH0ksXQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.0.tgz"
+  },
+  "0.4.1": {
+    "narHash": "sha256-ikMupPoerCGApCGJ0JjLw1dXV0FrdhQz/97aVNZcAj0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.1.tgz"
+  },
+  "0.4.2": {
+    "narHash": "sha256-Pgpiw/xxZwAWNYYgMRnv7vJFWuRrCHMIy9HLETDMpsc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.2.tgz"
+  },
+  "0.4.3": {
+    "narHash": "sha256-OLjiWJg0nhI2pM1P9TIX4VDSANEoS8A+CAzQKOgBXdk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.3.tgz"
+  },
+  "0.4.4": {
+    "narHash": "sha256-gNyGr6gH5sF5gCmXA0TOSfON46ehO1NDk6jXDpyh0o4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.4.tgz"
+  },
+  "0.4.5": {
+    "narHash": "sha256-RjAJ0+LfrvIYPizmzngOLZ9U5mEV0tBSSutxIr2MTMk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.5.tgz"
+  },
+  "0.4.6": {
+    "narHash": "sha256-8bPMDMbOxDLO9rPiXxZehAFdUdOeyIkq3r/sbuKP0fA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.6.tgz"
+  },
+  "0.4.7": {
+    "narHash": "sha256-kvJ8zcR3p+x5RAgr0fXJRlGzLpTidOifV2aqwoeyZlM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.4.7.tgz"
+  },
+  "0.5.0": {
+    "narHash": "sha256-fAoLFpq50wsUv5p4A3OCubDBZO9qp+LGiCahS7liiPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.0.tgz"
+  },
+  "0.5.1": {
+    "narHash": "sha256-0TrLj134ryxckcbBGt0/p4txI0qgCsoJD5CLClyxQ0k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.1.tgz"
+  },
+  "0.5.2": {
+    "narHash": "sha256-kLR5h47rAyOS/rh/DRb7n98gb1X3nBbj9sDKUJ6GkGw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.2.tgz"
+  },
+  "0.5.5": {
+    "narHash": "sha256-49Ydvze5B7bjr1JalHMPQhLagrNvceuVxsI4gLDnXes=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.5.tgz"
+  },
+  "0.5.6": {
+    "narHash": "sha256-69QIyMDzKFewftbN4FUWckR0GWp2YTK8W4A/ZJHDpHk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-0.5.6.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-G0nDPzsEevu7k90cLysqWj/9j9QFguX9YB/BPTU+Or4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.1.tgz"
+  },
+  "1.0.10": {
+    "narHash": "sha256-gCMOWVIWsJe0+2Mfrcls/Q8qy3XiYg3GrBMibSadf2g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.10.tgz"
+  },
+  "1.0.11": {
+    "narHash": "sha256-3YJSHRsDf6fOoEitUmfM4UCUd6dbP+rAHi6YfmaF4NM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.11.tgz"
+  },
+  "1.0.12": {
+    "narHash": "sha256-7l+qgY762p80Zw+hyAZVIYupIJUYQnZaZKZrkkla8/A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.12.tgz"
+  },
+  "1.0.13": {
+    "narHash": "sha256-Y2kL+ly8fL9PI1Dq9WQh4dPz+G/lqaq8+NqV44d4v8M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.13.tgz"
+  },
+  "1.0.14": {
+    "narHash": "sha256-68wbKwRLDeYez40vGrLUMgBuDNH1zL1+y4+wNwfaNJM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.14.tgz"
+  },
+  "1.0.15": {
+    "narHash": "sha256-zx3lF6ENnTxlRnwXDbNAsri3AtzO8sjwuyuKcAhHHDA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.15.tgz"
+  },
+  "1.0.16": {
+    "narHash": "sha256-zPhx9VKR6S9+nSWUkeWk/D8Ugs1cQx9DCkHvk1jngk0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.16.tgz"
+  },
+  "1.0.18": {
+    "narHash": "sha256-qCMa6JyD8qazGDGsvvF0pfn3YjMUIYYPcvz2q0gTnxo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.18.tgz"
+  },
+  "1.0.19": {
+    "narHash": "sha256-Mg/mWYFTS4DQbsMx1ddH4xqOKTNCXUvjuGclTwOyeWI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.19.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-kdysa1NC5N9mEgxSe+BzkzdO2uw5EgJcRilUWQOegfY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.2.tgz"
+  },
+  "1.0.20": {
+    "narHash": "sha256-E4FubpSpQ3UxjEVMjDRgrtXNuhnqfOItZa7cJVXdOeQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.20.tgz"
+  },
+  "1.0.21": {
+    "narHash": "sha256-+ChJt46sgaCPRM99dk2u54XigEXOGsU8ou/SRQNfovI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.21.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-TVFe4o+MU1eE8ZB4Guh9ni4mKNyMWKNKl4nIL34oAJg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-gx70WKkJMM69uDRBc/BEDnFI8/KyXAdKNurZfsA9ryU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-Vp6x68WJSSrLhNzFGg6Ap6uV1EkeXmBUhkYGtsQwPHU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-ll01U+zyJAMv4fJi4m/AAoycydfqzJCHWRQ5133zS2M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.6.tgz"
+  },
+  "1.0.7": {
+    "narHash": "sha256-UzRBWNgKyaLZUaZqxsJ+xWX0NgHaCOU2IALHCQN/beU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.7.tgz"
+  },
+  "1.0.8": {
+    "narHash": "sha256-qsKIwA7LWdi3n/IDUJiiiTjJ8FoGWYJFQmfSLm1Zsu0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.8.tgz"
+  },
+  "1.0.9": {
+    "narHash": "sha256-S+s7gShnygICkfuoaZBh2c/RfvxwG0khte5IpUQN5A0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.0.9.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-YU7PG/1nqEtQmChGSh5QdL7TLlhp4LolaF4pBQNIVno=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-o0bNm2i08dK+YrhKy+n+6as3yPcDLCwXVAsdleGXwFM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-vlkBb1cwg4x2Y+Pt3Q/2DjawVI+kXLKEIPNAsHL0gPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.2.tgz"
+  },
+  "1.1.3": {
+    "narHash": "sha256-nzuZigqE96DBAo2tT+1HDgqhtm2BE7k5fAj92hGmTrg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.3.tgz"
+  },
+  "1.1.4": {
+    "narHash": "sha256-dvJIQ2L6jyswKtktTXooNhQ0DAEUuTSEVPfXavYITL0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.4.tgz"
+  },
+  "1.1.5": {
+    "narHash": "sha256-jyrDGqujazm8glT++pWUutKf4CMfMMsZah2CCvD9UAc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.5.tgz"
+  },
+  "1.1.6": {
+    "narHash": "sha256-tBG3FOyabPsQIs/2LN43O0UUSkeoPBP3LnYS26lfUZE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.6.tgz"
+  },
+  "1.1.7": {
+    "narHash": "sha256-4VJOdOrQY8dzg0Pim2CtNKXHfdkgajy4CD868ZfMMkA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.7.tgz"
+  },
+  "1.1.8": {
+    "narHash": "sha256-NhSXaMjlaBJ4rHN+oRO91+Lmxnc+ze0TGRKCAEarNTo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.1.8.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-tf0XjK+bSUndwNyN8I6xyludIRVf7kpkOYhiTTxqZyo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-Juzg85yvzDyY1MpwFQsl4l+aFbqq3pouCUe0LE12Ios=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.2.1.tgz"
+  },
+  "1.2.2": {
+    "narHash": "sha256-Belel/XpxwyjYSTU9fJQ08TJPVnf9kYwvSVOx8jI1Jg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.2.2.tgz"
+  },
+  "1.2.3": {
+    "narHash": "sha256-DxVN7qW61JR4YD8W4A3jV8AuTEo6k/K6TcV/jY7+yCY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.2.3.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-pswWwjFjLil95xDozhaYvLtLachfQ3fyG+mVwb7PbGk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.3.0.tgz"
+  },
+  "1.3.1": {
+    "narHash": "sha256-WPIzTPYl3Bhl5lejeS3yaFbPDicSljbgDyDZMxA0M2I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.3.1.tgz"
+  },
+  "1.4.0": {
+    "narHash": "sha256-lB+PI/ehNsKRoVQamXH8gvRvF0qze4OoNteus5xNv5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.4.0.tgz"
+  },
+  "1.5.0": {
+    "narHash": "sha256-XFefMrnByW4KcKz8qo3gFNfJjSe651xeBYJPS7ScUAs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.5.0.tgz"
+  },
+  "1.5.1": {
+    "narHash": "sha256-qWV09qsTzD1gnN02sOMS3XIqDnV2t+pAxwZYZxnaC/Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.5.1.tgz"
+  },
+  "1.5.2": {
+    "narHash": "sha256-PE2YUehr2lIl6dU76+6TkhMPhLx6mHFkUoYjjnpU/hQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.5.2.tgz"
+  },
+  "1.5.3": {
+    "narHash": "sha256-kduaDSBAL5XFwzajScL4DU/1f3/jo/TkwaD6sVFM0OM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.5.3.tgz"
+  },
+  "1.6.0": {
+    "narHash": "sha256-MghmxmarpUr+zwmjq6+dGKsmz0PKC3a4heVSs0mvstE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.0.tgz"
+  },
+  "1.6.1": {
+    "narHash": "sha256-UM7y5lvwDb8aov+3DGYjHYdnst633EK1PHi6R4dzTOc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.1.tgz"
+  },
+  "1.6.2": {
+    "narHash": "sha256-uq5nlaBXS/7JnpWzSiZ5UD/Dr0VStSuOpz5hiRWbnLU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.2.tgz"
+  },
+  "1.6.3": {
+    "narHash": "sha256-xev9Fujd61bAemKEoudpA0tSFBhtkGeoE+mTZ3N3owE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.3.tgz"
+  },
+  "1.6.4": {
+    "narHash": "sha256-7FArssK9N1+GJVfsljOMElfdtj5DYUCfvQHN8oDO8Bs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.6.4.tgz"
+  },
+  "1.7.0": {
+    "narHash": "sha256-SswR9jgrcmKRLxm36wN93PNN7MvQXh5SYeW4sgjYI3A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.0.tgz"
+  },
+  "1.7.1": {
+    "narHash": "sha256-/8yxFMiMwNkGt3ZYT1cp0brfSfPKYKAmhs7hGHuZskM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.1.tgz"
+  },
+  "1.7.2": {
+    "narHash": "sha256-HozhljzsZbEUZ5lFy3EsKUg3I+5ONrPfH4osqmpvJzk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.2.tgz"
+  },
+  "1.7.3": {
+    "narHash": "sha256-PsSunWGs6n0r9lRMjXED92nftuDBQ+/N3+MgxWd2x40=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.3.tgz"
+  },
+  "1.7.4": {
+    "narHash": "sha256-Nx+xOTIjJouoWuPlxsekSpZM4pjpA85MXFxKz3KIjuc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.7.4.tgz"
+  },
+  "1.8.0": {
+    "narHash": "sha256-vpqdKDM/Rb3MUj3Cntdzw5DumQbfiI3ec+RFlH+mDF0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.0.tgz"
+  },
+  "1.8.1": {
+    "narHash": "sha256-S1P0T9TEbJlbeij2pVt6NAF25CDKQkSn8bzxiOvWYmM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.1.tgz"
+  },
+  "1.8.10": {
+    "narHash": "sha256-9KuolTI/wpOXWsI0wBwX3WZ08ll1hwg5hK4TVAA/QkM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.10.tgz"
+  },
+  "1.8.11": {
+    "narHash": "sha256-toEj1r9i6obegCo7fWjD2jpRoxB+fU5lkCjfbmk3QG4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.11.tgz"
+  },
+  "1.8.12": {
+    "narHash": "sha256-RKWHQEBJe/6Fog02pnh8/5HDAj480ec55Ns+jId/Mls=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.12.tgz"
+  },
+  "1.8.13": {
+    "narHash": "sha256-C5ysjvsdRhObg3001umAqTJ0ZR4G67tFs8RBbvs2QRk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.13.tgz"
+  },
+  "1.8.14": {
+    "narHash": "sha256-fPEbxqAmBSzGgPnRShx4/Pmg+JHAdr0ygaIdvT6Rnpw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.14.tgz"
+  },
+  "1.8.15": {
+    "narHash": "sha256-/KbxZtSUKTFpJaZXvVKJZqQdetFqJkfEWKQRePpqdQ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.15.tgz"
+  },
+  "1.8.16": {
+    "narHash": "sha256-SMvw8V7IcxDRMrQ7izFz36wEFnCf7gJwDaIITydW6Bs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.16.tgz"
+  },
+  "1.8.17": {
+    "narHash": "sha256-I4QcF0lBNMm3zZXQH0iSBStJ34ydshB66GUuOaLWS1E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.17.tgz"
+  },
+  "1.8.18": {
+    "narHash": "sha256-4+zMppC3SxO/ewMq6Xo+WQnW0TwZIIUx8HYNy66kDzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.18.tgz"
+  },
+  "1.8.19": {
+    "narHash": "sha256-y5bCihAVRZhEoBtpEdhfSMp2f4jnvzOXuT6KZy8+WLc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.19.tgz"
+  },
+  "1.8.2": {
+    "narHash": "sha256-NmLaeA2O82+8lYgdtp9bJ32o2rJZUVbPlqf+Gt7V4mA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.2.tgz"
+  },
+  "1.8.20": {
+    "narHash": "sha256-+rVVmxhg5OWHPWiglIh0x4XoYxFf6PNo2qT+HD0GcyQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.20.tgz"
+  },
+  "1.8.21": {
+    "narHash": "sha256-hiaDqhxmNvvxEYLKV3278zU/sJDTmTPCM0VNIPIPK00=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.21.tgz"
+  },
+  "1.8.22": {
+    "narHash": "sha256-RHgDcgNCX6RDNuDmYCLRhXygsGKvkGlPvM1byDL6/rw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.22.tgz"
+  },
+  "1.8.23": {
+    "narHash": "sha256-BVR54moWTNlPG8ct0E5QosjzbqIMyPOlN4arVSxtqwM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.23.tgz"
+  },
+  "1.8.3": {
+    "narHash": "sha256-rqQ27ZsF7CW26N+Xjz2q/Motp20JDsSZah7M41vzPWM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.3.tgz"
+  },
+  "1.8.4": {
+    "narHash": "sha256-Qxpzf9iTDIt0AVTpjxxY8denD8xHrtfT2BygiuEnj4U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.4.tgz"
+  },
+  "1.8.5": {
+    "narHash": "sha256-x9rHaAuUp2QErDKA2RbrNT5h9b0ZR6lfXLUeTeCm8AQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.5.tgz"
+  },
+  "1.8.6": {
+    "narHash": "sha256-Nl3sTOoGdb8lDwCGI15nA8qwCCRSwObEU3XFDOqgpy0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.6.tgz"
+  },
+  "1.8.7": {
+    "narHash": "sha256-3+4A9LU2/mCxS8noDKgR35NYhBvd09lP6GWhID99w2s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.7.tgz"
+  },
+  "1.8.8": {
+    "narHash": "sha256-ZUY9x+WzAGN38B7EcXWGzKtqUlbs68342HzlJ5ATGAQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.8.tgz"
+  },
+  "1.8.9": {
+    "narHash": "sha256-NYnG+Q38P8nLEG2DDw55HzhkXckNQJmiDNZiTTDU5nA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/g-svg/-/g-svg-1.8.9.tgz"
+  }
+}

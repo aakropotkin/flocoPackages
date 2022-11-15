@@ -1,1 +1,22 @@
-{"1.0.0":{"narHash":"sha256-KzTr7XmlkqjHq4y3dXUHqZNtN1T6BeFBAF6lXDrONjI=","type":"tarball","url":"https://registry.npmjs.org/yoctodelay/-/yoctodelay-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-Q4sKJnit++X8B298e1A9irpNvABQUqYjj27Laz0ieXg=","type":"tarball","url":"https://registry.npmjs.org/yoctodelay/-/yoctodelay-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-HBej9o1/oqxUdVUNX232gCZVV2q6gBoAV9/W8ZioIZM=","type":"tarball","url":"https://registry.npmjs.org/yoctodelay/-/yoctodelay-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-dmSnmd0RSsa6NQ6QR2+aeBEf+jJT8aZpREdZWNzy9fA=","type":"tarball","url":"https://registry.npmjs.org/yoctodelay/-/yoctodelay-2.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-KzTr7XmlkqjHq4y3dXUHqZNtN1T6BeFBAF6lXDrONjI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yoctodelay/-/yoctodelay-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-Q4sKJnit++X8B298e1A9irpNvABQUqYjj27Laz0ieXg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yoctodelay/-/yoctodelay-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-HBej9o1/oqxUdVUNX232gCZVV2q6gBoAV9/W8ZioIZM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yoctodelay/-/yoctodelay-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-dmSnmd0RSsa6NQ6QR2+aeBEf+jJT8aZpREdZWNzy9fA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/yoctodelay/-/yoctodelay-2.0.0.tgz"
+  }
+}

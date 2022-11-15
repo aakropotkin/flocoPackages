@@ -1,1 +1,32 @@
-{"0.1.1":{"narHash":"sha256-XJ2pBiOTmQhuxHiUdCsERaKf0n4/5MH5+KwPeDa2uio=","type":"tarball","url":"https://registry.npmjs.org/mockjs/-/mockjs-0.1.1.tgz"},"0.1.10":{"narHash":"sha256-lBydPlo+oo6/Tcys+TKy0hi7uHFlcdE7oVbIklJMh1o=","type":"tarball","url":"https://registry.npmjs.org/mockjs/-/mockjs-0.1.10.tgz"},"0.1.2":{"narHash":"sha256-3u3zHKMyIJq4Z4BzJ0TQ+veA/E+OZi0hTQ7z75zIU94=","type":"tarball","url":"https://registry.npmjs.org/mockjs/-/mockjs-0.1.2.tgz"},"0.1.4":{"narHash":"sha256-1vovu05RbYTbjfacm/xevxTq5Pvllwg7sOhLQeUVtZc=","type":"tarball","url":"https://registry.npmjs.org/mockjs/-/mockjs-0.1.4.tgz"},"1.0.0":{"narHash":"sha256-vyYF/Z9XMVVrsPIkLyokWSmmsEvgQw/5sIiBKRtslbQ=","type":"tarball","url":"https://registry.npmjs.org/mockjs/-/mockjs-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-mfjRQ1DUD+gxdlWssZEMeMql7sLF/VHOw0aiJBaLB5U=","type":"tarball","url":"https://registry.npmjs.org/mockjs/-/mockjs-1.1.0.tgz"}}
+{
+  "0.1.1": {
+    "narHash": "sha256-XJ2pBiOTmQhuxHiUdCsERaKf0n4/5MH5+KwPeDa2uio=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mockjs/-/mockjs-0.1.1.tgz"
+  },
+  "0.1.10": {
+    "narHash": "sha256-lBydPlo+oo6/Tcys+TKy0hi7uHFlcdE7oVbIklJMh1o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mockjs/-/mockjs-0.1.10.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-3u3zHKMyIJq4Z4BzJ0TQ+veA/E+OZi0hTQ7z75zIU94=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mockjs/-/mockjs-0.1.2.tgz"
+  },
+  "0.1.4": {
+    "narHash": "sha256-1vovu05RbYTbjfacm/xevxTq5Pvllwg7sOhLQeUVtZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mockjs/-/mockjs-0.1.4.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-vyYF/Z9XMVVrsPIkLyokWSmmsEvgQw/5sIiBKRtslbQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mockjs/-/mockjs-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-mfjRQ1DUD+gxdlWssZEMeMql7sLF/VHOw0aiJBaLB5U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mockjs/-/mockjs-1.1.0.tgz"
+  }
+}

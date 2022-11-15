@@ -1,1 +1,82 @@
-{"0.1.0":{"narHash":"sha256-IxqzDx04Yu4CPov/m2TEj8PStdyb6oj1Q+5Jo26jz3s=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-UtUW7T09TdWxz8H/lfxSzxGvpdZnlEmH65WKVrkuekQ=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-0.1.1.tgz"},"1.0.0":{"narHash":"sha256-XyOKhGmWk8oXolKG6pDoRp80Cw5I1rrElAlXsWBX1JQ=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-xsOCPS1fgPdroZEyb4b1XrYlZnqWva3Gexs+FaZuwBY=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-FHNGqREyYGrI0L2T66eL6IHx5lZlVtMo78tmvx+kALU=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-jVovVXc9RxD8XacOemOXcYEy1mVHkCdxAKEqkJYuLls=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.0.3.tgz"},"1.1.0":{"narHash":"sha256-bg4+m9+AvzygT4cHIwXH29c3lLJPRFSdQd5yyjWjELM=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-pSyrKhYJKkmM9SlnAuNRwWpX5yls3sgV1d1L7Lzc/Ds=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-DXWE+cH47VDoMb9WvSv2oin7AZnKXk5j53z03j7indg=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-x3t+He3xwhQCtFbSIYyIi760Dr83GMgok55BCiFhWu0=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-2.0.2.tgz"},"3.0.0":{"narHash":"sha256-wAkf+WveV29yY4v7TLLeiXzm5ZRWdnqTAg6Ur6U21Fs=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-dH4Z4CHkZwiJXXzwrzteyjQoScHZmiR4I62dc3WIMQQ=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.0.1.tgz"},"3.1.0":{"narHash":"sha256-hdmLeGiyLsqROz45ua5Im3Zhni0kdFjUKEudY+urSq0=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.1.0.tgz"},"3.1.1":{"narHash":"sha256-/DcRdVq2e7xZ8IgoCrpCHbDkbEa+z7uLlaZkU23DxXw=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.1.1.tgz"},"3.1.2":{"narHash":"sha256-JN56nx4FEOGIqIY8O5EDYpzzm/2U3lDuLH+8ZJjZeE8=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.1.2.tgz"},"3.2.0":{"narHash":"sha256-bhQyaMu2uLrHxd6gZWrb2jO0os7b0CYvyrclImj1QaU=","type":"tarball","url":"https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.2.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-IxqzDx04Yu4CPov/m2TEj8PStdyb6oj1Q+5Jo26jz3s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-UtUW7T09TdWxz8H/lfxSzxGvpdZnlEmH65WKVrkuekQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-0.1.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-XyOKhGmWk8oXolKG6pDoRp80Cw5I1rrElAlXsWBX1JQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-xsOCPS1fgPdroZEyb4b1XrYlZnqWva3Gexs+FaZuwBY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-FHNGqREyYGrI0L2T66eL6IHx5lZlVtMo78tmvx+kALU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-jVovVXc9RxD8XacOemOXcYEy1mVHkCdxAKEqkJYuLls=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.0.3.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-bg4+m9+AvzygT4cHIwXH29c3lLJPRFSdQd5yyjWjELM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-pSyrKhYJKkmM9SlnAuNRwWpX5yls3sgV1d1L7Lzc/Ds=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-DXWE+cH47VDoMb9WvSv2oin7AZnKXk5j53z03j7indg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-x3t+He3xwhQCtFbSIYyIi760Dr83GMgok55BCiFhWu0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-2.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-wAkf+WveV29yY4v7TLLeiXzm5ZRWdnqTAg6Ur6U21Fs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-dH4Z4CHkZwiJXXzwrzteyjQoScHZmiR4I62dc3WIMQQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.0.1.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-hdmLeGiyLsqROz45ua5Im3Zhni0kdFjUKEudY+urSq0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.1.0.tgz"
+  },
+  "3.1.1": {
+    "narHash": "sha256-/DcRdVq2e7xZ8IgoCrpCHbDkbEa+z7uLlaZkU23DxXw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.1.1.tgz"
+  },
+  "3.1.2": {
+    "narHash": "sha256-JN56nx4FEOGIqIY8O5EDYpzzm/2U3lDuLH+8ZJjZeE8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.1.2.tgz"
+  },
+  "3.2.0": {
+    "narHash": "sha256-bhQyaMu2uLrHxd6gZWrb2jO0os7b0CYvyrclImj1QaU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.2.0.tgz"
+  }
+}

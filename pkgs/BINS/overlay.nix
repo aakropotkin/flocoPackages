@@ -8,43 +8,8 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  # Packages explicitly marked for export.
   # Essentially this means that we have audited the generated builders.
   exports = prev.lib.importJSON ./exports.json;
-  marked  = prev.lib.importJSON ./npmjs.json;
-
-# ---------------------------------------------------------------------------- #
-
-  infoDir = toString ../../info;
-
-  loadFetchInfo' = {
-    scope
-  , bname
-  , shard ? prev.lib.toLower ( builtins.substring 0 1 bname )
-  }: let
-    ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
-            "@${scope}/${bname}";
-    ldir = if ( scope == null ) || ( scope == "unscoped" )
-           then infoDir + "/unscoped/${shard}/${bname}"
-           else infoDir + "/${scope}/${bname}";
-    byVers  = prev.lib.importJSON ( ldir + "/fetchInfo.json" );
-    proc    = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
-  in builtins.foldl' proc {} ( builtins.attrNames byVers );
-
-  loadFetchInfo = ident: let
-    m = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
-  in loadFetchInfo' {
-    scope = builtins.elemAt m 1;
-    bname = builtins.elemAt m 2;
-    shard = prev.lib.toLower ( builtins.elemAt m 3 );
-  };
-
-  markedFetchInfos = let
-    asSb = scope: ents:
-      builtins.mapAttrs ( bname: _: loadFetchInfo' { inherit scope bname; } )
-                        ents;
-  in builtins.mapAttrs asSb marked;
-
 
 # ---------------------------------------------------------------------------- #
 
@@ -212,19 +177,6 @@ final: prev: let
 # ---------------------------------------------------------------------------- #
 
 in {
-
-# ---------------------------------------------------------------------------- #
-
-  # For debugging:
-  __internalBins = {
-    inherit
-      exports
-      marked
-      markedFetchInfos
-      loadFetchInfo'
-      loadFetchInfo
-    ;
-  };
 
 # ---------------------------------------------------------------------------- #
 

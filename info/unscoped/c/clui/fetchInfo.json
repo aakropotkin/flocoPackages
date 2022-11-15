@@ -1,1 +1,57 @@
-{"0.1.0":{"narHash":"sha256-ekJZwfgSgvWyHooK6Gtu2A+bFYdFnq/x1eNMHV/Y7H0=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-/VsVuRNQb2Ul3ikMI3w+l83910ypdttYHlxDTN9eO7o=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-Mnl8e4pyFGFcWlbQ8VoT20qGZi5LpiCJRx7nKk0ShuI=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.1.2.tgz"},"0.1.3":{"narHash":"sha256-oUaZ9n4pzQVZDv64vYVVgbME4Z632RHMxmdhS62Nd4A=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.1.3.tgz"},"0.2.0":{"narHash":"sha256-p0mOvLlpUixv9COpoi2D8Ook7oulDHsAoivGNRDTfyE=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-6uLqZcEdWX28tPEfsDgTX9feZa0/nPwfKNcowH/svt8=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.2.1.tgz"},"0.3.1":{"narHash":"sha256-sUMasED3Ql7s9+VzfwvtbQuS1bhORoh4WbRZokwg2ZA=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.3.1.tgz"},"0.3.3":{"narHash":"sha256-2nVOzg/cor6TF5ZZO/x3xOex6Li//9vCMEgF9YXSwbc=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.3.3.tgz"},"0.3.4":{"narHash":"sha256-6Ij4n/LQOt0b2bScUGUp/H2vnZ91dY3bEXi+aqncFXQ=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.3.4.tgz"},"0.3.5":{"narHash":"sha256-9fUYIA7EMcl8yzgb/CK9JhBBguemDS1mAS5DNMmXubg=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.3.5.tgz"},"0.3.6":{"narHash":"sha256-wWMxACRRFRkgbLxDBHmhQSn9vzXxmKjdaqDagSD/0fE=","type":"tarball","url":"https://registry.npmjs.org/clui/-/clui-0.3.6.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-ekJZwfgSgvWyHooK6Gtu2A+bFYdFnq/x1eNMHV/Y7H0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-/VsVuRNQb2Ul3ikMI3w+l83910ypdttYHlxDTN9eO7o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-Mnl8e4pyFGFcWlbQ8VoT20qGZi5LpiCJRx7nKk0ShuI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.1.2.tgz"
+  },
+  "0.1.3": {
+    "narHash": "sha256-oUaZ9n4pzQVZDv64vYVVgbME4Z632RHMxmdhS62Nd4A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.1.3.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-p0mOvLlpUixv9COpoi2D8Ook7oulDHsAoivGNRDTfyE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-6uLqZcEdWX28tPEfsDgTX9feZa0/nPwfKNcowH/svt8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.2.1.tgz"
+  },
+  "0.3.1": {
+    "narHash": "sha256-sUMasED3Ql7s9+VzfwvtbQuS1bhORoh4WbRZokwg2ZA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.3.1.tgz"
+  },
+  "0.3.3": {
+    "narHash": "sha256-2nVOzg/cor6TF5ZZO/x3xOex6Li//9vCMEgF9YXSwbc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.3.3.tgz"
+  },
+  "0.3.4": {
+    "narHash": "sha256-6Ij4n/LQOt0b2bScUGUp/H2vnZ91dY3bEXi+aqncFXQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.3.4.tgz"
+  },
+  "0.3.5": {
+    "narHash": "sha256-9fUYIA7EMcl8yzgb/CK9JhBBguemDS1mAS5DNMmXubg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.3.5.tgz"
+  },
+  "0.3.6": {
+    "narHash": "sha256-wWMxACRRFRkgbLxDBHmhQSn9vzXxmKjdaqDagSD/0fE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/clui/-/clui-0.3.6.tgz"
+  }
+}

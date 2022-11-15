@@ -1,1 +1,72 @@
-{"0.1.0":{"narHash":"sha256-i6pWuyrKModgNVnRcEKQKf/uw+6jlPPbj65sZI9kv7U=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-kY59ORH8NfX7zQUHzJ2VTaBAJD95RUIIQkWRoiVM8LY=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-DPPmqu1T/o8KSPrV5AUaJnls/x9KCNxK06OEUM/5ggk=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-0.1.2.tgz"},"1.0.0":{"narHash":"sha256-pXsT53TU3XG603VaulzlOtqUdhF8siueGSqi8V5xOFM=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-/V9tcnfQh6yr53DWEYepDUGbpBvQKVpHDjGAwGFwtoI=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-YVtGvrD5mgVS4eBCssKVv8skyJPvu6hqC9UIAiyc+yM=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-tRK0D9WupXSO22gTas79BBB5kKc8ihy804JEsH7DuqE=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-1.1.1.tgz"},"2.0.0":{"narHash":"sha256-DNOCgeahykcMLvgRHDPy8FKP5P9vwB1HobSn+jyET9A=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-j3EEYrl0kaDfa2HjBdLJW7i/0Lo1kafCKSIxzUVLooA=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-T+C3JGQrL6qtoIVzYKk3b7SWV7fGtHFyGx83RU4xOxo=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-2.1.1.tgz"},"3.0.0":{"narHash":"sha256-b8U8CBmXT3Sx6RWwPYFqQ1Jg9LiB2u8JrKrQMe270ws=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-Ic2Dj7A3raqVfgt8jZ4zdxnjXXC96DGnL6vAF6EsQJ4=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-3.1.0.tgz"},"4.0.0":{"narHash":"sha256-h8HJjjMvBcctSdDlWX5MfAJSye8LaQTUAoXY3PBIzzs=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-4.0.0.tgz"},"5.0.0":{"narHash":"sha256-FvL8t4ZQOqudz/+k8haD+OS5KNMz9hUm17ZV1gOoRaE=","type":"tarball","url":"https://registry.npmjs.org/gulp-template/-/gulp-template-5.0.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-i6pWuyrKModgNVnRcEKQKf/uw+6jlPPbj65sZI9kv7U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-kY59ORH8NfX7zQUHzJ2VTaBAJD95RUIIQkWRoiVM8LY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-DPPmqu1T/o8KSPrV5AUaJnls/x9KCNxK06OEUM/5ggk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-0.1.2.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-pXsT53TU3XG603VaulzlOtqUdhF8siueGSqi8V5xOFM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-/V9tcnfQh6yr53DWEYepDUGbpBvQKVpHDjGAwGFwtoI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-YVtGvrD5mgVS4eBCssKVv8skyJPvu6hqC9UIAiyc+yM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-tRK0D9WupXSO22gTas79BBB5kKc8ihy804JEsH7DuqE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-1.1.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-DNOCgeahykcMLvgRHDPy8FKP5P9vwB1HobSn+jyET9A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-j3EEYrl0kaDfa2HjBdLJW7i/0Lo1kafCKSIxzUVLooA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-T+C3JGQrL6qtoIVzYKk3b7SWV7fGtHFyGx83RU4xOxo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-2.1.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-b8U8CBmXT3Sx6RWwPYFqQ1Jg9LiB2u8JrKrQMe270ws=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-Ic2Dj7A3raqVfgt8jZ4zdxnjXXC96DGnL6vAF6EsQJ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-3.1.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-h8HJjjMvBcctSdDlWX5MfAJSye8LaQTUAoXY3PBIzzs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-4.0.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-FvL8t4ZQOqudz/+k8haD+OS5KNMz9hUm17ZV1gOoRaE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/gulp-template/-/gulp-template-5.0.0.tgz"
+  }
+}

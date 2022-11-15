@@ -1,1 +1,17 @@
-{"1.0.0":{"narHash":"sha256-1zEMGT1RuNLwZ+kXSvTWMami+Dyiy4refyP30M9hZq8=","type":"tarball","url":"https://registry.npmjs.org/has-bigints/-/has-bigints-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-Pd9ps1XVihqOiEjOvxp9hdYLQbVyU2ZgTSiA7amT+ZY=","type":"tarball","url":"https://registry.npmjs.org/has-bigints/-/has-bigints-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-LbPq15+J8usV8bCOrccIRtzh4ZyiUjLqzaflRX9w4bo=","type":"tarball","url":"https://registry.npmjs.org/has-bigints/-/has-bigints-1.0.2.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-1zEMGT1RuNLwZ+kXSvTWMami+Dyiy4refyP30M9hZq8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/has-bigints/-/has-bigints-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-Pd9ps1XVihqOiEjOvxp9hdYLQbVyU2ZgTSiA7amT+ZY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/has-bigints/-/has-bigints-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-LbPq15+J8usV8bCOrccIRtzh4ZyiUjLqzaflRX9w4bo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/has-bigints/-/has-bigints-1.0.2.tgz"
+  }
+}

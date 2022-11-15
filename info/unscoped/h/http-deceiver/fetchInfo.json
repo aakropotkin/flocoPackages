@@ -1,1 +1,52 @@
-{"1.0.1":{"narHash":"sha256-tksn2DfBBgdGBENM71eRc5AJuH7DUiLKDWDk6qM0ZT4=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-P0pWPFb7hhc9zGRhU59DnIm9+odo8C6luyIuE5soEzc=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-DWs1At4gzwIQfX1ugPKTalai33y82/wQXhlO+7xgPDA=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-GBiz/SsgGhWsu9K/tgOTI3F9GVm2Cr+baXmn4xLWCc0=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.1.tgz"},"1.2.2":{"narHash":"sha256-xCA1yVfGQtdswwZNVTk+D6f+KK2FWlAdoKioIYbKs8Y=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.2.tgz"},"1.2.3":{"narHash":"sha256-0rjtYkDSUYM04MMDPXx1D28t30WRR7v/ZTIh6aNkPvU=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.3.tgz"},"1.2.4":{"narHash":"sha256-Q7cxYXxCwRWsvou6zMmY+uqoMYQmZVFcq9Y0Ml2lO0E=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.4.tgz"},"1.2.5":{"narHash":"sha256-qiLvOEDY2GXi7AYkagVcVPL5VBQyF+NIFAebnf4jkkM=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.5.tgz"},"1.2.6":{"narHash":"sha256-dR1OfJqVRdTsEZ+VL8VLNenl4w4f3e+fJ9fN1VTWopo=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.6.tgz"},"1.2.7":{"narHash":"sha256-RmrxwrL6b0mNCst7uS9wz/fV48mH+KZ53+UYKjJVerc=","type":"tarball","url":"https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.7.tgz"}}
+{
+  "1.0.1": {
+    "narHash": "sha256-tksn2DfBBgdGBENM71eRc5AJuH7DUiLKDWDk6qM0ZT4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-P0pWPFb7hhc9zGRhU59DnIm9+odo8C6luyIuE5soEzc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-DWs1At4gzwIQfX1ugPKTalai33y82/wQXhlO+7xgPDA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-GBiz/SsgGhWsu9K/tgOTI3F9GVm2Cr+baXmn4xLWCc0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.1.tgz"
+  },
+  "1.2.2": {
+    "narHash": "sha256-xCA1yVfGQtdswwZNVTk+D6f+KK2FWlAdoKioIYbKs8Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.2.tgz"
+  },
+  "1.2.3": {
+    "narHash": "sha256-0rjtYkDSUYM04MMDPXx1D28t30WRR7v/ZTIh6aNkPvU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.3.tgz"
+  },
+  "1.2.4": {
+    "narHash": "sha256-Q7cxYXxCwRWsvou6zMmY+uqoMYQmZVFcq9Y0Ml2lO0E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.4.tgz"
+  },
+  "1.2.5": {
+    "narHash": "sha256-qiLvOEDY2GXi7AYkagVcVPL5VBQyF+NIFAebnf4jkkM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.5.tgz"
+  },
+  "1.2.6": {
+    "narHash": "sha256-dR1OfJqVRdTsEZ+VL8VLNenl4w4f3e+fJ9fN1VTWopo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.6.tgz"
+  },
+  "1.2.7": {
+    "narHash": "sha256-RmrxwrL6b0mNCst7uS9wz/fV48mH+KZ53+UYKjJVerc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.7.tgz"
+  }
+}

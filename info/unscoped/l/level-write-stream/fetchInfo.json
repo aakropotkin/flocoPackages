@@ -1,1 +1,17 @@
-{"0.1.0":{"narHash":"sha256-DDtLvTHRecJPVCT4Dj7XPomRycoT7/Txxhv+8iYHegY=","type":"tarball","url":"https://registry.npmjs.org/level-write-stream/-/level-write-stream-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-SYpOr4Wy0i5PcGDXQttCwZV+0BAEWd+B1e3pvjyFAgI=","type":"tarball","url":"https://registry.npmjs.org/level-write-stream/-/level-write-stream-0.1.1.tgz"},"1.0.0":{"narHash":"sha256-DvXEIthKllV1e91VcW2HjQ54QMy1vavrdQ8C5eMyEjU=","type":"tarball","url":"https://registry.npmjs.org/level-write-stream/-/level-write-stream-1.0.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-DDtLvTHRecJPVCT4Dj7XPomRycoT7/Txxhv+8iYHegY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-write-stream/-/level-write-stream-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-SYpOr4Wy0i5PcGDXQttCwZV+0BAEWd+B1e3pvjyFAgI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-write-stream/-/level-write-stream-0.1.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-DvXEIthKllV1e91VcW2HjQ54QMy1vavrdQ8C5eMyEjU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-write-stream/-/level-write-stream-1.0.0.tgz"
+  }
+}

@@ -1,1 +1,32 @@
-{"0.0.0":{"narHash":"sha256-lTa/uXz0iystios+V0CYjXoyhHNSWgHwi2OK9fO7PWE=","type":"tarball","url":"https://registry.npmjs.org/pug-error/-/pug-error-0.0.0.tgz"},"1.3.0":{"narHash":"sha256-1S3O+sYKcW3tYkPMGW8M773pvcItcCQacGk9u+tTvCQ=","type":"tarball","url":"https://registry.npmjs.org/pug-error/-/pug-error-1.3.0.tgz"},"1.3.1":{"narHash":"sha256-XhEiTANfdocMKPRh7IbEZM7sxtvlq9Fc8HAjzEqGlyg=","type":"tarball","url":"https://registry.npmjs.org/pug-error/-/pug-error-1.3.1.tgz"},"1.3.2":{"narHash":"sha256-q5AarZJsbUtMcmfhEDtPu5zJHSWPmnZgbhB3CpkC278=","type":"tarball","url":"https://registry.npmjs.org/pug-error/-/pug-error-1.3.2.tgz"},"1.3.3":{"narHash":"sha256-SQ8p4x5mkQFLyDBm7VqHduaE6csx93FK5x2LtRgC+kc=","type":"tarball","url":"https://registry.npmjs.org/pug-error/-/pug-error-1.3.3.tgz"},"2.0.0":{"narHash":"sha256-pyKFUrRSAvNwMrqSvXAE/U7cgx9v7Hup7HoS3frl8L8=","type":"tarball","url":"https://registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-lTa/uXz0iystios+V0CYjXoyhHNSWgHwi2OK9fO7PWE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-error/-/pug-error-0.0.0.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-1S3O+sYKcW3tYkPMGW8M773pvcItcCQacGk9u+tTvCQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-error/-/pug-error-1.3.0.tgz"
+  },
+  "1.3.1": {
+    "narHash": "sha256-XhEiTANfdocMKPRh7IbEZM7sxtvlq9Fc8HAjzEqGlyg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-error/-/pug-error-1.3.1.tgz"
+  },
+  "1.3.2": {
+    "narHash": "sha256-q5AarZJsbUtMcmfhEDtPu5zJHSWPmnZgbhB3CpkC278=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-error/-/pug-error-1.3.2.tgz"
+  },
+  "1.3.3": {
+    "narHash": "sha256-SQ8p4x5mkQFLyDBm7VqHduaE6csx93FK5x2LtRgC+kc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-error/-/pug-error-1.3.3.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-pyKFUrRSAvNwMrqSvXAE/U7cgx9v7Hup7HoS3frl8L8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz"
+  }
+}

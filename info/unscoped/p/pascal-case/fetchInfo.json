@@ -1,1 +1,77 @@
-{"0.0.1":{"narHash":"sha256-UltGWLqerH0aYSecxLfwyFH4V41Gus43bnchQ6QP9Po=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-CL+dT4YNgTOjV2I1gq+oRhd8RD8hOViT9H88nayf1Lw=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-0.0.2.tgz"},"0.1.0":{"narHash":"sha256-yn+uZOuCGhCyC91CyrBNVBm7bGtuE8dVznbm5ACM65U=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-gLnTZVKMDs2o7JgWHGjpstW1VbxZwGmwQOwjbUMcvg0=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-0.1.1.tgz"},"1.0.0":{"narHash":"sha256-QpToj/rDDTQHLZXNqHxqRASCwNvGbkzUmQowes9gO/o=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-umqr7d0kxOe/YNWRxfsF0Dby3NEYdRhkhtwudn/PquA=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-f15ZYRfRceUNjfs0blXamgLI086yNFjxKnmm2QtCzv4=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-thCv0S6lB4VVFmYFtliLGSDKKzL4DC0WtyUBMaY5dVc=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-1.1.2.tgz"},"2.0.0":{"narHash":"sha256-Jz59mSIrUIudX9d+SUiSjLiLbWuT4+Vq3zyB8hMObLE=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-6YX6f/I9/sGsz4/pBy9hrA+vz7b/mrEugsBWY8RNmck=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-2.0.1.tgz"},"3.0.0":{"narHash":"sha256-hbFWummF8L9bLfiIvdRN5hnjdt1r2rhjeBOe3vVwdY4=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-nXFxRC9np1Fh21a0Fh1tPdYYd4oIgyaFOUtBl8gQLCQ=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-3.0.1.tgz"},"3.1.0":{"narHash":"sha256-uhSzs4M9n79l4EpBhSvkbu8xS+x/uXvngj2v2tYnsPU=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-3.1.0.tgz"},"3.1.1":{"narHash":"sha256-Wbn157d3lku0hk57Sj9I/loDwyK4y3pbMRA2JRSN+Cc=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-3.1.1.tgz"},"3.1.2":{"narHash":"sha256-IA15kwaItCGHTM9g4m+I9WIWM6/URPQEIbxobwndIuY=","type":"tarball","url":"https://registry.npmjs.org/pascal-case/-/pascal-case-3.1.2.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-UltGWLqerH0aYSecxLfwyFH4V41Gus43bnchQ6QP9Po=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-CL+dT4YNgTOjV2I1gq+oRhd8RD8hOViT9H88nayf1Lw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-0.0.2.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-yn+uZOuCGhCyC91CyrBNVBm7bGtuE8dVznbm5ACM65U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-gLnTZVKMDs2o7JgWHGjpstW1VbxZwGmwQOwjbUMcvg0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-0.1.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-QpToj/rDDTQHLZXNqHxqRASCwNvGbkzUmQowes9gO/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-umqr7d0kxOe/YNWRxfsF0Dby3NEYdRhkhtwudn/PquA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-f15ZYRfRceUNjfs0blXamgLI086yNFjxKnmm2QtCzv4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-thCv0S6lB4VVFmYFtliLGSDKKzL4DC0WtyUBMaY5dVc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-1.1.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-Jz59mSIrUIudX9d+SUiSjLiLbWuT4+Vq3zyB8hMObLE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-6YX6f/I9/sGsz4/pBy9hrA+vz7b/mrEugsBWY8RNmck=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-2.0.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-hbFWummF8L9bLfiIvdRN5hnjdt1r2rhjeBOe3vVwdY4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-nXFxRC9np1Fh21a0Fh1tPdYYd4oIgyaFOUtBl8gQLCQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-3.0.1.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-uhSzs4M9n79l4EpBhSvkbu8xS+x/uXvngj2v2tYnsPU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-3.1.0.tgz"
+  },
+  "3.1.1": {
+    "narHash": "sha256-Wbn157d3lku0hk57Sj9I/loDwyK4y3pbMRA2JRSN+Cc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-3.1.1.tgz"
+  },
+  "3.1.2": {
+    "narHash": "sha256-IA15kwaItCGHTM9g4m+I9WIWM6/URPQEIbxobwndIuY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pascal-case/-/pascal-case-3.1.2.tgz"
+  }
+}

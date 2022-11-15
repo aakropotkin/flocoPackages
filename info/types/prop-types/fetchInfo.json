@@ -1,1 +1,82 @@
-{"15.5.0":{"narHash":"sha256-Wk7e+sz/idU1/W5Y3ffj/O73M7idfNOYLAxiuEn95co=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.0.tgz"},"15.5.1":{"narHash":"sha256-onWuyzezutgrXq5jOTtAwfbNLTlPDxZ112mQbOaqi7s=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.1.tgz"},"15.5.2":{"narHash":"sha256-5bKOkETJimbAXkNzY4/K7byK9xzuYEVCRNBlF880prk=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.2.tgz"},"15.5.3":{"narHash":"sha256-PEo2W+1OU76awogLyXeALqLij5toWXUaUSiji9AT/Nk=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.3.tgz"},"15.5.4":{"narHash":"sha256-9Lf0A/qDUI6wa62qfVTB3NAopjHWuftQzhcSJAYRfIw=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.4.tgz"},"15.5.5":{"narHash":"sha256-+vXcpPQ55CWvtkQgqFxFsbz6H3cKsQew91+kQ1KRaGM=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.5.tgz"},"15.5.6":{"narHash":"sha256-r9kplX17VfvQ/uUWmrcgNAlMjLWi5AuZQWB2ZUAFRSI=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.6.tgz"},"15.5.7":{"narHash":"sha256-/hM+SVQE28oLiK3abN2xPNQWtXr1GXncdkj62EvoxAI=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.7.tgz"},"15.5.8":{"narHash":"sha256-jIPGk2Infd/XbHtUbaW2ZuE8Bqy5UWRmHoc1kC0kxqE=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.8.tgz"},"15.5.9":{"narHash":"sha256-9lshKNq1Sz5BEZD9Gt0nVVbNoOOU2oqWsmd82+wZc/o=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.9.tgz"},"15.7.0":{"narHash":"sha256-o3C42BGL12DPxoxh1f427Aa6cVJ+ypd/7VBPXm94bMg=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.0.tgz"},"15.7.1":{"narHash":"sha256-V0KHwAEJ+e1/+fGEBwPEoM7wf/cAbCC5LAZxU5DVN1U=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.1.tgz"},"15.7.2":{"narHash":"sha256-lfzztptBxcbolNl9HK8UUkucTGO17Tz70KBjJQMkgQg=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.2.tgz"},"15.7.3":{"narHash":"sha256-Y0bThzgF7RPEaa9lPOU+Ju53FnEsucEg6oSUfZd2BHM=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.3.tgz"},"15.7.4":{"narHash":"sha256-WdDXVKNPAh1C5740JOyHf2WUQMlNe38t8SsrdrGZTNg=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.4.tgz"},"15.7.5":{"narHash":"sha256-IIwBpZ3ztJ6m80W2eTuNe8LLkxICa2AL0kbAZoLyMEA=","type":"tarball","url":"https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.5.tgz"}}
+{
+  "15.5.0": {
+    "narHash": "sha256-Wk7e+sz/idU1/W5Y3ffj/O73M7idfNOYLAxiuEn95co=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.0.tgz"
+  },
+  "15.5.1": {
+    "narHash": "sha256-onWuyzezutgrXq5jOTtAwfbNLTlPDxZ112mQbOaqi7s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.1.tgz"
+  },
+  "15.5.2": {
+    "narHash": "sha256-5bKOkETJimbAXkNzY4/K7byK9xzuYEVCRNBlF880prk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.2.tgz"
+  },
+  "15.5.3": {
+    "narHash": "sha256-PEo2W+1OU76awogLyXeALqLij5toWXUaUSiji9AT/Nk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.3.tgz"
+  },
+  "15.5.4": {
+    "narHash": "sha256-9Lf0A/qDUI6wa62qfVTB3NAopjHWuftQzhcSJAYRfIw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.4.tgz"
+  },
+  "15.5.5": {
+    "narHash": "sha256-+vXcpPQ55CWvtkQgqFxFsbz6H3cKsQew91+kQ1KRaGM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.5.tgz"
+  },
+  "15.5.6": {
+    "narHash": "sha256-r9kplX17VfvQ/uUWmrcgNAlMjLWi5AuZQWB2ZUAFRSI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.6.tgz"
+  },
+  "15.5.7": {
+    "narHash": "sha256-/hM+SVQE28oLiK3abN2xPNQWtXr1GXncdkj62EvoxAI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.7.tgz"
+  },
+  "15.5.8": {
+    "narHash": "sha256-jIPGk2Infd/XbHtUbaW2ZuE8Bqy5UWRmHoc1kC0kxqE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.8.tgz"
+  },
+  "15.5.9": {
+    "narHash": "sha256-9lshKNq1Sz5BEZD9Gt0nVVbNoOOU2oqWsmd82+wZc/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.9.tgz"
+  },
+  "15.7.0": {
+    "narHash": "sha256-o3C42BGL12DPxoxh1f427Aa6cVJ+ypd/7VBPXm94bMg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.0.tgz"
+  },
+  "15.7.1": {
+    "narHash": "sha256-V0KHwAEJ+e1/+fGEBwPEoM7wf/cAbCC5LAZxU5DVN1U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.1.tgz"
+  },
+  "15.7.2": {
+    "narHash": "sha256-lfzztptBxcbolNl9HK8UUkucTGO17Tz70KBjJQMkgQg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.2.tgz"
+  },
+  "15.7.3": {
+    "narHash": "sha256-Y0bThzgF7RPEaa9lPOU+Ju53FnEsucEg6oSUfZd2BHM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.3.tgz"
+  },
+  "15.7.4": {
+    "narHash": "sha256-WdDXVKNPAh1C5740JOyHf2WUQMlNe38t8SsrdrGZTNg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.4.tgz"
+  },
+  "15.7.5": {
+    "narHash": "sha256-IIwBpZ3ztJ6m80W2eTuNe8LLkxICa2AL0kbAZoLyMEA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.5.tgz"
+  }
+}

@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-WyU0+STQyhF40FAVFusF8ZCq6OFOhTnuW5acrQLLlus=","type":"tarball","url":"https://registry.npmjs.org/widest-line/-/widest-line-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-t2nKrbQdngIqmQ/Fo41PDwKlp2diHjGJPZ6tqOgfR7s=","type":"tarball","url":"https://registry.npmjs.org/widest-line/-/widest-line-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-rr72XF7MIpIK6/UqCixESfn7OyECn07Ys9m+U76yexI=","type":"tarball","url":"https://registry.npmjs.org/widest-line/-/widest-line-2.0.1.tgz"},"3.0.0":{"narHash":"sha256-wWIrC+2xuphmQw31qLNAEyqXWGScyLegoD7KzuHFWrA=","type":"tarball","url":"https://registry.npmjs.org/widest-line/-/widest-line-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-FqsYUW94k2gE6a4TwEBgkQ92f1esSnEmNNSyFMIunLQ=","type":"tarball","url":"https://registry.npmjs.org/widest-line/-/widest-line-3.1.0.tgz"},"4.0.0":{"narHash":"sha256-hU6SutDQ+PINh3CkmSOCLLkfUR+wtYz7TVWsaCeOqvo=","type":"tarball","url":"https://registry.npmjs.org/widest-line/-/widest-line-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-PMMx+aS4bRTwUQ2eqtWSs2IhtaKWUXqin3UJdB2S4qE=","type":"tarball","url":"https://registry.npmjs.org/widest-line/-/widest-line-4.0.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-WyU0+STQyhF40FAVFusF8ZCq6OFOhTnuW5acrQLLlus=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/widest-line/-/widest-line-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-t2nKrbQdngIqmQ/Fo41PDwKlp2diHjGJPZ6tqOgfR7s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/widest-line/-/widest-line-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-rr72XF7MIpIK6/UqCixESfn7OyECn07Ys9m+U76yexI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/widest-line/-/widest-line-2.0.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-wWIrC+2xuphmQw31qLNAEyqXWGScyLegoD7KzuHFWrA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/widest-line/-/widest-line-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-FqsYUW94k2gE6a4TwEBgkQ92f1esSnEmNNSyFMIunLQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/widest-line/-/widest-line-3.1.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-hU6SutDQ+PINh3CkmSOCLLkfUR+wtYz7TVWsaCeOqvo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/widest-line/-/widest-line-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-PMMx+aS4bRTwUQ2eqtWSs2IhtaKWUXqin3UJdB2S4qE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/widest-line/-/widest-line-4.0.1.tgz"
+  }
+}

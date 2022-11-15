@@ -1,1 +1,22 @@
-{"0.1.0":{"narHash":"sha256-AddCmg6qwUh5+8L6mr5HoozSGnvNeLN+ciOKmlRBi88=","type":"tarball","url":"https://registry.npmjs.org/lazystream/-/lazystream-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-R84gdsP9bjItxWLc3zplAIWsvnotmh/aP84hCfvEfOw=","type":"tarball","url":"https://registry.npmjs.org/lazystream/-/lazystream-0.2.0.tgz"},"1.0.0":{"narHash":"sha256-SkpRHesrZBvhXi4FPU2bry64YPT+iSxCDttG4lzqAsk=","type":"tarball","url":"https://registry.npmjs.org/lazystream/-/lazystream-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-BX4MD2CZmIKQEWmsVkjfPXV8YZYFA2Q98TnfDPJLvjc=","type":"tarball","url":"https://registry.npmjs.org/lazystream/-/lazystream-1.0.1.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-AddCmg6qwUh5+8L6mr5HoozSGnvNeLN+ciOKmlRBi88=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lazystream/-/lazystream-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-R84gdsP9bjItxWLc3zplAIWsvnotmh/aP84hCfvEfOw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lazystream/-/lazystream-0.2.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-SkpRHesrZBvhXi4FPU2bry64YPT+iSxCDttG4lzqAsk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lazystream/-/lazystream-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-BX4MD2CZmIKQEWmsVkjfPXV8YZYFA2Q98TnfDPJLvjc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lazystream/-/lazystream-1.0.1.tgz"
+  }
+}

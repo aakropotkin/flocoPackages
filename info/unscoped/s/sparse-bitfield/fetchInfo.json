@@ -1,1 +1,52 @@
-{"1.0.0":{"narHash":"sha256-V6yNhngt6ennUtXaGvQhB0jBOfMQz/EKjYfMlfe8WJs=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-WnB+F7dyPAD2DGP9MySiL/WRZMOTLSBtPctt3/1kK1A=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-WxNVmIa7cPaujxxHdPf+0VxDI/DcYjzpVdHgmkO7rbU=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-YkMtBoP/+gXBXI4J0/yR77oUwvzY/WYSgZdJ2bAGdzs=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.0.2.tgz"},"2.1.0":{"narHash":"sha256-1aH5G43sNw9zytN726pKBZPdbgXde1rHnEJFMrkosnc=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.1.0.tgz"},"2.2.0":{"narHash":"sha256-gwLHQErPgV5e98+Plik1Z56LRCpDwW6O1f/E0sjavDE=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.2.0.tgz"},"3.0.0":{"narHash":"sha256-1URdc1zha9MX8XM5m/GgcbKNknGPVG5Jw/zh2eky5hs=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-yvoXp2bO/RfT9tGF2NuIQrqW8gXXJ6qGuJ2gWV+PJyA=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-6S4ISAKvAKb9Svfn07/+jaYoxv8aihxGSxW+9YEfQ0Y=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.2.tgz"},"3.0.3":{"narHash":"sha256-79PBhttHapQGS2wPOgrmuKa5LcXYnq8ri83oiP1lhm8=","type":"tarball","url":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.3.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-V6yNhngt6ennUtXaGvQhB0jBOfMQz/EKjYfMlfe8WJs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-WnB+F7dyPAD2DGP9MySiL/WRZMOTLSBtPctt3/1kK1A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-WxNVmIa7cPaujxxHdPf+0VxDI/DcYjzpVdHgmkO7rbU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-YkMtBoP/+gXBXI4J0/yR77oUwvzY/WYSgZdJ2bAGdzs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.0.2.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-1aH5G43sNw9zytN726pKBZPdbgXde1rHnEJFMrkosnc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.1.0.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-gwLHQErPgV5e98+Plik1Z56LRCpDwW6O1f/E0sjavDE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-2.2.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-1URdc1zha9MX8XM5m/GgcbKNknGPVG5Jw/zh2eky5hs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-yvoXp2bO/RfT9tGF2NuIQrqW8gXXJ6qGuJ2gWV+PJyA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-6S4ISAKvAKb9Svfn07/+jaYoxv8aihxGSxW+9YEfQ0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.2.tgz"
+  },
+  "3.0.3": {
+    "narHash": "sha256-79PBhttHapQGS2wPOgrmuKa5LcXYnq8ri83oiP1lhm8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.3.tgz"
+  }
+}

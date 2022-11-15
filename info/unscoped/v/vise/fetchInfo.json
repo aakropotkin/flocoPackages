@@ -1,1 +1,42 @@
-{"0.0.0":{"narHash":"sha256-r5m7IoifZ0V+OLTR+4D0pfLckmlM/lJZ31ylr5d1GUc=","type":"tarball","url":"https://registry.npmjs.org/vise/-/vise-0.0.0.tgz"},"1.0.0":{"narHash":"sha256-iFEo0EoZY7KerAQcOonEWG41B2DwER0OKg2KLdeS6ls=","type":"tarball","url":"https://registry.npmjs.org/vise/-/vise-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-8nv2tV4GoLomnfiLkF3Fp5ljla6jbRGICL20gV2tUdg=","type":"tarball","url":"https://registry.npmjs.org/vise/-/vise-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-qPI6rAO/AYaEju5ElF8H7trg91kkSRZf/25qS96e9VE=","type":"tarball","url":"https://registry.npmjs.org/vise/-/vise-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-sKFTI1AYJdM50caLZp9Lg3VnaRkQ8JNRdUF325uGsMs=","type":"tarball","url":"https://registry.npmjs.org/vise/-/vise-2.0.2.tgz"},"3.0.0":{"narHash":"sha256-xBTkVQ2SgLzQ9bZywYDyKVTgeqxujDJpOQ8j5PmZk5s=","type":"tarball","url":"https://registry.npmjs.org/vise/-/vise-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-2LORlT1WoC8IsE8Dx2q382Gdq8n6ivKjiTJTbDHZ3yQ=","type":"tarball","url":"https://registry.npmjs.org/vise/-/vise-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-IbSovBxBQm4E2qqNyjrdJWBUPgUxf3msVw17bu2N55c=","type":"tarball","url":"https://registry.npmjs.org/vise/-/vise-3.0.2.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-r5m7IoifZ0V+OLTR+4D0pfLckmlM/lJZ31ylr5d1GUc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vise/-/vise-0.0.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-iFEo0EoZY7KerAQcOonEWG41B2DwER0OKg2KLdeS6ls=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vise/-/vise-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-8nv2tV4GoLomnfiLkF3Fp5ljla6jbRGICL20gV2tUdg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vise/-/vise-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-qPI6rAO/AYaEju5ElF8H7trg91kkSRZf/25qS96e9VE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vise/-/vise-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-sKFTI1AYJdM50caLZp9Lg3VnaRkQ8JNRdUF325uGsMs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vise/-/vise-2.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-xBTkVQ2SgLzQ9bZywYDyKVTgeqxujDJpOQ8j5PmZk5s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vise/-/vise-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-2LORlT1WoC8IsE8Dx2q382Gdq8n6ivKjiTJTbDHZ3yQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vise/-/vise-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-IbSovBxBQm4E2qqNyjrdJWBUPgUxf3msVw17bu2N55c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/vise/-/vise-3.0.2.tgz"
+  }
+}

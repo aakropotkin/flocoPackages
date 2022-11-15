@@ -1,1 +1,32 @@
-{"2.0.0":{"narHash":"sha256-OYinY8CNLwiLiOy+AKWq6qGGkyP0MRlB8QCMEzj+M4Q=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-F9xlIa40lt7SAHSHrcg8iwT7IOiYYzwkuK87E6DVzrU=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-HD+3GpWzSmIN1uId7KHmQabqTf8DK9DJk4tZFaoW1cg=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-3.0.1.tgz"},"4.0.0":{"narHash":"sha256-dnNaBJjy3oWLrVgLLjsY3MPdRC333YO4kkaQ50cZ/U0=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-MNbvjxTV10OoESWKfon6pevVU2wYKZllGbqjuzsURr0=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-HEYylQHx/tX8v/lgwl2T7P8Lj7lYQN9zw3fDUIFSt8A=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-4.0.2.tgz"}}
+{
+  "2.0.0": {
+    "narHash": "sha256-OYinY8CNLwiLiOy+AKWq6qGGkyP0MRlB8QCMEzj+M4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-F9xlIa40lt7SAHSHrcg8iwT7IOiYYzwkuK87E6DVzrU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-HD+3GpWzSmIN1uId7KHmQabqTf8DK9DJk4tZFaoW1cg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-3.0.1.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-dnNaBJjy3oWLrVgLLjsY3MPdRC333YO4kkaQ50cZ/U0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-MNbvjxTV10OoESWKfon6pevVU2wYKZllGbqjuzsURr0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-HEYylQHx/tX8v/lgwl2T7P8Lj7lYQN9zw3fDUIFSt8A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-4.0.2.tgz"
+  }
+}

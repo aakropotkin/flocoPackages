@@ -1,1 +1,67 @@
-{"0.0.1":{"narHash":"sha256-D1jhDb6tV5f5rS1TgC6VGW1TKwCPq7Jp+ChRy4ZB0Lw=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-gcoCITMVssb4cbUTEdWRBTfpltEgpbbCW0D8kwYZdJE=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-0.0.2.tgz"},"0.0.3":{"narHash":"sha256-Nd9iIajsuC5orxe75zMbKT1G0iaeBVnQ5QEOlsYxtmA=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-0.0.3.tgz"},"0.0.4":{"narHash":"sha256-1oPjG3UCKEy1h+m9UvCT1SlUhQbrowDR0pXHwfSDV24=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-0.0.4.tgz"},"1.0.0":{"narHash":"sha256-7JIPs1GJzo2jXNvJddKsxx/onVC8imaiAeR+7EJQVaQ=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-70cRdkMY0U3n6XTLJl9ci88ak6xR9ImOKk/hkOvH9eA=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-V687BF5INcqgsoqYl7JJnEG9Kajgi+5E+glqXKf/ot8=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-us9eGhbuu39aFCnAyZi8FSCkyhNTDJ3ZzkYBsnB3O8Y=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-5aH11jtDr6o2e/SNBC21TUYoqIqY8jfUnyrPdtQSI3U=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-oEMPxXuuhxP8u65JH0t/8V3ndjrh9aS+wMSPtvRQJx4=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-2.0.2.tgz"},"3.0.0":{"narHash":"sha256-zuMflP7L4oHkEvk3hCVwBLeWTWPZRY0XGvKEGdG3YNg=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-yrKGZM6Ic+hnBb3FnzyRDOgducXgni4cQ8gjx3RXYug=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-3.0.1.tgz"},"4.0.0":{"narHash":"sha256-mle1K3YKcXf4qFMcFEp5SaBjFUjy5jgP/WxlOdfMz/Q=","type":"tarball","url":"https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-4.0.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-D1jhDb6tV5f5rS1TgC6VGW1TKwCPq7Jp+ChRy4ZB0Lw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-gcoCITMVssb4cbUTEdWRBTfpltEgpbbCW0D8kwYZdJE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-0.0.2.tgz"
+  },
+  "0.0.3": {
+    "narHash": "sha256-Nd9iIajsuC5orxe75zMbKT1G0iaeBVnQ5QEOlsYxtmA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-0.0.3.tgz"
+  },
+  "0.0.4": {
+    "narHash": "sha256-1oPjG3UCKEy1h+m9UvCT1SlUhQbrowDR0pXHwfSDV24=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-0.0.4.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-7JIPs1GJzo2jXNvJddKsxx/onVC8imaiAeR+7EJQVaQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-70cRdkMY0U3n6XTLJl9ci88ak6xR9ImOKk/hkOvH9eA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-V687BF5INcqgsoqYl7JJnEG9Kajgi+5E+glqXKf/ot8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-us9eGhbuu39aFCnAyZi8FSCkyhNTDJ3ZzkYBsnB3O8Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-5aH11jtDr6o2e/SNBC21TUYoqIqY8jfUnyrPdtQSI3U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-oEMPxXuuhxP8u65JH0t/8V3ndjrh9aS+wMSPtvRQJx4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-2.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-zuMflP7L4oHkEvk3hCVwBLeWTWPZRY0XGvKEGdG3YNg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-yrKGZM6Ic+hnBb3FnzyRDOgducXgni4cQ8gjx3RXYug=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-3.0.1.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-mle1K3YKcXf4qFMcFEp5SaBjFUjy5jgP/WxlOdfMz/Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-4.0.0.tgz"
+  }
+}

@@ -1,1 +1,57 @@
-{"7.1.4":{"narHash":"sha256-mcGwcsVZBm64ipEcn0cNSpeWTUdHELHWuxXR94VHW04=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-7.1.4.tgz"},"8.0.0":{"narHash":"sha256-IJMlhBMqvuUst9vJGFx5IZLt/qnAyIBIpZnWs2JF31g=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-8.0.0.tgz"},"9.0.0":{"narHash":"sha256-dqYBYOGLx8BH1KZur+g1PxqncBFMztPi2SVYrpnSA5A=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.0.tgz"},"9.0.1":{"narHash":"sha256-apkO50LwPhfittkkRSeF7Qx4KxOL2t4ZdRbCedPICSE=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.1.tgz"},"9.0.2":{"narHash":"sha256-gfK0mGiu68FSsKEYUWAkFUs4AlX24UbYyBWqOQw/zDU=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.2.tgz"},"9.0.3":{"narHash":"sha256-Jw7rvkOsca0yXWPRFwIeHeaUwB3MwFCTNZhkZUNfb0I=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.3.tgz"},"9.0.5":{"narHash":"sha256-afXqoL8gsSpSJJf6ioryfF77M2cp/gvT+HnVsx4y/jY=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.5.tgz"},"9.0.6":{"narHash":"sha256-DL2JBWzbR6j+azOZUhZVfQFMLaQn/U36L9Sqrm1wWuY=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.6.tgz"},"9.0.7":{"narHash":"sha256-19sE1OUGaV864haL4Rfatrnsq0UZSiFSsjfnPbMZbsM=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.7.tgz"},"9.0.8":{"narHash":"sha256-7CQrbKw587vA0XpAAvxh0OmLlKDDvHSTndoau4H/00I=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.8.tgz"},"9.0.9":{"narHash":"sha256-AxTMBOXpEQICuVn6YmXEKQQEF+iBz2cHBL/vC/sWWu0=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.9.tgz"}}
+{
+  "7.1.4": {
+    "narHash": "sha256-mcGwcsVZBm64ipEcn0cNSpeWTUdHELHWuxXR94VHW04=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-7.1.4.tgz"
+  },
+  "8.0.0": {
+    "narHash": "sha256-IJMlhBMqvuUst9vJGFx5IZLt/qnAyIBIpZnWs2JF31g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-8.0.0.tgz"
+  },
+  "9.0.0": {
+    "narHash": "sha256-dqYBYOGLx8BH1KZur+g1PxqncBFMztPi2SVYrpnSA5A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.0.tgz"
+  },
+  "9.0.1": {
+    "narHash": "sha256-apkO50LwPhfittkkRSeF7Qx4KxOL2t4ZdRbCedPICSE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.1.tgz"
+  },
+  "9.0.2": {
+    "narHash": "sha256-gfK0mGiu68FSsKEYUWAkFUs4AlX24UbYyBWqOQw/zDU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.2.tgz"
+  },
+  "9.0.3": {
+    "narHash": "sha256-Jw7rvkOsca0yXWPRFwIeHeaUwB3MwFCTNZhkZUNfb0I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.3.tgz"
+  },
+  "9.0.5": {
+    "narHash": "sha256-afXqoL8gsSpSJJf6ioryfF77M2cp/gvT+HnVsx4y/jY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.5.tgz"
+  },
+  "9.0.6": {
+    "narHash": "sha256-DL2JBWzbR6j+azOZUhZVfQFMLaQn/U36L9Sqrm1wWuY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.6.tgz"
+  },
+  "9.0.7": {
+    "narHash": "sha256-19sE1OUGaV864haL4Rfatrnsq0UZSiFSsjfnPbMZbsM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.7.tgz"
+  },
+  "9.0.8": {
+    "narHash": "sha256-7CQrbKw587vA0XpAAvxh0OmLlKDDvHSTndoau4H/00I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.8.tgz"
+  },
+  "9.0.9": {
+    "narHash": "sha256-AxTMBOXpEQICuVn6YmXEKQQEF+iBz2cHBL/vC/sWWu0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser/-/json-schema-ref-parser-9.0.9.tgz"
+  }
+}

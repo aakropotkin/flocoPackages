@@ -1,1 +1,102 @@
-{"1.0.0":{"narHash":"sha256-BoSTqV9DO7qKaL8h+r1AbxSEueUgnfw9Er14w0iMpLY=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-12Go3kKEiDg61y1bDQTlEn241ZVzfeI/JBZEwBRPErQ=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-THIl9Ytxt2S6NYt9ehtHNaJCYYra+048yd/6BK0eZ/o=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-1r7r/MHECd7HxZHkle37oXcS0ZyPvHhOxmI5b/dwtXA=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-HSTVZQD6uChnvMXDAbOAQDfxyqi86v5n8Fbc6jWiJu4=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-ab1cSUA+1IBmR5fU3c3ryDS4t8gYDkKwkArCSThavq4=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.1.2.tgz"},"2.0.0":{"narHash":"sha256-zwv3FsfO1FgnrBXthCR2M+KVVOmZYdcWqLaWUAtHsxk=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-3cBBDiMziu4q7mVDi2Z/OubfrYhZvPfce8+ekQKOWPM=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.1.0.tgz"},"2.2.0":{"narHash":"sha256-41LlLi4m/hWSK96uqghOqZD3SNA0qVmEiwqXhf+frWU=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.2.0.tgz"},"2.3.0":{"narHash":"sha256-45PzhTzFEVTq3LjeOUBqjuaQ/JZsFK5YK4rtGtOtxHM=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.3.0.tgz"},"2.3.1":{"narHash":"sha256-ZPYNcXSUm0V6W+DhwN/YhY9k/06jcxYEqTW4cMdj+eU=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.3.1.tgz"},"2.3.2":{"narHash":"sha256-P328VWrDxR6pCKMftMDzx7xVs50smo/KqJR1r4Act8s=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.3.2.tgz"},"2.4.0":{"narHash":"sha256-GkU0i5SQGxhNst2orJUm0JpBCbStKgR1t+o/8qMnHqg=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.4.0.tgz"},"2.4.1":{"narHash":"sha256-nqkMfMwDU6FeKt7WlvnPqcw2pWQVWnX/i7g/jJPKFy0=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.4.1.tgz"},"2.4.2":{"narHash":"sha256-acOnKKbdmw+sb32JNGc1YAg1Q7KuJC5WZqL9nAbp7s8=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.4.2.tgz"},"2.5.0":{"narHash":"sha256-gwMIMaQ4hwnciO/mbhWKM9/lnB6IkcXFTPbHuX6r0ZE=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.0.tgz"},"2.5.1":{"narHash":"sha256-PeEEDlmoxSr8t+b7GE8lOPPL1jc1HAZKcqmB9ZuKqDc=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.1.tgz"},"2.5.2":{"narHash":"sha256-n5KVlmATI4Ni5GlC6y7hu9vCxD4nnkZnHn72B/k2yRQ=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.2.tgz"},"2.5.3":{"narHash":"sha256-9bhBBih5QVAuwzcDO9PwZ9FRwDtWAQ8/aypRFh8HUHE=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.3.tgz"},"2.5.4":{"narHash":"sha256-B9vRPiHVLssV+sf5PedjSAr9V6Kkt07VVZSbCUg7nYA=","type":"tarball","url":"https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.4.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-BoSTqV9DO7qKaL8h+r1AbxSEueUgnfw9Er14w0iMpLY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-12Go3kKEiDg61y1bDQTlEn241ZVzfeI/JBZEwBRPErQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-THIl9Ytxt2S6NYt9ehtHNaJCYYra+048yd/6BK0eZ/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-1r7r/MHECd7HxZHkle37oXcS0ZyPvHhOxmI5b/dwtXA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-HSTVZQD6uChnvMXDAbOAQDfxyqi86v5n8Fbc6jWiJu4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-ab1cSUA+1IBmR5fU3c3ryDS4t8gYDkKwkArCSThavq4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-1.1.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-zwv3FsfO1FgnrBXthCR2M+KVVOmZYdcWqLaWUAtHsxk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-3cBBDiMziu4q7mVDi2Z/OubfrYhZvPfce8+ekQKOWPM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.1.0.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-41LlLi4m/hWSK96uqghOqZD3SNA0qVmEiwqXhf+frWU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.2.0.tgz"
+  },
+  "2.3.0": {
+    "narHash": "sha256-45PzhTzFEVTq3LjeOUBqjuaQ/JZsFK5YK4rtGtOtxHM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.3.0.tgz"
+  },
+  "2.3.1": {
+    "narHash": "sha256-ZPYNcXSUm0V6W+DhwN/YhY9k/06jcxYEqTW4cMdj+eU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.3.1.tgz"
+  },
+  "2.3.2": {
+    "narHash": "sha256-P328VWrDxR6pCKMftMDzx7xVs50smo/KqJR1r4Act8s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.3.2.tgz"
+  },
+  "2.4.0": {
+    "narHash": "sha256-GkU0i5SQGxhNst2orJUm0JpBCbStKgR1t+o/8qMnHqg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.4.0.tgz"
+  },
+  "2.4.1": {
+    "narHash": "sha256-nqkMfMwDU6FeKt7WlvnPqcw2pWQVWnX/i7g/jJPKFy0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.4.1.tgz"
+  },
+  "2.4.2": {
+    "narHash": "sha256-acOnKKbdmw+sb32JNGc1YAg1Q7KuJC5WZqL9nAbp7s8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.4.2.tgz"
+  },
+  "2.5.0": {
+    "narHash": "sha256-gwMIMaQ4hwnciO/mbhWKM9/lnB6IkcXFTPbHuX6r0ZE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.0.tgz"
+  },
+  "2.5.1": {
+    "narHash": "sha256-PeEEDlmoxSr8t+b7GE8lOPPL1jc1HAZKcqmB9ZuKqDc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.1.tgz"
+  },
+  "2.5.2": {
+    "narHash": "sha256-n5KVlmATI4Ni5GlC6y7hu9vCxD4nnkZnHn72B/k2yRQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.2.tgz"
+  },
+  "2.5.3": {
+    "narHash": "sha256-9bhBBih5QVAuwzcDO9PwZ9FRwDtWAQ8/aypRFh8HUHE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.3.tgz"
+  },
+  "2.5.4": {
+    "narHash": "sha256-B9vRPiHVLssV+sf5PedjSAr9V6Kkt07VVZSbCUg7nYA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/mongodb-connection-string-url/-/mongodb-connection-string-url-2.5.4.tgz"
+  }
+}

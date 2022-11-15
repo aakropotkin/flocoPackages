@@ -1,1 +1,57 @@
-{"1.0.0":{"narHash":"sha256-cpCO1M7YuvK1SjskERJKRAVtKL9HB7edtEsdp+N/BSc=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-BLmVofmcXNDbxJXf9fZyMFRRXR2ULGXqAFGTuN4QKoU=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-jXncUh48q/suzpsY0iBb4QC5VHyvemtCafjWF2drhP0=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-NP+UW20oircjD8un8JKj6ivaXchc5RZJiG0BKn2yCe0=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-1.1.2.tgz"},"2.0.0":{"narHash":"sha256-80KSjKJ1tXElnAAYcvwE8X39LlBaqbY/3T0k3phJVYU=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-vnLn5nebVykIn85pzHIy9OiOkhpiTB8hdTlVHBhrCbU=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-2.1.0.tgz"},"3.0.1":{"narHash":"sha256-hRfOxniEArWDjt9OHZdD6Kfvwp4dkBK5zmOEL/kYlV4=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-C/443EsK64KP5ScTOPSb0MlTCQblH7WKDr/5EDrjcz0=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-3.0.2.tgz"},"3.0.3":{"narHash":"sha256-NRixESaUaWi1N2lk2qV1x82Rd5ML+GP3yME/S4e0Cds=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-3.0.3.tgz"},"3.1.0":{"narHash":"sha256-zjg7zrwrceq1Wkz6MGai5v/li1+CBAarO6veVWQ63iY=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-3.1.0.tgz"},"3.2.0":{"narHash":"sha256-dKyNkyf/R80kaqWIMAkeqdeeUteb96KUsecvJm3bQbo=","type":"tarball","url":"https://registry.npmjs.org/teamwork/-/teamwork-3.2.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-cpCO1M7YuvK1SjskERJKRAVtKL9HB7edtEsdp+N/BSc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-BLmVofmcXNDbxJXf9fZyMFRRXR2ULGXqAFGTuN4QKoU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-jXncUh48q/suzpsY0iBb4QC5VHyvemtCafjWF2drhP0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-NP+UW20oircjD8un8JKj6ivaXchc5RZJiG0BKn2yCe0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-1.1.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-80KSjKJ1tXElnAAYcvwE8X39LlBaqbY/3T0k3phJVYU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-vnLn5nebVykIn85pzHIy9OiOkhpiTB8hdTlVHBhrCbU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-2.1.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-hRfOxniEArWDjt9OHZdD6Kfvwp4dkBK5zmOEL/kYlV4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-C/443EsK64KP5ScTOPSb0MlTCQblH7WKDr/5EDrjcz0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-3.0.2.tgz"
+  },
+  "3.0.3": {
+    "narHash": "sha256-NRixESaUaWi1N2lk2qV1x82Rd5ML+GP3yME/S4e0Cds=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-3.0.3.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-zjg7zrwrceq1Wkz6MGai5v/li1+CBAarO6veVWQ63iY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-3.1.0.tgz"
+  },
+  "3.2.0": {
+    "narHash": "sha256-dKyNkyf/R80kaqWIMAkeqdeeUteb96KUsecvJm3bQbo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/teamwork/-/teamwork-3.2.0.tgz"
+  }
+}

@@ -1,1 +1,57 @@
-{"6.0.14":{"narHash":"sha256-of5JwseE4ciony6+iom8Nbp7C6xv+1FA/U37lSC6Bh8=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-xJiJGw54tscySE9Md4PF0R2UYLyBd5V++EM6e/CLAnI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.0.2.tgz"},"6.1.17":{"narHash":"sha256-BVFaeN21/4r+dEu7TBO0MPp5puC4DtRIq8mOiORuaTU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-kuXvrI0TRRMllmvxl593h6dxF6AH7IHP3k39TXmJdeg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-fmOPZKXKFC53rwTYeZuY7UAGHxxhN38+2RzK0QgZmqo=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.1.4.tgz"},"6.2.4":{"narHash":"sha256-e9Yv4bkQ8zmAxSTQjuUDy1ESQzrCeozkgOh18T7vSo8=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.2.4.tgz"},"6.22.0":{"narHash":"sha256-gSrL1+PS8Z/7MBKjpURDVDfJqYnkQQ8RyVxDKaWhQEU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.22.0.tgz"},"6.24.1":{"narHash":"sha256-aRYOzNxlSKUYjvPVwJfG6mKPfCkADXdiM5uAtBpc4OA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.24.1.tgz"},"6.3.13":{"narHash":"sha256-Kx/8/i12FZjmRQ/kv0kNdakgkCke+FYwtch2JhDXzqg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.3.13.tgz"},"6.5.0":{"narHash":"sha256-L/is7K6dr6T9FkUTsNmFv91SRidShMUVSdOFMbEK6eU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.5.0.tgz"},"6.8.0":{"narHash":"sha256-Mgzq66n8erkd/A/REWdFk8v1r0AlPJEPWd5CHpJplog=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-of5JwseE4ciony6+iom8Nbp7C6xv+1FA/U37lSC6Bh8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-xJiJGw54tscySE9Md4PF0R2UYLyBd5V++EM6e/CLAnI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.0.2.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-BVFaeN21/4r+dEu7TBO0MPp5puC4DtRIq8mOiORuaTU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-kuXvrI0TRRMllmvxl593h6dxF6AH7IHP3k39TXmJdeg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-fmOPZKXKFC53rwTYeZuY7UAGHxxhN38+2RzK0QgZmqo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.1.4.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-e9Yv4bkQ8zmAxSTQjuUDy1ESQzrCeozkgOh18T7vSo8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.2.4.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-gSrL1+PS8Z/7MBKjpURDVDfJqYnkQQ8RyVxDKaWhQEU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.22.0.tgz"
+  },
+  "6.24.1": {
+    "narHash": "sha256-aRYOzNxlSKUYjvPVwJfG6mKPfCkADXdiM5uAtBpc4OA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.24.1.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-Kx/8/i12FZjmRQ/kv0kNdakgkCke+FYwtch2JhDXzqg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.3.13.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-L/is7K6dr6T9FkUTsNmFv91SRidShMUVSdOFMbEK6eU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.5.0.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-Mgzq66n8erkd/A/REWdFk8v1r0AlPJEPWd5CHpJplog=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-exponentiation-operator/-/babel-plugin-transform-exponentiation-operator-6.8.0.tgz"
+  }
+}

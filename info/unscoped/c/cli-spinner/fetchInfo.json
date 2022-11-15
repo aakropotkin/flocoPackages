@@ -1,1 +1,72 @@
-{"0.1.2":{"narHash":"sha256-IdzQZkSWXlc8ipb2sIYaosBFzdkV8QjP5qptrBOveKo=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.1.2.tgz"},"0.1.4":{"narHash":"sha256-pi3Bu1hJ0GkCsH8RjoD0xKt5CiakFNP8P7yZG02bhTk=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.1.4.tgz"},"0.1.5":{"narHash":"sha256-tgm1VHfArTK2Pl8n97byiLgAnfRqRF4uLwE0P+szyj4=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.1.5.tgz"},"0.1.6":{"narHash":"sha256-SS4zbM0GXjvKKGQ6rsPBi/KwxMFy66R9jtdMW376gz8=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.1.6.tgz"},"0.2.0":{"narHash":"sha256-KPir5JNaXUFMBDud/D2xQ/1WhLKGGlB0AdI6YvsEY84=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-C64OSmJOWk/2PT4PCozWiy7DQneVe78Dxog78iSvqoM=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.1.tgz"},"0.2.10":{"narHash":"sha256-sXamUkl7MsMybfubO961wF27n2XSGO+WijE9uagWtvg=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.10.tgz"},"0.2.2":{"narHash":"sha256-JryD/IgmworQeQBc0vDDSRuqqToSmivLrzfeDtjVEiA=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.2.tgz"},"0.2.3":{"narHash":"sha256-fDFXKcacCZNkiFX8Dv9m3wIRgTEKht/KNrLNddyH0A8=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.3.tgz"},"0.2.4":{"narHash":"sha256-imMBnpYNaXJQlE3UdDrPdGKzyR2Xctmq7DEToB1Rnx4=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.4.tgz"},"0.2.5":{"narHash":"sha256-nTJnvw3I6jwyUi/bYWMqxVcghSD6Ekk9PCTOaBU8TYQ=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.5.tgz"},"0.2.6":{"narHash":"sha256-UO/leES/KhvwY460hXXZHxf3Pr1AlM38umPIWwp7FdA=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.6.tgz"},"0.2.7":{"narHash":"sha256-ksJwOhfmnE+v4pZsElzlvkr76MC9OI7zgkhTN8rhS8w=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.7.tgz"},"0.2.8":{"narHash":"sha256-ZrDy44h+DgPXpVB0e4R18JLMX5zEY7b5CJZbvHTci7Q=","type":"tarball","url":"https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.8.tgz"}}
+{
+  "0.1.2": {
+    "narHash": "sha256-IdzQZkSWXlc8ipb2sIYaosBFzdkV8QjP5qptrBOveKo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.1.2.tgz"
+  },
+  "0.1.4": {
+    "narHash": "sha256-pi3Bu1hJ0GkCsH8RjoD0xKt5CiakFNP8P7yZG02bhTk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.1.4.tgz"
+  },
+  "0.1.5": {
+    "narHash": "sha256-tgm1VHfArTK2Pl8n97byiLgAnfRqRF4uLwE0P+szyj4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.1.5.tgz"
+  },
+  "0.1.6": {
+    "narHash": "sha256-SS4zbM0GXjvKKGQ6rsPBi/KwxMFy66R9jtdMW376gz8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.1.6.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-KPir5JNaXUFMBDud/D2xQ/1WhLKGGlB0AdI6YvsEY84=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-C64OSmJOWk/2PT4PCozWiy7DQneVe78Dxog78iSvqoM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.1.tgz"
+  },
+  "0.2.10": {
+    "narHash": "sha256-sXamUkl7MsMybfubO961wF27n2XSGO+WijE9uagWtvg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.10.tgz"
+  },
+  "0.2.2": {
+    "narHash": "sha256-JryD/IgmworQeQBc0vDDSRuqqToSmivLrzfeDtjVEiA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.2.tgz"
+  },
+  "0.2.3": {
+    "narHash": "sha256-fDFXKcacCZNkiFX8Dv9m3wIRgTEKht/KNrLNddyH0A8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.3.tgz"
+  },
+  "0.2.4": {
+    "narHash": "sha256-imMBnpYNaXJQlE3UdDrPdGKzyR2Xctmq7DEToB1Rnx4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.4.tgz"
+  },
+  "0.2.5": {
+    "narHash": "sha256-nTJnvw3I6jwyUi/bYWMqxVcghSD6Ekk9PCTOaBU8TYQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.5.tgz"
+  },
+  "0.2.6": {
+    "narHash": "sha256-UO/leES/KhvwY460hXXZHxf3Pr1AlM38umPIWwp7FdA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.6.tgz"
+  },
+  "0.2.7": {
+    "narHash": "sha256-ksJwOhfmnE+v4pZsElzlvkr76MC9OI7zgkhTN8rhS8w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.7.tgz"
+  },
+  "0.2.8": {
+    "narHash": "sha256-ZrDy44h+DgPXpVB0e4R18JLMX5zEY7b5CJZbvHTci7Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cli-spinner/-/cli-spinner-0.2.8.tgz"
+  }
+}

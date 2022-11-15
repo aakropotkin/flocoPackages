@@ -1,1 +1,17 @@
-{"1.0.0":{"narHash":"sha256-n6aiuCgxvKqRHV+UL/dbd+SHCEGcTKeov3pRz7V5XDk=","type":"tarball","url":"https://registry.npmjs.org/merge-trees/-/merge-trees-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-pB7azJ+J9E1FvZw0rq5hH7UFNNHpRDWohC4YqY0CVSY=","type":"tarball","url":"https://registry.npmjs.org/merge-trees/-/merge-trees-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-CbmTg+BaSddMbY5s021iqFnbmJEZTRC3iT1X+xfrjUg=","type":"tarball","url":"https://registry.npmjs.org/merge-trees/-/merge-trees-2.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-n6aiuCgxvKqRHV+UL/dbd+SHCEGcTKeov3pRz7V5XDk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/merge-trees/-/merge-trees-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-pB7azJ+J9E1FvZw0rq5hH7UFNNHpRDWohC4YqY0CVSY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/merge-trees/-/merge-trees-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-CbmTg+BaSddMbY5s021iqFnbmJEZTRC3iT1X+xfrjUg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/merge-trees/-/merge-trees-2.0.0.tgz"
+  }
+}

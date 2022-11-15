@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-4j2cV9L/x94AyXI3bt69Xkt2HSRFnR4Q1hUC/iSlx4E=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/path/-/path-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-yFhLL6cP/ECefbDthbCt0IYxnwoqWZq4S1YPH8p5OOw=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/path/-/path-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-+L41aBcjbNSMG4/9QrA6/cF22zmeBXv+uxxWgFaxMhE=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/path/-/path-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-1q5APWChfcyWpnD8d5tOx7ygT984Ufjw1LM7zfVKff4=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/path/-/path-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-Z+Kv62lre0+IrfHzP/qSPb/1vePHw6szzOqBVMQF88s=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/path/-/path-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-rHImxEkFwyZp8c3VPSfqplm6oJawB1SdPHpALEYwWKE=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/path/-/path-1.1.2.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-4j2cV9L/x94AyXI3bt69Xkt2HSRFnR4Q1hUC/iSlx4E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/path/-/path-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-yFhLL6cP/ECefbDthbCt0IYxnwoqWZq4S1YPH8p5OOw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/path/-/path-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-+L41aBcjbNSMG4/9QrA6/cF22zmeBXv+uxxWgFaxMhE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/path/-/path-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-1q5APWChfcyWpnD8d5tOx7ygT984Ufjw1LM7zfVKff4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/path/-/path-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-Z+Kv62lre0+IrfHzP/qSPb/1vePHw6szzOqBVMQF88s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/path/-/path-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-rHImxEkFwyZp8c3VPSfqplm6oJawB1SdPHpALEYwWKE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/path/-/path-1.1.2.tgz"
+  }
+}

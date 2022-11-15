@@ -1,1 +1,87 @@
-{"1.0.0":{"narHash":"sha256-fJoosSQZWGj9isn66AEah3vcEAB4+tpMR4mfK7GzrFI=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-ZoU5hGMBqrjoV3RdCawF7RardxeiMGl9DTQ4G39cDzE=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-PkKlcHOLV2bY3w5XJSiHJSm1CvEhtE+IY92PSRXRXIs=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-1.1.1.tgz"},"2.0.0":{"narHash":"sha256-ilgtPHaHZurP7r/anA35EtlhoImwqxBH6fCvsJrZ/gQ=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-DhfWU/jNmO+KgearlDcIV1wxEj/UX9rvhEFAjWZPtaI=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.1.tgz"},"2.0.10":{"narHash":"sha256-8vgLLuDVnmP3iQFlKiGYv/Z8U0R5aW/RBpp3iFENHhI=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.10.tgz"},"2.0.11":{"narHash":"sha256-2USocXnAFAUQLK56MjQX9Z2g+k4BS6q7ZzI2uSPqKME=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.11.tgz"},"2.0.12":{"narHash":"sha256-LyUrEyV3R5UQfZ9JLVaySgCuYSX+5y4W2yr+/UD3ke4=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.12.tgz"},"2.0.2":{"narHash":"sha256-BsAicpsZjKdQQSICPpNWXEOcWuhMu9BSrt8ZScKKccE=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-dMUiQPPOI0Ht35nMoMIaLPAv9Cb7gysm9GGPBoxAdYQ=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-tt2iOBaWUrODGwURvaswvQxF31acMXDpxVEfUY11vxA=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-9fftNbnrS16J0S7ZZg52SypsGltmyp/48VFYsrZYAhg=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.5.tgz"},"2.0.6":{"narHash":"sha256-Acw8z3D76Npu3YAlkaRSX8agbZi8QUZFidZGX7fRwLs=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.6.tgz"},"2.0.7":{"narHash":"sha256-SNGDEHSUe8lw1PzmiZeD9fNjFsTBORdpL9qVc6FOPX4=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.7.tgz"},"2.0.8":{"narHash":"sha256-rps/FOEn8E+nSM8N/1U0t4wT/xn19+By+DrYkZiLJl4=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.8.tgz"},"2.0.9":{"narHash":"sha256-5G3f6KLSl4b6uNhEztJj4CxoXhYbiPQKkueoAP7tyMs=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.9.tgz"},"3.0.0":{"narHash":"sha256-/SJGFu+3SWySXGPszUPcPV82GbwxmV8PUyKRhnulros=","type":"tarball","url":"https://registry.npmjs.org/stringify-clone/-/stringify-clone-3.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-fJoosSQZWGj9isn66AEah3vcEAB4+tpMR4mfK7GzrFI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-ZoU5hGMBqrjoV3RdCawF7RardxeiMGl9DTQ4G39cDzE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-PkKlcHOLV2bY3w5XJSiHJSm1CvEhtE+IY92PSRXRXIs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-1.1.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-ilgtPHaHZurP7r/anA35EtlhoImwqxBH6fCvsJrZ/gQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-DhfWU/jNmO+KgearlDcIV1wxEj/UX9rvhEFAjWZPtaI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.1.tgz"
+  },
+  "2.0.10": {
+    "narHash": "sha256-8vgLLuDVnmP3iQFlKiGYv/Z8U0R5aW/RBpp3iFENHhI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.10.tgz"
+  },
+  "2.0.11": {
+    "narHash": "sha256-2USocXnAFAUQLK56MjQX9Z2g+k4BS6q7ZzI2uSPqKME=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.11.tgz"
+  },
+  "2.0.12": {
+    "narHash": "sha256-LyUrEyV3R5UQfZ9JLVaySgCuYSX+5y4W2yr+/UD3ke4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.12.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-BsAicpsZjKdQQSICPpNWXEOcWuhMu9BSrt8ZScKKccE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-dMUiQPPOI0Ht35nMoMIaLPAv9Cb7gysm9GGPBoxAdYQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-tt2iOBaWUrODGwURvaswvQxF31acMXDpxVEfUY11vxA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-9fftNbnrS16J0S7ZZg52SypsGltmyp/48VFYsrZYAhg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.5.tgz"
+  },
+  "2.0.6": {
+    "narHash": "sha256-Acw8z3D76Npu3YAlkaRSX8agbZi8QUZFidZGX7fRwLs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.6.tgz"
+  },
+  "2.0.7": {
+    "narHash": "sha256-SNGDEHSUe8lw1PzmiZeD9fNjFsTBORdpL9qVc6FOPX4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.7.tgz"
+  },
+  "2.0.8": {
+    "narHash": "sha256-rps/FOEn8E+nSM8N/1U0t4wT/xn19+By+DrYkZiLJl4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.8.tgz"
+  },
+  "2.0.9": {
+    "narHash": "sha256-5G3f6KLSl4b6uNhEztJj4CxoXhYbiPQKkueoAP7tyMs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-2.0.9.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-/SJGFu+3SWySXGPszUPcPV82GbwxmV8PUyKRhnulros=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stringify-clone/-/stringify-clone-3.0.0.tgz"
+  }
+}

@@ -1,1 +1,72 @@
-{"9.1.0":{"narHash":"sha256-uLf680tbn7R8YKeciX1aPkqwB+03eQk+RHD2ZjBFcug=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.0.tgz"},"9.1.1":{"narHash":"sha256-m/Ru3ybaie46LCZPxx14LqTNYnUjWWzAdZtcVHDS6ns=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.1.tgz"},"9.1.10":{"narHash":"sha256-zKd/29M3bnMiV7zKRHxRTs31K+aflevzjE6byNJo7Vo=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.10.tgz"},"9.1.2":{"narHash":"sha256-aPsWh9xPehuktMjqVKmBdMtygCClY3XVfSOp+1wwQMg=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.2.tgz"},"9.1.3":{"narHash":"sha256-yqJMvr7Yf88zcrMn1N/+aRm5T0mExTEfZYobD0muLrg=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.3.tgz"},"9.1.4":{"narHash":"sha256-vwrjrTKYxAjjtt/JmVKAcjESwaU2hpikAi2jaJEQikw=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.4.tgz"},"9.1.5":{"narHash":"sha256-23CvSOzZ4GmGBPgQ4xTiCQWLTyIiSaD2E2aJ0j0Ales=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.5.tgz"},"9.1.6":{"narHash":"sha256-Fcod0HRkNsvC6IW/4fsd4WBawFdwChL5p9osPfHyHzY=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.6.tgz"},"9.1.7":{"narHash":"sha256-tb9GeFqRulmNVdUc2Ffkgnr/VmBHyxNI+b9nPWoKMas=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.7.tgz"},"9.1.8":{"narHash":"sha256-zlCw6XBDlQzWTAYI8lQbdSaK4WlZPqXQJoFSRzijFcA=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.8.tgz"},"9.1.9":{"narHash":"sha256-uVbLRtP2YamZChANhO2FQD144xZ8bSdFuFz3n+kDpzw=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.9.tgz"},"9.2.0":{"narHash":"sha256-5SW8RckYTP5bBkeZUOf3qEhGAx8SOgilJJV4S/f7zQk=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.2.0.tgz"},"9.2.1":{"narHash":"sha256-IIBUnK+ZQ8vSB9FC/A+dgFLoy5DF1Qg8IGrTOKjStvg=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.2.1.tgz"},"9.2.2":{"narHash":"sha256-T9z6v34kZeXyWPu8OzvuL7OdFr/AbKv4tmHWuiZ353g=","type":"tarball","url":"https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.2.2.tgz"}}
+{
+  "9.1.0": {
+    "narHash": "sha256-uLf680tbn7R8YKeciX1aPkqwB+03eQk+RHD2ZjBFcug=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.0.tgz"
+  },
+  "9.1.1": {
+    "narHash": "sha256-m/Ru3ybaie46LCZPxx14LqTNYnUjWWzAdZtcVHDS6ns=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.1.tgz"
+  },
+  "9.1.10": {
+    "narHash": "sha256-zKd/29M3bnMiV7zKRHxRTs31K+aflevzjE6byNJo7Vo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.10.tgz"
+  },
+  "9.1.2": {
+    "narHash": "sha256-aPsWh9xPehuktMjqVKmBdMtygCClY3XVfSOp+1wwQMg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.2.tgz"
+  },
+  "9.1.3": {
+    "narHash": "sha256-yqJMvr7Yf88zcrMn1N/+aRm5T0mExTEfZYobD0muLrg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.3.tgz"
+  },
+  "9.1.4": {
+    "narHash": "sha256-vwrjrTKYxAjjtt/JmVKAcjESwaU2hpikAi2jaJEQikw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.4.tgz"
+  },
+  "9.1.5": {
+    "narHash": "sha256-23CvSOzZ4GmGBPgQ4xTiCQWLTyIiSaD2E2aJ0j0Ales=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.5.tgz"
+  },
+  "9.1.6": {
+    "narHash": "sha256-Fcod0HRkNsvC6IW/4fsd4WBawFdwChL5p9osPfHyHzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.6.tgz"
+  },
+  "9.1.7": {
+    "narHash": "sha256-tb9GeFqRulmNVdUc2Ffkgnr/VmBHyxNI+b9nPWoKMas=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.7.tgz"
+  },
+  "9.1.8": {
+    "narHash": "sha256-zlCw6XBDlQzWTAYI8lQbdSaK4WlZPqXQJoFSRzijFcA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.8.tgz"
+  },
+  "9.1.9": {
+    "narHash": "sha256-uVbLRtP2YamZChANhO2FQD144xZ8bSdFuFz3n+kDpzw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.1.9.tgz"
+  },
+  "9.2.0": {
+    "narHash": "sha256-5SW8RckYTP5bBkeZUOf3qEhGAx8SOgilJJV4S/f7zQk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.2.0.tgz"
+  },
+  "9.2.1": {
+    "narHash": "sha256-IIBUnK+ZQ8vSB9FC/A+dgFLoy5DF1Qg8IGrTOKjStvg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.2.1.tgz"
+  },
+  "9.2.2": {
+    "narHash": "sha256-T9z6v34kZeXyWPu8OzvuL7OdFr/AbKv4tmHWuiZ353g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@intlify/vue-devtools/-/vue-devtools-9.2.2.tgz"
+  }
+}

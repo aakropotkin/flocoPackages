@@ -1,1 +1,77 @@
-{"4.0.0":{"narHash":"sha256-M5vx4GnnnfiK3R0KPal1xeGTifmqNGZLeXsvwBlh2wI=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-4.0.0.tgz"},"6.0.0":{"narHash":"sha256-F+fEs9H/CgyrPUeb54fa+oOoQRMQsgeurVTST2MPjFw=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-6.0.0.tgz"},"6.0.1":{"narHash":"sha256-id9UqBQaHVPzh+ovF5mT0MMdjFY0ByijwDx4c6B+7Ro=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-6.0.1.tgz"},"7.0.0":{"narHash":"sha256-aDLfTJYVya49NCurLCNEvYg52wM9QXeaPGpLXwfGRYs=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.0.tgz"},"7.0.1":{"narHash":"sha256-3GTbqbdVRnxsSp/drJ8r4X4JxyHeHdPcMNfFGHsga0A=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.1.tgz"},"7.0.10":{"narHash":"sha256-n77YlNPxDDFgSQ7z6NesRSAB+2SEQ8rhzOPjcZI3rRc=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.10.tgz"},"7.0.11":{"narHash":"sha256-RriZMmlmbXssSa6qTHr8QaNa+44551FhpvwXupiN7RM=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.11.tgz"},"7.0.2":{"narHash":"sha256-Q+nZMZfnuyynUAIWNWM4/97lcPiILBH56k/OvevPM/Y=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.2.tgz"},"7.0.3":{"narHash":"sha256-5mJ9Z9zHxaDRFYSX0ahA0CVgs6dC/NRkJJtyZSdmdRk=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.3.tgz"},"7.0.4":{"narHash":"sha256-rVBkXj8eydp0600zp6rCOaPNQwrx3FqSVPHJ36WCYcs=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.4.tgz"},"7.0.5":{"narHash":"sha256-SmBUCT2a1kDx/sjPQKFojdmSnSqimioYhRaxnSWSkl8=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.5.tgz"},"7.0.6":{"narHash":"sha256-IxZ+d1bC6XEnUilmQAj9tkLPlTEidgIQdniEBlwPUQk=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.6.tgz"},"7.0.7":{"narHash":"sha256-DdJWuH4LNQRD4DCjUn4ZK4cfW2+heHmqbJ2Tajx9Vhg=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.7.tgz"},"7.0.8":{"narHash":"sha256-soRnLUHAhg0ucOmKqb18dEiOUfAtnM7oTv1wsNyH0Zg=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.8.tgz"},"7.0.9":{"narHash":"sha256-xZuDwwNk7jP8UdNisWeoj6uKCP0vsRNmvtv2Ij6OBgo=","type":"tarball","url":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.9.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-M5vx4GnnnfiK3R0KPal1xeGTifmqNGZLeXsvwBlh2wI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-4.0.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-F+fEs9H/CgyrPUeb54fa+oOoQRMQsgeurVTST2MPjFw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-6.0.0.tgz"
+  },
+  "6.0.1": {
+    "narHash": "sha256-id9UqBQaHVPzh+ovF5mT0MMdjFY0ByijwDx4c6B+7Ro=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-6.0.1.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-aDLfTJYVya49NCurLCNEvYg52wM9QXeaPGpLXwfGRYs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.0.tgz"
+  },
+  "7.0.1": {
+    "narHash": "sha256-3GTbqbdVRnxsSp/drJ8r4X4JxyHeHdPcMNfFGHsga0A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.1.tgz"
+  },
+  "7.0.10": {
+    "narHash": "sha256-n77YlNPxDDFgSQ7z6NesRSAB+2SEQ8rhzOPjcZI3rRc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.10.tgz"
+  },
+  "7.0.11": {
+    "narHash": "sha256-RriZMmlmbXssSa6qTHr8QaNa+44551FhpvwXupiN7RM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.11.tgz"
+  },
+  "7.0.2": {
+    "narHash": "sha256-Q+nZMZfnuyynUAIWNWM4/97lcPiILBH56k/OvevPM/Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.2.tgz"
+  },
+  "7.0.3": {
+    "narHash": "sha256-5mJ9Z9zHxaDRFYSX0ahA0CVgs6dC/NRkJJtyZSdmdRk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.3.tgz"
+  },
+  "7.0.4": {
+    "narHash": "sha256-rVBkXj8eydp0600zp6rCOaPNQwrx3FqSVPHJ36WCYcs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.4.tgz"
+  },
+  "7.0.5": {
+    "narHash": "sha256-SmBUCT2a1kDx/sjPQKFojdmSnSqimioYhRaxnSWSkl8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.5.tgz"
+  },
+  "7.0.6": {
+    "narHash": "sha256-IxZ+d1bC6XEnUilmQAj9tkLPlTEidgIQdniEBlwPUQk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.6.tgz"
+  },
+  "7.0.7": {
+    "narHash": "sha256-DdJWuH4LNQRD4DCjUn4ZK4cfW2+heHmqbJ2Tajx9Vhg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.7.tgz"
+  },
+  "7.0.8": {
+    "narHash": "sha256-soRnLUHAhg0ucOmKqb18dEiOUfAtnM7oTv1wsNyH0Zg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.8.tgz"
+  },
+  "7.0.9": {
+    "narHash": "sha256-xZuDwwNk7jP8UdNisWeoj6uKCP0vsRNmvtv2Ij6OBgo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.9.tgz"
+  }
+}

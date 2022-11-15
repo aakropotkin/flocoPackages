@@ -1,1 +1,47 @@
-{"0.5.0":{"narHash":"sha256-kitCyV60gh8Fz/uPSTp0Bn2+yrzw4M+8AU86eLd194Y=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.0.tgz"},"0.5.1":{"narHash":"sha256-7f2SBNXpUnL+HvHpM2DMbZlJMjqDi7bz7QGMf3tz910=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.1.tgz"},"0.5.2":{"narHash":"sha256-UUjhNRP/sIZtolmAwMS3iCJmNtBa6fwF3+dpzn9GlBo=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.2.tgz"},"0.5.3":{"narHash":"sha256-c0lnuQOMkNI1+I2gdNdpYFBRatjRN+m90sElz5Hjm7E=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.3.tgz"},"0.5.4":{"narHash":"sha256-NaLhYV7diL9xIfTCpwIgi/i2gMU+nSmgFpE0CCIew+M=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.4.tgz"},"0.8.0":{"narHash":"sha256-27+vQLiABQrNQzxMx3RDjIAyz71AznNMhl9I2oTNPwU=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.8.0.tgz"},"0.8.1":{"narHash":"sha256-frwtqXoDKUIpEAUv8gck1DWhOi2EcvRHKS3ZA7XHRnU=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.8.1.tgz"},"0.8.2":{"narHash":"sha256-u7Syhmt73uyvvUEDseMY3fm4s4pctgTXLJU7O1M9vcg=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.8.2.tgz"},"0.8.3":{"narHash":"sha256-9q2ay3rMGP9pPtzYopJaXTXAK0HlRSZuept7hhZyTco=","type":"tarball","url":"https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.8.3.tgz"}}
+{
+  "0.5.0": {
+    "narHash": "sha256-kitCyV60gh8Fz/uPSTp0Bn2+yrzw4M+8AU86eLd194Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.0.tgz"
+  },
+  "0.5.1": {
+    "narHash": "sha256-7f2SBNXpUnL+HvHpM2DMbZlJMjqDi7bz7QGMf3tz910=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.1.tgz"
+  },
+  "0.5.2": {
+    "narHash": "sha256-UUjhNRP/sIZtolmAwMS3iCJmNtBa6fwF3+dpzn9GlBo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.2.tgz"
+  },
+  "0.5.3": {
+    "narHash": "sha256-c0lnuQOMkNI1+I2gdNdpYFBRatjRN+m90sElz5Hjm7E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.3.tgz"
+  },
+  "0.5.4": {
+    "narHash": "sha256-NaLhYV7diL9xIfTCpwIgi/i2gMU+nSmgFpE0CCIew+M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.5.4.tgz"
+  },
+  "0.8.0": {
+    "narHash": "sha256-27+vQLiABQrNQzxMx3RDjIAyz71AznNMhl9I2oTNPwU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.8.0.tgz"
+  },
+  "0.8.1": {
+    "narHash": "sha256-frwtqXoDKUIpEAUv8gck1DWhOi2EcvRHKS3ZA7XHRnU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.8.1.tgz"
+  },
+  "0.8.2": {
+    "narHash": "sha256-u7Syhmt73uyvvUEDseMY3fm4s4pctgTXLJU7O1M9vcg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.8.2.tgz"
+  },
+  "0.8.3": {
+    "narHash": "sha256-9q2ay3rMGP9pPtzYopJaXTXAK0HlRSZuept7hhZyTco=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/zen-observable/-/zen-observable-0.8.3.tgz"
+  }
+}

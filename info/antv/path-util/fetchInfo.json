@@ -1,1 +1,87 @@
-{"2.0.0":{"narHash":"sha256-wEXLyrYOD9reOkx1pTltwt77AybWj2ieGjYV74ZHV68=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-Mrj5M8U2YXhi4XYn3mS6uqSlE91fbcbqpitlibbRghc=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.1.tgz"},"2.0.10":{"narHash":"sha256-Zr7Y5rkcBSe/66Ix+MDMOjWAlBjCnYfICQQM4vQLblU=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.10.tgz"},"2.0.11":{"narHash":"sha256-NdopFvHGjGjPjBmgLShzAnU0IWk9ZZIOyOODrTiYh/8=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.11.tgz"},"2.0.12":{"narHash":"sha256-6cIWHrw858+FYtCEiJYP+cmtm6DNUnbICS+pGLkDqTI=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.12.tgz"},"2.0.13":{"narHash":"sha256-0uWVHn6cE3QProZ7Jfn5AuK8PzZY/5UYS2CP238R5bE=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.13.tgz"},"2.0.14":{"narHash":"sha256-Y+evfiN1bEQDQ4fiuuDNUPkU/rzzMrqRerizAtLU4m8=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.14.tgz"},"2.0.15":{"narHash":"sha256-3W7zU38psjsWwsh2Yn7gJXY+Kwl8GEImcziNtU/EGXs=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.15.tgz"},"2.0.2":{"narHash":"sha256-2R+H1S8lCvgC/qOWljXAZhST0UkdpkoIlJSyQFeSNkM=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-hSacSE89sFuXnYyxTu1cxJPJVE0Yuy/Sm9xEO42TGRw=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-83ijkH7b39f6JL9zeTwvvoUcwfPoDBAo023LHs6iq80=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-ozKGPk77gHpK1NUx4lKcxeGy6vZonZVK5Aoe/hCSDDw=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.5.tgz"},"2.0.6":{"narHash":"sha256-/De2XGKyHAuR9QwVTfjm0n/NeeJeaI2OhWcaZumiJ3Y=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.6.tgz"},"2.0.7":{"narHash":"sha256-zY+q5eSilnfKlfaSsQMKVugwLo2Dc6p2W4gWPfMBHuU=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.7.tgz"},"2.0.8":{"narHash":"sha256-3j1QTBYMOnaoQsmf16rXjBnvxyBzxDIu+WBy76D6d5g=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.8.tgz"},"2.0.9":{"narHash":"sha256-OREcUXnnq/K5MZOUOVDfPnrr2Izu9gOzbHF5VOcg9fE=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.9.tgz"},"3.0.1":{"narHash":"sha256-bfwFGzsDEWWPud9difEE1WMwsLfuEGMB1OWTKMJeiRU=","type":"tarball","url":"https://registry.npmjs.org/@antv/path-util/-/path-util-3.0.1.tgz"}}
+{
+  "2.0.0": {
+    "narHash": "sha256-wEXLyrYOD9reOkx1pTltwt77AybWj2ieGjYV74ZHV68=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-Mrj5M8U2YXhi4XYn3mS6uqSlE91fbcbqpitlibbRghc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.1.tgz"
+  },
+  "2.0.10": {
+    "narHash": "sha256-Zr7Y5rkcBSe/66Ix+MDMOjWAlBjCnYfICQQM4vQLblU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.10.tgz"
+  },
+  "2.0.11": {
+    "narHash": "sha256-NdopFvHGjGjPjBmgLShzAnU0IWk9ZZIOyOODrTiYh/8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.11.tgz"
+  },
+  "2.0.12": {
+    "narHash": "sha256-6cIWHrw858+FYtCEiJYP+cmtm6DNUnbICS+pGLkDqTI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.12.tgz"
+  },
+  "2.0.13": {
+    "narHash": "sha256-0uWVHn6cE3QProZ7Jfn5AuK8PzZY/5UYS2CP238R5bE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.13.tgz"
+  },
+  "2.0.14": {
+    "narHash": "sha256-Y+evfiN1bEQDQ4fiuuDNUPkU/rzzMrqRerizAtLU4m8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.14.tgz"
+  },
+  "2.0.15": {
+    "narHash": "sha256-3W7zU38psjsWwsh2Yn7gJXY+Kwl8GEImcziNtU/EGXs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.15.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-2R+H1S8lCvgC/qOWljXAZhST0UkdpkoIlJSyQFeSNkM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-hSacSE89sFuXnYyxTu1cxJPJVE0Yuy/Sm9xEO42TGRw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-83ijkH7b39f6JL9zeTwvvoUcwfPoDBAo023LHs6iq80=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-ozKGPk77gHpK1NUx4lKcxeGy6vZonZVK5Aoe/hCSDDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.5.tgz"
+  },
+  "2.0.6": {
+    "narHash": "sha256-/De2XGKyHAuR9QwVTfjm0n/NeeJeaI2OhWcaZumiJ3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.6.tgz"
+  },
+  "2.0.7": {
+    "narHash": "sha256-zY+q5eSilnfKlfaSsQMKVugwLo2Dc6p2W4gWPfMBHuU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.7.tgz"
+  },
+  "2.0.8": {
+    "narHash": "sha256-3j1QTBYMOnaoQsmf16rXjBnvxyBzxDIu+WBy76D6d5g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.8.tgz"
+  },
+  "2.0.9": {
+    "narHash": "sha256-OREcUXnnq/K5MZOUOVDfPnrr2Izu9gOzbHF5VOcg9fE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-2.0.9.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-bfwFGzsDEWWPud9difEE1WMwsLfuEGMB1OWTKMJeiRU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@antv/path-util/-/path-util-3.0.1.tgz"
+  }
+}

@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-wCBkepvXbmmlv3iqXxTouNlUIHSwvXbwyS5FqaLPkvc=","type":"tarball","url":"https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-Pn01uzQt1jwHCKfy6t6GJJBFVxyCNPqz+RkuK1eP7Ow=","type":"tarball","url":"https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-7vDsttAI5bxK9rRovNoOSa6rz29RE4Ur1UYKyIaJE2g=","type":"tarball","url":"https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-A5xDyHoesTehcmD+DbZ7pVJwlVWZ3uTotykmf0je3Cw=","type":"tarball","url":"https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-zx7Dn5IC7DYlU5j2/e69qzKKjPRAbmz8ffJJ/jvbu6g=","type":"tarball","url":"https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.1.2.tgz"},"1.2.0":{"narHash":"sha256-foT8ZVXBLiuwG6RXpwin4fejEyscqUWgTkunietc/DM=","type":"tarball","url":"https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-WHig4YH6PXowoDUelUCxdlEqmaLN+A+AQZVktW/ztYc=","type":"tarball","url":"https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.2.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-wCBkepvXbmmlv3iqXxTouNlUIHSwvXbwyS5FqaLPkvc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-Pn01uzQt1jwHCKfy6t6GJJBFVxyCNPqz+RkuK1eP7Ow=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-7vDsttAI5bxK9rRovNoOSa6rz29RE4Ur1UYKyIaJE2g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-A5xDyHoesTehcmD+DbZ7pVJwlVWZ3uTotykmf0je3Cw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-zx7Dn5IC7DYlU5j2/e69qzKKjPRAbmz8ffJJ/jvbu6g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.1.2.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-foT8ZVXBLiuwG6RXpwin4fejEyscqUWgTkunietc/DM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-WHig4YH6PXowoDUelUCxdlEqmaLN+A+AQZVktW/ztYc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.2.1.tgz"
+  }
+}

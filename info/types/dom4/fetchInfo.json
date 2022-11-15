@@ -1,1 +1,32 @@
-{"0.0.18":{"narHash":"sha256-bYj/5PlrEttCNHMIgK3JbHqfmdlB4onJ9kMVx9HdcV0=","type":"tarball","url":"https://registry.npmjs.org/@types/dom4/-/dom4-0.0.18.tgz"},"0.0.19":{"narHash":"sha256-Qw14yTTYZ4zCSI3haQ2y+H41QBuRxdODrG2eIzxecH0=","type":"tarball","url":"https://registry.npmjs.org/@types/dom4/-/dom4-0.0.19.tgz"},"1.5.20":{"narHash":"sha256-gjDqsMvQRN2RSHyMk4c3WljslzwIQYB4WcENGHiVnwQ=","type":"tarball","url":"https://registry.npmjs.org/@types/dom4/-/dom4-1.5.20.tgz"},"2.0.0":{"narHash":"sha256-nTT8gdpsPfhhiirU3D9/0OaeHx/XLRPf4RGpEQQ6p1M=","type":"tarball","url":"https://registry.npmjs.org/@types/dom4/-/dom4-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-M/SHRQSmtgeND7qkwIuyWruBl+hP5Pjf5A0zKHT0D9c=","type":"tarball","url":"https://registry.npmjs.org/@types/dom4/-/dom4-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-lKu5eANPcybaHoOf4b0t/O7yHQaga/UxIs7NyUzNY7w=","type":"tarball","url":"https://registry.npmjs.org/@types/dom4/-/dom4-2.0.2.tgz"}}
+{
+  "0.0.18": {
+    "narHash": "sha256-bYj/5PlrEttCNHMIgK3JbHqfmdlB4onJ9kMVx9HdcV0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/dom4/-/dom4-0.0.18.tgz"
+  },
+  "0.0.19": {
+    "narHash": "sha256-Qw14yTTYZ4zCSI3haQ2y+H41QBuRxdODrG2eIzxecH0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/dom4/-/dom4-0.0.19.tgz"
+  },
+  "1.5.20": {
+    "narHash": "sha256-gjDqsMvQRN2RSHyMk4c3WljslzwIQYB4WcENGHiVnwQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/dom4/-/dom4-1.5.20.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-nTT8gdpsPfhhiirU3D9/0OaeHx/XLRPf4RGpEQQ6p1M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/dom4/-/dom4-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-M/SHRQSmtgeND7qkwIuyWruBl+hP5Pjf5A0zKHT0D9c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/dom4/-/dom4-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-lKu5eANPcybaHoOf4b0t/O7yHQaga/UxIs7NyUzNY7w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/dom4/-/dom4-2.0.2.tgz"
+  }
+}

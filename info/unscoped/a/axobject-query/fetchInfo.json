@@ -1,1 +1,62 @@
-{"0.1.0":{"narHash":"sha256-KTU0+D1P860jWb4nUjd54TXpWuJpICCTfuzw11sQBsU=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-Lktoi73NIwnrIcQh6C2N1hq3QJe7EcXygYRanq1TRqk=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-0.2.0.tgz"},"1.0.1":{"narHash":"sha256-fHLgFpCRjVPj1EhBsbBCrijbYM6DWH9FE88px4jZqvY=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-pg0o6KTXhH3aI8pg5B8POsdIjdNPYTCU73Z9i3RJG/Q=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-1.0.2.tgz"},"2.0.1":{"narHash":"sha256-OL5Hwhv4A4oxjsY93bUeIMJeJnRdwnkn7U8WbEeC+uQ=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-GSVfF9s6/aXq44EkhQT0w/Gxv/iyKT33jS98pEN2npY=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-2.0.2.tgz"},"2.1.1":{"narHash":"sha256-o0X8GDvDglhEr9GQRT0+8a55IztJGkDUWOjadoZgSf8=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-2.1.1.tgz"},"2.1.2":{"narHash":"sha256-Lt3JpfGSO942FD/IFi1Z62619PhrlB4iS539SlB85ok=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-2.1.2.tgz"},"2.2.0":{"narHash":"sha256-+qpCYyb+b3oEFgw3aW6gQamQJUBJW5ekMllm7uU+wUo=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-2.2.0.tgz"},"3.0.0":{"narHash":"sha256-vfb1Sf1LBCjvaxHcZOw3QvKmPJX3MrZiCWTd1+Yo3s0=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-N0sSHzMEfv5yqH6sOY0xfZWt50ps01a7aKaIpBL2ZUo=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-3.0.1.tgz"},"3.1.1":{"narHash":"sha256-4BiVM6j/J9EYHKWCT2twhqkeSC2qe9mcMpKZlfx1IAU=","type":"tarball","url":"https://registry.npmjs.org/axobject-query/-/axobject-query-3.1.1.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-KTU0+D1P860jWb4nUjd54TXpWuJpICCTfuzw11sQBsU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-Lktoi73NIwnrIcQh6C2N1hq3QJe7EcXygYRanq1TRqk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-0.2.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-fHLgFpCRjVPj1EhBsbBCrijbYM6DWH9FE88px4jZqvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-pg0o6KTXhH3aI8pg5B8POsdIjdNPYTCU73Z9i3RJG/Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-1.0.2.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-OL5Hwhv4A4oxjsY93bUeIMJeJnRdwnkn7U8WbEeC+uQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-GSVfF9s6/aXq44EkhQT0w/Gxv/iyKT33jS98pEN2npY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-2.0.2.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-o0X8GDvDglhEr9GQRT0+8a55IztJGkDUWOjadoZgSf8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-2.1.1.tgz"
+  },
+  "2.1.2": {
+    "narHash": "sha256-Lt3JpfGSO942FD/IFi1Z62619PhrlB4iS539SlB85ok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-2.1.2.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-+qpCYyb+b3oEFgw3aW6gQamQJUBJW5ekMllm7uU+wUo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-2.2.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-vfb1Sf1LBCjvaxHcZOw3QvKmPJX3MrZiCWTd1+Yo3s0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-N0sSHzMEfv5yqH6sOY0xfZWt50ps01a7aKaIpBL2ZUo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-3.0.1.tgz"
+  },
+  "3.1.1": {
+    "narHash": "sha256-4BiVM6j/J9EYHKWCT2twhqkeSC2qe9mcMpKZlfx1IAU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/axobject-query/-/axobject-query-3.1.1.tgz"
+  }
+}
