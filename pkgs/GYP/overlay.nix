@@ -165,8 +165,11 @@ final: prev: let
   , nativeBuildInputs ? ( inputsFor ident version ).nativeBuildInputs or []
   , meta              ? metaFor ident version
   }: final.buildGyp {
-    inherit name ident version src nmDirCmd nodejs node-gyp python xcbuild;
-    inherit buildInputs nativeBuildInputs meta;
+    inherit
+      name ident version src meta
+      nmDirCmd nodejs node-gyp python xcbuild
+      buildInputs nativeBuildInputs
+    ;
   };
 
 
@@ -234,17 +237,6 @@ in {
     exported = builtins.foldl' proc {} ( builtins.attrNames markedFetchInfos );
   in ( exported // {
     # Add any explicit defs here.
-
-    # FIXME: fsevents 2.x is "simple"
-    "fsevents/2.3.2" = let
-      meta = metaFor "fsevents" "2.3.2";
-    in {
-      inherit (meta) ident version key;
-      inherit (exported."fsevents/2.3.2") source;
-      meta = { hasInstallScript = false;  gypfile = false; hasBin = false; };
-      inherit (exported."fsevents/2.3.2".source) outPath;
-    };
-
   } ) );
 
 

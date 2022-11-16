@@ -110,7 +110,7 @@ final: prev: let
   }: final.mkBinPackage {
     inherit ident version src globalNmDirCmd nodejs;
     inherit (src) passthru;
-    meta = src.meta // ( metaFor ident version );
+    meta = metaFor ident version;
   };
 
 
