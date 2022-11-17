@@ -1,1 +1,37 @@
-{"0.0.0":{"narHash":"sha256-HVaCSfI8c8p4zf96kwaDW+21s5ldJNZ9SeR14TLgBhw=","type":"tarball","url":"https://registry.npmjs.org/pug-attrs/-/pug-attrs-0.0.0.tgz"},"0.0.1":{"narHash":"sha256-k/7VlS5ge/ckNlSXUchQWdNRI99CgV4BjmS72K/qsW8=","type":"tarball","url":"https://registry.npmjs.org/pug-attrs/-/pug-attrs-0.0.1.tgz"},"2.0.1":{"narHash":"sha256-d6N6pi/OM0rP2iQV2WWoeWXgvOLso9OFVEz6O0/Kdm0=","type":"tarball","url":"https://registry.npmjs.org/pug-attrs/-/pug-attrs-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-WjPKp7Dlo4mxUnBP1MAPCLaBT83IA0kXiZEsRKKLf/Y=","type":"tarball","url":"https://registry.npmjs.org/pug-attrs/-/pug-attrs-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-dCdkmw1Ph/+2MlPe3dtlJXgHeodQTHNepn9f9zhuWjw=","type":"tarball","url":"https://registry.npmjs.org/pug-attrs/-/pug-attrs-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-oJDwgS9r78LI51rfCejLl99w14LBNe/hchuPrtsV8O4=","type":"tarball","url":"https://registry.npmjs.org/pug-attrs/-/pug-attrs-2.0.4.tgz"},"3.0.0":{"narHash":"sha256-u89yN2GiKZHRejkz/Q+fYHqyKyciRoZnpZsZ2rmGnvY=","type":"tarball","url":"https://registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-HVaCSfI8c8p4zf96kwaDW+21s5ldJNZ9SeR14TLgBhw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-0.0.0.tgz"
+  },
+  "0.0.1": {
+    "narHash": "sha256-k/7VlS5ge/ckNlSXUchQWdNRI99CgV4BjmS72K/qsW8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-0.0.1.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-d6N6pi/OM0rP2iQV2WWoeWXgvOLso9OFVEz6O0/Kdm0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-WjPKp7Dlo4mxUnBP1MAPCLaBT83IA0kXiZEsRKKLf/Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-dCdkmw1Ph/+2MlPe3dtlJXgHeodQTHNepn9f9zhuWjw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-oJDwgS9r78LI51rfCejLl99w14LBNe/hchuPrtsV8O4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-2.0.4.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-u89yN2GiKZHRejkz/Q+fYHqyKyciRoZnpZsZ2rmGnvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz"
+  }
+}

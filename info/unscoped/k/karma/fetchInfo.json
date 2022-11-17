@@ -1,1 +1,917 @@
-{"0.10.0":{"narHash":"sha256-j1BrSUo8PrKS1fbKvhFNM44NPXzyHcyShuX8QerR/As=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.0.tgz"},"0.10.1":{"narHash":"sha256-r84+uUzDEzvpYQ+jzASmKNbbT4EslwXRRoNsYX9p7Lo=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.1.tgz"},"0.10.10":{"narHash":"sha256-VGhK9PBnD4N1bufzK6mKpMFAjV3NjO3sCBdt9XwFEKA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.10.tgz"},"0.10.2":{"narHash":"sha256-zWaW0TaWMg7iiLXNa7rJmpsPKRQsQE/QJwgdEBdCVr8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.2.tgz"},"0.10.3":{"narHash":"sha256-lXrjkC/t/wN9Opz5k9ZL+ZFLsMxoLbCKpGYSzu57vZ4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.3.tgz"},"0.10.4":{"narHash":"sha256-msBErSv2qxTWla1OC8Z3NRRveZnngT4JZGq+GyXjZOE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.4.tgz"},"0.10.5":{"narHash":"sha256-GaBgGhaLEIc2ThUeFeJ2KspdBfVO2IxlsfqfkQN5dDM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.5.tgz"},"0.10.6":{"narHash":"sha256-SLr1/+vPnLAeBhSiV21fRYcl4oPdeQUttt+7MIvdRLo=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.6.tgz"},"0.10.7":{"narHash":"sha256-MmyAKeE9n1ntxmHdSLAYKaPRhXBWFzxKW/K698IWD0g=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.7.tgz"},"0.10.8":{"narHash":"sha256-eR50FXc35nesI+OF2cg+41OQY4+wUfqTlElmIuICVig=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.8.tgz"},"0.10.9":{"narHash":"sha256-Y0wTP4fkn+kmochBzL8U/s7zYo1bqHrZSzRNz35nZGM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.10.9.tgz"},"0.11.0":{"narHash":"sha256-s1kom15BkCUOSOMyLdU6t1kFjWXyXB7Rr03i8gaDoNE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.0.tgz"},"0.11.1":{"narHash":"sha256-6gCAQGEdii3GszMDVkH5AJQ+5u4L3vXJaN3vRB0xI4E=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.1.tgz"},"0.11.10":{"narHash":"sha256-9JjUMsWBIdPaqcG0ROB7Cx91I4yxutfrrq8CsAIrRf8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.10.tgz"},"0.11.11":{"narHash":"sha256-VGv63sSc2lUc/N7KbU+BuvNup8ugPuTAjqNW0t2Dgic=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.11.tgz"},"0.11.12":{"narHash":"sha256-35+uA7o9D+Td3jNKzUk/czo3DbdTD019b7T/9wV5N5g=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.12.tgz"},"0.11.13":{"narHash":"sha256-DoEJlV6GfgDVQG02BXYx2zet0TZWuUmRkkE0mClwBbs=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.13.tgz"},"0.11.14":{"narHash":"sha256-gCInQ6nKCkgRSea6X/ckWDr0PHX6ybmP2zWewYfBanQ=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.14.tgz"},"0.11.2":{"narHash":"sha256-PtYEH9WhzWrFARRwPhVFzV+v0f5apdmnSCqH6nemGhM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.2.tgz"},"0.11.3":{"narHash":"sha256-7t2DTtgQoEHGazzQqfM22EVzTD5RuVn89NogmK/7jrE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.3.tgz"},"0.11.4":{"narHash":"sha256-QsRlD2sdDRm3f5u05rX9R2jvy7CZnCgOxTRakyO3kG8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.4.tgz"},"0.11.5":{"narHash":"sha256-MsfAYf8ZS5VUxhgm2t56ASxt3bagtY9xVwaWseFdgAY=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.5.tgz"},"0.11.6":{"narHash":"sha256-3cxHfEapsKSPS8aEx8fH6q+pdeEkyh6ITAe2Z7c0IAI=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.6.tgz"},"0.11.7":{"narHash":"sha256-F9blSqzu3Q9Lo7wITQ6e+rcbH59ThEwICRroeua8RRQ=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.7.tgz"},"0.11.8":{"narHash":"sha256-0/SxC0oc/lgiY4cG02CMnm/l7fmqz1G5iv79dM/haVM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.8.tgz"},"0.11.9":{"narHash":"sha256-YC7UJDCQGbgNcdrsvPfXdWbeaCKxzVzf/Zd8QNG1vgc=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.11.9.tgz"},"0.12.0":{"narHash":"sha256-Ch+FDP3efR34k+5eQ3+uapORL7ilbe9rWpHpLzxGQ0U=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.0.tgz"},"0.12.1":{"narHash":"sha256-ML/rHzSaXwQqVppjPpqfFJ2CT9EAr7SzSIz06cULJMQ=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.1.tgz"},"0.12.10":{"narHash":"sha256-7V2lexfkByqbjdzFMktXWpxF2G1apNHTzFci6IoV5uU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.10.tgz"},"0.12.11":{"narHash":"sha256-riH66FPAlcwyt8E77SKSY55BKe469+pEP4y5heHPW+g=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.11.tgz"},"0.12.12":{"narHash":"sha256-vEESupN36HQ767peCSIinKJ1DyZCWFkRp6S8gu3Xy7g=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.12.tgz"},"0.12.13":{"narHash":"sha256-Y4U2wV0lO7kKE086KVgiYRDKCsb0QWXg9y3AFaKjjRU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.13.tgz"},"0.12.14":{"narHash":"sha256-NXQK1BeTwqSQvtFnPLayTnCObv/AO70eBIJEHpvAnUM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.14.tgz"},"0.12.15":{"narHash":"sha256-OieTuA1VZbZeaDAyUFR1HjZyPuQ47nEZePf3lI93wCg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.15.tgz"},"0.12.16":{"narHash":"sha256-Vto/g7kdZ+Nr0GFiGLPPya5CPWfK4hpHx5z3n8p/lfE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.16.tgz"},"0.12.17":{"narHash":"sha256-FSZsWq/SmGRe833C5YjgvcJLgUE1tVG0FQuHTqucoNw=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.17.tgz"},"0.12.18":{"narHash":"sha256-3kXwi9+bVZ22b9+RAly9qonYcNtf9VTtfT7cCHYqspk=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.18.tgz"},"0.12.19":{"narHash":"sha256-F5kvmf7oO6yf7TdIHL1WorhO18Vt4c7n3RpkDfuoiu4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.19.tgz"},"0.12.2":{"narHash":"sha256-F35fJJDkCAyir5BZpCi1WmmQ7FVN9xfqgkpaTwEHVkw=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.2.tgz"},"0.12.20":{"narHash":"sha256-MaofD3/xVtNmAFYDM4hnxfUW3rvkxC3841pmS+FMy00=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.20.tgz"},"0.12.21":{"narHash":"sha256-P9cKBvgGh9JLG2wL0UCsfLDMkTWcTMx4XMJnBr0pRaU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.21.tgz"},"0.12.22":{"narHash":"sha256-+/7EObvufW/vOTKopw28mn7RUBXv2QbbbCU5daZhJFo=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.22.tgz"},"0.12.23":{"narHash":"sha256-TBnOiqgjxdN9gfw8iJnAvHo5CVbh+jDfaVtDxCUqxPg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.23.tgz"},"0.12.24":{"narHash":"sha256-iDRsBlHaE/0RUGafjs5nKGhn7Y5AKBlMn9iJgiBqOXw=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.24.tgz"},"0.12.25":{"narHash":"sha256-RQkzfb+nVTLHFUWi7Idw/8SFKWiCLUEkJnk19EH6B1c=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.25.tgz"},"0.12.26":{"narHash":"sha256-RTNUo+FNV4bG8oCU1E08jQ3S34rNoTv3w62e4cph+d8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.26.tgz"},"0.12.27":{"narHash":"sha256-6OKB/CKAgHNtrZOjd3tap1CYv1Z37V+kQTjG7DkRPO0=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.27.tgz"},"0.12.28":{"narHash":"sha256-rpJBVbJD0ZZGQ20Dt8lBGK+8eCrX1tLFBguzk0wwgno=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.28.tgz"},"0.12.29":{"narHash":"sha256-rnyTNwA5l8SwXH9RkOm3jfIYc45nCcpi2bRtmECPQvM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.29.tgz"},"0.12.3":{"narHash":"sha256-5zGISLlWDjdyvWO09/VwFMsU0otyLr0muxgtJJzORM4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.3.tgz"},"0.12.30":{"narHash":"sha256-Y9P3RXFVIH/O4tW2uKuVg/gUaJPRm02jfcc2MNwzBQM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.30.tgz"},"0.12.31":{"narHash":"sha256-bAPC5o++gOGCPEMqD4u5JYaHHaMTsHYUds4/OWxlvxY=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.31.tgz"},"0.12.32":{"narHash":"sha256-gbJyKpAX7/1Fo0tnHguVSgifqCq5tSM38L4mZRCaZP8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.32.tgz"},"0.12.33":{"narHash":"sha256-c8/onQgbGbJuS47STbZzT1/dz4ryXoXcvnHJECz+FAU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.33.tgz"},"0.12.34":{"narHash":"sha256-8R6NbNUoegZSCMG4tsRywX9X4yGyHkB4tpJ2Kvsu8ds=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.34.tgz"},"0.12.35":{"narHash":"sha256-sN3XQvJToAHjJRPRndo0UTMu5KCkbUTOiMe01Raje2g=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.35.tgz"},"0.12.36":{"narHash":"sha256-+3YMU/zDChZHXr0CkIJmVsCaWeCoBoGT5NrTB+9nT5w=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.36.tgz"},"0.12.37":{"narHash":"sha256-JoaShNz4RMrkC3y0z15seKSp0IicYRqtNnJOVKdar2k=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.37.tgz"},"0.12.4":{"narHash":"sha256-pWhWz3f/AS+M3XR94y+wODzEohYfryqfobfxo6udakY=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.4.tgz"},"0.12.5":{"narHash":"sha256-DBckFyB4HbKFpXjQtVS9s/KsH2/w0yAfo8j2sIeYJEA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.5.tgz"},"0.12.6":{"narHash":"sha256-edUIHoI0wCfwRzwyRGtULl1iDN9XEONBnF0Kyp6lNxM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.6.tgz"},"0.12.7":{"narHash":"sha256-lhxNsWdBkjXN3zLy9ehurmRge/Gs1MPfUuMZG3z6kZc=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.7.tgz"},"0.12.8":{"narHash":"sha256-OF2fVXLXIV/Cx6Jd+9CKz+AGko/EP8CT28zARR6yYnA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.8.tgz"},"0.12.9":{"narHash":"sha256-8kecBTZzzUJO0cUDTI10DVCdqBbyPLKF4BSw3kOkWH4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.12.9.tgz"},"0.13.0":{"narHash":"sha256-dRXI6Wdm6uqrHcPSXCVFowKPmHvDW8GbRSMNY2GfSYE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.0.tgz"},"0.13.1":{"narHash":"sha256-CZ2CwB7t9VEpOBqmI3vcfSmC0GcSSKdaza2iseOBOcU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.1.tgz"},"0.13.10":{"narHash":"sha256-w0wKi+Z0UpFeBWPRaA+LE8ObDk1uHvRt4labjC7DZjc=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.10.tgz"},"0.13.11":{"narHash":"sha256-p7njEGOv/IFqs7Gs65pC/CcsslNrsN4Fv904pS9DkSg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.11.tgz"},"0.13.12":{"narHash":"sha256-M78U4Qrygm3sSizHg7fYsZTn5ZGCbWRTgnQEZ2clPtA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.12.tgz"},"0.13.13":{"narHash":"sha256-NXANpqtZoYIDPyRho9fyTMbIT10GFu4Fl+RAopFsIos=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.13.tgz"},"0.13.14":{"narHash":"sha256-mi2eJlAi3rgaNhL+4l8NQ2k/MSUUSILqCSIxrfK1Nps=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.14.tgz"},"0.13.15":{"narHash":"sha256-jtD5EriBQWZ6rF7jDc1VS9dP2TQt3XiZFqi/MdlQV9w=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.15.tgz"},"0.13.16":{"narHash":"sha256-kJkBcArAOFGFMtdFcu1DLWwD0kRIUMVKhfTaHbooKnI=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.16.tgz"},"0.13.17":{"narHash":"sha256-3rgbU1tqf2fIpdMVibhPtMMRdLRn/7xVoZVlc36FRko=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.17.tgz"},"0.13.18":{"narHash":"sha256-+kZcVYY7KU3tMzJ4O+JHdYIIjmFXZhr3wVDSOKSfups=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.18.tgz"},"0.13.19":{"narHash":"sha256-L3PEofUExJ86iWUKsSoGu1xB0dFtNriNfKucBXcDWUs=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.19.tgz"},"0.13.2":{"narHash":"sha256-63jgguJJrP0kuEHfxgLTNFDnpZ24vBV2lgV+6ixEIVg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.2.tgz"},"0.13.20":{"narHash":"sha256-qCtzdj3RoFsdMlb6B7hE2T6EfR3gvLEhZwr969DPWgc=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.20.tgz"},"0.13.21":{"narHash":"sha256-tJigLKItbWWI8ZzdGSJsR6n7QYCVQE+ef95mr3QLsRw=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.21.tgz"},"0.13.22":{"narHash":"sha256-fTbMqKSlajQf6DotWqWqzPqPZL6xe3KlwqjRq2H1WcQ=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.22.tgz"},"0.13.3":{"narHash":"sha256-39hh4Oqp0w/QVa0gdLZ8U4GPrssc6oHzWmnGSWYlChA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.3.tgz"},"0.13.4":{"narHash":"sha256-mxDGWDGxGDCWUPrwFL1u8mWCJdfp46hePi4D0KjDH7Y=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.4.tgz"},"0.13.5":{"narHash":"sha256-Jn2gAcrRXLqLOOWma0aRP1agUF64aRMuPabo/3Unprs=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.5.tgz"},"0.13.6":{"narHash":"sha256-//edfiYMm2PHvhTa+Zrb1S/E1C+btf/TJ2dNsOzb97U=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.6.tgz"},"0.13.7":{"narHash":"sha256-48U3OpLQ3+T6tg6XNTiSMS+q3CE4dWH4At0S6rmqyog=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.7.tgz"},"0.13.8":{"narHash":"sha256-1LpghrWIkD2lm+2fjqv8DEvd0fHQ40HktxRslAhY7pg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.8.tgz"},"0.13.9":{"narHash":"sha256-MlIMeZqKvjD+dP3XHM9VrTEaOJj6f7iUF2cyL1wmylU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.13.9.tgz"},"0.8.0":{"narHash":"sha256-VqKVIThHCQ3IH3hzoZXuHFFpfeudxgYnlPQzU+RdhUI=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.0.tgz"},"0.8.1":{"narHash":"sha256-3igEjPlNDywbXQja4QzOGPyrxoXdgdDFrieLlaEuKD8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.1.tgz"},"0.8.2":{"narHash":"sha256-IwzpfPjVHRjHPlq7P/li9DQs5qnge1NUkl+nU829+ok=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.2.tgz"},"0.8.3":{"narHash":"sha256-knT3lMO8soT/hooJKQfoq307g3690FreHDm7H7XyZ5g=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.3.tgz"},"0.8.4":{"narHash":"sha256-dTCbKucf9ElRc7HhnyvG0K7/AHSNAZ+Giu91h92KjLs=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.4.tgz"},"0.8.5":{"narHash":"sha256-hoZF9ZiBubvUMs12cBK5+bjZU+awAKRDI7pEE3aMgYs=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.5.tgz"},"0.8.6":{"narHash":"sha256-YcaM71IfGahHVo7dY5j/UJAMB71MdxtyARLdF3XNYQY=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.6.tgz"},"0.8.7":{"narHash":"sha256-RCjgY2wm3D9toZi06GbC+6JfyZaOOJwJSpRyQJikTj0=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.7.tgz"},"0.8.8":{"narHash":"sha256-IutjMEsRcEZBVmAw/EzmHZiLjl29Abc1j8oeoSKxuAY=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.8.8.tgz"},"0.9.0":{"narHash":"sha256-6bPnegbDQao9OMmZZlsXW03iKaYgHKuPEM4oKipF15A=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.0.tgz"},"0.9.1":{"narHash":"sha256-dNXmVmmf/XiWrrkBr7QdGL9An4bf/CWIvtUaMU29sUM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.1.tgz"},"0.9.2":{"narHash":"sha256-dQj1FhV/gQZP9tuXGaBmmxDSB772V5BHZuUPwn6zeZU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.2.tgz"},"0.9.3":{"narHash":"sha256-MJkv1DQMXv3xi7TxmaehMz+q0UQD9OiyMxyYb8/oTQ4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.3.tgz"},"0.9.4":{"narHash":"sha256-hSkvKPFFgj3uWLhgLT3m2y6OgEydS/IA8gBKbWtSPGA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.4.tgz"},"0.9.5":{"narHash":"sha256-DwM0YtziXTP8zQ0B2jUn/kmNq3Z5qP5qrAZtY0lgjgI=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.5.tgz"},"0.9.6":{"narHash":"sha256-ZHlPXzPxhk4uOWTe60iVX57PdxPtqUYv470tl950wgo=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.6.tgz"},"0.9.7":{"narHash":"sha256-fGRHQQ7GJyP1PpPg2b8eLDhzfeorNVdIIfLlqoZB1Bs=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.7.tgz"},"0.9.8":{"narHash":"sha256-fYAT1dt36J4/o4jICfccaDdbBmFtu1jUB4VRUduP29g=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-0.9.8.tgz"},"1.0.0":{"narHash":"sha256-FGAYw3SKTng4hPuUBc4DnFKQoFwJ4fm/byB5ZjLIE5Q=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-f5O5JnjR82bnP5cA4GURiNkRI5/AstQeqoqI4OR+r1Q=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-nxd1D6rhqt2LVlYXeoc8nMBLK8Y4QKvc2ptgD6O6Sbs=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-1iehfMJojrm0e83qjmcAATCp8+6ZCiVydDXIcy3Ixcw=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.1.2.tgz"},"1.2.0":{"narHash":"sha256-qbU4PYAMWOfcoKpTSt7PvVkUDPHLhjp9ZTS4rs2wZ2k=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.2.0.tgz"},"1.3.0":{"narHash":"sha256-1igu5hAet5HDzyxsQm8ZVTUN8Qh+3xNY80CVt000Xfw=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.3.0.tgz"},"1.4.0":{"narHash":"sha256-r9KXEozBmx/H+Zg4EVEB09+eJcCb2UJInQeEOlPBR4c=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.4.0.tgz"},"1.4.1":{"narHash":"sha256-oQyjyxW481u2NUMEK0FKnPfbYeodOx0Kw/tYGF0NL34=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.4.1.tgz"},"1.5.0":{"narHash":"sha256-6+Sb3inkhGxvPDDBEr03HBKa6gp2/O7D5pNCP0TNpJo=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.5.0.tgz"},"1.6.0":{"narHash":"sha256-5z/JBt+Po7kw3cV7YRKkQ7c8FU9bK13XdD/Dh7DPEJM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.6.0.tgz"},"1.7.0":{"narHash":"sha256-jEJkb3WhY5ZM/B+hAamdys/MBBECwcGUkfLWv7Y55vk=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.7.0.tgz"},"1.7.1":{"narHash":"sha256-0Trz5DU41s4yN+4wvPod/GSTe24yycCtHNL3j4+QUwc=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-1.7.1.tgz"},"2.0.0":{"narHash":"sha256-+jPOQoMr8JjHOlK7Vx/fYTLZd4j0wQPrjswAqapq6NE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-2.0.0.tgz"},"2.0.2":{"narHash":"sha256-54BOjNRnVHlkAxfOU82RD4oDY981lPn/8rKDzpx0Xdg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-JHiwQXU80gK4sh+hjFGLteJndm+5VkYD3yI/O9aDkBA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-AbWc1To1FqPjnyMxIKvdMhuc/joBZPzppEXglWachEc=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-au1bX7csC8wDg8bQfeoo9HumhDICmzTrAk1+G7p+ERw=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-2.0.5.tgz"},"3.0.0":{"narHash":"sha256-21kC5aUWAefvgN8fxkZsXK1XW0fvjbDI54n2bkN/Ztg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-SQcXju3p02pFrbkU58gWghehFqcl6Z6R94VG/mdG4Eg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-3.1.0.tgz"},"3.1.1":{"narHash":"sha256-KQ1f+vdIspuozcM/qnwbUc7qArrAMwu6P/FdCdf7aWE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-3.1.1.tgz"},"3.1.2":{"narHash":"sha256-hREcpvM4DmYVTTB2Wc6II6EdnM1w75yMQmy0l1v5a90=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-3.1.2.tgz"},"3.1.3":{"narHash":"sha256-xW/Ha+Q9Ap9M1pawpdbvOLpsOe1GysdqT0e4vHGg90k=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-3.1.3.tgz"},"3.1.4":{"narHash":"sha256-K+P8l/9/0mYhTw3YnWPLAhdT96D3KeAwOb5lg1D4A2Y=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-3.1.4.tgz"},"4.0.0":{"narHash":"sha256-4Z4PTA3MPgcMcZCHPOopeUPPVTAzxkiENE+X3kPxM4s=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-0Ig2gbl13QHqcrvQlpbm3GL1L7kzS9xpPssfIrNGd/o=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-4.0.1.tgz"},"4.1.0":{"narHash":"sha256-pqnB3ILIrksu04xzZKHV0w0AlEOJpzjQXMpRKDKlD+k=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-4.1.0.tgz"},"4.2.0":{"narHash":"sha256-zqnv+/Meo2W87Aq9Q5YR8LpMlfBezdTte+ChKPwQUHs=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-4.2.0.tgz"},"4.3.0":{"narHash":"sha256-zvOU8u3YgfBsG81hu+DHcaqlZbL9eKrfiDILUfffrS4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-4.3.0.tgz"},"4.4.0":{"narHash":"sha256-Xrl8VO3/j5CDxUtZjqPzj8HkC0lbI4ica3E97FPvl1k=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-4.4.0.tgz"},"4.4.1":{"narHash":"sha256-Svknt+vNWhJ1mUmT/DvFXpF+dS11qSMvi1+kIrnX5TE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-4.4.1.tgz"},"5.0.0":{"narHash":"sha256-hKQOWjjP3oIBzZ4WHfpYJFBZ/bUCDG+BYYd5ReVMJaQ=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-WKfGZidE0WV7vWdCXHq4adifEHy9hrd3GqZDCz5xUTg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-zcmprq/8lCeu1M5LbpEqCjPX8idbGY9OF5E18fKXq0Y=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-5As6zknkkdo6B10UYAS0Umc2PqhL7+7cVuqczzmmcJA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-vG9D7wUYLQ9jE0yXD7VkLqDgUNvmVmfiXRfoQ6ZOwh8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.4.tgz"},"5.0.5":{"narHash":"sha256-tHoJc317j2B28U/+G9cv4Mo3hc8lfFp4ysxl2cPYZZg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.5.tgz"},"5.0.6":{"narHash":"sha256-rXhlB8ezOD0EfV9Dqtg/VQbVJOMpWo9ZsWW/Amd3QzI=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.6.tgz"},"5.0.7":{"narHash":"sha256-9qYY0RrfD3Tfvh9a2Q5Ak1zbTCCSXIytmmP+X26et5M=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.7.tgz"},"5.0.8":{"narHash":"sha256-DMu+J57EQlheR37ndSwlTM/WfT/jafr+8ZPGwOuE9cg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.8.tgz"},"5.0.9":{"narHash":"sha256-E400FSCBdd8Z6+izySVly5MejNWEaV2NDOUxbdTdY8A=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.0.9.tgz"},"5.1.0":{"narHash":"sha256-G9NoN+RYpam4NLYTedkopWCy9vZibvTPrjdGLEMxb94=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.1.0.tgz"},"5.1.1":{"narHash":"sha256-vyTetpXeV4643P4L+FXAYjMVpKk//tZA+rk6D3/u9zk=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.1.1.tgz"},"5.2.0":{"narHash":"sha256-fbXVr7qfiEKDUAT5C6+fXIccrhIwYjRMDNxIQkOtnyk=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.2.0.tgz"},"5.2.1":{"narHash":"sha256-sw8X/43a9Q5/Ue8MYDV01boHo/9WkEAb6Pf60qMsrnU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.2.1.tgz"},"5.2.2":{"narHash":"sha256-7q4cARI2OBqcLOK2gRnnHfRCTjjyf2vwZBwqchngPE4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.2.2.tgz"},"5.2.3":{"narHash":"sha256-ts21JiuM2PiMIHlr5v3yUe52yz24ANOxr1DTkH6wwxc=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-5.2.3.tgz"},"6.0.0":{"narHash":"sha256-sAEeP92mI4QGaAqnvU7/Z2StJ+iEowXVQbF/jqaTC3I=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.0.0.tgz"},"6.0.1":{"narHash":"sha256-4xdEIWCFPpUaTSgPOyMsBLfZ4TDyjkvp26XQ31Y08RM=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.0.1.tgz"},"6.0.2":{"narHash":"sha256-n90eLEpO0KeVcUO7HnE42tMpVfx1Q3dnVOiPZ17d/Vo=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.0.2.tgz"},"6.0.3":{"narHash":"sha256-mve/VqCyPoOqQgdhBbAB+8tpfjjkfI0y3XpGJ6oLFpw=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.0.3.tgz"},"6.0.4":{"narHash":"sha256-7v3mBoDe9W0s/TbNJPWLksxoRIqA+63IArkLEJuT478=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.0.4.tgz"},"6.1.0":{"narHash":"sha256-E+/T/Wjaoj/60zRA9it7vmpnlAnIrSaeeO6GH5gwuPo=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.1.0.tgz"},"6.1.1":{"narHash":"sha256-X6I940MV19HNjxEMAzM15TReECRsNafvNZOKG5H8pGk=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.1.1.tgz"},"6.1.2":{"narHash":"sha256-UMteKXjik/ADPWjs3cXlrTbCLAQIJK/z92qMwK0QTcc=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.1.2.tgz"},"6.2.0":{"narHash":"sha256-YZKYMpxN/d/j49rVLAuMGq9G7b4ftSOabnfu/KX48ak=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.2.0.tgz"},"6.3.0":{"narHash":"sha256-YzyfmH2nwnjWEZS1BuYGd6+X5I9KkOqqKZSbFrtlNA0=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.0.tgz"},"6.3.1":{"narHash":"sha256-4aQ6VX8jaOiTAzIjCCYs0CDQbz5ficKlGVgO/txr2sk=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.1.tgz"},"6.3.10":{"narHash":"sha256-WcAsSdkJBBhFBuUVJV1LL55aA0Bl6qZi3ChgR2Rum2w=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.10.tgz"},"6.3.11":{"narHash":"sha256-86JDC0+TQf0vN5uXJzBhOH8mRuOy3yCUjrZtPe1MRpg=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.11.tgz"},"6.3.12":{"narHash":"sha256-xfZRyW5IsYNmsbZUMGq7AqRlp/PSFXQDM6UNK08RYaA=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.12.tgz"},"6.3.13":{"narHash":"sha256-o9c1Z0agn6J/spNKaawcV1wqlaltIPcOaaKXDapz1dU=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.13.tgz"},"6.3.14":{"narHash":"sha256-kx0pTfaD8KFaO0NNYbET6R6bTODSRjSUhjC1AAig1X4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.14.tgz"},"6.3.15":{"narHash":"sha256-MUKX8r9pXGxRSh0yylFELGKT+AjbbOQNZC8d7bFwlWI=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.15.tgz"},"6.3.16":{"narHash":"sha256-aX5gn6USTVUnRpq6WyZnlMSjFdkP8WeUui5X2knBf08=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.16.tgz"},"6.3.17":{"narHash":"sha256-X6G5BkCUhONdFTGiH47psJgtXTWd036MFKxa2pitm1w=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.17.tgz"},"6.3.18":{"narHash":"sha256-ysjtfWYrCWQB2b5wsjB/76jIvhAP1urcsuQs/gYauj4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.18.tgz"},"6.3.19":{"narHash":"sha256-qt2mmMYQeoWJE8XITCsiEgBBsyvqmlOf9n5HEaJtag4=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.19.tgz"},"6.3.2":{"narHash":"sha256-fbyo8vKd1PvmwyMoqpdMqDxhdnp2ym7jH7hdS6oBg/U=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.2.tgz"},"6.3.20":{"narHash":"sha256-nR+b01r0d9PJ5d7QogIO2XuD1yVs8IvU5+Yoj30YZT8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.20.tgz"},"6.3.3":{"narHash":"sha256-SdTWWGb8jeauBlf93tW9YpssUBdH1l5PXmRpxiDZjE0=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.3.tgz"},"6.3.4":{"narHash":"sha256-f3QTLjtxiHKFisR+MZJpIIYiQMKH3f+7CqUvFAPSua8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.4.tgz"},"6.3.5":{"narHash":"sha256-KhluINghV84vxUTvhJTEUYUOEU7zS4ULSNZmufA1ThE=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.5.tgz"},"6.3.6":{"narHash":"sha256-AHrfHt1A+TegUKcKg7BxPogMLSyzTVeKtEC9Z4Ajv9k=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.6.tgz"},"6.3.7":{"narHash":"sha256-IYJXSzXnW6iFkPi7ApNIZUvUeR+mCD2F7SeVGPMkbCk=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.7.tgz"},"6.3.8":{"narHash":"sha256-qaTfsSdTl8VcBrMone9e2Dhu0oP9Dw0ECvU92PH2/oI=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.8.tgz"},"6.3.9":{"narHash":"sha256-XwzSx6gVnL9p8QuFUl3aApJFLw8bokPtfnNlaD48Xww=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.3.9.tgz"},"6.4.0":{"narHash":"sha256-f9BbIs0SchCDp4DVyxhWwWoZlGFp4QtjMjfTw++FS8E=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.4.0.tgz"},"6.4.1":{"narHash":"sha256-XMf/9i+wjfWGafrgDwbMrVUMMGY5x62/4HIZGDi2Uo8=","type":"tarball","url":"https://registry.npmjs.org/karma/-/karma-6.4.1.tgz"}}
+{
+  "0.10.0": {
+    "narHash": "sha256-j1BrSUo8PrKS1fbKvhFNM44NPXzyHcyShuX8QerR/As=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.0.tgz"
+  },
+  "0.10.1": {
+    "narHash": "sha256-r84+uUzDEzvpYQ+jzASmKNbbT4EslwXRRoNsYX9p7Lo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.1.tgz"
+  },
+  "0.10.10": {
+    "narHash": "sha256-VGhK9PBnD4N1bufzK6mKpMFAjV3NjO3sCBdt9XwFEKA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.10.tgz"
+  },
+  "0.10.2": {
+    "narHash": "sha256-zWaW0TaWMg7iiLXNa7rJmpsPKRQsQE/QJwgdEBdCVr8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.2.tgz"
+  },
+  "0.10.3": {
+    "narHash": "sha256-lXrjkC/t/wN9Opz5k9ZL+ZFLsMxoLbCKpGYSzu57vZ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.3.tgz"
+  },
+  "0.10.4": {
+    "narHash": "sha256-msBErSv2qxTWla1OC8Z3NRRveZnngT4JZGq+GyXjZOE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.4.tgz"
+  },
+  "0.10.5": {
+    "narHash": "sha256-GaBgGhaLEIc2ThUeFeJ2KspdBfVO2IxlsfqfkQN5dDM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.5.tgz"
+  },
+  "0.10.6": {
+    "narHash": "sha256-SLr1/+vPnLAeBhSiV21fRYcl4oPdeQUttt+7MIvdRLo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.6.tgz"
+  },
+  "0.10.7": {
+    "narHash": "sha256-MmyAKeE9n1ntxmHdSLAYKaPRhXBWFzxKW/K698IWD0g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.7.tgz"
+  },
+  "0.10.8": {
+    "narHash": "sha256-eR50FXc35nesI+OF2cg+41OQY4+wUfqTlElmIuICVig=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.8.tgz"
+  },
+  "0.10.9": {
+    "narHash": "sha256-Y0wTP4fkn+kmochBzL8U/s7zYo1bqHrZSzRNz35nZGM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.10.9.tgz"
+  },
+  "0.11.0": {
+    "narHash": "sha256-s1kom15BkCUOSOMyLdU6t1kFjWXyXB7Rr03i8gaDoNE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.0.tgz"
+  },
+  "0.11.1": {
+    "narHash": "sha256-6gCAQGEdii3GszMDVkH5AJQ+5u4L3vXJaN3vRB0xI4E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.1.tgz"
+  },
+  "0.11.10": {
+    "narHash": "sha256-9JjUMsWBIdPaqcG0ROB7Cx91I4yxutfrrq8CsAIrRf8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.10.tgz"
+  },
+  "0.11.11": {
+    "narHash": "sha256-VGv63sSc2lUc/N7KbU+BuvNup8ugPuTAjqNW0t2Dgic=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.11.tgz"
+  },
+  "0.11.12": {
+    "narHash": "sha256-35+uA7o9D+Td3jNKzUk/czo3DbdTD019b7T/9wV5N5g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.12.tgz"
+  },
+  "0.11.13": {
+    "narHash": "sha256-DoEJlV6GfgDVQG02BXYx2zet0TZWuUmRkkE0mClwBbs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.13.tgz"
+  },
+  "0.11.14": {
+    "narHash": "sha256-gCInQ6nKCkgRSea6X/ckWDr0PHX6ybmP2zWewYfBanQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.14.tgz"
+  },
+  "0.11.2": {
+    "narHash": "sha256-PtYEH9WhzWrFARRwPhVFzV+v0f5apdmnSCqH6nemGhM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.2.tgz"
+  },
+  "0.11.3": {
+    "narHash": "sha256-7t2DTtgQoEHGazzQqfM22EVzTD5RuVn89NogmK/7jrE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.3.tgz"
+  },
+  "0.11.4": {
+    "narHash": "sha256-QsRlD2sdDRm3f5u05rX9R2jvy7CZnCgOxTRakyO3kG8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.4.tgz"
+  },
+  "0.11.5": {
+    "narHash": "sha256-MsfAYf8ZS5VUxhgm2t56ASxt3bagtY9xVwaWseFdgAY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.5.tgz"
+  },
+  "0.11.6": {
+    "narHash": "sha256-3cxHfEapsKSPS8aEx8fH6q+pdeEkyh6ITAe2Z7c0IAI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.6.tgz"
+  },
+  "0.11.7": {
+    "narHash": "sha256-F9blSqzu3Q9Lo7wITQ6e+rcbH59ThEwICRroeua8RRQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.7.tgz"
+  },
+  "0.11.8": {
+    "narHash": "sha256-0/SxC0oc/lgiY4cG02CMnm/l7fmqz1G5iv79dM/haVM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.8.tgz"
+  },
+  "0.11.9": {
+    "narHash": "sha256-YC7UJDCQGbgNcdrsvPfXdWbeaCKxzVzf/Zd8QNG1vgc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.11.9.tgz"
+  },
+  "0.12.0": {
+    "narHash": "sha256-Ch+FDP3efR34k+5eQ3+uapORL7ilbe9rWpHpLzxGQ0U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.0.tgz"
+  },
+  "0.12.1": {
+    "narHash": "sha256-ML/rHzSaXwQqVppjPpqfFJ2CT9EAr7SzSIz06cULJMQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.1.tgz"
+  },
+  "0.12.10": {
+    "narHash": "sha256-7V2lexfkByqbjdzFMktXWpxF2G1apNHTzFci6IoV5uU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.10.tgz"
+  },
+  "0.12.11": {
+    "narHash": "sha256-riH66FPAlcwyt8E77SKSY55BKe469+pEP4y5heHPW+g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.11.tgz"
+  },
+  "0.12.12": {
+    "narHash": "sha256-vEESupN36HQ767peCSIinKJ1DyZCWFkRp6S8gu3Xy7g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.12.tgz"
+  },
+  "0.12.13": {
+    "narHash": "sha256-Y4U2wV0lO7kKE086KVgiYRDKCsb0QWXg9y3AFaKjjRU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.13.tgz"
+  },
+  "0.12.14": {
+    "narHash": "sha256-NXQK1BeTwqSQvtFnPLayTnCObv/AO70eBIJEHpvAnUM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.14.tgz"
+  },
+  "0.12.15": {
+    "narHash": "sha256-OieTuA1VZbZeaDAyUFR1HjZyPuQ47nEZePf3lI93wCg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.15.tgz"
+  },
+  "0.12.16": {
+    "narHash": "sha256-Vto/g7kdZ+Nr0GFiGLPPya5CPWfK4hpHx5z3n8p/lfE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.16.tgz"
+  },
+  "0.12.17": {
+    "narHash": "sha256-FSZsWq/SmGRe833C5YjgvcJLgUE1tVG0FQuHTqucoNw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.17.tgz"
+  },
+  "0.12.18": {
+    "narHash": "sha256-3kXwi9+bVZ22b9+RAly9qonYcNtf9VTtfT7cCHYqspk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.18.tgz"
+  },
+  "0.12.19": {
+    "narHash": "sha256-F5kvmf7oO6yf7TdIHL1WorhO18Vt4c7n3RpkDfuoiu4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.19.tgz"
+  },
+  "0.12.2": {
+    "narHash": "sha256-F35fJJDkCAyir5BZpCi1WmmQ7FVN9xfqgkpaTwEHVkw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.2.tgz"
+  },
+  "0.12.20": {
+    "narHash": "sha256-MaofD3/xVtNmAFYDM4hnxfUW3rvkxC3841pmS+FMy00=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.20.tgz"
+  },
+  "0.12.21": {
+    "narHash": "sha256-P9cKBvgGh9JLG2wL0UCsfLDMkTWcTMx4XMJnBr0pRaU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.21.tgz"
+  },
+  "0.12.22": {
+    "narHash": "sha256-+/7EObvufW/vOTKopw28mn7RUBXv2QbbbCU5daZhJFo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.22.tgz"
+  },
+  "0.12.23": {
+    "narHash": "sha256-TBnOiqgjxdN9gfw8iJnAvHo5CVbh+jDfaVtDxCUqxPg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.23.tgz"
+  },
+  "0.12.24": {
+    "narHash": "sha256-iDRsBlHaE/0RUGafjs5nKGhn7Y5AKBlMn9iJgiBqOXw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.24.tgz"
+  },
+  "0.12.25": {
+    "narHash": "sha256-RQkzfb+nVTLHFUWi7Idw/8SFKWiCLUEkJnk19EH6B1c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.25.tgz"
+  },
+  "0.12.26": {
+    "narHash": "sha256-RTNUo+FNV4bG8oCU1E08jQ3S34rNoTv3w62e4cph+d8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.26.tgz"
+  },
+  "0.12.27": {
+    "narHash": "sha256-6OKB/CKAgHNtrZOjd3tap1CYv1Z37V+kQTjG7DkRPO0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.27.tgz"
+  },
+  "0.12.28": {
+    "narHash": "sha256-rpJBVbJD0ZZGQ20Dt8lBGK+8eCrX1tLFBguzk0wwgno=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.28.tgz"
+  },
+  "0.12.29": {
+    "narHash": "sha256-rnyTNwA5l8SwXH9RkOm3jfIYc45nCcpi2bRtmECPQvM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.29.tgz"
+  },
+  "0.12.3": {
+    "narHash": "sha256-5zGISLlWDjdyvWO09/VwFMsU0otyLr0muxgtJJzORM4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.3.tgz"
+  },
+  "0.12.30": {
+    "narHash": "sha256-Y9P3RXFVIH/O4tW2uKuVg/gUaJPRm02jfcc2MNwzBQM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.30.tgz"
+  },
+  "0.12.31": {
+    "narHash": "sha256-bAPC5o++gOGCPEMqD4u5JYaHHaMTsHYUds4/OWxlvxY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.31.tgz"
+  },
+  "0.12.32": {
+    "narHash": "sha256-gbJyKpAX7/1Fo0tnHguVSgifqCq5tSM38L4mZRCaZP8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.32.tgz"
+  },
+  "0.12.33": {
+    "narHash": "sha256-c8/onQgbGbJuS47STbZzT1/dz4ryXoXcvnHJECz+FAU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.33.tgz"
+  },
+  "0.12.34": {
+    "narHash": "sha256-8R6NbNUoegZSCMG4tsRywX9X4yGyHkB4tpJ2Kvsu8ds=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.34.tgz"
+  },
+  "0.12.35": {
+    "narHash": "sha256-sN3XQvJToAHjJRPRndo0UTMu5KCkbUTOiMe01Raje2g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.35.tgz"
+  },
+  "0.12.36": {
+    "narHash": "sha256-+3YMU/zDChZHXr0CkIJmVsCaWeCoBoGT5NrTB+9nT5w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.36.tgz"
+  },
+  "0.12.37": {
+    "narHash": "sha256-JoaShNz4RMrkC3y0z15seKSp0IicYRqtNnJOVKdar2k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.37.tgz"
+  },
+  "0.12.4": {
+    "narHash": "sha256-pWhWz3f/AS+M3XR94y+wODzEohYfryqfobfxo6udakY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.4.tgz"
+  },
+  "0.12.5": {
+    "narHash": "sha256-DBckFyB4HbKFpXjQtVS9s/KsH2/w0yAfo8j2sIeYJEA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.5.tgz"
+  },
+  "0.12.6": {
+    "narHash": "sha256-edUIHoI0wCfwRzwyRGtULl1iDN9XEONBnF0Kyp6lNxM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.6.tgz"
+  },
+  "0.12.7": {
+    "narHash": "sha256-lhxNsWdBkjXN3zLy9ehurmRge/Gs1MPfUuMZG3z6kZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.7.tgz"
+  },
+  "0.12.8": {
+    "narHash": "sha256-OF2fVXLXIV/Cx6Jd+9CKz+AGko/EP8CT28zARR6yYnA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.8.tgz"
+  },
+  "0.12.9": {
+    "narHash": "sha256-8kecBTZzzUJO0cUDTI10DVCdqBbyPLKF4BSw3kOkWH4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.12.9.tgz"
+  },
+  "0.13.0": {
+    "narHash": "sha256-dRXI6Wdm6uqrHcPSXCVFowKPmHvDW8GbRSMNY2GfSYE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.0.tgz"
+  },
+  "0.13.1": {
+    "narHash": "sha256-CZ2CwB7t9VEpOBqmI3vcfSmC0GcSSKdaza2iseOBOcU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.1.tgz"
+  },
+  "0.13.10": {
+    "narHash": "sha256-w0wKi+Z0UpFeBWPRaA+LE8ObDk1uHvRt4labjC7DZjc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.10.tgz"
+  },
+  "0.13.11": {
+    "narHash": "sha256-p7njEGOv/IFqs7Gs65pC/CcsslNrsN4Fv904pS9DkSg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.11.tgz"
+  },
+  "0.13.12": {
+    "narHash": "sha256-M78U4Qrygm3sSizHg7fYsZTn5ZGCbWRTgnQEZ2clPtA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.12.tgz"
+  },
+  "0.13.13": {
+    "narHash": "sha256-NXANpqtZoYIDPyRho9fyTMbIT10GFu4Fl+RAopFsIos=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.13.tgz"
+  },
+  "0.13.14": {
+    "narHash": "sha256-mi2eJlAi3rgaNhL+4l8NQ2k/MSUUSILqCSIxrfK1Nps=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.14.tgz"
+  },
+  "0.13.15": {
+    "narHash": "sha256-jtD5EriBQWZ6rF7jDc1VS9dP2TQt3XiZFqi/MdlQV9w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.15.tgz"
+  },
+  "0.13.16": {
+    "narHash": "sha256-kJkBcArAOFGFMtdFcu1DLWwD0kRIUMVKhfTaHbooKnI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.16.tgz"
+  },
+  "0.13.17": {
+    "narHash": "sha256-3rgbU1tqf2fIpdMVibhPtMMRdLRn/7xVoZVlc36FRko=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.17.tgz"
+  },
+  "0.13.18": {
+    "narHash": "sha256-+kZcVYY7KU3tMzJ4O+JHdYIIjmFXZhr3wVDSOKSfups=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.18.tgz"
+  },
+  "0.13.19": {
+    "narHash": "sha256-L3PEofUExJ86iWUKsSoGu1xB0dFtNriNfKucBXcDWUs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.19.tgz"
+  },
+  "0.13.2": {
+    "narHash": "sha256-63jgguJJrP0kuEHfxgLTNFDnpZ24vBV2lgV+6ixEIVg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.2.tgz"
+  },
+  "0.13.20": {
+    "narHash": "sha256-qCtzdj3RoFsdMlb6B7hE2T6EfR3gvLEhZwr969DPWgc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.20.tgz"
+  },
+  "0.13.21": {
+    "narHash": "sha256-tJigLKItbWWI8ZzdGSJsR6n7QYCVQE+ef95mr3QLsRw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.21.tgz"
+  },
+  "0.13.22": {
+    "narHash": "sha256-fTbMqKSlajQf6DotWqWqzPqPZL6xe3KlwqjRq2H1WcQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.22.tgz"
+  },
+  "0.13.3": {
+    "narHash": "sha256-39hh4Oqp0w/QVa0gdLZ8U4GPrssc6oHzWmnGSWYlChA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.3.tgz"
+  },
+  "0.13.4": {
+    "narHash": "sha256-mxDGWDGxGDCWUPrwFL1u8mWCJdfp46hePi4D0KjDH7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.4.tgz"
+  },
+  "0.13.5": {
+    "narHash": "sha256-Jn2gAcrRXLqLOOWma0aRP1agUF64aRMuPabo/3Unprs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.5.tgz"
+  },
+  "0.13.6": {
+    "narHash": "sha256-//edfiYMm2PHvhTa+Zrb1S/E1C+btf/TJ2dNsOzb97U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.6.tgz"
+  },
+  "0.13.7": {
+    "narHash": "sha256-48U3OpLQ3+T6tg6XNTiSMS+q3CE4dWH4At0S6rmqyog=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.7.tgz"
+  },
+  "0.13.8": {
+    "narHash": "sha256-1LpghrWIkD2lm+2fjqv8DEvd0fHQ40HktxRslAhY7pg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.8.tgz"
+  },
+  "0.13.9": {
+    "narHash": "sha256-MlIMeZqKvjD+dP3XHM9VrTEaOJj6f7iUF2cyL1wmylU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.13.9.tgz"
+  },
+  "0.8.0": {
+    "narHash": "sha256-VqKVIThHCQ3IH3hzoZXuHFFpfeudxgYnlPQzU+RdhUI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.0.tgz"
+  },
+  "0.8.1": {
+    "narHash": "sha256-3igEjPlNDywbXQja4QzOGPyrxoXdgdDFrieLlaEuKD8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.1.tgz"
+  },
+  "0.8.2": {
+    "narHash": "sha256-IwzpfPjVHRjHPlq7P/li9DQs5qnge1NUkl+nU829+ok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.2.tgz"
+  },
+  "0.8.3": {
+    "narHash": "sha256-knT3lMO8soT/hooJKQfoq307g3690FreHDm7H7XyZ5g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.3.tgz"
+  },
+  "0.8.4": {
+    "narHash": "sha256-dTCbKucf9ElRc7HhnyvG0K7/AHSNAZ+Giu91h92KjLs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.4.tgz"
+  },
+  "0.8.5": {
+    "narHash": "sha256-hoZF9ZiBubvUMs12cBK5+bjZU+awAKRDI7pEE3aMgYs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.5.tgz"
+  },
+  "0.8.6": {
+    "narHash": "sha256-YcaM71IfGahHVo7dY5j/UJAMB71MdxtyARLdF3XNYQY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.6.tgz"
+  },
+  "0.8.7": {
+    "narHash": "sha256-RCjgY2wm3D9toZi06GbC+6JfyZaOOJwJSpRyQJikTj0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.7.tgz"
+  },
+  "0.8.8": {
+    "narHash": "sha256-IutjMEsRcEZBVmAw/EzmHZiLjl29Abc1j8oeoSKxuAY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.8.8.tgz"
+  },
+  "0.9.0": {
+    "narHash": "sha256-6bPnegbDQao9OMmZZlsXW03iKaYgHKuPEM4oKipF15A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.0.tgz"
+  },
+  "0.9.1": {
+    "narHash": "sha256-dNXmVmmf/XiWrrkBr7QdGL9An4bf/CWIvtUaMU29sUM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.1.tgz"
+  },
+  "0.9.2": {
+    "narHash": "sha256-dQj1FhV/gQZP9tuXGaBmmxDSB772V5BHZuUPwn6zeZU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.2.tgz"
+  },
+  "0.9.3": {
+    "narHash": "sha256-MJkv1DQMXv3xi7TxmaehMz+q0UQD9OiyMxyYb8/oTQ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.3.tgz"
+  },
+  "0.9.4": {
+    "narHash": "sha256-hSkvKPFFgj3uWLhgLT3m2y6OgEydS/IA8gBKbWtSPGA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.4.tgz"
+  },
+  "0.9.5": {
+    "narHash": "sha256-DwM0YtziXTP8zQ0B2jUn/kmNq3Z5qP5qrAZtY0lgjgI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.5.tgz"
+  },
+  "0.9.6": {
+    "narHash": "sha256-ZHlPXzPxhk4uOWTe60iVX57PdxPtqUYv470tl950wgo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.6.tgz"
+  },
+  "0.9.7": {
+    "narHash": "sha256-fGRHQQ7GJyP1PpPg2b8eLDhzfeorNVdIIfLlqoZB1Bs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.7.tgz"
+  },
+  "0.9.8": {
+    "narHash": "sha256-fYAT1dt36J4/o4jICfccaDdbBmFtu1jUB4VRUduP29g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-0.9.8.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-FGAYw3SKTng4hPuUBc4DnFKQoFwJ4fm/byB5ZjLIE5Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-f5O5JnjR82bnP5cA4GURiNkRI5/AstQeqoqI4OR+r1Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-nxd1D6rhqt2LVlYXeoc8nMBLK8Y4QKvc2ptgD6O6Sbs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-1iehfMJojrm0e83qjmcAATCp8+6ZCiVydDXIcy3Ixcw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.1.2.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-qbU4PYAMWOfcoKpTSt7PvVkUDPHLhjp9ZTS4rs2wZ2k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.2.0.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-1igu5hAet5HDzyxsQm8ZVTUN8Qh+3xNY80CVt000Xfw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.3.0.tgz"
+  },
+  "1.4.0": {
+    "narHash": "sha256-r9KXEozBmx/H+Zg4EVEB09+eJcCb2UJInQeEOlPBR4c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.4.0.tgz"
+  },
+  "1.4.1": {
+    "narHash": "sha256-oQyjyxW481u2NUMEK0FKnPfbYeodOx0Kw/tYGF0NL34=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.4.1.tgz"
+  },
+  "1.5.0": {
+    "narHash": "sha256-6+Sb3inkhGxvPDDBEr03HBKa6gp2/O7D5pNCP0TNpJo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.5.0.tgz"
+  },
+  "1.6.0": {
+    "narHash": "sha256-5z/JBt+Po7kw3cV7YRKkQ7c8FU9bK13XdD/Dh7DPEJM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.6.0.tgz"
+  },
+  "1.7.0": {
+    "narHash": "sha256-jEJkb3WhY5ZM/B+hAamdys/MBBECwcGUkfLWv7Y55vk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.7.0.tgz"
+  },
+  "1.7.1": {
+    "narHash": "sha256-0Trz5DU41s4yN+4wvPod/GSTe24yycCtHNL3j4+QUwc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-1.7.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-+jPOQoMr8JjHOlK7Vx/fYTLZd4j0wQPrjswAqapq6NE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-2.0.0.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-54BOjNRnVHlkAxfOU82RD4oDY981lPn/8rKDzpx0Xdg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-JHiwQXU80gK4sh+hjFGLteJndm+5VkYD3yI/O9aDkBA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-AbWc1To1FqPjnyMxIKvdMhuc/joBZPzppEXglWachEc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-au1bX7csC8wDg8bQfeoo9HumhDICmzTrAk1+G7p+ERw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-2.0.5.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-21kC5aUWAefvgN8fxkZsXK1XW0fvjbDI54n2bkN/Ztg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-SQcXju3p02pFrbkU58gWghehFqcl6Z6R94VG/mdG4Eg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-3.1.0.tgz"
+  },
+  "3.1.1": {
+    "narHash": "sha256-KQ1f+vdIspuozcM/qnwbUc7qArrAMwu6P/FdCdf7aWE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-3.1.1.tgz"
+  },
+  "3.1.2": {
+    "narHash": "sha256-hREcpvM4DmYVTTB2Wc6II6EdnM1w75yMQmy0l1v5a90=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-3.1.2.tgz"
+  },
+  "3.1.3": {
+    "narHash": "sha256-xW/Ha+Q9Ap9M1pawpdbvOLpsOe1GysdqT0e4vHGg90k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-3.1.3.tgz"
+  },
+  "3.1.4": {
+    "narHash": "sha256-K+P8l/9/0mYhTw3YnWPLAhdT96D3KeAwOb5lg1D4A2Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-3.1.4.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-4Z4PTA3MPgcMcZCHPOopeUPPVTAzxkiENE+X3kPxM4s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-0Ig2gbl13QHqcrvQlpbm3GL1L7kzS9xpPssfIrNGd/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-4.0.1.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-pqnB3ILIrksu04xzZKHV0w0AlEOJpzjQXMpRKDKlD+k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-4.1.0.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-zqnv+/Meo2W87Aq9Q5YR8LpMlfBezdTte+ChKPwQUHs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-4.2.0.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-zvOU8u3YgfBsG81hu+DHcaqlZbL9eKrfiDILUfffrS4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-4.3.0.tgz"
+  },
+  "4.4.0": {
+    "narHash": "sha256-Xrl8VO3/j5CDxUtZjqPzj8HkC0lbI4ica3E97FPvl1k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-4.4.0.tgz"
+  },
+  "4.4.1": {
+    "narHash": "sha256-Svknt+vNWhJ1mUmT/DvFXpF+dS11qSMvi1+kIrnX5TE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-4.4.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-hKQOWjjP3oIBzZ4WHfpYJFBZ/bUCDG+BYYd5ReVMJaQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-WKfGZidE0WV7vWdCXHq4adifEHy9hrd3GqZDCz5xUTg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-zcmprq/8lCeu1M5LbpEqCjPX8idbGY9OF5E18fKXq0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-5As6zknkkdo6B10UYAS0Umc2PqhL7+7cVuqczzmmcJA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-vG9D7wUYLQ9jE0yXD7VkLqDgUNvmVmfiXRfoQ6ZOwh8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.4.tgz"
+  },
+  "5.0.5": {
+    "narHash": "sha256-tHoJc317j2B28U/+G9cv4Mo3hc8lfFp4ysxl2cPYZZg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.5.tgz"
+  },
+  "5.0.6": {
+    "narHash": "sha256-rXhlB8ezOD0EfV9Dqtg/VQbVJOMpWo9ZsWW/Amd3QzI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.6.tgz"
+  },
+  "5.0.7": {
+    "narHash": "sha256-9qYY0RrfD3Tfvh9a2Q5Ak1zbTCCSXIytmmP+X26et5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.7.tgz"
+  },
+  "5.0.8": {
+    "narHash": "sha256-DMu+J57EQlheR37ndSwlTM/WfT/jafr+8ZPGwOuE9cg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.8.tgz"
+  },
+  "5.0.9": {
+    "narHash": "sha256-E400FSCBdd8Z6+izySVly5MejNWEaV2NDOUxbdTdY8A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.0.9.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-G9NoN+RYpam4NLYTedkopWCy9vZibvTPrjdGLEMxb94=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.1.0.tgz"
+  },
+  "5.1.1": {
+    "narHash": "sha256-vyTetpXeV4643P4L+FXAYjMVpKk//tZA+rk6D3/u9zk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.1.1.tgz"
+  },
+  "5.2.0": {
+    "narHash": "sha256-fbXVr7qfiEKDUAT5C6+fXIccrhIwYjRMDNxIQkOtnyk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.2.0.tgz"
+  },
+  "5.2.1": {
+    "narHash": "sha256-sw8X/43a9Q5/Ue8MYDV01boHo/9WkEAb6Pf60qMsrnU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.2.1.tgz"
+  },
+  "5.2.2": {
+    "narHash": "sha256-7q4cARI2OBqcLOK2gRnnHfRCTjjyf2vwZBwqchngPE4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.2.2.tgz"
+  },
+  "5.2.3": {
+    "narHash": "sha256-ts21JiuM2PiMIHlr5v3yUe52yz24ANOxr1DTkH6wwxc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-5.2.3.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-sAEeP92mI4QGaAqnvU7/Z2StJ+iEowXVQbF/jqaTC3I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.0.0.tgz"
+  },
+  "6.0.1": {
+    "narHash": "sha256-4xdEIWCFPpUaTSgPOyMsBLfZ4TDyjkvp26XQ31Y08RM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.0.1.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-n90eLEpO0KeVcUO7HnE42tMpVfx1Q3dnVOiPZ17d/Vo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.0.2.tgz"
+  },
+  "6.0.3": {
+    "narHash": "sha256-mve/VqCyPoOqQgdhBbAB+8tpfjjkfI0y3XpGJ6oLFpw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.0.3.tgz"
+  },
+  "6.0.4": {
+    "narHash": "sha256-7v3mBoDe9W0s/TbNJPWLksxoRIqA+63IArkLEJuT478=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.0.4.tgz"
+  },
+  "6.1.0": {
+    "narHash": "sha256-E+/T/Wjaoj/60zRA9it7vmpnlAnIrSaeeO6GH5gwuPo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.1.0.tgz"
+  },
+  "6.1.1": {
+    "narHash": "sha256-X6I940MV19HNjxEMAzM15TReECRsNafvNZOKG5H8pGk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.1.1.tgz"
+  },
+  "6.1.2": {
+    "narHash": "sha256-UMteKXjik/ADPWjs3cXlrTbCLAQIJK/z92qMwK0QTcc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.1.2.tgz"
+  },
+  "6.2.0": {
+    "narHash": "sha256-YZKYMpxN/d/j49rVLAuMGq9G7b4ftSOabnfu/KX48ak=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.2.0.tgz"
+  },
+  "6.3.0": {
+    "narHash": "sha256-YzyfmH2nwnjWEZS1BuYGd6+X5I9KkOqqKZSbFrtlNA0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.0.tgz"
+  },
+  "6.3.1": {
+    "narHash": "sha256-4aQ6VX8jaOiTAzIjCCYs0CDQbz5ficKlGVgO/txr2sk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.1.tgz"
+  },
+  "6.3.10": {
+    "narHash": "sha256-WcAsSdkJBBhFBuUVJV1LL55aA0Bl6qZi3ChgR2Rum2w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.10.tgz"
+  },
+  "6.3.11": {
+    "narHash": "sha256-86JDC0+TQf0vN5uXJzBhOH8mRuOy3yCUjrZtPe1MRpg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.11.tgz"
+  },
+  "6.3.12": {
+    "narHash": "sha256-xfZRyW5IsYNmsbZUMGq7AqRlp/PSFXQDM6UNK08RYaA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.12.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-o9c1Z0agn6J/spNKaawcV1wqlaltIPcOaaKXDapz1dU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.13.tgz"
+  },
+  "6.3.14": {
+    "narHash": "sha256-kx0pTfaD8KFaO0NNYbET6R6bTODSRjSUhjC1AAig1X4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.14.tgz"
+  },
+  "6.3.15": {
+    "narHash": "sha256-MUKX8r9pXGxRSh0yylFELGKT+AjbbOQNZC8d7bFwlWI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.15.tgz"
+  },
+  "6.3.16": {
+    "narHash": "sha256-aX5gn6USTVUnRpq6WyZnlMSjFdkP8WeUui5X2knBf08=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.16.tgz"
+  },
+  "6.3.17": {
+    "narHash": "sha256-X6G5BkCUhONdFTGiH47psJgtXTWd036MFKxa2pitm1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.17.tgz"
+  },
+  "6.3.18": {
+    "narHash": "sha256-ysjtfWYrCWQB2b5wsjB/76jIvhAP1urcsuQs/gYauj4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.18.tgz"
+  },
+  "6.3.19": {
+    "narHash": "sha256-qt2mmMYQeoWJE8XITCsiEgBBsyvqmlOf9n5HEaJtag4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.19.tgz"
+  },
+  "6.3.2": {
+    "narHash": "sha256-fbyo8vKd1PvmwyMoqpdMqDxhdnp2ym7jH7hdS6oBg/U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.2.tgz"
+  },
+  "6.3.20": {
+    "narHash": "sha256-nR+b01r0d9PJ5d7QogIO2XuD1yVs8IvU5+Yoj30YZT8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.20.tgz"
+  },
+  "6.3.3": {
+    "narHash": "sha256-SdTWWGb8jeauBlf93tW9YpssUBdH1l5PXmRpxiDZjE0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.3.tgz"
+  },
+  "6.3.4": {
+    "narHash": "sha256-f3QTLjtxiHKFisR+MZJpIIYiQMKH3f+7CqUvFAPSua8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.4.tgz"
+  },
+  "6.3.5": {
+    "narHash": "sha256-KhluINghV84vxUTvhJTEUYUOEU7zS4ULSNZmufA1ThE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.5.tgz"
+  },
+  "6.3.6": {
+    "narHash": "sha256-AHrfHt1A+TegUKcKg7BxPogMLSyzTVeKtEC9Z4Ajv9k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.6.tgz"
+  },
+  "6.3.7": {
+    "narHash": "sha256-IYJXSzXnW6iFkPi7ApNIZUvUeR+mCD2F7SeVGPMkbCk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.7.tgz"
+  },
+  "6.3.8": {
+    "narHash": "sha256-qaTfsSdTl8VcBrMone9e2Dhu0oP9Dw0ECvU92PH2/oI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.8.tgz"
+  },
+  "6.3.9": {
+    "narHash": "sha256-XwzSx6gVnL9p8QuFUl3aApJFLw8bokPtfnNlaD48Xww=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.3.9.tgz"
+  },
+  "6.4.0": {
+    "narHash": "sha256-f9BbIs0SchCDp4DVyxhWwWoZlGFp4QtjMjfTw++FS8E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.4.0.tgz"
+  },
+  "6.4.1": {
+    "narHash": "sha256-XMf/9i+wjfWGafrgDwbMrVUMMGY5x62/4HIZGDi2Uo8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/karma/-/karma-6.4.1.tgz"
+  }
+}

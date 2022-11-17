@@ -59,6 +59,6 @@ in {
     system
   ;
 
-  inherit (flocoPkgs) __inernalSimple;
+  inherit (simplePkgs) __internalSimple;
 
 }

@@ -1,1 +1,662 @@
-{"3.10.0":{"narHash":"sha256-cSNwXAVIKv4RDTwpZfdCsy7y4Crpo2S8B7L/jdbVsxo=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.10.0.tgz"},"3.10.1":{"narHash":"sha256-iuvh1l5BVcuvF8ae7vYCfmBAcoVcQ9/xzIUJwKnGpLQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.10.1.tgz"},"3.5.0":{"narHash":"sha256-73F1HsjNud7lPxqX04V9j3i6kDp5BkbEb5qLab/A0qk=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.5.0.tgz"},"3.6.0":{"narHash":"sha256-Q6cIN41AiRbQbVFheZttjPGMc66OJWLJg4U39Nvhzq8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.6.0.tgz"},"3.6.1":{"narHash":"sha256-C+sHA399iBaMJjPNVYtQ28BrD8gkMzIi1GQHo1D+kP4=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.6.1.tgz"},"3.7.0":{"narHash":"sha256-Y1XZ51ua34o8+tyJ3C0fWdQgqQwMtNlSonKjvNNH+FY=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.7.0.tgz"},"3.7.1":{"narHash":"sha256-uCqTcLXsGik6CcBSotfeVtMWBZS/pxoQDWG73BO2f3Y=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.7.1.tgz"},"3.8.0":{"narHash":"sha256-2HEhWBE+CUmdJ7o+qDsm3AL/bn2S4lqVUZXj2HpK7Mw=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.8.0.tgz"},"3.9.0":{"narHash":"sha256-+ea7Ks58IT8CLXO5Ig7mYZsOpfegysvFanIuHc5Jsik=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.9.0.tgz"},"3.9.1":{"narHash":"sha256-Kbm1he7qP0OwUeJTtME1syDvdf+XcCWPF5Lw8TV/vIs=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-3.9.1.tgz"},"4.0.0":{"narHash":"sha256-DJDorkxWqSrJun/u02bKVe+1adVJJ3/CE9Dd9d/7geE=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-b9XmPG7MErZCDB1wGmiNoAL0p6Qiey22ZDmfxoHlHgk=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.0.1.tgz"},"4.1.0":{"narHash":"sha256-1UP1oUaH4hEeMxgUxU7NMU7+KJTriupvg1RAKcRdjSQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.1.0.tgz"},"4.1.1":{"narHash":"sha256-kuH9CKyVLOiuVKgPPPpIJqnU4qgQHue8C4eR7UdA178=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.1.1.tgz"},"4.10.0":{"narHash":"sha256-NmPBXwULAUmWO4Vvgeo4n6dRcnilXfprD9JsZMHUrys=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.10.0.tgz"},"4.11.0":{"narHash":"sha256-//fPzJeIIrKxB1Ed4WHmU++CTR3mYl7JIrbWai5HYc0=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.11.0.tgz"},"4.11.1":{"narHash":"sha256-du31UCVbzd2ZVLj9krOwGMzTFtabPrWZdP8tVaFUiNU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.11.1.tgz"},"4.12.0":{"narHash":"sha256-EVMR75ljo9WUc4AwbWbX5J2IitqxP8wlBxpElMTt5cA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.12.0.tgz"},"4.13.0":{"narHash":"sha256-voLkL1NE9OimznmLvuikpSUr1u57aKlus/+PFq9DdVA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.13.0.tgz"},"4.14.0":{"narHash":"sha256-z7neiXlzwqBVAt+/6zLbg3/rcdW0ZU9qPwVSzKDx498=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.14.0.tgz"},"4.14.1":{"narHash":"sha256-Q4YYPV1DaMC+nCHOhAx0JBA/AYv2na2TUJuDp9s0rCM=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.14.1.tgz"},"4.14.2":{"narHash":"sha256-3KV6H734qp6E+Om6bdrocRNb+2IYV2O/pGnkEgSGFIg=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.14.2.tgz"},"4.15.0":{"narHash":"sha256-16bQHZMvS8rD0O59prDwAInuPw9QvWTIcIi0RBdeK20=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.15.0.tgz"},"4.15.1":{"narHash":"sha256-AwAg67zKGXJUfHdXNr2uC/9mXhYuXk5jafW60Ch1GbM=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.15.1.tgz"},"4.15.2":{"narHash":"sha256-VcFGA7Og1j0hZgP/GKhgAXCMR+UpWJktVodGTwjpOww=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.15.2.tgz"},"4.16.0":{"narHash":"sha256-4Ie6J3u/4fvg2DAM485c4Vg3laJd3vKcpg4kbcQKf1g=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.16.0.tgz"},"4.16.1":{"narHash":"sha256-UvJukH0ZYtFKwnOuIo0KuDzZhkKie8KJEfYzh2/Cy1g=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.16.1.tgz"},"4.17.0":{"narHash":"sha256-dnqNgMkn8wrmkz0mtBUk2Mm07j+YZjO+vWE8iG9bZfM=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.17.0.tgz"},"4.18.0":{"narHash":"sha256-NfkLrjeAf/rXcdYh/mHCZY5+r96izKS48rb+9o0yGss=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.18.0.tgz"},"4.19.0":{"narHash":"sha256-n5Meh2RvzewbabpdFgFcDr7Gy04Jg7Fu/89IJJ/pAtI=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.19.0.tgz"},"4.2.0":{"narHash":"sha256-7JM7sVpSCFhv5GiaLgjHGzHxtiNSlMOkReJP94nD0rQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.2.0.tgz"},"4.20.0":{"narHash":"sha256-oPXDgBKLzTT5dON0pB/+QyLozsLhPgMMCju7DDr8ZFM=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.20.0.tgz"},"4.21.0":{"narHash":"sha256-dE11JU1W6qSv8/JZyoijMXHNspEaK7HCDIbWVZN8A6Y=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.21.0.tgz"},"4.22.0":{"narHash":"sha256-MXF1fTjFSxnedsAfBxabO4qqHJGXAOcQ4vWcdHnL6Ys=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.22.0.tgz"},"4.22.1":{"narHash":"sha256-rAclmUm6ui83uJATaz148Ed0vGVfvdHYn56nhF4LbfA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.22.1.tgz"},"4.23.0":{"narHash":"sha256-NNxISon5T6lu/jJadJAUamZxNCDof+oZNUOBDf7MCe8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.23.0.tgz"},"4.24.0":{"narHash":"sha256-xNMhm4EX6jodbHFFhULcFZ9wPT59OnmukOZP7WHkmyo=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.24.0.tgz"},"4.25.0":{"narHash":"sha256-NzEsFaR3xEVfVbDk7laH2vAooZz/8A2pXfqqPb33Mlw=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.25.0.tgz"},"4.26.0":{"narHash":"sha256-c76dncbU3leVQYcEjXaWH5tLizDwtY52M1BHrsUTl4k=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.26.0.tgz"},"4.26.1":{"narHash":"sha256-lPLhRanxXjTVKQhdMrrWzK1BfCcDjFA3+GY25R0dZF8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.26.1.tgz"},"4.27.0":{"narHash":"sha256-JH/j9ThvyG+MA1T3szPsn19+w/hvNmefhWYaJsED+a0=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.27.0.tgz"},"4.28.0":{"narHash":"sha256-ci1AfP5xfZPck+u5cv4ikaEXqKk23CyatIaT3MaT9VE=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.0.tgz"},"4.28.1":{"narHash":"sha256-o0/Gm/JPCoKuSAy/qWsezoZSBcHjoQqwkZ51XKk/f58=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.1.tgz"},"4.28.2":{"narHash":"sha256-sfAwf7cW8neS3br1y2AyFx1MVxYGZtXoM9F2GDokwTQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.2.tgz"},"4.28.3":{"narHash":"sha256-7Ffh9OBq3fhsE9FZIdJ1KJXk6UWrPxFiBI4mG5dXo4E=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.3.tgz"},"4.28.4":{"narHash":"sha256-ep65m8lLvLnuLppTTNR8W2RwabguA54QXtnsr7OXJ34=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.4.tgz"},"4.28.5":{"narHash":"sha256-sS75REssVYZ7oW9BrA9zFH1+2tMYDiulWnE6SHvRJQ8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.5.tgz"},"4.29.0":{"narHash":"sha256-4bEP1EvVaJ8GvwRnbMLOMIKIFEZFsWyxtLXFLewGhfk=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.29.0.tgz"},"4.29.1":{"narHash":"sha256-UPOqco3+qPp3WdDFDkK9iV8PAgkOe4VVzOShMF0Y+UE=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.29.1.tgz"},"4.29.2":{"narHash":"sha256-y5A1+15G0ZrNVE3GieKffWICh498AwxPGEPiW9ufXFQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.29.2.tgz"},"4.29.3":{"narHash":"sha256-cpAksm44rcQBrDft2y6Qw3X2cPtJc0I/Y/rxr2XWO/4=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.29.3.tgz"},"4.3.0":{"narHash":"sha256-c/yqUXys7wFK4TQh21juVJeChMyQ5P5ljRals2T0+ZQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.3.0.tgz"},"4.30.0":{"narHash":"sha256-TUGDxmo1ZuL3DxzUnMtha1s9b9q+aXW+RgeUpDfbaJo=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.30.0.tgz"},"4.31.0":{"narHash":"sha256-MAcrCrao0w58ThMUZvzU7AFxdtryF3I7nDEEtbW0bjU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.31.0.tgz"},"4.31.1":{"narHash":"sha256-3adAuHpftnPrJIC68nDnSUEdXdvz+ELkL3X5uB5moIU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.31.1.tgz"},"4.31.2":{"narHash":"sha256-VV6ZhF8sXc6lM6yMNgQXcyIpCvq+X/2eY9Ty4NgSE90=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.31.2.tgz"},"4.32.0":{"narHash":"sha256-9UDDpHlmC/UNgeIaKYRtLPZe+DDnLs94Mu12GXYmewo=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.32.0.tgz"},"4.33.0":{"narHash":"sha256-PbV6OxPWJQocqtbyN0eWdd79LscEezIXvj6UMI9bVCE=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.33.0.tgz"},"4.4.0":{"narHash":"sha256-VY5dj89yDK/PtrOi9yJtdiW7gVhJCKamCWBbl8h4fw8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.4.0.tgz"},"4.4.1":{"narHash":"sha256-SHLyhqY04sB2XomdSJ5PRemAY0soSmEc+8sRIHnJe3I=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.4.1.tgz"},"4.5.0":{"narHash":"sha256-vC3UUbg7gHt+c54yf0EmFbGOkdlAsHzBnt5oRb6Jw50=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.5.0.tgz"},"4.6.0":{"narHash":"sha256-X9sH2Z2aSMvNpia8+ml73ZvoniqUYM0+OU2D0xaTlEc=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.6.0.tgz"},"4.6.1":{"narHash":"sha256-CUrE583fwmwB4jq8sZbVAPWLOUgZH6/rsL4Bc7ZLPnQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.6.1.tgz"},"4.7.0":{"narHash":"sha256-WPQs+A0EbOyjqgWiR70YP+BWQONMeU2S48BecuPJRt0=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.7.0.tgz"},"4.8.0":{"narHash":"sha256-q+KOOf+zHh9VHvCXckCVYcT3nOn7XRgWEUGQ+p+x7w4=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.8.0.tgz"},"4.8.1":{"narHash":"sha256-X6NRIEhMa4FIIJs+oJlyFPCER6hd1tffP72p2vBi9Sc=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.8.1.tgz"},"4.8.2":{"narHash":"sha256-aOxywvBxhCdVkYLA249xXWxq/YMBggqxym8PaXozN9c=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.8.2.tgz"},"4.9.0":{"narHash":"sha256-zx1UcJ09+QcW5G5XYVPVfb7m9VCvISP6QqS/BwaC/nw=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.9.0.tgz"},"4.9.1":{"narHash":"sha256-jyvOb4pmtjsEZaZIW2dQ+hNO9r7uioKKaEv3dr7wNvo=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-4.9.1.tgz"},"5.0.0":{"narHash":"sha256-Tp3MCy8gnZ+JJgmTWU+5LJDeyTSXv27b11icl7Y6ZeQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.0.0.tgz"},"5.1.0":{"narHash":"sha256-6W1t7yvTH5Eu56ZRdU8clpl8FaEicxGBD6Es6c84o+g=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.1.0.tgz"},"5.10.0":{"narHash":"sha256-V0JwZJGLireOWBP8JtOLktrXYd7uBUvr9Ti6qS2zgv4=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.10.0.tgz"},"5.10.1":{"narHash":"sha256-WDS6lVg6exUdE5ZNglBMr9YvNHnie3wLBmN7d9bCSlQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.10.1.tgz"},"5.10.2":{"narHash":"sha256-yRITNofhKMiH5FdoijMCubWxWj6NkByY3byPw1vMaEg=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.10.2.tgz"},"5.11.0":{"narHash":"sha256-eKLSAYMSODouSkeY/JWetiXi29CcfaV9WExyrO7NT2I=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.11.0.tgz"},"5.12.0":{"narHash":"sha256-7fKTV5hbDU7u55l61xne9ied7DgpuhV3KFZ6Eju5440=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.12.0.tgz"},"5.12.1":{"narHash":"sha256-5sgDrS4Q3cSxlFLsdtFw2F36ARzG7ImcUZDgXZdWUjM=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.12.1.tgz"},"5.13.0":{"narHash":"sha256-ybxXrBpsTZWj/z9UtiDQkotfh/StyNGpK7shLG9wYnI=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.13.0.tgz"},"5.14.0":{"narHash":"sha256-38XJYcQd05eQDOD7Kezq9w6TRScKLCbcfzSERREyQoI=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.14.0.tgz"},"5.15.0":{"narHash":"sha256-jvTNzg2Denil/0tWvgbQw7pdfv0FSMJoyK2gBJqzGyg=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.15.0.tgz"},"5.16.0":{"narHash":"sha256-3TFg/cX5EmIwRgWTWoLBwBx7oaafkmuDe+F+jurAXWU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.16.0.tgz"},"5.17.0":{"narHash":"sha256-qNnHFGB13oD7k9jpmq4a0RhyR88+MlMr1sntcugTvE8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.17.0.tgz"},"5.18.0":{"narHash":"sha256-0MAf2BGWXwjqnnupZJhRY1hGcFlSJfirARA3H6hmKsw=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.18.0.tgz"},"5.19.0":{"narHash":"sha256-ZrWOJV8eQOL2HB7o0C9TOb5cMLGNu/G4tIdBft7c6gA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.19.0.tgz"},"5.2.0":{"narHash":"sha256-+KnkM35xgW2vXkEkooLqcNhENP0ITJv9B+isxpJK2p8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.2.0.tgz"},"5.20.0":{"narHash":"sha256-Ad4oDsXSTzc7KQ9F7hjn0YvtLfSfl7ZDeVC/q1mgAWI=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.20.0.tgz"},"5.21.0":{"narHash":"sha256-mvgou8T3xdoAKFd55I43w9NxhNh7LwslSJtvY90l/lU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.21.0.tgz"},"5.22.0":{"narHash":"sha256-Oa153UWM+dqIkDWVSb7xzHewl4mAD/tvYaCV2LaLnoM=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.22.0.tgz"},"5.23.0":{"narHash":"sha256-EIF0n8cO5Rqw4kbkGa3wX2mEjRbQ3WRaGqr1Dr+a/QQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.23.0.tgz"},"5.24.0":{"narHash":"sha256-psbt3co5uNjzMBp7WwvvOt+bfPxmoMLb8doX9phx3aU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.24.0.tgz"},"5.25.0":{"narHash":"sha256-Rjp+ex0bnnXlXfmHlqmfp6/MQoKzIMv9l2ef/JDaxeI=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.25.0.tgz"},"5.26.0":{"narHash":"sha256-KSirP5Ez5x6TaAtDhJ5Wdc5fx7fBKMNpwKWj3FeC8cQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.26.0.tgz"},"5.27.0":{"narHash":"sha256-2BCEuUSL8UJ+kckNJK7PhrlSyzALAIGyfo37XSPk0HI=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.27.0.tgz"},"5.27.1":{"narHash":"sha256-yiZzhA9CtFq9mvga6fPO1nzfB5JJdBJbhLUtQhxb9HI=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.27.1.tgz"},"5.28.0":{"narHash":"sha256-Fcp3inks1xGyFXtz1iJvD/ntqT5LOFfJI1gMWRzQe60=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.28.0.tgz"},"5.29.0":{"narHash":"sha256-j/tiM6W8pqz+WJn9YO0iFVApRZ8EuHgNVusqq+gMHzQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.29.0.tgz"},"5.3.0":{"narHash":"sha256-PVN8ZtJs3yiyozekp/DOE53n5eZQxBe3f6MYswyK03w=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.3.0.tgz"},"5.3.1":{"narHash":"sha256-IQX/K6DOd8gbbmp6YyhFdrl4cGv+sEPgg/RunJdQBOA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.3.1.tgz"},"5.30.0":{"narHash":"sha256-gHpeZfdyUB7H5XbnPGUMDCdC5IRDfy+vVGzsOjqYGsw=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.0.tgz"},"5.30.1":{"narHash":"sha256-ub3OBBS7fDedzXkzAHFoQbJ8XHgx3bomb5IQJMIGKEk=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.1.tgz"},"5.30.2":{"narHash":"sha256-iPSHCH9uNDRuygvv+pyKFtfdm+eHal4pAO17uGuykTU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.2.tgz"},"5.30.3":{"narHash":"sha256-eNstJXAiyV9drUarH/LNb3sXZucGVSr/MlbLfLRjbd0=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.3.tgz"},"5.30.4":{"narHash":"sha256-tPhL2qWQ3qtdSb1kHgoKjeiuzkYsfO17v80w7jhEIJg=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.4.tgz"},"5.30.5":{"narHash":"sha256-2CjnQg82P3C61G1F2KOEx5IbGB5zd2COXO6aAl3eNk8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.5.tgz"},"5.30.6":{"narHash":"sha256-TYWQ4NmV9FK9XMdonU7v5/lvdMCmstFBcjwrbpwW7cA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.6.tgz"},"5.30.7":{"narHash":"sha256-TbnMcTRgnzk0fWC7W1E6kYLh3TP8QDXfuw271ILmQ0Y=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.7.tgz"},"5.31.0":{"narHash":"sha256-zzjZge+018oUdK+7foQhuH2ztsvtIexWOtuEsEMRHkM=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.31.0.tgz"},"5.32.0":{"narHash":"sha256-06eNIYhwqhZi6uhWslGkTBfz7lA7mqgZSKD5z0EzHAU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.32.0.tgz"},"5.33.0":{"narHash":"sha256-B1AGH21tDwB1Z8TxyuuUTR/hUekcf0/VlilAs22e15w=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.33.0.tgz"},"5.33.1":{"narHash":"sha256-QyJq6T0cag6aG81OPUy8vrrJjBlXlFYD4nXlI3gdDDA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.33.1.tgz"},"5.34.0":{"narHash":"sha256-0o1OBYXo6nFX0/8EcVAYZIVUXhw3U7TewsZ+MjxuEnU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.34.0.tgz"},"5.35.0":{"narHash":"sha256-geRrvLKy8Fn+Nd37pHMCgm1ZBThN7PmHw3squPGqg/Y=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.35.0.tgz"},"5.35.1":{"narHash":"sha256-0/iyOSpGZCPihUlV4Hq2n5yQfCi7R7BgbIlOV6gDA/8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.35.1.tgz"},"5.36.0":{"narHash":"sha256-y6uETgIQRQqJWhQdqWZV6Ig3Nww36zCKBrpxQ8gDgQ0=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.36.0.tgz"},"5.36.1":{"narHash":"sha256-0ZaKRS6rcuW7QuNAztWa4HdY52kbB7CsW540oCVV4Ms=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.36.1.tgz"},"5.36.2":{"narHash":"sha256-i7yJRiD1hPMzYwslcJsAQlwNS7SQ56Kt0mEC4zqZjD0=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.36.2.tgz"},"5.37.0":{"narHash":"sha256-yCG0KD47CwYM+UVsWy/PlOTxPuObyrqrrvXWnnne4BA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.37.0.tgz"},"5.38.0":{"narHash":"sha256-9UPyTk5W0f1qI+UWTANZEz+6QQMsUaxOPmAmBN2y3Gw=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.38.0.tgz"},"5.38.1":{"narHash":"sha256-WT2pRttD5UjhImcXvlw7xWy0QXNhgB7iDS9h2TKXWS8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.38.1.tgz"},"5.39.0":{"narHash":"sha256-9VNk8bkMJNoPx3hD+t+0+pnW79Wzhhv8EMyLH1YTAh8=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.39.0.tgz"},"5.4.0":{"narHash":"sha256-BNtiVYlLfIharNkioio4lOjswtUFuD8eqW6bHHzuFNY=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.4.0.tgz"},"5.40.0":{"narHash":"sha256-+WF/IAOQitgZUiIK/pMi016eLDwnT962AfMCs7DjjM0=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.40.0.tgz"},"5.40.1":{"narHash":"sha256-5JDXqvpEzHfwmRho2dpCYHeK20E+fW6ckvhtUVuM708=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.40.1.tgz"},"5.41.0":{"narHash":"sha256-ouWA0V67jM1AuoFe4ACb24TdlyPxbg/EUlPZRxXaP50=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.41.0.tgz"},"5.42.0":{"narHash":"sha256-uXBbveFrCu8OiiSf46tD50X1ELxtQePs9rj7KCAgsd4=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.42.0.tgz"},"5.5.0":{"narHash":"sha256-Xo1vOfKUwws3gUkPn+iE2yJ10ZdAUg3mWuay/TVwQI0=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.5.0.tgz"},"5.6.0":{"narHash":"sha256-Q3AxzqtwiR842t8rH1hvDRkGz98qOz6pinM64/6dexQ=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.6.0.tgz"},"5.7.0":{"narHash":"sha256-gALjHfa1REd0g06iCGpY//hoGbj469tYQC01OARmvnA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.7.0.tgz"},"5.8.0":{"narHash":"sha256-CNMPpMbqJOehW4C64RO0n40FS4ai5hasFPqgW9uzsxA=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.8.0.tgz"},"5.8.1":{"narHash":"sha256-689CliRkIi/d3cCZGJ9GDzST1IT0MNMoVp4qFHw1h+M=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.8.1.tgz"},"5.9.0":{"narHash":"sha256-T4dIUxZcfQhxLd0MUz2y4tQvbgl3HQcKh0reCqbfIhU=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.9.0.tgz"},"5.9.1":{"narHash":"sha256-4PkaT+J6/yhxoz8IapX2JBr1imqAFVgcRf4J6BAUSpM=","type":"tarball","url":"https://registry.npmjs.org/@typescript-eslint/types/-/types-5.9.1.tgz"}}
+{
+  "3.10.0": {
+    "narHash": "sha256-cSNwXAVIKv4RDTwpZfdCsy7y4Crpo2S8B7L/jdbVsxo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.10.0.tgz"
+  },
+  "3.10.1": {
+    "narHash": "sha256-iuvh1l5BVcuvF8ae7vYCfmBAcoVcQ9/xzIUJwKnGpLQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.10.1.tgz"
+  },
+  "3.5.0": {
+    "narHash": "sha256-73F1HsjNud7lPxqX04V9j3i6kDp5BkbEb5qLab/A0qk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.5.0.tgz"
+  },
+  "3.6.0": {
+    "narHash": "sha256-Q6cIN41AiRbQbVFheZttjPGMc66OJWLJg4U39Nvhzq8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.6.0.tgz"
+  },
+  "3.6.1": {
+    "narHash": "sha256-C+sHA399iBaMJjPNVYtQ28BrD8gkMzIi1GQHo1D+kP4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.6.1.tgz"
+  },
+  "3.7.0": {
+    "narHash": "sha256-Y1XZ51ua34o8+tyJ3C0fWdQgqQwMtNlSonKjvNNH+FY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.7.0.tgz"
+  },
+  "3.7.1": {
+    "narHash": "sha256-uCqTcLXsGik6CcBSotfeVtMWBZS/pxoQDWG73BO2f3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.7.1.tgz"
+  },
+  "3.8.0": {
+    "narHash": "sha256-2HEhWBE+CUmdJ7o+qDsm3AL/bn2S4lqVUZXj2HpK7Mw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.8.0.tgz"
+  },
+  "3.9.0": {
+    "narHash": "sha256-+ea7Ks58IT8CLXO5Ig7mYZsOpfegysvFanIuHc5Jsik=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.9.0.tgz"
+  },
+  "3.9.1": {
+    "narHash": "sha256-Kbm1he7qP0OwUeJTtME1syDvdf+XcCWPF5Lw8TV/vIs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-3.9.1.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-DJDorkxWqSrJun/u02bKVe+1adVJJ3/CE9Dd9d/7geE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-b9XmPG7MErZCDB1wGmiNoAL0p6Qiey22ZDmfxoHlHgk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.0.1.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-1UP1oUaH4hEeMxgUxU7NMU7+KJTriupvg1RAKcRdjSQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.1.0.tgz"
+  },
+  "4.1.1": {
+    "narHash": "sha256-kuH9CKyVLOiuVKgPPPpIJqnU4qgQHue8C4eR7UdA178=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.1.1.tgz"
+  },
+  "4.10.0": {
+    "narHash": "sha256-NmPBXwULAUmWO4Vvgeo4n6dRcnilXfprD9JsZMHUrys=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.10.0.tgz"
+  },
+  "4.11.0": {
+    "narHash": "sha256-//fPzJeIIrKxB1Ed4WHmU++CTR3mYl7JIrbWai5HYc0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.11.0.tgz"
+  },
+  "4.11.1": {
+    "narHash": "sha256-du31UCVbzd2ZVLj9krOwGMzTFtabPrWZdP8tVaFUiNU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.11.1.tgz"
+  },
+  "4.12.0": {
+    "narHash": "sha256-EVMR75ljo9WUc4AwbWbX5J2IitqxP8wlBxpElMTt5cA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.12.0.tgz"
+  },
+  "4.13.0": {
+    "narHash": "sha256-voLkL1NE9OimznmLvuikpSUr1u57aKlus/+PFq9DdVA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.13.0.tgz"
+  },
+  "4.14.0": {
+    "narHash": "sha256-z7neiXlzwqBVAt+/6zLbg3/rcdW0ZU9qPwVSzKDx498=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.14.0.tgz"
+  },
+  "4.14.1": {
+    "narHash": "sha256-Q4YYPV1DaMC+nCHOhAx0JBA/AYv2na2TUJuDp9s0rCM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.14.1.tgz"
+  },
+  "4.14.2": {
+    "narHash": "sha256-3KV6H734qp6E+Om6bdrocRNb+2IYV2O/pGnkEgSGFIg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.14.2.tgz"
+  },
+  "4.15.0": {
+    "narHash": "sha256-16bQHZMvS8rD0O59prDwAInuPw9QvWTIcIi0RBdeK20=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.15.0.tgz"
+  },
+  "4.15.1": {
+    "narHash": "sha256-AwAg67zKGXJUfHdXNr2uC/9mXhYuXk5jafW60Ch1GbM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.15.1.tgz"
+  },
+  "4.15.2": {
+    "narHash": "sha256-VcFGA7Og1j0hZgP/GKhgAXCMR+UpWJktVodGTwjpOww=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.15.2.tgz"
+  },
+  "4.16.0": {
+    "narHash": "sha256-4Ie6J3u/4fvg2DAM485c4Vg3laJd3vKcpg4kbcQKf1g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.16.0.tgz"
+  },
+  "4.16.1": {
+    "narHash": "sha256-UvJukH0ZYtFKwnOuIo0KuDzZhkKie8KJEfYzh2/Cy1g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.16.1.tgz"
+  },
+  "4.17.0": {
+    "narHash": "sha256-dnqNgMkn8wrmkz0mtBUk2Mm07j+YZjO+vWE8iG9bZfM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.17.0.tgz"
+  },
+  "4.18.0": {
+    "narHash": "sha256-NfkLrjeAf/rXcdYh/mHCZY5+r96izKS48rb+9o0yGss=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.18.0.tgz"
+  },
+  "4.19.0": {
+    "narHash": "sha256-n5Meh2RvzewbabpdFgFcDr7Gy04Jg7Fu/89IJJ/pAtI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.19.0.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-7JM7sVpSCFhv5GiaLgjHGzHxtiNSlMOkReJP94nD0rQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.2.0.tgz"
+  },
+  "4.20.0": {
+    "narHash": "sha256-oPXDgBKLzTT5dON0pB/+QyLozsLhPgMMCju7DDr8ZFM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.20.0.tgz"
+  },
+  "4.21.0": {
+    "narHash": "sha256-dE11JU1W6qSv8/JZyoijMXHNspEaK7HCDIbWVZN8A6Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.21.0.tgz"
+  },
+  "4.22.0": {
+    "narHash": "sha256-MXF1fTjFSxnedsAfBxabO4qqHJGXAOcQ4vWcdHnL6Ys=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.22.0.tgz"
+  },
+  "4.22.1": {
+    "narHash": "sha256-rAclmUm6ui83uJATaz148Ed0vGVfvdHYn56nhF4LbfA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.22.1.tgz"
+  },
+  "4.23.0": {
+    "narHash": "sha256-NNxISon5T6lu/jJadJAUamZxNCDof+oZNUOBDf7MCe8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.23.0.tgz"
+  },
+  "4.24.0": {
+    "narHash": "sha256-xNMhm4EX6jodbHFFhULcFZ9wPT59OnmukOZP7WHkmyo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.24.0.tgz"
+  },
+  "4.25.0": {
+    "narHash": "sha256-NzEsFaR3xEVfVbDk7laH2vAooZz/8A2pXfqqPb33Mlw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.25.0.tgz"
+  },
+  "4.26.0": {
+    "narHash": "sha256-c76dncbU3leVQYcEjXaWH5tLizDwtY52M1BHrsUTl4k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.26.0.tgz"
+  },
+  "4.26.1": {
+    "narHash": "sha256-lPLhRanxXjTVKQhdMrrWzK1BfCcDjFA3+GY25R0dZF8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.26.1.tgz"
+  },
+  "4.27.0": {
+    "narHash": "sha256-JH/j9ThvyG+MA1T3szPsn19+w/hvNmefhWYaJsED+a0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.27.0.tgz"
+  },
+  "4.28.0": {
+    "narHash": "sha256-ci1AfP5xfZPck+u5cv4ikaEXqKk23CyatIaT3MaT9VE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.0.tgz"
+  },
+  "4.28.1": {
+    "narHash": "sha256-o0/Gm/JPCoKuSAy/qWsezoZSBcHjoQqwkZ51XKk/f58=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.1.tgz"
+  },
+  "4.28.2": {
+    "narHash": "sha256-sfAwf7cW8neS3br1y2AyFx1MVxYGZtXoM9F2GDokwTQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.2.tgz"
+  },
+  "4.28.3": {
+    "narHash": "sha256-7Ffh9OBq3fhsE9FZIdJ1KJXk6UWrPxFiBI4mG5dXo4E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.3.tgz"
+  },
+  "4.28.4": {
+    "narHash": "sha256-ep65m8lLvLnuLppTTNR8W2RwabguA54QXtnsr7OXJ34=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.4.tgz"
+  },
+  "4.28.5": {
+    "narHash": "sha256-sS75REssVYZ7oW9BrA9zFH1+2tMYDiulWnE6SHvRJQ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.28.5.tgz"
+  },
+  "4.29.0": {
+    "narHash": "sha256-4bEP1EvVaJ8GvwRnbMLOMIKIFEZFsWyxtLXFLewGhfk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.29.0.tgz"
+  },
+  "4.29.1": {
+    "narHash": "sha256-UPOqco3+qPp3WdDFDkK9iV8PAgkOe4VVzOShMF0Y+UE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.29.1.tgz"
+  },
+  "4.29.2": {
+    "narHash": "sha256-y5A1+15G0ZrNVE3GieKffWICh498AwxPGEPiW9ufXFQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.29.2.tgz"
+  },
+  "4.29.3": {
+    "narHash": "sha256-cpAksm44rcQBrDft2y6Qw3X2cPtJc0I/Y/rxr2XWO/4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.29.3.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-c/yqUXys7wFK4TQh21juVJeChMyQ5P5ljRals2T0+ZQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.3.0.tgz"
+  },
+  "4.30.0": {
+    "narHash": "sha256-TUGDxmo1ZuL3DxzUnMtha1s9b9q+aXW+RgeUpDfbaJo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.30.0.tgz"
+  },
+  "4.31.0": {
+    "narHash": "sha256-MAcrCrao0w58ThMUZvzU7AFxdtryF3I7nDEEtbW0bjU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.31.0.tgz"
+  },
+  "4.31.1": {
+    "narHash": "sha256-3adAuHpftnPrJIC68nDnSUEdXdvz+ELkL3X5uB5moIU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.31.1.tgz"
+  },
+  "4.31.2": {
+    "narHash": "sha256-VV6ZhF8sXc6lM6yMNgQXcyIpCvq+X/2eY9Ty4NgSE90=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.31.2.tgz"
+  },
+  "4.32.0": {
+    "narHash": "sha256-9UDDpHlmC/UNgeIaKYRtLPZe+DDnLs94Mu12GXYmewo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.32.0.tgz"
+  },
+  "4.33.0": {
+    "narHash": "sha256-PbV6OxPWJQocqtbyN0eWdd79LscEezIXvj6UMI9bVCE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.33.0.tgz"
+  },
+  "4.4.0": {
+    "narHash": "sha256-VY5dj89yDK/PtrOi9yJtdiW7gVhJCKamCWBbl8h4fw8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.4.0.tgz"
+  },
+  "4.4.1": {
+    "narHash": "sha256-SHLyhqY04sB2XomdSJ5PRemAY0soSmEc+8sRIHnJe3I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.4.1.tgz"
+  },
+  "4.5.0": {
+    "narHash": "sha256-vC3UUbg7gHt+c54yf0EmFbGOkdlAsHzBnt5oRb6Jw50=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.5.0.tgz"
+  },
+  "4.6.0": {
+    "narHash": "sha256-X9sH2Z2aSMvNpia8+ml73ZvoniqUYM0+OU2D0xaTlEc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.6.0.tgz"
+  },
+  "4.6.1": {
+    "narHash": "sha256-CUrE583fwmwB4jq8sZbVAPWLOUgZH6/rsL4Bc7ZLPnQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.6.1.tgz"
+  },
+  "4.7.0": {
+    "narHash": "sha256-WPQs+A0EbOyjqgWiR70YP+BWQONMeU2S48BecuPJRt0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.7.0.tgz"
+  },
+  "4.8.0": {
+    "narHash": "sha256-q+KOOf+zHh9VHvCXckCVYcT3nOn7XRgWEUGQ+p+x7w4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.8.0.tgz"
+  },
+  "4.8.1": {
+    "narHash": "sha256-X6NRIEhMa4FIIJs+oJlyFPCER6hd1tffP72p2vBi9Sc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.8.1.tgz"
+  },
+  "4.8.2": {
+    "narHash": "sha256-aOxywvBxhCdVkYLA249xXWxq/YMBggqxym8PaXozN9c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.8.2.tgz"
+  },
+  "4.9.0": {
+    "narHash": "sha256-zx1UcJ09+QcW5G5XYVPVfb7m9VCvISP6QqS/BwaC/nw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.9.0.tgz"
+  },
+  "4.9.1": {
+    "narHash": "sha256-jyvOb4pmtjsEZaZIW2dQ+hNO9r7uioKKaEv3dr7wNvo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-4.9.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-Tp3MCy8gnZ+JJgmTWU+5LJDeyTSXv27b11icl7Y6ZeQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.0.0.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-6W1t7yvTH5Eu56ZRdU8clpl8FaEicxGBD6Es6c84o+g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.1.0.tgz"
+  },
+  "5.10.0": {
+    "narHash": "sha256-V0JwZJGLireOWBP8JtOLktrXYd7uBUvr9Ti6qS2zgv4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.10.0.tgz"
+  },
+  "5.10.1": {
+    "narHash": "sha256-WDS6lVg6exUdE5ZNglBMr9YvNHnie3wLBmN7d9bCSlQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.10.1.tgz"
+  },
+  "5.10.2": {
+    "narHash": "sha256-yRITNofhKMiH5FdoijMCubWxWj6NkByY3byPw1vMaEg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.10.2.tgz"
+  },
+  "5.11.0": {
+    "narHash": "sha256-eKLSAYMSODouSkeY/JWetiXi29CcfaV9WExyrO7NT2I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.11.0.tgz"
+  },
+  "5.12.0": {
+    "narHash": "sha256-7fKTV5hbDU7u55l61xne9ied7DgpuhV3KFZ6Eju5440=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.12.0.tgz"
+  },
+  "5.12.1": {
+    "narHash": "sha256-5sgDrS4Q3cSxlFLsdtFw2F36ARzG7ImcUZDgXZdWUjM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.12.1.tgz"
+  },
+  "5.13.0": {
+    "narHash": "sha256-ybxXrBpsTZWj/z9UtiDQkotfh/StyNGpK7shLG9wYnI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.13.0.tgz"
+  },
+  "5.14.0": {
+    "narHash": "sha256-38XJYcQd05eQDOD7Kezq9w6TRScKLCbcfzSERREyQoI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.14.0.tgz"
+  },
+  "5.15.0": {
+    "narHash": "sha256-jvTNzg2Denil/0tWvgbQw7pdfv0FSMJoyK2gBJqzGyg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.15.0.tgz"
+  },
+  "5.16.0": {
+    "narHash": "sha256-3TFg/cX5EmIwRgWTWoLBwBx7oaafkmuDe+F+jurAXWU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.16.0.tgz"
+  },
+  "5.17.0": {
+    "narHash": "sha256-qNnHFGB13oD7k9jpmq4a0RhyR88+MlMr1sntcugTvE8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.17.0.tgz"
+  },
+  "5.18.0": {
+    "narHash": "sha256-0MAf2BGWXwjqnnupZJhRY1hGcFlSJfirARA3H6hmKsw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.18.0.tgz"
+  },
+  "5.19.0": {
+    "narHash": "sha256-ZrWOJV8eQOL2HB7o0C9TOb5cMLGNu/G4tIdBft7c6gA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.19.0.tgz"
+  },
+  "5.2.0": {
+    "narHash": "sha256-+KnkM35xgW2vXkEkooLqcNhENP0ITJv9B+isxpJK2p8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.2.0.tgz"
+  },
+  "5.20.0": {
+    "narHash": "sha256-Ad4oDsXSTzc7KQ9F7hjn0YvtLfSfl7ZDeVC/q1mgAWI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.20.0.tgz"
+  },
+  "5.21.0": {
+    "narHash": "sha256-mvgou8T3xdoAKFd55I43w9NxhNh7LwslSJtvY90l/lU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.21.0.tgz"
+  },
+  "5.22.0": {
+    "narHash": "sha256-Oa153UWM+dqIkDWVSb7xzHewl4mAD/tvYaCV2LaLnoM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.22.0.tgz"
+  },
+  "5.23.0": {
+    "narHash": "sha256-EIF0n8cO5Rqw4kbkGa3wX2mEjRbQ3WRaGqr1Dr+a/QQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.23.0.tgz"
+  },
+  "5.24.0": {
+    "narHash": "sha256-psbt3co5uNjzMBp7WwvvOt+bfPxmoMLb8doX9phx3aU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.24.0.tgz"
+  },
+  "5.25.0": {
+    "narHash": "sha256-Rjp+ex0bnnXlXfmHlqmfp6/MQoKzIMv9l2ef/JDaxeI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.25.0.tgz"
+  },
+  "5.26.0": {
+    "narHash": "sha256-KSirP5Ez5x6TaAtDhJ5Wdc5fx7fBKMNpwKWj3FeC8cQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.26.0.tgz"
+  },
+  "5.27.0": {
+    "narHash": "sha256-2BCEuUSL8UJ+kckNJK7PhrlSyzALAIGyfo37XSPk0HI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.27.0.tgz"
+  },
+  "5.27.1": {
+    "narHash": "sha256-yiZzhA9CtFq9mvga6fPO1nzfB5JJdBJbhLUtQhxb9HI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.27.1.tgz"
+  },
+  "5.28.0": {
+    "narHash": "sha256-Fcp3inks1xGyFXtz1iJvD/ntqT5LOFfJI1gMWRzQe60=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.28.0.tgz"
+  },
+  "5.29.0": {
+    "narHash": "sha256-j/tiM6W8pqz+WJn9YO0iFVApRZ8EuHgNVusqq+gMHzQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.29.0.tgz"
+  },
+  "5.3.0": {
+    "narHash": "sha256-PVN8ZtJs3yiyozekp/DOE53n5eZQxBe3f6MYswyK03w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.3.0.tgz"
+  },
+  "5.3.1": {
+    "narHash": "sha256-IQX/K6DOd8gbbmp6YyhFdrl4cGv+sEPgg/RunJdQBOA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.3.1.tgz"
+  },
+  "5.30.0": {
+    "narHash": "sha256-gHpeZfdyUB7H5XbnPGUMDCdC5IRDfy+vVGzsOjqYGsw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.0.tgz"
+  },
+  "5.30.1": {
+    "narHash": "sha256-ub3OBBS7fDedzXkzAHFoQbJ8XHgx3bomb5IQJMIGKEk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.1.tgz"
+  },
+  "5.30.2": {
+    "narHash": "sha256-iPSHCH9uNDRuygvv+pyKFtfdm+eHal4pAO17uGuykTU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.2.tgz"
+  },
+  "5.30.3": {
+    "narHash": "sha256-eNstJXAiyV9drUarH/LNb3sXZucGVSr/MlbLfLRjbd0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.3.tgz"
+  },
+  "5.30.4": {
+    "narHash": "sha256-tPhL2qWQ3qtdSb1kHgoKjeiuzkYsfO17v80w7jhEIJg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.4.tgz"
+  },
+  "5.30.5": {
+    "narHash": "sha256-2CjnQg82P3C61G1F2KOEx5IbGB5zd2COXO6aAl3eNk8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.5.tgz"
+  },
+  "5.30.6": {
+    "narHash": "sha256-TYWQ4NmV9FK9XMdonU7v5/lvdMCmstFBcjwrbpwW7cA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.6.tgz"
+  },
+  "5.30.7": {
+    "narHash": "sha256-TbnMcTRgnzk0fWC7W1E6kYLh3TP8QDXfuw271ILmQ0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.30.7.tgz"
+  },
+  "5.31.0": {
+    "narHash": "sha256-zzjZge+018oUdK+7foQhuH2ztsvtIexWOtuEsEMRHkM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.31.0.tgz"
+  },
+  "5.32.0": {
+    "narHash": "sha256-06eNIYhwqhZi6uhWslGkTBfz7lA7mqgZSKD5z0EzHAU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.32.0.tgz"
+  },
+  "5.33.0": {
+    "narHash": "sha256-B1AGH21tDwB1Z8TxyuuUTR/hUekcf0/VlilAs22e15w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.33.0.tgz"
+  },
+  "5.33.1": {
+    "narHash": "sha256-QyJq6T0cag6aG81OPUy8vrrJjBlXlFYD4nXlI3gdDDA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.33.1.tgz"
+  },
+  "5.34.0": {
+    "narHash": "sha256-0o1OBYXo6nFX0/8EcVAYZIVUXhw3U7TewsZ+MjxuEnU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.34.0.tgz"
+  },
+  "5.35.0": {
+    "narHash": "sha256-geRrvLKy8Fn+Nd37pHMCgm1ZBThN7PmHw3squPGqg/Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.35.0.tgz"
+  },
+  "5.35.1": {
+    "narHash": "sha256-0/iyOSpGZCPihUlV4Hq2n5yQfCi7R7BgbIlOV6gDA/8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.35.1.tgz"
+  },
+  "5.36.0": {
+    "narHash": "sha256-y6uETgIQRQqJWhQdqWZV6Ig3Nww36zCKBrpxQ8gDgQ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.36.0.tgz"
+  },
+  "5.36.1": {
+    "narHash": "sha256-0ZaKRS6rcuW7QuNAztWa4HdY52kbB7CsW540oCVV4Ms=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.36.1.tgz"
+  },
+  "5.36.2": {
+    "narHash": "sha256-i7yJRiD1hPMzYwslcJsAQlwNS7SQ56Kt0mEC4zqZjD0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.36.2.tgz"
+  },
+  "5.37.0": {
+    "narHash": "sha256-yCG0KD47CwYM+UVsWy/PlOTxPuObyrqrrvXWnnne4BA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.37.0.tgz"
+  },
+  "5.38.0": {
+    "narHash": "sha256-9UPyTk5W0f1qI+UWTANZEz+6QQMsUaxOPmAmBN2y3Gw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.38.0.tgz"
+  },
+  "5.38.1": {
+    "narHash": "sha256-WT2pRttD5UjhImcXvlw7xWy0QXNhgB7iDS9h2TKXWS8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.38.1.tgz"
+  },
+  "5.39.0": {
+    "narHash": "sha256-9VNk8bkMJNoPx3hD+t+0+pnW79Wzhhv8EMyLH1YTAh8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.39.0.tgz"
+  },
+  "5.4.0": {
+    "narHash": "sha256-BNtiVYlLfIharNkioio4lOjswtUFuD8eqW6bHHzuFNY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.4.0.tgz"
+  },
+  "5.40.0": {
+    "narHash": "sha256-+WF/IAOQitgZUiIK/pMi016eLDwnT962AfMCs7DjjM0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.40.0.tgz"
+  },
+  "5.40.1": {
+    "narHash": "sha256-5JDXqvpEzHfwmRho2dpCYHeK20E+fW6ckvhtUVuM708=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.40.1.tgz"
+  },
+  "5.41.0": {
+    "narHash": "sha256-ouWA0V67jM1AuoFe4ACb24TdlyPxbg/EUlPZRxXaP50=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.41.0.tgz"
+  },
+  "5.42.0": {
+    "narHash": "sha256-uXBbveFrCu8OiiSf46tD50X1ELxtQePs9rj7KCAgsd4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.42.0.tgz"
+  },
+  "5.5.0": {
+    "narHash": "sha256-Xo1vOfKUwws3gUkPn+iE2yJ10ZdAUg3mWuay/TVwQI0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.5.0.tgz"
+  },
+  "5.6.0": {
+    "narHash": "sha256-Q3AxzqtwiR842t8rH1hvDRkGz98qOz6pinM64/6dexQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.6.0.tgz"
+  },
+  "5.7.0": {
+    "narHash": "sha256-gALjHfa1REd0g06iCGpY//hoGbj469tYQC01OARmvnA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.7.0.tgz"
+  },
+  "5.8.0": {
+    "narHash": "sha256-CNMPpMbqJOehW4C64RO0n40FS4ai5hasFPqgW9uzsxA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.8.0.tgz"
+  },
+  "5.8.1": {
+    "narHash": "sha256-689CliRkIi/d3cCZGJ9GDzST1IT0MNMoVp4qFHw1h+M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.8.1.tgz"
+  },
+  "5.9.0": {
+    "narHash": "sha256-T4dIUxZcfQhxLd0MUz2y4tQvbgl3HQcKh0reCqbfIhU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.9.0.tgz"
+  },
+  "5.9.1": {
+    "narHash": "sha256-4PkaT+J6/yhxoz8IapX2JBr1imqAFVgcRf4J6BAUSpM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.9.1.tgz"
+  }
+}

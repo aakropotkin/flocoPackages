@@ -1,1 +1,32 @@
-{"0.1.0":{"narHash":"sha256-Glj7qkcxQYme95eAdM/FJHRXkfHT39bzthZ/bZnu4dk=","type":"tarball","url":"https://registry.npmjs.org/style-to-object/-/style-to-object-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-ZxJmeMjzFp5fOctMuaSLuPgh9Rx/jX1DW0O2pqi7a5E=","type":"tarball","url":"https://registry.npmjs.org/style-to-object/-/style-to-object-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-JW51gU2+EvjqLvqgKNsnzy8hfTQ3n1b1ZxW4fqH5RXQ=","type":"tarball","url":"https://registry.npmjs.org/style-to-object/-/style-to-object-0.2.1.tgz"},"0.2.2":{"narHash":"sha256-FrmfV+hn20YFnkKx1w0wrsCqh7bP46oKU1fmxzlYwmk=","type":"tarball","url":"https://registry.npmjs.org/style-to-object/-/style-to-object-0.2.2.tgz"},"0.2.3":{"narHash":"sha256-2Ubi47O4FzoAsL78+hT+WpVLiRmclysA5JsgJlSb0kI=","type":"tarball","url":"https://registry.npmjs.org/style-to-object/-/style-to-object-0.2.3.tgz"},"0.3.0":{"narHash":"sha256-y0qF49psZzGSW1JPOIU7i2jT9XIFBiFPEv3AoxJ3wbs=","type":"tarball","url":"https://registry.npmjs.org/style-to-object/-/style-to-object-0.3.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-Glj7qkcxQYme95eAdM/FJHRXkfHT39bzthZ/bZnu4dk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/style-to-object/-/style-to-object-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-ZxJmeMjzFp5fOctMuaSLuPgh9Rx/jX1DW0O2pqi7a5E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/style-to-object/-/style-to-object-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-JW51gU2+EvjqLvqgKNsnzy8hfTQ3n1b1ZxW4fqH5RXQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/style-to-object/-/style-to-object-0.2.1.tgz"
+  },
+  "0.2.2": {
+    "narHash": "sha256-FrmfV+hn20YFnkKx1w0wrsCqh7bP46oKU1fmxzlYwmk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/style-to-object/-/style-to-object-0.2.2.tgz"
+  },
+  "0.2.3": {
+    "narHash": "sha256-2Ubi47O4FzoAsL78+hT+WpVLiRmclysA5JsgJlSb0kI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/style-to-object/-/style-to-object-0.2.3.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-y0qF49psZzGSW1JPOIU7i2jT9XIFBiFPEv3AoxJ3wbs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/style-to-object/-/style-to-object-0.3.0.tgz"
+  }
+}

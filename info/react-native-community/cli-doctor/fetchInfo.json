@@ -1,1 +1,72 @@
-{"7.0.1":{"narHash":"sha256-5IqHxiaDGXGQJ4gBAPWBlttSxsVdaoiRMY20s2C3OA0=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-7.0.1.tgz"},"8.0.0":{"narHash":"sha256-jbTqsKZTA47SfDgqUqHL6sUDx2/cn8/1c682eHd1xdc=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.0.tgz"},"8.0.1":{"narHash":"sha256-L5NYx86n7bIlDRgTvk90Za8E22B/kfT0VUbh4fi9jNg=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.1.tgz"},"8.0.2":{"narHash":"sha256-kS+DtRlkwoM4owopU/aywNw0S1x9DgGBwkpshHxGxhU=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.2.tgz"},"8.0.3":{"narHash":"sha256-a8d3n9hvKNo2w+c8z0l46o6WnCyrjJtM9VTrlMk20BE=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.3.tgz"},"8.0.4":{"narHash":"sha256-aUQxwKlM9V9VCBL3lIq35MCXnP1OG+WbwEdLwolbCdM=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.4.tgz"},"8.0.6":{"narHash":"sha256-2OYXJvGxYGUmGzBkl0jL/Nw79ojviw3Z2DTYGvh1TK4=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.6.tgz"},"9.0.0":{"narHash":"sha256-PIVPQIaqtQjUKqxxbU2w0ZjH+1D1e7ndeZqEwqVljS8=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.0.0.tgz"},"9.1.0":{"narHash":"sha256-+TYC7kupfMqVRVgrYFC+jOEM/Q9fsfjFfio7ogxrRTk=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.1.0.tgz"},"9.1.1":{"narHash":"sha256-IJO8SNNJvQUTCfflqB5ErdRUlb+OsruZMWNVUPQ9NZc=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.1.1.tgz"},"9.1.2":{"narHash":"sha256-pKWWUGwhvMm3cnuljX6PQGGMzy76yGqEodaJWi7MK2E=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.1.2.tgz"},"9.2.0":{"narHash":"sha256-buFjM/NNj1M64CEcnYM3bp3l1IXudEMzS++HvyL8TzM=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.2.0.tgz"},"9.2.1":{"narHash":"sha256-Lpd9RIOu/EUDIwsYcHSUP4JtnWgNK64gccwPTaViDhg=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.2.1.tgz"},"9.3.0":{"narHash":"sha256-mVZp+gzXKQPLivts+dCpSZL8unrJWHvePih71kpDdXk=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.3.0.tgz"}}
+{
+  "7.0.1": {
+    "narHash": "sha256-5IqHxiaDGXGQJ4gBAPWBlttSxsVdaoiRMY20s2C3OA0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-7.0.1.tgz"
+  },
+  "8.0.0": {
+    "narHash": "sha256-jbTqsKZTA47SfDgqUqHL6sUDx2/cn8/1c682eHd1xdc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.0.tgz"
+  },
+  "8.0.1": {
+    "narHash": "sha256-L5NYx86n7bIlDRgTvk90Za8E22B/kfT0VUbh4fi9jNg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.1.tgz"
+  },
+  "8.0.2": {
+    "narHash": "sha256-kS+DtRlkwoM4owopU/aywNw0S1x9DgGBwkpshHxGxhU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.2.tgz"
+  },
+  "8.0.3": {
+    "narHash": "sha256-a8d3n9hvKNo2w+c8z0l46o6WnCyrjJtM9VTrlMk20BE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.3.tgz"
+  },
+  "8.0.4": {
+    "narHash": "sha256-aUQxwKlM9V9VCBL3lIq35MCXnP1OG+WbwEdLwolbCdM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.4.tgz"
+  },
+  "8.0.6": {
+    "narHash": "sha256-2OYXJvGxYGUmGzBkl0jL/Nw79ojviw3Z2DTYGvh1TK4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-8.0.6.tgz"
+  },
+  "9.0.0": {
+    "narHash": "sha256-PIVPQIaqtQjUKqxxbU2w0ZjH+1D1e7ndeZqEwqVljS8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.0.0.tgz"
+  },
+  "9.1.0": {
+    "narHash": "sha256-+TYC7kupfMqVRVgrYFC+jOEM/Q9fsfjFfio7ogxrRTk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.1.0.tgz"
+  },
+  "9.1.1": {
+    "narHash": "sha256-IJO8SNNJvQUTCfflqB5ErdRUlb+OsruZMWNVUPQ9NZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.1.1.tgz"
+  },
+  "9.1.2": {
+    "narHash": "sha256-pKWWUGwhvMm3cnuljX6PQGGMzy76yGqEodaJWi7MK2E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.1.2.tgz"
+  },
+  "9.2.0": {
+    "narHash": "sha256-buFjM/NNj1M64CEcnYM3bp3l1IXudEMzS++HvyL8TzM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.2.0.tgz"
+  },
+  "9.2.1": {
+    "narHash": "sha256-Lpd9RIOu/EUDIwsYcHSUP4JtnWgNK64gccwPTaViDhg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.2.1.tgz"
+  },
+  "9.3.0": {
+    "narHash": "sha256-mVZp+gzXKQPLivts+dCpSZL8unrJWHvePih71kpDdXk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-doctor/-/cli-doctor-9.3.0.tgz"
+  }
+}

@@ -1,1 +1,87 @@
-{"1.0.0":{"narHash":"sha256-ZUQZMEPO7a49LmaC9zpOAjF49/kK5RjI+oOie/EKwQE=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-lg+Z0bbeazJ8M0XGzscfHszVWDn+YUtrsK8fHCT+uuc=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-Ig9Cw1gmATsub8mHxfpWYpJBSfmVQTZntxkRIlhJzuQ=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-GmaM2WsvvjI+cug1mkOFYPo7kcqf38OCG31o7ymYN/E=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.2.tgz"},"1.1.3":{"narHash":"sha256-59YgkBD6RkAGj8/PlwbIAxqrkIx2jEo7zlegoKEAo1Q=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.3.tgz"},"1.1.4":{"narHash":"sha256-YEFbmlrbspmD8YI8dQxRV+rSa1ZeR+zZLCMYQejkgWU=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.4.tgz"},"1.1.5":{"narHash":"sha256-daoxWDGjBFF9Kwas6Vg/6y5/46SkqjbMLkJKZHTJyGc=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.5.tgz"},"1.2.0":{"narHash":"sha256-5Mkk1JVzJ8oPcDfbg/5blJljPnA3Lk8UHhmxvvfFdxY=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-9xFTn36E6cviOpcsRCAc/Bzp5YJ1D+9As7tpyh/wTzI=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.2.1.tgz"},"1.3.0":{"narHash":"sha256-b3253Rb/cmhWFx6ZOiSsU8sa9sPaGeBCBBjYimzD9rw=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.3.0.tgz"},"1.3.1":{"narHash":"sha256-LT9SCTH+MxHmfA99qqI1rhvFZBu+UGXiMJy26j0BCJc=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.3.1.tgz"},"1.3.2":{"narHash":"sha256-wyBFfTLLpcoxB7OVTuD7eK9mq16/jczzWU8NvnzvBA0=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.3.2.tgz"},"1.4.0":{"narHash":"sha256-HrOS4/p0c+MtXUrBntv9wkHMyfZCVffEwfHmEZJROFY=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.4.0.tgz"},"1.4.1":{"narHash":"sha256-AIscZqYAzH/VV0pstQJyCGys0u0YSJHl93UhVIM85qQ=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.4.1.tgz"},"1.4.2":{"narHash":"sha256-PLR9kx8b1VMABr+m6f1BUl7lOgq/+Mt4dzzNWAGeuZY=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.4.2.tgz"},"1.5.0":{"narHash":"sha256-Sq7qAfCW80oT9OoO1G6rZTwAEV80hJkSq2eG/k/f85c=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.5.0.tgz"},"1.5.1":{"narHash":"sha256-BU26j7KjfP9KDXZ5pVGixiXIROpPHvE/w2i6nvla+AY=","type":"tarball","url":"https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.5.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-ZUQZMEPO7a49LmaC9zpOAjF49/kK5RjI+oOie/EKwQE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-lg+Z0bbeazJ8M0XGzscfHszVWDn+YUtrsK8fHCT+uuc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-Ig9Cw1gmATsub8mHxfpWYpJBSfmVQTZntxkRIlhJzuQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-GmaM2WsvvjI+cug1mkOFYPo7kcqf38OCG31o7ymYN/E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.2.tgz"
+  },
+  "1.1.3": {
+    "narHash": "sha256-59YgkBD6RkAGj8/PlwbIAxqrkIx2jEo7zlegoKEAo1Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.3.tgz"
+  },
+  "1.1.4": {
+    "narHash": "sha256-YEFbmlrbspmD8YI8dQxRV+rSa1ZeR+zZLCMYQejkgWU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.4.tgz"
+  },
+  "1.1.5": {
+    "narHash": "sha256-daoxWDGjBFF9Kwas6Vg/6y5/46SkqjbMLkJKZHTJyGc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.1.5.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-5Mkk1JVzJ8oPcDfbg/5blJljPnA3Lk8UHhmxvvfFdxY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-9xFTn36E6cviOpcsRCAc/Bzp5YJ1D+9As7tpyh/wTzI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.2.1.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-b3253Rb/cmhWFx6ZOiSsU8sa9sPaGeBCBBjYimzD9rw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.3.0.tgz"
+  },
+  "1.3.1": {
+    "narHash": "sha256-LT9SCTH+MxHmfA99qqI1rhvFZBu+UGXiMJy26j0BCJc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.3.1.tgz"
+  },
+  "1.3.2": {
+    "narHash": "sha256-wyBFfTLLpcoxB7OVTuD7eK9mq16/jczzWU8NvnzvBA0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.3.2.tgz"
+  },
+  "1.4.0": {
+    "narHash": "sha256-HrOS4/p0c+MtXUrBntv9wkHMyfZCVffEwfHmEZJROFY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.4.0.tgz"
+  },
+  "1.4.1": {
+    "narHash": "sha256-AIscZqYAzH/VV0pstQJyCGys0u0YSJHl93UhVIM85qQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.4.1.tgz"
+  },
+  "1.4.2": {
+    "narHash": "sha256-PLR9kx8b1VMABr+m6f1BUl7lOgq/+Mt4dzzNWAGeuZY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.4.2.tgz"
+  },
+  "1.5.0": {
+    "narHash": "sha256-Sq7qAfCW80oT9OoO1G6rZTwAEV80hJkSq2eG/k/f85c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.5.0.tgz"
+  },
+  "1.5.1": {
+    "narHash": "sha256-BU26j7KjfP9KDXZ5pVGixiXIROpPHvE/w2i6nvla+AY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.5.1.tgz"
+  }
+}

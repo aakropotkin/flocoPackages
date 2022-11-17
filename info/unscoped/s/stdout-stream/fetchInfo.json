@@ -1,1 +1,62 @@
-{"1.0.0":{"narHash":"sha256-NERfZhsGShXv2ty2mQOq2deY6Wr1yT15Za10PZrWqAs=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-DIX06JWDjiXi+cA2nPzFmCo6+QlPrhoGxooD0gWhSPM=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-Kj8KMAl/OGCQIKmnhp9QZjy+pPbSTY+zC/PueYPoUmw=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-/FZ6RdFQK9pXtofcL7axjoj9cQUNpE5NiKR2kg9qT3Q=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-NmZN6EyacwVGNOlzDwKfLNTfNa0LjWWzHoVw5xT2+Z0=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-FNATYE+q1azWhX8ZdXE3kECR7pDGN6FpxoftjGUSjM4=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.5.tgz"},"1.1.0":{"narHash":"sha256-Q1vR/sn0dKW8hsSU6kTtcLmzqZLawScIWszZhi2x5jo=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-+ECKvAGhkOYBkJbXUJ9mNKTmJR5sMpBVnaHgEy2/uww=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.2.0.tgz"},"1.3.0":{"narHash":"sha256-ntqipAhRTNmBPDfIanTplOyq1KY4MBEpCeWBDbnS5CQ=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.3.0.tgz"},"1.4.0":{"narHash":"sha256-3pOhn7C80nq2JjZLFziOxvwxxv4rLa4F+MDY4xviFBc=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.4.0.tgz"},"1.4.1":{"narHash":"sha256-LCQngSeSTdXU49PthYpIYSBOwWknMeIcNZR7wzRGo5M=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.4.1.tgz"},"2.0.0":{"narHash":"sha256-P/wfqaBTjN037BaKzFQxba3m9J89P8TJahr0yKlZWvM=","type":"tarball","url":"https://registry.npmjs.org/stdout-stream/-/stdout-stream-2.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-NERfZhsGShXv2ty2mQOq2deY6Wr1yT15Za10PZrWqAs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-DIX06JWDjiXi+cA2nPzFmCo6+QlPrhoGxooD0gWhSPM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-Kj8KMAl/OGCQIKmnhp9QZjy+pPbSTY+zC/PueYPoUmw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-/FZ6RdFQK9pXtofcL7axjoj9cQUNpE5NiKR2kg9qT3Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-NmZN6EyacwVGNOlzDwKfLNTfNa0LjWWzHoVw5xT2+Z0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-FNATYE+q1azWhX8ZdXE3kECR7pDGN6FpxoftjGUSjM4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.0.5.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-Q1vR/sn0dKW8hsSU6kTtcLmzqZLawScIWszZhi2x5jo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-+ECKvAGhkOYBkJbXUJ9mNKTmJR5sMpBVnaHgEy2/uww=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.2.0.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-ntqipAhRTNmBPDfIanTplOyq1KY4MBEpCeWBDbnS5CQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.3.0.tgz"
+  },
+  "1.4.0": {
+    "narHash": "sha256-3pOhn7C80nq2JjZLFziOxvwxxv4rLa4F+MDY4xviFBc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.4.0.tgz"
+  },
+  "1.4.1": {
+    "narHash": "sha256-LCQngSeSTdXU49PthYpIYSBOwWknMeIcNZR7wzRGo5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-1.4.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-P/wfqaBTjN037BaKzFQxba3m9J89P8TJahr0yKlZWvM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/stdout-stream/-/stdout-stream-2.0.0.tgz"
+  }
+}

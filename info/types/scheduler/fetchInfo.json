@@ -1,1 +1,32 @@
-{"0.10.0":{"narHash":"sha256-HSkO3KHnu4wa4sxd0G+GZ4a8qF1pGbrcolJoMwKoPGg=","type":"tarball","url":"https://registry.npmjs.org/@types/scheduler/-/scheduler-0.10.0.tgz"},"0.12.0":{"narHash":"sha256-DP1ck1RVj/lY2726XL0FLqR+Cm7GP366thNxGKq6mOg=","type":"tarball","url":"https://registry.npmjs.org/@types/scheduler/-/scheduler-0.12.0.tgz"},"0.12.1":{"narHash":"sha256-j39ultaqqAoB1lWgRp0wp/OTe9uBfeoK6sqNA0aY4rM=","type":"tarball","url":"https://registry.npmjs.org/@types/scheduler/-/scheduler-0.12.1.tgz"},"0.16.0":{"narHash":"sha256-MgUC0yZXRERV+OTstE8ado1uxVvKN1yRPKWK0lMFUOI=","type":"tarball","url":"https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.0.tgz"},"0.16.1":{"narHash":"sha256-maxBkpp1gltlj5Yp6bVAO0cVquhVj4b2PpkSz/rGU6c=","type":"tarball","url":"https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.1.tgz"},"0.16.2":{"narHash":"sha256-8QGoLK1Nijc5HQDWKNnEyaaSJ6RRv65Im5DKJZOHLyk=","type":"tarball","url":"https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.2.tgz"}}
+{
+  "0.10.0": {
+    "narHash": "sha256-HSkO3KHnu4wa4sxd0G+GZ4a8qF1pGbrcolJoMwKoPGg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.10.0.tgz"
+  },
+  "0.12.0": {
+    "narHash": "sha256-DP1ck1RVj/lY2726XL0FLqR+Cm7GP366thNxGKq6mOg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.12.0.tgz"
+  },
+  "0.12.1": {
+    "narHash": "sha256-j39ultaqqAoB1lWgRp0wp/OTe9uBfeoK6sqNA0aY4rM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.12.1.tgz"
+  },
+  "0.16.0": {
+    "narHash": "sha256-MgUC0yZXRERV+OTstE8ado1uxVvKN1yRPKWK0lMFUOI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.0.tgz"
+  },
+  "0.16.1": {
+    "narHash": "sha256-maxBkpp1gltlj5Yp6bVAO0cVquhVj4b2PpkSz/rGU6c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.1.tgz"
+  },
+  "0.16.2": {
+    "narHash": "sha256-8QGoLK1Nijc5HQDWKNnEyaaSJ6RRv65Im5DKJZOHLyk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.2.tgz"
+  }
+}

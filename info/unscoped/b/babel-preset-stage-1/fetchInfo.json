@@ -1,1 +1,62 @@
-{"6.0.14":{"narHash":"sha256-ZuKnBJ0mVE6KG8TVaiV3QAk3zkjTGhYKUHJAkhUXojE=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.0.14.tgz"},"6.0.15":{"narHash":"sha256-4Gy299IsDczZYySEaSE1fOVVixS1GmbvjJEnlM2Zg/c=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.0.15.tgz"},"6.1.17":{"narHash":"sha256-haUrFF49wj/PDOVdbT4fa7Dx6SPtSOj+HDkuTy1V8dw=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-cKzEnbAJBUG/mhBgP9v4rkNV+zkOYgC5Ea154WJLgUw=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.1.18.tgz"},"6.1.2":{"narHash":"sha256-NFXIzAguztcQ8DvpRPHTdJUkH0Lsd81REhaEs1qdqkk=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.1.2.tgz"},"6.13.0":{"narHash":"sha256-j2eNUvV5T8EAI5ZRyKQ6cRI0E+4NV+mruaZyfnsl6Fg=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.13.0.tgz"},"6.16.0":{"narHash":"sha256-xlcdmVyWouWgesI5//MsNOH+zWHW3+IZgc+Wv6AbMN8=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.16.0.tgz"},"6.2.4":{"narHash":"sha256-NUIZNO7fiUttns8T+IBhg0PzY8/uA/qzGjJTqNOtCJE=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.2.4.tgz"},"6.22.0":{"narHash":"sha256-TZ59AB8j/H076XN7IMonUoabx8LXyyRXRwbNnPDLOeg=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.22.0.tgz"},"6.24.1":{"narHash":"sha256-YP71rKGUh6JB5z28u2QGTfe0gNugMV0P00yL5qcEsOU=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.24.1.tgz"},"6.3.13":{"narHash":"sha256-R9VREWuqgaanJzfqbj1HyaXWLE8nE77rAZWEyyl01JE=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.3.13.tgz"},"6.5.0":{"narHash":"sha256-VR9MvsaDoROJUHqdXEVv23WA5kNQn626ChrynTNQels=","type":"tarball","url":"https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.5.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-ZuKnBJ0mVE6KG8TVaiV3QAk3zkjTGhYKUHJAkhUXojE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.0.14.tgz"
+  },
+  "6.0.15": {
+    "narHash": "sha256-4Gy299IsDczZYySEaSE1fOVVixS1GmbvjJEnlM2Zg/c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.0.15.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-haUrFF49wj/PDOVdbT4fa7Dx6SPtSOj+HDkuTy1V8dw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-cKzEnbAJBUG/mhBgP9v4rkNV+zkOYgC5Ea154WJLgUw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.1.18.tgz"
+  },
+  "6.1.2": {
+    "narHash": "sha256-NFXIzAguztcQ8DvpRPHTdJUkH0Lsd81REhaEs1qdqkk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.1.2.tgz"
+  },
+  "6.13.0": {
+    "narHash": "sha256-j2eNUvV5T8EAI5ZRyKQ6cRI0E+4NV+mruaZyfnsl6Fg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.13.0.tgz"
+  },
+  "6.16.0": {
+    "narHash": "sha256-xlcdmVyWouWgesI5//MsNOH+zWHW3+IZgc+Wv6AbMN8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.16.0.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-NUIZNO7fiUttns8T+IBhg0PzY8/uA/qzGjJTqNOtCJE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.2.4.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-TZ59AB8j/H076XN7IMonUoabx8LXyyRXRwbNnPDLOeg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.22.0.tgz"
+  },
+  "6.24.1": {
+    "narHash": "sha256-YP71rKGUh6JB5z28u2QGTfe0gNugMV0P00yL5qcEsOU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.24.1.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-R9VREWuqgaanJzfqbj1HyaXWLE8nE77rAZWEyyl01JE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.3.13.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-VR9MvsaDoROJUHqdXEVv23WA5kNQn626ChrynTNQels=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.5.0.tgz"
+  }
+}

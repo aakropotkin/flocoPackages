@@ -1,1 +1,47 @@
-{"0.0.1":{"narHash":"sha256-wLatMAf7iEhZlmB0wJQoLa6gXhlbVdGlK9x7N1nF1R4=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-0.0.1.tgz"},"1.0.0":{"narHash":"sha256-tocwtiCr9W4U28DDIGV7UqPp4Xh3xhWtxijaD0vKnaI=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-kA1wY64BkQRrG3ZN5NLZmlVwCrIA0VBDqgLgFYaTW0c=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-lyxxG5AVvYtjeJ83h8skZTOOKJwQru8bc8q/Gov/NjM=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-b0SMHuqA0l/sG/RA7BwPH6VURtF3K4WDyhL5RyLsmE0=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-bihuMzTzpcQF9nDQFLsMMhYiILJbkNg5t9pg0adz7sc=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-k9ipK8V3tpdziXi7fHE4PJW6zd93UyztJ+HWp5218iI=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.4.tgz"},"3.0.0":{"narHash":"sha256-gqHJWcCYFhmoGZMFuk/YcI5giKlbG/pSNJW7eyzAlr8=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-MVRAq/SsDzmVkOi+9FIRWMd7l/LE/a3n2FhZ4Ff5pvE=","type":"tarball","url":"https://registry.npmjs.org/scrypt-js/-/scrypt-js-3.0.1.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-wLatMAf7iEhZlmB0wJQoLa6gXhlbVdGlK9x7N1nF1R4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-0.0.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-tocwtiCr9W4U28DDIGV7UqPp4Xh3xhWtxijaD0vKnaI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-kA1wY64BkQRrG3ZN5NLZmlVwCrIA0VBDqgLgFYaTW0c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-lyxxG5AVvYtjeJ83h8skZTOOKJwQru8bc8q/Gov/NjM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-b0SMHuqA0l/sG/RA7BwPH6VURtF3K4WDyhL5RyLsmE0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-bihuMzTzpcQF9nDQFLsMMhYiILJbkNg5t9pg0adz7sc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-k9ipK8V3tpdziXi7fHE4PJW6zd93UyztJ+HWp5218iI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-2.0.4.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-gqHJWcCYFhmoGZMFuk/YcI5giKlbG/pSNJW7eyzAlr8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-MVRAq/SsDzmVkOi+9FIRWMd7l/LE/a3n2FhZ4Ff5pvE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/scrypt-js/-/scrypt-js-3.0.1.tgz"
+  }
+}

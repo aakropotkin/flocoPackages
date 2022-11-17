@@ -1,1 +1,52 @@
-{"0.0.1":{"narHash":"sha256-Anug2xgIG++sHd4k1Bau3OOfto5LN2SFyFvu3gefL8k=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-0.0.1.tgz"},"1.0.0":{"narHash":"sha256-ij+dz/BTp7MXZQqppDpPgcxiYnoajpZD3y2xicQcnjk=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-Yy33GLSed3CIu+NgG5gGdxubeLdPjJ8D/vvScq7zxPo=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-wXAnWElM9dYgA2BOgEISIzsOtOXVDrJVqfGsWX/7tf0=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-G+HlsA+HQwUs1wlB2D8S4LBIeAzSXzd/UbFHA+gWKlQ=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-R9rocm02Et2Pn5YjrWP/VX0v2l5F+r2GN/5w1k/6yl4=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-ZV55YQ2ZO1Zt0Vx776a3asmA9H4sLeCBUAf9e7HQNqM=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-KSi9rCmDCaVD2aU56k//ai1QOqoyvFIShis+dehyYDA=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz"},"1.1.0":{"narHash":"sha256-nN1+fL4vliz6pHiV9x1jV5okqWcttBqM7QlYp45tVTs=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-ptxagCIqtwEuMmtSI25XvqV1Tpy8rH1N6S+wfS2gJnQ=","type":"tarball","url":"https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.2.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-Anug2xgIG++sHd4k1Bau3OOfto5LN2SFyFvu3gefL8k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-0.0.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-ij+dz/BTp7MXZQqppDpPgcxiYnoajpZD3y2xicQcnjk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-Yy33GLSed3CIu+NgG5gGdxubeLdPjJ8D/vvScq7zxPo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-wXAnWElM9dYgA2BOgEISIzsOtOXVDrJVqfGsWX/7tf0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-G+HlsA+HQwUs1wlB2D8S4LBIeAzSXzd/UbFHA+gWKlQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-R9rocm02Et2Pn5YjrWP/VX0v2l5F+r2GN/5w1k/6yl4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-ZV55YQ2ZO1Zt0Vx776a3asmA9H4sLeCBUAf9e7HQNqM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-KSi9rCmDCaVD2aU56k//ai1QOqoyvFIShis+dehyYDA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-nN1+fL4vliz6pHiV9x1jV5okqWcttBqM7QlYp45tVTs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-ptxagCIqtwEuMmtSI25XvqV1Tpy8rH1N6S+wfS2gJnQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.2.0.tgz"
+  }
+}

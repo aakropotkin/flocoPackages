@@ -31,6 +31,7 @@
     overlays.pkgs   = import ./overlay.nix;
     overlays.simple = import ./pkgs/SIMPLE/overlay.nix;
     overlays.bins   = import ./pkgs/BINS/overlay.nix;
+    overlays.gyp    = import ./pkgs/GYP/overlay.nix;
     overlays.deps   = at-node-nix.overlays.default;
 
     # By default, compose with our deps into a single overlay.
@@ -38,7 +39,8 @@
       overlays.deps
       overlays.pkgs
       overlays.simple
-      overlays.bins  # FIXME
+      overlays.bins
+      overlays.gyp
     ];
 
 
@@ -55,7 +57,7 @@
 
     in bins // {
 
-      fsevents--1_2_13 = pkgsFor.flocoPackages."fsevents/1.2.13";
+      fsevents--1_2_13 = pkgsFor.flocoPackages."fsevents/1.2.13".prepared;
 
       tests = ( import ./tests {
         inherit system pkgsFor;

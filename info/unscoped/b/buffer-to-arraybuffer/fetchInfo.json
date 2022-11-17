@@ -1,1 +1,32 @@
-{"0.0.1":{"narHash":"sha256-7CBjIGQY6L/Yln+TEbVZZ5Yv5WLZZv8t0lG+O5Y+Ni0=","type":"tarball","url":"https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-Obe2yec3vrFsO7UV9Pn/r0OxrqLLmUHekWePfYrEFvg=","type":"tarball","url":"https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.2.tgz"},"0.0.3":{"narHash":"sha256-fhIVmZhj9lBAJtXD+5Ot0EnxzORmFsKzTalIuFpN3zI=","type":"tarball","url":"https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.3.tgz"},"0.0.4":{"narHash":"sha256-SnkLFt0Yz7zW7hNG4WNFXumjlamswM6D9zAX10VYbKs=","type":"tarball","url":"https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.4.tgz"},"0.0.5":{"narHash":"sha256-lUVzbaDua+Pphr89cFrIzHwNBVQNu1FwPePJofYwlm4=","type":"tarball","url":"https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.5.tgz"},"0.0.6":{"narHash":"sha256-oBRuTAzTU60SnGXhvBHMyKc45L2cbnCTAwLj4M5GHpQ=","type":"tarball","url":"https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.6.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-7CBjIGQY6L/Yln+TEbVZZ5Yv5WLZZv8t0lG+O5Y+Ni0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-Obe2yec3vrFsO7UV9Pn/r0OxrqLLmUHekWePfYrEFvg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.2.tgz"
+  },
+  "0.0.3": {
+    "narHash": "sha256-fhIVmZhj9lBAJtXD+5Ot0EnxzORmFsKzTalIuFpN3zI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.3.tgz"
+  },
+  "0.0.4": {
+    "narHash": "sha256-SnkLFt0Yz7zW7hNG4WNFXumjlamswM6D9zAX10VYbKs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.4.tgz"
+  },
+  "0.0.5": {
+    "narHash": "sha256-lUVzbaDua+Pphr89cFrIzHwNBVQNu1FwPePJofYwlm4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.5.tgz"
+  },
+  "0.0.6": {
+    "narHash": "sha256-oBRuTAzTU60SnGXhvBHMyKc45L2cbnCTAwLj4M5GHpQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.6.tgz"
+  }
+}

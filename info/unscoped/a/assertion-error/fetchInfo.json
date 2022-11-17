@@ -1,1 +1,32 @@
-{"0.1.0":{"narHash":"sha256-u9CuV0wmCkkzD0VN3WxsTrS9Q0iGbkJ9/WrmCoiAg6s=","type":"tarball","url":"https://registry.npmjs.org/assertion-error/-/assertion-error-0.1.0.tgz"},"1.0.0":{"narHash":"sha256-3KPYfqPsgV2R0MPbWjyihLBYWr8p1JLQnorBOLE2e7k=","type":"tarball","url":"https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-0GYJFtB+fXE13Jb0WfUNeGpxmSJ/gUzdv4Yfs+4tyDw=","type":"tarball","url":"https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-pUvILYzIMe6HTB99N1ZKcSswgPBmGE4ojdgF3UuKK2Y=","type":"tarball","url":"https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-p8AcEyrpvgkKxcowNB2m8OqfISSGuVskQSiv1WfLNSs=","type":"tarball","url":"https://registry.npmjs.org/assertion-error/-/assertion-error-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-W6Ki5xlXtzsjpYsQB5oY7IvqgFzN3+qvb8C3NY4skGk=","type":"tarball","url":"https://registry.npmjs.org/assertion-error/-/assertion-error-2.0.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-u9CuV0wmCkkzD0VN3WxsTrS9Q0iGbkJ9/WrmCoiAg6s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assertion-error/-/assertion-error-0.1.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-3KPYfqPsgV2R0MPbWjyihLBYWr8p1JLQnorBOLE2e7k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-0GYJFtB+fXE13Jb0WfUNeGpxmSJ/gUzdv4Yfs+4tyDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-pUvILYzIMe6HTB99N1ZKcSswgPBmGE4ojdgF3UuKK2Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-p8AcEyrpvgkKxcowNB2m8OqfISSGuVskQSiv1WfLNSs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assertion-error/-/assertion-error-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-W6Ki5xlXtzsjpYsQB5oY7IvqgFzN3+qvb8C3NY4skGk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/assertion-error/-/assertion-error-2.0.0.tgz"
+  }
+}

@@ -1,1 +1,102 @@
-{"1.0.4":{"narHash":"sha256-iJaa9vGuJ2yUGmEzLg+L8ryW2bBJrbp1z7piuyoIhmQ=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-ULTtkUzIcb3Qh8WkDgzwXrrqjufWLnrCNteNDXxpqaM=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-1.0.5.tgz"},"10.0.0":{"narHash":"sha256-IyAuWhZKBs4Aj5qbEnFX/g9E6rdtEpxLT35ChKtYxPk=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.0.0.tgz"},"10.0.1":{"narHash":"sha256-x/XmR/jAV+pfMm/iDtIlikad+XFPdHKyN7GMap4/uYE=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.0.1.tgz"},"10.2.0":{"narHash":"sha256-VRGWpm3Y59tChYDBOSznvYTqdvvqMslVfYgx+GZflDM=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.2.0.tgz"},"10.2.1":{"narHash":"sha256-RHpU4sM6GxJggywGJcZntlCQOy89FSurdAdvG0Y3vrY=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.2.1.tgz"},"10.2.2":{"narHash":"sha256-PZQnIXcC9Z/EV3pIcbiUh17S6T4fJ+dKITN9k7gLsms=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.2.2.tgz"},"10.3.0":{"narHash":"sha256-oS92+97gCCeYQXzHEdKYsbzVKiaiGp2q+NdFzALC5lY=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.3.0.tgz"},"2.0.1":{"narHash":"sha256-kc0dcTnCbtQTGOxzepXbW3swsfnGdXeL8te90eCY4BE=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-UtzlzzDiVzKjYKOAKOau/XchzH/Rukr53T1zwliVhuE=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-2.0.2.tgz"},"3.0.0":{"narHash":"sha256-bn7nBrQ45pB4fi5n3ZPLySTKqlypVSBTIQ7mZZ78U+0=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-3.0.0.tgz"},"8.0.1":{"narHash":"sha256-/Q6CYE3cXGwLuccKV8HDDJn+tiipruGCdFQBzXONXys=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-8.0.1.tgz"},"8.0.3":{"narHash":"sha256-EtjdJQYsxfxOjO6RUFxKHR+4tkbIh1I5AkJw27MIoLs=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-8.0.3.tgz"},"8.0.4":{"narHash":"sha256-yR985BE1zr/AMPukSD1Zms9VXPjX44FNqE8CoM/Nq28=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-8.0.4.tgz"},"8.0.6":{"narHash":"sha256-utvh0GACYM+pxKq7+a9Ujzmi+uMBrtMH6Rbm20hNZz8=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-8.0.6.tgz"},"9.0.0":{"narHash":"sha256-QHyUTZ6VUQKDzZKbhGqE1i8RtpX13HPPeliYdI3O544=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.0.0.tgz"},"9.0.1":{"narHash":"sha256-6vaUr279Bwb58S1N83gjA+aUmfabNpI1hNBlOjHNUHY=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.0.1.tgz"},"9.0.7":{"narHash":"sha256-dVuoEgi0b0c0qGWtjfV0mXNMtBXy0e3fW1ONsEH0QCs=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.0.7.tgz"},"9.1.0":{"narHash":"sha256-q65WffHpvAfzTray+gsXpYLSiGvC0+G1FPWet1oZ81w=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.1.0.tgz"},"9.2.4":{"narHash":"sha256-FQcqcLxHC4KsNR3uXB0ohC0fDn40k8sixP28+Hd/k4A=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.2.4.tgz"}}
+{
+  "1.0.4": {
+    "narHash": "sha256-iJaa9vGuJ2yUGmEzLg+L8ryW2bBJrbp1z7piuyoIhmQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-ULTtkUzIcb3Qh8WkDgzwXrrqjufWLnrCNteNDXxpqaM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-1.0.5.tgz"
+  },
+  "10.0.0": {
+    "narHash": "sha256-IyAuWhZKBs4Aj5qbEnFX/g9E6rdtEpxLT35ChKtYxPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.0.0.tgz"
+  },
+  "10.0.1": {
+    "narHash": "sha256-x/XmR/jAV+pfMm/iDtIlikad+XFPdHKyN7GMap4/uYE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.0.1.tgz"
+  },
+  "10.2.0": {
+    "narHash": "sha256-VRGWpm3Y59tChYDBOSznvYTqdvvqMslVfYgx+GZflDM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.2.0.tgz"
+  },
+  "10.2.1": {
+    "narHash": "sha256-RHpU4sM6GxJggywGJcZntlCQOy89FSurdAdvG0Y3vrY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.2.1.tgz"
+  },
+  "10.2.2": {
+    "narHash": "sha256-PZQnIXcC9Z/EV3pIcbiUh17S6T4fJ+dKITN9k7gLsms=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.2.2.tgz"
+  },
+  "10.3.0": {
+    "narHash": "sha256-oS92+97gCCeYQXzHEdKYsbzVKiaiGp2q+NdFzALC5lY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-10.3.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-kc0dcTnCbtQTGOxzepXbW3swsfnGdXeL8te90eCY4BE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-UtzlzzDiVzKjYKOAKOau/XchzH/Rukr53T1zwliVhuE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-2.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-bn7nBrQ45pB4fi5n3ZPLySTKqlypVSBTIQ7mZZ78U+0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-3.0.0.tgz"
+  },
+  "8.0.1": {
+    "narHash": "sha256-/Q6CYE3cXGwLuccKV8HDDJn+tiipruGCdFQBzXONXys=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-8.0.1.tgz"
+  },
+  "8.0.3": {
+    "narHash": "sha256-EtjdJQYsxfxOjO6RUFxKHR+4tkbIh1I5AkJw27MIoLs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-8.0.3.tgz"
+  },
+  "8.0.4": {
+    "narHash": "sha256-yR985BE1zr/AMPukSD1Zms9VXPjX44FNqE8CoM/Nq28=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-8.0.4.tgz"
+  },
+  "8.0.6": {
+    "narHash": "sha256-utvh0GACYM+pxKq7+a9Ujzmi+uMBrtMH6Rbm20hNZz8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-8.0.6.tgz"
+  },
+  "9.0.0": {
+    "narHash": "sha256-QHyUTZ6VUQKDzZKbhGqE1i8RtpX13HPPeliYdI3O544=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.0.0.tgz"
+  },
+  "9.0.1": {
+    "narHash": "sha256-6vaUr279Bwb58S1N83gjA+aUmfabNpI1hNBlOjHNUHY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.0.1.tgz"
+  },
+  "9.0.7": {
+    "narHash": "sha256-dVuoEgi0b0c0qGWtjfV0mXNMtBXy0e3fW1ONsEH0QCs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.0.7.tgz"
+  },
+  "9.1.0": {
+    "narHash": "sha256-q65WffHpvAfzTray+gsXpYLSiGvC0+G1FPWet1oZ81w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.1.0.tgz"
+  },
+  "9.2.4": {
+    "narHash": "sha256-FQcqcLxHC4KsNR3uXB0ohC0fDn40k8sixP28+Hd/k4A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-slip-encoder/-/parser-slip-encoder-9.2.4.tgz"
+  }
+}

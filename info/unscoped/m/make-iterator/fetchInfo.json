@@ -1,1 +1,47 @@
-{"0.1.0":{"narHash":"sha256-LW3wTfTr3FamezF3G3G6+gQHbJ+SzfqY//CDGTZHNt8=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-hYPGwq2hR9jAyPhDrhy/4rpD7jC7ISVEx8d7l3FuPnQ=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-0.1.1.tgz"},"0.2.0":{"narHash":"sha256-AUnVPaGwkoa6mbuVVww98koxoNw7JTwwJ5UKUKIB+js=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-K9plWHcRXTCK0ZPk9j5ptMIgtCGs4rI95+413+N8O0s=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-0.2.1.tgz"},"0.3.0":{"narHash":"sha256-zCxDVn4QaPtA4xW5vpYJzFaClnvCZrnF9LpZU33Y/kI=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-0.3.0.tgz"},"0.3.1":{"narHash":"sha256-VrN4xVVL1SIcGN+bbtnBR0cmWQGBFOjXyXZuf3BakL8=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-0.3.1.tgz"},"1.0.0":{"narHash":"sha256-u5Z+IcSa2JLtP4w4E+58gZrgb0w4BX5B04VXqXmeLHY=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-Y1hSCLqarHvZVLwjpY21UXmQbsphkTpkHrgeV/OGhGg=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-NchWq7D7PpJr0SxS3h/fHFuu2y9JtG1TlK45aBxmsoo=","type":"tarball","url":"https://registry.npmjs.org/make-iterator/-/make-iterator-2.0.0.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-LW3wTfTr3FamezF3G3G6+gQHbJ+SzfqY//CDGTZHNt8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-hYPGwq2hR9jAyPhDrhy/4rpD7jC7ISVEx8d7l3FuPnQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-0.1.1.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-AUnVPaGwkoa6mbuVVww98koxoNw7JTwwJ5UKUKIB+js=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-K9plWHcRXTCK0ZPk9j5ptMIgtCGs4rI95+413+N8O0s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-0.2.1.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-zCxDVn4QaPtA4xW5vpYJzFaClnvCZrnF9LpZU33Y/kI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-0.3.0.tgz"
+  },
+  "0.3.1": {
+    "narHash": "sha256-VrN4xVVL1SIcGN+bbtnBR0cmWQGBFOjXyXZuf3BakL8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-0.3.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-u5Z+IcSa2JLtP4w4E+58gZrgb0w4BX5B04VXqXmeLHY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-Y1hSCLqarHvZVLwjpY21UXmQbsphkTpkHrgeV/OGhGg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-NchWq7D7PpJr0SxS3h/fHFuu2y9JtG1TlK45aBxmsoo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/make-iterator/-/make-iterator-2.0.0.tgz"
+  }
+}

@@ -1,1 +1,82 @@
-{"6.0.14":{"narHash":"sha256-vIcO873Sjd1uqFltD55Cfb8OFVwan1D4GdkpuXL5Wzk=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-innNPLY79xQQyJULQwLB89tySmqpydI5K2DqKMC85w4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.0.2.tgz"},"6.1.10":{"narHash":"sha256-ci56FfCC1Jel56p730/cAXqt6Gx5V61okVm4uK1oVxc=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.10.tgz"},"6.1.17":{"narHash":"sha256-owhvJ8uIRTUc8xIeRFp4ZEPaKfnq/KgSYT5V1b7IaeY=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-UpwU5e/cVvG2lF09G34MeHZy0xCQK++SSUa/+QABcHE=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-9A5Dd3QBALxfgK7eugHsqzqnlEnqBwIILoNzLDrpNWE=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.4.tgz"},"6.1.5":{"narHash":"sha256-qVsCAMOHkIz2t/oAGlubIRrXsWlzE3U8DMaTPMkGoWA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.5.tgz"},"6.18.0":{"narHash":"sha256-xa6c4daenrad3AbzrG7juzlem3Q/QqZzYLbsgzA5bG4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.18.0.tgz"},"6.2.4":{"narHash":"sha256-uGZm9cpzp+oUbrQOAlIfw/ClKaLLX9cAu050hS0EJe8=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.2.4.tgz"},"6.22.0":{"narHash":"sha256-R0mOUUwaQ5oJ8AjNvKI0m2agc4jO0cW7bgd9USxbBbA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.22.0.tgz"},"6.23.0":{"narHash":"sha256-IK/o1OajKzSV68E819nYoDaIZ0A7UBprDvmftvPbEMs=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.23.0.tgz"},"6.3.13":{"narHash":"sha256-MaZetpGmWRSKJRWobAHLFmmpBkiJwViN2LOxdy1czmk=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.3.13.tgz"},"6.5.0":{"narHash":"sha256-TSZTp5BVbkXeWCFNQW8fCFV4ohhjKQZBwboQg404Z2M=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.5.0.tgz"},"6.5.2":{"narHash":"sha256-vMMzoCm7E9S1Yv9piiV4ChNR8naGaUcRy33GFFS36Sg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.5.2.tgz"},"6.6.0":{"narHash":"sha256-YdsfyUMdeDDRXZRK74UwbnUwP5AR090WrBLpleNYVBc=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.6.0.tgz"},"6.8.0":{"narHash":"sha256-cILj3trq8rX0MQgRJY0sI7g/nXs4B2QYIJK+kw4NfAM=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-vIcO873Sjd1uqFltD55Cfb8OFVwan1D4GdkpuXL5Wzk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-innNPLY79xQQyJULQwLB89tySmqpydI5K2DqKMC85w4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.0.2.tgz"
+  },
+  "6.1.10": {
+    "narHash": "sha256-ci56FfCC1Jel56p730/cAXqt6Gx5V61okVm4uK1oVxc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.10.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-owhvJ8uIRTUc8xIeRFp4ZEPaKfnq/KgSYT5V1b7IaeY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-UpwU5e/cVvG2lF09G34MeHZy0xCQK++SSUa/+QABcHE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-9A5Dd3QBALxfgK7eugHsqzqnlEnqBwIILoNzLDrpNWE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.4.tgz"
+  },
+  "6.1.5": {
+    "narHash": "sha256-qVsCAMOHkIz2t/oAGlubIRrXsWlzE3U8DMaTPMkGoWA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.1.5.tgz"
+  },
+  "6.18.0": {
+    "narHash": "sha256-xa6c4daenrad3AbzrG7juzlem3Q/QqZzYLbsgzA5bG4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.18.0.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-uGZm9cpzp+oUbrQOAlIfw/ClKaLLX9cAu050hS0EJe8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.2.4.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-R0mOUUwaQ5oJ8AjNvKI0m2agc4jO0cW7bgd9USxbBbA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.22.0.tgz"
+  },
+  "6.23.0": {
+    "narHash": "sha256-IK/o1OajKzSV68E819nYoDaIZ0A7UBprDvmftvPbEMs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.23.0.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-MaZetpGmWRSKJRWobAHLFmmpBkiJwViN2LOxdy1czmk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.3.13.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-TSZTp5BVbkXeWCFNQW8fCFV4ohhjKQZBwboQg404Z2M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.5.0.tgz"
+  },
+  "6.5.2": {
+    "narHash": "sha256-vMMzoCm7E9S1Yv9piiV4ChNR8naGaUcRy33GFFS36Sg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.5.2.tgz"
+  },
+  "6.6.0": {
+    "narHash": "sha256-YdsfyUMdeDDRXZRK74UwbnUwP5AR090WrBLpleNYVBc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.6.0.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-cILj3trq8rX0MQgRJY0sI7g/nXs4B2QYIJK+kw4NfAM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-for-of/-/babel-plugin-transform-es2015-for-of-6.8.0.tgz"
+  }
+}

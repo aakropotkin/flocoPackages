@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-zUz6wviNXH+8VTlf6AlF9c+6nD3KSyY3B+mGx9Vo60Y=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-SrdASIkmPP8C21rwHkZK/8RN/39+6oyuOhB8gfjwMTg=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-s8rwQ2CsM1ET1YqYxG2KVM/sM+LOCjE1FSywqYwTacE=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-tsnk0Ots+kiSecUOHCh+BeWfNZ3SdwQA+fS4pSZc7RI=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-oU3thL/TRrSrA8a0uxxWatIKuy/FgWnHKwF+htT38lc=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.2.tgz"},"3.0.3":{"narHash":"sha256-gLXIC4reNbuEKNr0Xln5QvdXD+0ydKLt8wrG5zc8OiI=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.3.tgz"},"3.0.4":{"narHash":"sha256-CNe0POqcC+Wvyftds8P4h4leM1+PYJxbHWYS6Baqecg=","type":"tarball","url":"https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.4.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-zUz6wviNXH+8VTlf6AlF9c+6nD3KSyY3B+mGx9Vo60Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-SrdASIkmPP8C21rwHkZK/8RN/39+6oyuOhB8gfjwMTg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-s8rwQ2CsM1ET1YqYxG2KVM/sM+LOCjE1FSywqYwTacE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-tsnk0Ots+kiSecUOHCh+BeWfNZ3SdwQA+fS4pSZc7RI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-oU3thL/TRrSrA8a0uxxWatIKuy/FgWnHKwF+htT38lc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.2.tgz"
+  },
+  "3.0.3": {
+    "narHash": "sha256-gLXIC4reNbuEKNr0Xln5QvdXD+0ydKLt8wrG5zc8OiI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.3.tgz"
+  },
+  "3.0.4": {
+    "narHash": "sha256-CNe0POqcC+Wvyftds8P4h4leM1+PYJxbHWYS6Baqecg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.4.tgz"
+  }
+}

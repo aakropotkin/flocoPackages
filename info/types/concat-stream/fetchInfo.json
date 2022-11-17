@@ -1,1 +1,17 @@
-{"1.6.0":{"narHash":"sha256-25JPrP9laT10r57x6q00AJ6E8vVxUPY4rff1VpMA4zo=","type":"tarball","url":"https://registry.npmjs.org/@types/concat-stream/-/concat-stream-1.6.0.tgz"},"1.6.1":{"narHash":"sha256-4q4OhmoHB3jadb3keknzt/j9ssYFrFFdILzjpAhM9hQ=","type":"tarball","url":"https://registry.npmjs.org/@types/concat-stream/-/concat-stream-1.6.1.tgz"},"2.0.0":{"narHash":"sha256-sJ5/u7GVYplqU4bU5Bz0oCF7nXuT8+WcF3jdcUE/DmE=","type":"tarball","url":"https://registry.npmjs.org/@types/concat-stream/-/concat-stream-2.0.0.tgz"}}
+{
+  "1.6.0": {
+    "narHash": "sha256-25JPrP9laT10r57x6q00AJ6E8vVxUPY4rff1VpMA4zo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/concat-stream/-/concat-stream-1.6.0.tgz"
+  },
+  "1.6.1": {
+    "narHash": "sha256-4q4OhmoHB3jadb3keknzt/j9ssYFrFFdILzjpAhM9hQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/concat-stream/-/concat-stream-1.6.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-sJ5/u7GVYplqU4bU5Bz0oCF7nXuT8+WcF3jdcUE/DmE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/concat-stream/-/concat-stream-2.0.0.tgz"
+  }
+}

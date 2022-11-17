@@ -1,1 +1,82 @@
-{"6.0.14":{"narHash":"sha256-IWCJNa3mZO9GHMygxj764lQPtgxihY6wCEglp5CTdno=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-Bxcvj0gRhTh9jTkGcmWYUysmhkwPFcgryQGbEHlrfI8=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.0.2.tgz"},"6.1.10":{"narHash":"sha256-U3NpyAVC+qlawmFL7ejMZ9RshyJl3qNK2lwHI2ezssc=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.10.tgz"},"6.1.13":{"narHash":"sha256-jPn2f8mrlanEN5nR7ibhERE4MZt5mJG+9EalTQrZP0c=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.13.tgz"},"6.1.16":{"narHash":"sha256-B3tUJDZWGbYz1wEkfKVlro6kKyoT8cxeAZDsO+l3P+A=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.16.tgz"},"6.1.17":{"narHash":"sha256-OCXZKNorDNJBszqds4swnpd/qSV95Dc1zuytjkDR6CU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-ih07An9k2vcszSyO2jHY83r/vN0tgM/sIDXSfClK080=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-Dyxpcnpo+BcKqwdbvAvvn1zSWHx1flo3xop36S1xOMc=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.4.tgz"},"6.1.5":{"narHash":"sha256-E2wvjHxhVxRgJq1rO64ELI6dsDfHu5lkIlwNW8Wx1D4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.5.tgz"},"6.13.0":{"narHash":"sha256-+BVtVuqC5Ms/p5sZyI5k5BU0a47QMWcDvsDU7Ge+/Zo=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.13.0.tgz"},"6.2.4":{"narHash":"sha256-wDN9eUF6nyitzIh0o6KDb5UYiPduJxZw4bwt/ywbl9k=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.2.4.tgz"},"6.20.0":{"narHash":"sha256-DeZacQQ39i/VSttllQwGclF3weH8cOmwtU/ckv2Wu0I=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.20.0.tgz"},"6.22.0":{"narHash":"sha256-GxM8LfG8EnW+ugSACSeF+WkZekZwVPuVRhfq3jE68xg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.22.0.tgz"},"6.3.13":{"narHash":"sha256-/YrCazTNbd//6QUIUeoPQkn2RtgN7yvtNQ554lOBw1Q=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.3.13.tgz"},"6.5.0":{"narHash":"sha256-U8gALBFqZ/rvmH8uQt4Y4SsaH5yA07aJXryWsYL9/OI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.5.0.tgz"},"6.8.0":{"narHash":"sha256-cnnuefDoGYkeTGPdsSp6xDENaySQ/4KiwpipC8kz2nM=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-IWCJNa3mZO9GHMygxj764lQPtgxihY6wCEglp5CTdno=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-Bxcvj0gRhTh9jTkGcmWYUysmhkwPFcgryQGbEHlrfI8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.0.2.tgz"
+  },
+  "6.1.10": {
+    "narHash": "sha256-U3NpyAVC+qlawmFL7ejMZ9RshyJl3qNK2lwHI2ezssc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.10.tgz"
+  },
+  "6.1.13": {
+    "narHash": "sha256-jPn2f8mrlanEN5nR7ibhERE4MZt5mJG+9EalTQrZP0c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.13.tgz"
+  },
+  "6.1.16": {
+    "narHash": "sha256-B3tUJDZWGbYz1wEkfKVlro6kKyoT8cxeAZDsO+l3P+A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.16.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-OCXZKNorDNJBszqds4swnpd/qSV95Dc1zuytjkDR6CU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-ih07An9k2vcszSyO2jHY83r/vN0tgM/sIDXSfClK080=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-Dyxpcnpo+BcKqwdbvAvvn1zSWHx1flo3xop36S1xOMc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.4.tgz"
+  },
+  "6.1.5": {
+    "narHash": "sha256-E2wvjHxhVxRgJq1rO64ELI6dsDfHu5lkIlwNW8Wx1D4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.1.5.tgz"
+  },
+  "6.13.0": {
+    "narHash": "sha256-+BVtVuqC5Ms/p5sZyI5k5BU0a47QMWcDvsDU7Ge+/Zo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.13.0.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-wDN9eUF6nyitzIh0o6KDb5UYiPduJxZw4bwt/ywbl9k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.2.4.tgz"
+  },
+  "6.20.0": {
+    "narHash": "sha256-DeZacQQ39i/VSttllQwGclF3weH8cOmwtU/ckv2Wu0I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.20.0.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-GxM8LfG8EnW+ugSACSeF+WkZekZwVPuVRhfq3jE68xg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.22.0.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-/YrCazTNbd//6QUIUeoPQkn2RtgN7yvtNQ554lOBw1Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.3.13.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-U8gALBFqZ/rvmH8uQt4Y4SsaH5yA07aJXryWsYL9/OI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.5.0.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-cnnuefDoGYkeTGPdsSp6xDENaySQ/4KiwpipC8kz2nM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.8.0.tgz"
+  }
+}

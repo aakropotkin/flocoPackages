@@ -1,1 +1,107 @@
-{"2.0.0":{"narHash":"sha256-mz1C96O5AYdqi+pAyho+Tq7ONY/AcXpYhtyKqxQL+ek=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-2TXc/2M+XI/TbA2TQfIDBZyWGkiRw9T4rSEM0T2AZTg=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.0.1.tgz"},"2.1.0":{"narHash":"sha256-HkOHaqvPfdRTyjnJoi52m9Iro7ueECU9McG0uAN0z8Q=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-mSzkMSnjbY0NsGry90Qgrv4unqiRTZnI3G8hPW541WI=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.1.tgz"},"2.1.2":{"narHash":"sha256-om23AdwDNVuuIU9wooynGOuNvEOpRGYLhaNHu3WaRKs=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.2.tgz"},"2.1.3":{"narHash":"sha256-UcddhI6x+JqqMaZm1LibHasKnqeXUDwG3NBCRUgXQhU=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.3.tgz"},"2.1.4":{"narHash":"sha256-sr+vSKY+jkoKm7UTPfFdQha0SpO2ctbIfu5QtRDO4EM=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.4.tgz"},"2.1.5":{"narHash":"sha256-EVlCwwiofn3WUr+Mu/Mds+tGLyuMlw167+0VIqmouYg=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.5.tgz"},"2.1.6":{"narHash":"sha256-R8tHe0abSAHsd7mtVJIcYKp7j0xbMlFCYjv0cK7o0Zc=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.6.tgz"},"2.1.7":{"narHash":"sha256-A5esDuytRl3SpmQR/iCS8UY4ty3hdecGamzmkUEI20o=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.7.tgz"},"2.2.0":{"narHash":"sha256-qvmZoo5m6M/7IzDoJusddOJgTEN+0/IZe7Nz3zeMJxM=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.2.0.tgz"},"2.2.1":{"narHash":"sha256-tLpmRuo5PYCwANnkNfFTLJnz2YKcE/wJnRrkG34jfno=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.2.1.tgz"},"2.3.0":{"narHash":"sha256-bUf2mqnjoWTomMdlv2BL/iUXuY8flRDyH8CIAQkMKgI=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.3.0.tgz"},"2.3.2":{"narHash":"sha256-HcE+H7qXJhpl82wjsEVlHtN3tzNkgThamJteJW0neFk=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.3.2.tgz"},"2.4.0":{"narHash":"sha256-uyMXn0njQZfw/LoC9x10dRbv6PCn72FAwETbggUKzZA=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.0.tgz"},"2.4.1":{"narHash":"sha256-55VUrVGa5Bw2YNlV0rhmRmKFemh8tPAdS/8YEdEfH9o=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.1.tgz"},"2.4.2":{"narHash":"sha256-RjWFUOlOkw9VyL0a9BzegMo5jKJ+pvAleNAeUlXEmOc=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.2.tgz"},"2.4.3":{"narHash":"sha256-Jwv/LMAwsQ0KZWu92JkGKthMEy/AY7GTVtOUTZBoCz4=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.3.tgz"},"2.4.4":{"narHash":"sha256-vMZ+ZbgPES7uTskmFIlM7B1NBJwfiusfVh3qx2weakE=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.4.tgz"},"2.4.5":{"narHash":"sha256-ersC/fcHAIyNj58W6B0/rvegsoznd/o76TvPkpiBnHg=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.5.tgz"},"2.5.0":{"narHash":"sha256-Epqxosyk/VqPBSzgP4Deaogc/IoWYz1gD8JZW8nrjSM=","type":"tarball","url":"https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.5.0.tgz"}}
+{
+  "2.0.0": {
+    "narHash": "sha256-mz1C96O5AYdqi+pAyho+Tq7ONY/AcXpYhtyKqxQL+ek=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-2TXc/2M+XI/TbA2TQfIDBZyWGkiRw9T4rSEM0T2AZTg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.0.1.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-HkOHaqvPfdRTyjnJoi52m9Iro7ueECU9McG0uAN0z8Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-mSzkMSnjbY0NsGry90Qgrv4unqiRTZnI3G8hPW541WI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.1.tgz"
+  },
+  "2.1.2": {
+    "narHash": "sha256-om23AdwDNVuuIU9wooynGOuNvEOpRGYLhaNHu3WaRKs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.2.tgz"
+  },
+  "2.1.3": {
+    "narHash": "sha256-UcddhI6x+JqqMaZm1LibHasKnqeXUDwG3NBCRUgXQhU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.3.tgz"
+  },
+  "2.1.4": {
+    "narHash": "sha256-sr+vSKY+jkoKm7UTPfFdQha0SpO2ctbIfu5QtRDO4EM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.4.tgz"
+  },
+  "2.1.5": {
+    "narHash": "sha256-EVlCwwiofn3WUr+Mu/Mds+tGLyuMlw167+0VIqmouYg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.5.tgz"
+  },
+  "2.1.6": {
+    "narHash": "sha256-R8tHe0abSAHsd7mtVJIcYKp7j0xbMlFCYjv0cK7o0Zc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.6.tgz"
+  },
+  "2.1.7": {
+    "narHash": "sha256-A5esDuytRl3SpmQR/iCS8UY4ty3hdecGamzmkUEI20o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.1.7.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-qvmZoo5m6M/7IzDoJusddOJgTEN+0/IZe7Nz3zeMJxM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.2.0.tgz"
+  },
+  "2.2.1": {
+    "narHash": "sha256-tLpmRuo5PYCwANnkNfFTLJnz2YKcE/wJnRrkG34jfno=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.2.1.tgz"
+  },
+  "2.3.0": {
+    "narHash": "sha256-bUf2mqnjoWTomMdlv2BL/iUXuY8flRDyH8CIAQkMKgI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.3.0.tgz"
+  },
+  "2.3.2": {
+    "narHash": "sha256-HcE+H7qXJhpl82wjsEVlHtN3tzNkgThamJteJW0neFk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.3.2.tgz"
+  },
+  "2.4.0": {
+    "narHash": "sha256-uyMXn0njQZfw/LoC9x10dRbv6PCn72FAwETbggUKzZA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.0.tgz"
+  },
+  "2.4.1": {
+    "narHash": "sha256-55VUrVGa5Bw2YNlV0rhmRmKFemh8tPAdS/8YEdEfH9o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.1.tgz"
+  },
+  "2.4.2": {
+    "narHash": "sha256-RjWFUOlOkw9VyL0a9BzegMo5jKJ+pvAleNAeUlXEmOc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.2.tgz"
+  },
+  "2.4.3": {
+    "narHash": "sha256-Jwv/LMAwsQ0KZWu92JkGKthMEy/AY7GTVtOUTZBoCz4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.3.tgz"
+  },
+  "2.4.4": {
+    "narHash": "sha256-vMZ+ZbgPES7uTskmFIlM7B1NBJwfiusfVh3qx2weakE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.4.tgz"
+  },
+  "2.4.5": {
+    "narHash": "sha256-ersC/fcHAIyNj58W6B0/rvegsoznd/o76TvPkpiBnHg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.4.5.tgz"
+  },
+  "2.5.0": {
+    "narHash": "sha256-Epqxosyk/VqPBSzgP4Deaogc/IoWYz1gD8JZW8nrjSM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.5.0.tgz"
+  }
+}

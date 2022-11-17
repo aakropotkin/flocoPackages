@@ -1,1 +1,37 @@
-{"1.0.0":{"narHash":"sha256-rN/yu3Rao1RW6g/LBxdKBoTk4R0m7lV7aeQNFK62cZo=","type":"tarball","url":"https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-CfjRD3Cw12N2nuHZttBsBEVG+lueJkAyiSwAVcDraS4=","type":"tarball","url":"https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-KmxmZs3Obce3ccMlo8UtDBqXwgT3v9aIEd6nA9pw2zw=","type":"tarball","url":"https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-QZw79ulribVdeIkmTPIqTVd3x3ZbLGFmfM73ysm5+04=","type":"tarball","url":"https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-i0djZcdnWd3S7r4QrJcW76HH3B1ysAfFgjFjEWEr4+s=","type":"tarball","url":"https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-AnC+nGm4nrOMQgX9okbozhtKLdjt7GNWkyQbBi5o520=","type":"tarball","url":"https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-Qfw4XJ1h7yyTYbxRmWsOh8lW+IDbhzAYUQnkXWxCdT8=","type":"tarball","url":"https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.6.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-rN/yu3Rao1RW6g/LBxdKBoTk4R0m7lV7aeQNFK62cZo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-CfjRD3Cw12N2nuHZttBsBEVG+lueJkAyiSwAVcDraS4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-KmxmZs3Obce3ccMlo8UtDBqXwgT3v9aIEd6nA9pw2zw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-QZw79ulribVdeIkmTPIqTVd3x3ZbLGFmfM73ysm5+04=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-i0djZcdnWd3S7r4QrJcW76HH3B1ysAfFgjFjEWEr4+s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-AnC+nGm4nrOMQgX9okbozhtKLdjt7GNWkyQbBi5o520=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-Qfw4XJ1h7yyTYbxRmWsOh8lW+IDbhzAYUQnkXWxCdT8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.6.tgz"
+  }
+}

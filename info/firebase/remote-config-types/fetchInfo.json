@@ -1,1 +1,62 @@
-{"0.1.0":{"narHash":"sha256-On1rOyl7l2EPg2JxSK0u58WkJujvnfvgSL0BnDd/q0M=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-MOt+hZz1e0Gb149qqo4CkUCGlHm8DtbzReISe3DlSnc=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-hllAT7EQC+5tqYr35XtYE7MzvyqYVUF/zSGoK5J+eDA=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.2.tgz"},"0.1.3":{"narHash":"sha256-5ngiELQxcy5j1VY4l64Y+Yk6HL3Kj3Y+YkABZwaaAGg=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.3.tgz"},"0.1.4":{"narHash":"sha256-HOeQUQSy3gyDvrrU0GU6PhoglSD4SsystsVr/w7tMmk=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.4.tgz"},"0.1.5":{"narHash":"sha256-FbYPcsIxlu688nMJ3oCFX9Mp7VRYx/SiDB5aVDkOWEU=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.5.tgz"},"0.1.6":{"narHash":"sha256-nYNLRzHGWjDQ0bMIL8bWpVJ/pniVXmA+waK8Wa1foqA=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.6.tgz"},"0.1.7":{"narHash":"sha256-SU1rXPCjY5abajbechN6KE90jv5CMH367+m0k3H5yhA=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.7.tgz"},"0.1.8":{"narHash":"sha256-5mCWK44+AsMlPNR4CgQFeg3AxpQFFf6eZ4M8cET3UmA=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.8.tgz"},"0.1.9":{"narHash":"sha256-wR+cVFV9zjIiTqeIecOzaoxteC94Ej8jTVQJWUOKxR0=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.9.tgz"},"0.2.0":{"narHash":"sha256-nN7j4YlHqAnGcrG79ozu7DDte2JVuqNT4ldGMV/1Yac=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-AHBbWDf6hPsm9WsEFLYYdZb6mtGAZuuFoz/v/7VUbWg=","type":"tarball","url":"https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.2.1.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-On1rOyl7l2EPg2JxSK0u58WkJujvnfvgSL0BnDd/q0M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-MOt+hZz1e0Gb149qqo4CkUCGlHm8DtbzReISe3DlSnc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-hllAT7EQC+5tqYr35XtYE7MzvyqYVUF/zSGoK5J+eDA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.2.tgz"
+  },
+  "0.1.3": {
+    "narHash": "sha256-5ngiELQxcy5j1VY4l64Y+Yk6HL3Kj3Y+YkABZwaaAGg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.3.tgz"
+  },
+  "0.1.4": {
+    "narHash": "sha256-HOeQUQSy3gyDvrrU0GU6PhoglSD4SsystsVr/w7tMmk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.4.tgz"
+  },
+  "0.1.5": {
+    "narHash": "sha256-FbYPcsIxlu688nMJ3oCFX9Mp7VRYx/SiDB5aVDkOWEU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.5.tgz"
+  },
+  "0.1.6": {
+    "narHash": "sha256-nYNLRzHGWjDQ0bMIL8bWpVJ/pniVXmA+waK8Wa1foqA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.6.tgz"
+  },
+  "0.1.7": {
+    "narHash": "sha256-SU1rXPCjY5abajbechN6KE90jv5CMH367+m0k3H5yhA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.7.tgz"
+  },
+  "0.1.8": {
+    "narHash": "sha256-5mCWK44+AsMlPNR4CgQFeg3AxpQFFf6eZ4M8cET3UmA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.8.tgz"
+  },
+  "0.1.9": {
+    "narHash": "sha256-wR+cVFV9zjIiTqeIecOzaoxteC94Ej8jTVQJWUOKxR0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.1.9.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-nN7j4YlHqAnGcrG79ozu7DDte2JVuqNT4ldGMV/1Yac=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-AHBbWDf6hPsm9WsEFLYYdZb6mtGAZuuFoz/v/7VUbWg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@firebase/remote-config-types/-/remote-config-types-0.2.1.tgz"
+  }
+}

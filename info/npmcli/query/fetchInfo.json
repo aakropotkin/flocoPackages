@@ -1,1 +1,42 @@
-{"1.0.0":{"narHash":"sha256-0HPDpJ4PDvemjar+HnAKTFXyu5EtFC+yXl4eMSSf3Q8=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/query/-/query-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-VpNoaJfJjFiix2tY5kCNEpIg6nMxffNik1M1TPv2ZOc=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/query/-/query-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-7e8GyccyCNYh8zdL233mWTjRWjvhPvXanv8sdKlDSTo=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/query/-/query-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-yG+Gmc1Al44eora63Inyi/LX6yG68EMlKNHWBLQSiOE=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/query/-/query-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-7LP5GmS/2pJ1e9fVg2zg5Gwe9grBqfn6XNrzKvgO2Wo=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/query/-/query-1.1.1.tgz"},"1.2.0":{"narHash":"sha256-jMArKWqJiOwkOQTke+NiKSY2KKtQn1WKwpbwXIqaZco=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/query/-/query-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-f3xyv7zgYTRvbIakj5cYfhSIt+VCUI1Qh8YZocMXl5I=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/query/-/query-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-au3pIaaH0YRh56+X2pKT5LzTy1omek9GiaUKpugTyCs=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/query/-/query-3.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-0HPDpJ4PDvemjar+HnAKTFXyu5EtFC+yXl4eMSSf3Q8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/query/-/query-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-VpNoaJfJjFiix2tY5kCNEpIg6nMxffNik1M1TPv2ZOc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/query/-/query-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-7e8GyccyCNYh8zdL233mWTjRWjvhPvXanv8sdKlDSTo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/query/-/query-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-yG+Gmc1Al44eora63Inyi/LX6yG68EMlKNHWBLQSiOE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/query/-/query-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-7LP5GmS/2pJ1e9fVg2zg5Gwe9grBqfn6XNrzKvgO2Wo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/query/-/query-1.1.1.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-jMArKWqJiOwkOQTke+NiKSY2KKtQn1WKwpbwXIqaZco=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/query/-/query-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-f3xyv7zgYTRvbIakj5cYfhSIt+VCUI1Qh8YZocMXl5I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/query/-/query-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-au3pIaaH0YRh56+X2pKT5LzTy1omek9GiaUKpugTyCs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/query/-/query-3.0.0.tgz"
+  }
+}

@@ -8,43 +8,8 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  # Packages explicitly marked for export.
   # Essentially this means that we have audited the generated builders.
   exports = prev.lib.importJSON ./exports.json;
-  marked  = prev.lib.importJSON ./npmjs.json;
-
-# ---------------------------------------------------------------------------- #
-
-  infoDir = toString ../../info;
-
-  loadFetchInfo' = {
-    scope
-  , bname
-  , shard ? prev.lib.toLower ( builtins.substring 0 1 bname )
-  }: let
-    ident = if ( scope == null ) || ( scope == "unscoped" ) then bname else
-            "@${scope}/${bname}";
-    ldir = if ( scope == null ) || ( scope == "unscoped" )
-           then infoDir + "/unscoped/${shard}/${bname}"
-           else infoDir + "/${scope}/${bname}";
-    byVers  = prev.lib.importJSON ( ldir + "/fetchInfo.json" );
-    proc    = acc: v: acc // { "${ident}/${v}" = byVers.${v}; };
-  in builtins.foldl' proc {} ( builtins.attrNames byVers );
-
-  loadFetchInfo = ident: let
-    m = builtins.match "(@?([^@/]+)/)?(([^@/])([^@/]+))" ident;
-  in loadFetchInfo' {
-    scope = builtins.elemAt m 1;
-    bname = builtins.elemAt m 2;
-    shard = prev.lib.toLower ( builtins.elemAt m 3 );
-  };
-
-  markedFetchInfos = let
-    asSb = scope: ents:
-      builtins.mapAttrs ( bname: _: loadFetchInfo' { inherit scope bname; } )
-                        ents;
-  in builtins.mapAttrs asSb marked;
-
 
 # ---------------------------------------------------------------------------- #
 
@@ -73,10 +38,10 @@ final: prev: let
     in if prev.lib.isFunction f then forFn else f;
     forJSON   = prev.lib.importJSON treeJSONPath;
   in if builtins.pathExists treeNixPath
-     then builtins.trace "${ident} using tree.nix" forTreeNix
+     then builtins.traceVerbose "${ident} using tree.nix" forTreeNix
      else if builtins.pathExists treeJSONPath
-     then builtins.trace "${ident} using tree.json" forJSON
-     else builtins.trace "${ident} no tree info" {};
+     then builtins.traceVerbose "${ident} using tree.json" forJSON
+     else builtins.traceVerbose "${ident} no tree info" {};
 
 
 # ---------------------------------------------------------------------------- #
@@ -122,10 +87,11 @@ final: prev: let
     inherit (final.lib.parseNodeNames ident) scope bname sdir;
     fetchInfos =
       prev.lib.importJSON ( ../../info + "/${sdir}/${bname}/fetchInfo.json" );
-    ec = builtins.addErrorContext "Loading fetchInfo for ${ident}/${version}";
-  in final.flocoBinsFetcher {
+    ec   = builtins.addErrorContext "Loading fetchInfo for ${ident}/${version}";
+    meta = metaFor ident version;
+  in final.flocoBinsFetcher ( meta // {
     fetchInfo = ec fetchInfos.${version};
-  };
+  } );
 
 
 # ---------------------------------------------------------------------------- #
@@ -141,12 +107,13 @@ final: prev: let
       inherit (final) flocoPackages;
     }
   , nodejs ? prev.nodejs-14_x
-  }: final.mkBinPackage {
+  }: let
+    meta = metaFor ident version;
+  in final.mkBinPackage {
     inherit ident version src globalNmDirCmd nodejs;
-    inherit (src) passthru;
-    meta = src.meta // ( metaFor ident version );
+    passthru = ( src.passthru or {} ) // { inherit meta; };
+    inherit meta;
   };
-
 
 
 # ---------------------------------------------------------------------------- #
@@ -206,25 +173,12 @@ final: prev: let
       in builtins.foldl' proc msg ( builtins.attrNames tests );
       pass = builtins.all ( b: b ) ( builtins.attrValues tests );
     in if pass then built else throw details;
-  in builtins.trace msg checked;
+  in builtins.traceVerbose msg checked;
 
 
 # ---------------------------------------------------------------------------- #
 
 in {
-
-# ---------------------------------------------------------------------------- #
-
-  # For debugging:
-  __internalBins = {
-    inherit
-      exports
-      marked
-      markedFetchInfos
-      loadFetchInfo'
-      loadFetchInfo
-    ;
-  };
 
 # ---------------------------------------------------------------------------- #
 
@@ -237,19 +191,17 @@ in {
       fetchInfo = fetchInfo // fetched;
       inherit (fetched) outPath;
       passthru.binPermsSet = false;
-      meta.hasBin          = true;
     };
     unpacked = let
       u = final.flocoUnpack {
         name        = "source";
         tarball     = fetched;
         setBinPerms = true;
-        meta.hasBin = true;
       };
     in u // { passthru = u.passtrhu // { binPermsSet = true; }; };
     src = if ( ent.type or ent.fetchInfo.type ) == "file" then unpacked else
           fetchUnpacked;
-  in ent // src;
+  in ent // { sourceInfo = src; inherit (src) outPath; };
 
 
 # ---------------------------------------------------------------------------- #

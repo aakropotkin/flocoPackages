@@ -1,1 +1,47 @@
-{"0.0.1":{"narHash":"sha256-9DNzwOj2aSTPDHMAV8xKrTa7DS7BnRzPThoFg5Qz1zM=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-8TkTRZtuQPKzt5Q8UhTsD8fyTLg2kiv5AFMNfljIzz0=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-0.0.2.tgz"},"1.0.0":{"narHash":"sha256-kWQONxoXOgix/AbJpvOwO+sHE6F2E6EZ+FdGnN3dc5M=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-4HjIFW5SozUfoR3CLmC7sfR5LrdZCagNP/WSoFA9yUo=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-ukPsdq2/qXCiEjX61t19kLxJIriciVuFcSx6eOOsVaM=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-Vjp1yXUKlrSSl3wZcaxIkMrlx7U7u2eKyN2sCmQ8HTY=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-qtIFwOheiqJLf6j+Y03ZWS+r3cZ0YUoiBCgPeIBrcGM=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-2.1.1.tgz"},"2.1.2":{"narHash":"sha256-mRENz/2CSZ5+flcbzt4rDaI2+oA7ur0ZDWQfC6JAk8U=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-2.1.2.tgz"},"2.2.0":{"narHash":"sha256-oCtWCG1I7NEB1LPG88GHOtgxb1TrQug42aPDhgP1ET8=","type":"tarball","url":"https://registry.npmjs.org/arch/-/arch-2.2.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-9DNzwOj2aSTPDHMAV8xKrTa7DS7BnRzPThoFg5Qz1zM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-8TkTRZtuQPKzt5Q8UhTsD8fyTLg2kiv5AFMNfljIzz0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-0.0.2.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-kWQONxoXOgix/AbJpvOwO+sHE6F2E6EZ+FdGnN3dc5M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-4HjIFW5SozUfoR3CLmC7sfR5LrdZCagNP/WSoFA9yUo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-ukPsdq2/qXCiEjX61t19kLxJIriciVuFcSx6eOOsVaM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-Vjp1yXUKlrSSl3wZcaxIkMrlx7U7u2eKyN2sCmQ8HTY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-qtIFwOheiqJLf6j+Y03ZWS+r3cZ0YUoiBCgPeIBrcGM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-2.1.1.tgz"
+  },
+  "2.1.2": {
+    "narHash": "sha256-mRENz/2CSZ5+flcbzt4rDaI2+oA7ur0ZDWQfC6JAk8U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-2.1.2.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-oCtWCG1I7NEB1LPG88GHOtgxb1TrQug42aPDhgP1ET8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/arch/-/arch-2.2.0.tgz"
+  }
+}

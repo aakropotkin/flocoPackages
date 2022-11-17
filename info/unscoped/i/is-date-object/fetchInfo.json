@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-UkG4gSo2/diYeURYVqi1XUN3iwGEy8eUNPVPtgfCbl4=","type":"tarball","url":"https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-7DNgl2/Na0Qsqg2YEqXyIKcWJGcC+p5mVoeoAPWnw9s=","type":"tarball","url":"https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-j6Xjd+oD6ayinGy9LAMasklubCQqTaBzKM+/HH/FZiI=","type":"tarball","url":"https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-ApZIqqAcvq7WzeIonI5iF8N/0T0fE2cDgz7Ih91FXzc=","type":"tarball","url":"https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-vvBm9tnm8tvhXPKshykZswnkyF6ofregU6DglPK5v8g=","type":"tarball","url":"https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-DOoOg9XTnjmck7pSLUl5chkS5FDZHmbwlkiIWi2ESwg=","type":"tarball","url":"https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.5.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-UkG4gSo2/diYeURYVqi1XUN3iwGEy8eUNPVPtgfCbl4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-7DNgl2/Na0Qsqg2YEqXyIKcWJGcC+p5mVoeoAPWnw9s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-j6Xjd+oD6ayinGy9LAMasklubCQqTaBzKM+/HH/FZiI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-ApZIqqAcvq7WzeIonI5iF8N/0T0fE2cDgz7Ih91FXzc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-vvBm9tnm8tvhXPKshykZswnkyF6ofregU6DglPK5v8g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-DOoOg9XTnjmck7pSLUl5chkS5FDZHmbwlkiIWi2ESwg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.5.tgz"
+  }
+}

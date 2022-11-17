@@ -1,1 +1,47 @@
-{"0.1.0":{"narHash":"sha256-/P2xAyhShBtx90G9+3UA2uboANJvbWx0dq8hUYc55wA=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-Z9c44c/XJt+e36e8U5y/Pmdaxn6k+CQMbYUy3MYyCFU=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-YY9ox2LCSk4JuUlhwF7u/XuC1sKAy6pf/+uqAAF+LPk=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-0.1.2.tgz"},"0.2.0":{"narHash":"sha256-0QsO7Z3Vpy7SsQGx8fr9AGzA1wky9t3u5kZ+gD6Z3N8=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-0.2.0.tgz"},"1.0.0":{"narHash":"sha256-EBWjt/XEUix9JB5+SIixSnah5GTsLnBgtSZqzdxVag8=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-CkIMd27/OY72hAj9j11p3LYbxzJn703u7oo8xaIYr0w=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-bYfYJm/nj64a1f54PoXzkJuPjwkW871kFSwW/e0KPQM=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-1.1.1.tgz"},"2.0.0":{"narHash":"sha256-w3dWoBt8thocOX7HxApAUaF9dFca2AxaKcZqpW+w1OY=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-b7ColLtnoHN9EQ0/BfmSNQt8QjlW/ARgKJuGIliBjHY=","type":"tarball","url":"https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-2.0.1.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-/P2xAyhShBtx90G9+3UA2uboANJvbWx0dq8hUYc55wA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-Z9c44c/XJt+e36e8U5y/Pmdaxn6k+CQMbYUy3MYyCFU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-YY9ox2LCSk4JuUlhwF7u/XuC1sKAy6pf/+uqAAF+LPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-0.1.2.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-0QsO7Z3Vpy7SsQGx8fr9AGzA1wky9t3u5kZ+gD6Z3N8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-0.2.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-EBWjt/XEUix9JB5+SIixSnah5GTsLnBgtSZqzdxVag8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-CkIMd27/OY72hAj9j11p3LYbxzJn703u7oo8xaIYr0w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-bYfYJm/nj64a1f54PoXzkJuPjwkW871kFSwW/e0KPQM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-1.1.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-w3dWoBt8thocOX7HxApAUaF9dFca2AxaKcZqpW+w1OY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-b7ColLtnoHN9EQ0/BfmSNQt8QjlW/ARgKJuGIliBjHY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/grunt-legacy-util/-/grunt-legacy-util-2.0.1.tgz"
+  }
+}

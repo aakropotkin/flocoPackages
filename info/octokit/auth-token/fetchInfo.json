@@ -1,1 +1,87 @@
-{"1.0.0":{"narHash":"sha256-2/curobIa4+/H7WEfjHgmWMe7EJ4EzdOVJhxQg8K9Nw=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-pvNscNWe8wkLX6LYeOV5srVEVeW0ztklOkEhcMVwM9w=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-lW+iwFYeHP/Vq5Zb3yGYa45CR0oXskTsQLTldZMaYhk=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-G1WZhfe/3wLBiAWMk+/rSVVyS490QutYPk6epZOSK7Y=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.0.2.tgz"},"2.1.0":{"narHash":"sha256-h15C12fBt+pwDqWtlRO/6Wcb3vhlHPVa4q5nLjgHexQ=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.1.0.tgz"},"2.2.0":{"narHash":"sha256-JaaVYVQ7ZPT2OZbOcyi/mqIDsfpXOZ9HO5cBV4TRHwo=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.2.0.tgz"},"2.3.0":{"narHash":"sha256-ux2oRC/l87YQdEdM+aqfRvbXPLap+VvTyJIpP4DwNeY=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.3.0.tgz"},"2.4.0":{"narHash":"sha256-lH3hZKekLyBXjg6by0heEzDcVub5Eimq/THQJD3SWIQ=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.0.tgz"},"2.4.1":{"narHash":"sha256-KNmqXUmGaOxgBMmhtSL4rEAPWUT3/0HCGEevc0rrbWU=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.1.tgz"},"2.4.2":{"narHash":"sha256-H+VKMCyc9/OjGqbeS5Pbr+SMd6JccretRUpf4yjHG54=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.2.tgz"},"2.4.3":{"narHash":"sha256-zQvYC4wLCYft5mGEJ4lMZ3t6SxrUfuy8zqDAXvC7dBE=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.3.tgz"},"2.4.4":{"narHash":"sha256-ze6RwKdDBAnXRt6/U35exiU4F7i9qCmfpf1PtURiezY=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.4.tgz"},"2.4.5":{"narHash":"sha256-iIkrRbyyT6b2ERti8AcYvoqh6gtmURH+19URU2fz2Hg=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.5.tgz"},"2.5.0":{"narHash":"sha256-5Focx/IpbhxFgzo9Nod6yw1NQeszFdbA2MiAUo8lxvU=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.5.0.tgz"},"3.0.0":{"narHash":"sha256-mi/1i7blPLBImeWA7w6REStopZ/ECkc5tUmG6UaZ4pM=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-qfRgzE7WWNDN9ZcHkrJk0IlbdRKa8D6rg4PvZfZ3dDc=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-sHweEhbDLZ4y/xYlSfBSiOzdbcJff76vAaFU+5dvomc=","type":"tarball","url":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-3.0.2.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-2/curobIa4+/H7WEfjHgmWMe7EJ4EzdOVJhxQg8K9Nw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-pvNscNWe8wkLX6LYeOV5srVEVeW0ztklOkEhcMVwM9w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-lW+iwFYeHP/Vq5Zb3yGYa45CR0oXskTsQLTldZMaYhk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-G1WZhfe/3wLBiAWMk+/rSVVyS490QutYPk6epZOSK7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.0.2.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-h15C12fBt+pwDqWtlRO/6Wcb3vhlHPVa4q5nLjgHexQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.1.0.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-JaaVYVQ7ZPT2OZbOcyi/mqIDsfpXOZ9HO5cBV4TRHwo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.2.0.tgz"
+  },
+  "2.3.0": {
+    "narHash": "sha256-ux2oRC/l87YQdEdM+aqfRvbXPLap+VvTyJIpP4DwNeY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.3.0.tgz"
+  },
+  "2.4.0": {
+    "narHash": "sha256-lH3hZKekLyBXjg6by0heEzDcVub5Eimq/THQJD3SWIQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.0.tgz"
+  },
+  "2.4.1": {
+    "narHash": "sha256-KNmqXUmGaOxgBMmhtSL4rEAPWUT3/0HCGEevc0rrbWU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.1.tgz"
+  },
+  "2.4.2": {
+    "narHash": "sha256-H+VKMCyc9/OjGqbeS5Pbr+SMd6JccretRUpf4yjHG54=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.2.tgz"
+  },
+  "2.4.3": {
+    "narHash": "sha256-zQvYC4wLCYft5mGEJ4lMZ3t6SxrUfuy8zqDAXvC7dBE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.3.tgz"
+  },
+  "2.4.4": {
+    "narHash": "sha256-ze6RwKdDBAnXRt6/U35exiU4F7i9qCmfpf1PtURiezY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.4.tgz"
+  },
+  "2.4.5": {
+    "narHash": "sha256-iIkrRbyyT6b2ERti8AcYvoqh6gtmURH+19URU2fz2Hg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.5.tgz"
+  },
+  "2.5.0": {
+    "narHash": "sha256-5Focx/IpbhxFgzo9Nod6yw1NQeszFdbA2MiAUo8lxvU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.5.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-mi/1i7blPLBImeWA7w6REStopZ/ECkc5tUmG6UaZ4pM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-qfRgzE7WWNDN9ZcHkrJk0IlbdRKa8D6rg4PvZfZ3dDc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-sHweEhbDLZ4y/xYlSfBSiOzdbcJff76vAaFU+5dvomc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@octokit/auth-token/-/auth-token-3.0.2.tgz"
+  }
+}

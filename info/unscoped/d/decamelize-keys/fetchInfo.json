@@ -1,1 +1,27 @@
-{"1.0.0":{"narHash":"sha256-se15nLT3VCjPuRmRoKFEKheaq16ejqWp8f6VRhnkMMI=","type":"tarball","url":"https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-TUheOktGGDHl/QDg8xoaa8ul1/uYWxdzEHj8Xwae17Y=","type":"tarball","url":"https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-EH1v0sws9h8tofQdcvDWs1Jh1nDY21zKF1LWW+si4l8=","type":"tarball","url":"https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-1.1.1.tgz"},"2.0.0":{"narHash":"sha256-2dozI0gxX65eUPqZKak2nIeD+EPuogLFu/WhTFLYi5E=","type":"tarball","url":"https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-B5NrZbw0mm0HshMRoxO7QAbZOKQb0nbPHjNK82ooLdQ=","type":"tarball","url":"https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-2.0.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-se15nLT3VCjPuRmRoKFEKheaq16ejqWp8f6VRhnkMMI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-TUheOktGGDHl/QDg8xoaa8ul1/uYWxdzEHj8Xwae17Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-EH1v0sws9h8tofQdcvDWs1Jh1nDY21zKF1LWW+si4l8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-1.1.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-2dozI0gxX65eUPqZKak2nIeD+EPuogLFu/WhTFLYi5E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-B5NrZbw0mm0HshMRoxO7QAbZOKQb0nbPHjNK82ooLdQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/decamelize-keys/-/decamelize-keys-2.0.1.tgz"
+  }
+}

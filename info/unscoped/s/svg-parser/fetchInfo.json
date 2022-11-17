@@ -1,1 +1,62 @@
-{"1.0.0":{"narHash":"sha256-/Za9ipfEnbMCSC/RG1SGz8/gheXhDhnSEfgxWCmzQwo=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-GmDn/qd43YJOhxa/fPfHUd5NCV0rwDd4EZHFcZm8efI=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-WEuucMKSMo9H7yQDMii9/ZxjiMjBmSyCSCEh+YVcazU=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-GujbC2Qu+rGiqIGpMkS1PyxYe0UIp04EeLKUWVRv9EA=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-gwDwb1mW0QydJRqOUrTeZumEUk275nHefzE2ZBPfOoI=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-lQIabBJJs1VklXPWEjXn+24AkHnOHiYdK3t+C1RymPo=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-X37G6/TjaEY0lfz4QnSwWjNTvQb9HGDS2Nv5lDiQMc8=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.6.tgz"},"2.0.0":{"narHash":"sha256-hAO/EVM/eBisW5ZVnIOa8Wgll56bHEZraFy+Ia0Z7Vg=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-R56tlCEJzVhelc72myM0m5MqJ5pDMK0vHMvFGB/g/Bw=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-TWEbzEZqnui9eCprZONg/VfpNECdtJZHqtsXj91SHaE=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-ilhlohe08wUSqFH7KspJMVIi95noleWLlrLKQoThAFM=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-sSlv6gymAOAccsdumT5bbTjG4y8xhDXNE72NoCQOEFc=","type":"tarball","url":"https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.4.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-/Za9ipfEnbMCSC/RG1SGz8/gheXhDhnSEfgxWCmzQwo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-GmDn/qd43YJOhxa/fPfHUd5NCV0rwDd4EZHFcZm8efI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-WEuucMKSMo9H7yQDMii9/ZxjiMjBmSyCSCEh+YVcazU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-GujbC2Qu+rGiqIGpMkS1PyxYe0UIp04EeLKUWVRv9EA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-gwDwb1mW0QydJRqOUrTeZumEUk275nHefzE2ZBPfOoI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-lQIabBJJs1VklXPWEjXn+24AkHnOHiYdK3t+C1RymPo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-X37G6/TjaEY0lfz4QnSwWjNTvQb9HGDS2Nv5lDiQMc8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-1.0.6.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-hAO/EVM/eBisW5ZVnIOa8Wgll56bHEZraFy+Ia0Z7Vg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-R56tlCEJzVhelc72myM0m5MqJ5pDMK0vHMvFGB/g/Bw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-TWEbzEZqnui9eCprZONg/VfpNECdtJZHqtsXj91SHaE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-ilhlohe08wUSqFH7KspJMVIi95noleWLlrLKQoThAFM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-sSlv6gymAOAccsdumT5bbTjG4y8xhDXNE72NoCQOEFc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/svg-parser/-/svg-parser-2.0.4.tgz"
+  }
+}

@@ -1,1 +1,82 @@
-{"1.0.0":{"narHash":"sha256-GR1HIAU/EWQvdifDlVMm5FjIbTGnRko5xI7uDWNE5a0=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-D/m3aRdltgIhBBxYUxru88IHMZnXv0M8+WZi8aienyo=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-HVDiSa3hDMXNQn9ZlH1JRYDRzCXitv4nZS9dMJNHp14=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-1.0.2.tgz"},"2.0.0":{"narHash":"sha256-CyBySQJBXBuxK9Ok2G5F4fWdo4b6XGt/jBY4DOrcuDQ=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-0k+bmZ1wgCiOZLtrmiYfQUFHWNmzXRh6NhHW849mEEk=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-2.1.0.tgz"},"2.2.0":{"narHash":"sha256-siLRwoYAvrHrD4CYiIz21b3HajMkjuC1KZ9ABqWd2Po=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-2.2.0.tgz"},"2.3.0":{"narHash":"sha256-5hz0ND7fDSJQDzYlQfceiNu6PoTlDDWIyoJPoCuLiQ4=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-2.3.0.tgz"},"3.0.0":{"narHash":"sha256-jUfyJmNufXYYcIVLRMx/SWtzQuj1bh5Vz8as5YfVBzU=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-Ycu514+hYKU5a+jyT47SMpX9SUu4kx+50j9U9486ORA=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-3.1.0.tgz"},"4.0.0":{"narHash":"sha256-J+KJx4mrqM2HDe71XBsNWuIxWHvd8snQE/3sRfbgGSs=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-4.0.0.tgz"},"5.0.0":{"narHash":"sha256-iyqcOy7KLjDCr0nTwJnre65Y06cVDlh4QSra2W6eCEQ=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-5.0.0.tgz"},"6.0.0":{"narHash":"sha256-sbyy+nZQNg6N7pkjJsKO8RV47LM4JuIhSC9fxO7aYCk=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-6.0.0.tgz"},"6.1.0":{"narHash":"sha256-Ml9JK7c9YmJApb8M2dRSLjLWFKkoLGfuqfuQFQWRtOs=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-6.1.0.tgz"},"7.0.0":{"narHash":"sha256-eyRbhTPSuZL6t/+/ItzXQ2akE3vtj8DPvt8WKeIdBqI=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-7.0.0.tgz"},"7.1.0":{"narHash":"sha256-QrE9Xu7aZrwQBr3NJxKbfK8jOk5HHiSuvUVAUqNbdJk=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-7.1.0.tgz"},"8.0.0":{"narHash":"sha256-cfN6mVt227M0UR1KUI3cVnmluh7ExqoRBXIpXyWt3U8=","type":"tarball","url":"https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-8.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-GR1HIAU/EWQvdifDlVMm5FjIbTGnRko5xI7uDWNE5a0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-D/m3aRdltgIhBBxYUxru88IHMZnXv0M8+WZi8aienyo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-HVDiSa3hDMXNQn9ZlH1JRYDRzCXitv4nZS9dMJNHp14=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-1.0.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-CyBySQJBXBuxK9Ok2G5F4fWdo4b6XGt/jBY4DOrcuDQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-0k+bmZ1wgCiOZLtrmiYfQUFHWNmzXRh6NhHW849mEEk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-2.1.0.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-siLRwoYAvrHrD4CYiIz21b3HajMkjuC1KZ9ABqWd2Po=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-2.2.0.tgz"
+  },
+  "2.3.0": {
+    "narHash": "sha256-5hz0ND7fDSJQDzYlQfceiNu6PoTlDDWIyoJPoCuLiQ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-2.3.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-jUfyJmNufXYYcIVLRMx/SWtzQuj1bh5Vz8as5YfVBzU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-Ycu514+hYKU5a+jyT47SMpX9SUu4kx+50j9U9486ORA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-3.1.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-J+KJx4mrqM2HDe71XBsNWuIxWHvd8snQE/3sRfbgGSs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-4.0.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-iyqcOy7KLjDCr0nTwJnre65Y06cVDlh4QSra2W6eCEQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-5.0.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-sbyy+nZQNg6N7pkjJsKO8RV47LM4JuIhSC9fxO7aYCk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-6.0.0.tgz"
+  },
+  "6.1.0": {
+    "narHash": "sha256-Ml9JK7c9YmJApb8M2dRSLjLWFKkoLGfuqfuQFQWRtOs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-6.1.0.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-eyRbhTPSuZL6t/+/ItzXQ2akE3vtj8DPvt8WKeIdBqI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-7.0.0.tgz"
+  },
+  "7.1.0": {
+    "narHash": "sha256-QrE9Xu7aZrwQBr3NJxKbfK8jOk5HHiSuvUVAUqNbdJk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-7.1.0.tgz"
+  },
+  "8.0.0": {
+    "narHash": "sha256-cfN6mVt227M0UR1KUI3cVnmluh7ExqoRBXIpXyWt3U8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/sequelize-pool/-/sequelize-pool-8.0.0.tgz"
+  }
+}

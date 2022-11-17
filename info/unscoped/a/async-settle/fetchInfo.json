@@ -1,1 +1,32 @@
-{"0.0.0":{"narHash":"sha256-JfgEXQxTijkEIxkpWq7MKJfX7QpDF2SZc0UCXSVK8Bc=","type":"tarball","url":"https://registry.npmjs.org/async-settle/-/async-settle-0.0.0.tgz"},"0.1.0":{"narHash":"sha256-uitSK4neS9IGQc/qGrPugCJ6QPVWupCOM8oWAu/txbI=","type":"tarball","url":"https://registry.npmjs.org/async-settle/-/async-settle-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-ffRDRsPJNeQ+Plc5D9/BdR5SAw4xDFoAx0lB1DxRwjs=","type":"tarball","url":"https://registry.npmjs.org/async-settle/-/async-settle-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-OIuojXBouxc3+uvJY9dFhuugw2+3FSRxyuArLbq9jAQ=","type":"tarball","url":"https://registry.npmjs.org/async-settle/-/async-settle-0.2.1.tgz"},"1.0.0":{"narHash":"sha256-f6TaNXwYviuTBMli+Qcfp8Bqk+uhIDWR7sDdBxkrba0=","type":"tarball","url":"https://registry.npmjs.org/async-settle/-/async-settle-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-7fo+W0o+5wyfil7DwlvtYFqcPs9yIwYVOvePMdxQ3go=","type":"tarball","url":"https://registry.npmjs.org/async-settle/-/async-settle-2.0.0.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-JfgEXQxTijkEIxkpWq7MKJfX7QpDF2SZc0UCXSVK8Bc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-settle/-/async-settle-0.0.0.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-uitSK4neS9IGQc/qGrPugCJ6QPVWupCOM8oWAu/txbI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-settle/-/async-settle-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-ffRDRsPJNeQ+Plc5D9/BdR5SAw4xDFoAx0lB1DxRwjs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-settle/-/async-settle-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-OIuojXBouxc3+uvJY9dFhuugw2+3FSRxyuArLbq9jAQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-settle/-/async-settle-0.2.1.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-f6TaNXwYviuTBMli+Qcfp8Bqk+uhIDWR7sDdBxkrba0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-settle/-/async-settle-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-7fo+W0o+5wyfil7DwlvtYFqcPs9yIwYVOvePMdxQ3go=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/async-settle/-/async-settle-2.0.0.tgz"
+  }
+}

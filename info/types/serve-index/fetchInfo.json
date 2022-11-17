@@ -1,1 +1,32 @@
-{"1.7.27":{"narHash":"sha256-yQfw0H35102ayHBKOmx527Q5N2AI0Kw9pH0IGY5iuXE=","type":"tarball","url":"https://registry.npmjs.org/@types/serve-index/-/serve-index-1.7.27.tgz"},"1.7.28":{"narHash":"sha256-zxYkUMLDV6+pvnHZWtI89G++Nl+yilVKsrQc28kN0CE=","type":"tarball","url":"https://registry.npmjs.org/@types/serve-index/-/serve-index-1.7.28.tgz"},"1.7.29":{"narHash":"sha256-FUL5rJ+jsRbSifvOw1LpG7G2TpxhEo9IAZsuvXmnxDw=","type":"tarball","url":"https://registry.npmjs.org/@types/serve-index/-/serve-index-1.7.29.tgz"},"1.7.30":{"narHash":"sha256-UCTCy4898mIvCVhFmw9Q8reVh9jJY0QTJ43GXWoPBUk=","type":"tarball","url":"https://registry.npmjs.org/@types/serve-index/-/serve-index-1.7.30.tgz"},"1.9.0":{"narHash":"sha256-0qo+4nn5du7aulAEpTTdSweJ/kc6WvN7ppPA/5DPUVw=","type":"tarball","url":"https://registry.npmjs.org/@types/serve-index/-/serve-index-1.9.0.tgz"},"1.9.1":{"narHash":"sha256-ObNpoueU/n8cAjgDl0AIcWTlAVVniZ6wdN1XMzUt0Tg=","type":"tarball","url":"https://registry.npmjs.org/@types/serve-index/-/serve-index-1.9.1.tgz"}}
+{
+  "1.7.27": {
+    "narHash": "sha256-yQfw0H35102ayHBKOmx527Q5N2AI0Kw9pH0IGY5iuXE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/serve-index/-/serve-index-1.7.27.tgz"
+  },
+  "1.7.28": {
+    "narHash": "sha256-zxYkUMLDV6+pvnHZWtI89G++Nl+yilVKsrQc28kN0CE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/serve-index/-/serve-index-1.7.28.tgz"
+  },
+  "1.7.29": {
+    "narHash": "sha256-FUL5rJ+jsRbSifvOw1LpG7G2TpxhEo9IAZsuvXmnxDw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/serve-index/-/serve-index-1.7.29.tgz"
+  },
+  "1.7.30": {
+    "narHash": "sha256-UCTCy4898mIvCVhFmw9Q8reVh9jJY0QTJ43GXWoPBUk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/serve-index/-/serve-index-1.7.30.tgz"
+  },
+  "1.9.0": {
+    "narHash": "sha256-0qo+4nn5du7aulAEpTTdSweJ/kc6WvN7ppPA/5DPUVw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/serve-index/-/serve-index-1.9.0.tgz"
+  },
+  "1.9.1": {
+    "narHash": "sha256-ObNpoueU/n8cAjgDl0AIcWTlAVVniZ6wdN1XMzUt0Tg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/serve-index/-/serve-index-1.9.1.tgz"
+  }
+}

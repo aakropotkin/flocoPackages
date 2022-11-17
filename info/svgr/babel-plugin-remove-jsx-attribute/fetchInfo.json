@@ -1,1 +1,52 @@
-{"4.0.0":{"narHash":"sha256-bllqFspeKpD+UivJz/G6aRyvercylJzq0TIwpKvABYg=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-4.0.0.tgz"},"4.0.3":{"narHash":"sha256-GS0lrYWhCVN2SEApsWQK/obTBgkFmRCGIYGpUNG/KOQ=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-4.0.3.tgz"},"4.2.0":{"narHash":"sha256-/L4RH3o1lNLjVC7nsE4cgKEyFjRqSbpCe6QVVhalNLw=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-4.2.0.tgz"},"5.0.0":{"narHash":"sha256-4Pp2MPa4q0/n6CTYL6UiyAfv1arkRz4P85QFmfNh1s0=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-DHxY2hUIYVf1E3A6u/8IikyYWBw1BZJtcgs6ryxiqek=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-5.0.1.tgz"},"5.4.0":{"narHash":"sha256-Oj6NUJid68QsJzBO408Xz2UnVlV2z/eUxIkNp9FmkkQ=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-5.4.0.tgz"},"6.0.0":{"narHash":"sha256-g/XwzorG09GtoMoUltP2PmpowrHCNMCpgya7KTrYf10=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-6.0.0.tgz"},"6.3.0":{"narHash":"sha256-V2pSiqnMTCb1TApGgDbkKTxVtYey0tUVPGsFxp5/fmE=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-6.3.0.tgz"},"6.3.1":{"narHash":"sha256-7oSiI8kUtsxQkaPWTNNSpoI7kAA43LwQNlPVLRgDafc=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-6.3.1.tgz"},"6.5.0":{"narHash":"sha256-3C4kFTU0OYFPVL0BtUvwOfFWO8J5NgJuJBryrlWugxA=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-6.5.0.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-bllqFspeKpD+UivJz/G6aRyvercylJzq0TIwpKvABYg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-4.0.0.tgz"
+  },
+  "4.0.3": {
+    "narHash": "sha256-GS0lrYWhCVN2SEApsWQK/obTBgkFmRCGIYGpUNG/KOQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-4.0.3.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-/L4RH3o1lNLjVC7nsE4cgKEyFjRqSbpCe6QVVhalNLw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-4.2.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-4Pp2MPa4q0/n6CTYL6UiyAfv1arkRz4P85QFmfNh1s0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-DHxY2hUIYVf1E3A6u/8IikyYWBw1BZJtcgs6ryxiqek=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-5.0.1.tgz"
+  },
+  "5.4.0": {
+    "narHash": "sha256-Oj6NUJid68QsJzBO408Xz2UnVlV2z/eUxIkNp9FmkkQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-5.4.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-g/XwzorG09GtoMoUltP2PmpowrHCNMCpgya7KTrYf10=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-6.0.0.tgz"
+  },
+  "6.3.0": {
+    "narHash": "sha256-V2pSiqnMTCb1TApGgDbkKTxVtYey0tUVPGsFxp5/fmE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-6.3.0.tgz"
+  },
+  "6.3.1": {
+    "narHash": "sha256-7oSiI8kUtsxQkaPWTNNSpoI7kAA43LwQNlPVLRgDafc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-6.3.1.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-3C4kFTU0OYFPVL0BtUvwOfFWO8J5NgJuJBryrlWugxA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/-/babel-plugin-remove-jsx-attribute-6.5.0.tgz"
+  }
+}

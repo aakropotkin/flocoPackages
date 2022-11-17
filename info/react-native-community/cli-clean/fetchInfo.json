@@ -1,1 +1,32 @@
-{"8.0.0":{"narHash":"sha256-p41ThJxo7MeK7HRr4dHp07PaGYzPf525E2j9LfMzWz8=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-8.0.0.tgz"},"8.0.4":{"narHash":"sha256-9uTsYgRrQmXwOwU7buLxZH6v/H5pTkEETgM780IeTFg=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-8.0.4.tgz"},"9.0.0":{"narHash":"sha256-nboL3zMtaHZ1J9jdOiiJ6mAzGPmGa+XUaf9J73hmRRM=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-9.0.0.tgz"},"9.1.0":{"narHash":"sha256-21ZYEOu6tuy3iSqsSW9d752vSK7TT20+rXkQUmqOWFA=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-9.1.0.tgz"},"9.2.0":{"narHash":"sha256-pgDSkBmzbZZZkiw5FuFxS49k8A1y/tqGZmPNZW7kxiM=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-9.2.0.tgz"},"9.2.1":{"narHash":"sha256-3SjT+8nsOsKNP71UEV8xtnRE4AZP47JPB5H+2uxtk5Q=","type":"tarball","url":"https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-9.2.1.tgz"}}
+{
+  "8.0.0": {
+    "narHash": "sha256-p41ThJxo7MeK7HRr4dHp07PaGYzPf525E2j9LfMzWz8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-8.0.0.tgz"
+  },
+  "8.0.4": {
+    "narHash": "sha256-9uTsYgRrQmXwOwU7buLxZH6v/H5pTkEETgM780IeTFg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-8.0.4.tgz"
+  },
+  "9.0.0": {
+    "narHash": "sha256-nboL3zMtaHZ1J9jdOiiJ6mAzGPmGa+XUaf9J73hmRRM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-9.0.0.tgz"
+  },
+  "9.1.0": {
+    "narHash": "sha256-21ZYEOu6tuy3iSqsSW9d752vSK7TT20+rXkQUmqOWFA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-9.1.0.tgz"
+  },
+  "9.2.0": {
+    "narHash": "sha256-pgDSkBmzbZZZkiw5FuFxS49k8A1y/tqGZmPNZW7kxiM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-9.2.0.tgz"
+  },
+  "9.2.1": {
+    "narHash": "sha256-3SjT+8nsOsKNP71UEV8xtnRE4AZP47JPB5H+2uxtk5Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-native-community/cli-clean/-/cli-clean-9.2.1.tgz"
+  }
+}

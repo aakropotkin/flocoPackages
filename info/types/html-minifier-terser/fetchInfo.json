@@ -1,1 +1,37 @@
-{"5.0.0":{"narHash":"sha256-SeSU9UwU6HBtFv3LHXVWrsJ3t3XC+UnIdZLHXTwwMWY=","type":"tarball","url":"https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-5.0.0.tgz"},"5.1.0":{"narHash":"sha256-8Uz5kaOIyjyEF8a2t9f+RmwUK60X42xv4qBXXI9jlfI=","type":"tarball","url":"https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-5.1.0.tgz"},"5.1.1":{"narHash":"sha256-pgkxHoYdwrEJ5iOEViLsxOjotd63EMgxVrXAg5WzakY=","type":"tarball","url":"https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-5.1.1.tgz"},"5.1.2":{"narHash":"sha256-Ln1PK25hE1PLaZpMDoWw7BoFJLDb//3NqhdhSOWSg3A=","type":"tarball","url":"https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-5.1.2.tgz"},"6.0.0":{"narHash":"sha256-YMuX67piTcj8+3jIzYlCv0CTM3gaYDxoFRlbhR9FwjI=","type":"tarball","url":"https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-6.0.0.tgz"},"6.1.0":{"narHash":"sha256-9LUC9ei8sbKF0bWurhtN2+M4kSBFyOwNYu0FLnUWJDA=","type":"tarball","url":"https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-6.1.0.tgz"},"7.0.0":{"narHash":"sha256-OG5f1jlh67rFc3UauEE/ZWOBf+0FTjx1ReX3sDdYVSQ=","type":"tarball","url":"https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-7.0.0.tgz"}}
+{
+  "5.0.0": {
+    "narHash": "sha256-SeSU9UwU6HBtFv3LHXVWrsJ3t3XC+UnIdZLHXTwwMWY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-5.0.0.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-8Uz5kaOIyjyEF8a2t9f+RmwUK60X42xv4qBXXI9jlfI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-5.1.0.tgz"
+  },
+  "5.1.1": {
+    "narHash": "sha256-pgkxHoYdwrEJ5iOEViLsxOjotd63EMgxVrXAg5WzakY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-5.1.1.tgz"
+  },
+  "5.1.2": {
+    "narHash": "sha256-Ln1PK25hE1PLaZpMDoWw7BoFJLDb//3NqhdhSOWSg3A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-5.1.2.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-YMuX67piTcj8+3jIzYlCv0CTM3gaYDxoFRlbhR9FwjI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-6.0.0.tgz"
+  },
+  "6.1.0": {
+    "narHash": "sha256-9LUC9ei8sbKF0bWurhtN2+M4kSBFyOwNYu0FLnUWJDA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-6.1.0.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-OG5f1jlh67rFc3UauEE/ZWOBf+0FTjx1ReX3sDdYVSQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/html-minifier-terser/-/html-minifier-terser-7.0.0.tgz"
+  }
+}

@@ -1,1 +1,27 @@
-{"0.0.1":{"narHash":"sha256-4qd8l072hdQgfrdtuNVzZwFSh/UeJ9QMmnNNdT/L3PM=","type":"tarball","url":"https://registry.npmjs.org/bodec/-/bodec-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-zc0Cb+BcIqboMIX8WpKE3asXTmq4dNLx36qExaJ6tPM=","type":"tarball","url":"https://registry.npmjs.org/bodec/-/bodec-0.0.2.tgz"},"0.1.0":{"narHash":"sha256-RdUgzcagWU1mtydxMY1cW1GOBUsZkSsyxQkDNL3vtqI=","type":"tarball","url":"https://registry.npmjs.org/bodec/-/bodec-0.1.0.tgz"},"1.0.0":{"narHash":"sha256-vxYr7JhVUkZWl3JE9NgllktMC7AfD3DfmHdrsStEW/8=","type":"tarball","url":"https://registry.npmjs.org/bodec/-/bodec-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-+rcgP3gn5P1GzsAeE412t9miLvAUA1e+muVbp+GpnRA=","type":"tarball","url":"https://registry.npmjs.org/bodec/-/bodec-1.1.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-4qd8l072hdQgfrdtuNVzZwFSh/UeJ9QMmnNNdT/L3PM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bodec/-/bodec-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-zc0Cb+BcIqboMIX8WpKE3asXTmq4dNLx36qExaJ6tPM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bodec/-/bodec-0.0.2.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-RdUgzcagWU1mtydxMY1cW1GOBUsZkSsyxQkDNL3vtqI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bodec/-/bodec-0.1.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-vxYr7JhVUkZWl3JE9NgllktMC7AfD3DfmHdrsStEW/8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bodec/-/bodec-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-+rcgP3gn5P1GzsAeE412t9miLvAUA1e+muVbp+GpnRA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/bodec/-/bodec-1.1.0.tgz"
+  }
+}

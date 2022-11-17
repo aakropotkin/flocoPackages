@@ -1,1 +1,22 @@
-{"2.0.2":{"narHash":"sha256-rIJb+quqAPoR2UENQTOYfad3H+MwIGT+IYyvmphFg3A=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-2.0.2.tgz"},"3.0.0":{"narHash":"sha256-v3InC1NP9B5xgZiticP5rD54OyMkXk6cxLc0dNErRVU=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-prgGX32zszdvyLzyHg1AfsMDyAcuNzVq/jd8ZRgqFEE=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-VA52uJlATFGcKlcdKf+guS9KcsGj8xX9xS/UMnYbwnE=","type":"tarball","url":"https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-3.0.2.tgz"}}
+{
+  "2.0.2": {
+    "narHash": "sha256-rIJb+quqAPoR2UENQTOYfad3H+MwIGT+IYyvmphFg3A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-2.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-v3InC1NP9B5xgZiticP5rD54OyMkXk6cxLc0dNErRVU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-prgGX32zszdvyLzyHg1AfsMDyAcuNzVq/jd8ZRgqFEE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-VA52uJlATFGcKlcdKf+guS9KcsGj8xX9xS/UMnYbwnE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@apidevtools/swagger-methods/-/swagger-methods-3.0.2.tgz"
+  }
+}

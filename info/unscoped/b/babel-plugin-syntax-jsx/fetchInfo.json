@@ -1,1 +1,82 @@
-{"6.0.14":{"narHash":"sha256-0+svT3xpFwmhn6JFzTLwcrmq+a7R15/5GhPMWeYY2lI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-OwPdw8YBlVWWxf5CYRk/opWaXtD2vm0LwVX+5Bt4PkI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.0.2.tgz"},"6.1.10":{"narHash":"sha256-3mT+lzEFfNbsxhZtEmQFhZ09Qj+E28orq0myTfXW258=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.10.tgz"},"6.1.13":{"narHash":"sha256-cQa1/I24na5LbULTVityPm+KaSbj8mzTAei1V2sq8QE=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.13.tgz"},"6.1.16":{"narHash":"sha256-7Unetb86y7c3CzOHojyCeB4Wd2JkuvqRoJrZiAPu0ps=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.16.tgz"},"6.1.17":{"narHash":"sha256-aM58YJ+oAmTEjhdB9goE441ENWIDJXF3upJ8M/X1/P4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-X3Y0wA63BRqUcaPJOz//3iemmDT9ldY1sM+tOUYT7Jo=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-dkmFSNZwJhE3ZzcqXxGFYS2JsegbM4OT31xe6UBMZ8Y=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.4.tgz"},"6.1.5":{"narHash":"sha256-HQ6de87DwYodz/gmo5Ne6noXPtWNXV2TXwXMXeJ+fY4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.5.tgz"},"6.1.6":{"narHash":"sha256-qD/W389gbVbMBsuP1p7PFEacdtyEtNPDf8kB17gYkdY=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.6.tgz"},"6.13.0":{"narHash":"sha256-JY2W8G7WrTMI3vcg762ly5uP9vYiFzVKyGHwHZToA4A=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.13.0.tgz"},"6.18.0":{"narHash":"sha256-djfmukviPzi64hIxhtRxI6yhqsOFYJdpizYsB9s/n+c=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.18.0.tgz"},"6.2.4":{"narHash":"sha256-eFS8Ae0G28d3SQcNm5c9aLrvR84vjqhLvSYc5Pjqsgs=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.2.4.tgz"},"6.3.13":{"narHash":"sha256-vg5542kkhjYa7m9ewD9wg9HwihzPN+aQFSjbjNzt6n4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.3.13.tgz"},"6.5.0":{"narHash":"sha256-ZBSZtXnCkDC2906z94Pq2eVG9MeJDMysi41QjKrRR1c=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.5.0.tgz"},"6.8.0":{"narHash":"sha256-1pl9KoE3TH8o1Va/u2ZRTe+QWK0cLGhDSswl4PA7B+s=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-0+svT3xpFwmhn6JFzTLwcrmq+a7R15/5GhPMWeYY2lI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-OwPdw8YBlVWWxf5CYRk/opWaXtD2vm0LwVX+5Bt4PkI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.0.2.tgz"
+  },
+  "6.1.10": {
+    "narHash": "sha256-3mT+lzEFfNbsxhZtEmQFhZ09Qj+E28orq0myTfXW258=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.10.tgz"
+  },
+  "6.1.13": {
+    "narHash": "sha256-cQa1/I24na5LbULTVityPm+KaSbj8mzTAei1V2sq8QE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.13.tgz"
+  },
+  "6.1.16": {
+    "narHash": "sha256-7Unetb86y7c3CzOHojyCeB4Wd2JkuvqRoJrZiAPu0ps=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.16.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-aM58YJ+oAmTEjhdB9goE441ENWIDJXF3upJ8M/X1/P4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-X3Y0wA63BRqUcaPJOz//3iemmDT9ldY1sM+tOUYT7Jo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-dkmFSNZwJhE3ZzcqXxGFYS2JsegbM4OT31xe6UBMZ8Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.4.tgz"
+  },
+  "6.1.5": {
+    "narHash": "sha256-HQ6de87DwYodz/gmo5Ne6noXPtWNXV2TXwXMXeJ+fY4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.5.tgz"
+  },
+  "6.1.6": {
+    "narHash": "sha256-qD/W389gbVbMBsuP1p7PFEacdtyEtNPDf8kB17gYkdY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.1.6.tgz"
+  },
+  "6.13.0": {
+    "narHash": "sha256-JY2W8G7WrTMI3vcg762ly5uP9vYiFzVKyGHwHZToA4A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.13.0.tgz"
+  },
+  "6.18.0": {
+    "narHash": "sha256-djfmukviPzi64hIxhtRxI6yhqsOFYJdpizYsB9s/n+c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.18.0.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-eFS8Ae0G28d3SQcNm5c9aLrvR84vjqhLvSYc5Pjqsgs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.2.4.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-vg5542kkhjYa7m9ewD9wg9HwihzPN+aQFSjbjNzt6n4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.3.13.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-ZBSZtXnCkDC2906z94Pq2eVG9MeJDMysi41QjKrRR1c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.5.0.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-1pl9KoE3TH8o1Va/u2ZRTe+QWK0cLGhDSswl4PA7B+s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.8.0.tgz"
+  }
+}

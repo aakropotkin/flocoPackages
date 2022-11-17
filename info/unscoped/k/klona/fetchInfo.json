@@ -1,1 +1,57 @@
-{"0.0.0":{"narHash":"sha256-Nl5dweABlKAgx4pih2O+dR+aEjhodYoq4wi4h6JXiDY=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-0.0.0.tgz"},"1.0.0":{"narHash":"sha256-rqP3HvWjVv24YwzE+R144qonQ6e7AnMf91UOGwpgm0Y=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-FOJA3gBJt9PgBLVB4zQKuUH3X4IBZy7XTGdo2vcAx7I=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-+7lm/IBeAkQM8JuW79SYdVChWUSg+KXDKmgSUX6LvyA=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-XwiPSABTL6gRzwa2PBdmEDNsMTqqhsKQ2zvRG/k4JNI=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-1.1.2.tgz"},"2.0.0":{"narHash":"sha256-YvMkHKyQOljTR12HfYodrarmr4BnG2MGeWKrBVvgNeI=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-gyAg9EuuMku01pOuvrrNcqhKYq17r1n0pS9WOUMcvb4=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-pXp1sQtnJZqXRwLo1UecwVZPSy0eW9vhqLBubQokG7A=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-/1fqsl7oPA/HOEA0boqbm93woEkLY88Z108HDMujGCQ=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-lemoibhTUdFu7Qp83fhtkIV7nKig3VN292jaYjiazaE=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-zm5kId7/8mehonV6dk07HEtzvSuHYpEZ9uAggza/EWs=","type":"tarball","url":"https://registry.npmjs.org/klona/-/klona-2.0.5.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-Nl5dweABlKAgx4pih2O+dR+aEjhodYoq4wi4h6JXiDY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-0.0.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-rqP3HvWjVv24YwzE+R144qonQ6e7AnMf91UOGwpgm0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-FOJA3gBJt9PgBLVB4zQKuUH3X4IBZy7XTGdo2vcAx7I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-+7lm/IBeAkQM8JuW79SYdVChWUSg+KXDKmgSUX6LvyA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-XwiPSABTL6gRzwa2PBdmEDNsMTqqhsKQ2zvRG/k4JNI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-1.1.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-YvMkHKyQOljTR12HfYodrarmr4BnG2MGeWKrBVvgNeI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-gyAg9EuuMku01pOuvrrNcqhKYq17r1n0pS9WOUMcvb4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-pXp1sQtnJZqXRwLo1UecwVZPSy0eW9vhqLBubQokG7A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-/1fqsl7oPA/HOEA0boqbm93woEkLY88Z108HDMujGCQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-lemoibhTUdFu7Qp83fhtkIV7nKig3VN292jaYjiazaE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-zm5kId7/8mehonV6dk07HEtzvSuHYpEZ9uAggza/EWs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/klona/-/klona-2.0.5.tgz"
+  }
+}

@@ -1,1 +1,92 @@
-{"6.0.14":{"narHash":"sha256-x44ujad2ZzmT+KR82Hh70TPWhQePmeK+5iWKk+JxGfg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-T20hYTw3Y1ZpqJsuSwLLUAlLRmdI3ILweh1P3P2LAHI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.0.2.tgz"},"6.1.10":{"narHash":"sha256-S78SfS1morKUgWk1V/b9BYeA06s81QVja+DoCOXwI90=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.10.tgz"},"6.1.17":{"narHash":"sha256-crXmJ/2He0YxFogsvPT66P3395aDcAOhjNp7aTcpRic=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-a6vTCxA0KjxXPqZaCNOFGgHOJ5Vq9YvyvG93UQLbsiM=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-fIkBRsInsgFejDwgatg/rbOpwUNlHyDzeBx8jicbkZ0=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.4.tgz"},"6.1.5":{"narHash":"sha256-BuefIixDYd+dNDhI8BphF5GKLyfqyoMbzArX27kxaXI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.5.tgz"},"6.13.0":{"narHash":"sha256-OHGejQhAZbO/AJ4hnMzVbSbuA6xPzLA8sAsNguM+MwM=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.13.0.tgz"},"6.2.4":{"narHash":"sha256-UxzHJmz67IiiAN+WJ6PO/iZ7PqQfkp8JEsr2TPC9rFM=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.2.4.tgz"},"6.22.0":{"narHash":"sha256-peCLLLGdbAl5KHiQMSL3nCqufWc1veL41v6WkHpT8ww=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.22.0.tgz"},"6.24.1":{"narHash":"sha256-UssBIyN5efbIPIL2WasImiSvRba+MEisM77/Op95GGc=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.24.1.tgz"},"6.3.13":{"narHash":"sha256-yIy01GZZfZesojbgq9v3fv63hl/bBDvBzMMSfe8d6tY=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.3.13.tgz"},"6.4.0":{"narHash":"sha256-ukmkPN6gO1jxg6h44xTc9kroa4KH1ImhMWZS0K9Nk0U=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.4.0.tgz"},"6.5.0":{"narHash":"sha256-qI941wsPlrEGBgFEGme463gP7ok8er8mBQ4BSeytzy0=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.5.0.tgz"},"6.6.0":{"narHash":"sha256-eJymoEu+ao0vPyXqeqr4aJq/Yyotl+NAB1sa2ZNmXko=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.6.0.tgz"},"6.6.4":{"narHash":"sha256-s9PC1w/feDKzCQoyGITNOboeZQEtjwk5GwNUPy9NPnY=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.6.4.tgz"},"6.6.5":{"narHash":"sha256-TVzIfRmsjKvJTO7dYGEHQgcuavpA32dh4zehGjoJuvU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.6.5.tgz"},"6.8.0":{"narHash":"sha256-Iz7LsWBsropnJnrK1uKtZKtVUSjdROk4RSJOcVBF9Fc=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-x44ujad2ZzmT+KR82Hh70TPWhQePmeK+5iWKk+JxGfg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-T20hYTw3Y1ZpqJsuSwLLUAlLRmdI3ILweh1P3P2LAHI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.0.2.tgz"
+  },
+  "6.1.10": {
+    "narHash": "sha256-S78SfS1morKUgWk1V/b9BYeA06s81QVja+DoCOXwI90=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.10.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-crXmJ/2He0YxFogsvPT66P3395aDcAOhjNp7aTcpRic=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-a6vTCxA0KjxXPqZaCNOFGgHOJ5Vq9YvyvG93UQLbsiM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-fIkBRsInsgFejDwgatg/rbOpwUNlHyDzeBx8jicbkZ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.4.tgz"
+  },
+  "6.1.5": {
+    "narHash": "sha256-BuefIixDYd+dNDhI8BphF5GKLyfqyoMbzArX27kxaXI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.1.5.tgz"
+  },
+  "6.13.0": {
+    "narHash": "sha256-OHGejQhAZbO/AJ4hnMzVbSbuA6xPzLA8sAsNguM+MwM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.13.0.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-UxzHJmz67IiiAN+WJ6PO/iZ7PqQfkp8JEsr2TPC9rFM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.2.4.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-peCLLLGdbAl5KHiQMSL3nCqufWc1veL41v6WkHpT8ww=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.22.0.tgz"
+  },
+  "6.24.1": {
+    "narHash": "sha256-UssBIyN5efbIPIL2WasImiSvRba+MEisM77/Op95GGc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.24.1.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-yIy01GZZfZesojbgq9v3fv63hl/bBDvBzMMSfe8d6tY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.3.13.tgz"
+  },
+  "6.4.0": {
+    "narHash": "sha256-ukmkPN6gO1jxg6h44xTc9kroa4KH1ImhMWZS0K9Nk0U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.4.0.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-qI941wsPlrEGBgFEGme463gP7ok8er8mBQ4BSeytzy0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.5.0.tgz"
+  },
+  "6.6.0": {
+    "narHash": "sha256-eJymoEu+ao0vPyXqeqr4aJq/Yyotl+NAB1sa2ZNmXko=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.6.0.tgz"
+  },
+  "6.6.4": {
+    "narHash": "sha256-s9PC1w/feDKzCQoyGITNOboeZQEtjwk5GwNUPy9NPnY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.6.4.tgz"
+  },
+  "6.6.5": {
+    "narHash": "sha256-TVzIfRmsjKvJTO7dYGEHQgcuavpA32dh4zehGjoJuvU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.6.5.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-Iz7LsWBsropnJnrK1uKtZKtVUSjdROk4RSJOcVBF9Fc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.8.0.tgz"
+  }
+}

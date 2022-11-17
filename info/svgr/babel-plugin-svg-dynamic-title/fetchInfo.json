@@ -1,1 +1,67 @@
-{"4.0.0":{"narHash":"sha256-2Q9wr4TtD6CmgaNtmhUXXxM6fH/AQf1nnFoD5NR13+Y=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.0.0.tgz"},"4.2.0":{"narHash":"sha256-RQaHNNlRt/HrlkMsaD138UCrRKkzEJqLYKeq/IWTS/o=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.2.0.tgz"},"4.3.0":{"narHash":"sha256-/YShlA2MTNsKhhO4mVdau7ltv73kG1e+6SGG9OPCBso=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.3.0.tgz"},"4.3.1":{"narHash":"sha256-FWAh113dJut9BZaT9BmnrCKSIzSUcFbhk714KFUuBao=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.3.1.tgz"},"4.3.3":{"narHash":"sha256-JOnT3E4lQXQ/KuoTIpcrvsNsQ4Pr9GhHsfPEYII1TL4=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.3.3.tgz"},"5.0.0":{"narHash":"sha256-2qwqcNufvDUzHDiMXqL7qewlH0oN6L2q6fJLcEVN99k=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-S8ZBoECCi6Z9lhwEQvxBsV1dxW7Q6viwmWjuWdRACFw=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-5.0.1.tgz"},"5.4.0":{"narHash":"sha256-DBlbw0/hNfIpIbyLEVTHXalfb1p7QMeZ9o4IoRutjEg=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-5.4.0.tgz"},"6.0.0":{"narHash":"sha256-KnlwDu+5fkplG4Vr1/uCLnUVtSxPy6VK+Il9/+tGfEA=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.0.0.tgz"},"6.3.0":{"narHash":"sha256-MFxSG+xZVu9erd9QiMpJpgTNbF+ZFztGlOeiB5Rji4Q=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.3.0.tgz"},"6.3.1":{"narHash":"sha256-uIdMQlxk/tZmLYVwFs4L0iHyJ4yhq3jKMFZoO8XAwKk=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.3.1.tgz"},"6.5.0":{"narHash":"sha256-nvKExe+vTV+uCMTsZZuMtqd0tBbWG57rA53s6XSs+HY=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.5.0.tgz"},"6.5.1":{"narHash":"sha256-54C0SIZ/VuktYTZRXNy+vGkWPOAnDOpHwTkQfRQe0K8=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.5.1.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-2Q9wr4TtD6CmgaNtmhUXXxM6fH/AQf1nnFoD5NR13+Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.0.0.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-RQaHNNlRt/HrlkMsaD138UCrRKkzEJqLYKeq/IWTS/o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.2.0.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-/YShlA2MTNsKhhO4mVdau7ltv73kG1e+6SGG9OPCBso=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.3.0.tgz"
+  },
+  "4.3.1": {
+    "narHash": "sha256-FWAh113dJut9BZaT9BmnrCKSIzSUcFbhk714KFUuBao=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.3.1.tgz"
+  },
+  "4.3.3": {
+    "narHash": "sha256-JOnT3E4lQXQ/KuoTIpcrvsNsQ4Pr9GhHsfPEYII1TL4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-4.3.3.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-2qwqcNufvDUzHDiMXqL7qewlH0oN6L2q6fJLcEVN99k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-S8ZBoECCi6Z9lhwEQvxBsV1dxW7Q6viwmWjuWdRACFw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-5.0.1.tgz"
+  },
+  "5.4.0": {
+    "narHash": "sha256-DBlbw0/hNfIpIbyLEVTHXalfb1p7QMeZ9o4IoRutjEg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-5.4.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-KnlwDu+5fkplG4Vr1/uCLnUVtSxPy6VK+Il9/+tGfEA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.0.0.tgz"
+  },
+  "6.3.0": {
+    "narHash": "sha256-MFxSG+xZVu9erd9QiMpJpgTNbF+ZFztGlOeiB5Rji4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.3.0.tgz"
+  },
+  "6.3.1": {
+    "narHash": "sha256-uIdMQlxk/tZmLYVwFs4L0iHyJ4yhq3jKMFZoO8XAwKk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.3.1.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-nvKExe+vTV+uCMTsZZuMtqd0tBbWG57rA53s6XSs+HY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.5.0.tgz"
+  },
+  "6.5.1": {
+    "narHash": "sha256-54C0SIZ/VuktYTZRXNy+vGkWPOAnDOpHwTkQfRQe0K8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/-/babel-plugin-svg-dynamic-title-6.5.1.tgz"
+  }
+}

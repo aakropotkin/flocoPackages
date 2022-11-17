@@ -1,1 +1,62 @@
-{"4.0.0":{"narHash":"sha256-sWvOeZQqj6QL7gFyXCCmFCYwOATUYHQgVKiqSjzQ8ds=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-yGqEifXm03h3U9p1d0hpQeYXXX2l8lPMbrzoCK1+D+A=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.0.1.tgz"},"4.1.0":{"narHash":"sha256-YLbx8TI/C7spJa9SC3m9UmsZxmHcvyrxCSRQ7czvUPk=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.1.0.tgz"},"4.10.2":{"narHash":"sha256-jNHcVDlQKqs/xgprYaHTW5+QNEHc2f9E6WAnln+JKtc=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.10.2.tgz"},"4.11.2":{"narHash":"sha256-6umwKIrozNrFhEgDO0Y1fCiCdEdgkjeFBN2q5ihjPzY=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.11.2.tgz"},"4.11.3":{"narHash":"sha256-N1fqI+NFYxxAGYZDCsjwUyrGKHkrJ5HSnEZZwHeqgwc=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.11.3.tgz"},"4.3.0":{"narHash":"sha256-UQE7Ian77y67ZoFVLsZA5EGEkBMHL5uvEv+Wzpky7vc=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.3.0.tgz"},"4.4.0":{"narHash":"sha256-My/g1GskBvKoWFsBjzBEEM6cz4rEdYPeSJYqHnpNgZI=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.4.0.tgz"},"4.5.2":{"narHash":"sha256-mMVkHyxL0+YdHGG+B5BH8M6NCQVv1r7aEbck/l7T/X8=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.5.2.tgz"},"4.7.1":{"narHash":"sha256-BnAMVUfphfDZuj+Y/RNh2vReVoI0G9xu0gZ1p7N5dMk=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.7.1.tgz"},"4.9.12":{"narHash":"sha256-VuwUgBVki3ESZbjd4AX+q7bu2fbsrMw1CQCDoEeHJL0=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.9.12.tgz"},"4.9.6":{"narHash":"sha256-GSosdVHfRoNfEILWuSsCuTSqAbg2npsC7JDH+ENjKUo=","type":"tarball","url":"https://registry.npmjs.org/@material-ui/utils/-/utils-4.9.6.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-sWvOeZQqj6QL7gFyXCCmFCYwOATUYHQgVKiqSjzQ8ds=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-yGqEifXm03h3U9p1d0hpQeYXXX2l8lPMbrzoCK1+D+A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.0.1.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-YLbx8TI/C7spJa9SC3m9UmsZxmHcvyrxCSRQ7czvUPk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.1.0.tgz"
+  },
+  "4.10.2": {
+    "narHash": "sha256-jNHcVDlQKqs/xgprYaHTW5+QNEHc2f9E6WAnln+JKtc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.10.2.tgz"
+  },
+  "4.11.2": {
+    "narHash": "sha256-6umwKIrozNrFhEgDO0Y1fCiCdEdgkjeFBN2q5ihjPzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.11.2.tgz"
+  },
+  "4.11.3": {
+    "narHash": "sha256-N1fqI+NFYxxAGYZDCsjwUyrGKHkrJ5HSnEZZwHeqgwc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.11.3.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-UQE7Ian77y67ZoFVLsZA5EGEkBMHL5uvEv+Wzpky7vc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.3.0.tgz"
+  },
+  "4.4.0": {
+    "narHash": "sha256-My/g1GskBvKoWFsBjzBEEM6cz4rEdYPeSJYqHnpNgZI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.4.0.tgz"
+  },
+  "4.5.2": {
+    "narHash": "sha256-mMVkHyxL0+YdHGG+B5BH8M6NCQVv1r7aEbck/l7T/X8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.5.2.tgz"
+  },
+  "4.7.1": {
+    "narHash": "sha256-BnAMVUfphfDZuj+Y/RNh2vReVoI0G9xu0gZ1p7N5dMk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.7.1.tgz"
+  },
+  "4.9.12": {
+    "narHash": "sha256-VuwUgBVki3ESZbjd4AX+q7bu2fbsrMw1CQCDoEeHJL0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.9.12.tgz"
+  },
+  "4.9.6": {
+    "narHash": "sha256-GSosdVHfRoNfEILWuSsCuTSqAbg2npsC7JDH+ENjKUo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@material-ui/utils/-/utils-4.9.6.tgz"
+  }
+}

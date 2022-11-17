@@ -1,1 +1,92 @@
-{"1.0.0":{"narHash":"sha256-Ikx2QMgOTMNtsed9V/KhwTL7TOapLfs5uO29pYUvhVY=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-yY5SQAjVZhdTWIU2Fe53UYIIxoauo2HkEDCEoMaFTHM=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-0XQYFAnGwZzqQYXh05skl+uy+ORuIixC6DQqXwEthQw=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-dL1UjyFTbHbZ7EMhMNXUapvLBai7lVmSnjX5fzEtgSM=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.1.1.tgz"},"1.2.0":{"narHash":"sha256-j92pK4UiFyZyQWyQn5Vgh4MC1797TW+3iRHDJhYYyEE=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.0.tgz"},"1.2.1":{"narHash":"sha256-5pTCe9lgoFxG1SNrkel5q52XyKpIpl8Zw1dlwQWx1eY=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.1.tgz"},"1.2.2":{"narHash":"sha256-5zW92hKdPdb1rYjsMFe1NIzjuZdgoCDmRBMVcn9cwdg=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.2.tgz"},"1.2.3":{"narHash":"sha256-IuPv2HI3YFQ3BaizBoQuE9i9ARtWckaGE/MtYmvyhGs=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.3.tgz"},"1.2.4":{"narHash":"sha256-AdsnwC8CArkG56tpernnr+Phz9pEuLI/xehKNWPGOIY=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.4.tgz"},"15.5.0":{"narHash":"sha256-Pu2I6DL57Uhx0jmzJilRyVrMVPXuVkDZV/IqKqHfUbQ=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.0.tgz"},"15.5.1":{"narHash":"sha256-yMquBKWTNoUsrYjhUzCzIAyhhqNPjAnvJ/41KdZGGzY=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.1.tgz"},"15.5.2":{"narHash":"sha256-Pk8qS29agIeSrFV9j/6Mm4HS/p1pfj0+XIRZ4qJyRx0=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.2.tgz"},"15.5.3":{"narHash":"sha256-6JmxwGZP+H4dSyNN28/qMT5tf5bN9JnCDfewRQ6dE38=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.3.tgz"},"15.5.4":{"narHash":"sha256-Fg1yWIEDKhXHrp8otyyRF37pseMtVG26nOUJ6RdFqLU=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.4.tgz"},"15.6.0":{"narHash":"sha256-jp/nmv0ptGGYRYYy9UBg4aZo6LV8fXVdNJEOpCVhIzc=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.6.0.tgz"},"15.6.2":{"narHash":"sha256-ZOohVM1ZbmKG3rJtASwzUDdppzknZqcdWZgDtz7zEV8=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.6.2.tgz"},"15.6.3":{"narHash":"sha256-ngJgmIzfknWLiTxL0hm56dfNNmRsV7NKsIYUL/iVdV4=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.6.3.tgz"},"15.7.0":{"narHash":"sha256-xR8UUMvFYjxaBBQ/cW63gy66LxQl4MCxCpKgSHgOEqU=","type":"tarball","url":"https://registry.npmjs.org/create-react-class/-/create-react-class-15.7.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-Ikx2QMgOTMNtsed9V/KhwTL7TOapLfs5uO29pYUvhVY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-yY5SQAjVZhdTWIU2Fe53UYIIxoauo2HkEDCEoMaFTHM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-0XQYFAnGwZzqQYXh05skl+uy+ORuIixC6DQqXwEthQw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-dL1UjyFTbHbZ7EMhMNXUapvLBai7lVmSnjX5fzEtgSM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.1.1.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-j92pK4UiFyZyQWyQn5Vgh4MC1797TW+3iRHDJhYYyEE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.0.tgz"
+  },
+  "1.2.1": {
+    "narHash": "sha256-5pTCe9lgoFxG1SNrkel5q52XyKpIpl8Zw1dlwQWx1eY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.1.tgz"
+  },
+  "1.2.2": {
+    "narHash": "sha256-5zW92hKdPdb1rYjsMFe1NIzjuZdgoCDmRBMVcn9cwdg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.2.tgz"
+  },
+  "1.2.3": {
+    "narHash": "sha256-IuPv2HI3YFQ3BaizBoQuE9i9ARtWckaGE/MtYmvyhGs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.3.tgz"
+  },
+  "1.2.4": {
+    "narHash": "sha256-AdsnwC8CArkG56tpernnr+Phz9pEuLI/xehKNWPGOIY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.4.tgz"
+  },
+  "15.5.0": {
+    "narHash": "sha256-Pu2I6DL57Uhx0jmzJilRyVrMVPXuVkDZV/IqKqHfUbQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.0.tgz"
+  },
+  "15.5.1": {
+    "narHash": "sha256-yMquBKWTNoUsrYjhUzCzIAyhhqNPjAnvJ/41KdZGGzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.1.tgz"
+  },
+  "15.5.2": {
+    "narHash": "sha256-Pk8qS29agIeSrFV9j/6Mm4HS/p1pfj0+XIRZ4qJyRx0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.2.tgz"
+  },
+  "15.5.3": {
+    "narHash": "sha256-6JmxwGZP+H4dSyNN28/qMT5tf5bN9JnCDfewRQ6dE38=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.3.tgz"
+  },
+  "15.5.4": {
+    "narHash": "sha256-Fg1yWIEDKhXHrp8otyyRF37pseMtVG26nOUJ6RdFqLU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.4.tgz"
+  },
+  "15.6.0": {
+    "narHash": "sha256-jp/nmv0ptGGYRYYy9UBg4aZo6LV8fXVdNJEOpCVhIzc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.6.0.tgz"
+  },
+  "15.6.2": {
+    "narHash": "sha256-ZOohVM1ZbmKG3rJtASwzUDdppzknZqcdWZgDtz7zEV8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.6.2.tgz"
+  },
+  "15.6.3": {
+    "narHash": "sha256-ngJgmIzfknWLiTxL0hm56dfNNmRsV7NKsIYUL/iVdV4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.6.3.tgz"
+  },
+  "15.7.0": {
+    "narHash": "sha256-xR8UUMvFYjxaBBQ/cW63gy66LxQl4MCxCpKgSHgOEqU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.7.0.tgz"
+  }
+}

@@ -1,1 +1,22 @@
-{"2.10.0":{"narHash":"sha256-TQ9x1wm7Har8vkFufHpDN9u9IK7/cTKMDUtmRQ0eFk8=","type":"tarball","url":"https://registry.npmjs.org/@types/yauzl/-/yauzl-2.10.0.tgz"},"2.9.0":{"narHash":"sha256-47A2rrU1MYoOs1RjVznQ8I9LA6P0WJzJMtZ2CXIRrJE=","type":"tarball","url":"https://registry.npmjs.org/@types/yauzl/-/yauzl-2.9.0.tgz"},"2.9.1":{"narHash":"sha256-inRoJPHjDI6Mout6PlZyuklVvRutA0BvC6Ts3xJI174=","type":"tarball","url":"https://registry.npmjs.org/@types/yauzl/-/yauzl-2.9.1.tgz"},"2.9.2":{"narHash":"sha256-6nO56AHh6yNiQ9vn6/1DVEIQ7+PUbmoJA5I4bh3Isps=","type":"tarball","url":"https://registry.npmjs.org/@types/yauzl/-/yauzl-2.9.2.tgz"}}
+{
+  "2.10.0": {
+    "narHash": "sha256-TQ9x1wm7Har8vkFufHpDN9u9IK7/cTKMDUtmRQ0eFk8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yauzl/-/yauzl-2.10.0.tgz"
+  },
+  "2.9.0": {
+    "narHash": "sha256-47A2rrU1MYoOs1RjVznQ8I9LA6P0WJzJMtZ2CXIRrJE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yauzl/-/yauzl-2.9.0.tgz"
+  },
+  "2.9.1": {
+    "narHash": "sha256-inRoJPHjDI6Mout6PlZyuklVvRutA0BvC6Ts3xJI174=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yauzl/-/yauzl-2.9.1.tgz"
+  },
+  "2.9.2": {
+    "narHash": "sha256-6nO56AHh6yNiQ9vn6/1DVEIQ7+PUbmoJA5I4bh3Isps=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@types/yauzl/-/yauzl-2.9.2.tgz"
+  }
+}

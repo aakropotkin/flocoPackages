@@ -1,1 +1,537 @@
-{"0.10.0":{"narHash":"sha256-1Md8pcljjf3ykjNKJe4dMz6yAH4AaXtAXEYyLa/CnG0=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.10.0.tgz"},"0.10.1":{"narHash":"sha256-7dkhOR0kA8ZY3FBNCZ2+QWhOcBKBaELyzLI6zczolPs=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.10.1.tgz"},"0.10.3":{"narHash":"sha256-9WRrgBXxsEOnyjie3K3VUQPAm76zRYLuZcK87/fqHGs=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.10.3.tgz"},"0.10.5":{"narHash":"sha256-M2VV4MJnmQySPdzfw5hoYUxPibKg/TeNWD+e/f0IVlM=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.10.5.tgz"},"0.10.6":{"narHash":"sha256-rlFafBAnBuCnwGc0yfYOtk3f1POE67mJneWhW/iIXxI=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.10.6.tgz"},"0.10.7":{"narHash":"sha256-mWKMVy93KQtfz+vKZFgBsrX6wNjrqxWtcWbROw4Thk0=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.10.7.tgz"},"0.10.8":{"narHash":"sha256-vDA5NzrNXpbUXwnmlaKNqTHgBLX2Rq6eHUtFOnZoceI=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.10.8.tgz"},"0.10.9":{"narHash":"sha256-2UN23EW2S9pY9gDjCpEmcuu+TxUiEB3cC90ebaVt7Hs=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.10.9.tgz"},"0.11.0":{"narHash":"sha256-GMr3P7I+rED+p4KwOPpJ9wSZTWt4Rd2uAaoeVAeRMVM=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.0.tgz"},"0.11.1":{"narHash":"sha256-sorqNKtfJd+FFQzx8wpjtnFpstBV6geWo10PH0+yzws=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.1.tgz"},"0.11.10":{"narHash":"sha256-M+lV9JIw+Zu1AJW0xYHPYI2EQXuTNDqA7c6c30WVi4Q=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.10.tgz"},"0.11.11":{"narHash":"sha256-dhZ5Ul+Lj7SPMRFNqB9echV74bG5u3jvaaNMvqJ6Pwc=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.11.tgz"},"0.11.12":{"narHash":"sha256-f0vaJLAvtd9SWdQbExwLwBzX3vKOol1Tb7fAyk+CJGs=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.12.tgz"},"0.11.13":{"narHash":"sha256-WUU79XpnGvsyiQ3rsKAv2s7U9ih1mOopoDxpq1AR/28=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.13.tgz"},"0.11.14":{"narHash":"sha256-/tGqw1oD8R+Ob4zhLKZ6F5oyVH+7L46qmRHvrk0fYUw=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.14.tgz"},"0.11.15":{"narHash":"sha256-YFZd/hKzFd00+FITgcQndRchTnCGGsVO4Qqt1V2i7Ks=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.15.tgz"},"0.11.16":{"narHash":"sha256-RTbDSkI8b+JOZbVD6dteShdeGJbFtAEGE5xkNm4RY9M=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.16.tgz"},"0.11.17":{"narHash":"sha256-75jUc58pXS2xiCgyFnsM8XCVovbIiSbTmTUotSf1Pqg=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.17.tgz"},"0.11.18":{"narHash":"sha256-/4TXGw53u+OXTctZhP2QeUHPjzE4wz27dxAECYpbutA=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.18.tgz"},"0.11.19":{"narHash":"sha256-4mrANlG9V1x7J5Mtga7Ye+vFNABREVN4MdCrvB1+rGY=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.19.tgz"},"0.11.2":{"narHash":"sha256-BTqdl4IqxjeHhhUtwF3FEr3U0B7hNQyrenCA6jH8Biw=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.2.tgz"},"0.11.3":{"narHash":"sha256-wxyAdPi9N4hxmDS157IWLX4H78L1UZAW+hNdjhoeawA=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.3.tgz"},"0.11.4":{"narHash":"sha256-O1JIbNCjczjING93CYsn0YFpcJRb3pFesqXo0lKJpLE=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.4.tgz"},"0.11.5":{"narHash":"sha256-fiqISaCcmsyQty/HpvN0Cgz2BJTEw800I5bqrsRcQxc=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.5.tgz"},"0.11.6":{"narHash":"sha256-krGfDcC7VhOktUsQEAkl4KtAA7rZwE4EypFo1jT3uvE=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.6.tgz"},"0.11.7":{"narHash":"sha256-0PitHHB9yNkuL27pWHgoh37H8ZD3pFlrXHyr7KV6FUw=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.7.tgz"},"0.11.8":{"narHash":"sha256-02ugHBUNXkJENvTUvwXLRcxEALhefWT92QgCi+XPnWc=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.8.tgz"},"0.11.9":{"narHash":"sha256-9QzD/dAtABPuJak7mm2tXIf7h3xctOqLkB91Aa49bXU=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.11.9.tgz"},"0.12.0":{"narHash":"sha256-HJQ5hftrzraqFbyMzqrRA3UAOUzDAd/pO5/HkNRt2Vw=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.0.tgz"},"0.12.1":{"narHash":"sha256-ClBUu69Gvjrsd6QlzpVtgoruCQxbHc9Se9RSMVOmzmY=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.1.tgz"},"0.12.10":{"narHash":"sha256-jkt80LQv646U7UvkzDMTNLDVHHZsmA8JJoIgB0ptw3w=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.10.tgz"},"0.12.11":{"narHash":"sha256-iv+pBaSdkmwsGTB6dgkj6riptBKd/4qYSNqSRz7DV7A=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.11.tgz"},"0.12.12":{"narHash":"sha256-KGy5KQTUkhblexbHfktWyJLOsq94yuiRAterR9/NaZQ=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.12.tgz"},"0.12.13":{"narHash":"sha256-3aEwfOnRp9qVhCQW7l4RhGXJbWFARseHqkhvf5x51Fo=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.13.tgz"},"0.12.2":{"narHash":"sha256-B4QU5hUA7ocgVwHVqP01SPoGhRldkZHKfYpOUz6OEho=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.2.tgz"},"0.12.3":{"narHash":"sha256-oYO/E5VLkbhPRJJoAl/dD3LYl2y9FzK95vyg4P9t5sA=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.3.tgz"},"0.12.4":{"narHash":"sha256-60kPVW9bM3gIRjh9v+FmBKsJlOqfznx3jlX0LZoY6JQ=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.4.tgz"},"0.12.5":{"narHash":"sha256-/yVmt+/SSV7AWyNSAX5E/0Mt6Jp3VK7r8jGJDGpdjZk=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.5.tgz"},"0.12.6":{"narHash":"sha256-qggLXH2BOI131L3+xPu26o+Uya2K6QO9JmVfqJ6k1Rs=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.6.tgz"},"0.12.7":{"narHash":"sha256-Hp4qTcGVhdv5WQSsSJZbUZw4fC/HZ68RacC4xKysKTE=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.7.tgz"},"0.12.8":{"narHash":"sha256-6xmy1RGeOuK4OjjT5Sgc1bzPUCeu4EhRHW43tpr+mBQ=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.8.tgz"},"0.12.9":{"narHash":"sha256-Hrc03krWukGF//labrwx9fjTSZDrmpOJHdmqpw/84Us=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.12.9.tgz"},"0.13.0":{"narHash":"sha256-DDrqdkiAnuToDO2fUAzxuTBf7s9qGslaX7vTKVzlbog=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.13.0.tgz"},"0.13.1":{"narHash":"sha256-DxMRfbcFew6kJJPtc9hYSkqt2tnz1DVQNAJKsMPhazM=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.13.1.tgz"},"0.13.2":{"narHash":"sha256-Ll9qFVir4Ip18+YNFCnvbjUsSflC3TRrkzw1rJB77p0=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.13.2.tgz"},"0.13.3":{"narHash":"sha256-+rVQ+i4oPENQsFZR6LS6ANG8AUKxF1UoDmB3rEmINtE=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.13.3.tgz"},"0.13.4":{"narHash":"sha256-qgYgqf4bTgLfUw4dH+9hYcT4EADy+iC6Wm8yqO4dtCY=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.13.4.tgz"},"0.13.5":{"narHash":"sha256-5pAoTUAELcRxjhHHH2nJ9UpwCO6Y4bX7oXm91b5yu7Y=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.13.5.tgz"},"0.14.0":{"narHash":"sha256-vjYMUP/QVNGzuldxr4dqlkPIVYOwyUmX8tk9aPKWc9U=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.14.0.tgz"},"0.14.1":{"narHash":"sha256-po1KR5N02Pl52oLCXX8uEZZYQ0Ibl08miZJQwTuN3qM=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.14.1.tgz"},"0.14.2":{"narHash":"sha256-pSW368DDNPqJVCV+7OslMey/Yc/xZmOgWZabN4AuMBc=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.14.2.tgz"},"0.14.3":{"narHash":"sha256-Uqdugow/c7b3kcK7Bag/MtdUm6UmH5kUlatZ1J+cXYU=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.14.3.tgz"},"0.14.4":{"narHash":"sha256-ri9vqHelnLkMXF/DYQmPqOfj8z+PNJXzHdDvHR/imCM=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.14.4.tgz"},"0.14.5":{"narHash":"sha256-OOjdKJEQG0VrMpqPGGSC8h/Z7nfUoGNbR+9PCDr2u7Y=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.14.5.tgz"},"0.15.0":{"narHash":"sha256-Pgatdy3uQTwm4Yl9H0A3FznVo5GRw50bBQqkhLk2Eqg=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.15.0.tgz"},"0.15.1":{"narHash":"sha256-bdXM5PoTp/g7KXa0XOP26JPzk9RtyyAtHfEPca1V93g=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.15.1.tgz"},"0.15.2":{"narHash":"sha256-pKKnAczW5KFj+OJTblBlRfT9E5O7rP2xAHCE4DrUZik=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.15.2.tgz"},"0.15.3":{"narHash":"sha256-MWeUmIqAZUCOnVcmAx/ELcBf8PncySP1dO3oB5cWLvo=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.15.3.tgz"},"0.15.4":{"narHash":"sha256-gMfBNEQKQ9Q/18Zl+pSVfZz6oMZLp7Ud7R06LfBPsUQ=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.15.4.tgz"},"0.15.5":{"narHash":"sha256-TVSFmRzaFoSh7SHN1R23HG3iNHbhZPnYS0yivWnvy4g=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.15.5.tgz"},"0.15.6":{"narHash":"sha256-UNfDYvh68JDiNd+hLUCLm6cF5xAPxShFz0snKoAuUIE=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.15.6.tgz"},"0.16.0":{"narHash":"sha256-OosPSuuZmbHmiZRe8eZJR7IuypYwMUWPR65Y+SEszIc=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.0.tgz"},"0.16.1":{"narHash":"sha256-Qg0kTLPR3lV8BbjnksgIlz67cSxamQelXrVHeEnpWPQ=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.1.tgz"},"0.16.2":{"narHash":"sha256-55AzeFdWtn/IknKlfL8ppsTms+RtzQHIl+mx1Wq5RCA=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.2.tgz"},"0.16.3":{"narHash":"sha256-y2PJ3fFJ0h1gwWnXYyymPUG3z5W4/SFXkJ9bUzi5bqw=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.3.tgz"},"0.16.4":{"narHash":"sha256-Kl8J/79XQLD8OrsVQNIYb3fDGwKHLUdeppDyhRfRxXo=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.4.tgz"},"0.16.5":{"narHash":"sha256-MrA9UNAqGWZWjGuiy56q0Nai36IcW4KSMviHpQv0NhY=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.5.tgz"},"0.16.6":{"narHash":"sha256-G7smf5LnJI03+vHmD3M+BOYGy2sZfO60tglNNGC4D/g=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.6.tgz"},"0.16.7":{"narHash":"sha256-ckp4d+/TnjIWq9aS34W2NE1YD/0JPqs4NxpCL7J1SC8=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.7.tgz"},"0.16.8":{"narHash":"sha256-+wxWcvVowYTXGK7jBt63cAzGzsOoc4P1ORgWJpCv/qo=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.8.tgz"},"0.16.9":{"narHash":"sha256-1O6whTsd58KgjYmp3uqkHihZq/ZTRRTtVj03RAZpjcE=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.16.9.tgz"},"0.17.0":{"narHash":"sha256-pVFAkY2AXRw6frO5JmJL5sUHyUtSCFF2Wp5TVCVUYPw=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.17.0.tgz"},"0.17.1":{"narHash":"sha256-lwy+zK7RafKiCC9BzEBhuf0WBLaTvHHO0x45f5QRMe0=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.17.1.tgz"},"0.17.2":{"narHash":"sha256-P2GmvNFuJG+kqcod/50rbDLBs/udZmNl6ITVqZ13vws=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.17.2.tgz"},"0.17.3":{"narHash":"sha256-wqWK68NMYhCv/R/9QMQls4kjIaM/IeBqI1cEvYU4Lw8=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.17.3.tgz"},"0.17.4":{"narHash":"sha256-lSCzvTGXWYY2VfU/I6uohlLlciCCNGn6tR0A8NsSlw4=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.17.4.tgz"},"0.17.5":{"narHash":"sha256-ZImZ7Vrseu/Le6Soxvtpg8HW+6MM/KL3CCPlPW8EK8A=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.17.5.tgz"},"0.18.0":{"narHash":"sha256-f8bhL2h9fJzO48f9TpG/k0gFOzXOKNwSqF1CDeU8H8c=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.18.0.tgz"},"0.18.1":{"narHash":"sha256-J9FkvoYQGBov79raWNPy9wDcf2MyNUjCMLliWtLhDm8=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.18.1.tgz"},"0.18.2":{"narHash":"sha256-uAx3WkXar2cbpuGNl+PBprLTezs//+qo6IUYIqJS4Aw=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.18.2.tgz"},"0.18.3":{"narHash":"sha256-MYAWljFQks+Iw4zNwa5u/8HQyDESZnq1Jsyg+xCOBEc=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.18.3.tgz"},"0.18.4":{"narHash":"sha256-cMdMs+tjcEhsRFyJuYZ+/Gbup0PQpJhe2Y82voSf2b0=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.18.4.tgz"},"0.18.5":{"narHash":"sha256-LQ1e1x7/SU/nxtxnTgCgHkfVo+TPvx0k62PPHwK95KM=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.18.5.tgz"},"0.3.10":{"narHash":"sha256-k+49TIY59cNHDpQ2hG6fDap+NXtSu2jooGz9NdLzEYk=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.3.10.tgz"},"0.3.3":{"narHash":"sha256-ewztzrabKyVEcL5+2baPyaQuADPcCLXMDw70gpm+W1U=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.3.3.tgz"},"0.4.3":{"narHash":"sha256-QOzqqin6rj+c2HUZ8f0Lpm2AxTpOvZ36HjvsG+2L5vg=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.4.3.tgz"},"0.5.0":{"narHash":"sha256-xHLE6yGVybzbAizGbxoHcBiN8Z9PTh2f1TkJBupH92k=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.5.0.tgz"},"0.5.17":{"narHash":"sha256-G2+jwXw463bGcL3ldp2rs9qUODk0H8ysLvsqJVLx414=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.5.17.tgz"},"0.5.6":{"narHash":"sha256-tDOGNqouiCk2ZuiIqNNjUUsUn+Hve/Dp1Gd/aCsUrLE=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.5.6.tgz"},"0.5.7":{"narHash":"sha256-Pp7xa5+zPUHKlKhldTIzr1hHcFKl6IZPeYiM3Hzp0QA=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.5.7.tgz"},"0.5.8":{"narHash":"sha256-u/KFlFCmNJHUV4EJwOGV/t4YQVLTftcavM0EFq6ysSk=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.5.8.tgz"},"0.6.0":{"narHash":"sha256-YU6MdHDbg3yPW8BVdZGxFNs8WNcgQIiS/q4IuRqID28=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.6.0.tgz"},"0.6.1":{"narHash":"sha256-rS8izMiD2gTsp9AOZihzCd1AGJx/C5P71i01gZ8tgm4=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.6.1.tgz"},"0.7.12":{"narHash":"sha256-8xLU7ExK53qYrVkinK+bRnG5GAY9SL77jII6TySFZGo=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.7.12.tgz"},"0.8.0":{"narHash":"sha256-ak/lnOL4z2VtVz5I7S56wdLdTGBlZQRrSUL94wl8EIc=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.8.0.tgz"},"0.8.8":{"narHash":"sha256-chbDNEheTMbJGH2Rttrbj5YtmUSz2lddOh7Xt5irIkU=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.8.8.tgz"},"0.9.0":{"narHash":"sha256-PeWdqdZ00UVAx+rNwrAKIHJa/Z5MMn51JGU1KJ9jdcY=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.0.tgz"},"0.9.10":{"narHash":"sha256-w+1j4euw5954Q8p32zUlD2lGGbjQEt8S3vc5+V6YuLs=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.10.tgz"},"0.9.11":{"narHash":"sha256-DZjaf1+136fbq8PGecwiJ6Lt0CQIWuwgzQ/W+Mskblk=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.11.tgz"},"0.9.12":{"narHash":"sha256-T8kBCjVnVgNtliLZW92yVH3Bgoi9SLAsKb31EHnv8mk=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.12.tgz"},"0.9.13":{"narHash":"sha256-5hQ8duZe2xjwCpqTk5KaDl4V07q+uQ4Vmd1FypjgOdg=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.13.tgz"},"0.9.2":{"narHash":"sha256-T/N3bF61lpqQ2QmOqNUHCmNkEvfeuNioZDD+qoWyZzU=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.2.tgz"},"0.9.3":{"narHash":"sha256-BChvlzYWx9aiTpQx1CbdqZnkFfAzLtC/JarmYXlxowI=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.3.tgz"},"0.9.4":{"narHash":"sha256-IvgM/QeJyG5cNXBeMYXOXkRoKGkEDXyLRIBVbu70XP8=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.4.tgz"},"0.9.6":{"narHash":"sha256-2+DwZunAz7+W+FcwzVSykezwCFUa57HmLglgHj71a4M=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.6.tgz"},"0.9.8":{"narHash":"sha256-LR39fmOFSxhX3sdBtq+RLs7GumlNe7sUIvd7XOKmCwY=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.8.tgz"},"0.9.9":{"narHash":"sha256-bM+bYZg1WJC1UhC0npKeCrHVUU1Nd9GHAG/ilmH8EaM=","type":"tarball","url":"https://registry.npmjs.org/xlsx/-/xlsx-0.9.9.tgz"}}
+{
+  "0.10.0": {
+    "narHash": "sha256-1Md8pcljjf3ykjNKJe4dMz6yAH4AaXtAXEYyLa/CnG0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.10.0.tgz"
+  },
+  "0.10.1": {
+    "narHash": "sha256-7dkhOR0kA8ZY3FBNCZ2+QWhOcBKBaELyzLI6zczolPs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.10.1.tgz"
+  },
+  "0.10.3": {
+    "narHash": "sha256-9WRrgBXxsEOnyjie3K3VUQPAm76zRYLuZcK87/fqHGs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.10.3.tgz"
+  },
+  "0.10.5": {
+    "narHash": "sha256-M2VV4MJnmQySPdzfw5hoYUxPibKg/TeNWD+e/f0IVlM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.10.5.tgz"
+  },
+  "0.10.6": {
+    "narHash": "sha256-rlFafBAnBuCnwGc0yfYOtk3f1POE67mJneWhW/iIXxI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.10.6.tgz"
+  },
+  "0.10.7": {
+    "narHash": "sha256-mWKMVy93KQtfz+vKZFgBsrX6wNjrqxWtcWbROw4Thk0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.10.7.tgz"
+  },
+  "0.10.8": {
+    "narHash": "sha256-vDA5NzrNXpbUXwnmlaKNqTHgBLX2Rq6eHUtFOnZoceI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.10.8.tgz"
+  },
+  "0.10.9": {
+    "narHash": "sha256-2UN23EW2S9pY9gDjCpEmcuu+TxUiEB3cC90ebaVt7Hs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.10.9.tgz"
+  },
+  "0.11.0": {
+    "narHash": "sha256-GMr3P7I+rED+p4KwOPpJ9wSZTWt4Rd2uAaoeVAeRMVM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.0.tgz"
+  },
+  "0.11.1": {
+    "narHash": "sha256-sorqNKtfJd+FFQzx8wpjtnFpstBV6geWo10PH0+yzws=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.1.tgz"
+  },
+  "0.11.10": {
+    "narHash": "sha256-M+lV9JIw+Zu1AJW0xYHPYI2EQXuTNDqA7c6c30WVi4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.10.tgz"
+  },
+  "0.11.11": {
+    "narHash": "sha256-dhZ5Ul+Lj7SPMRFNqB9echV74bG5u3jvaaNMvqJ6Pwc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.11.tgz"
+  },
+  "0.11.12": {
+    "narHash": "sha256-f0vaJLAvtd9SWdQbExwLwBzX3vKOol1Tb7fAyk+CJGs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.12.tgz"
+  },
+  "0.11.13": {
+    "narHash": "sha256-WUU79XpnGvsyiQ3rsKAv2s7U9ih1mOopoDxpq1AR/28=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.13.tgz"
+  },
+  "0.11.14": {
+    "narHash": "sha256-/tGqw1oD8R+Ob4zhLKZ6F5oyVH+7L46qmRHvrk0fYUw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.14.tgz"
+  },
+  "0.11.15": {
+    "narHash": "sha256-YFZd/hKzFd00+FITgcQndRchTnCGGsVO4Qqt1V2i7Ks=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.15.tgz"
+  },
+  "0.11.16": {
+    "narHash": "sha256-RTbDSkI8b+JOZbVD6dteShdeGJbFtAEGE5xkNm4RY9M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.16.tgz"
+  },
+  "0.11.17": {
+    "narHash": "sha256-75jUc58pXS2xiCgyFnsM8XCVovbIiSbTmTUotSf1Pqg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.17.tgz"
+  },
+  "0.11.18": {
+    "narHash": "sha256-/4TXGw53u+OXTctZhP2QeUHPjzE4wz27dxAECYpbutA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.18.tgz"
+  },
+  "0.11.19": {
+    "narHash": "sha256-4mrANlG9V1x7J5Mtga7Ye+vFNABREVN4MdCrvB1+rGY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.19.tgz"
+  },
+  "0.11.2": {
+    "narHash": "sha256-BTqdl4IqxjeHhhUtwF3FEr3U0B7hNQyrenCA6jH8Biw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.2.tgz"
+  },
+  "0.11.3": {
+    "narHash": "sha256-wxyAdPi9N4hxmDS157IWLX4H78L1UZAW+hNdjhoeawA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.3.tgz"
+  },
+  "0.11.4": {
+    "narHash": "sha256-O1JIbNCjczjING93CYsn0YFpcJRb3pFesqXo0lKJpLE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.4.tgz"
+  },
+  "0.11.5": {
+    "narHash": "sha256-fiqISaCcmsyQty/HpvN0Cgz2BJTEw800I5bqrsRcQxc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.5.tgz"
+  },
+  "0.11.6": {
+    "narHash": "sha256-krGfDcC7VhOktUsQEAkl4KtAA7rZwE4EypFo1jT3uvE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.6.tgz"
+  },
+  "0.11.7": {
+    "narHash": "sha256-0PitHHB9yNkuL27pWHgoh37H8ZD3pFlrXHyr7KV6FUw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.7.tgz"
+  },
+  "0.11.8": {
+    "narHash": "sha256-02ugHBUNXkJENvTUvwXLRcxEALhefWT92QgCi+XPnWc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.8.tgz"
+  },
+  "0.11.9": {
+    "narHash": "sha256-9QzD/dAtABPuJak7mm2tXIf7h3xctOqLkB91Aa49bXU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.11.9.tgz"
+  },
+  "0.12.0": {
+    "narHash": "sha256-HJQ5hftrzraqFbyMzqrRA3UAOUzDAd/pO5/HkNRt2Vw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.0.tgz"
+  },
+  "0.12.1": {
+    "narHash": "sha256-ClBUu69Gvjrsd6QlzpVtgoruCQxbHc9Se9RSMVOmzmY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.1.tgz"
+  },
+  "0.12.10": {
+    "narHash": "sha256-jkt80LQv646U7UvkzDMTNLDVHHZsmA8JJoIgB0ptw3w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.10.tgz"
+  },
+  "0.12.11": {
+    "narHash": "sha256-iv+pBaSdkmwsGTB6dgkj6riptBKd/4qYSNqSRz7DV7A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.11.tgz"
+  },
+  "0.12.12": {
+    "narHash": "sha256-KGy5KQTUkhblexbHfktWyJLOsq94yuiRAterR9/NaZQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.12.tgz"
+  },
+  "0.12.13": {
+    "narHash": "sha256-3aEwfOnRp9qVhCQW7l4RhGXJbWFARseHqkhvf5x51Fo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.13.tgz"
+  },
+  "0.12.2": {
+    "narHash": "sha256-B4QU5hUA7ocgVwHVqP01SPoGhRldkZHKfYpOUz6OEho=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.2.tgz"
+  },
+  "0.12.3": {
+    "narHash": "sha256-oYO/E5VLkbhPRJJoAl/dD3LYl2y9FzK95vyg4P9t5sA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.3.tgz"
+  },
+  "0.12.4": {
+    "narHash": "sha256-60kPVW9bM3gIRjh9v+FmBKsJlOqfznx3jlX0LZoY6JQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.4.tgz"
+  },
+  "0.12.5": {
+    "narHash": "sha256-/yVmt+/SSV7AWyNSAX5E/0Mt6Jp3VK7r8jGJDGpdjZk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.5.tgz"
+  },
+  "0.12.6": {
+    "narHash": "sha256-qggLXH2BOI131L3+xPu26o+Uya2K6QO9JmVfqJ6k1Rs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.6.tgz"
+  },
+  "0.12.7": {
+    "narHash": "sha256-Hp4qTcGVhdv5WQSsSJZbUZw4fC/HZ68RacC4xKysKTE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.7.tgz"
+  },
+  "0.12.8": {
+    "narHash": "sha256-6xmy1RGeOuK4OjjT5Sgc1bzPUCeu4EhRHW43tpr+mBQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.8.tgz"
+  },
+  "0.12.9": {
+    "narHash": "sha256-Hrc03krWukGF//labrwx9fjTSZDrmpOJHdmqpw/84Us=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.12.9.tgz"
+  },
+  "0.13.0": {
+    "narHash": "sha256-DDrqdkiAnuToDO2fUAzxuTBf7s9qGslaX7vTKVzlbog=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.13.0.tgz"
+  },
+  "0.13.1": {
+    "narHash": "sha256-DxMRfbcFew6kJJPtc9hYSkqt2tnz1DVQNAJKsMPhazM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.13.1.tgz"
+  },
+  "0.13.2": {
+    "narHash": "sha256-Ll9qFVir4Ip18+YNFCnvbjUsSflC3TRrkzw1rJB77p0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.13.2.tgz"
+  },
+  "0.13.3": {
+    "narHash": "sha256-+rVQ+i4oPENQsFZR6LS6ANG8AUKxF1UoDmB3rEmINtE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.13.3.tgz"
+  },
+  "0.13.4": {
+    "narHash": "sha256-qgYgqf4bTgLfUw4dH+9hYcT4EADy+iC6Wm8yqO4dtCY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.13.4.tgz"
+  },
+  "0.13.5": {
+    "narHash": "sha256-5pAoTUAELcRxjhHHH2nJ9UpwCO6Y4bX7oXm91b5yu7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.13.5.tgz"
+  },
+  "0.14.0": {
+    "narHash": "sha256-vjYMUP/QVNGzuldxr4dqlkPIVYOwyUmX8tk9aPKWc9U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.14.0.tgz"
+  },
+  "0.14.1": {
+    "narHash": "sha256-po1KR5N02Pl52oLCXX8uEZZYQ0Ibl08miZJQwTuN3qM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.14.1.tgz"
+  },
+  "0.14.2": {
+    "narHash": "sha256-pSW368DDNPqJVCV+7OslMey/Yc/xZmOgWZabN4AuMBc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.14.2.tgz"
+  },
+  "0.14.3": {
+    "narHash": "sha256-Uqdugow/c7b3kcK7Bag/MtdUm6UmH5kUlatZ1J+cXYU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.14.3.tgz"
+  },
+  "0.14.4": {
+    "narHash": "sha256-ri9vqHelnLkMXF/DYQmPqOfj8z+PNJXzHdDvHR/imCM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.14.4.tgz"
+  },
+  "0.14.5": {
+    "narHash": "sha256-OOjdKJEQG0VrMpqPGGSC8h/Z7nfUoGNbR+9PCDr2u7Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.14.5.tgz"
+  },
+  "0.15.0": {
+    "narHash": "sha256-Pgatdy3uQTwm4Yl9H0A3FznVo5GRw50bBQqkhLk2Eqg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.15.0.tgz"
+  },
+  "0.15.1": {
+    "narHash": "sha256-bdXM5PoTp/g7KXa0XOP26JPzk9RtyyAtHfEPca1V93g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.15.1.tgz"
+  },
+  "0.15.2": {
+    "narHash": "sha256-pKKnAczW5KFj+OJTblBlRfT9E5O7rP2xAHCE4DrUZik=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.15.2.tgz"
+  },
+  "0.15.3": {
+    "narHash": "sha256-MWeUmIqAZUCOnVcmAx/ELcBf8PncySP1dO3oB5cWLvo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.15.3.tgz"
+  },
+  "0.15.4": {
+    "narHash": "sha256-gMfBNEQKQ9Q/18Zl+pSVfZz6oMZLp7Ud7R06LfBPsUQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.15.4.tgz"
+  },
+  "0.15.5": {
+    "narHash": "sha256-TVSFmRzaFoSh7SHN1R23HG3iNHbhZPnYS0yivWnvy4g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.15.5.tgz"
+  },
+  "0.15.6": {
+    "narHash": "sha256-UNfDYvh68JDiNd+hLUCLm6cF5xAPxShFz0snKoAuUIE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.15.6.tgz"
+  },
+  "0.16.0": {
+    "narHash": "sha256-OosPSuuZmbHmiZRe8eZJR7IuypYwMUWPR65Y+SEszIc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.0.tgz"
+  },
+  "0.16.1": {
+    "narHash": "sha256-Qg0kTLPR3lV8BbjnksgIlz67cSxamQelXrVHeEnpWPQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.1.tgz"
+  },
+  "0.16.2": {
+    "narHash": "sha256-55AzeFdWtn/IknKlfL8ppsTms+RtzQHIl+mx1Wq5RCA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.2.tgz"
+  },
+  "0.16.3": {
+    "narHash": "sha256-y2PJ3fFJ0h1gwWnXYyymPUG3z5W4/SFXkJ9bUzi5bqw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.3.tgz"
+  },
+  "0.16.4": {
+    "narHash": "sha256-Kl8J/79XQLD8OrsVQNIYb3fDGwKHLUdeppDyhRfRxXo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.4.tgz"
+  },
+  "0.16.5": {
+    "narHash": "sha256-MrA9UNAqGWZWjGuiy56q0Nai36IcW4KSMviHpQv0NhY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.5.tgz"
+  },
+  "0.16.6": {
+    "narHash": "sha256-G7smf5LnJI03+vHmD3M+BOYGy2sZfO60tglNNGC4D/g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.6.tgz"
+  },
+  "0.16.7": {
+    "narHash": "sha256-ckp4d+/TnjIWq9aS34W2NE1YD/0JPqs4NxpCL7J1SC8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.7.tgz"
+  },
+  "0.16.8": {
+    "narHash": "sha256-+wxWcvVowYTXGK7jBt63cAzGzsOoc4P1ORgWJpCv/qo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.8.tgz"
+  },
+  "0.16.9": {
+    "narHash": "sha256-1O6whTsd58KgjYmp3uqkHihZq/ZTRRTtVj03RAZpjcE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.16.9.tgz"
+  },
+  "0.17.0": {
+    "narHash": "sha256-pVFAkY2AXRw6frO5JmJL5sUHyUtSCFF2Wp5TVCVUYPw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.17.0.tgz"
+  },
+  "0.17.1": {
+    "narHash": "sha256-lwy+zK7RafKiCC9BzEBhuf0WBLaTvHHO0x45f5QRMe0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.17.1.tgz"
+  },
+  "0.17.2": {
+    "narHash": "sha256-P2GmvNFuJG+kqcod/50rbDLBs/udZmNl6ITVqZ13vws=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.17.2.tgz"
+  },
+  "0.17.3": {
+    "narHash": "sha256-wqWK68NMYhCv/R/9QMQls4kjIaM/IeBqI1cEvYU4Lw8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.17.3.tgz"
+  },
+  "0.17.4": {
+    "narHash": "sha256-lSCzvTGXWYY2VfU/I6uohlLlciCCNGn6tR0A8NsSlw4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.17.4.tgz"
+  },
+  "0.17.5": {
+    "narHash": "sha256-ZImZ7Vrseu/Le6Soxvtpg8HW+6MM/KL3CCPlPW8EK8A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.17.5.tgz"
+  },
+  "0.18.0": {
+    "narHash": "sha256-f8bhL2h9fJzO48f9TpG/k0gFOzXOKNwSqF1CDeU8H8c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.18.0.tgz"
+  },
+  "0.18.1": {
+    "narHash": "sha256-J9FkvoYQGBov79raWNPy9wDcf2MyNUjCMLliWtLhDm8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.18.1.tgz"
+  },
+  "0.18.2": {
+    "narHash": "sha256-uAx3WkXar2cbpuGNl+PBprLTezs//+qo6IUYIqJS4Aw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.18.2.tgz"
+  },
+  "0.18.3": {
+    "narHash": "sha256-MYAWljFQks+Iw4zNwa5u/8HQyDESZnq1Jsyg+xCOBEc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.18.3.tgz"
+  },
+  "0.18.4": {
+    "narHash": "sha256-cMdMs+tjcEhsRFyJuYZ+/Gbup0PQpJhe2Y82voSf2b0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.18.4.tgz"
+  },
+  "0.18.5": {
+    "narHash": "sha256-LQ1e1x7/SU/nxtxnTgCgHkfVo+TPvx0k62PPHwK95KM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.18.5.tgz"
+  },
+  "0.3.10": {
+    "narHash": "sha256-k+49TIY59cNHDpQ2hG6fDap+NXtSu2jooGz9NdLzEYk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.3.10.tgz"
+  },
+  "0.3.3": {
+    "narHash": "sha256-ewztzrabKyVEcL5+2baPyaQuADPcCLXMDw70gpm+W1U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.3.3.tgz"
+  },
+  "0.4.3": {
+    "narHash": "sha256-QOzqqin6rj+c2HUZ8f0Lpm2AxTpOvZ36HjvsG+2L5vg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.4.3.tgz"
+  },
+  "0.5.0": {
+    "narHash": "sha256-xHLE6yGVybzbAizGbxoHcBiN8Z9PTh2f1TkJBupH92k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.5.0.tgz"
+  },
+  "0.5.17": {
+    "narHash": "sha256-G2+jwXw463bGcL3ldp2rs9qUODk0H8ysLvsqJVLx414=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.5.17.tgz"
+  },
+  "0.5.6": {
+    "narHash": "sha256-tDOGNqouiCk2ZuiIqNNjUUsUn+Hve/Dp1Gd/aCsUrLE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.5.6.tgz"
+  },
+  "0.5.7": {
+    "narHash": "sha256-Pp7xa5+zPUHKlKhldTIzr1hHcFKl6IZPeYiM3Hzp0QA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.5.7.tgz"
+  },
+  "0.5.8": {
+    "narHash": "sha256-u/KFlFCmNJHUV4EJwOGV/t4YQVLTftcavM0EFq6ysSk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.5.8.tgz"
+  },
+  "0.6.0": {
+    "narHash": "sha256-YU6MdHDbg3yPW8BVdZGxFNs8WNcgQIiS/q4IuRqID28=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.6.0.tgz"
+  },
+  "0.6.1": {
+    "narHash": "sha256-rS8izMiD2gTsp9AOZihzCd1AGJx/C5P71i01gZ8tgm4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.6.1.tgz"
+  },
+  "0.7.12": {
+    "narHash": "sha256-8xLU7ExK53qYrVkinK+bRnG5GAY9SL77jII6TySFZGo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.7.12.tgz"
+  },
+  "0.8.0": {
+    "narHash": "sha256-ak/lnOL4z2VtVz5I7S56wdLdTGBlZQRrSUL94wl8EIc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.8.0.tgz"
+  },
+  "0.8.8": {
+    "narHash": "sha256-chbDNEheTMbJGH2Rttrbj5YtmUSz2lddOh7Xt5irIkU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.8.8.tgz"
+  },
+  "0.9.0": {
+    "narHash": "sha256-PeWdqdZ00UVAx+rNwrAKIHJa/Z5MMn51JGU1KJ9jdcY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.0.tgz"
+  },
+  "0.9.10": {
+    "narHash": "sha256-w+1j4euw5954Q8p32zUlD2lGGbjQEt8S3vc5+V6YuLs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.10.tgz"
+  },
+  "0.9.11": {
+    "narHash": "sha256-DZjaf1+136fbq8PGecwiJ6Lt0CQIWuwgzQ/W+Mskblk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.11.tgz"
+  },
+  "0.9.12": {
+    "narHash": "sha256-T8kBCjVnVgNtliLZW92yVH3Bgoi9SLAsKb31EHnv8mk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.12.tgz"
+  },
+  "0.9.13": {
+    "narHash": "sha256-5hQ8duZe2xjwCpqTk5KaDl4V07q+uQ4Vmd1FypjgOdg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.13.tgz"
+  },
+  "0.9.2": {
+    "narHash": "sha256-T/N3bF61lpqQ2QmOqNUHCmNkEvfeuNioZDD+qoWyZzU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.2.tgz"
+  },
+  "0.9.3": {
+    "narHash": "sha256-BChvlzYWx9aiTpQx1CbdqZnkFfAzLtC/JarmYXlxowI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.3.tgz"
+  },
+  "0.9.4": {
+    "narHash": "sha256-IvgM/QeJyG5cNXBeMYXOXkRoKGkEDXyLRIBVbu70XP8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.4.tgz"
+  },
+  "0.9.6": {
+    "narHash": "sha256-2+DwZunAz7+W+FcwzVSykezwCFUa57HmLglgHj71a4M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.6.tgz"
+  },
+  "0.9.8": {
+    "narHash": "sha256-LR39fmOFSxhX3sdBtq+RLs7GumlNe7sUIvd7XOKmCwY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.8.tgz"
+  },
+  "0.9.9": {
+    "narHash": "sha256-bM+bYZg1WJC1UhC0npKeCrHVUU1Nd9GHAG/ilmH8EaM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/xlsx/-/xlsx-0.9.9.tgz"
+  }
+}

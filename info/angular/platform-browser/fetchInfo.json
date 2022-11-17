@@ -1,1 +1,1512 @@
-{"10.0.0":{"narHash":"sha256-vwFiPQtVmgbCuo+ahhjk6bC+dRvbbA9htBrDcHrcBnQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.0.tgz"},"10.0.1":{"narHash":"sha256-r0cXs5k18nIdN+8qtGes6g8eWVwC0NBE1msLRrp/b9E=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.1.tgz"},"10.0.10":{"narHash":"sha256-Pqd/Nlq2WIL8svN6VPBkNpAR5ORDPTzEdJ2MHCw8AwU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.10.tgz"},"10.0.11":{"narHash":"sha256-wn0vAtD/zNEH1RmZXM7307ot0DxxIEp1q485sifie0U=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.11.tgz"},"10.0.12":{"narHash":"sha256-GZ2o6z/r3kHojwQt0mM+XRWkkF1jqj8/iVbTGJUhVnA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.12.tgz"},"10.0.13":{"narHash":"sha256-iNFR/hYLw8vcU5id5tm2CFcwcnBvPaH9NXYGVePcwp8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.13.tgz"},"10.0.14":{"narHash":"sha256-uIJ5CTTPO2CxdRzk47+oZ4He0AdYCz+urEEe2EuN0ss=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.14.tgz"},"10.0.2":{"narHash":"sha256-r9NL+UIKDoIcGVdMxZ/bIB8xJMX4d6WgDp3W65GxGoo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.2.tgz"},"10.0.3":{"narHash":"sha256-Ty8j9K+UXoY0H4ZRr/nls88kS2WocUXvWu3miZE3RN8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.3.tgz"},"10.0.4":{"narHash":"sha256-z43fA1Ge6pwalr1YmfUPQhYbLypafS0YcygkgoWsLPU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.4.tgz"},"10.0.5":{"narHash":"sha256-saWq19M5GC4MSMEy9HXI5Yp47LwAUoyRHjLsfPz92Rs=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.5.tgz"},"10.0.6":{"narHash":"sha256-TN394XqaBPOQb5N+VFZULS773juxa+xLEs7aHU8cfTA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.6.tgz"},"10.0.7":{"narHash":"sha256-vR/qyJqH4BehGViHsKHACc1/uRmLP4MhLY+Bh+dAgeY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.7.tgz"},"10.0.8":{"narHash":"sha256-K3in3qerCaPRuGs/oRNnBGgwZMGzmV5LvUzqyJmpdJ0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.8.tgz"},"10.0.9":{"narHash":"sha256-60Hv+i9+McowrDDH7lADkR7Bf0LINd3kRp+/zsIaiV0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.9.tgz"},"10.1.0":{"narHash":"sha256-aPkD96n9m1KFz6vacAl+e2q4zbUmZJA5gRe4N4H4ei0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.0.tgz"},"10.1.1":{"narHash":"sha256-mcXfnDmkLrjqVLFVzB7bBBJ7KKIeZ9+SMJA+5xVuWis=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.1.tgz"},"10.1.2":{"narHash":"sha256-TUd0lWYoF4zZlJ4CBuU+w6NFa1qWwoPvUgHRVZL/R9U=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.2.tgz"},"10.1.3":{"narHash":"sha256-IU8gRDpGZ2hCXrttS04dev8QRDRgqkvJeQhNlq2V4JE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.3.tgz"},"10.1.4":{"narHash":"sha256-ShTmD6+oqT3Iw1C8dt/zn+p/dURCwvPLN6tOmngjPHQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.4.tgz"},"10.1.5":{"narHash":"sha256-Erea9mGpScpKuyBxqJJ7k9+jtwpQtVcba31GxA8YjmU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.5.tgz"},"10.1.6":{"narHash":"sha256-HNEi67/DYEbDKy6nssA2ws1QbiNMaL1BWYFgbUd7IMw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.6.tgz"},"10.2.0":{"narHash":"sha256-ociHkOcb2egO9AtLSuBTvzJgFIaAXhgN1QCkFEyiV6g=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.0.tgz"},"10.2.1":{"narHash":"sha256-IGTawRPn8Dmo7teepFuI9JBYvh4HH6H8dgM39G5TyYI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.1.tgz"},"10.2.2":{"narHash":"sha256-VIPpfb1CDMN2PycwD9GwTo3QRv0Ys/cb3Aa5hmLzuZk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.2.tgz"},"10.2.3":{"narHash":"sha256-CRm3/eHiyzws6SD8tiCqCP+zAHhbqQrVXTVSVXb7F4I=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.3.tgz"},"10.2.4":{"narHash":"sha256-GKXyU6dTy6uvyVU5Uhei+Wh51Vx6sjvHqqeuBUyhlSA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.4.tgz"},"10.2.5":{"narHash":"sha256-DObKCENQfD5K4qFZgLrCYQEqKWgnWSaoPHmPxBh/hFk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.5.tgz"},"11.0.0":{"narHash":"sha256-wdlM6WvGAaQqC2+jQvONlyTu3NXPc06qm1uuLST9esg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.0.tgz"},"11.0.1":{"narHash":"sha256-IjuJRQXz4/MysZlYTbiAnCavXmLs8nLKf80W0hyYd5U=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.1.tgz"},"11.0.2":{"narHash":"sha256-nkeFBlOMXw6ch5QMslol5qXIWBOZufpYXPnlclwEnq4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.2.tgz"},"11.0.3":{"narHash":"sha256-RnkmFHGBpciYgpehb8g3Xk0VvA/01n3xEGKOPfyi/bE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.3.tgz"},"11.0.4":{"narHash":"sha256-AI/2qfA3ZCS6mLUAWH6zMAqD9UrnfD5GLsBfgmTDUCs=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.4.tgz"},"11.0.5":{"narHash":"sha256-pREo9Tvx5PGof5uhB8y4nQ43jRyxDB1XK1eqkmnGFN4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.5.tgz"},"11.0.6":{"narHash":"sha256-jUmqIGs7tI+GqJ59NQ/S81kEFOfwoMj3WcxmUf603tw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.6.tgz"},"11.0.7":{"narHash":"sha256-NiIHW/b6Q3W8PQUdTvemPe5anvboLe1qrYm+IhGxw7I=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.7.tgz"},"11.0.8":{"narHash":"sha256-SNGgl3t9Yyn5yEBjlxJlYQY1ZbUJ1blRBlsc6Kfgywg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.8.tgz"},"11.0.9":{"narHash":"sha256-YH22IjP6s7IY6uO2YK5drc3zMZMPlKjTm9m8GcnWpsk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.9.tgz"},"11.1.0":{"narHash":"sha256-kfcVP9Db4p7ZoPUyEDUXQPT1n4RlH4h/v00b7a0qAzA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.1.0.tgz"},"11.1.1":{"narHash":"sha256-wFyohLA+dXJtvnVZWjdC4npKRFi3tr3mL0Nj/LhhiiI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.1.1.tgz"},"11.1.2":{"narHash":"sha256-Rhh/8WRLWn6H0X/bR2c3xooLLfrBMiXLKBp3Hq0NejQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.1.2.tgz"},"11.2.0":{"narHash":"sha256-Yu19gMt8Q/NckEZk53J4IlhDHttwAjzp4cKyEJYKQR4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.0.tgz"},"11.2.1":{"narHash":"sha256-cQek6N+aIAwhW/emvOfqpUMOxVcloJK1CLO40mOYucI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.1.tgz"},"11.2.10":{"narHash":"sha256-9r8x2fVOf2PmoeawBiyN2cgWd99eq4nu8yDWksbibDQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.10.tgz"},"11.2.11":{"narHash":"sha256-uElbS3RWizHE7CzMbRg2MvnM/8LEFwybXwEInJoRQS4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.11.tgz"},"11.2.12":{"narHash":"sha256-fq4obKu0M0hw/iwtxQZO15VRthDPyyKUA1VF5dcUXeA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.12.tgz"},"11.2.13":{"narHash":"sha256-Tq7L5x81CDgZNPGe13RpMSbo5BQK5S06BCOSY2oF/c8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.13.tgz"},"11.2.14":{"narHash":"sha256-rLsC3EDdiEDZF+0Dc1018EG0FvDGSdu56ui/UhATNaU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.14.tgz"},"11.2.2":{"narHash":"sha256-ckuZmOUIVA420lTLAauINbbfVK+ldoquQo79JaB8wcQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.2.tgz"},"11.2.3":{"narHash":"sha256-P4i/BkNXBY83tlm/peh4bbIlE0tsiLS6s6UyqNVmzic=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.3.tgz"},"11.2.4":{"narHash":"sha256-LSjcxVHrfFN9xbKCCZgXdx88aFQrWMa2UvEaHYeI7Ww=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.4.tgz"},"11.2.5":{"narHash":"sha256-y7ttEM6BhEAyT71xACVb7CZd6JIcRNv5OvGX9jLN4PU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.5.tgz"},"11.2.6":{"narHash":"sha256-b3qKItqdfe38VUlxSll41JfTcybXsVFP+fAqRr6PqOk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.6.tgz"},"11.2.7":{"narHash":"sha256-5okrxKUidPr5SBgruAMjSPcrJ93vd33/9N7FVwNTLX8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.7.tgz"},"11.2.8":{"narHash":"sha256-mlH6kRC5Oa0aEJFfElzB8FLu9FDxf8XxTXUXiU+yxU8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.8.tgz"},"11.2.9":{"narHash":"sha256-oyk3gtVIdKxTUefUn+P9PVMoixpkbSESG5iwktl2TdM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.9.tgz"},"12.0.0":{"narHash":"sha256-60Dfz9m8hdaa7Q0UPs38i9mTvblfGwdkPNfLl1K5Syo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.0.tgz"},"12.0.1":{"narHash":"sha256-gHEn2Rddr6jJNA/to4a+kCKKU+wsELXmTI28jw3+d7I=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.1.tgz"},"12.0.2":{"narHash":"sha256-vfsFRHGv8+3+RRM2gQn4MW1ExYXc0Yo0jpw4WXBcvbs=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.2.tgz"},"12.0.3":{"narHash":"sha256-0ifzBpWgZ6UMk4REppq0C5JYAWeNElEGotgEZa/of7M=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.3.tgz"},"12.0.4":{"narHash":"sha256-2QiWym0egaCMDJOKVnoIS5U0lKEf3I+6DbQa5TbZhCI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.4.tgz"},"12.0.5":{"narHash":"sha256-B8c8TNaDCh1raqEdcwDtAMgaO0NJLLByrwkoMibIvqc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.5.tgz"},"12.1.0":{"narHash":"sha256-13CDCOKoRohV66BPt6mu9RrZZg6zvyEvv6upe0ENebU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.0.tgz"},"12.1.1":{"narHash":"sha256-RlkNK3vg107htiUBIWSbG4J149/cwekqMc+4nPD5gIo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.1.tgz"},"12.1.2":{"narHash":"sha256-Ao79u5n0S/dvt4lUZ/22sY83mooiqap7ILQ/AvaKKgg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.2.tgz"},"12.1.3":{"narHash":"sha256-HojknazGFIE6EdITRunaR68uCVtmaItIlC/5rIpOnfE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.3.tgz"},"12.1.4":{"narHash":"sha256-jTeumalVLsQQiqoHJLPgpSNr9bx1i9FEaNxYTCeaebM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.4.tgz"},"12.1.5":{"narHash":"sha256-GVaoXdwc4hhyG1LI6NO2SEEAubPqXP2dFI/cGhgSFSU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.5.tgz"},"12.2.0":{"narHash":"sha256-FTeUllwk80dCLcwfaHONm+WjD7EiW9TAoweJJBey7z0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.0.tgz"},"12.2.1":{"narHash":"sha256-f78ggraNq8/FOn7oJGNcU1ycYNmAuDfjy3mKeZ1Ozjk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.1.tgz"},"12.2.10":{"narHash":"sha256-j88SmMf/akYlPAwcw0JEO8+4sxo/JlRsMLubleaa5Ps=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.10.tgz"},"12.2.11":{"narHash":"sha256-DsQ1PpqUc02KOPetzGP9/TuAmT3pRuU/jn9ltYbLA2g=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.11.tgz"},"12.2.12":{"narHash":"sha256-v+mZXfthvSIqb+3s4OIwFc4MzIyzl7Js+dgiu3+0A18=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.12.tgz"},"12.2.13":{"narHash":"sha256-uPdv7JV/WQiLcJqN2zxmFLRot6A+8YC6SkUkPzJVlaI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.13.tgz"},"12.2.14":{"narHash":"sha256-fhsfk8/W1IvdqoeIyTVPTE0fMkYMqZocLJETl8TAARY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.14.tgz"},"12.2.15":{"narHash":"sha256-KhNOVHNqqAqcVDfJKs5kUJPQvqIj0h2vxPUMs9JpbK0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.15.tgz"},"12.2.16":{"narHash":"sha256-/gSqVlE8TxJzJtVuHFv/bRCFNm5E8syATIS/DNbBhwo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.16.tgz"},"12.2.2":{"narHash":"sha256-RTK/+qZwpigZuOCpnIf/9+hf+gehnTP+3539N8vQsq0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.2.tgz"},"12.2.3":{"narHash":"sha256-stg4igIa0dakzTuLvfAG8bHOJkMMNplFYiK5IF2a9D4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.3.tgz"},"12.2.4":{"narHash":"sha256-CmBldVJdzoqxuf8qOsN27tUPpysk2Yrpja1yHSYpDjM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.4.tgz"},"12.2.5":{"narHash":"sha256-xwcPJXyQLXf73anIA9oAh8n1haHlVn10zUQQw2ntYB0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.5.tgz"},"12.2.6":{"narHash":"sha256-hW9aO/ic5ykNBxQHKwQQ86Y5iAe1Byqrv6SPnF27tu8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.6.tgz"},"12.2.7":{"narHash":"sha256-+PFNr48L2ZSTh4JqJozNtopXSofzFxjCY9KgtUHTvR4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.7.tgz"},"12.2.8":{"narHash":"sha256-Hn0qYSBMW4pHNTBEPq1dAlCLzHAXXfL49XqNYMB9QtU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.8.tgz"},"12.2.9":{"narHash":"sha256-URNO8wrNIQ0fM34R7PfNz8pfLWIyMvRZ9f3DrtlNduM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.9.tgz"},"13.0.0":{"narHash":"sha256-p8h9aVz7R+uaEf/VPIIankjYTvrnjIHe3zxlpmYh5zk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.0.0.tgz"},"13.0.1":{"narHash":"sha256-L0j+mYe5iL1hH4o6Gh58go9MDNWAMt+0S2VerD+h9N8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.0.1.tgz"},"13.0.2":{"narHash":"sha256-rEijC4W0U/Gtc1xPH08ZEtTqADUd+GOfigyEO1kYYCg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.0.2.tgz"},"13.0.3":{"narHash":"sha256-WOXJqGxEkFK86wDJoUSdN+AtIIpXhglLgYwdQPx5/hY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.0.3.tgz"},"13.1.0":{"narHash":"sha256-FvUHVclCPKqPqBekNfuogbNpnMWt110s9cuOip6qryc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.1.0.tgz"},"13.1.1":{"narHash":"sha256-vKfhKp5SxBtjVQwTnz+tCHlwv1sLdRToAwUxWf1JYBM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.1.1.tgz"},"13.1.2":{"narHash":"sha256-yy7WgsnDD3BB6wlmVIGh0FsgqTqXcr4No6BUDEewo90=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.1.2.tgz"},"13.1.3":{"narHash":"sha256-4bPPkQBBUMZKyUZLfKaz5mvZ1mp4kPEMqLU4v1dWYmo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.1.3.tgz"},"13.2.0":{"narHash":"sha256-hxzTPTAudphyfK6Ai4ts+PC9xH2bJZW/Spt5gCvWV5I=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.0.tgz"},"13.2.1":{"narHash":"sha256-tytdYrydb0PSou0EDJhUeS8R0BmezOz8+ojw4fQrm+k=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.1.tgz"},"13.2.2":{"narHash":"sha256-9T7XmxxGQ9ZJcqn76z6fF4N8URTcOvdyjSnlNZPcBgA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.2.tgz"},"13.2.3":{"narHash":"sha256-8+movxjBoq5GNyHzq8+6YcARK6wcz7/zTk/zoeCaMKo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.3.tgz"},"13.2.4":{"narHash":"sha256-s7pAWQoGwCq4802AMZvoLy4ZC3RcYdQhxMElqm01/4Q=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.4.tgz"},"13.2.5":{"narHash":"sha256-2PuOpHA4gO5DdES5X9sTGRxfir+8qmbrhPyfHgOH5qM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.5.tgz"},"13.2.6":{"narHash":"sha256-Y43Pk0dHtia73Hj+9HR8vpR18t9uREPDLjSQG8reEb0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.6.tgz"},"13.2.7":{"narHash":"sha256-0Aux13nGqyGm2jsh2ZAMc9EE05VINbn3dnqdqO7pIto=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.7.tgz"},"13.3.0":{"narHash":"sha256-ZTx6Dnfc9uTqULW8sxXoj831U9ltSQiMQaeOhKnwkXA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.0.tgz"},"13.3.1":{"narHash":"sha256-YhF/upzkLmaZQU6/9eaIKlIKhX/I299A/wITzDjK4Fg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.1.tgz"},"13.3.10":{"narHash":"sha256-RMmPTnPhBbadb8ctFetoTTStxFCxZLXyyykvVwcfnmU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.10.tgz"},"13.3.11":{"narHash":"sha256-jkzefpFoCZObsugFecw4VNVwYzV0jFUEXN7pIdDGy60=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.11.tgz"},"13.3.2":{"narHash":"sha256-WPdP+DlMgHUWJfH7IGLMNL9/oL0/tIYSGllSzhxalRo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.2.tgz"},"13.3.3":{"narHash":"sha256-xtvNEGV1sD/WaILrt3lYYMj6cyMEGrn0D3KzLewHST8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.3.tgz"},"13.3.4":{"narHash":"sha256-mnPTWnYJEUK7cfKuKrQfDwtggEySWXW8M9fVe0UHlH4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.4.tgz"},"13.3.5":{"narHash":"sha256-dngwHhSvTf0HqBlkwLb8etKF/wNWcJsT8OjvkmNkpQM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.5.tgz"},"13.3.6":{"narHash":"sha256-xLLQ8itAQUZZNHwqCV267kKWgAk7xuF+TXqu7X9UoJo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.6.tgz"},"13.3.7":{"narHash":"sha256-VvVEITnFzAGiGTXlvlx2q+o5k3PWMhAebOY3aARPWIg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.7.tgz"},"13.3.8":{"narHash":"sha256-2oTbPrWAArgo8/4SOeJRjXwMrY3nMvg4EwemoyVb4aM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.8.tgz"},"13.3.9":{"narHash":"sha256-naIK58tDJafjU6S82bRGHAcf3Mtt1y6Y02I4eQxHWI4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.9.tgz"},"14.0.0":{"narHash":"sha256-NaGKTTugUSEW1hV18bSTFR5XutE0WBP/aGVaKIvz3hg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.0.tgz"},"14.0.1":{"narHash":"sha256-hQF/6czQEs73AemdJuVwUrX6laqw38jhPc6cX3Y9LYI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.1.tgz"},"14.0.2":{"narHash":"sha256-2meHn03OhL6b/XmYIBfW9VMBdg5qNfDYOA55peMQgAs=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.2.tgz"},"14.0.3":{"narHash":"sha256-H/2wh7dIUAwu9uBOsYPo/ihmT/JItfk6F6V/MWNhzJg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.3.tgz"},"14.0.4":{"narHash":"sha256-ugSWUCbgppCO4Qz/cawM14pcSUOCK9idWs3EyhUlbe8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.4.tgz"},"14.0.5":{"narHash":"sha256-i7O2CK0DmhrVYkpL6ZiO59gui6/DmV4oT/JuE0Rkzq0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.5.tgz"},"14.0.6":{"narHash":"sha256-Vml1ySHwS7mgwub8Y4ARZj/NxcHRJ5YUTGBwczOox60=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.6.tgz"},"14.0.7":{"narHash":"sha256-E+b6r22SBdzJ9mqk7ObZ/R9iRDKOAs8NXPuOsvTuisc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.7.tgz"},"14.1.0":{"narHash":"sha256-IowTCF15+ooPGUhjIGuWjMw+hPh00GKjrLN+JYr57q4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.1.0.tgz"},"14.1.1":{"narHash":"sha256-BlaPVUBw+h/9E7odj4hGGpdgYGW6p+9NbC9m6EbbOck=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.1.1.tgz"},"14.1.2":{"narHash":"sha256-3imAvIaU1slfLqgsqrBr7f/p19hqgJHG+uW243xIzBg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.1.2.tgz"},"14.1.3":{"narHash":"sha256-YSOl0Zj935QCLn0l9B4xq8XASuwEqs5pmVAjYQquXbA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.1.3.tgz"},"14.2.0":{"narHash":"sha256-GKLApqngb/Ib4kR98iOrhYGlh0xefrsIamEndwGSLsA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.0.tgz"},"14.2.1":{"narHash":"sha256-LuaDTqLAYH1ENWQXZrZMP2zSZCSQTCLyQLnmzWU4cQI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.1.tgz"},"14.2.2":{"narHash":"sha256-5//PZSy9xHn3UgnrijRyFSTCiq5zy5ruwewDCjWeUTQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.2.tgz"},"14.2.3":{"narHash":"sha256-dEECi18l/QMltCcNfMkIMU+Ni6pHe7qO/wSeQfzyQOo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.3.tgz"},"14.2.4":{"narHash":"sha256-Ec8l+H5NfbzQXAq0sU8SLei5veE9C9dFsAoW0EzvZc8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.4.tgz"},"14.2.5":{"narHash":"sha256-suiFqAZ2IlStmmkXDcQxeTrt/TtY63CdHckHFQVKtuE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.5.tgz"},"14.2.6":{"narHash":"sha256-BhF7IXjJ//Z0EgJ22rCqON1tx1CxsEEmor+KRttIKzI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.6.tgz"},"14.2.7":{"narHash":"sha256-BgtGhmQU4EVcDyL41KMmykM1CmrM5nVolnX5DK1xrXI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.7.tgz"},"14.2.8":{"narHash":"sha256-4xN4iKomRvbx0PQf0yW44Ijf7c5XVBJ+YaDRSFB9DgE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.8.tgz"},"14.2.9":{"narHash":"sha256-Jh/Bj/dTdEBrvGklybuLd94kLvhH0CRgVISP7YWE8jY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.9.tgz"},"2.0.0":{"narHash":"sha256-L8Qx/RYXpR9hlLBdnIKtz+76ASOgF/9pAvp3kQjXzMw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-eGM+DwNT2WjZYQDlsfSXHMWL6FxQVoASLgJmZWXc5bI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-6nr9ZS4zMuwIZkasMdWpAqnHMYpxnFB8z2jTxNscWJU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.0.2.tgz"},"2.1.0":{"narHash":"sha256-fl+odGwIZ+Nj5Jo7nyEzRo60NCEP6gCTPm1Z8c2Hm50=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-ZWiR5UAxNVMavkkGxk1XyDhAUuQwSJbp3G8Pd7OGV4E=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.1.1.tgz"},"2.1.2":{"narHash":"sha256-Pzd572KprGjKr2oE/szGyuDdopm3jipMzCjI9L2R0WA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.1.2.tgz"},"2.2.0":{"narHash":"sha256-cHDAl3R2BPkF/ZTDv4i8jRl2fnpMVr95bNhi90gm1M0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.0.tgz"},"2.2.1":{"narHash":"sha256-meOV5upuRP1iQLA9cU0Ipp3DsJStXtS3l7nhRh9XTrg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.1.tgz"},"2.2.2":{"narHash":"sha256-P1Zue9h+df0CprN9fDBMkarCZGVGcYg/vrhdLSICH3Q=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.2.tgz"},"2.2.3":{"narHash":"sha256-kXser5ArQmU0Ug7kPVz/fHU0Iz3MqTDI6xI8z8dRpeI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.3.tgz"},"2.2.4":{"narHash":"sha256-A7bRCmxzrN2Qm0P2QrH/2CQMYxL1pcK9eF5U7mG2kmY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.4.tgz"},"2.3.0":{"narHash":"sha256-FspwjuoZ27mpo6E4umiPr2jdJt9mvoXcB52l+nwIp/s=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.3.0.tgz"},"2.3.1":{"narHash":"sha256-7zE+VTHDI+Vy/ieYZx0Nqkpn7149iTltubcwyZBYjUQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.3.1.tgz"},"2.4.0":{"narHash":"sha256-9jQMrBCXzwUKZpUVtlrgO3XrD1tnL1FdKVe/ijA3PVY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.0.tgz"},"2.4.1":{"narHash":"sha256-1jkv0qD3ZQhrvesqiBxzTMZCoOOG2aW5BUGluf+tezg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.1.tgz"},"2.4.10":{"narHash":"sha256-g07Pru6Flds5vxU5w7vErWD4UXoDJmhRudiierX2tYQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.10.tgz"},"2.4.2":{"narHash":"sha256-K/iM/cft4N3jkxn/CgbFGtAZD49Hmqoxbf0eyDaSII8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.2.tgz"},"2.4.3":{"narHash":"sha256-mBAWp+Pz+Hw9cebLfhUw3Qmekq2BnUlNIgWINRhOrCI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.3.tgz"},"2.4.4":{"narHash":"sha256-sBl5B+pYu16T/nVJ5qetxKMNka4c7CrTBsoKqZ73tzE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.4.tgz"},"2.4.5":{"narHash":"sha256-TOqZ+mGJAzjcdIk+N0lhL5SZlxiSq4cNTLZjfQlzM5k=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.5.tgz"},"2.4.6":{"narHash":"sha256-kODFRTx9LMjXohrma5lAESy//P996caTFcQ4t9t2BJ4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.6.tgz"},"2.4.7":{"narHash":"sha256-mWKNWhn99r3pvxLdJ5cRYFNa4hCM6RL5WxOlCBHEqKQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.7.tgz"},"2.4.8":{"narHash":"sha256-VBfCVRkIw9nk4quALJpmpCiKxBDewGTl3I65CWTbUQw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.8.tgz"},"2.4.9":{"narHash":"sha256-rk3W7PX4SEf/AF985Jq71fY246R4/8bskiaUcS2GxzA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.9.tgz"},"4.0.0":{"narHash":"sha256-n1Am3TFP/C+iPRWb4aqRy7tLJVBuUicxUS7fG9oV5iU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-mg3cmzuf055aJKrmWw31g5GO5ysykTWINBNdOZA518w=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-799+DmhFLZpACAe9c8UDIq9pE7rz+jz0NIIEvN3YIGY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.0.2.tgz"},"4.0.3":{"narHash":"sha256-c76En9WxXHbJK/cK+aukRi9KMMydo/kJylvQyZytCYo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.0.3.tgz"},"4.1.0":{"narHash":"sha256-oqH11/VFhsfv7/VQq9feNt0qbyvqQN7ukWfwFBEdSjA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.1.0.tgz"},"4.1.1":{"narHash":"sha256-Qtj3nGpA73pkgR/iVxG0Ub34XjEGMoL520B2wvpRCoU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.1.1.tgz"},"4.1.2":{"narHash":"sha256-JIqyZwb7gyr20bkHYY47jKa50E5iyIiPezWjLBFsTtY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.1.2.tgz"},"4.1.3":{"narHash":"sha256-aA8kGdLnSW+9xqdrTL6fFczaij5uPMHwgckY9OMs4RY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.1.3.tgz"},"4.2.0":{"narHash":"sha256-p7XGpLAkKfzEt2Mnupyg521miYbeCCx70mn00RpsPok=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.0.tgz"},"4.2.1":{"narHash":"sha256-WUmp2yQ9H/LeijQY0jCrOz+W2//3UZK8U3ZM00ini/g=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.1.tgz"},"4.2.2":{"narHash":"sha256-/gA0kuaNSKLVpOydz8k2J7z8ax+7QXXcCe/fNErXK4E=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.2.tgz"},"4.2.3":{"narHash":"sha256-JTWJEUo6m46sdYDJCv1AWNNXEK8qFjrfUg2glkWFgGI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.3.tgz"},"4.2.4":{"narHash":"sha256-7ENfhWSPbA9RkUSLN2LKJlcQ1iu/g9UT1VPX/dtqRkA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.4.tgz"},"4.2.5":{"narHash":"sha256-vJDIN1jB5rbdgrVWdhqPuda6kT/HokfqOzqPyEOMsCc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.5.tgz"},"4.2.6":{"narHash":"sha256-uOKSpleXkL1o8sy3rMcHCJwe3xl1aoMiakdI5nKd/LU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.6.tgz"},"4.3.0":{"narHash":"sha256-GuTkhR5EC3/h2FnyLG+LVkrz+Ax1pmquE5rRc6395bw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.0.tgz"},"4.3.1":{"narHash":"sha256-xyaNPtDxWfyDbev8MTh2K7Dl3SDxoyziThb49NDsxZc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.1.tgz"},"4.3.2":{"narHash":"sha256-wXZvV5i8yDPMT24MP1zkBCaTIpIsrVHq10iTp2D0dIw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.2.tgz"},"4.3.3":{"narHash":"sha256-aVoBDNl72uSSZmrYIKaISUigebBJW/rUifCEUNwanlw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.3.tgz"},"4.3.4":{"narHash":"sha256-/qH8xHMMywXs5QT+Me1f+pOvFu3Wu/KCdxGO0O8aOJA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.4.tgz"},"4.3.5":{"narHash":"sha256-JUBsC0jGou5HeRL04ZPfhKnxz0DGO6y3jqkpcEtjMkQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.5.tgz"},"4.3.6":{"narHash":"sha256-ho63J9SOeNqc0qzDghYj5F1REnYQ6YanwtPkF63v8yY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.6.tgz"},"4.4.1":{"narHash":"sha256-1odKOIjtzPcnz8zjyY3wwVBuvpuIVOHz5hQ4rViPWHI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.1.tgz"},"4.4.2":{"narHash":"sha256-Ba90hSqM81G113lBIYVv9vcQfDKjLoZXEFSzWn8Czg0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.2.tgz"},"4.4.3":{"narHash":"sha256-kVGbhXlNi3LBSF/x2tqFLrut6bHVZ04j4oIOzXmZ4CU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.3.tgz"},"4.4.4":{"narHash":"sha256-iH7CbI/NtPBfXTOpu/8FSCio/yNbcBfiPVdX8NL1/H8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.4.tgz"},"4.4.5":{"narHash":"sha256-ZqyQ7xNBOymJyMlnROAKtzsINonjeoZiXeo7UEhRmWQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.5.tgz"},"4.4.6":{"narHash":"sha256-Nj+gU1jypQam86V+FyKWOj5uhOG2QppqPmCqvaMS8YY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.6.tgz"},"4.4.7":{"narHash":"sha256-xRGm8R5ySPhPJ07sdWwo9sODybhAD1BeDftTjZIeVMI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.7.tgz"},"5.0.0":{"narHash":"sha256-FYcxB2Bf/cNsOgGh/YTa39i5+qACRp8N/QgjUblfe4A=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-hI8NOZrc1JOn7fkAM1lMRyztiGrQsiRu97/n4WLacqk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-hRNqmxaJQSmDHfC/DXOX0fM2JDj2UyHFt5Cn0urvhCM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-4LkqTKElX9ntEjsMS+KwNuOzTKPeHIStYL3aeRMzoNI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-3KG9XUn/nII3/aDdo/skAx2+3mHZXoNtQp3zWqGhvJ8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.4.tgz"},"5.0.5":{"narHash":"sha256-00kH/3FI5eQHCOWAT7xwTFYuu8wS6SU6tXyPIzu7W+c=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.5.tgz"},"5.1.0":{"narHash":"sha256-UW8ziV2wwCZNwbw6XCt1czBx4LsAF6xJWfWI1bvJFwg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.1.0.tgz"},"5.1.1":{"narHash":"sha256-N4f0JdaHi/LMYiy6kLdzf0FIgqdeeuhUTe57EyWF48Y=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.1.1.tgz"},"5.1.2":{"narHash":"sha256-vEO7GQbsSB/irNJWRhreAdRYq2VtajAYlxb04jLLocQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.1.2.tgz"},"5.1.3":{"narHash":"sha256-NspzMg2yIkYHPsy1AIqnxIPzxsM118lRKLa/bVjHQ/g=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.1.3.tgz"},"5.2.0":{"narHash":"sha256-i5GiO61vYjQ2pYTqxEwL3wSGPorZ0gfnEKU02C+2DwM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.0.tgz"},"5.2.1":{"narHash":"sha256-vJYCvf+uQ94VJiHKAbynzOnJ75bIiWIdjfxYtT+rEbw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.1.tgz"},"5.2.10":{"narHash":"sha256-+tZ2bX8WqbO1U+jNVQZ2+W4iHM9xAIGulYZqN4Sa+KM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.10.tgz"},"5.2.11":{"narHash":"sha256-EQW7ZdXW/++zYe7C4Ifuq5zCa9Siw+NbG73wOl7l0KU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.11.tgz"},"5.2.2":{"narHash":"sha256-XwhJ5iDpvp4YvmlBeK+yXevU8cBK0eLrTUKeh6pWji0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.2.tgz"},"5.2.3":{"narHash":"sha256-z6j2NaKyKOHzKoHHhkh29X0sQB4y2pyW3V4TXlOXcmg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.3.tgz"},"5.2.4":{"narHash":"sha256-zNC/BDSY8f2t/lagwOahXaqT/JpD+JW5neGBQ2ZyYgo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.4.tgz"},"5.2.5":{"narHash":"sha256-NiId7Z4PyVk/eohahSua+x4C3ZRiq03GMh8EV4hiJD8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.5.tgz"},"5.2.6":{"narHash":"sha256-Ldv67QXouLOSxwaVfacDJ4d3CRF2qOT36ZTTWQbhC+k=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.6.tgz"},"5.2.7":{"narHash":"sha256-XUv/wJPCfOlL0Ey/l3qihklrAo/wBYbwEEMBnz6LwLg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.7.tgz"},"5.2.8":{"narHash":"sha256-IXX867Ntvq8B854yK8orhPFORWoYn/7nD13Yxvk058c=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.8.tgz"},"5.2.9":{"narHash":"sha256-tmalT9xSFqaE27HY41novaFTwhACAvDqlYOUs5T0QSo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.9.tgz"},"6.0.0":{"narHash":"sha256-6WCpQJ1qA7sI3AKXPrgubcDxW9cxE9zLTzdFMNFn3BM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.0.tgz"},"6.0.1":{"narHash":"sha256-dymAU699q2/yJteHyBANJNmhkAmpRcSemLKcnLti6lQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.1.tgz"},"6.0.2":{"narHash":"sha256-8NLE9V0W/uJJx34N5x5/zy0jGwtueuTr7WiHXLSBjNg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.2.tgz"},"6.0.3":{"narHash":"sha256-WYd5J0vToWkvFasmW0J1Kj+gLdXtW49aiEyQvi+DtgA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.3.tgz"},"6.0.4":{"narHash":"sha256-qP4HpX9JCUfedw8qwNH6hKm4Xkbmup8LXx6/Qf2+jhg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.4.tgz"},"6.0.5":{"narHash":"sha256-Uz9GvP8TEiWolgqYSteYjse7CEzWbO5qKhdjDzheBqg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.5.tgz"},"6.0.6":{"narHash":"sha256-yoE5EhRR6Cpig2KVlzkFktIxIUqQTeUy2ZuJbFNDVMY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.6.tgz"},"6.0.7":{"narHash":"sha256-NnJTnPBwAAoWagezHbW+mBCWbgoztF7IFWXBGP+jFHU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.7.tgz"},"6.0.8":{"narHash":"sha256-ipiVHC3jIQTgM5um5p3enqM/2Umyieny0TGB9Hbb8ow=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.8.tgz"},"6.0.9":{"narHash":"sha256-ASFfiAJRy+O1S1KParzvs32bRX9VzIBmt3amikyb8Mw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.9.tgz"},"6.1.0":{"narHash":"sha256-Wbmaaqr9OtrSZvlTNs0Cciv78lAiQT7E/JRbZ6IW7Ow=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.0.tgz"},"6.1.1":{"narHash":"sha256-iqQtGNTKem5n5dZxt0QLhfcjYDmcFIh5sWdlgtY5/ys=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.1.tgz"},"6.1.10":{"narHash":"sha256-t37e4GjdSD+elFwdU36Nu6Pn5k82rWBQ3pp8Zmm1yKQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.10.tgz"},"6.1.2":{"narHash":"sha256-gftuPLMKGhwqTFnc9S3pA/aWv4wFq+2ZAT328wuCu+o=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.2.tgz"},"6.1.3":{"narHash":"sha256-L1+YgZIVVDWmLsa48aM35AZefEsID6kDR6BBnKxlo54=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.3.tgz"},"6.1.4":{"narHash":"sha256-8mRy55jEQVcpba/6qgoZ0FO36f04PRKcVQznGNt2Hcw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.4.tgz"},"6.1.6":{"narHash":"sha256-j07WW90JkSEwPd6x5w5LtwUbneUTrArrCJRNOIDau0U=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.6.tgz"},"6.1.7":{"narHash":"sha256-oeOztJoU/96CT4ux3eKiEqgGpJyneOaQ5CaOl69HSfk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.7.tgz"},"6.1.8":{"narHash":"sha256-Dp7e3Y2KSMDak9MqfxXbvpY3I15DiLgzxUksUlaI6fw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.8.tgz"},"6.1.9":{"narHash":"sha256-PLeNFa67w1xOgy1dEfcZC4duCSdQHbp7C6/i/FBEDbc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.9.tgz"},"7.0.0":{"narHash":"sha256-Qw8UG2O2nL0KTNY4MFccLrY97v8D1R87dfEJc2Y+OCI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.0.tgz"},"7.0.1":{"narHash":"sha256-S7PtzZa3jMXuHv3OrM9Y2me8bzEoVGfJ1VKhUKhSW5E=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.1.tgz"},"7.0.2":{"narHash":"sha256-ZS+AFG0q12NkLwk50fvP/r+ZgOfmS8iJ0nC9UicRpG4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.2.tgz"},"7.0.3":{"narHash":"sha256-fXUmCR1p5buo1QT9VDTCAqpsA4hq74ezAiVE6/tmXTM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.3.tgz"},"7.0.4":{"narHash":"sha256-AoSPlTajVoKrT/FRt5pIBDschowHY3S1iprUezNjDQg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.4.tgz"},"7.1.0":{"narHash":"sha256-k/0g7FXHvqzVx/d4X4fqwqeLa2l/qY9eSCPtuVSl0cU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.0.tgz"},"7.1.1":{"narHash":"sha256-pRGy28uOLVTMlwQOCLz1sCvIGvS7zbpZM1KNyekwf18=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.1.tgz"},"7.1.2":{"narHash":"sha256-deKRI4UBycLyYuDr/yyZ2a7LrO61BVgDJI337C0zjws=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.2.tgz"},"7.1.3":{"narHash":"sha256-DTAvOPqgdD9qqZ7gc7OyQqqiz47P55hkfKJSWTfvww0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.3.tgz"},"7.1.4":{"narHash":"sha256-6HSqHgtfn2ptKW91LZfnv14yhGgs1KDtOn5gXp0rHGc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.4.tgz"},"7.2.0":{"narHash":"sha256-iT8ScJye5gn1KzBH9DIjAGe5QrPaCWCsPtLM8CNU6b8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.0.tgz"},"7.2.1":{"narHash":"sha256-za2KTySryqUeMKVhCN7Jm/bOQcCE4T48xlFRoPfGZ58=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.1.tgz"},"7.2.10":{"narHash":"sha256-W5ezMa41ZDKYHPAmyZIner4pCt2sh6AJdf6xPG2eXpM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.10.tgz"},"7.2.11":{"narHash":"sha256-3w0Eydg0zubk94SBg9noOcfI9MM2Ob6mryJ9mZBrYGs=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.11.tgz"},"7.2.12":{"narHash":"sha256-aB94pudCnJUuye3YRMFSDMcaYLtqC9rBYpTUT0X/Yx8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.12.tgz"},"7.2.13":{"narHash":"sha256-dT/yL5y1aMPG24axF7kwh1PH3VQte2zbwj+iYLoYPvI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.13.tgz"},"7.2.14":{"narHash":"sha256-4GR5uoEPdotGclH3oVpPKE86lG3+ltcNEzdcstfUcI0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.14.tgz"},"7.2.15":{"narHash":"sha256-GM2gincecZLN5FpgxwpZTE5XjbF2yOFUMHDuwygOmaU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.15.tgz"},"7.2.16":{"narHash":"sha256-7MeI1CAUcKd8qHkiyni74PVcrK0pD7JOETR/YOcxbWk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.16.tgz"},"7.2.2":{"narHash":"sha256-m/L+XLaL8jLPU31HSSwiw/kuR4BCgQ3F7tmCk240hFs=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.2.tgz"},"7.2.3":{"narHash":"sha256-nXOTcf/Om2PRXmI9dVYEe0AXsMIZhG2kgRJzJ4kXSLM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.3.tgz"},"7.2.4":{"narHash":"sha256-kszQ2Dy1WryX/yG766EzZC7fOnctiL8NXYr6QlR7kVY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.4.tgz"},"7.2.5":{"narHash":"sha256-kemumdY37u+G8yy49vAHzqEdIIntEX+XG4GWUUeR0lY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.5.tgz"},"7.2.6":{"narHash":"sha256-BzO0Y6eQDuKs6wHkUVsn1hIeOO2rahNbXtQLtd8gzKM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.6.tgz"},"7.2.7":{"narHash":"sha256-McFi1M5KxarX9NCRHxWNWiyUMNQWKS30oIemtqiMZ3w=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.7.tgz"},"7.2.8":{"narHash":"sha256-jcMPC//PDHTIqqC+6KrFaXqntT2wYbiGSQ02IkdE7HY=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.8.tgz"},"7.2.9":{"narHash":"sha256-mquBPuMmsMRBTfeTMsp8bh7LAxgBRNIZeqBhBVaeLHg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.9.tgz"},"8.0.0":{"narHash":"sha256-7PasIJBGEy59FDpyulof7QomhCAbyru/6dMHTyISsK4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.0.tgz"},"8.0.1":{"narHash":"sha256-aM7/x4zhvp9Aa17fZSyzuXMo0l0BmVqabk9WLreTvv4=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.1.tgz"},"8.0.2":{"narHash":"sha256-VSTbW0ZAdDPSTlrGnQv2r7IzV/2EBg9TfmeI0DbYD3Y=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.2.tgz"},"8.0.3":{"narHash":"sha256-DmgTack67wMLQFPbrm51AZhoU06CkwlYtZHaSLN7WbQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.3.tgz"},"8.1.0":{"narHash":"sha256-Bnjd5GZ8Uf5KZqSGCENgHZpDaNHYH6YQ6WBU7BXB7bM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.1.0.tgz"},"8.1.1":{"narHash":"sha256-hs10Bk2Esv84LplMyF1C1W+vIp6iXibPgvCU+NpId58=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.1.1.tgz"},"8.1.2":{"narHash":"sha256-2ZCIsE5jAEtpjI/MBQ+X2mcfh8cr8MBk6Nf8kbDDyiQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.1.2.tgz"},"8.1.3":{"narHash":"sha256-eW4r6ScEx8y1fXsPuYovKf2Sir4vsui0iXFuC9KZe4U=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.1.3.tgz"},"8.2.0":{"narHash":"sha256-ASpCLJHXKrDOjuUmfRSYY/TylLJGgqkdvyk8SJhXNIs=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.0.tgz"},"8.2.1":{"narHash":"sha256-HaozFO0dKkt4TaH5iMD+jftgdmI1aFa7ZqzxQ4dABFk=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.1.tgz"},"8.2.10":{"narHash":"sha256-uTLNcYQXPXPwgzb4UoAPWRxnTMt7XoFnHqYwGMHd0RQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.10.tgz"},"8.2.11":{"narHash":"sha256-GQQNcx80B7KcE/O/M8GkRu9BrDNp/ccb0ckZWnOGGgM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.11.tgz"},"8.2.12":{"narHash":"sha256-TppKfZfzQ8PadT9iL1MR0WaJksjbL7Sbd6CC4HI9xa0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.12.tgz"},"8.2.13":{"narHash":"sha256-PPpHmTo9U1m3hXnRb+CM5GML92XshWaW/Q093m29FZ0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.13.tgz"},"8.2.14":{"narHash":"sha256-vbRyj+U9h6GLwuM2EjReofJri1+PmNF4EgZzvUQ6VcA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.14.tgz"},"8.2.2":{"narHash":"sha256-ludFtpynyVVj8rWNwwMB7PQzon1G3UyQZzfRsAZdT50=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.2.tgz"},"8.2.3":{"narHash":"sha256-Y7WYWgI5QY+h92XYuq7RFooUhP6F9bngnVuEGe4CJSA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.3.tgz"},"8.2.4":{"narHash":"sha256-CMUKi9iiVN9uimX6mmQoLHETSS5xC6uEo5ST5gLeMYU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.4.tgz"},"8.2.5":{"narHash":"sha256-GynCHjPMR2KySvFvf3UehitNoY1hbmA7EmxU3ONQNvM=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.5.tgz"},"8.2.6":{"narHash":"sha256-Q+DTwyo5zwRlLp8Z/W3LWIq+iAqGBmk6V/u9HvxDtT8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.6.tgz"},"8.2.7":{"narHash":"sha256-9sPZekXhox5cdGmz4Hoqx2fafr5Y2Mk9QRTT8KOzNCU=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.7.tgz"},"8.2.8":{"narHash":"sha256-yzArblPNwV+Evh5S87fF+8nMUAjUik2AkBp0dqgDrD0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.8.tgz"},"8.2.9":{"narHash":"sha256-nLBhLA3Cfs2ly6HccDQQ86HE+1FLKzTT8fDwQynhkpE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.9.tgz"},"9.0.0":{"narHash":"sha256-eRQdaN9uyOeP8jznnWSZULBfw87AdB6fv94QDToPCxA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.0.tgz"},"9.0.1":{"narHash":"sha256-tdGCf60oqMCLV33p1a0S9QYnHQKgQySwJIuS4UHWi10=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.1.tgz"},"9.0.2":{"narHash":"sha256-DoxcoX4iqQREcoaLgztk6FWCFomfi3NWccnMvBf1OvA=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.2.tgz"},"9.0.3":{"narHash":"sha256-1KE1/YeuDHGhFLTksdMzxWZ5g6nhLoQ9xZ0k3QwugJI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.3.tgz"},"9.0.4":{"narHash":"sha256-WXtz05VlIhgJhgETAqhvQecQ3HOqRpHGZ/MBd1OPMtE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.4.tgz"},"9.0.5":{"narHash":"sha256-K9WZYG0WSopCfOEBfe1C1av8rsPiscnouORKodX2SuE=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.5.tgz"},"9.0.6":{"narHash":"sha256-x3X679YHSc4EuAdzZC1xa8H6QZbjVip3QdZjclcBLzc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.6.tgz"},"9.0.7":{"narHash":"sha256-PeucVSUDddkTSZBKH+6VufwH0CyBz2ih1ZFnJn20BDo=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.7.tgz"},"9.1.0":{"narHash":"sha256-aA9gsW0lSLb3vRR4Q/V8vGM/qD9RHF1jKNHGSZJLMqc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.0.tgz"},"9.1.1":{"narHash":"sha256-GHWSMNi2OcISbYf91TyfEJ6cTMrop4huzg9SfsnAVS0=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.1.tgz"},"9.1.10":{"narHash":"sha256-q3q5Xa0KvqujUUqLgltsnMnjODjAd+bZ+f24EQ6Holg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.10.tgz"},"9.1.11":{"narHash":"sha256-Va894o/hCXBQPMZovoFBXG4Lum3X3PgAcwNpH+S+w+Y=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.11.tgz"},"9.1.12":{"narHash":"sha256-aGaR1E9v3HKVB2ajYSe3ygM5Vr27tdPHIjnmUGX+hD8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.12.tgz"},"9.1.13":{"narHash":"sha256-wZ9xIiMIeoy3SJtFcZA1YUMs8D7E6rdKnQMOMWXC1Dw=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.13.tgz"},"9.1.2":{"narHash":"sha256-cg+9sXQo4OdtpLBEMYbk9NG8O07DZMqUOqOGk+E6s8o=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.2.tgz"},"9.1.3":{"narHash":"sha256-4I/Cb8OqFwtSU90/Y7xZM0PHcRUga0avwhejcINu4pg=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.3.tgz"},"9.1.4":{"narHash":"sha256-WQ7KdTR64Xl6G2DsRyKizih42SfAtNahRshJBRko9k8=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.4.tgz"},"9.1.5":{"narHash":"sha256-hQ+43rNnBabObTIWsuaEc20LGfcx3PdaFgF0r2DMXcQ=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.5.tgz"},"9.1.6":{"narHash":"sha256-zswq1hFmOb6TFcUhXj6MxNdwd785H1y6SB/jTELW1Ig=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.6.tgz"},"9.1.7":{"narHash":"sha256-ITYMDgGZtEeIUGzanBOt5Anqfrbj02D375AyuCCRiZc=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.7.tgz"},"9.1.8":{"narHash":"sha256-lb18mJEQKBrLRn3aejIuUrIW6bvvOKVniUH6cS7vUrI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.8.tgz"},"9.1.9":{"narHash":"sha256-DRgWPnbDXMKES2dKnCb8DECaTtxroiUmW4t3o6C0oYI=","type":"tarball","url":"https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.9.tgz"}}
+{
+  "10.0.0": {
+    "narHash": "sha256-vwFiPQtVmgbCuo+ahhjk6bC+dRvbbA9htBrDcHrcBnQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.0.tgz"
+  },
+  "10.0.1": {
+    "narHash": "sha256-r0cXs5k18nIdN+8qtGes6g8eWVwC0NBE1msLRrp/b9E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.1.tgz"
+  },
+  "10.0.10": {
+    "narHash": "sha256-Pqd/Nlq2WIL8svN6VPBkNpAR5ORDPTzEdJ2MHCw8AwU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.10.tgz"
+  },
+  "10.0.11": {
+    "narHash": "sha256-wn0vAtD/zNEH1RmZXM7307ot0DxxIEp1q485sifie0U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.11.tgz"
+  },
+  "10.0.12": {
+    "narHash": "sha256-GZ2o6z/r3kHojwQt0mM+XRWkkF1jqj8/iVbTGJUhVnA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.12.tgz"
+  },
+  "10.0.13": {
+    "narHash": "sha256-iNFR/hYLw8vcU5id5tm2CFcwcnBvPaH9NXYGVePcwp8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.13.tgz"
+  },
+  "10.0.14": {
+    "narHash": "sha256-uIJ5CTTPO2CxdRzk47+oZ4He0AdYCz+urEEe2EuN0ss=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.14.tgz"
+  },
+  "10.0.2": {
+    "narHash": "sha256-r9NL+UIKDoIcGVdMxZ/bIB8xJMX4d6WgDp3W65GxGoo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.2.tgz"
+  },
+  "10.0.3": {
+    "narHash": "sha256-Ty8j9K+UXoY0H4ZRr/nls88kS2WocUXvWu3miZE3RN8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.3.tgz"
+  },
+  "10.0.4": {
+    "narHash": "sha256-z43fA1Ge6pwalr1YmfUPQhYbLypafS0YcygkgoWsLPU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.4.tgz"
+  },
+  "10.0.5": {
+    "narHash": "sha256-saWq19M5GC4MSMEy9HXI5Yp47LwAUoyRHjLsfPz92Rs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.5.tgz"
+  },
+  "10.0.6": {
+    "narHash": "sha256-TN394XqaBPOQb5N+VFZULS773juxa+xLEs7aHU8cfTA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.6.tgz"
+  },
+  "10.0.7": {
+    "narHash": "sha256-vR/qyJqH4BehGViHsKHACc1/uRmLP4MhLY+Bh+dAgeY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.7.tgz"
+  },
+  "10.0.8": {
+    "narHash": "sha256-K3in3qerCaPRuGs/oRNnBGgwZMGzmV5LvUzqyJmpdJ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.8.tgz"
+  },
+  "10.0.9": {
+    "narHash": "sha256-60Hv+i9+McowrDDH7lADkR7Bf0LINd3kRp+/zsIaiV0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.9.tgz"
+  },
+  "10.1.0": {
+    "narHash": "sha256-aPkD96n9m1KFz6vacAl+e2q4zbUmZJA5gRe4N4H4ei0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.0.tgz"
+  },
+  "10.1.1": {
+    "narHash": "sha256-mcXfnDmkLrjqVLFVzB7bBBJ7KKIeZ9+SMJA+5xVuWis=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.1.tgz"
+  },
+  "10.1.2": {
+    "narHash": "sha256-TUd0lWYoF4zZlJ4CBuU+w6NFa1qWwoPvUgHRVZL/R9U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.2.tgz"
+  },
+  "10.1.3": {
+    "narHash": "sha256-IU8gRDpGZ2hCXrttS04dev8QRDRgqkvJeQhNlq2V4JE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.3.tgz"
+  },
+  "10.1.4": {
+    "narHash": "sha256-ShTmD6+oqT3Iw1C8dt/zn+p/dURCwvPLN6tOmngjPHQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.4.tgz"
+  },
+  "10.1.5": {
+    "narHash": "sha256-Erea9mGpScpKuyBxqJJ7k9+jtwpQtVcba31GxA8YjmU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.5.tgz"
+  },
+  "10.1.6": {
+    "narHash": "sha256-HNEi67/DYEbDKy6nssA2ws1QbiNMaL1BWYFgbUd7IMw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.1.6.tgz"
+  },
+  "10.2.0": {
+    "narHash": "sha256-ociHkOcb2egO9AtLSuBTvzJgFIaAXhgN1QCkFEyiV6g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.0.tgz"
+  },
+  "10.2.1": {
+    "narHash": "sha256-IGTawRPn8Dmo7teepFuI9JBYvh4HH6H8dgM39G5TyYI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.1.tgz"
+  },
+  "10.2.2": {
+    "narHash": "sha256-VIPpfb1CDMN2PycwD9GwTo3QRv0Ys/cb3Aa5hmLzuZk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.2.tgz"
+  },
+  "10.2.3": {
+    "narHash": "sha256-CRm3/eHiyzws6SD8tiCqCP+zAHhbqQrVXTVSVXb7F4I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.3.tgz"
+  },
+  "10.2.4": {
+    "narHash": "sha256-GKXyU6dTy6uvyVU5Uhei+Wh51Vx6sjvHqqeuBUyhlSA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.4.tgz"
+  },
+  "10.2.5": {
+    "narHash": "sha256-DObKCENQfD5K4qFZgLrCYQEqKWgnWSaoPHmPxBh/hFk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.2.5.tgz"
+  },
+  "11.0.0": {
+    "narHash": "sha256-wdlM6WvGAaQqC2+jQvONlyTu3NXPc06qm1uuLST9esg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.0.tgz"
+  },
+  "11.0.1": {
+    "narHash": "sha256-IjuJRQXz4/MysZlYTbiAnCavXmLs8nLKf80W0hyYd5U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.1.tgz"
+  },
+  "11.0.2": {
+    "narHash": "sha256-nkeFBlOMXw6ch5QMslol5qXIWBOZufpYXPnlclwEnq4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.2.tgz"
+  },
+  "11.0.3": {
+    "narHash": "sha256-RnkmFHGBpciYgpehb8g3Xk0VvA/01n3xEGKOPfyi/bE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.3.tgz"
+  },
+  "11.0.4": {
+    "narHash": "sha256-AI/2qfA3ZCS6mLUAWH6zMAqD9UrnfD5GLsBfgmTDUCs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.4.tgz"
+  },
+  "11.0.5": {
+    "narHash": "sha256-pREo9Tvx5PGof5uhB8y4nQ43jRyxDB1XK1eqkmnGFN4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.5.tgz"
+  },
+  "11.0.6": {
+    "narHash": "sha256-jUmqIGs7tI+GqJ59NQ/S81kEFOfwoMj3WcxmUf603tw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.6.tgz"
+  },
+  "11.0.7": {
+    "narHash": "sha256-NiIHW/b6Q3W8PQUdTvemPe5anvboLe1qrYm+IhGxw7I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.7.tgz"
+  },
+  "11.0.8": {
+    "narHash": "sha256-SNGgl3t9Yyn5yEBjlxJlYQY1ZbUJ1blRBlsc6Kfgywg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.8.tgz"
+  },
+  "11.0.9": {
+    "narHash": "sha256-YH22IjP6s7IY6uO2YK5drc3zMZMPlKjTm9m8GcnWpsk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.0.9.tgz"
+  },
+  "11.1.0": {
+    "narHash": "sha256-kfcVP9Db4p7ZoPUyEDUXQPT1n4RlH4h/v00b7a0qAzA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.1.0.tgz"
+  },
+  "11.1.1": {
+    "narHash": "sha256-wFyohLA+dXJtvnVZWjdC4npKRFi3tr3mL0Nj/LhhiiI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.1.1.tgz"
+  },
+  "11.1.2": {
+    "narHash": "sha256-Rhh/8WRLWn6H0X/bR2c3xooLLfrBMiXLKBp3Hq0NejQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.1.2.tgz"
+  },
+  "11.2.0": {
+    "narHash": "sha256-Yu19gMt8Q/NckEZk53J4IlhDHttwAjzp4cKyEJYKQR4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.0.tgz"
+  },
+  "11.2.1": {
+    "narHash": "sha256-cQek6N+aIAwhW/emvOfqpUMOxVcloJK1CLO40mOYucI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.1.tgz"
+  },
+  "11.2.10": {
+    "narHash": "sha256-9r8x2fVOf2PmoeawBiyN2cgWd99eq4nu8yDWksbibDQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.10.tgz"
+  },
+  "11.2.11": {
+    "narHash": "sha256-uElbS3RWizHE7CzMbRg2MvnM/8LEFwybXwEInJoRQS4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.11.tgz"
+  },
+  "11.2.12": {
+    "narHash": "sha256-fq4obKu0M0hw/iwtxQZO15VRthDPyyKUA1VF5dcUXeA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.12.tgz"
+  },
+  "11.2.13": {
+    "narHash": "sha256-Tq7L5x81CDgZNPGe13RpMSbo5BQK5S06BCOSY2oF/c8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.13.tgz"
+  },
+  "11.2.14": {
+    "narHash": "sha256-rLsC3EDdiEDZF+0Dc1018EG0FvDGSdu56ui/UhATNaU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.14.tgz"
+  },
+  "11.2.2": {
+    "narHash": "sha256-ckuZmOUIVA420lTLAauINbbfVK+ldoquQo79JaB8wcQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.2.tgz"
+  },
+  "11.2.3": {
+    "narHash": "sha256-P4i/BkNXBY83tlm/peh4bbIlE0tsiLS6s6UyqNVmzic=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.3.tgz"
+  },
+  "11.2.4": {
+    "narHash": "sha256-LSjcxVHrfFN9xbKCCZgXdx88aFQrWMa2UvEaHYeI7Ww=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.4.tgz"
+  },
+  "11.2.5": {
+    "narHash": "sha256-y7ttEM6BhEAyT71xACVb7CZd6JIcRNv5OvGX9jLN4PU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.5.tgz"
+  },
+  "11.2.6": {
+    "narHash": "sha256-b3qKItqdfe38VUlxSll41JfTcybXsVFP+fAqRr6PqOk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.6.tgz"
+  },
+  "11.2.7": {
+    "narHash": "sha256-5okrxKUidPr5SBgruAMjSPcrJ93vd33/9N7FVwNTLX8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.7.tgz"
+  },
+  "11.2.8": {
+    "narHash": "sha256-mlH6kRC5Oa0aEJFfElzB8FLu9FDxf8XxTXUXiU+yxU8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.8.tgz"
+  },
+  "11.2.9": {
+    "narHash": "sha256-oyk3gtVIdKxTUefUn+P9PVMoixpkbSESG5iwktl2TdM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-11.2.9.tgz"
+  },
+  "12.0.0": {
+    "narHash": "sha256-60Dfz9m8hdaa7Q0UPs38i9mTvblfGwdkPNfLl1K5Syo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.0.tgz"
+  },
+  "12.0.1": {
+    "narHash": "sha256-gHEn2Rddr6jJNA/to4a+kCKKU+wsELXmTI28jw3+d7I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.1.tgz"
+  },
+  "12.0.2": {
+    "narHash": "sha256-vfsFRHGv8+3+RRM2gQn4MW1ExYXc0Yo0jpw4WXBcvbs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.2.tgz"
+  },
+  "12.0.3": {
+    "narHash": "sha256-0ifzBpWgZ6UMk4REppq0C5JYAWeNElEGotgEZa/of7M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.3.tgz"
+  },
+  "12.0.4": {
+    "narHash": "sha256-2QiWym0egaCMDJOKVnoIS5U0lKEf3I+6DbQa5TbZhCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.4.tgz"
+  },
+  "12.0.5": {
+    "narHash": "sha256-B8c8TNaDCh1raqEdcwDtAMgaO0NJLLByrwkoMibIvqc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.0.5.tgz"
+  },
+  "12.1.0": {
+    "narHash": "sha256-13CDCOKoRohV66BPt6mu9RrZZg6zvyEvv6upe0ENebU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.0.tgz"
+  },
+  "12.1.1": {
+    "narHash": "sha256-RlkNK3vg107htiUBIWSbG4J149/cwekqMc+4nPD5gIo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.1.tgz"
+  },
+  "12.1.2": {
+    "narHash": "sha256-Ao79u5n0S/dvt4lUZ/22sY83mooiqap7ILQ/AvaKKgg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.2.tgz"
+  },
+  "12.1.3": {
+    "narHash": "sha256-HojknazGFIE6EdITRunaR68uCVtmaItIlC/5rIpOnfE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.3.tgz"
+  },
+  "12.1.4": {
+    "narHash": "sha256-jTeumalVLsQQiqoHJLPgpSNr9bx1i9FEaNxYTCeaebM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.4.tgz"
+  },
+  "12.1.5": {
+    "narHash": "sha256-GVaoXdwc4hhyG1LI6NO2SEEAubPqXP2dFI/cGhgSFSU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.1.5.tgz"
+  },
+  "12.2.0": {
+    "narHash": "sha256-FTeUllwk80dCLcwfaHONm+WjD7EiW9TAoweJJBey7z0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.0.tgz"
+  },
+  "12.2.1": {
+    "narHash": "sha256-f78ggraNq8/FOn7oJGNcU1ycYNmAuDfjy3mKeZ1Ozjk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.1.tgz"
+  },
+  "12.2.10": {
+    "narHash": "sha256-j88SmMf/akYlPAwcw0JEO8+4sxo/JlRsMLubleaa5Ps=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.10.tgz"
+  },
+  "12.2.11": {
+    "narHash": "sha256-DsQ1PpqUc02KOPetzGP9/TuAmT3pRuU/jn9ltYbLA2g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.11.tgz"
+  },
+  "12.2.12": {
+    "narHash": "sha256-v+mZXfthvSIqb+3s4OIwFc4MzIyzl7Js+dgiu3+0A18=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.12.tgz"
+  },
+  "12.2.13": {
+    "narHash": "sha256-uPdv7JV/WQiLcJqN2zxmFLRot6A+8YC6SkUkPzJVlaI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.13.tgz"
+  },
+  "12.2.14": {
+    "narHash": "sha256-fhsfk8/W1IvdqoeIyTVPTE0fMkYMqZocLJETl8TAARY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.14.tgz"
+  },
+  "12.2.15": {
+    "narHash": "sha256-KhNOVHNqqAqcVDfJKs5kUJPQvqIj0h2vxPUMs9JpbK0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.15.tgz"
+  },
+  "12.2.16": {
+    "narHash": "sha256-/gSqVlE8TxJzJtVuHFv/bRCFNm5E8syATIS/DNbBhwo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.16.tgz"
+  },
+  "12.2.2": {
+    "narHash": "sha256-RTK/+qZwpigZuOCpnIf/9+hf+gehnTP+3539N8vQsq0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.2.tgz"
+  },
+  "12.2.3": {
+    "narHash": "sha256-stg4igIa0dakzTuLvfAG8bHOJkMMNplFYiK5IF2a9D4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.3.tgz"
+  },
+  "12.2.4": {
+    "narHash": "sha256-CmBldVJdzoqxuf8qOsN27tUPpysk2Yrpja1yHSYpDjM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.4.tgz"
+  },
+  "12.2.5": {
+    "narHash": "sha256-xwcPJXyQLXf73anIA9oAh8n1haHlVn10zUQQw2ntYB0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.5.tgz"
+  },
+  "12.2.6": {
+    "narHash": "sha256-hW9aO/ic5ykNBxQHKwQQ86Y5iAe1Byqrv6SPnF27tu8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.6.tgz"
+  },
+  "12.2.7": {
+    "narHash": "sha256-+PFNr48L2ZSTh4JqJozNtopXSofzFxjCY9KgtUHTvR4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.7.tgz"
+  },
+  "12.2.8": {
+    "narHash": "sha256-Hn0qYSBMW4pHNTBEPq1dAlCLzHAXXfL49XqNYMB9QtU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.8.tgz"
+  },
+  "12.2.9": {
+    "narHash": "sha256-URNO8wrNIQ0fM34R7PfNz8pfLWIyMvRZ9f3DrtlNduM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.9.tgz"
+  },
+  "13.0.0": {
+    "narHash": "sha256-p8h9aVz7R+uaEf/VPIIankjYTvrnjIHe3zxlpmYh5zk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.0.0.tgz"
+  },
+  "13.0.1": {
+    "narHash": "sha256-L0j+mYe5iL1hH4o6Gh58go9MDNWAMt+0S2VerD+h9N8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.0.1.tgz"
+  },
+  "13.0.2": {
+    "narHash": "sha256-rEijC4W0U/Gtc1xPH08ZEtTqADUd+GOfigyEO1kYYCg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.0.2.tgz"
+  },
+  "13.0.3": {
+    "narHash": "sha256-WOXJqGxEkFK86wDJoUSdN+AtIIpXhglLgYwdQPx5/hY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.0.3.tgz"
+  },
+  "13.1.0": {
+    "narHash": "sha256-FvUHVclCPKqPqBekNfuogbNpnMWt110s9cuOip6qryc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.1.0.tgz"
+  },
+  "13.1.1": {
+    "narHash": "sha256-vKfhKp5SxBtjVQwTnz+tCHlwv1sLdRToAwUxWf1JYBM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.1.1.tgz"
+  },
+  "13.1.2": {
+    "narHash": "sha256-yy7WgsnDD3BB6wlmVIGh0FsgqTqXcr4No6BUDEewo90=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.1.2.tgz"
+  },
+  "13.1.3": {
+    "narHash": "sha256-4bPPkQBBUMZKyUZLfKaz5mvZ1mp4kPEMqLU4v1dWYmo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.1.3.tgz"
+  },
+  "13.2.0": {
+    "narHash": "sha256-hxzTPTAudphyfK6Ai4ts+PC9xH2bJZW/Spt5gCvWV5I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.0.tgz"
+  },
+  "13.2.1": {
+    "narHash": "sha256-tytdYrydb0PSou0EDJhUeS8R0BmezOz8+ojw4fQrm+k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.1.tgz"
+  },
+  "13.2.2": {
+    "narHash": "sha256-9T7XmxxGQ9ZJcqn76z6fF4N8URTcOvdyjSnlNZPcBgA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.2.tgz"
+  },
+  "13.2.3": {
+    "narHash": "sha256-8+movxjBoq5GNyHzq8+6YcARK6wcz7/zTk/zoeCaMKo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.3.tgz"
+  },
+  "13.2.4": {
+    "narHash": "sha256-s7pAWQoGwCq4802AMZvoLy4ZC3RcYdQhxMElqm01/4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.4.tgz"
+  },
+  "13.2.5": {
+    "narHash": "sha256-2PuOpHA4gO5DdES5X9sTGRxfir+8qmbrhPyfHgOH5qM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.5.tgz"
+  },
+  "13.2.6": {
+    "narHash": "sha256-Y43Pk0dHtia73Hj+9HR8vpR18t9uREPDLjSQG8reEb0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.6.tgz"
+  },
+  "13.2.7": {
+    "narHash": "sha256-0Aux13nGqyGm2jsh2ZAMc9EE05VINbn3dnqdqO7pIto=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.2.7.tgz"
+  },
+  "13.3.0": {
+    "narHash": "sha256-ZTx6Dnfc9uTqULW8sxXoj831U9ltSQiMQaeOhKnwkXA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.0.tgz"
+  },
+  "13.3.1": {
+    "narHash": "sha256-YhF/upzkLmaZQU6/9eaIKlIKhX/I299A/wITzDjK4Fg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.1.tgz"
+  },
+  "13.3.10": {
+    "narHash": "sha256-RMmPTnPhBbadb8ctFetoTTStxFCxZLXyyykvVwcfnmU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.10.tgz"
+  },
+  "13.3.11": {
+    "narHash": "sha256-jkzefpFoCZObsugFecw4VNVwYzV0jFUEXN7pIdDGy60=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.11.tgz"
+  },
+  "13.3.2": {
+    "narHash": "sha256-WPdP+DlMgHUWJfH7IGLMNL9/oL0/tIYSGllSzhxalRo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.2.tgz"
+  },
+  "13.3.3": {
+    "narHash": "sha256-xtvNEGV1sD/WaILrt3lYYMj6cyMEGrn0D3KzLewHST8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.3.tgz"
+  },
+  "13.3.4": {
+    "narHash": "sha256-mnPTWnYJEUK7cfKuKrQfDwtggEySWXW8M9fVe0UHlH4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.4.tgz"
+  },
+  "13.3.5": {
+    "narHash": "sha256-dngwHhSvTf0HqBlkwLb8etKF/wNWcJsT8OjvkmNkpQM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.5.tgz"
+  },
+  "13.3.6": {
+    "narHash": "sha256-xLLQ8itAQUZZNHwqCV267kKWgAk7xuF+TXqu7X9UoJo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.6.tgz"
+  },
+  "13.3.7": {
+    "narHash": "sha256-VvVEITnFzAGiGTXlvlx2q+o5k3PWMhAebOY3aARPWIg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.7.tgz"
+  },
+  "13.3.8": {
+    "narHash": "sha256-2oTbPrWAArgo8/4SOeJRjXwMrY3nMvg4EwemoyVb4aM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.8.tgz"
+  },
+  "13.3.9": {
+    "narHash": "sha256-naIK58tDJafjU6S82bRGHAcf3Mtt1y6Y02I4eQxHWI4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.9.tgz"
+  },
+  "14.0.0": {
+    "narHash": "sha256-NaGKTTugUSEW1hV18bSTFR5XutE0WBP/aGVaKIvz3hg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.0.tgz"
+  },
+  "14.0.1": {
+    "narHash": "sha256-hQF/6czQEs73AemdJuVwUrX6laqw38jhPc6cX3Y9LYI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.1.tgz"
+  },
+  "14.0.2": {
+    "narHash": "sha256-2meHn03OhL6b/XmYIBfW9VMBdg5qNfDYOA55peMQgAs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.2.tgz"
+  },
+  "14.0.3": {
+    "narHash": "sha256-H/2wh7dIUAwu9uBOsYPo/ihmT/JItfk6F6V/MWNhzJg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.3.tgz"
+  },
+  "14.0.4": {
+    "narHash": "sha256-ugSWUCbgppCO4Qz/cawM14pcSUOCK9idWs3EyhUlbe8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.4.tgz"
+  },
+  "14.0.5": {
+    "narHash": "sha256-i7O2CK0DmhrVYkpL6ZiO59gui6/DmV4oT/JuE0Rkzq0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.5.tgz"
+  },
+  "14.0.6": {
+    "narHash": "sha256-Vml1ySHwS7mgwub8Y4ARZj/NxcHRJ5YUTGBwczOox60=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.6.tgz"
+  },
+  "14.0.7": {
+    "narHash": "sha256-E+b6r22SBdzJ9mqk7ObZ/R9iRDKOAs8NXPuOsvTuisc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.7.tgz"
+  },
+  "14.1.0": {
+    "narHash": "sha256-IowTCF15+ooPGUhjIGuWjMw+hPh00GKjrLN+JYr57q4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.1.0.tgz"
+  },
+  "14.1.1": {
+    "narHash": "sha256-BlaPVUBw+h/9E7odj4hGGpdgYGW6p+9NbC9m6EbbOck=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.1.1.tgz"
+  },
+  "14.1.2": {
+    "narHash": "sha256-3imAvIaU1slfLqgsqrBr7f/p19hqgJHG+uW243xIzBg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.1.2.tgz"
+  },
+  "14.1.3": {
+    "narHash": "sha256-YSOl0Zj935QCLn0l9B4xq8XASuwEqs5pmVAjYQquXbA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.1.3.tgz"
+  },
+  "14.2.0": {
+    "narHash": "sha256-GKLApqngb/Ib4kR98iOrhYGlh0xefrsIamEndwGSLsA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.0.tgz"
+  },
+  "14.2.1": {
+    "narHash": "sha256-LuaDTqLAYH1ENWQXZrZMP2zSZCSQTCLyQLnmzWU4cQI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.1.tgz"
+  },
+  "14.2.2": {
+    "narHash": "sha256-5//PZSy9xHn3UgnrijRyFSTCiq5zy5ruwewDCjWeUTQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.2.tgz"
+  },
+  "14.2.3": {
+    "narHash": "sha256-dEECi18l/QMltCcNfMkIMU+Ni6pHe7qO/wSeQfzyQOo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.3.tgz"
+  },
+  "14.2.4": {
+    "narHash": "sha256-Ec8l+H5NfbzQXAq0sU8SLei5veE9C9dFsAoW0EzvZc8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.4.tgz"
+  },
+  "14.2.5": {
+    "narHash": "sha256-suiFqAZ2IlStmmkXDcQxeTrt/TtY63CdHckHFQVKtuE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.5.tgz"
+  },
+  "14.2.6": {
+    "narHash": "sha256-BhF7IXjJ//Z0EgJ22rCqON1tx1CxsEEmor+KRttIKzI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.6.tgz"
+  },
+  "14.2.7": {
+    "narHash": "sha256-BgtGhmQU4EVcDyL41KMmykM1CmrM5nVolnX5DK1xrXI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.7.tgz"
+  },
+  "14.2.8": {
+    "narHash": "sha256-4xN4iKomRvbx0PQf0yW44Ijf7c5XVBJ+YaDRSFB9DgE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.8.tgz"
+  },
+  "14.2.9": {
+    "narHash": "sha256-Jh/Bj/dTdEBrvGklybuLd94kLvhH0CRgVISP7YWE8jY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.9.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-L8Qx/RYXpR9hlLBdnIKtz+76ASOgF/9pAvp3kQjXzMw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-eGM+DwNT2WjZYQDlsfSXHMWL6FxQVoASLgJmZWXc5bI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-6nr9ZS4zMuwIZkasMdWpAqnHMYpxnFB8z2jTxNscWJU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.0.2.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-fl+odGwIZ+Nj5Jo7nyEzRo60NCEP6gCTPm1Z8c2Hm50=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-ZWiR5UAxNVMavkkGxk1XyDhAUuQwSJbp3G8Pd7OGV4E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.1.1.tgz"
+  },
+  "2.1.2": {
+    "narHash": "sha256-Pzd572KprGjKr2oE/szGyuDdopm3jipMzCjI9L2R0WA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.1.2.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-cHDAl3R2BPkF/ZTDv4i8jRl2fnpMVr95bNhi90gm1M0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.0.tgz"
+  },
+  "2.2.1": {
+    "narHash": "sha256-meOV5upuRP1iQLA9cU0Ipp3DsJStXtS3l7nhRh9XTrg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.1.tgz"
+  },
+  "2.2.2": {
+    "narHash": "sha256-P1Zue9h+df0CprN9fDBMkarCZGVGcYg/vrhdLSICH3Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.2.tgz"
+  },
+  "2.2.3": {
+    "narHash": "sha256-kXser5ArQmU0Ug7kPVz/fHU0Iz3MqTDI6xI8z8dRpeI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.3.tgz"
+  },
+  "2.2.4": {
+    "narHash": "sha256-A7bRCmxzrN2Qm0P2QrH/2CQMYxL1pcK9eF5U7mG2kmY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.2.4.tgz"
+  },
+  "2.3.0": {
+    "narHash": "sha256-FspwjuoZ27mpo6E4umiPr2jdJt9mvoXcB52l+nwIp/s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.3.0.tgz"
+  },
+  "2.3.1": {
+    "narHash": "sha256-7zE+VTHDI+Vy/ieYZx0Nqkpn7149iTltubcwyZBYjUQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.3.1.tgz"
+  },
+  "2.4.0": {
+    "narHash": "sha256-9jQMrBCXzwUKZpUVtlrgO3XrD1tnL1FdKVe/ijA3PVY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.0.tgz"
+  },
+  "2.4.1": {
+    "narHash": "sha256-1jkv0qD3ZQhrvesqiBxzTMZCoOOG2aW5BUGluf+tezg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.1.tgz"
+  },
+  "2.4.10": {
+    "narHash": "sha256-g07Pru6Flds5vxU5w7vErWD4UXoDJmhRudiierX2tYQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.10.tgz"
+  },
+  "2.4.2": {
+    "narHash": "sha256-K/iM/cft4N3jkxn/CgbFGtAZD49Hmqoxbf0eyDaSII8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.2.tgz"
+  },
+  "2.4.3": {
+    "narHash": "sha256-mBAWp+Pz+Hw9cebLfhUw3Qmekq2BnUlNIgWINRhOrCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.3.tgz"
+  },
+  "2.4.4": {
+    "narHash": "sha256-sBl5B+pYu16T/nVJ5qetxKMNka4c7CrTBsoKqZ73tzE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.4.tgz"
+  },
+  "2.4.5": {
+    "narHash": "sha256-TOqZ+mGJAzjcdIk+N0lhL5SZlxiSq4cNTLZjfQlzM5k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.5.tgz"
+  },
+  "2.4.6": {
+    "narHash": "sha256-kODFRTx9LMjXohrma5lAESy//P996caTFcQ4t9t2BJ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.6.tgz"
+  },
+  "2.4.7": {
+    "narHash": "sha256-mWKNWhn99r3pvxLdJ5cRYFNa4hCM6RL5WxOlCBHEqKQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.7.tgz"
+  },
+  "2.4.8": {
+    "narHash": "sha256-VBfCVRkIw9nk4quALJpmpCiKxBDewGTl3I65CWTbUQw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.8.tgz"
+  },
+  "2.4.9": {
+    "narHash": "sha256-rk3W7PX4SEf/AF985Jq71fY246R4/8bskiaUcS2GxzA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-2.4.9.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-n1Am3TFP/C+iPRWb4aqRy7tLJVBuUicxUS7fG9oV5iU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-mg3cmzuf055aJKrmWw31g5GO5ysykTWINBNdOZA518w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-799+DmhFLZpACAe9c8UDIq9pE7rz+jz0NIIEvN3YIGY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.0.2.tgz"
+  },
+  "4.0.3": {
+    "narHash": "sha256-c76En9WxXHbJK/cK+aukRi9KMMydo/kJylvQyZytCYo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.0.3.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-oqH11/VFhsfv7/VQq9feNt0qbyvqQN7ukWfwFBEdSjA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.1.0.tgz"
+  },
+  "4.1.1": {
+    "narHash": "sha256-Qtj3nGpA73pkgR/iVxG0Ub34XjEGMoL520B2wvpRCoU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.1.1.tgz"
+  },
+  "4.1.2": {
+    "narHash": "sha256-JIqyZwb7gyr20bkHYY47jKa50E5iyIiPezWjLBFsTtY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.1.2.tgz"
+  },
+  "4.1.3": {
+    "narHash": "sha256-aA8kGdLnSW+9xqdrTL6fFczaij5uPMHwgckY9OMs4RY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.1.3.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-p7XGpLAkKfzEt2Mnupyg521miYbeCCx70mn00RpsPok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.0.tgz"
+  },
+  "4.2.1": {
+    "narHash": "sha256-WUmp2yQ9H/LeijQY0jCrOz+W2//3UZK8U3ZM00ini/g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.1.tgz"
+  },
+  "4.2.2": {
+    "narHash": "sha256-/gA0kuaNSKLVpOydz8k2J7z8ax+7QXXcCe/fNErXK4E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.2.tgz"
+  },
+  "4.2.3": {
+    "narHash": "sha256-JTWJEUo6m46sdYDJCv1AWNNXEK8qFjrfUg2glkWFgGI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.3.tgz"
+  },
+  "4.2.4": {
+    "narHash": "sha256-7ENfhWSPbA9RkUSLN2LKJlcQ1iu/g9UT1VPX/dtqRkA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.4.tgz"
+  },
+  "4.2.5": {
+    "narHash": "sha256-vJDIN1jB5rbdgrVWdhqPuda6kT/HokfqOzqPyEOMsCc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.5.tgz"
+  },
+  "4.2.6": {
+    "narHash": "sha256-uOKSpleXkL1o8sy3rMcHCJwe3xl1aoMiakdI5nKd/LU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.2.6.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-GuTkhR5EC3/h2FnyLG+LVkrz+Ax1pmquE5rRc6395bw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.0.tgz"
+  },
+  "4.3.1": {
+    "narHash": "sha256-xyaNPtDxWfyDbev8MTh2K7Dl3SDxoyziThb49NDsxZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.1.tgz"
+  },
+  "4.3.2": {
+    "narHash": "sha256-wXZvV5i8yDPMT24MP1zkBCaTIpIsrVHq10iTp2D0dIw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.2.tgz"
+  },
+  "4.3.3": {
+    "narHash": "sha256-aVoBDNl72uSSZmrYIKaISUigebBJW/rUifCEUNwanlw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.3.tgz"
+  },
+  "4.3.4": {
+    "narHash": "sha256-/qH8xHMMywXs5QT+Me1f+pOvFu3Wu/KCdxGO0O8aOJA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.4.tgz"
+  },
+  "4.3.5": {
+    "narHash": "sha256-JUBsC0jGou5HeRL04ZPfhKnxz0DGO6y3jqkpcEtjMkQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.5.tgz"
+  },
+  "4.3.6": {
+    "narHash": "sha256-ho63J9SOeNqc0qzDghYj5F1REnYQ6YanwtPkF63v8yY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.6.tgz"
+  },
+  "4.4.1": {
+    "narHash": "sha256-1odKOIjtzPcnz8zjyY3wwVBuvpuIVOHz5hQ4rViPWHI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.1.tgz"
+  },
+  "4.4.2": {
+    "narHash": "sha256-Ba90hSqM81G113lBIYVv9vcQfDKjLoZXEFSzWn8Czg0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.2.tgz"
+  },
+  "4.4.3": {
+    "narHash": "sha256-kVGbhXlNi3LBSF/x2tqFLrut6bHVZ04j4oIOzXmZ4CU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.3.tgz"
+  },
+  "4.4.4": {
+    "narHash": "sha256-iH7CbI/NtPBfXTOpu/8FSCio/yNbcBfiPVdX8NL1/H8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.4.tgz"
+  },
+  "4.4.5": {
+    "narHash": "sha256-ZqyQ7xNBOymJyMlnROAKtzsINonjeoZiXeo7UEhRmWQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.5.tgz"
+  },
+  "4.4.6": {
+    "narHash": "sha256-Nj+gU1jypQam86V+FyKWOj5uhOG2QppqPmCqvaMS8YY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.6.tgz"
+  },
+  "4.4.7": {
+    "narHash": "sha256-xRGm8R5ySPhPJ07sdWwo9sODybhAD1BeDftTjZIeVMI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.4.7.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-FYcxB2Bf/cNsOgGh/YTa39i5+qACRp8N/QgjUblfe4A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-hI8NOZrc1JOn7fkAM1lMRyztiGrQsiRu97/n4WLacqk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-hRNqmxaJQSmDHfC/DXOX0fM2JDj2UyHFt5Cn0urvhCM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-4LkqTKElX9ntEjsMS+KwNuOzTKPeHIStYL3aeRMzoNI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-3KG9XUn/nII3/aDdo/skAx2+3mHZXoNtQp3zWqGhvJ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.4.tgz"
+  },
+  "5.0.5": {
+    "narHash": "sha256-00kH/3FI5eQHCOWAT7xwTFYuu8wS6SU6tXyPIzu7W+c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.0.5.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-UW8ziV2wwCZNwbw6XCt1czBx4LsAF6xJWfWI1bvJFwg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.1.0.tgz"
+  },
+  "5.1.1": {
+    "narHash": "sha256-N4f0JdaHi/LMYiy6kLdzf0FIgqdeeuhUTe57EyWF48Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.1.1.tgz"
+  },
+  "5.1.2": {
+    "narHash": "sha256-vEO7GQbsSB/irNJWRhreAdRYq2VtajAYlxb04jLLocQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.1.2.tgz"
+  },
+  "5.1.3": {
+    "narHash": "sha256-NspzMg2yIkYHPsy1AIqnxIPzxsM118lRKLa/bVjHQ/g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.1.3.tgz"
+  },
+  "5.2.0": {
+    "narHash": "sha256-i5GiO61vYjQ2pYTqxEwL3wSGPorZ0gfnEKU02C+2DwM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.0.tgz"
+  },
+  "5.2.1": {
+    "narHash": "sha256-vJYCvf+uQ94VJiHKAbynzOnJ75bIiWIdjfxYtT+rEbw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.1.tgz"
+  },
+  "5.2.10": {
+    "narHash": "sha256-+tZ2bX8WqbO1U+jNVQZ2+W4iHM9xAIGulYZqN4Sa+KM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.10.tgz"
+  },
+  "5.2.11": {
+    "narHash": "sha256-EQW7ZdXW/++zYe7C4Ifuq5zCa9Siw+NbG73wOl7l0KU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.11.tgz"
+  },
+  "5.2.2": {
+    "narHash": "sha256-XwhJ5iDpvp4YvmlBeK+yXevU8cBK0eLrTUKeh6pWji0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.2.tgz"
+  },
+  "5.2.3": {
+    "narHash": "sha256-z6j2NaKyKOHzKoHHhkh29X0sQB4y2pyW3V4TXlOXcmg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.3.tgz"
+  },
+  "5.2.4": {
+    "narHash": "sha256-zNC/BDSY8f2t/lagwOahXaqT/JpD+JW5neGBQ2ZyYgo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.4.tgz"
+  },
+  "5.2.5": {
+    "narHash": "sha256-NiId7Z4PyVk/eohahSua+x4C3ZRiq03GMh8EV4hiJD8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.5.tgz"
+  },
+  "5.2.6": {
+    "narHash": "sha256-Ldv67QXouLOSxwaVfacDJ4d3CRF2qOT36ZTTWQbhC+k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.6.tgz"
+  },
+  "5.2.7": {
+    "narHash": "sha256-XUv/wJPCfOlL0Ey/l3qihklrAo/wBYbwEEMBnz6LwLg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.7.tgz"
+  },
+  "5.2.8": {
+    "narHash": "sha256-IXX867Ntvq8B854yK8orhPFORWoYn/7nD13Yxvk058c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.8.tgz"
+  },
+  "5.2.9": {
+    "narHash": "sha256-tmalT9xSFqaE27HY41novaFTwhACAvDqlYOUs5T0QSo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-5.2.9.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-6WCpQJ1qA7sI3AKXPrgubcDxW9cxE9zLTzdFMNFn3BM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.0.tgz"
+  },
+  "6.0.1": {
+    "narHash": "sha256-dymAU699q2/yJteHyBANJNmhkAmpRcSemLKcnLti6lQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.1.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-8NLE9V0W/uJJx34N5x5/zy0jGwtueuTr7WiHXLSBjNg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.2.tgz"
+  },
+  "6.0.3": {
+    "narHash": "sha256-WYd5J0vToWkvFasmW0J1Kj+gLdXtW49aiEyQvi+DtgA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.3.tgz"
+  },
+  "6.0.4": {
+    "narHash": "sha256-qP4HpX9JCUfedw8qwNH6hKm4Xkbmup8LXx6/Qf2+jhg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.4.tgz"
+  },
+  "6.0.5": {
+    "narHash": "sha256-Uz9GvP8TEiWolgqYSteYjse7CEzWbO5qKhdjDzheBqg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.5.tgz"
+  },
+  "6.0.6": {
+    "narHash": "sha256-yoE5EhRR6Cpig2KVlzkFktIxIUqQTeUy2ZuJbFNDVMY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.6.tgz"
+  },
+  "6.0.7": {
+    "narHash": "sha256-NnJTnPBwAAoWagezHbW+mBCWbgoztF7IFWXBGP+jFHU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.7.tgz"
+  },
+  "6.0.8": {
+    "narHash": "sha256-ipiVHC3jIQTgM5um5p3enqM/2Umyieny0TGB9Hbb8ow=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.8.tgz"
+  },
+  "6.0.9": {
+    "narHash": "sha256-ASFfiAJRy+O1S1KParzvs32bRX9VzIBmt3amikyb8Mw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.0.9.tgz"
+  },
+  "6.1.0": {
+    "narHash": "sha256-Wbmaaqr9OtrSZvlTNs0Cciv78lAiQT7E/JRbZ6IW7Ow=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.0.tgz"
+  },
+  "6.1.1": {
+    "narHash": "sha256-iqQtGNTKem5n5dZxt0QLhfcjYDmcFIh5sWdlgtY5/ys=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.1.tgz"
+  },
+  "6.1.10": {
+    "narHash": "sha256-t37e4GjdSD+elFwdU36Nu6Pn5k82rWBQ3pp8Zmm1yKQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.10.tgz"
+  },
+  "6.1.2": {
+    "narHash": "sha256-gftuPLMKGhwqTFnc9S3pA/aWv4wFq+2ZAT328wuCu+o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.2.tgz"
+  },
+  "6.1.3": {
+    "narHash": "sha256-L1+YgZIVVDWmLsa48aM35AZefEsID6kDR6BBnKxlo54=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.3.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-8mRy55jEQVcpba/6qgoZ0FO36f04PRKcVQznGNt2Hcw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.4.tgz"
+  },
+  "6.1.6": {
+    "narHash": "sha256-j07WW90JkSEwPd6x5w5LtwUbneUTrArrCJRNOIDau0U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.6.tgz"
+  },
+  "6.1.7": {
+    "narHash": "sha256-oeOztJoU/96CT4ux3eKiEqgGpJyneOaQ5CaOl69HSfk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.7.tgz"
+  },
+  "6.1.8": {
+    "narHash": "sha256-Dp7e3Y2KSMDak9MqfxXbvpY3I15DiLgzxUksUlaI6fw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.8.tgz"
+  },
+  "6.1.9": {
+    "narHash": "sha256-PLeNFa67w1xOgy1dEfcZC4duCSdQHbp7C6/i/FBEDbc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-6.1.9.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-Qw8UG2O2nL0KTNY4MFccLrY97v8D1R87dfEJc2Y+OCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.0.tgz"
+  },
+  "7.0.1": {
+    "narHash": "sha256-S7PtzZa3jMXuHv3OrM9Y2me8bzEoVGfJ1VKhUKhSW5E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.1.tgz"
+  },
+  "7.0.2": {
+    "narHash": "sha256-ZS+AFG0q12NkLwk50fvP/r+ZgOfmS8iJ0nC9UicRpG4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.2.tgz"
+  },
+  "7.0.3": {
+    "narHash": "sha256-fXUmCR1p5buo1QT9VDTCAqpsA4hq74ezAiVE6/tmXTM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.3.tgz"
+  },
+  "7.0.4": {
+    "narHash": "sha256-AoSPlTajVoKrT/FRt5pIBDschowHY3S1iprUezNjDQg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.0.4.tgz"
+  },
+  "7.1.0": {
+    "narHash": "sha256-k/0g7FXHvqzVx/d4X4fqwqeLa2l/qY9eSCPtuVSl0cU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.0.tgz"
+  },
+  "7.1.1": {
+    "narHash": "sha256-pRGy28uOLVTMlwQOCLz1sCvIGvS7zbpZM1KNyekwf18=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.1.tgz"
+  },
+  "7.1.2": {
+    "narHash": "sha256-deKRI4UBycLyYuDr/yyZ2a7LrO61BVgDJI337C0zjws=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.2.tgz"
+  },
+  "7.1.3": {
+    "narHash": "sha256-DTAvOPqgdD9qqZ7gc7OyQqqiz47P55hkfKJSWTfvww0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.3.tgz"
+  },
+  "7.1.4": {
+    "narHash": "sha256-6HSqHgtfn2ptKW91LZfnv14yhGgs1KDtOn5gXp0rHGc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.1.4.tgz"
+  },
+  "7.2.0": {
+    "narHash": "sha256-iT8ScJye5gn1KzBH9DIjAGe5QrPaCWCsPtLM8CNU6b8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.0.tgz"
+  },
+  "7.2.1": {
+    "narHash": "sha256-za2KTySryqUeMKVhCN7Jm/bOQcCE4T48xlFRoPfGZ58=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.1.tgz"
+  },
+  "7.2.10": {
+    "narHash": "sha256-W5ezMa41ZDKYHPAmyZIner4pCt2sh6AJdf6xPG2eXpM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.10.tgz"
+  },
+  "7.2.11": {
+    "narHash": "sha256-3w0Eydg0zubk94SBg9noOcfI9MM2Ob6mryJ9mZBrYGs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.11.tgz"
+  },
+  "7.2.12": {
+    "narHash": "sha256-aB94pudCnJUuye3YRMFSDMcaYLtqC9rBYpTUT0X/Yx8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.12.tgz"
+  },
+  "7.2.13": {
+    "narHash": "sha256-dT/yL5y1aMPG24axF7kwh1PH3VQte2zbwj+iYLoYPvI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.13.tgz"
+  },
+  "7.2.14": {
+    "narHash": "sha256-4GR5uoEPdotGclH3oVpPKE86lG3+ltcNEzdcstfUcI0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.14.tgz"
+  },
+  "7.2.15": {
+    "narHash": "sha256-GM2gincecZLN5FpgxwpZTE5XjbF2yOFUMHDuwygOmaU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.15.tgz"
+  },
+  "7.2.16": {
+    "narHash": "sha256-7MeI1CAUcKd8qHkiyni74PVcrK0pD7JOETR/YOcxbWk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.16.tgz"
+  },
+  "7.2.2": {
+    "narHash": "sha256-m/L+XLaL8jLPU31HSSwiw/kuR4BCgQ3F7tmCk240hFs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.2.tgz"
+  },
+  "7.2.3": {
+    "narHash": "sha256-nXOTcf/Om2PRXmI9dVYEe0AXsMIZhG2kgRJzJ4kXSLM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.3.tgz"
+  },
+  "7.2.4": {
+    "narHash": "sha256-kszQ2Dy1WryX/yG766EzZC7fOnctiL8NXYr6QlR7kVY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.4.tgz"
+  },
+  "7.2.5": {
+    "narHash": "sha256-kemumdY37u+G8yy49vAHzqEdIIntEX+XG4GWUUeR0lY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.5.tgz"
+  },
+  "7.2.6": {
+    "narHash": "sha256-BzO0Y6eQDuKs6wHkUVsn1hIeOO2rahNbXtQLtd8gzKM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.6.tgz"
+  },
+  "7.2.7": {
+    "narHash": "sha256-McFi1M5KxarX9NCRHxWNWiyUMNQWKS30oIemtqiMZ3w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.7.tgz"
+  },
+  "7.2.8": {
+    "narHash": "sha256-jcMPC//PDHTIqqC+6KrFaXqntT2wYbiGSQ02IkdE7HY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.8.tgz"
+  },
+  "7.2.9": {
+    "narHash": "sha256-mquBPuMmsMRBTfeTMsp8bh7LAxgBRNIZeqBhBVaeLHg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.9.tgz"
+  },
+  "8.0.0": {
+    "narHash": "sha256-7PasIJBGEy59FDpyulof7QomhCAbyru/6dMHTyISsK4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.0.tgz"
+  },
+  "8.0.1": {
+    "narHash": "sha256-aM7/x4zhvp9Aa17fZSyzuXMo0l0BmVqabk9WLreTvv4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.1.tgz"
+  },
+  "8.0.2": {
+    "narHash": "sha256-VSTbW0ZAdDPSTlrGnQv2r7IzV/2EBg9TfmeI0DbYD3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.2.tgz"
+  },
+  "8.0.3": {
+    "narHash": "sha256-DmgTack67wMLQFPbrm51AZhoU06CkwlYtZHaSLN7WbQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.3.tgz"
+  },
+  "8.1.0": {
+    "narHash": "sha256-Bnjd5GZ8Uf5KZqSGCENgHZpDaNHYH6YQ6WBU7BXB7bM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.1.0.tgz"
+  },
+  "8.1.1": {
+    "narHash": "sha256-hs10Bk2Esv84LplMyF1C1W+vIp6iXibPgvCU+NpId58=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.1.1.tgz"
+  },
+  "8.1.2": {
+    "narHash": "sha256-2ZCIsE5jAEtpjI/MBQ+X2mcfh8cr8MBk6Nf8kbDDyiQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.1.2.tgz"
+  },
+  "8.1.3": {
+    "narHash": "sha256-eW4r6ScEx8y1fXsPuYovKf2Sir4vsui0iXFuC9KZe4U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.1.3.tgz"
+  },
+  "8.2.0": {
+    "narHash": "sha256-ASpCLJHXKrDOjuUmfRSYY/TylLJGgqkdvyk8SJhXNIs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.0.tgz"
+  },
+  "8.2.1": {
+    "narHash": "sha256-HaozFO0dKkt4TaH5iMD+jftgdmI1aFa7ZqzxQ4dABFk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.1.tgz"
+  },
+  "8.2.10": {
+    "narHash": "sha256-uTLNcYQXPXPwgzb4UoAPWRxnTMt7XoFnHqYwGMHd0RQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.10.tgz"
+  },
+  "8.2.11": {
+    "narHash": "sha256-GQQNcx80B7KcE/O/M8GkRu9BrDNp/ccb0ckZWnOGGgM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.11.tgz"
+  },
+  "8.2.12": {
+    "narHash": "sha256-TppKfZfzQ8PadT9iL1MR0WaJksjbL7Sbd6CC4HI9xa0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.12.tgz"
+  },
+  "8.2.13": {
+    "narHash": "sha256-PPpHmTo9U1m3hXnRb+CM5GML92XshWaW/Q093m29FZ0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.13.tgz"
+  },
+  "8.2.14": {
+    "narHash": "sha256-vbRyj+U9h6GLwuM2EjReofJri1+PmNF4EgZzvUQ6VcA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.14.tgz"
+  },
+  "8.2.2": {
+    "narHash": "sha256-ludFtpynyVVj8rWNwwMB7PQzon1G3UyQZzfRsAZdT50=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.2.tgz"
+  },
+  "8.2.3": {
+    "narHash": "sha256-Y7WYWgI5QY+h92XYuq7RFooUhP6F9bngnVuEGe4CJSA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.3.tgz"
+  },
+  "8.2.4": {
+    "narHash": "sha256-CMUKi9iiVN9uimX6mmQoLHETSS5xC6uEo5ST5gLeMYU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.4.tgz"
+  },
+  "8.2.5": {
+    "narHash": "sha256-GynCHjPMR2KySvFvf3UehitNoY1hbmA7EmxU3ONQNvM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.5.tgz"
+  },
+  "8.2.6": {
+    "narHash": "sha256-Q+DTwyo5zwRlLp8Z/W3LWIq+iAqGBmk6V/u9HvxDtT8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.6.tgz"
+  },
+  "8.2.7": {
+    "narHash": "sha256-9sPZekXhox5cdGmz4Hoqx2fafr5Y2Mk9QRTT8KOzNCU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.7.tgz"
+  },
+  "8.2.8": {
+    "narHash": "sha256-yzArblPNwV+Evh5S87fF+8nMUAjUik2AkBp0dqgDrD0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.8.tgz"
+  },
+  "8.2.9": {
+    "narHash": "sha256-nLBhLA3Cfs2ly6HccDQQ86HE+1FLKzTT8fDwQynhkpE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.2.9.tgz"
+  },
+  "9.0.0": {
+    "narHash": "sha256-eRQdaN9uyOeP8jznnWSZULBfw87AdB6fv94QDToPCxA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.0.tgz"
+  },
+  "9.0.1": {
+    "narHash": "sha256-tdGCf60oqMCLV33p1a0S9QYnHQKgQySwJIuS4UHWi10=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.1.tgz"
+  },
+  "9.0.2": {
+    "narHash": "sha256-DoxcoX4iqQREcoaLgztk6FWCFomfi3NWccnMvBf1OvA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.2.tgz"
+  },
+  "9.0.3": {
+    "narHash": "sha256-1KE1/YeuDHGhFLTksdMzxWZ5g6nhLoQ9xZ0k3QwugJI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.3.tgz"
+  },
+  "9.0.4": {
+    "narHash": "sha256-WXtz05VlIhgJhgETAqhvQecQ3HOqRpHGZ/MBd1OPMtE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.4.tgz"
+  },
+  "9.0.5": {
+    "narHash": "sha256-K9WZYG0WSopCfOEBfe1C1av8rsPiscnouORKodX2SuE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.5.tgz"
+  },
+  "9.0.6": {
+    "narHash": "sha256-x3X679YHSc4EuAdzZC1xa8H6QZbjVip3QdZjclcBLzc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.6.tgz"
+  },
+  "9.0.7": {
+    "narHash": "sha256-PeucVSUDddkTSZBKH+6VufwH0CyBz2ih1ZFnJn20BDo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.0.7.tgz"
+  },
+  "9.1.0": {
+    "narHash": "sha256-aA9gsW0lSLb3vRR4Q/V8vGM/qD9RHF1jKNHGSZJLMqc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.0.tgz"
+  },
+  "9.1.1": {
+    "narHash": "sha256-GHWSMNi2OcISbYf91TyfEJ6cTMrop4huzg9SfsnAVS0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.1.tgz"
+  },
+  "9.1.10": {
+    "narHash": "sha256-q3q5Xa0KvqujUUqLgltsnMnjODjAd+bZ+f24EQ6Holg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.10.tgz"
+  },
+  "9.1.11": {
+    "narHash": "sha256-Va894o/hCXBQPMZovoFBXG4Lum3X3PgAcwNpH+S+w+Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.11.tgz"
+  },
+  "9.1.12": {
+    "narHash": "sha256-aGaR1E9v3HKVB2ajYSe3ygM5Vr27tdPHIjnmUGX+hD8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.12.tgz"
+  },
+  "9.1.13": {
+    "narHash": "sha256-wZ9xIiMIeoy3SJtFcZA1YUMs8D7E6rdKnQMOMWXC1Dw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.13.tgz"
+  },
+  "9.1.2": {
+    "narHash": "sha256-cg+9sXQo4OdtpLBEMYbk9NG8O07DZMqUOqOGk+E6s8o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.2.tgz"
+  },
+  "9.1.3": {
+    "narHash": "sha256-4I/Cb8OqFwtSU90/Y7xZM0PHcRUga0avwhejcINu4pg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.3.tgz"
+  },
+  "9.1.4": {
+    "narHash": "sha256-WQ7KdTR64Xl6G2DsRyKizih42SfAtNahRshJBRko9k8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.4.tgz"
+  },
+  "9.1.5": {
+    "narHash": "sha256-hQ+43rNnBabObTIWsuaEc20LGfcx3PdaFgF0r2DMXcQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.5.tgz"
+  },
+  "9.1.6": {
+    "narHash": "sha256-zswq1hFmOb6TFcUhXj6MxNdwd785H1y6SB/jTELW1Ig=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.6.tgz"
+  },
+  "9.1.7": {
+    "narHash": "sha256-ITYMDgGZtEeIUGzanBOt5Anqfrbj02D375AyuCCRiZc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.7.tgz"
+  },
+  "9.1.8": {
+    "narHash": "sha256-lb18mJEQKBrLRn3aejIuUrIW6bvvOKVniUH6cS7vUrI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.8.tgz"
+  },
+  "9.1.9": {
+    "narHash": "sha256-DRgWPnbDXMKES2dKnCb8DECaTtxroiUmW4t3o6C0oYI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-9.1.9.tgz"
+  }
+}

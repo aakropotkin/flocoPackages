@@ -1,1 +1,62 @@
-{"0.0.1":{"narHash":"sha256-XzPuE/xcKyZWshG6DiRXp7d8koVq+JN4BWP95vnhMmU=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-KUwkBDacg75SbHlBfw3wEt3jSVj59WJIOphkMhFSHFs=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-0.0.2.tgz"},"0.1.0":{"narHash":"sha256-Z+dGY3SidwSoyZlRZoD+dWH4xVjfBA7gusu9uANjl5k=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-0.1.0.tgz"},"1.0.0":{"narHash":"sha256-6iveP+kEOkHOQwigyTwWqnKIJunSqRermgbBg61ABBU=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-mduP14oE4rGxtxhO00w3XXQ/NPQ/onL/Buxp14o/4QQ=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-6Qtxtx1Gy+rYXFC1yV4O9iCF2kw+oWx6TF3/U9hXSdQ=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-/0cixc3H8JV5vAtpFYvIYRk8DUafURevCz/FVoSqNhQ=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-J1U4jCfhfGX2yZHfU6lONcXyZsCBmY5uWQ8eqkZLXxo=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.1.2.tgz"},"1.2.0":{"narHash":"sha256-+4i6kuVM0HG1e6cPNwP+w6BU3akZvzs7URjalVPKlzs=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-J/fgst5wW8YuLC/0vRdkC4RKTvWFDKI+oshDRq2lxo0=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-qfxrKSVIG07diAmdZRL2+0aWxGJTYyMVB10r9I5EsfQ=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-LIHXIsy7Bj6DSNA7Fdumi2a1wbmcrhhRMuGyv0pGZHQ=","type":"tarball","url":"https://registry.npmjs.org/d3-fetch/-/d3-fetch-3.0.1.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-XzPuE/xcKyZWshG6DiRXp7d8koVq+JN4BWP95vnhMmU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-KUwkBDacg75SbHlBfw3wEt3jSVj59WJIOphkMhFSHFs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-0.0.2.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-Z+dGY3SidwSoyZlRZoD+dWH4xVjfBA7gusu9uANjl5k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-0.1.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-6iveP+kEOkHOQwigyTwWqnKIJunSqRermgbBg61ABBU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-mduP14oE4rGxtxhO00w3XXQ/NPQ/onL/Buxp14o/4QQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-6Qtxtx1Gy+rYXFC1yV4O9iCF2kw+oWx6TF3/U9hXSdQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-/0cixc3H8JV5vAtpFYvIYRk8DUafURevCz/FVoSqNhQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-J1U4jCfhfGX2yZHfU6lONcXyZsCBmY5uWQ8eqkZLXxo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.1.2.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-+4i6kuVM0HG1e6cPNwP+w6BU3akZvzs7URjalVPKlzs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-J/fgst5wW8YuLC/0vRdkC4RKTvWFDKI+oshDRq2lxo0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-qfxrKSVIG07diAmdZRL2+0aWxGJTYyMVB10r9I5EsfQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-LIHXIsy7Bj6DSNA7Fdumi2a1wbmcrhhRMuGyv0pGZHQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-3.0.1.tgz"
+  }
+}

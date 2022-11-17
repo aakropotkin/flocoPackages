@@ -1,1 +1,22 @@
-{"1.0.0":{"narHash":"sha256-3n5UUJHyQIcaDRxr+kFCkURnfUoOI75YmEYkyQe+x9E=","type":"tarball","url":"https://registry.npmjs.org/readdir-scoped-modules/-/readdir-scoped-modules-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-IBIWs2gq/XnPtuzZjnAoCMDRgHGKwewbriWKzSPAvGU=","type":"tarball","url":"https://registry.npmjs.org/readdir-scoped-modules/-/readdir-scoped-modules-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-MWwK5KcvWA/jEaasHdFmXJQeBolLRQJB/bTGusxqDHo=","type":"tarball","url":"https://registry.npmjs.org/readdir-scoped-modules/-/readdir-scoped-modules-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-4xGDym3CJZ2J2zpFOv7WcoFjzRgLtlQMyQD8MszHjMk=","type":"tarball","url":"https://registry.npmjs.org/readdir-scoped-modules/-/readdir-scoped-modules-1.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-3n5UUJHyQIcaDRxr+kFCkURnfUoOI75YmEYkyQe+x9E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readdir-scoped-modules/-/readdir-scoped-modules-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-IBIWs2gq/XnPtuzZjnAoCMDRgHGKwewbriWKzSPAvGU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readdir-scoped-modules/-/readdir-scoped-modules-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-MWwK5KcvWA/jEaasHdFmXJQeBolLRQJB/bTGusxqDHo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readdir-scoped-modules/-/readdir-scoped-modules-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-4xGDym3CJZ2J2zpFOv7WcoFjzRgLtlQMyQD8MszHjMk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/readdir-scoped-modules/-/readdir-scoped-modules-1.1.0.tgz"
+  }
+}

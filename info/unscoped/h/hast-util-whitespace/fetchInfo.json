@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-kg+GFYw9eoahSBOEBTJxb5jwl7HnPF6txibNoQ1r7K0=","type":"tarball","url":"https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-aTE1ihrYFjQRaE7MHrCrAOWGn/ccsPcdoe4XvamRDEw=","type":"tarball","url":"https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-C2knOF0AuGgyIu7u/li+wLIX5BaV5ZnyR5IqcLTMirI=","type":"tarball","url":"https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-delBHUKtRkif4GCY5ISUFswaA5CZLR0ImNnlQnLB9Sc=","type":"tarball","url":"https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-wROs+ES4f+6amQ47+WjF6Dd8mG191v6MOFTRdx/pH+w=","type":"tarball","url":"https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.4.tgz"},"2.0.0":{"narHash":"sha256-/Nx6yCrKqaIC8+lF9ZQd1DrbdHydeYFFk9zUIVKuRSo=","type":"tarball","url":"https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-2.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-kg+GFYw9eoahSBOEBTJxb5jwl7HnPF6txibNoQ1r7K0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-aTE1ihrYFjQRaE7MHrCrAOWGn/ccsPcdoe4XvamRDEw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-C2knOF0AuGgyIu7u/li+wLIX5BaV5ZnyR5IqcLTMirI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-delBHUKtRkif4GCY5ISUFswaA5CZLR0ImNnlQnLB9Sc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-wROs+ES4f+6amQ47+WjF6Dd8mG191v6MOFTRdx/pH+w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-1.0.4.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-/Nx6yCrKqaIC8+lF9ZQd1DrbdHydeYFFk9zUIVKuRSo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-2.0.0.tgz"
+  }
+}

@@ -1,1 +1,102 @@
-{"1.0.0":{"narHash":"sha256-zGEclsBP7IuDWEApTtSAU4nNho7kzsE33mCktEPPvcs=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-2lgVUbPu8XPZddIOwI1YS4oYkTXbk2CgO14+4ZDyq4Q=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-1.0.1.tgz"},"2.0.0":{"narHash":"sha256-YdeGk1HCdeiIyB+MYAG9qwv1bsJp4geiW6Haoigo6GA=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-AFJqkVeda4gJgKToYn6erSxcokdEAeyMT6ZfUghV8no=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-2hqrW+ozUGvkdjb2ZDAJU5fnHUc+TVyzUcs1v2dlXg0=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.2.tgz"},"2.0.3":{"narHash":"sha256-tdFevZG7PyyqgNMjfEkr2GZLXq8xALYT6HQxTuj6+hk=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.3.tgz"},"2.0.4":{"narHash":"sha256-ebIZ7KodKgdjMGyoliuZGIzhGEKtjmPGZu+KvrC1Df8=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.4.tgz"},"2.0.5":{"narHash":"sha256-ZAruJlTD5k8LDayvT2pLRE9r0Q6++aZN60lnQRfQmGY=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.5.tgz"},"2.0.6":{"narHash":"sha256-FYSs10ZrX3nuMGwVG5HLXlBsRFHwD0b4H4UDi9hiJJE=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.6.tgz"},"2.0.7":{"narHash":"sha256-sQ4WaCGEpEdzVmlbilWkZ6KT1lSTXFdQSKCVmP0NrNg=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.7.tgz"},"2.0.8":{"narHash":"sha256-5lySi8M5Mr6MjSy/dOBYVKJGfYsjqAPN3cfYkj9oUxc=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.8.tgz"},"2.0.9":{"narHash":"sha256-qw+9nuoySoCZXB5XyyOlBCtXWM8gV0wsPK8fEdPzJoM=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.0.9.tgz"},"2.1.0":{"narHash":"sha256-+GleFuNudrtqt/HIyMM7D0W5DxM+8PIBFnNeJqJ+jBY=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-TvGTw3p2HKkxNGJD8C8S6HIYb665JtxBhWLDO+t4eIk=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-0coUX+Q61byNZWzyJpQbI0k0qFwuziGViOWBoy1BhVs=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-5dOoxgIFmntUJ/dtucXt2qJS8dvfDNDzPhU33y2RIPY=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-3.0.2.tgz"},"4.0.0":{"narHash":"sha256-yNMdsnJeIXZmQzO0uZI/rnasiGyBD9g/ocveg0LTgJM=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-8+Fer0bUBGPp5QaxD5dElvSKlEIpiN1JKquGuKkGUvA=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-IBwCBi75aD8W45nzDaIH6iZVV6/z0GR6Z3RPoXMyViA=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-4.0.2.tgz"},"4.0.3":{"narHash":"sha256-DvZsgKvUoT2J+OPl61CR7kg20CnGvrZRvEaPACIuFmc=","type":"tarball","url":"https://registry.npmjs.org/@npmcli/git/-/git-4.0.3.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-zGEclsBP7IuDWEApTtSAU4nNho7kzsE33mCktEPPvcs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-2lgVUbPu8XPZddIOwI1YS4oYkTXbk2CgO14+4ZDyq4Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-1.0.1.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-YdeGk1HCdeiIyB+MYAG9qwv1bsJp4geiW6Haoigo6GA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-AFJqkVeda4gJgKToYn6erSxcokdEAeyMT6ZfUghV8no=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-2hqrW+ozUGvkdjb2ZDAJU5fnHUc+TVyzUcs1v2dlXg0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.2.tgz"
+  },
+  "2.0.3": {
+    "narHash": "sha256-tdFevZG7PyyqgNMjfEkr2GZLXq8xALYT6HQxTuj6+hk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.3.tgz"
+  },
+  "2.0.4": {
+    "narHash": "sha256-ebIZ7KodKgdjMGyoliuZGIzhGEKtjmPGZu+KvrC1Df8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.4.tgz"
+  },
+  "2.0.5": {
+    "narHash": "sha256-ZAruJlTD5k8LDayvT2pLRE9r0Q6++aZN60lnQRfQmGY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.5.tgz"
+  },
+  "2.0.6": {
+    "narHash": "sha256-FYSs10ZrX3nuMGwVG5HLXlBsRFHwD0b4H4UDi9hiJJE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.6.tgz"
+  },
+  "2.0.7": {
+    "narHash": "sha256-sQ4WaCGEpEdzVmlbilWkZ6KT1lSTXFdQSKCVmP0NrNg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.7.tgz"
+  },
+  "2.0.8": {
+    "narHash": "sha256-5lySi8M5Mr6MjSy/dOBYVKJGfYsjqAPN3cfYkj9oUxc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.8.tgz"
+  },
+  "2.0.9": {
+    "narHash": "sha256-qw+9nuoySoCZXB5XyyOlBCtXWM8gV0wsPK8fEdPzJoM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.0.9.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-+GleFuNudrtqt/HIyMM7D0W5DxM+8PIBFnNeJqJ+jBY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-TvGTw3p2HKkxNGJD8C8S6HIYb665JtxBhWLDO+t4eIk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-0coUX+Q61byNZWzyJpQbI0k0qFwuziGViOWBoy1BhVs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-5dOoxgIFmntUJ/dtucXt2qJS8dvfDNDzPhU33y2RIPY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-3.0.2.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-yNMdsnJeIXZmQzO0uZI/rnasiGyBD9g/ocveg0LTgJM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-8+Fer0bUBGPp5QaxD5dElvSKlEIpiN1JKquGuKkGUvA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-IBwCBi75aD8W45nzDaIH6iZVV6/z0GR6Z3RPoXMyViA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-4.0.2.tgz"
+  },
+  "4.0.3": {
+    "narHash": "sha256-DvZsgKvUoT2J+OPl61CR7kg20CnGvrZRvEaPACIuFmc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@npmcli/git/-/git-4.0.3.tgz"
+  }
+}

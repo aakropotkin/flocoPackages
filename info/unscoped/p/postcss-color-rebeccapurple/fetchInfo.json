@@ -1,1 +1,82 @@
-{"1.0.0":{"narHash":"sha256-FMkNIO1HeX6jvLNC16b5F4Ob18Jgqw8s1O+WKRoxeTQ=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-MiGaa6C3EoVJ8pRQgXiWd0cLn6mMbl8C8RerQj+uvRQ=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-k8S7EF2K9hWg4TVHo1KBiHXGP0c0cTS7PuVpFCb6pow=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-tYWldIQzVcJtKfZlCCexYj7F5JJV3MbhUOztZPyfcGQ=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-WCT/tSoliLYkopopjp4T2iehk0/SL/LtyMwPLgJK3gQ=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-2.0.1.tgz"},"3.0.0":{"narHash":"sha256-IZbuogdpGjoqHUYys0jj29sZ5Rxr+ODYpDJQD4u8Nzw=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-+8cSj5GJACfLkWYX095hcJkABi0iCN4ElCZuLFBH/RI=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-3.1.0.tgz"},"4.0.0":{"narHash":"sha256-Q0jWpIwRLtIYhZM1/YwYYHZcdfhrxnrLu5YYEH9OrvU=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-y+Ik/jT77UxnhjC6Tc7c/8fepzv0Tap6azdUY4kUzQ4=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-4.0.1.tgz"},"5.0.0":{"narHash":"sha256-u6mMaKedEQqi2jag3XiSgQMWOrfucTbcRUj3iXDrkQk=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-5.0.0.tgz"},"6.0.0":{"narHash":"sha256-jFfXOPK0Iow6hEpiqsz7gmEAbb5dG4ctT8rpMVEZw2A=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-6.0.0.tgz"},"7.0.0":{"narHash":"sha256-mkm4nfKSBAvB/usSSGXOw/hhhwl6Ial6n085N88e3f4=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.0.0.tgz"},"7.0.1":{"narHash":"sha256-hS6BmcH31MnVbULvlTALbF8MegvqtR7EJ4PlvNxi86w=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.0.1.tgz"},"7.0.2":{"narHash":"sha256-yHTk3poUmPGZpxfwnjxsPE8X1VfdZGld2bmz3xMqChM=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.0.2.tgz"},"7.1.0":{"narHash":"sha256-/ha5wadAIeHYHaVmPOYYli6atiB30+90r+Qk3VWYorA=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.1.0.tgz"},"7.1.1":{"narHash":"sha256-fFSa6doqIceD8oMwb6RYehZFw/jGfbslbmiJEFdhLjo=","type":"tarball","url":"https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.1.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-FMkNIO1HeX6jvLNC16b5F4Ob18Jgqw8s1O+WKRoxeTQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-MiGaa6C3EoVJ8pRQgXiWd0cLn6mMbl8C8RerQj+uvRQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-k8S7EF2K9hWg4TVHo1KBiHXGP0c0cTS7PuVpFCb6pow=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-tYWldIQzVcJtKfZlCCexYj7F5JJV3MbhUOztZPyfcGQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-WCT/tSoliLYkopopjp4T2iehk0/SL/LtyMwPLgJK3gQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-2.0.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-IZbuogdpGjoqHUYys0jj29sZ5Rxr+ODYpDJQD4u8Nzw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-+8cSj5GJACfLkWYX095hcJkABi0iCN4ElCZuLFBH/RI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-3.1.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-Q0jWpIwRLtIYhZM1/YwYYHZcdfhrxnrLu5YYEH9OrvU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-y+Ik/jT77UxnhjC6Tc7c/8fepzv0Tap6azdUY4kUzQ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-4.0.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-u6mMaKedEQqi2jag3XiSgQMWOrfucTbcRUj3iXDrkQk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-5.0.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-jFfXOPK0Iow6hEpiqsz7gmEAbb5dG4ctT8rpMVEZw2A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-6.0.0.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-mkm4nfKSBAvB/usSSGXOw/hhhwl6Ial6n085N88e3f4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.0.0.tgz"
+  },
+  "7.0.1": {
+    "narHash": "sha256-hS6BmcH31MnVbULvlTALbF8MegvqtR7EJ4PlvNxi86w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.0.1.tgz"
+  },
+  "7.0.2": {
+    "narHash": "sha256-yHTk3poUmPGZpxfwnjxsPE8X1VfdZGld2bmz3xMqChM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.0.2.tgz"
+  },
+  "7.1.0": {
+    "narHash": "sha256-/ha5wadAIeHYHaVmPOYYli6atiB30+90r+Qk3VWYorA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.1.0.tgz"
+  },
+  "7.1.1": {
+    "narHash": "sha256-fFSa6doqIceD8oMwb6RYehZFw/jGfbslbmiJEFdhLjo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-color-rebeccapurple/-/postcss-color-rebeccapurple-7.1.1.tgz"
+  }
+}

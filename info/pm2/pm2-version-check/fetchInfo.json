@@ -1,1 +1,27 @@
-{"1.0.0":{"narHash":"sha256-8ZI8ENXEuYUm9IR+i5U+2/Bh9mk5DCU4TmleqCyCMok=","type":"tarball","url":"https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-xOyv7lNOSyEx0bo8nZ11yvEz+BZO2eiYJzKMLsfKPAQ=","type":"tarball","url":"https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-Aq5P2XzXW2UfwLhzQfGQC86y4+rvv8Mf50wpN0kWvlI=","type":"tarball","url":"https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-/XpsvlMymMA3ku2X1AS9ucRgCihD9YOxmqZ26D/S0J4=","type":"tarball","url":"https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-IGRFQxFMeadTQXOFDyCEy8Jhjf3TLqKeKfyI0hNlW2c=","type":"tarball","url":"https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.4.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-8ZI8ENXEuYUm9IR+i5U+2/Bh9mk5DCU4TmleqCyCMok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-xOyv7lNOSyEx0bo8nZ11yvEz+BZO2eiYJzKMLsfKPAQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-Aq5P2XzXW2UfwLhzQfGQC86y4+rvv8Mf50wpN0kWvlI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-/XpsvlMymMA3ku2X1AS9ucRgCihD9YOxmqZ26D/S0J4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-IGRFQxFMeadTQXOFDyCEy8Jhjf3TLqKeKfyI0hNlW2c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@pm2/pm2-version-check/-/pm2-version-check-1.0.4.tgz"
+  }
+}

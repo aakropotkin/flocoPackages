@@ -1,1 +1,42 @@
-{"0.0.1":{"narHash":"sha256-yD/USiSPInhBhxHgLxQfKBt1zmq74v6zwUzC/y83/XY=","type":"tarball","url":"https://registry.npmjs.org/rcloader/-/rcloader-0.0.1.tgz"},"0.1.0":{"narHash":"sha256-LIbErkaKIloiffYohAuVUxzHPpuJ5e6cc1O2B9tFlnU=","type":"tarball","url":"https://registry.npmjs.org/rcloader/-/rcloader-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-cVJeu3fRtyB6KZfEy0lIkVFXDek70Wjy+p/frR2VeEk=","type":"tarball","url":"https://registry.npmjs.org/rcloader/-/rcloader-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-BEATmxDtGBCBHuWcaaWalPb81kY5pjJHv72NBN0k6MA=","type":"tarball","url":"https://registry.npmjs.org/rcloader/-/rcloader-0.1.2.tgz"},"0.1.4":{"narHash":"sha256-wqtRSQ2gjDfC9QlHhRpWFHtv1QXHvFFPzKrix2ryOoE=","type":"tarball","url":"https://registry.npmjs.org/rcloader/-/rcloader-0.1.4.tgz"},"0.2.0":{"narHash":"sha256-nM3pr3KIjxD6izVPZTNfmcCeKj4ofFKYJusz1NtNn1M=","type":"tarball","url":"https://registry.npmjs.org/rcloader/-/rcloader-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-u4uUmmZYlI5jbFBfwsXp/ifiXQ5fdY1HRyhCEuRUW/g=","type":"tarball","url":"https://registry.npmjs.org/rcloader/-/rcloader-0.2.1.tgz"},"0.2.2":{"narHash":"sha256-XLJZ6sJ0ZNmbQ4S62q+WtQYd5nVnbgLSIzZ7ZKFc89U=","type":"tarball","url":"https://registry.npmjs.org/rcloader/-/rcloader-0.2.2.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-yD/USiSPInhBhxHgLxQfKBt1zmq74v6zwUzC/y83/XY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rcloader/-/rcloader-0.0.1.tgz"
+  },
+  "0.1.0": {
+    "narHash": "sha256-LIbErkaKIloiffYohAuVUxzHPpuJ5e6cc1O2B9tFlnU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rcloader/-/rcloader-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-cVJeu3fRtyB6KZfEy0lIkVFXDek70Wjy+p/frR2VeEk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rcloader/-/rcloader-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-BEATmxDtGBCBHuWcaaWalPb81kY5pjJHv72NBN0k6MA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rcloader/-/rcloader-0.1.2.tgz"
+  },
+  "0.1.4": {
+    "narHash": "sha256-wqtRSQ2gjDfC9QlHhRpWFHtv1QXHvFFPzKrix2ryOoE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rcloader/-/rcloader-0.1.4.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-nM3pr3KIjxD6izVPZTNfmcCeKj4ofFKYJusz1NtNn1M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rcloader/-/rcloader-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-u4uUmmZYlI5jbFBfwsXp/ifiXQ5fdY1HRyhCEuRUW/g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rcloader/-/rcloader-0.2.1.tgz"
+  },
+  "0.2.2": {
+    "narHash": "sha256-XLJZ6sJ0ZNmbQ4S62q+WtQYd5nVnbgLSIzZ7ZKFc89U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rcloader/-/rcloader-0.2.2.tgz"
+  }
+}

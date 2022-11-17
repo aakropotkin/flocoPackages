@@ -1,1 +1,27 @@
-{"1.0.0":{"narHash":"sha256-k1bUR317YImjCoYFXVJuYIOyT1b9hf7jjS1aKrLpanw=","type":"tarball","url":"https://registry.npmjs.org/rgb-hex/-/rgb-hex-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-TYx1Wg4aZL2u9PMc2aR74NPiZYqXFgkJUbCTdNVt9Iw=","type":"tarball","url":"https://registry.npmjs.org/rgb-hex/-/rgb-hex-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-g2NJZf2HPmY4TJ1brQN8XKfQH/0zbLwRoyBh2IFcw1w=","type":"tarball","url":"https://registry.npmjs.org/rgb-hex/-/rgb-hex-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-epleMeomfqnHBi2IGcF3BcQkYMwmp1aNfHh3h6ync4k=","type":"tarball","url":"https://registry.npmjs.org/rgb-hex/-/rgb-hex-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-p9aj0QAEQECaibc3dUmwrxNBNgpo7Y5rYu9pA+/Fm6c=","type":"tarball","url":"https://registry.npmjs.org/rgb-hex/-/rgb-hex-4.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-k1bUR317YImjCoYFXVJuYIOyT1b9hf7jjS1aKrLpanw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rgb-hex/-/rgb-hex-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-TYx1Wg4aZL2u9PMc2aR74NPiZYqXFgkJUbCTdNVt9Iw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rgb-hex/-/rgb-hex-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-g2NJZf2HPmY4TJ1brQN8XKfQH/0zbLwRoyBh2IFcw1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rgb-hex/-/rgb-hex-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-epleMeomfqnHBi2IGcF3BcQkYMwmp1aNfHh3h6ync4k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rgb-hex/-/rgb-hex-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-p9aj0QAEQECaibc3dUmwrxNBNgpo7Y5rYu9pA+/Fm6c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/rgb-hex/-/rgb-hex-4.0.0.tgz"
+  }
+}

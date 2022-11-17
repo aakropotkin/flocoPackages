@@ -1,1 +1,67 @@
-{"1.0.0":{"narHash":"sha256-VCWGUSrLbLYbeIxzPzEhdW4HQ6j9tUGh17ZzcG1jD6c=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-9W2zE3CPxrFK8w6g6E+BjD8QKkXkE+Cz1t+QUFakwf4=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-IacJqTHd5Rrlou21NFbQLGL4d06WPd6qxFKzCNci9Xo=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-gKyd30HIRg4/twM/U1ezumxx1OyH+UeLeC6AH+rr5vE=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-HhwHXYnbY18QIAHkHj5ez4LYWoX+Wse3C/2r/Y6ZWOs=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-bss0jUBOfcqX2E+/VMjWvbAh4LLrLZ1wk+q3JyCUar4=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.0.5.tgz"},"1.1.0":{"narHash":"sha256-DEdg+2vDh8oryPeJjz5BhM28ShheoPx0lzTmgCwOx20=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-v7zYvp87Q3EeD62nEg6nKcuVJTFYlx1bfRvQktxX/wY=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-gHHMUXFxukTn3gwR9QOY8fiu9eFwGMWQwU3iurkth7g=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-1.1.2.tgz"},"2.0.0":{"narHash":"sha256-h2oQCf2N+lEKlZxH8UO7uxqaFHemuYaR8FVwDtvZK1Q=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-1NBLwcndO1cqXE2Er7etMgw1CgAOzQy88O6jK2oCi6A=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-2.0.1.tgz"},"3.0.0":{"narHash":"sha256-c+423Z8e1fNrwjChC4Gb3k8pUZ8sD2L1R6AqySfeKho=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-CClUlpfUO5hmzc9nYOthGJCSPwf1jItYYf4RGE4kO/s=","type":"tarball","url":"https://registry.npmjs.org/level-errors/-/level-errors-3.0.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-VCWGUSrLbLYbeIxzPzEhdW4HQ6j9tUGh17ZzcG1jD6c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-9W2zE3CPxrFK8w6g6E+BjD8QKkXkE+Cz1t+QUFakwf4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-IacJqTHd5Rrlou21NFbQLGL4d06WPd6qxFKzCNci9Xo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-gKyd30HIRg4/twM/U1ezumxx1OyH+UeLeC6AH+rr5vE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-HhwHXYnbY18QIAHkHj5ez4LYWoX+Wse3C/2r/Y6ZWOs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-bss0jUBOfcqX2E+/VMjWvbAh4LLrLZ1wk+q3JyCUar4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.0.5.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-DEdg+2vDh8oryPeJjz5BhM28ShheoPx0lzTmgCwOx20=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-v7zYvp87Q3EeD62nEg6nKcuVJTFYlx1bfRvQktxX/wY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-gHHMUXFxukTn3gwR9QOY8fiu9eFwGMWQwU3iurkth7g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-1.1.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-h2oQCf2N+lEKlZxH8UO7uxqaFHemuYaR8FVwDtvZK1Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-1NBLwcndO1cqXE2Er7etMgw1CgAOzQy88O6jK2oCi6A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-2.0.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-c+423Z8e1fNrwjChC4Gb3k8pUZ8sD2L1R6AqySfeKho=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-CClUlpfUO5hmzc9nYOthGJCSPwf1jItYYf4RGE4kO/s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/level-errors/-/level-errors-3.0.1.tgz"
+  }
+}

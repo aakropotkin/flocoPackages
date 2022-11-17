@@ -1,1 +1,62 @@
-{"1.0.0":{"narHash":"sha256-G0uYNLZu2fLyvLCmXfxac98u3drrtKJMtQquQzmHi+U=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-6yBLrq2neFHKBfmhVIVc1YxlBu3poHamcMzSl5ZFcHo=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-1.1.0.tgz"},"2.0.0":{"narHash":"sha256-CjjKRiqs97xKBsjRFgo86+kiXCGCTu3LSusJM8sMcx8=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-MobHHVj3kxRxSdguxE7ctW342EfRLfizWHvtXaZyX0Q=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-2.1.0.tgz"},"2.2.0":{"narHash":"sha256-pfJbOiGnDMh77op1R6Shx6H53Vpp9kNucjGxPS/lPKM=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-2.2.0.tgz"},"2.3.0":{"narHash":"sha256-aaGSSwidTyOjff8PjGEOhm8xVBQhdhUXSVdsHBvELok=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-2.3.0.tgz"},"2.4.0":{"narHash":"sha256-AGf7IhxLQU4WUsTn+LO56Qj6hMdgYHvdOQH3WMNxm7o=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-2.4.0.tgz"},"2.4.1":{"narHash":"sha256-6NQYW4QecccfCGFdiFXPapkMcnuIVrVCIZpIYdaQcPA=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-2.4.1.tgz"},"2.5.0":{"narHash":"sha256-pBBKhbyakO28YPaORYchqmPAIZQt0CXUM54ra0HhzyE=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-2.5.0.tgz"},"3.0.0":{"narHash":"sha256-/Nyz6YaCPwMrPs5j/XfxbsNQvulkXtXdr/MtiAkPxoU=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-90NPVT/yi1qghAOJgRSEDiw2qur3Wc+NDSsLwACSRB0=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-3.0.1.tgz"},"3.1.0":{"narHash":"sha256-bnDGvgecjRChYewx0EsyEdWEplgDS84zhnJcLuDZJjA=","type":"tarball","url":"https://registry.npmjs.org/macos-release/-/macos-release-3.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-G0uYNLZu2fLyvLCmXfxac98u3drrtKJMtQquQzmHi+U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-6yBLrq2neFHKBfmhVIVc1YxlBu3poHamcMzSl5ZFcHo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-1.1.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-CjjKRiqs97xKBsjRFgo86+kiXCGCTu3LSusJM8sMcx8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-MobHHVj3kxRxSdguxE7ctW342EfRLfizWHvtXaZyX0Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-2.1.0.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-pfJbOiGnDMh77op1R6Shx6H53Vpp9kNucjGxPS/lPKM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-2.2.0.tgz"
+  },
+  "2.3.0": {
+    "narHash": "sha256-aaGSSwidTyOjff8PjGEOhm8xVBQhdhUXSVdsHBvELok=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-2.3.0.tgz"
+  },
+  "2.4.0": {
+    "narHash": "sha256-AGf7IhxLQU4WUsTn+LO56Qj6hMdgYHvdOQH3WMNxm7o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-2.4.0.tgz"
+  },
+  "2.4.1": {
+    "narHash": "sha256-6NQYW4QecccfCGFdiFXPapkMcnuIVrVCIZpIYdaQcPA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-2.4.1.tgz"
+  },
+  "2.5.0": {
+    "narHash": "sha256-pBBKhbyakO28YPaORYchqmPAIZQt0CXUM54ra0HhzyE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-2.5.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-/Nyz6YaCPwMrPs5j/XfxbsNQvulkXtXdr/MtiAkPxoU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-90NPVT/yi1qghAOJgRSEDiw2qur3Wc+NDSsLwACSRB0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-3.0.1.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-bnDGvgecjRChYewx0EsyEdWEplgDS84zhnJcLuDZJjA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/macos-release/-/macos-release-3.1.0.tgz"
+  }
+}

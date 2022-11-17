@@ -1,1 +1,102 @@
-{"1.0.1":{"narHash":"sha256-9f7CCTp6n86gpDrlW59N70g2ROadfCToaj3WP2AMY0Y=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-lruw0JyUO2RZTLuc54i/3/7uWdwtMLa04EwuPozP/xk=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.1.0.tgz"},"1.10.0":{"narHash":"sha256-LG6ztHIKFYf29bYFbC96M4o333qC0/6/i3GpuYVZWH8=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.10.0.tgz"},"1.11.0":{"narHash":"sha256-b4066redGLa5mEWqfF5L1eVuudk77Suf5pYN6JgqMJc=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.11.0.tgz"},"1.12.0":{"narHash":"sha256-5pfayolr7p8zu+PdjbQs3LInY67DZAG59WzmohrFrJE=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.12.0.tgz"},"1.12.1":{"narHash":"sha256-B95e0q8ssFI26drRwvXMXNOYXZ1/AWBLaF+it5pHq40=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.12.1.tgz"},"1.2.0":{"narHash":"sha256-rj8gKd4d7iyH5jYnGmjTQXY6uPISepk/FvxxFf4Bt5g=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.2.0.tgz"},"1.3.0":{"narHash":"sha256-8r/XXt+6vlOoJbf7yOyHbiLzEaS6NsDzNKfyszXohOo=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.3.0.tgz"},"1.4.0":{"narHash":"sha256-G9pFVD+vVaX7+Z+QssYgDtwXpUJ3cEvIxstXLjZJb/Q=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.4.0.tgz"},"1.4.1":{"narHash":"sha256-TP+xG0eF9+UfchJofSnL2mLluXcK4Mqt3Sz39o54Byo=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.4.1.tgz"},"1.5.0":{"narHash":"sha256-Wlu2quvSVXfiWFI+IpA21wxal4O9MNIEWPqHBDQW7QE=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.5.0.tgz"},"1.6.0":{"narHash":"sha256-4eN3rLZRcTVh7/xi4VUL/T2NnspHdqbSsJtX1bQ1dNU=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.6.0.tgz"},"1.7.0":{"narHash":"sha256-WiKARPKT8iirCAcbHA5Xr22/hdmZx7rY0hBdn3+2hRk=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.7.0.tgz"},"1.8.0":{"narHash":"sha256-EuUMVm9hWAiwjxZvScFGs0obi67wuQlUUganO8iE3qY=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.8.0.tgz"},"1.9.0":{"narHash":"sha256-52M3vwenIIjuscCEmWcbUmqi67ngNaq2NLF/FqT+b9g=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.9.0.tgz"},"1.9.1":{"narHash":"sha256-sIDU2tsrlzwcMjUrig/EekwvZ5hIAvmnO0BV0rgg9do=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.9.1.tgz"},"1.9.2":{"narHash":"sha256-I7HJG7RIEpTynN2DLyxq8zy4NDGFVQNDzTH8ssJUuKw=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.9.2.tgz"},"1.9.3":{"narHash":"sha256-nat86/0FE9CMAN09AFEB/YYZ0r7XjPCy0nOn+e5tgAo=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.9.3.tgz"},"2.0.0":{"narHash":"sha256-DgAN806IhcSEC7B+8zUqyhaqWxhC279aHK/j4TvJNxk=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-2ZQuYA/7ittOJr7ybYOqi++Du9KdxA3QFZf72nKH1F8=","type":"tarball","url":"https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-2.1.0.tgz"}}
+{
+  "1.0.1": {
+    "narHash": "sha256-9f7CCTp6n86gpDrlW59N70g2ROadfCToaj3WP2AMY0Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-lruw0JyUO2RZTLuc54i/3/7uWdwtMLa04EwuPozP/xk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.1.0.tgz"
+  },
+  "1.10.0": {
+    "narHash": "sha256-LG6ztHIKFYf29bYFbC96M4o333qC0/6/i3GpuYVZWH8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.10.0.tgz"
+  },
+  "1.11.0": {
+    "narHash": "sha256-b4066redGLa5mEWqfF5L1eVuudk77Suf5pYN6JgqMJc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.11.0.tgz"
+  },
+  "1.12.0": {
+    "narHash": "sha256-5pfayolr7p8zu+PdjbQs3LInY67DZAG59WzmohrFrJE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.12.0.tgz"
+  },
+  "1.12.1": {
+    "narHash": "sha256-B95e0q8ssFI26drRwvXMXNOYXZ1/AWBLaF+it5pHq40=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.12.1.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-rj8gKd4d7iyH5jYnGmjTQXY6uPISepk/FvxxFf4Bt5g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.2.0.tgz"
+  },
+  "1.3.0": {
+    "narHash": "sha256-8r/XXt+6vlOoJbf7yOyHbiLzEaS6NsDzNKfyszXohOo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.3.0.tgz"
+  },
+  "1.4.0": {
+    "narHash": "sha256-G9pFVD+vVaX7+Z+QssYgDtwXpUJ3cEvIxstXLjZJb/Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.4.0.tgz"
+  },
+  "1.4.1": {
+    "narHash": "sha256-TP+xG0eF9+UfchJofSnL2mLluXcK4Mqt3Sz39o54Byo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.4.1.tgz"
+  },
+  "1.5.0": {
+    "narHash": "sha256-Wlu2quvSVXfiWFI+IpA21wxal4O9MNIEWPqHBDQW7QE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.5.0.tgz"
+  },
+  "1.6.0": {
+    "narHash": "sha256-4eN3rLZRcTVh7/xi4VUL/T2NnspHdqbSsJtX1bQ1dNU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.6.0.tgz"
+  },
+  "1.7.0": {
+    "narHash": "sha256-WiKARPKT8iirCAcbHA5Xr22/hdmZx7rY0hBdn3+2hRk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.7.0.tgz"
+  },
+  "1.8.0": {
+    "narHash": "sha256-EuUMVm9hWAiwjxZvScFGs0obi67wuQlUUganO8iE3qY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.8.0.tgz"
+  },
+  "1.9.0": {
+    "narHash": "sha256-52M3vwenIIjuscCEmWcbUmqi67ngNaq2NLF/FqT+b9g=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.9.0.tgz"
+  },
+  "1.9.1": {
+    "narHash": "sha256-sIDU2tsrlzwcMjUrig/EekwvZ5hIAvmnO0BV0rgg9do=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.9.1.tgz"
+  },
+  "1.9.2": {
+    "narHash": "sha256-I7HJG7RIEpTynN2DLyxq8zy4NDGFVQNDzTH8ssJUuKw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.9.2.tgz"
+  },
+  "1.9.3": {
+    "narHash": "sha256-nat86/0FE9CMAN09AFEB/YYZ0r7XjPCy0nOn+e5tgAo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-1.9.3.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-DgAN806IhcSEC7B+8zUqyhaqWxhC279aHK/j4TvJNxk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-2ZQuYA/7ittOJr7ybYOqi++Du9KdxA3QFZf72nKH1F8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/progress-bar-webpack-plugin/-/progress-bar-webpack-plugin-2.1.0.tgz"
+  }
+}

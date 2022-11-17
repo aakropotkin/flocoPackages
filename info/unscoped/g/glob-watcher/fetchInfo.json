@@ -1,1 +1,97 @@
-{"0.0.1":{"narHash":"sha256-f/gkR3W9tubus6MMRP3rtyA3kzZQrxk+7ryOTj/22gA=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-i6Tm1mBQxMTMBRUnQlLq7rhK09+eaxjR0shNKlAxk9Y=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.2.tgz"},"0.0.3":{"narHash":"sha256-Z9qiXpNepV/rsXIPItqSG4z6AqO343QCHd75PIy9HKc=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.3.tgz"},"0.0.4":{"narHash":"sha256-DuieSCltUIC+Wn78VazWjMhtIx4704ndunZ8bUaSplc=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.4.tgz"},"0.0.5":{"narHash":"sha256-URmwBZW89PJaFXaECoKEkfTY+YmFn1BlEnLNSg2d/wg=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.5.tgz"},"0.0.6":{"narHash":"sha256-yC2+BfTTfvHPIYnr2PG8adBpW1cusUyNPFCIVl7AE5c=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.6.tgz"},"0.0.7":{"narHash":"sha256-2psReqssS3/NeWJ158Q69z1cEqLWlUCSTzvhFkcmkJY=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.7.tgz"},"0.0.8":{"narHash":"sha256-iggcGQRKJUjOFLMTKTj914VhGNymFGfgdEvM9HtkEik=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.8.tgz"},"2.0.0":{"narHash":"sha256-BvtAIqi0tWbeYXjvn33qwfii6N+Ha0LpNlzhQm6emBI=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-+fX0lBeG60zz+BmoRaV1KhxWzU0KjwBmsBAGA6HMIUo=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-tGsqBvVHnOAMrIzjjJvJI3/PBI9IM9KkDvnipx5L7B8=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-3.1.0.tgz"},"3.2.0":{"narHash":"sha256-XjThZfbGetcj0pSHIklvx5NOL9TObEp2ul4N0dpxfEo=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-3.2.0.tgz"},"4.0.0":{"narHash":"sha256-DR15lBzwUcxbEJ8ovGFB9fBerNfsubM7nyuIkpYlpiQ=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-4.0.0.tgz"},"5.0.0":{"narHash":"sha256-fOxdspZz4KianLnxywxdXC7gApu4DbFM0ci+zY4tCAs=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-BGzXVPKaYQgIiX9d9NkLfWrRvSBsrtSL4blLr6yRJGU=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-V0aq9E/NTrFzgCO2UFn/WpWIJRZ3RJ0q6q4s+hXW09Q=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-80wsv1HfETZ7Kx2MtQLsDhDsvy7so3YYVvij2n/IMCE=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-AsCz3hGdXUi8SXAaW5oEiTvK3+G6oIlDJ46nic1+hco=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.4.tgz"},"5.0.5":{"narHash":"sha256-xS5hGPTF7hmU3lTYF9CJ5t+E4R4qyKeSXEC6YVln9hw=","type":"tarball","url":"https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.5.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-f/gkR3W9tubus6MMRP3rtyA3kzZQrxk+7ryOTj/22gA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-i6Tm1mBQxMTMBRUnQlLq7rhK09+eaxjR0shNKlAxk9Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.2.tgz"
+  },
+  "0.0.3": {
+    "narHash": "sha256-Z9qiXpNepV/rsXIPItqSG4z6AqO343QCHd75PIy9HKc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.3.tgz"
+  },
+  "0.0.4": {
+    "narHash": "sha256-DuieSCltUIC+Wn78VazWjMhtIx4704ndunZ8bUaSplc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.4.tgz"
+  },
+  "0.0.5": {
+    "narHash": "sha256-URmwBZW89PJaFXaECoKEkfTY+YmFn1BlEnLNSg2d/wg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.5.tgz"
+  },
+  "0.0.6": {
+    "narHash": "sha256-yC2+BfTTfvHPIYnr2PG8adBpW1cusUyNPFCIVl7AE5c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.6.tgz"
+  },
+  "0.0.7": {
+    "narHash": "sha256-2psReqssS3/NeWJ158Q69z1cEqLWlUCSTzvhFkcmkJY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.7.tgz"
+  },
+  "0.0.8": {
+    "narHash": "sha256-iggcGQRKJUjOFLMTKTj914VhGNymFGfgdEvM9HtkEik=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.8.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-BvtAIqi0tWbeYXjvn33qwfii6N+Ha0LpNlzhQm6emBI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-+fX0lBeG60zz+BmoRaV1KhxWzU0KjwBmsBAGA6HMIUo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-tGsqBvVHnOAMrIzjjJvJI3/PBI9IM9KkDvnipx5L7B8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-3.1.0.tgz"
+  },
+  "3.2.0": {
+    "narHash": "sha256-XjThZfbGetcj0pSHIklvx5NOL9TObEp2ul4N0dpxfEo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-3.2.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-DR15lBzwUcxbEJ8ovGFB9fBerNfsubM7nyuIkpYlpiQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-4.0.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-fOxdspZz4KianLnxywxdXC7gApu4DbFM0ci+zY4tCAs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-BGzXVPKaYQgIiX9d9NkLfWrRvSBsrtSL4blLr6yRJGU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-V0aq9E/NTrFzgCO2UFn/WpWIJRZ3RJ0q6q4s+hXW09Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-80wsv1HfETZ7Kx2MtQLsDhDsvy7so3YYVvij2n/IMCE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-AsCz3hGdXUi8SXAaW5oEiTvK3+G6oIlDJ46nic1+hco=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.4.tgz"
+  },
+  "5.0.5": {
+    "narHash": "sha256-xS5hGPTF7hmU3lTYF9CJ5t+E4R4qyKeSXEC6YVln9hw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-5.0.5.tgz"
+  }
+}

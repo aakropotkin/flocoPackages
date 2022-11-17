@@ -1,1 +1,77 @@
-{"1.0.0":{"narHash":"sha256-o1mOylM/HNSrL6qpkffvEoR2dOOz2Wjy3YFpsrTmSKI=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-z8oS22JuuSQZkcRmTqkOh9bHPP2O6OqtW8+IOe0Jf/Y=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-FZD0MG1qhrTIacja3xxtb/O8vnVH2VDLLmyxt+ohfPY=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-ZvKdkxickq6dPVijcTAgouJyjWYCK8dJMLpbFl4DGiQ=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-RXXhIbZIrRQ9s9PKKYkH9lba1ZTewqllUNniwLp8T40=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-1Iufod4f3xrbAH1C3PW8e8mGdGLv6GUQKpNHy4PGsEI=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.5.tgz"},"4.0.0":{"narHash":"sha256-wEJzzvGBtMo6u4X0guPon1Oj6rR0j00b55ktGOqiK3E=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-stSIFqUmNHvYbtGrNv/3csNrLXXbI8B6C2MTnFa6D6M=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.1.tgz"},"4.0.2":{"narHash":"sha256-t3yTp8dpL0VeBZ4FXpiWsYh3IcCsUV4PPiuhpBZ4hDQ=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.2.tgz"},"5.0.0":{"narHash":"sha256-0yQC3aJthHWbthQ8Ov/as02jUBMjKsVPojaALVKQLBA=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-LSNe/xAHUsrpv0wjNc52TskLVkcbzrP0YegluQFCvGI=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-HKcE18xZm1CThUixiViIOAn7q983rw+v+ORhzwOOcYo=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.2.tgz"},"5.0.3":{"narHash":"sha256-xqkUxkh1IFF9LZ3s+VDovMmgX+yie2wqJioRgYfJ5N4=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.3.tgz"},"5.0.4":{"narHash":"sha256-9vQNcnSoM95qAiVVwNT18N9TKz84dEsfcroe7kcCGEo=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.4.tgz"},"5.1.0":{"narHash":"sha256-FsaodSNJajtsenU8qWqTqb+MUXk9V1iNM/GZabF6rUI=","type":"tarball","url":"https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-o1mOylM/HNSrL6qpkffvEoR2dOOz2Wjy3YFpsrTmSKI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-z8oS22JuuSQZkcRmTqkOh9bHPP2O6OqtW8+IOe0Jf/Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-FZD0MG1qhrTIacja3xxtb/O8vnVH2VDLLmyxt+ohfPY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-ZvKdkxickq6dPVijcTAgouJyjWYCK8dJMLpbFl4DGiQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-RXXhIbZIrRQ9s9PKKYkH9lba1ZTewqllUNniwLp8T40=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-1Iufod4f3xrbAH1C3PW8e8mGdGLv6GUQKpNHy4PGsEI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-1.0.5.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-wEJzzvGBtMo6u4X0guPon1Oj6rR0j00b55ktGOqiK3E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-stSIFqUmNHvYbtGrNv/3csNrLXXbI8B6C2MTnFa6D6M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.1.tgz"
+  },
+  "4.0.2": {
+    "narHash": "sha256-t3yTp8dpL0VeBZ4FXpiWsYh3IcCsUV4PPiuhpBZ4hDQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.2.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-0yQC3aJthHWbthQ8Ov/as02jUBMjKsVPojaALVKQLBA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-LSNe/xAHUsrpv0wjNc52TskLVkcbzrP0YegluQFCvGI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-HKcE18xZm1CThUixiViIOAn7q983rw+v+ORhzwOOcYo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.2.tgz"
+  },
+  "5.0.3": {
+    "narHash": "sha256-xqkUxkh1IFF9LZ3s+VDovMmgX+yie2wqJioRgYfJ5N4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.3.tgz"
+  },
+  "5.0.4": {
+    "narHash": "sha256-9vQNcnSoM95qAiVVwNT18N9TKz84dEsfcroe7kcCGEo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.0.4.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-FsaodSNJajtsenU8qWqTqb+MUXk9V1iNM/GZabF6rUI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.1.0.tgz"
+  }
+}

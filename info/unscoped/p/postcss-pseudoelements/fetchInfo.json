@@ -1,1 +1,42 @@
-{"1.0.0":{"narHash":"sha256-3PFPz99zV0vaUkGciz3riSkLASIXwfUGvy1cZiRpTTU=","type":"tarball","url":"https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-1.0.0.tgz"},"2.0.0":{"narHash":"sha256-wDivbWwThhaBEKDdTauipzmj6AbsaQcFAzss7EUL/J4=","type":"tarball","url":"https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-VutpaftKVYLmTmPUNLRU0Zw4k6EtJtqlTOx6SDqXmXg=","type":"tarball","url":"https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-2.1.0.tgz"},"2.1.1":{"narHash":"sha256-achmUpwV5+nc5qCMSeK1GrSgxRBoQMtVBTMFCexhZRI=","type":"tarball","url":"https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-2.1.1.tgz"},"2.2.0":{"narHash":"sha256-0ON6kX2fJT4/IixcIvIRKgoE1g6tzOcQYsk6Sn4UpDI=","type":"tarball","url":"https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-2.2.0.tgz"},"3.0.0":{"narHash":"sha256-xKb0+e+l1/E+S+kNOWABSbM2+WA5hAMNrbVtGgZveO0=","type":"tarball","url":"https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-JritwqkP4q5zuMDj8t6M2GvZu1ySNOu/5+rLfD+/m3o=","type":"tarball","url":"https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-4.0.0.tgz"},"5.0.0":{"narHash":"sha256-8lomGHSA+kbj975vLzXiYH/+O5hX5/tifSI3HVoxp0w=","type":"tarball","url":"https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-5.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-3PFPz99zV0vaUkGciz3riSkLASIXwfUGvy1cZiRpTTU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-1.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-wDivbWwThhaBEKDdTauipzmj6AbsaQcFAzss7EUL/J4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-VutpaftKVYLmTmPUNLRU0Zw4k6EtJtqlTOx6SDqXmXg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-2.1.0.tgz"
+  },
+  "2.1.1": {
+    "narHash": "sha256-achmUpwV5+nc5qCMSeK1GrSgxRBoQMtVBTMFCexhZRI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-2.1.1.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-0ON6kX2fJT4/IixcIvIRKgoE1g6tzOcQYsk6Sn4UpDI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-2.2.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-xKb0+e+l1/E+S+kNOWABSbM2+WA5hAMNrbVtGgZveO0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-JritwqkP4q5zuMDj8t6M2GvZu1ySNOu/5+rLfD+/m3o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-4.0.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-8lomGHSA+kbj975vLzXiYH/+O5hX5/tifSI3HVoxp0w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/postcss-pseudoelements/-/postcss-pseudoelements-5.0.0.tgz"
+  }
+}

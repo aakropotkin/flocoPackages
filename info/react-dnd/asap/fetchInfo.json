@@ -1,1 +1,32 @@
-{"3.0.0":{"narHash":"sha256-rExxw5aZg3LQ+2jFSZYtJEwmhEvKgt04F/RkxrDm2N8=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/asap/-/asap-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-Jj36YrBCXQggRGI6KTJKWzHJWZPcWxrGkOECdx5GoDg=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/asap/-/asap-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-h3iQ5pEeojMIdy1AYKkSlgZP0Db76CeCKjeUq5L6xSM=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/asap/-/asap-4.0.1.tgz"},"5.0.0":{"narHash":"sha256-Cdkn4bmuL48yF0F8dOgfH/tRe57e12fwuxhwr/pIL4c=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/asap/-/asap-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-+c6imPnF/OlHqNHP3hPEz/ojj2jvrilPNHqXwTmwDxc=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/asap/-/asap-5.0.1.tgz"},"5.0.2":{"narHash":"sha256-EEgb/dZ1v90eghCUNsFZSv6OAfXDoo77a+mWuNDGV7E=","type":"tarball","url":"https://registry.npmjs.org/@react-dnd/asap/-/asap-5.0.2.tgz"}}
+{
+  "3.0.0": {
+    "narHash": "sha256-rExxw5aZg3LQ+2jFSZYtJEwmhEvKgt04F/RkxrDm2N8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/asap/-/asap-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-Jj36YrBCXQggRGI6KTJKWzHJWZPcWxrGkOECdx5GoDg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/asap/-/asap-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-h3iQ5pEeojMIdy1AYKkSlgZP0Db76CeCKjeUq5L6xSM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/asap/-/asap-4.0.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-Cdkn4bmuL48yF0F8dOgfH/tRe57e12fwuxhwr/pIL4c=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/asap/-/asap-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-+c6imPnF/OlHqNHP3hPEz/ojj2jvrilPNHqXwTmwDxc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/asap/-/asap-5.0.1.tgz"
+  },
+  "5.0.2": {
+    "narHash": "sha256-EEgb/dZ1v90eghCUNsFZSv6OAfXDoo77a+mWuNDGV7E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@react-dnd/asap/-/asap-5.0.2.tgz"
+  }
+}

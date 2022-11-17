@@ -1,1 +1,67 @@
-{"1.1.0":{"narHash":"sha256-i2nAb1U6Xx15Gyu01j9otTtjtdCBLFZ7Pn1sqZw7eFk=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-07543eAon959lXdeQZ0mHPAMyBGs0xwWPrC2BMnu2Tc=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-+UF+pmhrrEyCj75/Gp3svKuooc2JgesdqLZA5H0Wq0s=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-1.1.2.tgz"},"2.0.0":{"narHash":"sha256-XHk1h8cyPicgmgpHAollY7cNk5t+u5ToVvesf7XYcME=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-ybLzh7PUkDXtKuLQho/s30eZUXPzXz7AabHUC4kqQdI=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-2.0.1.tgz"},"2.0.2":{"narHash":"sha256-3IHopbouzQzqwRUz0dzUst6RBRWLEbp2xNfjXYVg46Y=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-2.0.2.tgz"},"3.0.0":{"narHash":"sha256-4HLf3AnSKYOZnV+58N/rAetPhwhbGKGw+sjNOucYuvw=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-oqms7wLtKh3ozDnRqg7qzcV/ChGvSKv1HHNwQXF4saQ=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-MMHRCS4rMQHv81RP0D95Yc+lojgwybs7Fo1QAWdSA1s=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-3.0.2.tgz"},"3.0.3":{"narHash":"sha256-IgkAtObKK8XIL0jKo2pJeOyhR3MBXsev3KiJ7XLgemg=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-3.0.3.tgz"},"3.1.0":{"narHash":"sha256-SerZ3m5Cvw9E5wLUutCT1ooaH0Y1b8BSjS4uFWDOBLM=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-3.1.0.tgz"},"4.0.0":{"narHash":"sha256-kuyzYE+8C4VpAiYuIqBxlgcAveoYLlV8KgA+KepbNZ4=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-4.0.0.tgz"},"5.0.0":{"narHash":"sha256-ibeeYnHXyEyUGsclo2HPRf5RgPWBSmc3a1XvLAjCTe4=","type":"tarball","url":"https://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz"}}
+{
+  "1.1.0": {
+    "narHash": "sha256-i2nAb1U6Xx15Gyu01j9otTtjtdCBLFZ7Pn1sqZw7eFk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-07543eAon959lXdeQZ0mHPAMyBGs0xwWPrC2BMnu2Tc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-+UF+pmhrrEyCj75/Gp3svKuooc2JgesdqLZA5H0Wq0s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-1.1.2.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-XHk1h8cyPicgmgpHAollY7cNk5t+u5ToVvesf7XYcME=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-ybLzh7PUkDXtKuLQho/s30eZUXPzXz7AabHUC4kqQdI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-2.0.1.tgz"
+  },
+  "2.0.2": {
+    "narHash": "sha256-3IHopbouzQzqwRUz0dzUst6RBRWLEbp2xNfjXYVg46Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-2.0.2.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-4HLf3AnSKYOZnV+58N/rAetPhwhbGKGw+sjNOucYuvw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-oqms7wLtKh3ozDnRqg7qzcV/ChGvSKv1HHNwQXF4saQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-MMHRCS4rMQHv81RP0D95Yc+lojgwybs7Fo1QAWdSA1s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-3.0.2.tgz"
+  },
+  "3.0.3": {
+    "narHash": "sha256-IgkAtObKK8XIL0jKo2pJeOyhR3MBXsev3KiJ7XLgemg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-3.0.3.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-SerZ3m5Cvw9E5wLUutCT1ooaH0Y1b8BSjS4uFWDOBLM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-3.1.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-kuyzYE+8C4VpAiYuIqBxlgcAveoYLlV8KgA+KepbNZ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-4.0.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-ibeeYnHXyEyUGsclo2HPRf5RgPWBSmc3a1XvLAjCTe4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz"
+  }
+}

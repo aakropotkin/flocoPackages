@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-s1K6W6Bpv6YESRBdkNAvYEEET4fEcJGX48SW1mki7pk=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-H03yLPHnJoldo2vPSHTzqbqJzdWMeb2fziNUGa4+BT8=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-Pa5B29vMlLBb0uDEVNuu/uMVicSBJNdkOEf4bqpdzDg=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-kwzGzqiIQL4pZQvh1lFHkklZjHW6MPIJOSScoJ6Y0W0=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-ZcTzz4PZzdFUaDpmzdNp5fXTBEiExS5b0d2rcF4odSg=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.4.tgz"},"1.1.0":{"narHash":"sha256-ntqKy9KKmBJbb7Q1F+6G2mVkc/9OtYqxZ4vuoz+c0tQ=","type":"tarball","url":"https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.1.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-s1K6W6Bpv6YESRBdkNAvYEEET4fEcJGX48SW1mki7pk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-H03yLPHnJoldo2vPSHTzqbqJzdWMeb2fziNUGa4+BT8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-Pa5B29vMlLBb0uDEVNuu/uMVicSBJNdkOEf4bqpdzDg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-kwzGzqiIQL4pZQvh1lFHkklZjHW6MPIJOSScoJ6Y0W0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-ZcTzz4PZzdFUaDpmzdNp5fXTBEiExS5b0d2rcF4odSg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.0.4.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-ntqKy9KKmBJbb7Q1F+6G2mVkc/9OtYqxZ4vuoz+c0tQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.1.0.tgz"
+  }
+}

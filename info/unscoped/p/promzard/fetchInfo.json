@@ -1,1 +1,42 @@
-{"0.0.1":{"narHash":"sha256-jav/nPxZf1YtaFxEPH9GBwQPAZYgd9Y8Vyhc+Swa05Y=","type":"tarball","url":"https://registry.npmjs.org/promzard/-/promzard-0.0.1.tgz"},"0.0.2":{"narHash":"sha256-nX36iaFcmVy2Z5a8WsaUXH+NIs72NQWM5doiKGUGqBc=","type":"tarball","url":"https://registry.npmjs.org/promzard/-/promzard-0.0.2.tgz"},"0.1.4":{"narHash":"sha256-HRgJ1mhb4LMslJwer+ZEHlEATkm/GpWCbBNxH6jRDFk=","type":"tarball","url":"https://registry.npmjs.org/promzard/-/promzard-0.1.4.tgz"},"0.1.5":{"narHash":"sha256-3Vu/xVoxV2Ld65N54onM+3t3Fia2zl8mZMK2xI6kaWw=","type":"tarball","url":"https://registry.npmjs.org/promzard/-/promzard-0.1.5.tgz"},"0.2.0":{"narHash":"sha256-XH5/AcmgWjJ/fx/Q0ICqswTzhrCzXJdvNu3WMm8epJM=","type":"tarball","url":"https://registry.npmjs.org/promzard/-/promzard-0.2.0.tgz"},"0.2.1":{"narHash":"sha256-kB6P3zyCxivLwQEJB6pgX5GSmTDZSn4wly/F0giqjf4=","type":"tarball","url":"https://registry.npmjs.org/promzard/-/promzard-0.2.1.tgz"},"0.2.2":{"narHash":"sha256-DFIeiqXSZJYn2S5ZFGq6tWzHmzh25DNTgO5u+n1YmTg=","type":"tarball","url":"https://registry.npmjs.org/promzard/-/promzard-0.2.2.tgz"},"0.3.0":{"narHash":"sha256-VaczOSigi3RLB4WrdSN5oIlw2ySZVquCLWO+UMsC0Hg=","type":"tarball","url":"https://registry.npmjs.org/promzard/-/promzard-0.3.0.tgz"}}
+{
+  "0.0.1": {
+    "narHash": "sha256-jav/nPxZf1YtaFxEPH9GBwQPAZYgd9Y8Vyhc+Swa05Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promzard/-/promzard-0.0.1.tgz"
+  },
+  "0.0.2": {
+    "narHash": "sha256-nX36iaFcmVy2Z5a8WsaUXH+NIs72NQWM5doiKGUGqBc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promzard/-/promzard-0.0.2.tgz"
+  },
+  "0.1.4": {
+    "narHash": "sha256-HRgJ1mhb4LMslJwer+ZEHlEATkm/GpWCbBNxH6jRDFk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promzard/-/promzard-0.1.4.tgz"
+  },
+  "0.1.5": {
+    "narHash": "sha256-3Vu/xVoxV2Ld65N54onM+3t3Fia2zl8mZMK2xI6kaWw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promzard/-/promzard-0.1.5.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-XH5/AcmgWjJ/fx/Q0ICqswTzhrCzXJdvNu3WMm8epJM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promzard/-/promzard-0.2.0.tgz"
+  },
+  "0.2.1": {
+    "narHash": "sha256-kB6P3zyCxivLwQEJB6pgX5GSmTDZSn4wly/F0giqjf4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promzard/-/promzard-0.2.1.tgz"
+  },
+  "0.2.2": {
+    "narHash": "sha256-DFIeiqXSZJYn2S5ZFGq6tWzHmzh25DNTgO5u+n1YmTg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promzard/-/promzard-0.2.2.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-VaczOSigi3RLB4WrdSN5oIlw2ySZVquCLWO+UMsC0Hg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/promzard/-/promzard-0.3.0.tgz"
+  }
+}

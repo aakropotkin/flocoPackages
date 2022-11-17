@@ -1,1 +1,52 @@
-{"4.0.0":{"narHash":"sha256-OqXXR+SBfo+O1xqHC3d2p8ACUevPcP+eX58McBxc9b8=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-4.0.0.tgz"},"4.2.0":{"narHash":"sha256-U3fHrR61bWPE1QBMaPyl1nw6DdbC4JUqtzLJ+c0rlMs=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-4.2.0.tgz"},"5.0.0":{"narHash":"sha256-JzwOvfpAqeKUeJAd5HWD7JU3x5Fm2pFSYwSzHpe6RpA=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-sG/FVqT2V0AJWLHEtp6KZ03/Ba8l2IORnQyHVl0vQZU=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-5.0.1.tgz"},"5.4.0":{"narHash":"sha256-EKENvEUIua0PZOMp9K29fkxGk6Kyfu8sd6HKnHqqSyI=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-5.4.0.tgz"},"6.0.0":{"narHash":"sha256-DycZvMVtl7hPKclz57wal0D9CY+TDJwYJl+MUBm+5ZM=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.0.0.tgz"},"6.3.0":{"narHash":"sha256-yr2vDj+2j0bKXC+Bv92fnkCnxiYT5C/lAcnp8YQ0aTU=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.3.0.tgz"},"6.3.1":{"narHash":"sha256-FUeXOSv4iv9DV2JGw+d3/ZyESUXXhU7XMR0105xijOw=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.3.1.tgz"},"6.5.0":{"narHash":"sha256-vp+vPP33nob4DYqHdumUpgg8yTsd9DoMApJB/wxAIRQ=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.5.0.tgz"},"6.5.1":{"narHash":"sha256-jX3zknuiiAEHn7LokD/hlDxg30d2Kzp0L/9TLOUBINc=","type":"tarball","url":"https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.5.1.tgz"}}
+{
+  "4.0.0": {
+    "narHash": "sha256-OqXXR+SBfo+O1xqHC3d2p8ACUevPcP+eX58McBxc9b8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-4.0.0.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-U3fHrR61bWPE1QBMaPyl1nw6DdbC4JUqtzLJ+c0rlMs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-4.2.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-JzwOvfpAqeKUeJAd5HWD7JU3x5Fm2pFSYwSzHpe6RpA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-sG/FVqT2V0AJWLHEtp6KZ03/Ba8l2IORnQyHVl0vQZU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-5.0.1.tgz"
+  },
+  "5.4.0": {
+    "narHash": "sha256-EKENvEUIua0PZOMp9K29fkxGk6Kyfu8sd6HKnHqqSyI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-5.4.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-DycZvMVtl7hPKclz57wal0D9CY+TDJwYJl+MUBm+5ZM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.0.0.tgz"
+  },
+  "6.3.0": {
+    "narHash": "sha256-yr2vDj+2j0bKXC+Bv92fnkCnxiYT5C/lAcnp8YQ0aTU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.3.0.tgz"
+  },
+  "6.3.1": {
+    "narHash": "sha256-FUeXOSv4iv9DV2JGw+d3/ZyESUXXhU7XMR0105xijOw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.3.1.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-vp+vPP33nob4DYqHdumUpgg8yTsd9DoMApJB/wxAIRQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.5.0.tgz"
+  },
+  "6.5.1": {
+    "narHash": "sha256-jX3zknuiiAEHn7LokD/hlDxg30d2Kzp0L/9TLOUBINc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/-/babel-plugin-svg-em-dimensions-6.5.1.tgz"
+  }
+}

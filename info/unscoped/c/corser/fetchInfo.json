@@ -1,1 +1,57 @@
-{"0.1.0":{"narHash":"sha256-9eDL/UPMzSLt2a59WKrkMfEQlGjJyDAq45UnFkjjEbE=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-0.1.0.tgz"},"0.2.0":{"narHash":"sha256-u6kNvoWPju0UpOp/FrbF5JXBD25UP1pCdX7OfT9YfgM=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-0.2.0.tgz"},"1.0.0":{"narHash":"sha256-GqMIZymoij0cfksyiXibGfEpmJHpa5hA2oP04oEImC4=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-bg67/wWHzkLfRGhXTS82AuLJXS1wVhCUbOzgIAI08Uo=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-ipwyxHOXto/o/W0N6ECT4HpHJDXwpEts3t938kQnXZA=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-1.0.2.tgz"},"1.1.0":{"narHash":"sha256-8T6MDtS3Gl9AVhGhmRCa9tgTuse77l51wlIn1pOZ6Co=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-1.1.0.tgz"},"1.1.1":{"narHash":"sha256-6V/NpcvLzFCwCB/gEbcxC0aoCoaioPWP6o+8fQ0Drrc=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-1.1.1.tgz"},"1.1.2":{"narHash":"sha256-vpxjUOH5wBSDhMmfVfQJ05yIwmOOhCtPOQ+qg2otDDo=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-1.1.2.tgz"},"1.2.0":{"narHash":"sha256-U7Rr5LN6o/Dl56Sg1KzbI/7+Xjd4lHSCIfkrNejg1EQ=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-c+wkOi+rD4r3OxhZd81juTUppEQr4yAeT38Wat7KB6M=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-O+03q3erysamKD9INOREoG1p3JBHxPu9Z1umKg5Gbn4=","type":"tarball","url":"https://registry.npmjs.org/corser/-/corser-2.0.1.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-9eDL/UPMzSLt2a59WKrkMfEQlGjJyDAq45UnFkjjEbE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-0.1.0.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-u6kNvoWPju0UpOp/FrbF5JXBD25UP1pCdX7OfT9YfgM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-0.2.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-GqMIZymoij0cfksyiXibGfEpmJHpa5hA2oP04oEImC4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-bg67/wWHzkLfRGhXTS82AuLJXS1wVhCUbOzgIAI08Uo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-ipwyxHOXto/o/W0N6ECT4HpHJDXwpEts3t938kQnXZA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-1.0.2.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-8T6MDtS3Gl9AVhGhmRCa9tgTuse77l51wlIn1pOZ6Co=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-1.1.0.tgz"
+  },
+  "1.1.1": {
+    "narHash": "sha256-6V/NpcvLzFCwCB/gEbcxC0aoCoaioPWP6o+8fQ0Drrc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-1.1.1.tgz"
+  },
+  "1.1.2": {
+    "narHash": "sha256-vpxjUOH5wBSDhMmfVfQJ05yIwmOOhCtPOQ+qg2otDDo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-1.1.2.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-U7Rr5LN6o/Dl56Sg1KzbI/7+Xjd4lHSCIfkrNejg1EQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-c+wkOi+rD4r3OxhZd81juTUppEQr4yAeT38Wat7KB6M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-O+03q3erysamKD9INOREoG1p3JBHxPu9Z1umKg5Gbn4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/corser/-/corser-2.0.1.tgz"
+  }
+}

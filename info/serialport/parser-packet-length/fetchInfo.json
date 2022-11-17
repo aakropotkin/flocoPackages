@@ -1,1 +1,37 @@
-{"10.0.0":{"narHash":"sha256-hhyBLuoqyy8IFAu8yLSsF+XTK26DueTcDxrMAN3y4Uk=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.0.0.tgz"},"10.2.0":{"narHash":"sha256-AmUW3tegHRGRCN2sEntNb/kXKSxmqK3geERCykBihzE=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.2.0.tgz"},"10.2.1":{"narHash":"sha256-KmF4zpKKqWQPn8pCShYnLbZNNTxgmuWS/i0MV3knkzY=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.2.1.tgz"},"10.2.2":{"narHash":"sha256-o7iK9hTtszpmVppLl+jLXVIsgdhXSkfwqgNKSwIYHLc=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.2.2.tgz"},"10.3.0":{"narHash":"sha256-lu5RzhAYOZw2OO35VmNC7vfyhfDSVwvSdpdYdxwag1k=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.3.0.tgz"},"9.0.8":{"narHash":"sha256-Ir1hMUopXkdYsj1jKynE/AAghSRBbNjSQ6TORqdl6I8=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-9.0.8.tgz"},"9.2.4":{"narHash":"sha256-lnUZWWeR4OroG78RAu5Q+jD4xUBTirRbyKdH/QvAEEQ=","type":"tarball","url":"https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-9.2.4.tgz"}}
+{
+  "10.0.0": {
+    "narHash": "sha256-hhyBLuoqyy8IFAu8yLSsF+XTK26DueTcDxrMAN3y4Uk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.0.0.tgz"
+  },
+  "10.2.0": {
+    "narHash": "sha256-AmUW3tegHRGRCN2sEntNb/kXKSxmqK3geERCykBihzE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.2.0.tgz"
+  },
+  "10.2.1": {
+    "narHash": "sha256-KmF4zpKKqWQPn8pCShYnLbZNNTxgmuWS/i0MV3knkzY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.2.1.tgz"
+  },
+  "10.2.2": {
+    "narHash": "sha256-o7iK9hTtszpmVppLl+jLXVIsgdhXSkfwqgNKSwIYHLc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.2.2.tgz"
+  },
+  "10.3.0": {
+    "narHash": "sha256-lu5RzhAYOZw2OO35VmNC7vfyhfDSVwvSdpdYdxwag1k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-10.3.0.tgz"
+  },
+  "9.0.8": {
+    "narHash": "sha256-Ir1hMUopXkdYsj1jKynE/AAghSRBbNjSQ6TORqdl6I8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-9.0.8.tgz"
+  },
+  "9.2.4": {
+    "narHash": "sha256-lnUZWWeR4OroG78RAu5Q+jD4xUBTirRbyKdH/QvAEEQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@serialport/parser-packet-length/-/parser-packet-length-9.2.4.tgz"
+  }
+}

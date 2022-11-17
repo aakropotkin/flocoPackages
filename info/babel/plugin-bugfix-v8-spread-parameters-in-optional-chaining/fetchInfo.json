@@ -1,1 +1,42 @@
-{"7.13.12":{"narHash":"sha256-Hh9Vd9jGb/RMP0rdW6e7+JcVu5xRpdh/FeqE1H+rFJg=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.13.12.tgz"},"7.14.5":{"narHash":"sha256-UTwHbbCa+35ru/zenxBV1jr41eo7sLMx71HIAlTJrWQ=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.14.5.tgz"},"7.15.4":{"narHash":"sha256-c6k4Y050Nz/Hq2n7vYGYuGXw3vLubFRhQ8VsGVKkXSQ=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.15.4.tgz"},"7.16.0":{"narHash":"sha256-+D1UWLj8rVPKz2GsWSHu6bRNzY2tsBLpftrq+qNo7ag=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.16.0.tgz"},"7.16.7":{"narHash":"sha256-lhiccC9wKknF6hlA9nF5o/dNKzwHITfjRk+Ui6yiF/Y=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.16.7.tgz"},"7.17.12":{"narHash":"sha256-XepWAfPEYTBLqmoRAPz4b4t1t91hpUNnF7TGguF5QuQ=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.17.12.tgz"},"7.18.6":{"narHash":"sha256-fGBx+cZbtP8svbjgr02bPr+CfRekcVA8Ko7UBeai0TM=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.18.6.tgz"},"7.18.9":{"narHash":"sha256-B0WYXAivTIhvo4jEbkNGBVWepVwnixzMz/3WmlarMwk=","type":"tarball","url":"https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.18.9.tgz"}}
+{
+  "7.13.12": {
+    "narHash": "sha256-Hh9Vd9jGb/RMP0rdW6e7+JcVu5xRpdh/FeqE1H+rFJg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.13.12.tgz"
+  },
+  "7.14.5": {
+    "narHash": "sha256-UTwHbbCa+35ru/zenxBV1jr41eo7sLMx71HIAlTJrWQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.14.5.tgz"
+  },
+  "7.15.4": {
+    "narHash": "sha256-c6k4Y050Nz/Hq2n7vYGYuGXw3vLubFRhQ8VsGVKkXSQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.15.4.tgz"
+  },
+  "7.16.0": {
+    "narHash": "sha256-+D1UWLj8rVPKz2GsWSHu6bRNzY2tsBLpftrq+qNo7ag=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.16.0.tgz"
+  },
+  "7.16.7": {
+    "narHash": "sha256-lhiccC9wKknF6hlA9nF5o/dNKzwHITfjRk+Ui6yiF/Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.16.7.tgz"
+  },
+  "7.17.12": {
+    "narHash": "sha256-XepWAfPEYTBLqmoRAPz4b4t1t91hpUNnF7TGguF5QuQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.17.12.tgz"
+  },
+  "7.18.6": {
+    "narHash": "sha256-fGBx+cZbtP8svbjgr02bPr+CfRekcVA8Ko7UBeai0TM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.18.6.tgz"
+  },
+  "7.18.9": {
+    "narHash": "sha256-B0WYXAivTIhvo4jEbkNGBVWepVwnixzMz/3WmlarMwk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/-/plugin-bugfix-v8-spread-parameters-in-optional-chaining-7.18.9.tgz"
+  }
+}

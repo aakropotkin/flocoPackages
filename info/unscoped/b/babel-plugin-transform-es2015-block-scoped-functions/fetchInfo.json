@@ -1,1 +1,72 @@
-{"6.0.14":{"narHash":"sha256-RfCGXG2bALBOfW1wOimpzBak15LOkOWR3tQ/oCRDksY=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-DzIeOy7uE7inymY5z3m58AnwZAOCSHEGbLy/9UjjYjM=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.0.2.tgz"},"6.1.10":{"narHash":"sha256-lwcXQPW9GGEhNvAocD6azYcgPiMpMUc2prVPkf0z1rU=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.10.tgz"},"6.1.17":{"narHash":"sha256-EGFNNxBpn31fYZb8i5RLhLm2JeWq7PtDTOcM4wuEXgI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-QpvFRJn2l5Hq66blzMBPD0+9d4ZiSmpZM/yhVU14gTg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-YdoUlT/liPdG2ftFoMHEIMKLZ3t6bEF1U691D6MkiHs=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.4.tgz"},"6.1.5":{"narHash":"sha256-FFSCvQao30pVRxNqGN5mHIEah79IBtgPwpEOQbnR9lw=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.5.tgz"},"6.2.4":{"narHash":"sha256-VHVpM+xbGo1dT0kk2URDcYkVsoj64oamhCfWm4wXOB8=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.2.4.tgz"},"6.22.0":{"narHash":"sha256-gQVz0Ba1bXWGA/ihuIdmnBpMBxIflJgy0WzOf3v0D9E=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.22.0.tgz"},"6.3.13":{"narHash":"sha256-irm18CMW/cPPqfNnwEATaQgqpOo+J/+/yG5urRVme8U=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.3.13.tgz"},"6.5.0":{"narHash":"sha256-D9d/I3XBHkZdNXX9f6TwlYo8YmMtMsfgsjoBMK1oN+8=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.5.0.tgz"},"6.6.4":{"narHash":"sha256-U6XpA01uoGxhLqjHaukUde7mnCEtuqLogW51hRZSwdw=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.6.4.tgz"},"6.6.5":{"narHash":"sha256-9JpFlROkUDLpiMZT1+oxz8pNARS9itfeKi/eabgk2zw=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.6.5.tgz"},"6.8.0":{"narHash":"sha256-1xh6mXIo7e9esIY9z5YYImhIEQIkBLTRSqIK4m0xjb8=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-RfCGXG2bALBOfW1wOimpzBak15LOkOWR3tQ/oCRDksY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-DzIeOy7uE7inymY5z3m58AnwZAOCSHEGbLy/9UjjYjM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.0.2.tgz"
+  },
+  "6.1.10": {
+    "narHash": "sha256-lwcXQPW9GGEhNvAocD6azYcgPiMpMUc2prVPkf0z1rU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.10.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-EGFNNxBpn31fYZb8i5RLhLm2JeWq7PtDTOcM4wuEXgI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-QpvFRJn2l5Hq66blzMBPD0+9d4ZiSmpZM/yhVU14gTg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-YdoUlT/liPdG2ftFoMHEIMKLZ3t6bEF1U691D6MkiHs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.4.tgz"
+  },
+  "6.1.5": {
+    "narHash": "sha256-FFSCvQao30pVRxNqGN5mHIEah79IBtgPwpEOQbnR9lw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.1.5.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-VHVpM+xbGo1dT0kk2URDcYkVsoj64oamhCfWm4wXOB8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.2.4.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-gQVz0Ba1bXWGA/ihuIdmnBpMBxIflJgy0WzOf3v0D9E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.22.0.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-irm18CMW/cPPqfNnwEATaQgqpOo+J/+/yG5urRVme8U=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.3.13.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-D9d/I3XBHkZdNXX9f6TwlYo8YmMtMsfgsjoBMK1oN+8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.5.0.tgz"
+  },
+  "6.6.4": {
+    "narHash": "sha256-U6XpA01uoGxhLqjHaukUde7mnCEtuqLogW51hRZSwdw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.6.4.tgz"
+  },
+  "6.6.5": {
+    "narHash": "sha256-9JpFlROkUDLpiMZT1+oxz8pNARS9itfeKi/eabgk2zw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.6.5.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-1xh6mXIo7e9esIY9z5YYImhIEQIkBLTRSqIK4m0xjb8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.8.0.tgz"
+  }
+}

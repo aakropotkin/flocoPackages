@@ -1,1 +1,102 @@
-{"1.1.17":{"narHash":"sha256-PXB8JTuIjJ5tOZ+BWxFAJWUFeY5gYAmQpeA7+ci30aA=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.17.tgz"},"1.1.18":{"narHash":"sha256-/S9oX2LVqrXW756W2QXpNqhqUE24W9updGSj30ZXHU0=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.18.tgz"},"1.1.19":{"narHash":"sha256-3rue82MwEW7ijoDhK3gO417gXwR0l2FdgtZKRP2rSEc=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.19.tgz"},"1.1.20":{"narHash":"sha256-wJfQ6ChEJRoNVK2yhRRg1wC+XL36pGzonb/yumUV43E=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.20.tgz"},"1.1.21":{"narHash":"sha256-m7JM7mTTXVdu6ZcmXgCA11MBsTUGKFx9jkx7K/tWnI0=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.21.tgz"},"1.1.22":{"narHash":"sha256-SHT8bvjdj3WWqU10KB5hpry+SAg9PaO7ddxRZeLbsu0=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.22.tgz"},"2.0.0":{"narHash":"sha256-//4TYFKuHapd3FZGUQXUf+/3r8uTzSpqs51oeoQM3IY=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-2.0.0.tgz"},"2.0.1":{"narHash":"sha256-UBYtbdK10a8DpIw5L3cIjFslL2mAG3J0zfGJssXuxZg=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-2.0.1.tgz"},"3.0.0":{"narHash":"sha256-jyp1VGqnr+0APm2tUcFvmeTZCUpVj/u0E5a1XTVN8Xc=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-3.0.0.tgz"},"3.1.0":{"narHash":"sha256-2mnqceOMtq/SAd6Rmsl5X7QyPoU/jwd1cLF/xIxuTE8=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-3.1.0.tgz"},"3.2.0":{"narHash":"sha256-90ySMX8pMzr2i9MlgGQyLEHJuqBgwvDUBOI02QHbF1w=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-3.2.0.tgz"},"3.2.1":{"narHash":"sha256-nIqihzcssk+MuzcV7Gj3lKRcobKtRDTWkhc6sDIkX4o=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-3.2.1.tgz"},"4.0.0":{"narHash":"sha256-e1QN3coneY1D/OkL69g+YDNdeadvMYZnEpjPlXKVCbY=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-4.0.0.tgz"},"4.1.0":{"narHash":"sha256-9fE1c2Vwa2ol0QtL2XecoWPMIxQsyV7EcG3qhVcZ/Tw=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-4.1.0.tgz"},"4.1.1":{"narHash":"sha256-L0wBisAzFbsJHPGZA5QL86/seb3KDd1Bj80KueGheMs=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-4.1.1.tgz"},"5.0.0":{"narHash":"sha256-jvKDgv0gnCdNgX4SVQG1ta+5uHbaDXjeUJN4NZpSegY=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.0.0.tgz"},"5.0.1":{"narHash":"sha256-l3eWhvyMsjxSKBBlN+KiJUSnbeZGO0n9d9FQFJKdQjU=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.0.1.tgz"},"5.1.0":{"narHash":"sha256-a76yKQ4uFad1jiqXCcnyVvCRqswe6kFizSZ3OHrEwtQ=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.1.0.tgz"},"5.2.0":{"narHash":"sha256-cCYDaCmUCVjEGedR6Gym5g2hpIK3E3dDJ9BT7Sh5YwU=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.2.0.tgz"},"5.2.1":{"narHash":"sha256-1+BwdrL50iioeRNBjWtAxn0/oL/lCd261FYB6RhVx74=","type":"tarball","url":"https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.2.1.tgz"}}
+{
+  "1.1.17": {
+    "narHash": "sha256-PXB8JTuIjJ5tOZ+BWxFAJWUFeY5gYAmQpeA7+ci30aA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.17.tgz"
+  },
+  "1.1.18": {
+    "narHash": "sha256-/S9oX2LVqrXW756W2QXpNqhqUE24W9updGSj30ZXHU0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.18.tgz"
+  },
+  "1.1.19": {
+    "narHash": "sha256-3rue82MwEW7ijoDhK3gO417gXwR0l2FdgtZKRP2rSEc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.19.tgz"
+  },
+  "1.1.20": {
+    "narHash": "sha256-wJfQ6ChEJRoNVK2yhRRg1wC+XL36pGzonb/yumUV43E=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.20.tgz"
+  },
+  "1.1.21": {
+    "narHash": "sha256-m7JM7mTTXVdu6ZcmXgCA11MBsTUGKFx9jkx7K/tWnI0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.21.tgz"
+  },
+  "1.1.22": {
+    "narHash": "sha256-SHT8bvjdj3WWqU10KB5hpry+SAg9PaO7ddxRZeLbsu0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-1.1.22.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-//4TYFKuHapd3FZGUQXUf+/3r8uTzSpqs51oeoQM3IY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-2.0.0.tgz"
+  },
+  "2.0.1": {
+    "narHash": "sha256-UBYtbdK10a8DpIw5L3cIjFslL2mAG3J0zfGJssXuxZg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-2.0.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-jyp1VGqnr+0APm2tUcFvmeTZCUpVj/u0E5a1XTVN8Xc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-3.0.0.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-2mnqceOMtq/SAd6Rmsl5X7QyPoU/jwd1cLF/xIxuTE8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-3.1.0.tgz"
+  },
+  "3.2.0": {
+    "narHash": "sha256-90ySMX8pMzr2i9MlgGQyLEHJuqBgwvDUBOI02QHbF1w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-3.2.0.tgz"
+  },
+  "3.2.1": {
+    "narHash": "sha256-nIqihzcssk+MuzcV7Gj3lKRcobKtRDTWkhc6sDIkX4o=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-3.2.1.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-e1QN3coneY1D/OkL69g+YDNdeadvMYZnEpjPlXKVCbY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-4.0.0.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-9fE1c2Vwa2ol0QtL2XecoWPMIxQsyV7EcG3qhVcZ/Tw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-4.1.0.tgz"
+  },
+  "4.1.1": {
+    "narHash": "sha256-L0wBisAzFbsJHPGZA5QL86/seb3KDd1Bj80KueGheMs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-4.1.1.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-jvKDgv0gnCdNgX4SVQG1ta+5uHbaDXjeUJN4NZpSegY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.0.0.tgz"
+  },
+  "5.0.1": {
+    "narHash": "sha256-l3eWhvyMsjxSKBBlN+KiJUSnbeZGO0n9d9FQFJKdQjU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.0.1.tgz"
+  },
+  "5.1.0": {
+    "narHash": "sha256-a76yKQ4uFad1jiqXCcnyVvCRqswe6kFizSZ3OHrEwtQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.1.0.tgz"
+  },
+  "5.2.0": {
+    "narHash": "sha256-cCYDaCmUCVjEGedR6Gym5g2hpIK3E3dDJ9BT7Sh5YwU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.2.0.tgz"
+  },
+  "5.2.1": {
+    "narHash": "sha256-1+BwdrL50iioeRNBjWtAxn0/oL/lCd261FYB6RhVx74=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/just-curry-it/-/just-curry-it-5.2.1.tgz"
+  }
+}

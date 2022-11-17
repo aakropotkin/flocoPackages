@@ -1,1 +1,57 @@
-{"6.0.14":{"narHash":"sha256-236UEAjggDhVnEf/TopCsm5B/EcRNvmpUNbn44c/yy4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-VQfl4tSV+yhtYh5A4eUV92PXKIxk9U6D5BCnLbbrJzA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.0.2.tgz"},"6.1.17":{"narHash":"sha256-HXtxeYWlUBDJ+cc+IsQ/syAs15glS6OsR8zuDYtliVI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-BMp0/+u0YKRLLBGEaDSExoObY69sAVk8S1WdeUTwOYE=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-qPb1uEdvPJZF+McOEkD5yDRo/tIMvEcWPU8GSDeWaig=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.1.4.tgz"},"6.2.4":{"narHash":"sha256-dXGGUjlrO/njxHj8R3maCZ5jqhJVoyJu9XgbK02Ec1I=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.2.4.tgz"},"6.22.0":{"narHash":"sha256-YGyJSsn2ooHN/vR+nEfRCcd+ZouuNPL4uBIei3do7xs=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.22.0.tgz"},"6.3.13":{"narHash":"sha256-6GjgpA7V1n6tm2K+K2O2t7fw7GxILtgPqYmutuzpZvQ=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.3.13.tgz"},"6.4.0":{"narHash":"sha256-EcbpTLsr9vzQf4/uepDFyX+ghdXxQ/rXYMPsLpNYbVs=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.4.0.tgz"},"6.5.0":{"narHash":"sha256-iPSInF239WpiBC2i+K1MQvrIVgreAYCV4mUfdowHSCs=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.5.0.tgz"},"6.8.0":{"narHash":"sha256-9ZYuxeuaYyL4OC2oJ823LZDxLhxBrKHGO8Gelfxg/8A=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-236UEAjggDhVnEf/TopCsm5B/EcRNvmpUNbn44c/yy4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-VQfl4tSV+yhtYh5A4eUV92PXKIxk9U6D5BCnLbbrJzA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.0.2.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-HXtxeYWlUBDJ+cc+IsQ/syAs15glS6OsR8zuDYtliVI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-BMp0/+u0YKRLLBGEaDSExoObY69sAVk8S1WdeUTwOYE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-qPb1uEdvPJZF+McOEkD5yDRo/tIMvEcWPU8GSDeWaig=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.1.4.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-dXGGUjlrO/njxHj8R3maCZ5jqhJVoyJu9XgbK02Ec1I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.2.4.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-YGyJSsn2ooHN/vR+nEfRCcd+ZouuNPL4uBIei3do7xs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.22.0.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-6GjgpA7V1n6tm2K+K2O2t7fw7GxILtgPqYmutuzpZvQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.3.13.tgz"
+  },
+  "6.4.0": {
+    "narHash": "sha256-EcbpTLsr9vzQf4/uepDFyX+ghdXxQ/rXYMPsLpNYbVs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.4.0.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-iPSInF239WpiBC2i+K1MQvrIVgreAYCV4mUfdowHSCs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.5.0.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-9ZYuxeuaYyL4OC2oJ823LZDxLhxBrKHGO8Gelfxg/8A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.8.0.tgz"
+  }
+}

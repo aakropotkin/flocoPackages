@@ -1,1 +1,37 @@
-{"0.0.0":{"narHash":"sha256-aTHs7OiEABg7k9U6PTZ+ER7F9AOEI8ENqaVfFjJCArQ=","type":"tarball","url":"https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-0.0.0.tgz"},"1.0.0":{"narHash":"sha256-jK+BB6cdBaTHJ1XTJZVR5Q1vW7F1lNB0NSbpzoxEDZs=","type":"tarball","url":"https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-FxlkAGrHU79zm3n+381HQMUolgSxyt7MN4m+MkRRKtM=","type":"tarball","url":"https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-yciwT1ICwawDX82C9SAhL0zrYhUF5gfyeqSPaxqiKw4=","type":"tarball","url":"https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-+cbk2Z5xcemMMS7FvS3KsfrICZKHbhP0/w0DVS6Ps2k=","type":"tarball","url":"https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-ECikq8yUPIKNhbh7ZLVfAe3U5glrw0e2OijJ4ICieGo=","type":"tarball","url":"https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-o3ROjgKqHFol4kaByU41NVgeyXKLTnT5Qb2GQY11+3Y=","type":"tarball","url":"https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.5.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-aTHs7OiEABg7k9U6PTZ+ER7F9AOEI8ENqaVfFjJCArQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-0.0.0.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-jK+BB6cdBaTHJ1XTJZVR5Q1vW7F1lNB0NSbpzoxEDZs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-FxlkAGrHU79zm3n+381HQMUolgSxyt7MN4m+MkRRKtM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-yciwT1ICwawDX82C9SAhL0zrYhUF5gfyeqSPaxqiKw4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-+cbk2Z5xcemMMS7FvS3KsfrICZKHbhP0/w0DVS6Ps2k=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-ECikq8yUPIKNhbh7ZLVfAe3U5glrw0e2OijJ4ICieGo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-o3ROjgKqHFol4kaByU41NVgeyXKLTnT5Qb2GQY11+3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/inspect-with-kind/-/inspect-with-kind-1.0.5.tgz"
+  }
+}

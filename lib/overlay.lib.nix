@@ -34,6 +34,8 @@ in {  # Begin Exports
     loadFetchInfo
   ;
 
+  weeklyDlCount = import ./downloadCount.nix;
+
 }  # End Lib Overlay
 
 

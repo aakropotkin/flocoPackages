@@ -1,1 +1,97 @@
-{"3.0.0":{"narHash":"sha256-uJJ9rdyclKV1lmHhz6MM4DnRL9tOQOBVBe5DSvFPb/A=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-67PwSG3T7FnyLrsnZbFpWm/h8Xx66u/6GOM/8vB+Ko8=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-YkaPQ5nd1tKCH56iThUXGKSqXvXC/s9JCqBD05kENHY=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.0.2.tgz"},"3.1.0":{"narHash":"sha256-mSXUhx7jqPt+rDNWOy9sRf71U9CUsx5ECOeviMmlcOE=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.0.tgz"},"3.1.1":{"narHash":"sha256-4I7PC5A6bskIzO6RtvIjlKZl00ar14H7JsfWaKOzg/8=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.1.tgz"},"3.1.2":{"narHash":"sha256-1rruiXqafQWbG8nq/GgjLI+d2iOsQkDmLea+I3wY8oo=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.2.tgz"},"3.1.3":{"narHash":"sha256-r5K/cekoMpgkiRNh6CfQaV4/CSrw/ABvUp5617zcWnw=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.3.tgz"},"3.1.4":{"narHash":"sha256-L71FKk/JrTwzxAiXiAbL2Yi9vklt5yJe2RNREX4yc6M=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.4.tgz"},"3.2.0":{"narHash":"sha256-gnIrWhr/23w8MgAJ3HWMhIjw9JzAw5wXO9ZAl3G8wBk=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.2.0.tgz"},"3.2.1":{"narHash":"sha256-idu+vft7GrhseKNmr+TZX7WK6kyagyTBguHee2isGvw=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.2.1.tgz"},"3.3.0":{"narHash":"sha256-KwEQ+Pzsyq1t6DovAjOvmBWdvidHVKAxeESEVXTvpvY=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.3.0.tgz"},"3.3.1":{"narHash":"sha256-pgF1Yz0HCHkBssBCko7gtQBQFOSDhATDZlGByIMS6z0=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.3.1.tgz"},"3.3.2":{"narHash":"sha256-RDiNbl6uWkN5ehpV29HLJXldeA8/f6UxqW+KLBO41ws=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.3.2.tgz"},"3.4.0":{"narHash":"sha256-HOvJGHTVvfWITm31Q/sZ1RSsamUSFrF5vq8DoZ2kqwc=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.4.0.tgz"},"3.5.0":{"narHash":"sha256-AZowRydFhb5xL8URcG2eQbaotKfS6Q8uYNVIYUzCxXw=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.5.0.tgz"},"3.5.1":{"narHash":"sha256-1Wzm2aO0u4YMMOZlV4vgTAKVtKBYBa4hWMhdiqrCTLM=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.5.1.tgz"},"3.5.2":{"narHash":"sha256-7OgcXVoURFpz2Lt7gfe/VRpnmDBQZ0DNlTHxmuBRy/s=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.5.2.tgz"},"4.0.0":{"narHash":"sha256-xlzegEgv9o/xWz7z4yKMgOca6qrmemeOAdJmeWKtVyM=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-4.0.0.tgz"},"4.0.1":{"narHash":"sha256-Nq2NFpMqoy1gNmxG/v2cxVUyTtpC5MH7dftXrHYC2u4=","type":"tarball","url":"https://registry.npmjs.org/@ethereumjs/tx/-/tx-4.0.1.tgz"}}
+{
+  "3.0.0": {
+    "narHash": "sha256-uJJ9rdyclKV1lmHhz6MM4DnRL9tOQOBVBe5DSvFPb/A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-67PwSG3T7FnyLrsnZbFpWm/h8Xx66u/6GOM/8vB+Ko8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-YkaPQ5nd1tKCH56iThUXGKSqXvXC/s9JCqBD05kENHY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.0.2.tgz"
+  },
+  "3.1.0": {
+    "narHash": "sha256-mSXUhx7jqPt+rDNWOy9sRf71U9CUsx5ECOeviMmlcOE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.0.tgz"
+  },
+  "3.1.1": {
+    "narHash": "sha256-4I7PC5A6bskIzO6RtvIjlKZl00ar14H7JsfWaKOzg/8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.1.tgz"
+  },
+  "3.1.2": {
+    "narHash": "sha256-1rruiXqafQWbG8nq/GgjLI+d2iOsQkDmLea+I3wY8oo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.2.tgz"
+  },
+  "3.1.3": {
+    "narHash": "sha256-r5K/cekoMpgkiRNh6CfQaV4/CSrw/ABvUp5617zcWnw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.3.tgz"
+  },
+  "3.1.4": {
+    "narHash": "sha256-L71FKk/JrTwzxAiXiAbL2Yi9vklt5yJe2RNREX4yc6M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.1.4.tgz"
+  },
+  "3.2.0": {
+    "narHash": "sha256-gnIrWhr/23w8MgAJ3HWMhIjw9JzAw5wXO9ZAl3G8wBk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.2.0.tgz"
+  },
+  "3.2.1": {
+    "narHash": "sha256-idu+vft7GrhseKNmr+TZX7WK6kyagyTBguHee2isGvw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.2.1.tgz"
+  },
+  "3.3.0": {
+    "narHash": "sha256-KwEQ+Pzsyq1t6DovAjOvmBWdvidHVKAxeESEVXTvpvY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.3.0.tgz"
+  },
+  "3.3.1": {
+    "narHash": "sha256-pgF1Yz0HCHkBssBCko7gtQBQFOSDhATDZlGByIMS6z0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.3.1.tgz"
+  },
+  "3.3.2": {
+    "narHash": "sha256-RDiNbl6uWkN5ehpV29HLJXldeA8/f6UxqW+KLBO41ws=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.3.2.tgz"
+  },
+  "3.4.0": {
+    "narHash": "sha256-HOvJGHTVvfWITm31Q/sZ1RSsamUSFrF5vq8DoZ2kqwc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.4.0.tgz"
+  },
+  "3.5.0": {
+    "narHash": "sha256-AZowRydFhb5xL8URcG2eQbaotKfS6Q8uYNVIYUzCxXw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.5.0.tgz"
+  },
+  "3.5.1": {
+    "narHash": "sha256-1Wzm2aO0u4YMMOZlV4vgTAKVtKBYBa4hWMhdiqrCTLM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.5.1.tgz"
+  },
+  "3.5.2": {
+    "narHash": "sha256-7OgcXVoURFpz2Lt7gfe/VRpnmDBQZ0DNlTHxmuBRy/s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-3.5.2.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-xlzegEgv9o/xWz7z4yKMgOca6qrmemeOAdJmeWKtVyM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-4.0.0.tgz"
+  },
+  "4.0.1": {
+    "narHash": "sha256-Nq2NFpMqoy1gNmxG/v2cxVUyTtpC5MH7dftXrHYC2u4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@ethereumjs/tx/-/tx-4.0.1.tgz"
+  }
+}

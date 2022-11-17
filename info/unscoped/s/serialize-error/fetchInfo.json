@@ -1,1 +1,97 @@
-{"1.0.0":{"narHash":"sha256-gNkC5fSHUV6PBdEOvALMXrKaCkIyzXNbZ1c+Ny4hWZE=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-9OAN9fzZNoDgkTGNGk10vOR4lg1Zm4QI26Uuu/PHsug=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-1.1.0.tgz"},"10.0.0":{"narHash":"sha256-PUojKEEAKVi93JEXmrft0RsE4WtL48LU3fczD+O7dhM=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-10.0.0.tgz"},"11.0.0":{"narHash":"sha256-BYQEO1+bzu4RPh0QQPkCBtp+XSSvawgi/aobeeXpG3Y=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-11.0.0.tgz"},"2.0.0":{"narHash":"sha256-EcSJ640qvvRYEuHEKEpyWzcrUb7sN5DhJN1Xdf36PW0=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-5IS6G2101Y4pA/9gVnUWdPTWtPHmUAT/xJ0AlDzaPeE=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-2.1.0.tgz"},"3.0.0":{"narHash":"sha256-miV05jSbQ5T1EcsotedlV7YmfQjDEjKsEanFsYDL6MY=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-wS5HKCn7NLCqQCFa9BPtz5bCDul7Yi7MqdNzAcVe5Ro=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-4.0.0.tgz"},"4.1.0":{"narHash":"sha256-24hCJJct7XQK0fXVuC2q4MYyZ58sjQFLJ+zrnuX6IUk=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-4.1.0.tgz"},"5.0.0":{"narHash":"sha256-4wavvC5KhHoB/3ZRpH70kjJEq01cktjErpWEqh3a/uM=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-5.0.0.tgz"},"6.0.0":{"narHash":"sha256-i5oBNKi6oxGcJui4nnX2b5qDZ/dMMCA79EdmuI88pOM=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-6.0.0.tgz"},"7.0.0":{"narHash":"sha256-eYhqrPdaVEuj6wz6ZmbtnBITGlRIhFOScdEPKLOvOg8=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-7.0.0.tgz"},"7.0.1":{"narHash":"sha256-iaue6mMQPdEhPmXMP+W71k3oh9FSFTJHt22JK51iNtY=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-7.0.1.tgz"},"8.0.0":{"narHash":"sha256-cvlx4ZM2X0ZM1/ITXi+6uBpVIeyXVsctNvgfRPYBt6w=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-8.0.0.tgz"},"8.0.1":{"narHash":"sha256-XMob1jkzOmF6OvwbJEN07rjRboydtbrFBuVSKn7W8W4=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-8.0.1.tgz"},"8.1.0":{"narHash":"sha256-o92VBB/fyytkjdHVj41AZEmDsaAmt4JIAHFEan0nUh4=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-8.1.0.tgz"},"9.0.0":{"narHash":"sha256-NZwlUq92ScitjiOObQBVT4+x4dBn4I2jpHtcwwtMVXc=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-9.0.0.tgz"},"9.1.0":{"narHash":"sha256-6Pk+nSX2IkbKEsQVMcP6QqShZvKsuQ3/uFnBbEkl5Dw=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-9.1.0.tgz"},"9.1.1":{"narHash":"sha256-uVx6hhhQ8YiC5PopWD5syzg8HNCm1+yVY9uL+icXSgw=","type":"tarball","url":"https://registry.npmjs.org/serialize-error/-/serialize-error-9.1.1.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-gNkC5fSHUV6PBdEOvALMXrKaCkIyzXNbZ1c+Ny4hWZE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-9OAN9fzZNoDgkTGNGk10vOR4lg1Zm4QI26Uuu/PHsug=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-1.1.0.tgz"
+  },
+  "10.0.0": {
+    "narHash": "sha256-PUojKEEAKVi93JEXmrft0RsE4WtL48LU3fczD+O7dhM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-10.0.0.tgz"
+  },
+  "11.0.0": {
+    "narHash": "sha256-BYQEO1+bzu4RPh0QQPkCBtp+XSSvawgi/aobeeXpG3Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-11.0.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-EcSJ640qvvRYEuHEKEpyWzcrUb7sN5DhJN1Xdf36PW0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-5IS6G2101Y4pA/9gVnUWdPTWtPHmUAT/xJ0AlDzaPeE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-2.1.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-miV05jSbQ5T1EcsotedlV7YmfQjDEjKsEanFsYDL6MY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-wS5HKCn7NLCqQCFa9BPtz5bCDul7Yi7MqdNzAcVe5Ro=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-4.0.0.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-24hCJJct7XQK0fXVuC2q4MYyZ58sjQFLJ+zrnuX6IUk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-4.1.0.tgz"
+  },
+  "5.0.0": {
+    "narHash": "sha256-4wavvC5KhHoB/3ZRpH70kjJEq01cktjErpWEqh3a/uM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-5.0.0.tgz"
+  },
+  "6.0.0": {
+    "narHash": "sha256-i5oBNKi6oxGcJui4nnX2b5qDZ/dMMCA79EdmuI88pOM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-6.0.0.tgz"
+  },
+  "7.0.0": {
+    "narHash": "sha256-eYhqrPdaVEuj6wz6ZmbtnBITGlRIhFOScdEPKLOvOg8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-7.0.0.tgz"
+  },
+  "7.0.1": {
+    "narHash": "sha256-iaue6mMQPdEhPmXMP+W71k3oh9FSFTJHt22JK51iNtY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-7.0.1.tgz"
+  },
+  "8.0.0": {
+    "narHash": "sha256-cvlx4ZM2X0ZM1/ITXi+6uBpVIeyXVsctNvgfRPYBt6w=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-8.0.0.tgz"
+  },
+  "8.0.1": {
+    "narHash": "sha256-XMob1jkzOmF6OvwbJEN07rjRboydtbrFBuVSKn7W8W4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-8.0.1.tgz"
+  },
+  "8.1.0": {
+    "narHash": "sha256-o92VBB/fyytkjdHVj41AZEmDsaAmt4JIAHFEan0nUh4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-8.1.0.tgz"
+  },
+  "9.0.0": {
+    "narHash": "sha256-NZwlUq92ScitjiOObQBVT4+x4dBn4I2jpHtcwwtMVXc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-9.0.0.tgz"
+  },
+  "9.1.0": {
+    "narHash": "sha256-6Pk+nSX2IkbKEsQVMcP6QqShZvKsuQ3/uFnBbEkl5Dw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-9.1.0.tgz"
+  },
+  "9.1.1": {
+    "narHash": "sha256-uVx6hhhQ8YiC5PopWD5syzg8HNCm1+yVY9uL+icXSgw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/serialize-error/-/serialize-error-9.1.1.tgz"
+  }
+}

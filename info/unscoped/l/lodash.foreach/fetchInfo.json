@@ -1,1 +1,97 @@
-{"2.0.0":{"narHash":"sha256-B98b2AvvCQMso1ddu5gzoHojH7LMoT+RcjslLLXlTNw=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.0.0.tgz"},"2.1.0":{"narHash":"sha256-tENw3FX2TOW6IJNzTW+NpuH/0mbYFPe4IrhB6ZgrgAM=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.1.0.tgz"},"2.2.0":{"narHash":"sha256-pTUl8osTEyYcSmtwU7hh/0V0Su3JNRJ+yKh3AOPWd94=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.2.0.tgz"},"2.2.1":{"narHash":"sha256-Msu3k9ZegEuxf40jEnYxa4ms2oYT0vbrHYxerZhW4BQ=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.2.1.tgz"},"2.3.0":{"narHash":"sha256-L4AaOqv0ora6VT6MI53ev2IWcRr6MbGYJPSNkvOGNfI=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.3.0.tgz"},"2.4.0":{"narHash":"sha256-amEijUruI3xty5fOGqX1iK7gxSrwz2n/Eb//dtwAdb0=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.4.0.tgz"},"2.4.1":{"narHash":"sha256-+6BLkLJpc+bKCs8WP2IC0VNclNdzUE4nhEW+al/hGJQ=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.4.1.tgz"},"3.0.0":{"narHash":"sha256-tLG31UG8BBwIJIMNNSxVjJpBxzWt9b5LNBb7vtapk68=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-3.0.0.tgz"},"3.0.1":{"narHash":"sha256-6/Oawjhslgi1qJYyM+mN+2iMFksHEP/bl31NJHALaAA=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-3.0.1.tgz"},"3.0.2":{"narHash":"sha256-u4uXgoo9L4AulxcZTN4rGULIHTj7SyYZKh7B4xFlsgI=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-3.0.2.tgz"},"3.0.3":{"narHash":"sha256-JpusSWdB2tSKE6gfZB+AxFcJdkAF+05eHYHDx7P6SmU=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-3.0.3.tgz"},"4.0.0":{"narHash":"sha256-BM7DbniwK90vKP0MlWeT8MY9/dvm9cpg1PUxuIdc+jQ=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.0.0.tgz"},"4.1.0":{"narHash":"sha256-P5LGPLSco/tU7hB+AwZgfSt68JUDBLqnMbudYRQTIV0=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.1.0.tgz"},"4.1.1":{"narHash":"sha256-JtXo9DdizUa259yOgQy+kvnYV6UCs/R/w1xLjMw2V9Q=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.1.1.tgz"},"4.2.0":{"narHash":"sha256-y/9r6X0Te1vBHyPQYOBXC+Nz9sUFS9sXDgRaV70pscU=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.2.0.tgz"},"4.3.0":{"narHash":"sha256-0s2EAQSAKYEQdccHAc1hz+PoRl/CsB8kj200ZsecaH8=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.3.0.tgz"},"4.4.0":{"narHash":"sha256-JZxezod031vRtkJVGELpHX2EiJ/dJ4xqtI0WrSRGqJI=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.4.0.tgz"},"4.4.1":{"narHash":"sha256-YW5uFIDHG2EInHmgHvidvTgKd9nho+h9WvCR32ZGcg8=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.4.1.tgz"},"4.5.0":{"narHash":"sha256-ENPNU7blItLwJO4u0xbLEf4okUJV6N03JvogT3S/c/0=","type":"tarball","url":"https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.5.0.tgz"}}
+{
+  "2.0.0": {
+    "narHash": "sha256-B98b2AvvCQMso1ddu5gzoHojH7LMoT+RcjslLLXlTNw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.0.0.tgz"
+  },
+  "2.1.0": {
+    "narHash": "sha256-tENw3FX2TOW6IJNzTW+NpuH/0mbYFPe4IrhB6ZgrgAM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.1.0.tgz"
+  },
+  "2.2.0": {
+    "narHash": "sha256-pTUl8osTEyYcSmtwU7hh/0V0Su3JNRJ+yKh3AOPWd94=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.2.0.tgz"
+  },
+  "2.2.1": {
+    "narHash": "sha256-Msu3k9ZegEuxf40jEnYxa4ms2oYT0vbrHYxerZhW4BQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.2.1.tgz"
+  },
+  "2.3.0": {
+    "narHash": "sha256-L4AaOqv0ora6VT6MI53ev2IWcRr6MbGYJPSNkvOGNfI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.3.0.tgz"
+  },
+  "2.4.0": {
+    "narHash": "sha256-amEijUruI3xty5fOGqX1iK7gxSrwz2n/Eb//dtwAdb0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.4.0.tgz"
+  },
+  "2.4.1": {
+    "narHash": "sha256-+6BLkLJpc+bKCs8WP2IC0VNclNdzUE4nhEW+al/hGJQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-2.4.1.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-tLG31UG8BBwIJIMNNSxVjJpBxzWt9b5LNBb7vtapk68=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-3.0.0.tgz"
+  },
+  "3.0.1": {
+    "narHash": "sha256-6/Oawjhslgi1qJYyM+mN+2iMFksHEP/bl31NJHALaAA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-3.0.1.tgz"
+  },
+  "3.0.2": {
+    "narHash": "sha256-u4uXgoo9L4AulxcZTN4rGULIHTj7SyYZKh7B4xFlsgI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-3.0.2.tgz"
+  },
+  "3.0.3": {
+    "narHash": "sha256-JpusSWdB2tSKE6gfZB+AxFcJdkAF+05eHYHDx7P6SmU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-3.0.3.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-BM7DbniwK90vKP0MlWeT8MY9/dvm9cpg1PUxuIdc+jQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.0.0.tgz"
+  },
+  "4.1.0": {
+    "narHash": "sha256-P5LGPLSco/tU7hB+AwZgfSt68JUDBLqnMbudYRQTIV0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.1.0.tgz"
+  },
+  "4.1.1": {
+    "narHash": "sha256-JtXo9DdizUa259yOgQy+kvnYV6UCs/R/w1xLjMw2V9Q=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.1.1.tgz"
+  },
+  "4.2.0": {
+    "narHash": "sha256-y/9r6X0Te1vBHyPQYOBXC+Nz9sUFS9sXDgRaV70pscU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.2.0.tgz"
+  },
+  "4.3.0": {
+    "narHash": "sha256-0s2EAQSAKYEQdccHAc1hz+PoRl/CsB8kj200ZsecaH8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.3.0.tgz"
+  },
+  "4.4.0": {
+    "narHash": "sha256-JZxezod031vRtkJVGELpHX2EiJ/dJ4xqtI0WrSRGqJI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.4.0.tgz"
+  },
+  "4.4.1": {
+    "narHash": "sha256-YW5uFIDHG2EInHmgHvidvTgKd9nho+h9WvCR32ZGcg8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.4.1.tgz"
+  },
+  "4.5.0": {
+    "narHash": "sha256-ENPNU7blItLwJO4u0xbLEf4okUJV6N03JvogT3S/c/0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/lodash.foreach/-/lodash.foreach-4.5.0.tgz"
+  }
+}

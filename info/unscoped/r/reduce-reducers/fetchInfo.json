@@ -1,1 +1,77 @@
-{"0.1.0":{"narHash":"sha256-MJ3KeKhamLGeylVWZhcXBFU+yooTnTcSNyle8n40ByU=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.0.tgz"},"0.1.1":{"narHash":"sha256-xaP7OGQGsFBtUDvHgDF4nrPKVhCHBB5K/7LAzU91EPc=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.1.tgz"},"0.1.2":{"narHash":"sha256-tBSusMlDYzKkTq/+lr78rk7gAYlj44Rzg6u2IZubdA4=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.2.tgz"},"0.1.5":{"narHash":"sha256-lr8/LhCwwwDKuZvsFLezRCArrMpr/2pBlYyNNwbUa/I=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.5.tgz"},"0.2.0":{"narHash":"sha256-gBz81+0oAZsGaZm6q1g9dEIYUnGhf0zxJ0fcNsDNfwY=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.2.0.tgz"},"0.3.0":{"narHash":"sha256-hHP2R+cygnn2qh/AZ0TWKiSWCeb+D2aL8GNaZRjxGyI=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.3.0.tgz"},"0.4.0":{"narHash":"sha256-+JfVxe1THFqMYNZCFiTBs8OeVt5eQNTYmgETgPj2e/M=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.4.0.tgz"},"0.4.1":{"narHash":"sha256-8rjT49Y1y2CbB5keLh7z1uErfUzya9EXSy9dwvLIfsQ=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.4.1.tgz"},"0.4.2":{"narHash":"sha256-0BmaskfOGu6vNx8+o3C4HN6dlf08uNZPMcBUawctEXg=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.4.2.tgz"},"0.4.3":{"narHash":"sha256-mFnnW0KS9HJ5SA2OMyQlp2wz1R/v9pRrLF7q2w/KAZ8=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.4.3.tgz"},"1.0.0":{"narHash":"sha256-VXwp6LikSQmZf+knoAHDD71WuG6Lx4VFVDyM+tJtU78=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.0.tgz"},"1.0.1":{"narHash":"sha256-LFfzRWnuwvdxOYdoWP9ZF8TXgdyKS78cFBUQ8hbRueo=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.1.tgz"},"1.0.2":{"narHash":"sha256-IicHeY73tQhzfEk0I9MUMvJj3UgHKAMQjFFEhjMjnPI=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-E9LeTZw1UnQmLBeIR654vG+Qou5kmWvF/uaX+s3AjhU=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-iOR74bpOoyW18XWQojwfUZdInJ3X0CBgjrLzedMuJxQ=","type":"tarball","url":"https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.4.tgz"}}
+{
+  "0.1.0": {
+    "narHash": "sha256-MJ3KeKhamLGeylVWZhcXBFU+yooTnTcSNyle8n40ByU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.0.tgz"
+  },
+  "0.1.1": {
+    "narHash": "sha256-xaP7OGQGsFBtUDvHgDF4nrPKVhCHBB5K/7LAzU91EPc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.1.tgz"
+  },
+  "0.1.2": {
+    "narHash": "sha256-tBSusMlDYzKkTq/+lr78rk7gAYlj44Rzg6u2IZubdA4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.2.tgz"
+  },
+  "0.1.5": {
+    "narHash": "sha256-lr8/LhCwwwDKuZvsFLezRCArrMpr/2pBlYyNNwbUa/I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.5.tgz"
+  },
+  "0.2.0": {
+    "narHash": "sha256-gBz81+0oAZsGaZm6q1g9dEIYUnGhf0zxJ0fcNsDNfwY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.2.0.tgz"
+  },
+  "0.3.0": {
+    "narHash": "sha256-hHP2R+cygnn2qh/AZ0TWKiSWCeb+D2aL8GNaZRjxGyI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.3.0.tgz"
+  },
+  "0.4.0": {
+    "narHash": "sha256-+JfVxe1THFqMYNZCFiTBs8OeVt5eQNTYmgETgPj2e/M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.4.0.tgz"
+  },
+  "0.4.1": {
+    "narHash": "sha256-8rjT49Y1y2CbB5keLh7z1uErfUzya9EXSy9dwvLIfsQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.4.1.tgz"
+  },
+  "0.4.2": {
+    "narHash": "sha256-0BmaskfOGu6vNx8+o3C4HN6dlf08uNZPMcBUawctEXg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.4.2.tgz"
+  },
+  "0.4.3": {
+    "narHash": "sha256-mFnnW0KS9HJ5SA2OMyQlp2wz1R/v9pRrLF7q2w/KAZ8=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.4.3.tgz"
+  },
+  "1.0.0": {
+    "narHash": "sha256-VXwp6LikSQmZf+knoAHDD71WuG6Lx4VFVDyM+tJtU78=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-LFfzRWnuwvdxOYdoWP9ZF8TXgdyKS78cFBUQ8hbRueo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.1.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-IicHeY73tQhzfEk0I9MUMvJj3UgHKAMQjFFEhjMjnPI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-E9LeTZw1UnQmLBeIR654vG+Qou5kmWvF/uaX+s3AjhU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-iOR74bpOoyW18XWQojwfUZdInJ3X0CBgjrLzedMuJxQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-1.0.4.tgz"
+  }
+}

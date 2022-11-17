@@ -1,1 +1,12 @@
-{"1.0.1":{"narHash":"sha256-z5u5vScIfiIr0uU4jrmXj2GpCQ5qzPDpBqMZKefaPlY=","type":"tarball","url":"https://registry.npmjs.org/@redis/graph/-/graph-1.0.1.tgz"},"1.1.0":{"narHash":"sha256-nuPqQ1tmQwWImXPtuQS5xaA7R0hPTSWaIGGnfgwhELo=","type":"tarball","url":"https://registry.npmjs.org/@redis/graph/-/graph-1.1.0.tgz"}}
+{
+  "1.0.1": {
+    "narHash": "sha256-z5u5vScIfiIr0uU4jrmXj2GpCQ5qzPDpBqMZKefaPlY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@redis/graph/-/graph-1.0.1.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-nuPqQ1tmQwWImXPtuQS5xaA7R0hPTSWaIGGnfgwhELo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/@redis/graph/-/graph-1.1.0.tgz"
+  }
+}

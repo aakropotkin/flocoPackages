@@ -1,1 +1,32 @@
-{"1.0.0":{"narHash":"sha256-WaSQ3NOXegBKj14ndwHmZst9JIGqXRDq0pd857YIlww=","type":"tarball","url":"https://registry.npmjs.org/package-hash/-/package-hash-1.0.0.tgz"},"1.1.0":{"narHash":"sha256-882M1oMBEr1SIPuqBJr9JJtv20CLEpc2tSOpNZBg2uY=","type":"tarball","url":"https://registry.npmjs.org/package-hash/-/package-hash-1.1.0.tgz"},"1.2.0":{"narHash":"sha256-9vRUAdB3Tvp1vnM3Hg0VApocWeRVBHIQbrQcY82P7ts=","type":"tarball","url":"https://registry.npmjs.org/package-hash/-/package-hash-1.2.0.tgz"},"2.0.0":{"narHash":"sha256-qI5PlinqRUC49yCJNFCYl/1wvXkjVjulnc2UuIB3FaQ=","type":"tarball","url":"https://registry.npmjs.org/package-hash/-/package-hash-2.0.0.tgz"},"3.0.0":{"narHash":"sha256-8hyGZ2R8p938h0OkgVB+4ulKeFUGaE4xdgeTScIjX38=","type":"tarball","url":"https://registry.npmjs.org/package-hash/-/package-hash-3.0.0.tgz"},"4.0.0":{"narHash":"sha256-vl+vQ+sXOiQhS1pRGgenRSK8SjdFQrtYuR6l2Td9A8I=","type":"tarball","url":"https://registry.npmjs.org/package-hash/-/package-hash-4.0.0.tgz"}}
+{
+  "1.0.0": {
+    "narHash": "sha256-WaSQ3NOXegBKj14ndwHmZst9JIGqXRDq0pd857YIlww=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/package-hash/-/package-hash-1.0.0.tgz"
+  },
+  "1.1.0": {
+    "narHash": "sha256-882M1oMBEr1SIPuqBJr9JJtv20CLEpc2tSOpNZBg2uY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/package-hash/-/package-hash-1.1.0.tgz"
+  },
+  "1.2.0": {
+    "narHash": "sha256-9vRUAdB3Tvp1vnM3Hg0VApocWeRVBHIQbrQcY82P7ts=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/package-hash/-/package-hash-1.2.0.tgz"
+  },
+  "2.0.0": {
+    "narHash": "sha256-qI5PlinqRUC49yCJNFCYl/1wvXkjVjulnc2UuIB3FaQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/package-hash/-/package-hash-2.0.0.tgz"
+  },
+  "3.0.0": {
+    "narHash": "sha256-8hyGZ2R8p938h0OkgVB+4ulKeFUGaE4xdgeTScIjX38=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/package-hash/-/package-hash-3.0.0.tgz"
+  },
+  "4.0.0": {
+    "narHash": "sha256-vl+vQ+sXOiQhS1pRGgenRSK8SjdFQrtYuR6l2Td9A8I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/package-hash/-/package-hash-4.0.0.tgz"
+  }
+}

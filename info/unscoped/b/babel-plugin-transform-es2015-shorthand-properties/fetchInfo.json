@@ -1,1 +1,67 @@
-{"6.0.14":{"narHash":"sha256-qgdX0F6V8Nh3hJ+JVxSrCgvlnXYwklfqnbQk7qeLZI0=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-x8Rhi3hrr2xPD94hN+1zOPemGeYWF9eXczzOoPamnBM=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.0.2.tgz"},"6.1.17":{"narHash":"sha256-5JK+DlPMU8vX90KAkNUlHk4SelF1T3fjYyXl628v7mY=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-ikkO5svWexWL9e8uDBBz8gD0FRzessYTHTIz/KjLkGg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-IzyB7fcWqxVl7Ar4i8fRV0rlo/oT9rHr4581noMFarA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.1.4.tgz"},"6.1.5":{"narHash":"sha256-CvrN/svVDGrluGGDhjejtfiGjA14vtPqEreqtXIIfh4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.1.5.tgz"},"6.18.0":{"narHash":"sha256-u/CrmAoBkHAfB7CxBwcyNZssoBUNe8xxbyJNuXB2VJo=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.18.0.tgz"},"6.2.4":{"narHash":"sha256-zSPzgYfk7UbUi5LDHa4PPFed0cfA86uubTmCWPfy7Qg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.2.4.tgz"},"6.22.0":{"narHash":"sha256-BpleeHq9T/HS+LiSKgThLtTaN9hPKfdyyk8iORKKUao=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.22.0.tgz"},"6.24.1":{"narHash":"sha256-vpAHCefiaXXcnQZJYI/NpyusDLP4VMjgDFNL42yoQz0=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.24.1.tgz"},"6.3.13":{"narHash":"sha256-a2Kxpuk76kJdmLXrUy2i7TqCFfzwv7o/XCCZFYUkh1I=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.3.13.tgz"},"6.5.0":{"narHash":"sha256-D3jWLL3A0Q5FuXkzHmriv1xMo+44Jq+IJuDxR0dkzz4=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.5.0.tgz"},"6.8.0":{"narHash":"sha256-ue2h8XJWNIM6wfjxkpBi/nzcq/XEEVgCXGqAcFe3sZY=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-qgdX0F6V8Nh3hJ+JVxSrCgvlnXYwklfqnbQk7qeLZI0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-x8Rhi3hrr2xPD94hN+1zOPemGeYWF9eXczzOoPamnBM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.0.2.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-5JK+DlPMU8vX90KAkNUlHk4SelF1T3fjYyXl628v7mY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-ikkO5svWexWL9e8uDBBz8gD0FRzessYTHTIz/KjLkGg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-IzyB7fcWqxVl7Ar4i8fRV0rlo/oT9rHr4581noMFarA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.1.4.tgz"
+  },
+  "6.1.5": {
+    "narHash": "sha256-CvrN/svVDGrluGGDhjejtfiGjA14vtPqEreqtXIIfh4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.1.5.tgz"
+  },
+  "6.18.0": {
+    "narHash": "sha256-u/CrmAoBkHAfB7CxBwcyNZssoBUNe8xxbyJNuXB2VJo=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.18.0.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-zSPzgYfk7UbUi5LDHa4PPFed0cfA86uubTmCWPfy7Qg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.2.4.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-BpleeHq9T/HS+LiSKgThLtTaN9hPKfdyyk8iORKKUao=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.22.0.tgz"
+  },
+  "6.24.1": {
+    "narHash": "sha256-vpAHCefiaXXcnQZJYI/NpyusDLP4VMjgDFNL42yoQz0=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.24.1.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-a2Kxpuk76kJdmLXrUy2i7TqCFfzwv7o/XCCZFYUkh1I=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.3.13.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-D3jWLL3A0Q5FuXkzHmriv1xMo+44Jq+IJuDxR0dkzz4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.5.0.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-ue2h8XJWNIM6wfjxkpBi/nzcq/XEEVgCXGqAcFe3sZY=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.8.0.tgz"
+  }
+}

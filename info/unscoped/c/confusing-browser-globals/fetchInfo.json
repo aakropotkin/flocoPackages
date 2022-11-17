@@ -1,1 +1,62 @@
-{"0.0.0":{"narHash":"sha256-34iv8741NqxYSLMRtdwBZOK7e3VVjjTAhHyY2F5O+2A=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-0.0.0.tgz"},"1.0.1":{"narHash":"sha256-6wZDkAT2pbH2f7k4YFlF9LekxYOLV1a+3HH/wYKyUqE=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.1.tgz"},"1.0.10":{"narHash":"sha256-Iy/VdQhOLfTgXlCa2/xNSXBudkP/sA+22TwDwqa9j5s=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.10.tgz"},"1.0.11":{"narHash":"sha256-I1bgYeZFZthXz0oxBe6VTer4N7AARc+o1S6GGPyGnJ4=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.11.tgz"},"1.0.2":{"narHash":"sha256-jq5gCtHui4Abfi9gZTo2lT1ROghnFhP6baLm4Hn6ABU=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.2.tgz"},"1.0.3":{"narHash":"sha256-Ry+gmxmwnFm9CW1mDaSk1s3SxPRzeDRKYenAwdCGvkc=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.3.tgz"},"1.0.4":{"narHash":"sha256-SRZBjh8DHmVXnu+ZhTNTs5K3jJJevxjB0i6fJOGg14Y=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.4.tgz"},"1.0.5":{"narHash":"sha256-PbVkjx5Tu0GBeSO4LdSlqzEnKSv6NKl72XABcGu4r2Y=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.5.tgz"},"1.0.6":{"narHash":"sha256-S5D9zzya4hQ5HZ4FFGt3Te6yKskgxUZ7cOrOybSCYCI=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.6.tgz"},"1.0.7":{"narHash":"sha256-hxdGUN/xWBaJMG6KHLg13az9cc0928VQIrJl4G4g9YM=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.7.tgz"},"1.0.8":{"narHash":"sha256-95fvXM3sbx+Kd5JQEeLu9CkQi0yiYdPa8kguujlXtSA=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.8.tgz"},"1.0.9":{"narHash":"sha256-TmwKgpdmPdWDWtlx+U3W4zkRQdQlWyYCD21B6LppXo4=","type":"tarball","url":"https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.9.tgz"}}
+{
+  "0.0.0": {
+    "narHash": "sha256-34iv8741NqxYSLMRtdwBZOK7e3VVjjTAhHyY2F5O+2A=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-0.0.0.tgz"
+  },
+  "1.0.1": {
+    "narHash": "sha256-6wZDkAT2pbH2f7k4YFlF9LekxYOLV1a+3HH/wYKyUqE=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.1.tgz"
+  },
+  "1.0.10": {
+    "narHash": "sha256-Iy/VdQhOLfTgXlCa2/xNSXBudkP/sA+22TwDwqa9j5s=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.10.tgz"
+  },
+  "1.0.11": {
+    "narHash": "sha256-I1bgYeZFZthXz0oxBe6VTer4N7AARc+o1S6GGPyGnJ4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.11.tgz"
+  },
+  "1.0.2": {
+    "narHash": "sha256-jq5gCtHui4Abfi9gZTo2lT1ROghnFhP6baLm4Hn6ABU=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.2.tgz"
+  },
+  "1.0.3": {
+    "narHash": "sha256-Ry+gmxmwnFm9CW1mDaSk1s3SxPRzeDRKYenAwdCGvkc=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.3.tgz"
+  },
+  "1.0.4": {
+    "narHash": "sha256-SRZBjh8DHmVXnu+ZhTNTs5K3jJJevxjB0i6fJOGg14Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.4.tgz"
+  },
+  "1.0.5": {
+    "narHash": "sha256-PbVkjx5Tu0GBeSO4LdSlqzEnKSv6NKl72XABcGu4r2Y=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.5.tgz"
+  },
+  "1.0.6": {
+    "narHash": "sha256-S5D9zzya4hQ5HZ4FFGt3Te6yKskgxUZ7cOrOybSCYCI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.6.tgz"
+  },
+  "1.0.7": {
+    "narHash": "sha256-hxdGUN/xWBaJMG6KHLg13az9cc0928VQIrJl4G4g9YM=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.7.tgz"
+  },
+  "1.0.8": {
+    "narHash": "sha256-95fvXM3sbx+Kd5JQEeLu9CkQi0yiYdPa8kguujlXtSA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.8.tgz"
+  },
+  "1.0.9": {
+    "narHash": "sha256-TmwKgpdmPdWDWtlx+U3W4zkRQdQlWyYCD21B6LppXo4=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.9.tgz"
+  }
+}

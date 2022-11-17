@@ -1,1 +1,67 @@
-{"6.0.14":{"narHash":"sha256-HbB91+h5oewjnVxiK3Krf28wtVWOSANGIwn8Yhru9zw=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.0.14.tgz"},"6.0.2":{"narHash":"sha256-7NoekOqI/rib00/PZUy4Mu6OeeVM1aL5YyxdskkQs10=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.0.2.tgz"},"6.1.17":{"narHash":"sha256-skYi0g8hs6o8mMxwNcZvY755uFdbb6e+iEAgslbEVvk=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.1.17.tgz"},"6.1.18":{"narHash":"sha256-xSbIaq10mwFvHAF8MeT2NuZeDWIJYUG6Yz5qf+FguNg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.1.18.tgz"},"6.1.4":{"narHash":"sha256-AfqQJi6Wbz0mSy49YTtROnlcY7/5C/MO4wugYl7cg84=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.1.4.tgz"},"6.2.4":{"narHash":"sha256-DwEoWsg2lPEtMcWqD9a7+r9CymPJjfrQSxEFlg+W8jI=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.2.4.tgz"},"6.22.0":{"narHash":"sha256-sP8+lpm+5yHUqr2LaOcgkg4svzLga9rdR1PStgb3fVQ=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.22.0.tgz"},"6.23.0":{"narHash":"sha256-7CtyoYozofv88TL7DRml2u9ITbBO0z/TmA0nkX7K/gQ=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.23.0.tgz"},"6.25.0":{"narHash":"sha256-kyD3vprZSSCKv8DxSkcN15D60goPTdwXa3dIV33u3Aw=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.25.0.tgz"},"6.3.13":{"narHash":"sha256-DfsrmGFnh66zkp3ffpEn8XoNUxJ14m2fiXQz1KauyFs=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.3.13.tgz"},"6.4.0":{"narHash":"sha256-sGJhj106hwq2EN0YyQ54kf1hCmXBWEtO4jPvZDdZ2Gg=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.4.0.tgz"},"6.5.0":{"narHash":"sha256-p7r/uc0qxErcBJvuLFFHKANQpPM0u0qTXO1t86XmkrA=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.5.0.tgz"},"6.8.0":{"narHash":"sha256-leCFB7zr12YQFTeqpl2JbmXAFgiTk1V1oxOxI005E+M=","type":"tarball","url":"https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.8.0.tgz"}}
+{
+  "6.0.14": {
+    "narHash": "sha256-HbB91+h5oewjnVxiK3Krf28wtVWOSANGIwn8Yhru9zw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.0.14.tgz"
+  },
+  "6.0.2": {
+    "narHash": "sha256-7NoekOqI/rib00/PZUy4Mu6OeeVM1aL5YyxdskkQs10=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.0.2.tgz"
+  },
+  "6.1.17": {
+    "narHash": "sha256-skYi0g8hs6o8mMxwNcZvY755uFdbb6e+iEAgslbEVvk=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.1.17.tgz"
+  },
+  "6.1.18": {
+    "narHash": "sha256-xSbIaq10mwFvHAF8MeT2NuZeDWIJYUG6Yz5qf+FguNg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.1.18.tgz"
+  },
+  "6.1.4": {
+    "narHash": "sha256-AfqQJi6Wbz0mSy49YTtROnlcY7/5C/MO4wugYl7cg84=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.1.4.tgz"
+  },
+  "6.2.4": {
+    "narHash": "sha256-DwEoWsg2lPEtMcWqD9a7+r9CymPJjfrQSxEFlg+W8jI=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.2.4.tgz"
+  },
+  "6.22.0": {
+    "narHash": "sha256-sP8+lpm+5yHUqr2LaOcgkg4svzLga9rdR1PStgb3fVQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.22.0.tgz"
+  },
+  "6.23.0": {
+    "narHash": "sha256-7CtyoYozofv88TL7DRml2u9ITbBO0z/TmA0nkX7K/gQ=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.23.0.tgz"
+  },
+  "6.25.0": {
+    "narHash": "sha256-kyD3vprZSSCKv8DxSkcN15D60goPTdwXa3dIV33u3Aw=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.25.0.tgz"
+  },
+  "6.3.13": {
+    "narHash": "sha256-DfsrmGFnh66zkp3ffpEn8XoNUxJ14m2fiXQz1KauyFs=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.3.13.tgz"
+  },
+  "6.4.0": {
+    "narHash": "sha256-sGJhj106hwq2EN0YyQ54kf1hCmXBWEtO4jPvZDdZ2Gg=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.4.0.tgz"
+  },
+  "6.5.0": {
+    "narHash": "sha256-p7r/uc0qxErcBJvuLFFHKANQpPM0u0qTXO1t86XmkrA=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.5.0.tgz"
+  },
+  "6.8.0": {
+    "narHash": "sha256-leCFB7zr12YQFTeqpl2JbmXAFgiTk1V1oxOxI005E+M=",
+    "type": "tarball",
+    "url": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.8.0.tgz"
+  }
+}
