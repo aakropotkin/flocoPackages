@@ -107,10 +107,12 @@ final: prev: let
       inherit (final) flocoPackages;
     }
   , nodejs ? prev.nodejs-14_x
-  }: final.mkBinPackage {
-    inherit ident version src globalNmDirCmd nodejs;
-    inherit (src) passthru;
+  }: let
     meta = metaFor ident version;
+  in final.mkBinPackage {
+    inherit ident version src globalNmDirCmd nodejs;
+    passthru = ( src.passthru or {} ) // { inherit meta; };
+    inherit meta;
   };
 
 

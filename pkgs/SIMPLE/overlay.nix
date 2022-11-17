@@ -8,8 +8,11 @@ final: prev: let
 
 # ---------------------------------------------------------------------------- #
 
-  # Packages explicitly marked for export.
-  marked = prev.lib.importJSON ./npmjs.json;
+  marked = prev.lib.importJSON ./npmjs.json;  # "hier" structure
+
+  # Packages explicitly needed as exports.
+  # This list is generated from depgraphs of `BINS/', `INST/', and `GYP/'.
+  exports = prev.lib.importJSON ./exports.json;  # list of keys
 
 # ---------------------------------------------------------------------------- #
 
@@ -26,6 +29,7 @@ final: prev: let
 # ---------------------------------------------------------------------------- #
 
   markedFetchInfos = let
+    # FIXME: this can merge with the `foldl'' below.
     forScope = scope: builtins.foldl' ( acc: bname: let
       sl   = prev.lib.toLower ( builtins.substring 0 1 bname );
       sdir = if scope == "unscoped" then "unscoped/${sl}" else scope;
@@ -33,7 +37,17 @@ final: prev: let
       ${bname} =
         prev.lib.importJSON ( ../../info + "/${sdir}/${bname}/fetchInfo.json" );
     } ) {};
-  in builtins.mapAttrs forScope marked;
+    sbs = let
+      idents = map dirOf exports;
+      sbs    = builtins.foldl' ( acc: i: let
+        # FIXME: wasteful regex
+        scope' = prev.lib.yank "@([^@/]+).*" i;
+        scope  = if scope' == null then "unscoped" else scope';
+      in acc // {
+        ${scope} = ( acc.${scope} or [] ) ++ [( baseNameOf i )] ;
+      } ) {} idents;
+    in sbs;
+  in builtins.mapAttrs forScope sbs;
 
 
 # ---------------------------------------------------------------------------- #
@@ -89,15 +103,15 @@ in {
           } ) ) // { inherit meta; };
         } ) {} ( builtins.attrNames fis );
       in accS // addV // extra;
+      # FIXME: limit to the versions listed in `exports'.
       addsB = builtins.foldl' procS {}
                               ( builtins.attrNames markedFetchInfos.${scope} );
     in acc // addsB;
+    # FIXME: rename `exported' -> "marked"
     exported = builtins.foldl' proc {} ( builtins.attrNames markedFetchInfos );
-  in ( exported // {
+    exported' = prev.lib.filterAttrs ( k: _: builtins.elem k exports ) exported;
+  in ( exported' // {
     # Add any explicit defs here.
-
-    # FIXME: remove dtrace-provider
-
   } ) );
 
 
