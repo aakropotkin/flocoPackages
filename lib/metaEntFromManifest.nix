@@ -1,14 +1,12 @@
 { lib }: let
-  manifestToLock = import ./manifestToLock.nix;
-  metaEntFromManifest = { name, version, ... } @ manifest: let
-    si = manifestToLock manifest;
-    info = manifest // si // {
-      # FIXME: add manifest as recognized type
-      #entFromtype = "manifest";
+  lockVInfo = import ./lockVINfo.nix;
+  metaEntFromVInfo = { name, version, ... } @ vinfo: let
+    fetche = lockVInfo vinfo;
+    info = vinfo // si // {
+      entFromtype = "vinfo";
       ident = name;
       key   = "${name}/${version}";
-      # FIXME: metaEnt fetchInfo needs to be renamed.
-      fetchInfo = si.fetchInfo // si.fetchInfo;
+      inherit (fetched) fetchInfo;
     };
   in lib.libmeta.metaEntFromSerial info;
-in metaEntFromManifest
+in metaEntFromVInfo
