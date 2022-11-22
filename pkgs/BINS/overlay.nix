@@ -269,6 +269,9 @@ in {
   in exported // {
     # Add explicit defs
 
+    "css-blank-pseudo--0_1_4" =
+      final.flocoPackages."css-blank-pseudo/0.1.4".global;
+
     # FIXME: These have a peer cycle
     # "update-browserslist-db/1.0.10" = final.flocoPackages."browserslist/4.21.4";
 
