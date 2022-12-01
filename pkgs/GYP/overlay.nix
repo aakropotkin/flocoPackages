@@ -212,8 +212,7 @@ in {
         addV  = builtins.foldl' ( acc: version: acc // {
           "${ident}/${version}" = let
             keyTree = keyTreeFor ident version;
-          in {
-            source    = srcFor ident version;
+          in ( srcFor ident version ) // {
             installed = defaultBuilder {
               name = "${baseNameOf ident}-inst-${version}";
               src  = fpFinal."${ident}/${version}".source;

@@ -109,7 +109,9 @@ final: prev: let
     }
   , nodejs ? prev.nodejs-14_x
   }: let
-    metaEnt = metaFor ident version;
+    metaEnt = ( metaFor ident version ) // {
+      inherit (src.source) fetchInfo;
+    };
   in final.mkBinPackage {
     inherit ident version src globalNmDirCmd nodejs;
     passthru = ( src.passthru or {} ) // { inherit metaEnt; };
