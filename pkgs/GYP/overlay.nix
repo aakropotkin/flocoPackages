@@ -66,7 +66,8 @@ final: prev: let
       if metaJSONPath != null then forMetaJSON else {};
     base = {
       inherit ident version;
-      key = "${ident}/${version}";
+      key              = "${ident}/${version}";
+      ltype            = "file";
       hasInstallScript = true;
       gypfile          = true;
     };
@@ -149,8 +150,8 @@ final: prev: let
   # This basically just exists to make `lib.canPassStrict' work.
   defaultBuilder = {
     name     ? "${baseNameOf ident}-inst-${version}"
-  , ident    ? meta.ident
-  , version  ? meta.version
+  , ident    ? metaEnt.ident
+  , version  ? metaEnt.version
   , src      ? srcFor ident version
   , keyTree  ? keyTreeFor ident version
   , nmDirCmd ? if keyTree == {} then ":" else nmDirCmdFromTree {
@@ -163,10 +164,10 @@ final: prev: let
   , xcbuild  ? prev.xcbuild
   , buildInputs       ? ( inputsFor ident version ).buildInputs or []
   , nativeBuildInputs ? ( inputsFor ident version ).nativeBuildInputs or []
-  , meta              ? metaFor ident version
+  , metaEnt           ? metaFor ident version
   }: final.buildGyp {
     inherit
-      name ident version src meta
+      name ident version src metaEnt
       nmDirCmd nodejs node-gyp python xcbuild
       buildInputs nativeBuildInputs
     ;
@@ -217,7 +218,7 @@ in {
               name = "${baseNameOf ident}-inst-${version}";
               src  = fpFinal."${ident}/${version}".source;
               inherit ident version;
-              meta = metaFor ident version;
+              metaEnt  = metaFor ident version;
               nmDirCmd = if keyTree == {} then ":" else nmDirCmdFromTree {
                 inherit keyTree;
                 inherit (final) flocoPackages;

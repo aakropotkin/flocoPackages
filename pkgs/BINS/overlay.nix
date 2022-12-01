@@ -36,7 +36,7 @@ final: prev: let
       f     = import treeNixPath;
       forFn = final.lib.apply f { inherit (final) lib stdenv system; };
     in if prev.lib.isFunction f then forFn else f;
-    forJSON   = prev.lib.importJSON treeJSONPath;
+    forJSON = prev.lib.importJSON treeJSONPath;
   in if builtins.pathExists treeNixPath
      then builtins.traceVerbose "${ident} using tree.nix" forTreeNix
      else if builtins.pathExists treeJSONPath
@@ -75,6 +75,7 @@ final: prev: let
       inherit ident version;
       key    = "${ident}/${version}";
       hasBin = true;
+      ltype  = "file";
     };
     meta = base // fromFiles;
   in assert meta ? bin;
@@ -108,11 +109,11 @@ final: prev: let
     }
   , nodejs ? prev.nodejs-14_x
   }: let
-    meta = metaFor ident version;
+    metaEnt = metaFor ident version;
   in final.mkBinPackage {
     inherit ident version src globalNmDirCmd nodejs;
-    passthru = ( src.passthru or {} ) // { inherit meta; };
-    inherit meta;
+    passthru = ( src.passthru or {} ) // { inherit metaEnt; };
+    inherit metaEnt;
   };
 
 
@@ -140,7 +141,7 @@ final: prev: let
       };
       nodejs = prev.nodejs-14_x;  # FIXME
       inherit (src) passthru;
-      meta = src.meta // ( metaFor ident version );
+      metaEnt = src.meta // ( metaFor ident version );
     };
     args = final.lib.canPassStrict builder buildEnv;
     msg = ''
@@ -156,12 +157,12 @@ final: prev: let
     '';
     built  = builder args;
     checks = ent: let
-      bin = ent.bin or ent.meta.bin or null;
+      bin = ent.bin or ent.metaEnt.bin or null;
     in {
       hasOutPath  = ent ? outPath;
       hasGlobal   = ent ? global;
       setBinAttrs = ( builtins.isAttrs bin ) && ( bin != {} );
-      setHasBin   = ( ent.hasBin or ent.meta.hasBin or null ) == true;
+      setHasBin   = ( ent.hasBin or ent.metaEnt.hasBin or null ) == true;
     };
     checked = let
       loc = "flocoPackages#overlays.bins";
@@ -186,7 +187,11 @@ in {
   # In the case of `type = "file"' entries we produce a derivation of the
   # unpacked tarball; for `type = "tarball"' entries we just produce storepaths.
   flocoBinsFetcher = { fetchInfo, ... } @ ent: let
-    fetched  = builtins.fetchTree fetchInfo;
+    fetched = ( builtins.fetchTree fetchInfo ) // {
+      _type   = "fetched";
+      ffamily = "file";
+      passthru.unpacked = fetchInfo.type == "tarball";
+    };
     fetchUnpacked = {
       fetchInfo = fetchInfo // fetched;
       inherit (fetched) outPath;
@@ -198,10 +203,13 @@ in {
         tarball     = fetched;
         setBinPerms = true;
       };
-    in u // { passthru = u.passtrhu // { binPermsSet = true; }; };
-    src = if ( ent.type or ent.fetchInfo.type ) == "file" then unpacked else
-          fetchUnpacked;
-  in ent // { sourceInfo = src; inherit (src) outPath; };
+    in u // { passthru = u.passthru // { binPermsSet = true; }; };
+    source = if ( ent.type or ent.fetchInfo.type ) == "file" then unpacked else
+             fetchUnpacked;
+  in final.mkPkgEntSource' {
+    flocoFetch = builtins.fetchTree;
+    inherit (final) flocoUnpack;
+  } { metaEnt = ent; inherit source fetched; };
 
 
 # ---------------------------------------------------------------------------- #

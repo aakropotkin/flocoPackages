@@ -98,6 +98,7 @@ in {
           meta = {  # FIXME: `metaFor'
             inherit ident version;
             key              = "${ident}/${version}";
+            ltype            = "file";
             hasBin           = false;
             hasInstallScript = false;
           };
