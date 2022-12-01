@@ -62,17 +62,21 @@ in {
   # In the case of `type = "file"' entries we produce a derivation of the
   # unpacked tarball; for `type = "tarball"' entries we just produce storepaths.
   flocoSimpleFetcher = { fetchInfo, ... } @ ent: let
-    fetched  = builtins.fetchTree fetchInfo;
+    fetched = ( builtins.fetchTree fetchInfo ) // {
+      _type   = "fetched";
+      ffamily = "file";
+      passthru.unpacked = fetchInfo.type == "tarball";
+    };
     unpacked = final.flocoUnpack {
       name        = "source";
       tarball     = fetched;
       setBinPerms = false;   # None of these have bins.
     };
-    src = if fetchInfo.type == "file" then unpacked else fetched;
-  in ent // {
-    sourceInfo = src;
-    inherit (src) outPath;
-  };
+    source = if fetchInfo.type == "file" then unpacked else fetched;
+  in final.mkPkgEntSource' {
+    flocoFetch = builtins.fetchTree;
+    inherit (final) flocoUnpack;
+  } { metaEnt = ent; inherit source fetched; };
 
 
 # ---------------------------------------------------------------------------- #
@@ -98,9 +102,9 @@ in {
             hasInstallScript = false;
           };
         in acc // {
-          "${ident}/${version}" = ( final.flocoSimpleFetcher ( meta // {
+          "${ident}/${version}" = final.flocoSimpleFetcher ( meta // {
             fetchInfo = fis.${version};
-          } ) ) // { inherit meta; };
+          } );
         } ) {} ( builtins.attrNames fis );
       in accS // addV // extra;
       # FIXME: limit to the versions listed in `exports'.
