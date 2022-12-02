@@ -11,7 +11,7 @@ in {
   config = prev.lib.recursiveUpdate prev.config nixpkgsConfig;
   lib    = prev.lib.extend ( import ./lib/overlay.lib.nix );
 
-  flocoPackages = prev.lib.makeExtensible ( fpSelf: let
+  flocoPackages = prev.lib.addFlocoPackages prev ( fpSelf: let
     # FIXME: this should carry the helpers that the lower level overlays have
     # in common.
     callFlocoPackage = prev.lib.callPackageWith {
