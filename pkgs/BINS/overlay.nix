@@ -233,6 +233,11 @@ in {
   in ( exported // {
     # Add any explicit defs here.
 
+    "esbuild/0.14.54" = import ./unscoped/e/esbuild/pkg-fun.nix {
+      inherit (final) lib stdenv evalScripts;
+      version = "0.14.54";
+    };
+
     "update-browserslist-db/1.0.10" = let
       pkgPrev = exported."update-browserslist-db/1.0.10";
     in pkgPrev // { inherit (pkgPrev.src) outPath; };
