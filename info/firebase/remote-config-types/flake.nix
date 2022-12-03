@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/remote-config-types?rev=1731-1e681ba131d2227e8f7be0add4376f97";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/remote-config-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

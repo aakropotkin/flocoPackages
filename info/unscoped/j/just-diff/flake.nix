@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/just-diff?rev=25-790a4649966bbe28a47e80fa09ae1ad6";
+  inputs.packument.url   = "https://registry.npmjs.org/just-diff";
   inputs.packument.flake = false;
 
   outputs = inputs: let

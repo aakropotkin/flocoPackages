@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/silent-error?rev=7-c8d92c85a9dc24b659ff873c69dc2133";
+  inputs.packument.url   = "https://registry.npmjs.org/silent-error";
   inputs.packument.flake = false;
 
   outputs = inputs: let

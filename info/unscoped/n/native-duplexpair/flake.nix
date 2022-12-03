@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/native-duplexpair?rev=2-4e50d679e64144a900ea3ee25653418f";
+  inputs.packument.url   = "https://registry.npmjs.org/native-duplexpair";
   inputs.packument.flake = false;
 
   outputs = inputs: let

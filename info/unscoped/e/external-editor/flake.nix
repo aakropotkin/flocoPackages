@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/external-editor?rev=22-ff10aa2007a7487c0f234b6a305d68d0";
+  inputs.packument.url   = "https://registry.npmjs.org/external-editor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

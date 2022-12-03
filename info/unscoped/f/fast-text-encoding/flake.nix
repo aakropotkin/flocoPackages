@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fast-text-encoding?rev=7-aff5ada7030a3839edb949f4639503e0";
+  inputs.packument.url   = "https://registry.npmjs.org/fast-text-encoding";
   inputs.packument.flake = false;
 
   outputs = inputs: let

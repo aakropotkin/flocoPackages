@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@emotion/cache?rev=77-f9c565379593a941072d6590a8fea18e";
+  inputs.packument.url   = "https://registry.npmjs.org/@emotion/cache";
   inputs.packument.flake = false;
 
   outputs = inputs: let

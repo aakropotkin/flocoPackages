@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/serialize-javascript?rev=60-697dbfdc3c2d371c2018c718ad200db9";
+  inputs.packument.url   = "https://registry.npmjs.org/serialize-javascript";
   inputs.packument.flake = false;
 
   outputs = inputs: let

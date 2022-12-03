@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/buffer-crc32?rev=27-c273578b3de4bd250995b2b0358a68ea";
+  inputs.packument.url   = "https://registry.npmjs.org/buffer-crc32";
   inputs.packument.flake = false;
 
   outputs = inputs: let

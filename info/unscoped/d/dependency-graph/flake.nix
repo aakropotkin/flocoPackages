@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dependency-graph?rev=38-7ce1bfd680510b10822cdb0357b7eb5e";
+  inputs.packument.url   = "https://registry.npmjs.org/dependency-graph";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/spdx-expression-parse?rev=15-1a73de9d3f4443fe7902b2191f5b658b";
+  inputs.packument.url   = "https://registry.npmjs.org/spdx-expression-parse";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-arrayish?rev=12-f946f297e65d074595aa996e7816e8e8";
+  inputs.packument.url   = "https://registry.npmjs.org/is-arrayish";
   inputs.packument.flake = false;
 
   outputs = inputs: let

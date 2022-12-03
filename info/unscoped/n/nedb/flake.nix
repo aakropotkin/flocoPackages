@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/nedb?rev=304-25f8d2fa0cc9628364195e1015339203";
+  inputs.packument.url   = "https://registry.npmjs.org/nedb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

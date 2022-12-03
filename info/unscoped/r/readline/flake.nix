@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/readline?rev=38-c5b65c0e06fc63d43fafbe062cfa95ef";
+  inputs.packument.url   = "https://registry.npmjs.org/readline";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ansi-styles?rev=88-c2e5152bc09847000645c5767a440b9e";
+  inputs.packument.url   = "https://registry.npmjs.org/ansi-styles";
   inputs.packument.flake = false;
 
   outputs = inputs: let

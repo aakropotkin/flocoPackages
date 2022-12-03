@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/run-parallel-limit?rev=13-2934a89e42b8878fca15d994d1bbeee7";
+  inputs.packument.url   = "https://registry.npmjs.org/run-parallel-limit";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decimal.js?rev=85-c164dd375b3814541aa7ab8f1e2e644a";
+  inputs.packument.url   = "https://registry.npmjs.org/decimal.js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

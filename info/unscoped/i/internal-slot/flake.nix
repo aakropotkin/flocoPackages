@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/internal-slot?rev=4-6319c184eca72551a5571a1074886904";
+  inputs.packument.url   = "https://registry.npmjs.org/internal-slot";
   inputs.packument.flake = false;
 
   outputs = inputs: let

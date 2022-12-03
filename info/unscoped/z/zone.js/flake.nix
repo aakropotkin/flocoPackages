@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/zone.js?rev=152-011353f34748cede96ca681e3a0331f0";
+  inputs.packument.url   = "https://registry.npmjs.org/zone.js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fs-tree-diff?rev=32-39c4b301e8f19fa5b96c8cbc962dd988";
+  inputs.packument.url   = "https://registry.npmjs.org/fs-tree-diff";
   inputs.packument.flake = false;
 
   outputs = inputs: let

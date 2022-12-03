@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fragment-cache?rev=5-c5360501cddd48b497259f7f5d1c4160";
+  inputs.packument.url   = "https://registry.npmjs.org/fragment-cache";
   inputs.packument.flake = false;
 
   outputs = inputs: let

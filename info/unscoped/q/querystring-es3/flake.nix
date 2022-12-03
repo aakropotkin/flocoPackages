@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/querystring-es3?rev=10-43f0d7fc8cf9243af8e8c0fc918a7d88";
+  inputs.packument.url   = "https://registry.npmjs.org/querystring-es3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

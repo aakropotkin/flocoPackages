@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/multihashes?rev=71-a0c44be4f2fb22595089ab1e67880e4d";
+  inputs.packument.url   = "https://registry.npmjs.org/multihashes";
   inputs.packument.flake = false;
 
   outputs = inputs: let

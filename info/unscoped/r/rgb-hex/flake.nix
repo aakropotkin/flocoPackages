@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rgb-hex?rev=13-a102ee706b13f90f32ccdc573de8a71d";
+  inputs.packument.url   = "https://registry.npmjs.org/rgb-hex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

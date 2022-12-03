@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vinyl-file?rev=21-16b11f617ebc1d046b55bff2030d7da8";
+  inputs.packument.url   = "https://registry.npmjs.org/vinyl-file";
   inputs.packument.flake = false;
 
   outputs = inputs: let

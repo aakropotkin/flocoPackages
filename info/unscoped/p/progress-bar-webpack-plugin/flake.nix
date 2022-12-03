@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/progress-bar-webpack-plugin?rev=40-400e9b117e2cc9d0eda4af4802ec6a64";
+  inputs.packument.url   = "https://registry.npmjs.org/progress-bar-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

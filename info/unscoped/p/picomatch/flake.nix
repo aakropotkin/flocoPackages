@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/picomatch?rev=27-00b9521d2c410244d792c279189c4814";
+  inputs.packument.url   = "https://registry.npmjs.org/picomatch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

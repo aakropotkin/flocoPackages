@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/undeclared-identifiers?rev=6-e89be22cedfe889640866691d4d28b22";
+  inputs.packument.url   = "https://registry.npmjs.org/undeclared-identifiers";
   inputs.packument.flake = false;
 
   outputs = inputs: let

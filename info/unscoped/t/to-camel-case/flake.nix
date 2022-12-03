@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/to-camel-case?rev=20-c0c8da617cb86b3e0142b92b47bdd2c1";
+  inputs.packument.url   = "https://registry.npmjs.org/to-camel-case";
   inputs.packument.flake = false;
 
   outputs = inputs: let

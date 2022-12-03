@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/json-schema-traverse?rev=11-d5036db48a0e112a81d191b7808d1607";
+  inputs.packument.url   = "https://registry.npmjs.org/json-schema-traverse";
   inputs.packument.flake = false;
 
   outputs = inputs: let

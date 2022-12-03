@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/event-target-shim?rev=36-51eaf576021592ff33984ee7d7f2c4d7";
+  inputs.packument.url   = "https://registry.npmjs.org/event-target-shim";
   inputs.packument.flake = false;
 
   outputs = inputs: let

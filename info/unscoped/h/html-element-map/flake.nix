@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/html-element-map?rev=6-e671fc5cb5f3dc5e555cd2afe87e3a74";
+  inputs.packument.url   = "https://registry.npmjs.org/html-element-map";
   inputs.packument.flake = false;
 
   outputs = inputs: let

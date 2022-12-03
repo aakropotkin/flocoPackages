@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-base64-browser?rev=67-6f9d969632db64c72c2e86d7e456b406";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-base64-browser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

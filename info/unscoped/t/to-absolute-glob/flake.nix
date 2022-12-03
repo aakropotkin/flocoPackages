@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/to-absolute-glob?rev=12-1e6e678ad7ceadb558e3f8a0ec2b0f91";
+  inputs.packument.url   = "https://registry.npmjs.org/to-absolute-glob";
   inputs.packument.flake = false;
 
   outputs = inputs: let

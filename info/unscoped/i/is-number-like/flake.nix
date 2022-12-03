@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-number-like?rev=12-17ce5521f8aa22d97abd2ea740571326";
+  inputs.packument.url   = "https://registry.npmjs.org/is-number-like";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pad-component?rev=5-68d765604911b79f9afebda971cae046";
+  inputs.packument.url   = "https://registry.npmjs.org/pad-component";
   inputs.packument.flake = false;
 
   outputs = inputs: let

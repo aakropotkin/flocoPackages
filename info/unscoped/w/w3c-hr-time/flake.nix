@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/w3c-hr-time?rev=7-ecb4911a115054a3b2752aca60c9521e";
+  inputs.packument.url   = "https://registry.npmjs.org/w3c-hr-time";
   inputs.packument.flake = false;
 
   outputs = inputs: let

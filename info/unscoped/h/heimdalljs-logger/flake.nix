@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/heimdalljs-logger?rev=18-b026671eaee2f4fd2f7ca9d2c22459bb";
+  inputs.packument.url   = "https://registry.npmjs.org/heimdalljs-logger";
   inputs.packument.flake = false;
 
   outputs = inputs: let

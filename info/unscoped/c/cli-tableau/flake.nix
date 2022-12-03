@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cli-tableau?rev=2-99705a2c27986c9c6f0af6e7a5f033b9";
+  inputs.packument.url   = "https://registry.npmjs.org/cli-tableau";
   inputs.packument.flake = false;
 
   outputs = inputs: let

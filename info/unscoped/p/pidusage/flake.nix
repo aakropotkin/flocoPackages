@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pidusage?rev=81-dc672a15212ab9193f4b88641d694073";
+  inputs.packument.url   = "https://registry.npmjs.org/pidusage";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/to-arraybuffer?rev=3-b1f2eb1070d2a56f85c634650af1191f";
+  inputs.packument.url   = "https://registry.npmjs.org/to-arraybuffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

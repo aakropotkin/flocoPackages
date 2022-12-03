@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/broccoli-source?rev=14-8b156a9e0219fb0c3dcafad40e00e84a";
+  inputs.packument.url   = "https://registry.npmjs.org/broccoli-source";
   inputs.packument.flake = false;
 
   outputs = inputs: let

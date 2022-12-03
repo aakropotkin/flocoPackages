@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-binary-path?rev=14-afcf90381403705bb5b816c77c6fe234";
+  inputs.packument.url   = "https://registry.npmjs.org/is-binary-path";
   inputs.packument.flake = false;
 
   outputs = inputs: let

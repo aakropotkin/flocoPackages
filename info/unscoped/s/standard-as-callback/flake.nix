@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/standard-as-callback?rev=6-8e32233d90e1f709a1daa0e42d806060";
+  inputs.packument.url   = "https://registry.npmjs.org/standard-as-callback";
   inputs.packument.flake = false;
 
   outputs = inputs: let

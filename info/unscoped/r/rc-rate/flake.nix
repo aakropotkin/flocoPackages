@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-rate?rev=38-1fe77dec6c4c2dd50ea464034088b02c";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-rate";
   inputs.packument.flake = false;
 
   outputs = inputs: let

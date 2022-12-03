@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/iferr?rev=19-d87cfa6b1b72c3b6eec820cdb2722b82";
+  inputs.packument.url   = "https://registry.npmjs.org/iferr";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/taketalk?rev=8-5316af990a4357a24e4d8036f4f89e10";
+  inputs.packument.url   = "https://registry.npmjs.org/taketalk";
   inputs.packument.flake = false;
 
   outputs = inputs: let

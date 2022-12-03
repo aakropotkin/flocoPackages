@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pm2-axon?rev=33-e82998a7c962edbbda7daa3b142f23a2";
+  inputs.packument.url   = "https://registry.npmjs.org/pm2-axon";
   inputs.packument.flake = false;
 
   outputs = inputs: let

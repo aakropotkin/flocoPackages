@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mongodb?rev=1929-69b112846e6e98cfa71515c56091b374";
+  inputs.packument.url   = "https://registry.npmjs.org/mongodb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

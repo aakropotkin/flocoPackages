@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/elliptic?rev=155-cd152c2192239a1ebacf798c330672ad";
+  inputs.packument.url   = "https://registry.npmjs.org/elliptic";
   inputs.packument.flake = false;
 
   outputs = inputs: let

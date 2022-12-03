@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pm2-deploy?rev=38-5f5bcbe1a9ab1248707d26814a30e543";
+  inputs.packument.url   = "https://registry.npmjs.org/pm2-deploy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

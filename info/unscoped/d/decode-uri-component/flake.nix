@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decode-uri-component?rev=3-4782b9625ecca851178c7202462a5ae4";
+  inputs.packument.url   = "https://registry.npmjs.org/decode-uri-component";
   inputs.packument.flake = false;
 
   outputs = inputs: let

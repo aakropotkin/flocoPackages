@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/regexpu-core?rev=51-65599308effdde8cb1dc3309194aa970";
+  inputs.packument.url   = "https://registry.npmjs.org/regexpu-core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

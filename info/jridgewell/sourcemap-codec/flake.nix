@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jridgewell/sourcemap-codec?rev=6-869194427bdd92e1461975bbaa9218ea";
+  inputs.packument.url   = "https://registry.npmjs.org/@jridgewell/sourcemap-codec";
   inputs.packument.flake = false;
 
   outputs = inputs: let

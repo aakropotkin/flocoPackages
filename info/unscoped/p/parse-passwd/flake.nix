@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-passwd?rev=4-0a7f27f6fcf45babaa47f28ef1fe740b";
+  inputs.packument.url   = "https://registry.npmjs.org/parse-passwd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

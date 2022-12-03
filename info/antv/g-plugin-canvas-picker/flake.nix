@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-canvas-picker?rev=152-4b4cab1ae85dfcff98148ef49950df4b";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-canvas-picker";
   inputs.packument.flake = false;
 
   outputs = inputs: let

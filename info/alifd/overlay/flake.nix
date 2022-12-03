@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@alifd/overlay?rev=38-e5d565d17c3415ff1d6bf101800b0388";
+  inputs.packument.url   = "https://registry.npmjs.org/@alifd/overlay";
   inputs.packument.flake = false;
 
   outputs = inputs: let

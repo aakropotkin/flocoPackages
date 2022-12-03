@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-nested?rev=51-72ea543ad25f612cccd54c77261a1450";
+  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-nested";
   inputs.packument.flake = false;
 
   outputs = inputs: let

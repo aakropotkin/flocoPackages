@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/request-promise-native?rev=39-7d147dd3c1419c2399d37c2e3df205e4";
+  inputs.packument.url   = "https://registry.npmjs.org/request-promise-native";
   inputs.packument.flake = false;
 
   outputs = inputs: let

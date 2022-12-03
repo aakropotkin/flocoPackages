@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/webpack-bundle-analyzer?rev=294-f05f78fa863de546702a946aac5f1a63";
+  inputs.packument.url   = "https://registry.npmjs.org/webpack-bundle-analyzer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

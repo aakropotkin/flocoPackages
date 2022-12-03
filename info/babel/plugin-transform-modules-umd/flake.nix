@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-modules-umd?rev=85-4fa12207a408baa422325a4858e43fc9";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-modules-umd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

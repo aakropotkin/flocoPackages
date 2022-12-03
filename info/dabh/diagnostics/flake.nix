@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@dabh/diagnostics?rev=2-fe75c7f7982d850e358d60f783ea373a";
+  inputs.packument.url   = "https://registry.npmjs.org/@dabh/diagnostics";
   inputs.packument.flake = false;
 
   outputs = inputs: let

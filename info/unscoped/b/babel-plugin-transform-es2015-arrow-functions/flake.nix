@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-arrow-functions?rev=76-734fa5abb68cb2daf881916e2f4c3086";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-arrow-functions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

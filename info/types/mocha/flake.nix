@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/mocha?rev=913-4c501d9b51621cb7440df8ee98314b07";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/mocha";
   inputs.packument.flake = false;
 
   outputs = inputs: let

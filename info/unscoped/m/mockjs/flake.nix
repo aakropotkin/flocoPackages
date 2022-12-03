@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mockjs?rev=43-dc23057b69d49abb63870caddbbc590a";
+  inputs.packument.url   = "https://registry.npmjs.org/mockjs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

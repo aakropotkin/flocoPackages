@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tslint-react?rev=35-3f970d6051604f3210182f2251f5e224";
+  inputs.packument.url   = "https://registry.npmjs.org/tslint-react";
   inputs.packument.flake = false;
 
   outputs = inputs: let

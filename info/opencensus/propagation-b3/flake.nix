@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@opencensus/propagation-b3?rev=28-25085e59e6048506acde556c584ec0ba";
+  inputs.packument.url   = "https://registry.npmjs.org/@opencensus/propagation-b3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-modules-systemjs?rev=100-b99c1edebf9f4579414bbb2bf09208cf";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-modules-systemjs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/shelljs?rev=596-ee52a294216c26f47263fdc2a7a766db";
+  inputs.packument.url   = "https://registry.npmjs.org/shelljs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

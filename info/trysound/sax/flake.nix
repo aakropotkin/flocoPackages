@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@trysound/sax?rev=3-106b478cdba67ad5aed45a7494d36943";
+  inputs.packument.url   = "https://registry.npmjs.org/@trysound/sax";
   inputs.packument.flake = false;
 
   outputs = inputs: let

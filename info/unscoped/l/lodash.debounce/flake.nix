@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lodash.debounce?rev=59-92a78b239bb54a013b54ae0ff63cce2b";
+  inputs.packument.url   = "https://registry.npmjs.org/lodash.debounce";
   inputs.packument.flake = false;
 
   outputs = inputs: let

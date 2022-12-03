@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/read-only-stream?rev=11-5b6a6f96b5eeac735c4f06a613879558";
+  inputs.packument.url   = "https://registry.npmjs.org/read-only-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

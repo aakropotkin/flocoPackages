@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/punycode?rev=123-ff5e28a7c75dad62d4172b62505e0b28";
+  inputs.packument.url   = "https://registry.npmjs.org/punycode";
   inputs.packument.flake = false;
 
   outputs = inputs: let

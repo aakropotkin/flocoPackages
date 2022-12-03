@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/datafire?rev=77-6805d746ccd25346c5fd9fc3a94eac2e";
+  inputs.packument.url   = "https://registry.npmjs.org/datafire";
   inputs.packument.flake = false;
 
   outputs = inputs: let

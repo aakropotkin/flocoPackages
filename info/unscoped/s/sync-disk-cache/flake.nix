@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sync-disk-cache?rev=21-cca54b618512f8fb7afe326a2411b67b";
+  inputs.packument.url   = "https://registry.npmjs.org/sync-disk-cache";
   inputs.packument.flake = false;
 
   outputs = inputs: let

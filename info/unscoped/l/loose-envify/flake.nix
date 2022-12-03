@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/loose-envify?rev=14-668c9a97d8b9280e33e45c5b33995966";
+  inputs.packument.url   = "https://registry.npmjs.org/loose-envify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

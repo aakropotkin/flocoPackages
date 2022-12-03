@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-inspector-proxy?rev=48-9a1af318bbe5a1abe174ee12c8acbdf9";
+  inputs.packument.url   = "https://registry.npmjs.org/metro-inspector-proxy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

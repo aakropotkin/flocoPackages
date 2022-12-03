@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/prettyjson?rev=129-5bb57b7e8d9c8e5834789b09c8c79b0e";
+  inputs.packument.url   = "https://registry.npmjs.org/prettyjson";
   inputs.packument.flake = false;
 
   outputs = inputs: let

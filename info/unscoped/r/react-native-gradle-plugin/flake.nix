@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-native-gradle-plugin?rev=28-1d8bdfed2fc39a6fc0f6345166372024";
+  inputs.packument.url   = "https://registry.npmjs.org/react-native-gradle-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

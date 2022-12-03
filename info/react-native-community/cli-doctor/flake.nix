@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@react-native-community/cli-doctor?rev=34-d0b73f370c271f87cfb08047104328ec";
+  inputs.packument.url   = "https://registry.npmjs.org/@react-native-community/cli-doctor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

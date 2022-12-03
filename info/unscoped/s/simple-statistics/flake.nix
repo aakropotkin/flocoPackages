@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/simple-statistics?rev=110-2bb42208517bb2ff26c43668b7406d01";
+  inputs.packument.url   = "https://registry.npmjs.org/simple-statistics";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-field-form?rev=124-15d0440f8e2ad4f7fff56962e53fb47f";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-field-form";
   inputs.packument.flake = false;
 
   outputs = inputs: let

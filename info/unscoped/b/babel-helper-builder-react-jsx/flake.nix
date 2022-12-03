@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-builder-react-jsx?rev=102-01a9c98a6011e866023905c333741b9a";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-builder-react-jsx";
   inputs.packument.flake = false;
 
   outputs = inputs: let

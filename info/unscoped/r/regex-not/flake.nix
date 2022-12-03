@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/regex-not?rev=11-eff556e665dcf945462152514b862122";
+  inputs.packument.url   = "https://registry.npmjs.org/regex-not";
   inputs.packument.flake = false;
 
   outputs = inputs: let

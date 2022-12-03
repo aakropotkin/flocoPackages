@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/intl-listformat?rev=122-8ee439687389126d4b879108dc2fd567";
+  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/intl-listformat";
   inputs.packument.flake = false;
 
   outputs = inputs: let

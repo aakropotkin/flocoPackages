@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lilconfig?rev=12-a03d772dacf025a9175ed07f401a5aba";
+  inputs.packument.url   = "https://registry.npmjs.org/lilconfig";
   inputs.packument.flake = false;
 
   outputs = inputs: let

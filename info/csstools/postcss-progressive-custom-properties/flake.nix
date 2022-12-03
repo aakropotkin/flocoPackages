@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-progressive-custom-properties?rev=4-c0d8d036578404ccecc61a47c3ba0a34";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-progressive-custom-properties";
   inputs.packument.flake = false;
 
   outputs = inputs: let

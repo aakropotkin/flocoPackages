@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/spark-md5?rev=23-a92c081fe9d56def9daef6d284d99e81";
+  inputs.packument.url   = "https://registry.npmjs.org/spark-md5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

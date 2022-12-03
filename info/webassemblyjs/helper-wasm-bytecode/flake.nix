@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode?rev=79-dd8469d3f256a4c903df4ca2d86c55d8";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode";
   inputs.packument.flake = false;
 
   outputs = inputs: let

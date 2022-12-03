@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/async-limiter?rev=4-378e02638891472ae2ecc42863209d5c";
+  inputs.packument.url   = "https://registry.npmjs.org/async-limiter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

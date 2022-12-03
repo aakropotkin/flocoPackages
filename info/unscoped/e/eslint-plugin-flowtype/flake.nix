@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-plugin-flowtype?rev=210-b4e2d92b30b16bf2b6f1677e68269300";
+  inputs.packument.url   = "https://registry.npmjs.org/eslint-plugin-flowtype";
   inputs.packument.flake = false;
 
   outputs = inputs: let

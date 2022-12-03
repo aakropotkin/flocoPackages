@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-pki?rev=109-f7aab8c211c96f7715ffaf13b2d077b9";
+  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-pki";
   inputs.packument.flake = false;
 
   outputs = inputs: let

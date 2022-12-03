@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-import-util?rev=7-68a25886c54fe5277f93f434f94ad7dc";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-import-util";
   inputs.packument.flake = false;
 
   outputs = inputs: let

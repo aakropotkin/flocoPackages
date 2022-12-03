@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await?rev=15-5a50319adf457cf128b8c7f8f78a39e8";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-top-level-await";
   inputs.packument.flake = false;
 
   outputs = inputs: let

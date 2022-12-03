@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/camelize?rev=27-1af4737ec00ad92828284ec939e4aa9d";
+  inputs.packument.url   = "https://registry.npmjs.org/camelize";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/invariant?rev=52-ff4df3cf968a858426577ff133264c2f";
+  inputs.packument.url   = "https://registry.npmjs.org/invariant";
   inputs.packument.flake = false;
 
   outputs = inputs: let

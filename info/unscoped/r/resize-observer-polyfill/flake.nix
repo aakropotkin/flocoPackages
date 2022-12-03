@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/resize-observer-polyfill?rev=27-8f80de185ae0ce817505fc16659f67bb";
+  inputs.packument.url   = "https://registry.npmjs.org/resize-observer-polyfill";
   inputs.packument.flake = false;
 
   outputs = inputs: let

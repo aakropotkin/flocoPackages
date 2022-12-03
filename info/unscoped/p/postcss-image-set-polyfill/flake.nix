@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-image-set-polyfill?rev=18-46d9079d198861686325110f3e34e4fe";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-image-set-polyfill";
   inputs.packument.flake = false;
 
   outputs = inputs: let

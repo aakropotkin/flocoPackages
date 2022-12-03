@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tiny-relative-date?rev=6-49ffb63bb7dd97e7fe1bde428dcb7539";
+  inputs.packument.url   = "https://registry.npmjs.org/tiny-relative-date";
   inputs.packument.flake = false;
 
   outputs = inputs: let

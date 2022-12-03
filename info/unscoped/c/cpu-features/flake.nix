@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cpu-features?rev=4-bd65eea705b9b0cfa253e3922239cbaf";
+  inputs.packument.url   = "https://registry.npmjs.org/cpu-features";
   inputs.packument.flake = false;
 
   outputs = inputs: let

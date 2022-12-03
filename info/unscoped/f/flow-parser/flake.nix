@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/flow-parser?rev=250-2b9c059a618d92dd82f9bdba4e6de6b9";
+  inputs.packument.url   = "https://registry.npmjs.org/flow-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

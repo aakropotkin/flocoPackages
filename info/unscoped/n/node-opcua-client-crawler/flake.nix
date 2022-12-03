@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-client-crawler?rev=240-c2682eb530cc2c5f1e84ce12480e59f0";
+  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-client-crawler";
   inputs.packument.flake = false;
 
   outputs = inputs: let

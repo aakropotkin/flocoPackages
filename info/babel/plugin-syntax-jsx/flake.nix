@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-jsx?rev=79-6bf28ee8bd3bd3a30085b1b1adb98268";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-jsx";
   inputs.packument.flake = false;
 
   outputs = inputs: let

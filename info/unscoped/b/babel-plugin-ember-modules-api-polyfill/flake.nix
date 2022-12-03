@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-ember-modules-api-polyfill?rev=46-b42b1cefe89b61099196971781133110";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-ember-modules-api-polyfill";
   inputs.packument.flake = false;
 
   outputs = inputs: let

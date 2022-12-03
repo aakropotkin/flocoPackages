@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/engine.io-client?rev=265-e317d2488684200b8408325a4d19694b";
+  inputs.packument.url   = "https://registry.npmjs.org/engine.io-client";
   inputs.packument.flake = false;
 
   outputs = inputs: let

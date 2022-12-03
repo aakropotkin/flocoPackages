@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/path-is-network-drive?rev=11-0bfb539f7c34fee7b0205f40f501c341";
+  inputs.packument.url   = "https://registry.npmjs.org/path-is-network-drive";
   inputs.packument.flake = false;
 
   outputs = inputs: let

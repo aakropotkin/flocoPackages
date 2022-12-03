@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/aria-query?rev=294-b66a9e1b69914a0b626c9e35603670bb";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/aria-query";
   inputs.packument.flake = false;
 
   outputs = inputs: let

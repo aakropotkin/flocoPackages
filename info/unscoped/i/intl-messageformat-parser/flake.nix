@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/intl-messageformat-parser?rev=170-29f8b9e6d12170b18dcf55deedaa2e4c";
+  inputs.packument.url   = "https://registry.npmjs.org/intl-messageformat-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

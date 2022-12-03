@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jsonify?rev=10-0abf6c4adc20ce71617d73f63e4cd761";
+  inputs.packument.url   = "https://registry.npmjs.org/jsonify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

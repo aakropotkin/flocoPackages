@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@grpc/grpc-js?rev=122-9f9b1276d9142256de8dd45eb8094b96";
+  inputs.packument.url   = "https://registry.npmjs.org/@grpc/grpc-js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hoek?rev=326-246e5268440874baa958191aeb14d042";
+  inputs.packument.url   = "https://registry.npmjs.org/hoek";
   inputs.packument.flake = false;
 
   outputs = inputs: let

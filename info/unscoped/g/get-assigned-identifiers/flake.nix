@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/get-assigned-identifiers?rev=4-16dd9dbae0ea85b4af8912bc1907a6dd";
+  inputs.packument.url   = "https://registry.npmjs.org/get-assigned-identifiers";
   inputs.packument.flake = false;
 
   outputs = inputs: let

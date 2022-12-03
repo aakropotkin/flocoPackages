@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-react-display-name?rev=75-f3e448239f93eb5f1566a11611a0e430";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-react-display-name";
   inputs.packument.flake = false;
 
   outputs = inputs: let

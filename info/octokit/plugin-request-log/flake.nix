@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@octokit/plugin-request-log?rev=8-39a9672b4abf49966e5f81be9e1cb58c";
+  inputs.packument.url   = "https://registry.npmjs.org/@octokit/plugin-request-log";
   inputs.packument.flake = false;
 
   outputs = inputs: let

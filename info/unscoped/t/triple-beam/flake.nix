@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/triple-beam?rev=10-78467645dc86de8f675a19756f7302c9";
+  inputs.packument.url   = "https://registry.npmjs.org/triple-beam";
   inputs.packument.flake = false;
 
   outputs = inputs: let

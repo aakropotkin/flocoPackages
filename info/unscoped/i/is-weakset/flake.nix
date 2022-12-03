@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-weakset?rev=12-7fa78e15ca7cb80613b6b2e5faa05d5a";
+  inputs.packument.url   = "https://registry.npmjs.org/is-weakset";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/proto3-json-serializer?rev=18-9eec449c0fd2e45fcfbd5f40f9e50b83";
+  inputs.packument.url   = "https://registry.npmjs.org/proto3-json-serializer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

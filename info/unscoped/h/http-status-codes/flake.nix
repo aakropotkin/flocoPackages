@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/http-status-codes?rev=78-67cc06e8ad23ce23eba766bc57f6b009";
+  inputs.packument.url   = "https://registry.npmjs.org/http-status-codes";
   inputs.packument.flake = false;
 
   outputs = inputs: let

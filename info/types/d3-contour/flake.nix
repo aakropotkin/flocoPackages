@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-contour?rev=565-bcfc42a4481e98fdf0e7b0c318126530";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-contour";
   inputs.packument.flake = false;
 
   outputs = inputs: let

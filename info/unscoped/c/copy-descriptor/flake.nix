@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/copy-descriptor?rev=4-ad7c6239aa52b888801afc23ddc09157";
+  inputs.packument.url   = "https://registry.npmjs.org/copy-descriptor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

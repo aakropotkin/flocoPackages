@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browser-stdout?rev=15-4c8d3aac18e105f18c9fba5150513807";
+  inputs.packument.url   = "https://registry.npmjs.org/browser-stdout";
   inputs.packument.flake = false;
 
   outputs = inputs: let

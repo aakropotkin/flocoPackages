@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@tediousjs/connection-string?rev=5-aaee67ddf8761d48a4e5b5a16bc11cc2";
+  inputs.packument.url   = "https://registry.npmjs.org/@tediousjs/connection-string";
   inputs.packument.flake = false;
 
   outputs = inputs: let

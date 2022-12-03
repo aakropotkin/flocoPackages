@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cacheable-lookup?rev=37-e39b75573d62e69239303fa464efd49b";
+  inputs.packument.url   = "https://registry.npmjs.org/cacheable-lookup";
   inputs.packument.flake = false;
 
   outputs = inputs: let

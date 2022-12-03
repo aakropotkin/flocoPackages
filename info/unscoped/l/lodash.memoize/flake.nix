@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lodash.memoize?rev=51-4484ad5bf3b1a7e2136fc31de2caa6ee";
+  inputs.packument.url   = "https://registry.npmjs.org/lodash.memoize";
   inputs.packument.flake = false;
 
   outputs = inputs: let

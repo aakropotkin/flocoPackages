@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-body-length-node?rev=70-165204a02411594423213f837ef67605";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-body-length-node";
   inputs.packument.flake = false;
 
   outputs = inputs: let

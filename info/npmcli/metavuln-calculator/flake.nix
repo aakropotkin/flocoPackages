@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/metavuln-calculator?rev=25-8d3802e6877a7de4c16af14c7e8fa12d";
+  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/metavuln-calculator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

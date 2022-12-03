@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-html-renderer?rev=129-5d36da0e567f5468928f3e425dd1ef10";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-html-renderer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/quote-stream?rev=10-457b27a50efdd4e5bdd662060ff9c89f";
+  inputs.packument.url   = "https://registry.npmjs.org/quote-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fast-json-stable-stringify?rev=5-835c5033869655fd4613c7940de94228";
+  inputs.packument.url   = "https://registry.npmjs.org/fast-json-stable-stringify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

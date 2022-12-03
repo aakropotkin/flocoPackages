@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ts-loader?rev=215-85113c57c0803045e39f4a6894f3fda4";
+  inputs.packument.url   = "https://registry.npmjs.org/ts-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/to-fast-properties?rev=13-170516d620120c6b3ed008b87131f00e";
+  inputs.packument.url   = "https://registry.npmjs.org/to-fast-properties";
   inputs.packument.flake = false;
 
   outputs = inputs: let

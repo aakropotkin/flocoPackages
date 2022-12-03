@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/minimatch?rev=229-964f498568e02bb1e11d3f7b5cd330ca";
+  inputs.packument.url   = "https://registry.npmjs.org/minimatch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

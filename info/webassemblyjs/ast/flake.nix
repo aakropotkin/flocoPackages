@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/ast?rev=86-2386a440b770f2e25e54cab8c344f30b";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/ast";
   inputs.packument.flake = false;
 
   outputs = inputs: let

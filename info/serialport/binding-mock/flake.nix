@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/binding-mock?rev=24-bc5492e715466177b3bce090bde360f5";
+  inputs.packument.url   = "https://registry.npmjs.org/@serialport/binding-mock";
   inputs.packument.flake = false;
 
   outputs = inputs: let

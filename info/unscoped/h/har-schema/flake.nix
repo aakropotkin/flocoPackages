@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/har-schema?rev=15-5e5b75473ea06e6e55e85625a7350f7e";
+  inputs.packument.url   = "https://registry.npmjs.org/har-schema";
   inputs.packument.flake = false;
 
   outputs = inputs: let

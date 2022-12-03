@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/whatwg-mimetype?rev=9-4a63ddd34880a645601c398392074d80";
+  inputs.packument.url   = "https://registry.npmjs.org/whatwg-mimetype";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-image-set-function?rev=13-8ae9283af8cc9d6f2fec1585001807e8";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-image-set-function";
   inputs.packument.flake = false;
 
   outputs = inputs: let

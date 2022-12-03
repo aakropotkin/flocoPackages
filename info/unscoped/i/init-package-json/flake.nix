@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/init-package-json?rev=122-e5a0a62a31f52f8823838329bac5630b";
+  inputs.packument.url   = "https://registry.npmjs.org/init-package-json";
   inputs.packument.flake = false;
 
   outputs = inputs: let

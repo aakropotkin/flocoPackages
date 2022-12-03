@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@discordjs/collection?rev=576-2f3900be8b7199203608ddf361999c00";
+  inputs.packument.url   = "https://registry.npmjs.org/@discordjs/collection";
   inputs.packument.flake = false;
 
   outputs = inputs: let

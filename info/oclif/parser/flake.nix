@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@oclif/parser?rev=47-fc2ebb34ddfdc6953c55332923ee5747";
+  inputs.packument.url   = "https://registry.npmjs.org/@oclif/parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sass-loader?rev=210-12368722ad686eb4896ef096c6506ddd";
+  inputs.packument.url   = "https://registry.npmjs.org/sass-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

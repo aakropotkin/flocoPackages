@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cli-spinners?rev=49-fc800e09b32d7309dfd7a91ac98d5675";
+  inputs.packument.url   = "https://registry.npmjs.org/cli-spinners";
   inputs.packument.flake = false;
 
   outputs = inputs: let

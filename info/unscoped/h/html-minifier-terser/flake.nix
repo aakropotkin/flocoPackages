@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/html-minifier-terser?rev=19-e134149335ac994e2eae745c327b39f1";
+  inputs.packument.url   = "https://registry.npmjs.org/html-minifier-terser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

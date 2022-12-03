@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dom-walk?rev=15-ea0147a65f0005e36ced849a4fb49975";
+  inputs.packument.url   = "https://registry.npmjs.org/dom-walk";
   inputs.packument.flake = false;
 
   outputs = inputs: let

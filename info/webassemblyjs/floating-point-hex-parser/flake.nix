@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser?rev=64-deaf63f7b84fd750124a7eb81a785a17";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

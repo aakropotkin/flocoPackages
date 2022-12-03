@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-destructuring?rev=101-d5100647267b509b3cbdf506f85d42a4";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-destructuring";
   inputs.packument.flake = false;
 
   outputs = inputs: let

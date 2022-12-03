@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/teamwork?rev=27-22ac12ec117152a06a4e3db120bc9d44";
+  inputs.packument.url   = "https://registry.npmjs.org/teamwork";
   inputs.packument.flake = false;
 
   outputs = inputs: let

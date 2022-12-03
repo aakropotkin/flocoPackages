@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-linux-arm?rev=4-e7540be79828885af4e5aa4340e1564e";
+  inputs.packument.url   = "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-linux-arm";
   inputs.packument.flake = false;
 
   outputs = inputs: let

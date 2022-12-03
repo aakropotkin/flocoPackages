@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/klona?rev=12-a1a0b712ca75c0618ff5f666a5d62332";
+  inputs.packument.url   = "https://registry.npmjs.org/klona";
   inputs.packument.flake = false;
 
   outputs = inputs: let

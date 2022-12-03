@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/connect-mongo?rev=236-f149288bf78254e6f41d2bcd9a855e46";
+  inputs.packument.url   = "https://registry.npmjs.org/connect-mongo";
   inputs.packument.flake = false;
 
   outputs = inputs: let

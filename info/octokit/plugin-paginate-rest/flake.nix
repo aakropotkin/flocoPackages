@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@octokit/plugin-paginate-rest?rev=84-92ff9f8f479b1de79c38338d14d23f6b";
+  inputs.packument.url   = "https://registry.npmjs.org/@octokit/plugin-paginate-rest";
   inputs.packument.flake = false;
 
   outputs = inputs: let

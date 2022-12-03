@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/klaw?rev=32-5781970a4c881c1b211d2ecb23c38ab0";
+  inputs.packument.url   = "https://registry.npmjs.org/klaw";
   inputs.packument.flake = false;
 
   outputs = inputs: let

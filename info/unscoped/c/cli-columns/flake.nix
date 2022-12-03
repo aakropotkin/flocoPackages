@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cli-columns?rev=22-961b052f4f6f2d536664cc28c81b5ab3";
+  inputs.packument.url   = "https://registry.npmjs.org/cli-columns";
   inputs.packument.flake = false;
 
   outputs = inputs: let

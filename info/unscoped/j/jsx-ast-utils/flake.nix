@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jsx-ast-utils?rev=39-49e2aa0fe180287ae4a7ddeb587ea3b4";
+  inputs.packument.url   = "https://registry.npmjs.org/jsx-ast-utils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

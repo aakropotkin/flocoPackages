@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/signature-v4?rev=128-074fdf1888c2c8d59f504b9bf241346a";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/signature-v4";
   inputs.packument.flake = false;
 
   outputs = inputs: let

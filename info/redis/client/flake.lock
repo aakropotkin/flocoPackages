@@ -3,13 +3,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-lzcqNT/pG0aIwK5jkbuZyxvNO3Q26OPgTbdlQdK95b4=",
+        "narHash": "sha256-b19k8fEqwQtSoBMS57OtOx466NrUc8vqa9mvJ+yWKaA=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@redis/client?rev=5-da1ed2a26756f7f1510563f106c5f1a7"
+        "url": "https://registry.npmjs.org/@redis/client"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@redis/client?rev=5-da1ed2a26756f7f1510563f106c5f1a7"
+        "url": "https://registry.npmjs.org/@redis/client"
       }
     },
     "root": {

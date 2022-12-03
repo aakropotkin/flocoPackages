@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sorted-array-functions?rev=7-212bfb9bb90d855e5e1dd0e9d7fe2833";
+  inputs.packument.url   = "https://registry.npmjs.org/sorted-array-functions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

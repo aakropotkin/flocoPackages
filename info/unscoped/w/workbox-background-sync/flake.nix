@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-background-sync?rev=105-a55e41e06dbbe9923414cc70197dc9a1";
+  inputs.packument.url   = "https://registry.npmjs.org/workbox-background-sync";
   inputs.packument.flake = false;
 
   outputs = inputs: let

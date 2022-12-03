@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/find-babel-config?rev=9-cadbd94def18dbebd5c9555f79cd945b";
+  inputs.packument.url   = "https://registry.npmjs.org/find-babel-config";
   inputs.packument.flake = false;
 
   outputs = inputs: let

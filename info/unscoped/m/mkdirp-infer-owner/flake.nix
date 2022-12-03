@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mkdirp-infer-owner?rev=4-eadc02905bdb6605c5ec181ee97b45cb";
+  inputs.packument.url   = "https://registry.npmjs.org/mkdirp-infer-owner";
   inputs.packument.flake = false;
 
   outputs = inputs: let

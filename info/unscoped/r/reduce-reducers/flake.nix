@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/reduce-reducers?rev=22-109f712d85af88911257975d1acda467";
+  inputs.packument.url   = "https://registry.npmjs.org/reduce-reducers";
   inputs.packument.flake = false;
 
   outputs = inputs: let

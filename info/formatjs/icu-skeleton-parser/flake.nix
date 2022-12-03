@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/icu-skeleton-parser?rev=32-647177c6dcd7ffa89c0af8bf79f7ec32";
+  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/icu-skeleton-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

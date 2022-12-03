@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-import?rev=100-81f65673343238571a56e49fbb904298";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-import";
   inputs.packument.flake = false;
 
   outputs = inputs: let

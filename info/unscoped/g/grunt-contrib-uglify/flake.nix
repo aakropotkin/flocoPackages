@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/grunt-contrib-uglify?rev=297-b267dafda707101a9b4d71589d6a16fe";
+  inputs.packument.url   = "https://registry.npmjs.org/grunt-contrib-uglify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

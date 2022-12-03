@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-uri-escape?rev=68-957adbfedc7e62dd553c81de48cada54";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-uri-escape";
   inputs.packument.flake = false;
 
   outputs = inputs: let

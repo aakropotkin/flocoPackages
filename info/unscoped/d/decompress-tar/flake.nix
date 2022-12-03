@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decompress-tar?rev=29-07ffbf2c93198fdfe4e82e1c3ae8e930";
+  inputs.packument.url   = "https://registry.npmjs.org/decompress-tar";
   inputs.packument.flake = false;
 
   outputs = inputs: let

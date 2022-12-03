@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-htmlbars-inline-precompile?rev=50-423fde099aa5bbab0e6cee9a4c40f85b";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-htmlbars-inline-precompile";
   inputs.packument.flake = false;
 
   outputs = inputs: let

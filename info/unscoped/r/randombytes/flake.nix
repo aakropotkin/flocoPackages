@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/randombytes?rev=28-50b81fe6f39eadd981ac48ea89d092a7";
+  inputs.packument.url   = "https://registry.npmjs.org/randombytes";
   inputs.packument.flake = false;
 
   outputs = inputs: let

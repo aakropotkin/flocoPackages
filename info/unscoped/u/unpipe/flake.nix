@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unpipe?rev=5-849790a164f03a428808d7de8b3e853d";
+  inputs.packument.url   = "https://registry.npmjs.org/unpipe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

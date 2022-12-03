@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-discard-empty?rev=47-18d6cad3e502cebd8688791c233abd3e";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-discard-empty";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jridgewell/gen-mapping?rev=5-d79dbace82f1621d0ee0900345b79542";
+  inputs.packument.url   = "https://registry.npmjs.org/@jridgewell/gen-mapping";
   inputs.packument.flake = false;
 
   outputs = inputs: let

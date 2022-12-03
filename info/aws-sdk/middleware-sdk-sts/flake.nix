@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-sdk-sts?rev=70-83d60560556ab132ab672b26293b8ff0";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-sdk-sts";
   inputs.packument.flake = false;
 
   outputs = inputs: let

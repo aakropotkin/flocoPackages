@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/webpack-node-externals?rev=63-1ef4f1543f0ac203bb825c2a0090dde8";
+  inputs.packument.url   = "https://registry.npmjs.org/webpack-node-externals";
   inputs.packument.flake = false;
 
   outputs = inputs: let

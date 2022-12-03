@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tinycolor2?rev=42-3b84387a11b87bfb5528cfce2e41a8af";
+  inputs.packument.url   = "https://registry.npmjs.org/tinycolor2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

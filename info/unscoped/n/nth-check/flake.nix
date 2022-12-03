@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/nth-check?rev=13-095741c8996f98df786b75d474491a46";
+  inputs.packument.url   = "https://registry.npmjs.org/nth-check";
   inputs.packument.flake = false;
 
   outputs = inputs: let

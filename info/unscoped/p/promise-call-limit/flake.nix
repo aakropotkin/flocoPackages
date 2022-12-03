@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/promise-call-limit?rev=2-8399f7bd3e0322a854b24ec1a0d94008";
+  inputs.packument.url   = "https://registry.npmjs.org/promise-call-limit";
   inputs.packument.flake = false;
 
   outputs = inputs: let

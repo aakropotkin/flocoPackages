@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g2plot?rev=244-1260f7e445acc6b58cb9c830e54638a7";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g2plot";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pngquant-bin?rev=301-aeaad814c8c53a55499a518db5bf433b";
+  inputs.packument.url   = "https://registry.npmjs.org/pngquant-bin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

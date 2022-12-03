@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pify?rev=83-4047511547952b3f461fe343077ec0f1";
+  inputs.packument.url   = "https://registry.npmjs.org/pify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

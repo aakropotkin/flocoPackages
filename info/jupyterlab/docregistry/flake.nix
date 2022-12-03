@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/docregistry?rev=444-ee5b114180526703e4a05a9cf367aa9a";
+  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/docregistry";
   inputs.packument.flake = false;
 
   outputs = inputs: let

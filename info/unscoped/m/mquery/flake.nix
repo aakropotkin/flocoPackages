@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mquery?rev=132-8014cb96370c5f0b0b1e7134e5fa5582";
+  inputs.packument.url   = "https://registry.npmjs.org/mquery";
   inputs.packument.flake = false;
 
   outputs = inputs: let

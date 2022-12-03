@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-eslint?rev=188-0fd975e5fa184f69fadd98df166c2679";
+  inputs.packument.url   = "https://registry.npmjs.org/gulp-eslint";
   inputs.packument.flake = false;
 
   outputs = inputs: let

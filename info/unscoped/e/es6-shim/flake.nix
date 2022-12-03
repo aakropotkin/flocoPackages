@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es6-shim?rev=196-8790c43f4d1f162875ff4342c6bb3def";
+  inputs.packument.url   = "https://registry.npmjs.org/es6-shim";
   inputs.packument.flake = false;
 
   outputs = inputs: let

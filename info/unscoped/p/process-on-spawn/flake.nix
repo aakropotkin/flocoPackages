@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/process-on-spawn?rev=1-445a4cb3a42ff9ef6a3735e9e29a28af";
+  inputs.packument.url   = "https://registry.npmjs.org/process-on-spawn";
   inputs.packument.flake = false;
 
   outputs = inputs: let

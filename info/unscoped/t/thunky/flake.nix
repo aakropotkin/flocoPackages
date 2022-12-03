@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/thunky?rev=15-5c2df7153f564e4f1ad92cc044ded160";
+  inputs.packument.url   = "https://registry.npmjs.org/thunky";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tiny-emitter?rev=56-13c3c53ea145acc320cc9e1770004e55";
+  inputs.packument.url   = "https://registry.npmjs.org/tiny-emitter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

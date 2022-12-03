@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/reactcss?rev=389-f56eef6121c9d23646391298915fe09c";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/reactcss";
   inputs.packument.flake = false;
 
   outputs = inputs: let

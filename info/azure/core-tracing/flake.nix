@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-tracing?rev=151-fa5184a11ad32477610a7408cdc7159e";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-tracing";
   inputs.packument.flake = false;
 
   outputs = inputs: let

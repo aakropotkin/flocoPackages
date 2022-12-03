@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hoopy?rev=6-2c39626b205c0fdbcb9f401fb5b750ff";
+  inputs.packument.url   = "https://registry.npmjs.org/hoopy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

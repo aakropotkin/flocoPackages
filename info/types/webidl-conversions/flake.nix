@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/webidl-conversions?rev=282-f06f03852fe9087d7a268bfce83bd204";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/webidl-conversions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@sideway/pinpoint?rev=1-ecfdb43bac3cb547e4fb81b83a4f3deb";
+  inputs.packument.url   = "https://registry.npmjs.org/@sideway/pinpoint";
   inputs.packument.flake = false;
 
   outputs = inputs: let

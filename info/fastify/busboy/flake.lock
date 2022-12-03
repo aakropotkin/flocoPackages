@@ -3,13 +3,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-v1EfhF86Niqe/KaeOtVwEDva8l+aWiXHUu7Ebqb/tNA=",
+        "narHash": "sha256-qVG90SAkv/QWc6IhMhKm32aC3SEAZfFqnjPuhZzE6lI=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@fastify/busboy?rev=10-fba359d3fc530aa2c1891a65ef3e4438"
+        "url": "https://registry.npmjs.org/@fastify/busboy"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@fastify/busboy?rev=10-fba359d3fc530aa2c1891a65ef3e4438"
+        "url": "https://registry.npmjs.org/@fastify/busboy"
       }
     },
     "root": {

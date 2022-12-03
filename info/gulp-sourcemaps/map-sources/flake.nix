@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@gulp-sourcemaps/map-sources?rev=8-fa247e9dda7192e792913e692156a9dc";
+  inputs.packument.url   = "https://registry.npmjs.org/@gulp-sourcemaps/map-sources";
   inputs.packument.flake = false;
 
   outputs = inputs: let

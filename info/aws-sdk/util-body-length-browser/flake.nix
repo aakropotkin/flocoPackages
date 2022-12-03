@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-body-length-browser?rev=67-b2548049474fe71b21ae4c291927dda2";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-body-length-browser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

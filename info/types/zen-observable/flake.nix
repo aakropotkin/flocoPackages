@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/zen-observable?rev=520-b283cfb3ce9c023f4ee4eb08e758ac8d";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/zen-observable";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-unset-value?rev=3-fc61dfabf2e24f2b796f4c0ef81e0024";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-unset-value";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browser-sync-ui?rev=118-853a95ef7ca2ae4e054249f382b101ad";
+  inputs.packument.url   = "https://registry.npmjs.org/browser-sync-ui";
   inputs.packument.flake = false;
 
   outputs = inputs: let

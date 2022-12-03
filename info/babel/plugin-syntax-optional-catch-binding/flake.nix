@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding?rev=69-6b58347da7dd6846ed151cbc5ada5152";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding";
   inputs.packument.flake = false;
 
   outputs = inputs: let

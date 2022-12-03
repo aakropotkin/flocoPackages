@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-debug-macros?rev=33-d1442225d7f95232a2e8e75c615d1f96";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-debug-macros";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/make-fetch-happen?rev=139-907d1a4cd90da8145d6bb3e5bd518fea";
+  inputs.packument.url   = "https://registry.npmjs.org/make-fetch-happen";
   inputs.packument.flake = false;
 
   outputs = inputs: let

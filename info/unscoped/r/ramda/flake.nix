@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ramda?rev=253-cec1390b5229fa8742ccc7df785345f0";
+  inputs.packument.url   = "https://registry.npmjs.org/ramda";
   inputs.packument.flake = false;
 
   outputs = inputs: let

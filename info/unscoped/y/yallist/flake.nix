@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/yallist?rev=24-3aa1e8e9698a86126ecb287c637ef0fc";
+  inputs.packument.url   = "https://registry.npmjs.org/yallist";
   inputs.packument.flake = false;
 
   outputs = inputs: let

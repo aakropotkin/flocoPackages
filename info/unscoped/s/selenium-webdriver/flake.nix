@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/selenium-webdriver?rev=319-91456b2d28ba2971070bb60bcce57a71";
+  inputs.packument.url   = "https://registry.npmjs.org/selenium-webdriver";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/codeeditor?rev=420-9e7e203dd865469c7bc6a9210e73492f";
+  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/codeeditor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

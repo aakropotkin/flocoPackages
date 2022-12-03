@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/findup-sync?rev=46-3716da385efbce2e7211710e9460f8b4";
+  inputs.packument.url   = "https://registry.npmjs.org/findup-sync";
   inputs.packument.flake = false;
 
   outputs = inputs: let

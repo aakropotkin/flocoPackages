@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xtend?rev=91-24adb65fa3cf361b59d9de0277c35d0d";
+  inputs.packument.url   = "https://registry.npmjs.org/xtend";
   inputs.packument.flake = false;
 
   outputs = inputs: let

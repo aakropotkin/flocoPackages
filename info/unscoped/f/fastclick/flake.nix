@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fastclick?rev=110-ef605973f1c078a1b71ab67088a066cb";
+  inputs.packument.url   = "https://registry.npmjs.org/fastclick";
   inputs.packument.flake = false;
 
   outputs = inputs: let

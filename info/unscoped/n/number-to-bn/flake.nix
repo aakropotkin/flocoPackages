@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/number-to-bn?rev=10-6417a7361ea562dc6fe1264d57250ff6";
+  inputs.packument.url   = "https://registry.npmjs.org/number-to-bn";
   inputs.packument.flake = false;
 
   outputs = inputs: let

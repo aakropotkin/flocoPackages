@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jwks-rsa?rev=102-43c043518ed7a8e3d3b913468e5df719";
+  inputs.packument.url   = "https://registry.npmjs.org/jwks-rsa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

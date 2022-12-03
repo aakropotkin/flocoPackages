@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@lit/reactive-element?rev=30-d406ee1ba1b3e67d03ac57840555d73b";
+  inputs.packument.url   = "https://registry.npmjs.org/@lit/reactive-element";
   inputs.packument.flake = false;
 
   outputs = inputs: let

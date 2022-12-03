@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-rule-value-function?rev=51-db59fb00e12005e4fcfbdba3fa5fb6e3";
+  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-rule-value-function";
   inputs.packument.flake = false;
 
   outputs = inputs: let

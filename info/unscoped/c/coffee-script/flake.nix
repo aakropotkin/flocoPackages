@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/coffee-script?rev=591-547c050d951c242a0aca65d20a462571";
+  inputs.packument.url   = "https://registry.npmjs.org/coffee-script";
   inputs.packument.flake = false;
 
   outputs = inputs: let

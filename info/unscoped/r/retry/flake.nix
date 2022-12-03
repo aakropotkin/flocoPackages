@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/retry?rev=86-e0b404512644d6041de2ab2ae1108a79";
+  inputs.packument.url   = "https://registry.npmjs.org/retry";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/querystring-parser?rev=107-c596aff44f583df5404a8fe4c2c8a5ca";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/querystring-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

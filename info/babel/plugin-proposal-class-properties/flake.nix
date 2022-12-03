@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-class-properties?rev=94-cc6a7ac895bd5b25695fecb8d25930a3";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-class-properties";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/crypto-random-string?rev=21-60649d6c338787073a825a9564d3b69a";
+  inputs.packument.url   = "https://registry.npmjs.org/crypto-random-string";
   inputs.packument.flake = false;
 
   outputs = inputs: let

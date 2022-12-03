@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-generator-fn?rev=7-01c2897fb77e8aa5b5ee2b3e2168ae28";
+  inputs.packument.url   = "https://registry.npmjs.org/is-generator-fn";
   inputs.packument.flake = false;
 
   outputs = inputs: let

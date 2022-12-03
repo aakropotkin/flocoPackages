@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/big-integer?rev=162-c26cb65da64a02ec3c1296233a5f5a23";
+  inputs.packument.url   = "https://registry.npmjs.org/big-integer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

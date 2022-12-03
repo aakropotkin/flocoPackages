@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/yoctodelay?rev=5-b0c311f7affe975d90d7f2ff243aee2d";
+  inputs.packument.url   = "https://registry.npmjs.org/yoctodelay";
   inputs.packument.flake = false;
 
   outputs = inputs: let

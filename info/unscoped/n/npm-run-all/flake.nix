@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/npm-run-all?rev=289-b25cdc9ce0a65f2882ecbe4ec2c3077c";
+  inputs.packument.url   = "https://registry.npmjs.org/npm-run-all";
   inputs.packument.flake = false;
 
   outputs = inputs: let

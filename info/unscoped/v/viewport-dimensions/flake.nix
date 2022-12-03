@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/viewport-dimensions?rev=4-72662eef6a7b9ef26ab8ba9ae81c495a";
+  inputs.packument.url   = "https://registry.npmjs.org/viewport-dimensions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

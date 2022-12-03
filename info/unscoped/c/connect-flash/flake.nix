@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/connect-flash?rev=120-15c47d2da0e16bf3226512d241349aa6";
+  inputs.packument.url   = "https://registry.npmjs.org/connect-flash";
   inputs.packument.flake = false;
 
   outputs = inputs: let

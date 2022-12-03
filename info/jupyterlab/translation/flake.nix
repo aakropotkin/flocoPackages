@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/translation?rev=216-45df498718190efff16e700c169d6030";
+  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/translation";
   inputs.packument.flake = false;
 
   outputs = inputs: let

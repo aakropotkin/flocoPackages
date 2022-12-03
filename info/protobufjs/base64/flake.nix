@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@protobufjs/base64?rev=13-f9038f00462fad4395c284ab0385f092";
+  inputs.packument.url   = "https://registry.npmjs.org/@protobufjs/base64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

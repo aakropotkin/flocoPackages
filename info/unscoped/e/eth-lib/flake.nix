@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eth-lib?rev=41-33a3a92766cb822b6112d8c29851a6c4";
+  inputs.packument.url   = "https://registry.npmjs.org/eth-lib";
   inputs.packument.flake = false;
 
   outputs = inputs: let

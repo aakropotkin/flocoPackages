@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/disparity-colors?rev=17-9185116de722c6e4af5f0255ed33c6a9";
+  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/disparity-colors";
   inputs.packument.flake = false;
 
   outputs = inputs: let

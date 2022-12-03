@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@sinclair/typebox?rev=130-4d1ecb0b6809da5fbe3884ff850c4881";
+  inputs.packument.url   = "https://registry.npmjs.org/@sinclair/typebox";
   inputs.packument.flake = false;
 
   outputs = inputs: let

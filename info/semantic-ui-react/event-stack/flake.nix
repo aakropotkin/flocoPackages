@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@semantic-ui-react/event-stack?rev=10-2c3bcaf7638a9187622da6e430ffb083";
+  inputs.packument.url   = "https://registry.npmjs.org/@semantic-ui-react/event-stack";
   inputs.packument.flake = false;
 
   outputs = inputs: let

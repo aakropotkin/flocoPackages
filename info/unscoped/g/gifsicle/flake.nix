@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gifsicle?rev=94-8d290ce7a780ff4475fdd94c8048b625";
+  inputs.packument.url   = "https://registry.npmjs.org/gifsicle";
   inputs.packument.flake = false;
 
   outputs = inputs: let

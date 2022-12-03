@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/csv-stringify?rev=82-92479c702c06c38cd1224eed7d5ff473";
+  inputs.packument.url   = "https://registry.npmjs.org/csv-stringify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

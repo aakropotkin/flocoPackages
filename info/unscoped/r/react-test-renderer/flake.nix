@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-test-renderer?rev=1292-dae6066ca4a605e659a864cc6eaeb77d";
+  inputs.packument.url   = "https://registry.npmjs.org/react-test-renderer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

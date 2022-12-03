@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@opentelemetry/resources?rev=153-d65e8cd6b6bbcfe7e52e39a49bdec5fb";
+  inputs.packument.url   = "https://registry.npmjs.org/@opentelemetry/resources";
   inputs.packument.flake = false;
 
   outputs = inputs: let

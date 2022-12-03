@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-nesting?rev=49-efd23a3eb61a62a1c323696047b90491";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-nesting";
   inputs.packument.flake = false;
 
   outputs = inputs: let

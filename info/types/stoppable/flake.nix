@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/stoppable?rev=462-d3b9762112b92173a93a764c4e0235c1";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/stoppable";
   inputs.packument.flake = false;
 
   outputs = inputs: let

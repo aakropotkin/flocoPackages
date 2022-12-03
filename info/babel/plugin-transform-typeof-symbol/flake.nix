@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-typeof-symbol?rev=82-23741f0ea5a4edc3951b9208c19cf0d3";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-typeof-symbol";
   inputs.packument.flake = false;
 
   outputs = inputs: let

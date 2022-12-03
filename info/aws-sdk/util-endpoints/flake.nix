@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-endpoints?rev=23-f3582d5822973cb95612329c386bac2c";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-endpoints";
   inputs.packument.flake = false;
 
   outputs = inputs: let

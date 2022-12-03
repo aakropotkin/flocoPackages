@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pascalcase?rev=8-6d8ea8c58a2d9f3c6da56b03e4b327f3";
+  inputs.packument.url   = "https://registry.npmjs.org/pascalcase";
   inputs.packument.flake = false;
 
   outputs = inputs: let

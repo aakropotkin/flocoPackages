@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bin-version-check?rev=15-4333ae4dd005ae7dc5bdd0d041bdb5f0";
+  inputs.packument.url   = "https://registry.npmjs.org/bin-version-check";
   inputs.packument.flake = false;
 
   outputs = inputs: let

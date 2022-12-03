@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bintrees?rev=44-cec1ef9c4d9c2abac74c4165580c860c";
+  inputs.packument.url   = "https://registry.npmjs.org/bintrees";
   inputs.packument.flake = false;
 
   outputs = inputs: let

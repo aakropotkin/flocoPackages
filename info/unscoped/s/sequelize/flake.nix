@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sequelize?rev=1294-70fabc504e199aa9a20c8a942d22a853";
+  inputs.packument.url   = "https://registry.npmjs.org/sequelize";
   inputs.packument.flake = false;
 
   outputs = inputs: let

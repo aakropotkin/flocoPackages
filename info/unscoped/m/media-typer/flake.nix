@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/media-typer?rev=19-04679a8fef058078fdbfc4fa601f5a40";
+  inputs.packument.url   = "https://registry.npmjs.org/media-typer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/require-dir?rev=127-ca8ee0eb5805771b7ed37a6a8e7ed0ea";
+  inputs.packument.url   = "https://registry.npmjs.org/require-dir";
   inputs.packument.flake = false;
 
   outputs = inputs: let

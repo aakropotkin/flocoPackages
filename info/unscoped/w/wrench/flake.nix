@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/wrench?rev=105-33c962e11f37859f0f2242a3acd8d32f";
+  inputs.packument.url   = "https://registry.npmjs.org/wrench";
   inputs.packument.flake = false;
 
   outputs = inputs: let

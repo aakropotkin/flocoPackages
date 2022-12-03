@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/immutable?rev=327-882f87f29f1c40a86e0bb47cc8c0a54a";
+  inputs.packument.url   = "https://registry.npmjs.org/immutable";
   inputs.packument.flake = false;
 
   outputs = inputs: let

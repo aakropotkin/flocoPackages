@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-bootstrap?rev=363-62868fd7f1911ae7da9d07e061d967cc";
+  inputs.packument.url   = "https://registry.npmjs.org/react-bootstrap";
   inputs.packument.flake = false;
 
   outputs = inputs: let

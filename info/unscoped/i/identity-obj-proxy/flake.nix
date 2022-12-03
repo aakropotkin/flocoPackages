@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/identity-obj-proxy?rev=11-80d34c5811087a180f6029aff152ac4d";
+  inputs.packument.url   = "https://registry.npmjs.org/identity-obj-proxy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/assertion-error?rev=17-95a34e275de6ed2a7809e331289d8a38";
+  inputs.packument.url   = "https://registry.npmjs.org/assertion-error";
   inputs.packument.flake = false;
 
   outputs = inputs: let

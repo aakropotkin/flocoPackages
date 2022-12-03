@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-shallow-renderer?rev=31-3b74407d958345f764cabca469f46830";
+  inputs.packument.url   = "https://registry.npmjs.org/react-shallow-renderer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

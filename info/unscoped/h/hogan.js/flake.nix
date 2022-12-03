@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hogan.js?rev=44-91c30119679417cb61466ee14e82c762";
+  inputs.packument.url   = "https://registry.npmjs.org/hogan.js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

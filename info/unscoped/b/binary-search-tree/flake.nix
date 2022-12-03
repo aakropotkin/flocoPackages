@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/binary-search-tree?rev=35-3773cc5f646da701a0b2bfcba81918c6";
+  inputs.packument.url   = "https://registry.npmjs.org/binary-search-tree";
   inputs.packument.flake = false;
 
   outputs = inputs: let

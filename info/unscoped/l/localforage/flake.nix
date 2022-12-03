@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/localforage?rev=170-a902109df8a67750c033a3f231f87471";
+  inputs.packument.url   = "https://registry.npmjs.org/localforage";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/reusify?rev=12-566bed08b1f2200ac98b48f78125b80e";
+  inputs.packument.url   = "https://registry.npmjs.org/reusify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/http2-wrapper?rev=57-886288f32ad66209c09e8126cea946c4";
+  inputs.packument.url   = "https://registry.npmjs.org/http2-wrapper";
   inputs.packument.flake = false;
 
   outputs = inputs: let

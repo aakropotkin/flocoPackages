@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-define-polyfill-provider?rev=24-f58f6d39d0d127d1245cc8ab48de6b34";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-define-polyfill-provider";
   inputs.packument.flake = false;
 
   outputs = inputs: let

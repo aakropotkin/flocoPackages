@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/promise-polyfill?rev=74-aa0a356a925df6255b2aa67b837583e3";
+  inputs.packument.url   = "https://registry.npmjs.org/promise-polyfill";
   inputs.packument.flake = false;
 
   outputs = inputs: let

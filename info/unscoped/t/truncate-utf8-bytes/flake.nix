@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/truncate-utf8-bytes?rev=9-5d4b74f56e6251a544a376aeff8d84b3";
+  inputs.packument.url   = "https://registry.npmjs.org/truncate-utf8-bytes";
   inputs.packument.flake = false;
 
   outputs = inputs: let

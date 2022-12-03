@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@protobufjs/path?rev=9-ca19a858213bf75b0070afb621952207";
+  inputs.packument.url   = "https://registry.npmjs.org/@protobufjs/path";
   inputs.packument.flake = false;
 
   outputs = inputs: let

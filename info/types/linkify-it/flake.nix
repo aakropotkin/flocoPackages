@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/linkify-it?rev=581-eb1401906dd6f3368adfd8c84207a7ff";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/linkify-it";
   inputs.packument.flake = false;
 
   outputs = inputs: let

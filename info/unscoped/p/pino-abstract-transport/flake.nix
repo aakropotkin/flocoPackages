@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pino-abstract-transport?rev=7-6778fad280c24b1b4c6daee192761eda";
+  inputs.packument.url   = "https://registry.npmjs.org/pino-abstract-transport";
   inputs.packument.flake = false;
 
   outputs = inputs: let

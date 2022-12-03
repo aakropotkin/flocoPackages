@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-dialog?rev=180-9a01b834088ffdf555f2565b2aa10a16";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-dialog";
   inputs.packument.flake = false;
 
   outputs = inputs: let

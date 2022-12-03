@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ansi-align?rev=13-e0e0ff70bbd284dadda471e37d93c7de";
+  inputs.packument.url   = "https://registry.npmjs.org/ansi-align";
   inputs.packument.flake = false;
 
   outputs = inputs: let

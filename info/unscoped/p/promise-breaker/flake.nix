@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/promise-breaker?rev=32-a66075b4366fa8238b67225dfa2f31fd";
+  inputs.packument.url   = "https://registry.npmjs.org/promise-breaker";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-win32-x64?rev=4-246a7542b8d23a2ec404fa77067b1b05";
+  inputs.packument.url   = "https://registry.npmjs.org/@msgpackr-extract/msgpackr-extract-win32-x64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

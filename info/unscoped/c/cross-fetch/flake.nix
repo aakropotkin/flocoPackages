@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cross-fetch?rev=56-7f526643b3c4aa18fb76e874eff43db4";
+  inputs.packument.url   = "https://registry.npmjs.org/cross-fetch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

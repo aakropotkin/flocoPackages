@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strip-dirs?rev=21-044092e3e24f11a7841513e5046d5600";
+  inputs.packument.url   = "https://registry.npmjs.org/strip-dirs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

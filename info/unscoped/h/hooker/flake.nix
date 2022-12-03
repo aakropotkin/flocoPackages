@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hooker?rev=16-0796769f2d377f9e4720dbb9fc8029e4";
+  inputs.packument.url   = "https://registry.npmjs.org/hooker";
   inputs.packument.flake = false;
 
   outputs = inputs: let

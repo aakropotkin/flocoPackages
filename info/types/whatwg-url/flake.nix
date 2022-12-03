@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/whatwg-url?rev=471-483e735029868f8eb6abce2a727d52fe";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/whatwg-url";
   inputs.packument.flake = false;
 
   outputs = inputs: let

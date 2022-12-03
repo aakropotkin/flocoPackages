@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cuid?rev=103-57db3364ea4a3380360140d91c47a634";
+  inputs.packument.url   = "https://registry.npmjs.org/cuid";
   inputs.packument.flake = false;
 
   outputs = inputs: let

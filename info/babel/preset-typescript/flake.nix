@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/preset-typescript?rev=91-ddb5f2b7ac8cc6d7f67c63aaa7f9dc90";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/preset-typescript";
   inputs.packument.flake = false;
 
   outputs = inputs: let

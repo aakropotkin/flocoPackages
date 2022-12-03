@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/karma-mocha?rev=77-89c13ed382a2ace5f6b93a7da86ce371";
+  inputs.packument.url   = "https://registry.npmjs.org/karma-mocha";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter?rev=8-38f950e34d59b03459b5c59a40090b18";
+  inputs.packument.url   = "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

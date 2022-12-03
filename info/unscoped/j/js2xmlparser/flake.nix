@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/js2xmlparser?rev=58-77c72e0026e63715f612e4245280a903";
+  inputs.packument.url   = "https://registry.npmjs.org/js2xmlparser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

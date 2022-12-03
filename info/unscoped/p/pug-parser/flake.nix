@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pug-parser?rev=31-7d5706546b81925b3c1fb8125fc46304";
+  inputs.packument.url   = "https://registry.npmjs.org/pug-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

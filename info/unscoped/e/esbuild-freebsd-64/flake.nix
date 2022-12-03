@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-freebsd-64?rev=271-49fef018284ca1196ef795a84abde43e";
+  inputs.packument.url   = "https://registry.npmjs.org/esbuild-freebsd-64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@kwsites/promise-deferred?rev=6-84c17019a0f65101198bffe850666746";
+  inputs.packument.url   = "https://registry.npmjs.org/@kwsites/promise-deferred";
   inputs.packument.flake = false;
 
   outputs = inputs: let

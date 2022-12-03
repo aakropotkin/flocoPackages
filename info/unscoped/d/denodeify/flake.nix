@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/denodeify?rev=24-e5b4f5270309acba85f0ee5146134a54";
+  inputs.packument.url   = "https://registry.npmjs.org/denodeify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

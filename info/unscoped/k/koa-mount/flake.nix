@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/koa-mount?rev=51-089d5a1686ba683c489adc6a8d4be6a8";
+  inputs.packument.url   = "https://registry.npmjs.org/koa-mount";
   inputs.packument.flake = false;
 
   outputs = inputs: let

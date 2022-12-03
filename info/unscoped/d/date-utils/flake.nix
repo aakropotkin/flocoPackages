@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/date-utils?rev=92-3913fe02b1f726d4fef1285123d6a5b2";
+  inputs.packument.url   = "https://registry.npmjs.org/date-utils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

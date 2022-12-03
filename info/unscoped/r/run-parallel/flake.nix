@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/run-parallel?rev=48-cd21abfcfd691087fb2933829ab0fd54";
+  inputs.packument.url   = "https://registry.npmjs.org/run-parallel";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/is-array-buffer?rev=68-9a375758369fd0b57239d730a48a0651";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/is-array-buffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

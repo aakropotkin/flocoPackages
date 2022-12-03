@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@sqltools/formatter?rev=16-ff24010f500a3d3ec1a68cc7822aef35";
+  inputs.packument.url   = "https://registry.npmjs.org/@sqltools/formatter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

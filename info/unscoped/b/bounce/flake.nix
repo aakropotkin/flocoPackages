@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bounce?rev=25-9f86c8f0950e8f676f92d1cb03a9113b";
+  inputs.packument.url   = "https://registry.npmjs.org/bounce";
   inputs.packument.flake = false;
 
   outputs = inputs: let

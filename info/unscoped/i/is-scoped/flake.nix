@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-scoped?rev=6-6ffc7452b6ec41f9c4d308a3254818a5";
+  inputs.packument.url   = "https://registry.npmjs.org/is-scoped";
   inputs.packument.flake = false;
 
   outputs = inputs: let

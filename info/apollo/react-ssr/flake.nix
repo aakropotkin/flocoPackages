@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@apollo/react-ssr?rev=26-a45086ab0359cb4cfebf5fb7f7a8f468";
+  inputs.packument.url   = "https://registry.npmjs.org/@apollo/react-ssr";
   inputs.packument.flake = false;
 
   outputs = inputs: let

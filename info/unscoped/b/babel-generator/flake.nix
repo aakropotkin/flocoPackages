@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-generator?rev=240-f8886136473a4f4ff1427a15b60d09e5";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-generator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

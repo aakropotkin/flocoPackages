@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@swc/core-linux-arm64-musl?rev=182-f5bb6bfbd407e6bd3f7cfafac378f1d8";
+  inputs.packument.url   = "https://registry.npmjs.org/@swc/core-linux-arm64-musl";
   inputs.packument.flake = false;
 
   outputs = inputs: let

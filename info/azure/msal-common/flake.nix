@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/msal-common?rev=62-407467b8177ac7d66e13e7c6da2bf499";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/msal-common";
   inputs.packument.flake = false;
 
   outputs = inputs: let

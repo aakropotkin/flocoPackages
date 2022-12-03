@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/js-tokens?rev=34-a5d8c4458d1e023ece456d90a8973a0f";
+  inputs.packument.url   = "https://registry.npmjs.org/js-tokens";
   inputs.packument.flake = false;
 
   outputs = inputs: let

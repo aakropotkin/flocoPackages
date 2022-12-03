@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/async-disk-cache?rev=30-7bb443eae2fc16f8b065a75d8f42cd45";
+  inputs.packument.url   = "https://registry.npmjs.org/async-disk-cache";
   inputs.packument.flake = false;
 
   outputs = inputs: let

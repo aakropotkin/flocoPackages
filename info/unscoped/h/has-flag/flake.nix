@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/has-flag?rev=16-c315872d5b8ffee8fecd0e69c571f1aa";
+  inputs.packument.url   = "https://registry.npmjs.org/has-flag";
   inputs.packument.flake = false;
 
   outputs = inputs: let

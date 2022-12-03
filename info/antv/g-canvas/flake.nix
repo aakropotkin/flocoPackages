@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-canvas?rev=275-eb3b5be4525e5e5af6221e360e8e05ec";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-canvas";
   inputs.packument.flake = false;
 
   outputs = inputs: let

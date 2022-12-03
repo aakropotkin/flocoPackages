@@ -3,13 +3,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-TayCuHmiP2+uMGYIX42kv0C1q3aNVYqEv4sUJBpY1TQ=",
+        "narHash": "sha256-HaDXC2Siczvv4RT75ltEnpQ0cL0RKA6lSAIy4f6I38w=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@swc/core-win32-arm64-msvc?rev=182-3ce9b101d09828c218508c3a30f03103"
+        "url": "https://registry.npmjs.org/@swc/core-win32-arm64-msvc"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@swc/core-win32-arm64-msvc?rev=182-3ce9b101d09828c218508c3a30f03103"
+        "url": "https://registry.npmjs.org/@swc/core-win32-arm64-msvc"
       }
     },
     "root": {

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-node-version?rev=5-ed3bf37e4c19f44419f66d54b85c54fb";
+  inputs.packument.url   = "https://registry.npmjs.org/parse-node-version";
   inputs.packument.flake = false;
 
   outputs = inputs: let

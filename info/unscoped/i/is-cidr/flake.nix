@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-cidr?rev=24-d30b2c59472e30fb17675331f55014ec";
+  inputs.packument.url   = "https://registry.npmjs.org/is-cidr";
   inputs.packument.flake = false;
 
   outputs = inputs: let

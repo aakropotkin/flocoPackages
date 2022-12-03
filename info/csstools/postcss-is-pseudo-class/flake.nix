@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class?rev=10-96d8c3e91764670313166cdfb3371150";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-is-pseudo-class";
   inputs.packument.flake = false;
 
   outputs = inputs: let

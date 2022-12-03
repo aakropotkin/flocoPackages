@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-svg-picker?rev=152-29b4e18a6049c52f7eea020d68152f1b";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-svg-picker";
   inputs.packument.flake = false;
 
   outputs = inputs: let

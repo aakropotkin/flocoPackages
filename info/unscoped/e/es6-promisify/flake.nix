@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es6-promisify?rev=58-e2ef0fddcef1023dfa9228851be33270";
+  inputs.packument.url   = "https://registry.npmjs.org/es6-promisify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

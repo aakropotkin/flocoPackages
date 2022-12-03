@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/can-symlink?rev=6-f9c93a1ab9d60d6d14f3752ba84782ce";
+  inputs.packument.url   = "https://registry.npmjs.org/can-symlink";
   inputs.packument.flake = false;
 
   outputs = inputs: let

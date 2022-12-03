@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-private-methods?rev=33-f0e200e1a3a97036e6609323d5e6e1bc";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-private-methods";
   inputs.packument.flake = false;
 
   outputs = inputs: let

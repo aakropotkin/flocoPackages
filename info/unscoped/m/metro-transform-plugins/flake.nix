@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-transform-plugins?rev=36-b52e4d055a2c348ff1f7bc1154b671f9";
+  inputs.packument.url   = "https://registry.npmjs.org/metro-transform-plugins";
   inputs.packument.flake = false;
 
   outputs = inputs: let

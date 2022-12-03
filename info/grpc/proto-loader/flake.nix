@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@grpc/proto-loader?rev=50-61a71fec82794e7fc18cb6e3099bfc56";
+  inputs.packument.url   = "https://registry.npmjs.org/@grpc/proto-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

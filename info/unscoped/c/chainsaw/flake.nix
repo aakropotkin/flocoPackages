@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/chainsaw?rev=30-a84452f23cffeade8ee06c4afdc9e7d6";
+  inputs.packument.url   = "https://registry.npmjs.org/chainsaw";
   inputs.packument.flake = false;
 
   outputs = inputs: let

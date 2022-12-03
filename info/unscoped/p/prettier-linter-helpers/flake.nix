@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/prettier-linter-helpers?rev=2-ef8f7b7a5f7f55b4ba458784606337af";
+  inputs.packument.url   = "https://registry.npmjs.org/prettier-linter-helpers";
   inputs.packument.flake = false;
 
   outputs = inputs: let

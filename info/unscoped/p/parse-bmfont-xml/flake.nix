@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-bmfont-xml?rev=17-632c0a222cc8af45fa080d7b8253092e";
+  inputs.packument.url   = "https://registry.npmjs.org/parse-bmfont-xml";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/arrify?rev=17-8838df65ffc09b990070e2907fd391bc";
+  inputs.packument.url   = "https://registry.npmjs.org/arrify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

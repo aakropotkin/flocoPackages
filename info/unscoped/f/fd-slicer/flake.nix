@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fd-slicer?rev=43-b6b98b13b96e050c2c8388d802105452";
+  inputs.packument.url   = "https://registry.npmjs.org/fd-slicer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

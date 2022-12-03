@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-arm64?rev=314-cd9280a57fe45accebab0afe0d5f410b";
+  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-arm64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

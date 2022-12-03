@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/just-debounce?rev=11-ebf4289612b73dc9d60636c15ce9eebd";
+  inputs.packument.url   = "https://registry.npmjs.org/just-debounce";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/language-subtag-registry?rev=38-25925533de23ca792a150b2452661fd4";
+  inputs.packument.url   = "https://registry.npmjs.org/language-subtag-registry";
   inputs.packument.flake = false;
 
   outputs = inputs: let

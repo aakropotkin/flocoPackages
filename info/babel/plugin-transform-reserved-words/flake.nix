@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-reserved-words?rev=79-398c66417005926fb1e4990772765016";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-reserved-words";
   inputs.packument.flake = false;
 
   outputs = inputs: let

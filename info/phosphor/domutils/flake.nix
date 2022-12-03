@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/domutils?rev=24-c20e8e07a8ae93ee63b55c2c4e4aae7a";
+  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/domutils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

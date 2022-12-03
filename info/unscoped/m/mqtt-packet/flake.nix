@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mqtt-packet?rev=92-72901e04fc8aa928e18cd10269d61b49";
+  inputs.packument.url   = "https://registry.npmjs.org/mqtt-packet";
   inputs.packument.flake = false;
 
   outputs = inputs: let

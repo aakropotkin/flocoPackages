@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parallel-transform?rev=26-c531eb08bf58bc04388b553070059526";
+  inputs.packument.url   = "https://registry.npmjs.org/parallel-transform";
   inputs.packument.flake = false;
 
   outputs = inputs: let

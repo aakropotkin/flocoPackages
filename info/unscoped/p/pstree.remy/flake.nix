@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pstree.remy?rev=9-6402ca83c692f8759d2570614e352fb5";
+  inputs.packument.url   = "https://registry.npmjs.org/pstree.remy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

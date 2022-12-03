@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-shared-array-buffer?rev=3-3c78642e9a05c713bf34b577fb3e8f40";
+  inputs.packument.url   = "https://registry.npmjs.org/is-shared-array-buffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

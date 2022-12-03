@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/touch?rev=38-64a8e3663bd51fd039d9062fb33c0590";
+  inputs.packument.url   = "https://registry.npmjs.org/touch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

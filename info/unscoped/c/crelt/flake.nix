@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/crelt?rev=6-cd170150606c6b63b3b5223f0f519397";
+  inputs.packument.url   = "https://registry.npmjs.org/crelt";
   inputs.packument.flake = false;
 
   outputs = inputs: let

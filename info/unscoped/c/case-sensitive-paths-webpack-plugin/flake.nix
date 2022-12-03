@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/case-sensitive-paths-webpack-plugin?rev=23-a2a69b9b568d27ba42e0ea8b7cb4ac77";
+  inputs.packument.url   = "https://registry.npmjs.org/case-sensitive-paths-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

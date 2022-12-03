@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/expand-brackets?rev=26-d93eed3e3f590d1597669248978c00a7";
+  inputs.packument.url   = "https://registry.npmjs.org/expand-brackets";
   inputs.packument.flake = false;
 
   outputs = inputs: let

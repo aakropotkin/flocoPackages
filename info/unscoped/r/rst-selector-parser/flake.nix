@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rst-selector-parser?rev=8-9d7e584a4f7bd8bf4590821534dc987e";
+  inputs.packument.url   = "https://registry.npmjs.org/rst-selector-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

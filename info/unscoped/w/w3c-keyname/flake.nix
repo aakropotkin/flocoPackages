@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/w3c-keyname?rev=23-78bd027b0ba35c6639cc9e2ef152e593";
+  inputs.packument.url   = "https://registry.npmjs.org/w3c-keyname";
   inputs.packument.flake = false;
 
   outputs = inputs: let

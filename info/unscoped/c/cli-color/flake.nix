@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cli-color?rev=126-640af5f0c7105d4c800ec698f6df9df0";
+  inputs.packument.url   = "https://registry.npmjs.org/cli-color";
   inputs.packument.flake = false;
 
   outputs = inputs: let

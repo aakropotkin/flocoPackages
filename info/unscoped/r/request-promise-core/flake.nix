@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/request-promise-core?rev=7-8f5629967c2c1d26a57b7b7e909237e3";
+  inputs.packument.url   = "https://registry.npmjs.org/request-promise-core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

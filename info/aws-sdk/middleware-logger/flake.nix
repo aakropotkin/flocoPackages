@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-logger?rev=83-514345b1d18633ce8e0bffc76a39fc98";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-logger";
   inputs.packument.flake = false;
 
   outputs = inputs: let

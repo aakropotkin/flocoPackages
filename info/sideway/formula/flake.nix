@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@sideway/formula?rev=1-98641b6cac2c683b11abe2b5692bfb08";
+  inputs.packument.url   = "https://registry.npmjs.org/@sideway/formula";
   inputs.packument.flake = false;
 
   outputs = inputs: let

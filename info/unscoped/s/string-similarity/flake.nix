@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/string-similarity?rev=34-7ec03081b06c3eefda85bafc13725a39";
+  inputs.packument.url   = "https://registry.npmjs.org/string-similarity";
   inputs.packument.flake = false;
 
   outputs = inputs: let

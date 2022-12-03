@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cluster-key-slot?rev=19-93d7d4659ac419652fbced3d2fabd517";
+  inputs.packument.url   = "https://registry.npmjs.org/cluster-key-slot";
   inputs.packument.flake = false;
 
   outputs = inputs: let

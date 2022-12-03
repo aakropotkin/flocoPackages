@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/minimalistic-crypto-utils?rev=4-b946fb83e7e0387acead97e063919da7";
+  inputs.packument.url   = "https://registry.npmjs.org/minimalistic-crypto-utils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

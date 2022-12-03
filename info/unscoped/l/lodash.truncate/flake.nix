@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lodash.truncate?rev=16-78267ceee8a2b5876da44390123e49e9";
+  inputs.packument.url   = "https://registry.npmjs.org/lodash.truncate";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pug-linker?rev=43-6d73d1023615b6ec9043bfb5b53b3340";
+  inputs.packument.url   = "https://registry.npmjs.org/pug-linker";
   inputs.packument.flake = false;
 
   outputs = inputs: let

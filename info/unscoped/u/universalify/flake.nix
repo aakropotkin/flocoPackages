@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/universalify?rev=13-7de8366fb3fa988eda8a28f0003add0b";
+  inputs.packument.url   = "https://registry.npmjs.org/universalify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

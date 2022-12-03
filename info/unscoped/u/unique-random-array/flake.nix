@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unique-random-array?rev=13-856bb39f74d7827154df42d0d3866f6b";
+  inputs.packument.url   = "https://registry.npmjs.org/unique-random-array";
   inputs.packument.flake = false;
 
   outputs = inputs: let

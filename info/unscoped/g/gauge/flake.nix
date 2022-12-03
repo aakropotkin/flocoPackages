@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gauge?rev=88-3bd601168f0ead6fe3a3016766ac3b52";
+  inputs.packument.url   = "https://registry.npmjs.org/gauge";
   inputs.packument.flake = false;
 
   outputs = inputs: let

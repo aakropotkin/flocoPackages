@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/proxy-agent?rev=38-912bdc23cf93fe81613e88491d2b9464";
+  inputs.packument.url   = "https://registry.npmjs.org/proxy-agent";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pm2-sysmonit?rev=19-8aa3c9f50b182ccf8c97d796c45df739";
+  inputs.packument.url   = "https://registry.npmjs.org/pm2-sysmonit";
   inputs.packument.flake = false;
 
   outputs = inputs: let

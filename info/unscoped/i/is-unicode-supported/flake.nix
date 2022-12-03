@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-unicode-supported?rev=5-77ebf79e7556a0b702a5a9ba6bab8ab5";
+  inputs.packument.url   = "https://registry.npmjs.org/is-unicode-supported";
   inputs.packument.flake = false;
 
   outputs = inputs: let

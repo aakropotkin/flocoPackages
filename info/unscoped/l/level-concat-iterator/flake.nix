@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/level-concat-iterator?rev=7-e33ddc4b6cb8a5ce1c83fd07242e773f";
+  inputs.packument.url   = "https://registry.npmjs.org/level-concat-iterator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

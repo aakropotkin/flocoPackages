@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/glob-watcher?rev=45-e8b6f18ed0d16c3841b57ee4f555170f";
+  inputs.packument.url   = "https://registry.npmjs.org/glob-watcher";
   inputs.packument.flake = false;
 
   outputs = inputs: let

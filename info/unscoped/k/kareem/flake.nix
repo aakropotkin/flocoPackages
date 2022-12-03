@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/kareem?rev=68-ea6e2513ddaf2c295e4aa93b1c60c099";
+  inputs.packument.url   = "https://registry.npmjs.org/kareem";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/extract-text-webpack-plugin?rev=227-289f1169d9e1c21f349db50a2833021d";
+  inputs.packument.url   = "https://registry.npmjs.org/extract-text-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

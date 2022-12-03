@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-packet-analyzer?rev=156-536230a0f83fa304c488c27f1644ef91";
+  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-packet-analyzer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pm2-multimeter?rev=9-5d7efd2fa0d8e70bf1ac835c00af012d";
+  inputs.packument.url   = "https://registry.npmjs.org/pm2-multimeter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

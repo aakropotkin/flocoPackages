@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-global?rev=51-18dd3fbd8cfc0f5186f7c0bd662ef3bb";
+  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-global";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/for-each?rev=18-fcc43466309c03345c4f65a9db56c96e";
+  inputs.packument.url   = "https://registry.npmjs.org/for-each";
   inputs.packument.flake = false;
 
   outputs = inputs: let

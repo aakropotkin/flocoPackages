@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/attr-accept?rev=17-14fb942a83a01cd0d7b247f9dfb1c02a";
+  inputs.packument.url   = "https://registry.npmjs.org/attr-accept";
   inputs.packument.flake = false;
 
   outputs = inputs: let

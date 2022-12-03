@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-domexception?rev=1-bdb66f62ed421eca8fd67370f6c9c032";
+  inputs.packument.url   = "https://registry.npmjs.org/node-domexception";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/websocket-driver?rev=54-1d08f70881ff9533a6f00cbed20dc7e9";
+  inputs.packument.url   = "https://registry.npmjs.org/websocket-driver";
   inputs.packument.flake = false;
 
   outputs = inputs: let

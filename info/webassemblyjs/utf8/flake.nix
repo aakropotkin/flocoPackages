@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/utf8?rev=39-10e607671b5e93a4bf50a3c0f76df371";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/utf8";
   inputs.packument.flake = false;
 
   outputs = inputs: let

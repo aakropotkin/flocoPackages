@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-resize-detector?rev=111-495e6e7e94e4493a7b44f00c0e4bfed3";
+  inputs.packument.url   = "https://registry.npmjs.org/react-resize-detector";
   inputs.packument.flake = false;
 
   outputs = inputs: let

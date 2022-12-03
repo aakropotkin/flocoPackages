@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/nodemailer?rev=726-e151333cbc1e389db8ddc07ea0c4538a";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/nodemailer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/html-escaper?rev=13-6ddb9ba96f4c499910685f32ce24933d";
+  inputs.packument.url   = "https://registry.npmjs.org/html-escaper";
   inputs.packument.flake = false;
 
   outputs = inputs: let

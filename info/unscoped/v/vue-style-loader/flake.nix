@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vue-style-loader?rev=32-e828f099065f4ca73d9559edf5f1bf52";
+  inputs.packument.url   = "https://registry.npmjs.org/vue-style-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

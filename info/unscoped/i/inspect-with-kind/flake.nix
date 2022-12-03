@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/inspect-with-kind?rev=9-2c36bdd01bd3da7f123fedcfaad12b41";
+  inputs.packument.url   = "https://registry.npmjs.org/inspect-with-kind";
   inputs.packument.flake = false;
 
   outputs = inputs: let

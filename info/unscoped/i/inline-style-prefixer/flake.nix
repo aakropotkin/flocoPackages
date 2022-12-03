@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/inline-style-prefixer?rev=82-f102a4f482ba88cdfcdd51f77268ebb7";
+  inputs.packument.url   = "https://registry.npmjs.org/inline-style-prefixer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

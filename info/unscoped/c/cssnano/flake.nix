@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cssnano?rev=203-aae93b963abd580196a1b245e5d2f527";
+  inputs.packument.url   = "https://registry.npmjs.org/cssnano";
   inputs.packument.flake = false;
 
   outputs = inputs: let

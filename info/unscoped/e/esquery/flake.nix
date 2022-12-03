@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esquery?rev=25-4628536678ee0a73e40d61d6b3315253";
+  inputs.packument.url   = "https://registry.npmjs.org/esquery";
   inputs.packument.flake = false;
 
   outputs = inputs: let

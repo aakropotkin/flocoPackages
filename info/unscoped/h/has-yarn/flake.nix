@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/has-yarn?rev=7-aa0941276bd4451c58d83f1607073fb3";
+  inputs.packument.url   = "https://registry.npmjs.org/has-yarn";
   inputs.packument.flake = false;
 
   outputs = inputs: let

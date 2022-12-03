@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-object-rest-spread?rev=107-0c77c26feb0b93504e708b318831d3e9";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-object-rest-spread";
   inputs.packument.flake = false;
 
   outputs = inputs: let

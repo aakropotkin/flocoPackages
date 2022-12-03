@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/webchannel-wrapper?rev=2532-86748f672b4643ad756511e8e90d4d0c";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/webchannel-wrapper";
   inputs.packument.flake = false;
 
   outputs = inputs: let

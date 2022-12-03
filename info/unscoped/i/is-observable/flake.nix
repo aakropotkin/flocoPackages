@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-observable?rev=10-cb316d6780ad605e6111b6effdc4e1b2";
+  inputs.packument.url   = "https://registry.npmjs.org/is-observable";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/luxon?rev=150-77002f0ac946ee914ce35a9c53192861";
+  inputs.packument.url   = "https://registry.npmjs.org/luxon";
   inputs.packument.flake = false;
 
   outputs = inputs: let

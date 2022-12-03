@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/download-git-repo?rev=52-c1ca62d0489aa338741f7d480c32701d";
+  inputs.packument.url   = "https://registry.npmjs.org/download-git-repo";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dezalgo?rev=42-6bbd0b74556aa5c5f3ddcb6c5d112856";
+  inputs.packument.url   = "https://registry.npmjs.org/dezalgo";
   inputs.packument.flake = false;
 
   outputs = inputs: let

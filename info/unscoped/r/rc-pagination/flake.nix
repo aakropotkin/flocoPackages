@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-pagination?rev=213-f7eacc3f96429b3cd4a0f29b635aee06";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-pagination";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jest/expect-utils?rev=30-f5f2236156464bd07f1a110ff51455fc";
+  inputs.packument.url   = "https://registry.npmjs.org/@jest/expect-utils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-align?rev=52-4c3b266aae90fec8d479f943bafe7106";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-align";
   inputs.packument.flake = false;
 
   outputs = inputs: let

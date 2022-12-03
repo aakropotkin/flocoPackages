@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dom-accessibility-api?rev=28-e45c73e872f3633b252f17abffb63270";
+  inputs.packument.url   = "https://registry.npmjs.org/dom-accessibility-api";
   inputs.packument.flake = false;
 
   outputs = inputs: let

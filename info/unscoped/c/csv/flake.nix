@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/csv?rev=295-e8038a43731f45695822a3d08d4c1295";
+  inputs.packument.url   = "https://registry.npmjs.org/csv";
   inputs.packument.flake = false;
 
   outputs = inputs: let

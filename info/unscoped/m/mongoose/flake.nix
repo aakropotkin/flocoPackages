@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mongoose?rev=1993-9c79edd8e0c10acc4e3a989df1493560";
+  inputs.packument.url   = "https://registry.npmjs.org/mongoose";
   inputs.packument.flake = false;
 
   outputs = inputs: let

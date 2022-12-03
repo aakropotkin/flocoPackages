@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-android-64?rev=46-2786b88a4e57e97e199a6d707f90af9d";
+  inputs.packument.url   = "https://registry.npmjs.org/esbuild-android-64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

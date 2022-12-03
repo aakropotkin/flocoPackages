@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-cacheable-response?rev=102-000b20c32e2a0b348072e52218de2c8d";
+  inputs.packument.url   = "https://registry.npmjs.org/workbox-cacheable-response";
   inputs.packument.flake = false;
 
   outputs = inputs: let

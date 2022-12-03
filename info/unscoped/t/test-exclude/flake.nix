@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/test-exclude?rev=57-d5ee57110d9e39cd69fbe510242789bc";
+  inputs.packument.url   = "https://registry.npmjs.org/test-exclude";
   inputs.packument.flake = false;
 
   outputs = inputs: let

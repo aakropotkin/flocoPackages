@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jasmine-core?rev=106-bef80aff8adad8bb9d6b4dd3bff9d42a";
+  inputs.packument.url   = "https://registry.npmjs.org/jasmine-core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

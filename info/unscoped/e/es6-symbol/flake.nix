@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es6-symbol?rev=27-17180f7d65ccbcb4e459cbc6cd837d1e";
+  inputs.packument.url   = "https://registry.npmjs.org/es6-symbol";
   inputs.packument.flake = false;
 
   outputs = inputs: let

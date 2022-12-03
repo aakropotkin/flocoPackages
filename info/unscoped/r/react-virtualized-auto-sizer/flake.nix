@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-virtualized-auto-sizer?rev=11-1bd214a7f851e1191e41ca31411cc3ab";
+  inputs.packument.url   = "https://registry.npmjs.org/react-virtualized-auto-sizer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

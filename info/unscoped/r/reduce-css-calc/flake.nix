@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/reduce-css-calc?rev=45-1794cd4ecb66b8f53d2184d791a9eebf";
+  inputs.packument.url   = "https://registry.npmjs.org/reduce-css-calc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

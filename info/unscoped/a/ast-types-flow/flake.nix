@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ast-types-flow?rev=9-3f086909ad7f4b713841c38bf9f7be11";
+  inputs.packument.url   = "https://registry.npmjs.org/ast-types-flow";
   inputs.packument.flake = false;
 
   outputs = inputs: let

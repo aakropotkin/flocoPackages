@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sade?rev=28-5e46ba8513e646ebe5bddd2c2eba90ae";
+  inputs.packument.url   = "https://registry.npmjs.org/sade";
   inputs.packument.flake = false;
 
   outputs = inputs: let

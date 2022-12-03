@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/broccoli-funnel?rev=67-7171d5bce022ca0603b78e1e5fc9f55b";
+  inputs.packument.url   = "https://registry.npmjs.org/broccoli-funnel";
   inputs.packument.flake = false;
 
   outputs = inputs: let

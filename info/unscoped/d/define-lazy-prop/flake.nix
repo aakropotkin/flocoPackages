@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/define-lazy-prop?rev=5-90de61f8e78910da87ff39f495005fda";
+  inputs.packument.url   = "https://registry.npmjs.org/define-lazy-prop";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@sapphire/async-queue?rev=446-6c9a7f81e8a53db2f9636582a0a87fd1";
+  inputs.packument.url   = "https://registry.npmjs.org/@sapphire/async-queue";
   inputs.packument.flake = false;
 
   outputs = inputs: let

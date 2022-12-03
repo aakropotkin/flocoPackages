@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/awesome-typescript-loader?rev=223-91a4ea973f0a9d21a2429a57febf14e8";
+  inputs.packument.url   = "https://registry.npmjs.org/awesome-typescript-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

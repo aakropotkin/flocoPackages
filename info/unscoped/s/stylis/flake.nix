@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stylis?rev=172-f38a1f28e09bbff91bb9a644da3cb0c4";
+  inputs.packument.url   = "https://registry.npmjs.org/stylis";
   inputs.packument.flake = false;
 
   outputs = inputs: let

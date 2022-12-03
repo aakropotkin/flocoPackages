@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/icss-utils?rev=13-77028064a761816a74b141c0786f56c8";
+  inputs.packument.url   = "https://registry.npmjs.org/icss-utils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

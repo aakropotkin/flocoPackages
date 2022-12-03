@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/markdown-it-anchor?rev=70-a96af305cce60a8cd719d3dcae512da3";
+  inputs.packument.url   = "https://registry.npmjs.org/markdown-it-anchor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

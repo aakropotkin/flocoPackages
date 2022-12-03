@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/client-sso?rev=191-f739f68cb7d87c6be98ca3aed8c95878";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/client-sso";
   inputs.packument.flake = false;
 
   outputs = inputs: let

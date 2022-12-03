@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pumpify?rev=48-54e20180f2bd6cac500d0418d7a4725e";
+  inputs.packument.url   = "https://registry.npmjs.org/pumpify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/aws-sign2?rev=9-76f4ba12bbbe2b3bec7c3421ab5eb4ab";
+  inputs.packument.url   = "https://registry.npmjs.org/aws-sign2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

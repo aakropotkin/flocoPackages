@@ -3,13 +3,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-QMOcfy/p8R67AhpSfX2/1lE+mT6CBbK+0KkC4iGWIFY=",
+        "narHash": "sha256-CQ47r2VvEBJmvehHji74uq8Ga1EdRQfOrvgbmTIyxkY=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-cognito-identity?rev=220-d6cecf161199dd675ebc2445ed763987"
+        "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-cognito-identity"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-cognito-identity?rev=220-d6cecf161199dd675ebc2445ed763987"
+        "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-cognito-identity"
       }
     },
     "root": {

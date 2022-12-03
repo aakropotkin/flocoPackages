@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decode-named-character-reference?rev=3-2c891977b827a37419a9d31685cd4411";
+  inputs.packument.url   = "https://registry.npmjs.org/decode-named-character-reference";
   inputs.packument.flake = false;
 
   outputs = inputs: let

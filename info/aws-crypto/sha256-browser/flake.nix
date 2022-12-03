@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-crypto/sha256-browser?rev=25-ec259ebd150c27aa7f64bbb42a72836c";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-crypto/sha256-browser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

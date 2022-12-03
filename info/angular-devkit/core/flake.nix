@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@angular-devkit/core?rev=576-53addece10a8c9d48d3b032f09ac1e3b";
+  inputs.packument.url   = "https://registry.npmjs.org/@angular-devkit/core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

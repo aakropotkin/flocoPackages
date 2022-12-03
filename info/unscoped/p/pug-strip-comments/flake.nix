@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pug-strip-comments?rev=17-73e370c324da768f67477deb3db907fd";
+  inputs.packument.url   = "https://registry.npmjs.org/pug-strip-comments";
   inputs.packument.flake = false;
 
   outputs = inputs: let

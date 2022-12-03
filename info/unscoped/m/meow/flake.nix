@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/meow?rev=149-cfadb00687948fe37ff265c38598c6f3";
+  inputs.packument.url   = "https://registry.npmjs.org/meow";
   inputs.packument.flake = false;
 
   outputs = inputs: let

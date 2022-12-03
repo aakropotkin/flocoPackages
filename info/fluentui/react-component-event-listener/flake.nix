@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@fluentui/react-component-event-listener?rev=89-571938fa390eab778908fa7d64e21b67";
+  inputs.packument.url   = "https://registry.npmjs.org/@fluentui/react-component-event-listener";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark-util-chunked?rev=5-6853c3110d7ae644aa079614b7526e94";
+  inputs.packument.url   = "https://registry.npmjs.org/micromark-util-chunked";
   inputs.packument.flake = false;
 
   outputs = inputs: let

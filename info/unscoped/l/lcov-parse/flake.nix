@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lcov-parse?rev=25-e3e55a410646061783504df5fe0204c0";
+  inputs.packument.url   = "https://registry.npmjs.org/lcov-parse";
   inputs.packument.flake = false;
 
   outputs = inputs: let

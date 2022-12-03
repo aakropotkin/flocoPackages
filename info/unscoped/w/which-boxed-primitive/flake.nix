@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/which-boxed-primitive?rev=7-b749116ec3eacb0a3c1325eefcffba9c";
+  inputs.packument.url   = "https://registry.npmjs.org/which-boxed-primitive";
   inputs.packument.flake = false;
 
   outputs = inputs: let

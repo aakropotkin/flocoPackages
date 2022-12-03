@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-time-format?rev=600-1ab0146b091825d9a0dd213aea6d15bd";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-time-format";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/exif-parser?rev=36-ed8ce1a0d1161afaf03007358c08d216";
+  inputs.packument.url   = "https://registry.npmjs.org/exif-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

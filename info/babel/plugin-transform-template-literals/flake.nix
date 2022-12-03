@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-template-literals?rev=85-7c7e8544dfc4fd0e91bbba97a0b05dfe";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-template-literals";
   inputs.packument.flake = false;
 
   outputs = inputs: let

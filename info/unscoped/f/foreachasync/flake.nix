@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/foreachasync?rev=40-f60235be47fa16b49776bcbe563c2f72";
+  inputs.packument.url   = "https://registry.npmjs.org/foreachasync";
   inputs.packument.flake = false;
 
   outputs = inputs: let

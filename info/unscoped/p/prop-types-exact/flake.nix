@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/prop-types-exact?rev=15-b673edc50c51cf05daf663f12f52539e";
+  inputs.packument.url   = "https://registry.npmjs.org/prop-types-exact";
   inputs.packument.flake = false;
 
   outputs = inputs: let

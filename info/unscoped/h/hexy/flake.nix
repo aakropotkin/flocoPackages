@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hexy?rev=49-37608bfa052559df971238eec811dcbf";
+  inputs.packument.url   = "https://registry.npmjs.org/hexy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

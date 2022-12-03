@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/apollo-client?rev=384-1619607143d2da5c92a4cf474c2a8867";
+  inputs.packument.url   = "https://registry.npmjs.org/apollo-client";
   inputs.packument.flake = false;
 
   outputs = inputs: let

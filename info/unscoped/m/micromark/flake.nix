@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark?rev=44-2735f31ff2281ab0d569e21322fc3b2a";
+  inputs.packument.url   = "https://registry.npmjs.org/micromark";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-unicode-escapes?rev=13-b22709b5735be84c0f2de398b46f52ad";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-unicode-escapes";
   inputs.packument.flake = false;
 
   outputs = inputs: let

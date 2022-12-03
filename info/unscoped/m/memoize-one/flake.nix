@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/memoize-one?rev=45-34e0e1861a297d1144ebea4e17ec02c0";
+  inputs.packument.url   = "https://registry.npmjs.org/memoize-one";
   inputs.packument.flake = false;
 
   outputs = inputs: let

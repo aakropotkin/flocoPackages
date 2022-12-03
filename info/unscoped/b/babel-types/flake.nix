@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-types?rev=203-117cc05d902fa989ef98773657855440";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

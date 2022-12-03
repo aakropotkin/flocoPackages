@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/delayed-stream?rev=23-fbb445ffaf4b8fd4d11e28793929c6e1";
+  inputs.packument.url   = "https://registry.npmjs.org/delayed-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

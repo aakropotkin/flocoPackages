@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@octokit/openapi-types?rev=132-43593cef680b967f49f9978ef6227012";
+  inputs.packument.url   = "https://registry.npmjs.org/@octokit/openapi-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/redent?rev=7-7d1614d0300a5429d8ce9c1e050d3794";
+  inputs.packument.url   = "https://registry.npmjs.org/redent";
   inputs.packument.flake = false;
 
   outputs = inputs: let

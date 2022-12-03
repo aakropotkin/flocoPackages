@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/react-dnd-multi-backend?rev=452-70ed1ed1080613e755b0242f21df740a";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/react-dnd-multi-backend";
   inputs.packument.flake = false;
 
   outputs = inputs: let

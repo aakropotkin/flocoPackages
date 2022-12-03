@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-regex?rev=21-6914d387ae678e0f0ae2c0968736669a";
+  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

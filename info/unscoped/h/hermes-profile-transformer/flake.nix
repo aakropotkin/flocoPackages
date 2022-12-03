@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hermes-profile-transformer?rev=9-a2abbabb5ead5725ed29a05b32388562";
+  inputs.packument.url   = "https://registry.npmjs.org/hermes-profile-transformer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

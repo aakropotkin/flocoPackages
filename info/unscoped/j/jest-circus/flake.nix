@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-circus?rev=252-5b5705039eb818185bdd896d207277ab";
+  inputs.packument.url   = "https://registry.npmjs.org/jest-circus";
   inputs.packument.flake = false;
 
   outputs = inputs: let

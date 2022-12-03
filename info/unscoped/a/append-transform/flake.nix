@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/append-transform?rev=16-3c8c5858a909e28d7e522491b0bdcdb9";
+  inputs.packument.url   = "https://registry.npmjs.org/append-transform";
   inputs.packument.flake = false;
 
   outputs = inputs: let

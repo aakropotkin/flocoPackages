@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lodash.groupby?rev=51-dd08a7801251a349d2d7663ec9007c12";
+  inputs.packument.url   = "https://registry.npmjs.org/lodash.groupby";
   inputs.packument.flake = false;
 
   outputs = inputs: let

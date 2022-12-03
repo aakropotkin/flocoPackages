@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/file-stream-rotator?rev=71-9734f46d5d63246a332377a214c7689e";
+  inputs.packument.url   = "https://registry.npmjs.org/file-stream-rotator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

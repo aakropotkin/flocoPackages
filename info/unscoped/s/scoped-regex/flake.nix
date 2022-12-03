@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/scoped-regex?rev=6-e8cb2039f549365ec5f89f6266e8e346";
+  inputs.packument.url   = "https://registry.npmjs.org/scoped-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

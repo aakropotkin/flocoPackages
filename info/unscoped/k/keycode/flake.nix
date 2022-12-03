@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/keycode?rev=49-448f9c1365374da9c47a0b8172a567d7";
+  inputs.packument.url   = "https://registry.npmjs.org/keycode";
   inputs.packument.flake = false;
 
   outputs = inputs: let

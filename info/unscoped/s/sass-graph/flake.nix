@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sass-graph?rev=46-bf1752c095a86716f1923bdcd413b384";
+  inputs.packument.url   = "https://registry.npmjs.org/sass-graph";
   inputs.packument.flake = false;
 
   outputs = inputs: let

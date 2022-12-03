@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jest/create-cache-key-function?rev=59-2de3192cda3a844cd52522fdbbc1663c";
+  inputs.packument.url   = "https://registry.npmjs.org/@jest/create-cache-key-function";
   inputs.packument.flake = false;
 
   outputs = inputs: let

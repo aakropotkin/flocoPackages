@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ecc-jsbn?rev=12-839c7f44abb9a3fd259247f4e7f20fa9";
+  inputs.packument.url   = "https://registry.npmjs.org/ecc-jsbn";
   inputs.packument.flake = false;
 
   outputs = inputs: let

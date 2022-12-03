@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es-get-iterator?rev=6-3a1f2cf0bc2c453710e5be48319d3cf3";
+  inputs.packument.url   = "https://registry.npmjs.org/es-get-iterator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

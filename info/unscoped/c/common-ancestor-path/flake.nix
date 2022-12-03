@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/common-ancestor-path?rev=2-d46e1953a27e15fcbc19ccafbae36545";
+  inputs.packument.url   = "https://registry.npmjs.org/common-ancestor-path";
   inputs.packument.flake = false;
 
   outputs = inputs: let

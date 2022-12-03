@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vue-template-compiler?rev=174-a49b28c663d06a5298b506d2fe51c57f";
+  inputs.packument.url   = "https://registry.npmjs.org/vue-template-compiler";
   inputs.packument.flake = false;
 
   outputs = inputs: let

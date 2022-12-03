@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-client-dynamic-extension-object?rev=148-f3371d1207edaeb139ff8ab6202dcce5";
+  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-client-dynamic-extension-object";
   inputs.packument.flake = false;
 
   outputs = inputs: let

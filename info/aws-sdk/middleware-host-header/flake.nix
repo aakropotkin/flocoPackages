@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-host-header?rev=103-d9647b8569a7993fa78e837331a9a942";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/middleware-host-header";
   inputs.packument.flake = false;
 
   outputs = inputs: let

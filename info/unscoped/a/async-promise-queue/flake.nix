@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/async-promise-queue?rev=9-0b6e9f7b582f79ff7ee7cb05d0a4f6be";
+  inputs.packument.url   = "https://registry.npmjs.org/async-promise-queue";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/smithy-client?rev=119-8c9daf7e4603d4ab352eb46684376b5b";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/smithy-client";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/functions-have-names?rev=9-68788bb79747c76ce9ece6dc66a7be32";
+  inputs.packument.url   = "https://registry.npmjs.org/functions-have-names";
   inputs.packument.flake = false;
 
   outputs = inputs: let

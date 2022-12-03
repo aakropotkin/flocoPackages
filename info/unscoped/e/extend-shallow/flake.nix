@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/extend-shallow?rev=25-0983623164aaa4722713c6e3345ba397";
+  inputs.packument.url   = "https://registry.npmjs.org/extend-shallow";
   inputs.packument.flake = false;
 
   outputs = inputs: let

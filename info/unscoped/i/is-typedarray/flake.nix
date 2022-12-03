@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-typedarray?rev=6-ae85c85ced40df89a3f1b0d97b2940bf";
+  inputs.packument.url   = "https://registry.npmjs.org/is-typedarray";
   inputs.packument.flake = false;
 
   outputs = inputs: let

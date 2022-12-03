@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/server-destroy?rev=8-b6ef4af49b48e5e5498faa15498e23ba";
+  inputs.packument.url   = "https://registry.npmjs.org/server-destroy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

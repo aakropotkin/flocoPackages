@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unset-value?rev=11-5a13b5dc3b77c74e7315ee6caf448c42";
+  inputs.packument.url   = "https://registry.npmjs.org/unset-value";
   inputs.packument.flake = false;
 
   outputs = inputs: let

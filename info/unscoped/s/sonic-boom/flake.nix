@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sonic-boom?rev=52-5810024cf7ab13271420303a1c60adcf";
+  inputs.packument.url   = "https://registry.npmjs.org/sonic-boom";
   inputs.packument.flake = false;
 
   outputs = inputs: let

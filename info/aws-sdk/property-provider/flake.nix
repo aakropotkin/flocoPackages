@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/property-provider?rev=113-620df96e1b601df0c62df881f5af67cd";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/property-provider";
   inputs.packument.flake = false;
 
   outputs = inputs: let

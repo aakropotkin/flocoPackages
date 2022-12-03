@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-spread?rev=88-4734b86799b689311b1eb4cc68bf2b55";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-spread";
   inputs.packument.flake = false;
 
   outputs = inputs: let

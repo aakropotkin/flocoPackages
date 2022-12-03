@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/path-strip-sep?rev=10-b8804e0a8fed58a69585eb78f2431a7c";
+  inputs.packument.url   = "https://registry.npmjs.org/path-strip-sep";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/promise-retry?rev=58-3326a2535547066deeee7befe9759220";
+  inputs.packument.url   = "https://registry.npmjs.org/promise-retry";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@octokit/core?rev=52-94d61cb1cd165beecf00ad82d76ee8e8";
+  inputs.packument.url   = "https://registry.npmjs.org/@octokit/core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

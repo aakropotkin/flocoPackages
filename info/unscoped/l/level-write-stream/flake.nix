@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/level-write-stream?rev=9-32135a847116905c30fb825d5aa8ec6b";
+  inputs.packument.url   = "https://registry.npmjs.org/level-write-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

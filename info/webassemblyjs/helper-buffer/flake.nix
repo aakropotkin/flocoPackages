@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/helper-buffer?rev=79-9c5aaaa65caf3376a4c02cae5a73863d";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/helper-buffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

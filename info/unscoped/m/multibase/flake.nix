@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/multibase?rev=36-0fe3362902a5126cefe037316cbeb8c7";
+  inputs.packument.url   = "https://registry.npmjs.org/multibase";
   inputs.packument.flake = false;
 
   outputs = inputs: let

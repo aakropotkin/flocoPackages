@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/kuler?rev=13-d06c79f6e9e37709e3ec1b3f5079b8db";
+  inputs.packument.url   = "https://registry.npmjs.org/kuler";
   inputs.packument.flake = false;
 
   outputs = inputs: let

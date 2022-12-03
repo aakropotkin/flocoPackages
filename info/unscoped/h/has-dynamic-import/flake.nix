@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/has-dynamic-import?rev=5-0981d66d0e891c7720886ec7d95da22e";
+  inputs.packument.url   = "https://registry.npmjs.org/has-dynamic-import";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/update-notifier?rev=268-06394d7431b4c1d4b345162ebab58f8a";
+  inputs.packument.url   = "https://registry.npmjs.org/update-notifier";
   inputs.packument.flake = false;
 
   outputs = inputs: let

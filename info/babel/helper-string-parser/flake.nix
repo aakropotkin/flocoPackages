@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-string-parser?rev=1-7e25109e70b759bb176136c6fb8619f8";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-string-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

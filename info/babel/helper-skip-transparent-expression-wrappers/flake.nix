@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-skip-transparent-expression-wrappers?rev=10-2baa7e28cffd27b8238beee2b234978e";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-skip-transparent-expression-wrappers";
   inputs.packument.flake = false;
 
   outputs = inputs: let

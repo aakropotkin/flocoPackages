@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/create-ecdh?rev=30-a852ca8ea011b971dcfec43a82b92814";
+  inputs.packument.url   = "https://registry.npmjs.org/create-ecdh";
   inputs.packument.flake = false;
 
   outputs = inputs: let

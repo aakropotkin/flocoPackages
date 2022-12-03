@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/first-chunk-stream?rev=11-66cb661470aa01914f17547c6f177f48";
+  inputs.packument.url   = "https://registry.npmjs.org/first-chunk-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

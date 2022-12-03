@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-trigonometric-functions?rev=2-1dc0ecd2f484723f50f566f2945bdd0e";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-trigonometric-functions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

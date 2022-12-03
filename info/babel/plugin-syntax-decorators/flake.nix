@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-decorators?rev=82-386dc0c22106cc16cd9cbe045663233d";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-decorators";
   inputs.packument.flake = false;
 
   outputs = inputs: let

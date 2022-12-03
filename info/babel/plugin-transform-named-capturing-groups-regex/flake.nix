@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-named-capturing-groups-regex?rev=35-fe862ed107710932fd2cd38ddcac89ce";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-named-capturing-groups-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

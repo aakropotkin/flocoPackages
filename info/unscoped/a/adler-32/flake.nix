@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/adler-32?rev=18-3d763fff1f58e63b25cb8ffe477607b9";
+  inputs.packument.url   = "https://registry.npmjs.org/adler-32";
   inputs.packument.flake = false;
 
   outputs = inputs: let

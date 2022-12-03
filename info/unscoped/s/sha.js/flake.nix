@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sha.js?rev=81-f54e4b7c08c73be422dcb082fb7085c4";
+  inputs.packument.url   = "https://registry.npmjs.org/sha.js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

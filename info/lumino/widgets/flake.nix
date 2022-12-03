@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@lumino/widgets?rev=69-3acaf1aa71d3cdec7cf33060f1943dad";
+  inputs.packument.url   = "https://registry.npmjs.org/@lumino/widgets";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/indent-string?rev=30-ae00fb44bf7fc751d7a1fe28c5f11df7";
+  inputs.packument.url   = "https://registry.npmjs.org/indent-string";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-normalize-timing-functions?rev=37-fd1f63f93a929f5b11e02c4a5a288446";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-normalize-timing-functions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

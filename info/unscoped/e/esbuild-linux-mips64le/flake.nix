@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-mips64le?rev=200-4192d3bff2705be723a8ee474755d6a4";
+  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-mips64le";
   inputs.packument.flake = false;
 
   outputs = inputs: let

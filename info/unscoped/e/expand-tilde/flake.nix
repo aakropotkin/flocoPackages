@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/expand-tilde?rev=23-7b0feab3345bda9d32df3b6f2ce44ab5";
+  inputs.packument.url   = "https://registry.npmjs.org/expand-tilde";
   inputs.packument.flake = false;
 
   outputs = inputs: let

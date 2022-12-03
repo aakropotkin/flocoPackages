@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/slice-stream?rev=7-9f8d339f767b7407f7180814ff9a91c4";
+  inputs.packument.url   = "https://registry.npmjs.org/slice-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

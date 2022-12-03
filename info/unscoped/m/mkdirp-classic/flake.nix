@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mkdirp-classic?rev=2-18e1c2eb48265f748b36718925782a6a";
+  inputs.packument.url   = "https://registry.npmjs.org/mkdirp-classic";
   inputs.packument.flake = false;
 
   outputs = inputs: let

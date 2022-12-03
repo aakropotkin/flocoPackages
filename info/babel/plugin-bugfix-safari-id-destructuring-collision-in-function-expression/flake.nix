@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression?rev=7-95c766d7e2032fbb4abe65d83b0a15e7";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression";
   inputs.packument.flake = false;
 
   outputs = inputs: let

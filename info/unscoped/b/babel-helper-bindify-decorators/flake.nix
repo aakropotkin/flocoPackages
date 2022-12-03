@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-bindify-decorators?rev=88-5ac5575227025f189efbf38074afe921";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-bindify-decorators";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-block-scoped-functions?rev=78-10b516e497eaf877ad52fb4866090aaa";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-block-scoped-functions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

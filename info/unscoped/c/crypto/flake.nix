@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/crypto?rev=93-e190df7535918f8cf924b25bd2349af6";
+  inputs.packument.url   = "https://registry.npmjs.org/crypto";
   inputs.packument.flake = false;
 
   outputs = inputs: let

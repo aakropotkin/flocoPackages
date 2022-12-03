@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-certificate-manager?rev=133-57bafc941864408dd410f3fa9d052375";
+  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-certificate-manager";
   inputs.packument.flake = false;
 
   outputs = inputs: let

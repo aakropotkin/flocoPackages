@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-selector-parser?rev=64-145829a6aade235a710601868d378881";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-selector-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

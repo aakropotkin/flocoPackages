@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-minify-css?rev=370-78e205b9f84399d72e8bfb7ce62aaf9c";
+  inputs.packument.url   = "https://registry.npmjs.org/gulp-minify-css";
   inputs.packument.flake = false;
 
   outputs = inputs: let

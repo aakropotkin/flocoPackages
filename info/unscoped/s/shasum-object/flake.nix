@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/shasum-object?rev=1-f1c14e302a87962b866c3a38c9e2d636";
+  inputs.packument.url   = "https://registry.npmjs.org/shasum-object";
   inputs.packument.flake = false;
 
   outputs = inputs: let

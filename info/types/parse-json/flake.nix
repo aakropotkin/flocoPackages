@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/parse-json?rev=452-c48d62e285f02e50b775fbf25c11a94a";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/parse-json";
   inputs.packument.flake = false;
 
   outputs = inputs: let

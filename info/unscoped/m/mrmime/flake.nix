@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mrmime?rev=14-e9e2ae7546b1dc6c2ffd8769c3801193";
+  inputs.packument.url   = "https://registry.npmjs.org/mrmime";
   inputs.packument.flake = false;
 
   outputs = inputs: let

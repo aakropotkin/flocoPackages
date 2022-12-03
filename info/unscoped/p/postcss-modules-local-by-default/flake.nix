@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-modules-local-by-default?rev=42-576b6bb5701153715254ea4fce823c79";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-modules-local-by-default";
   inputs.packument.flake = false;
 
   outputs = inputs: let

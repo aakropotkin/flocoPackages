@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@ant-design/react-slick?rev=39-974bc23a0dfa7637d581f99c214ef630";
+  inputs.packument.url   = "https://registry.npmjs.org/@ant-design/react-slick";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/btoa?rev=24-482abfaa6ad6d08debe14238995b8e7c";
+  inputs.packument.url   = "https://registry.npmjs.org/btoa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fuzzy?rev=40-aff3c43d30c15585dc625af31243d0c6";
+  inputs.packument.url   = "https://registry.npmjs.org/fuzzy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

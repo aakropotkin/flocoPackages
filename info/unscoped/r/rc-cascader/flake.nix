@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-cascader?rev=131-654dc2e8e3a467be76b4b3b43af7e23a";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-cascader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

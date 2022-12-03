@@ -3,13 +3,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-r1ewhZ/bgU7PjZDPJBifmon1L2DoAjmVAlz5jWuehsw=",
+        "narHash": "sha256-er7cC4hYBxdsyjn/F4yhP1xXWmHguRRe/XqO1yyAzK8=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-sso?rev=118-05f892c029f7189ca74d2bcb484b2532"
+        "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-sso"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-sso?rev=118-05f892c029f7189ca74d2bcb484b2532"
+        "url": "https://registry.npmjs.org/@aws-sdk/credential-provider-sso"
       }
     },
     "root": {

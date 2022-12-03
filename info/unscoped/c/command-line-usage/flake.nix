@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/command-line-usage?rev=56-6fff87abb3359ffb6118817769f19906";
+  inputs.packument.url   = "https://registry.npmjs.org/command-line-usage";
   inputs.packument.flake = false;
 
   outputs = inputs: let

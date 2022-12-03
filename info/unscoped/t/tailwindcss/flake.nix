@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tailwindcss?rev=979-107202f0cf6b7548609f8e83b65f3b0a";
+  inputs.packument.url   = "https://registry.npmjs.org/tailwindcss";
   inputs.packument.flake = false;
 
   outputs = inputs: let

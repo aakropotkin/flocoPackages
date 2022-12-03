@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/inversify?rev=116-ffae0d176ccaa8262a037e6ce875ad9c";
+  inputs.packument.url   = "https://registry.npmjs.org/inversify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

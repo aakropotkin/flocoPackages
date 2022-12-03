@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/exponential-backoff?rev=51-7f3b7db17bf0a60701db41857df32f91";
+  inputs.packument.url   = "https://registry.npmjs.org/exponential-backoff";
   inputs.packument.flake = false;
 
   outputs = inputs: let

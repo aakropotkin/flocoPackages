@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@angular/compiler-cli?rev=684-26510cae47bc5ee586039ab77259bc2a";
+  inputs.packument.url   = "https://registry.npmjs.org/@angular/compiler-cli";
   inputs.packument.flake = false;
 
   outputs = inputs: let

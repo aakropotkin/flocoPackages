@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/requires-port?rev=15-681ddf92f0af0aee927b07502b28a4ab";
+  inputs.packument.url   = "https://registry.npmjs.org/requires-port";
   inputs.packument.flake = false;
 
   outputs = inputs: let

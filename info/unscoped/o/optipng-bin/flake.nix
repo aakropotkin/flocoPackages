@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/optipng-bin?rev=322-845c482f6ff42c4adf80eb849f26975f";
+  inputs.packument.url   = "https://registry.npmjs.org/optipng-bin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

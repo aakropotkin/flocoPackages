@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/connect-redis?rev=253-4c0bb0aeb01dda2d48713610de3ab04f";
+  inputs.packument.url   = "https://registry.npmjs.org/connect-redis";
   inputs.packument.flake = false;
 
   outputs = inputs: let

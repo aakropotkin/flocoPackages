@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/fast-memoize?rev=10-4207956606987b6e9be1a7b28feef506";
+  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/fast-memoize";
   inputs.packument.flake = false;
 
   outputs = inputs: let

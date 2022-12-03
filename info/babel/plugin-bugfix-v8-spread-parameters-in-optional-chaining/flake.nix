@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining?rev=10-9b028e2b0e4c124a52468e778c170152";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining";
   inputs.packument.flake = false;
 
   outputs = inputs: let

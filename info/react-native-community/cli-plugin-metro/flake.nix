@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@react-native-community/cli-plugin-metro?rev=36-bd49fcc188bfa6430ca88c9ac63a9b0b";
+  inputs.packument.url   = "https://registry.npmjs.org/@react-native-community/cli-plugin-metro";
   inputs.packument.flake = false;
 
   outputs = inputs: let

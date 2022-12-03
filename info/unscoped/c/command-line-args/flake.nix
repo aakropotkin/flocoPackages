@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/command-line-args?rev=157-39cff8f7d3479a4fc087a5e227cc22c0";
+  inputs.packument.url   = "https://registry.npmjs.org/command-line-args";
   inputs.packument.flake = false;
 
   outputs = inputs: let

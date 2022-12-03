@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ecdsa-sig-formatter?rev=13-4dfcb52c160d5546f91c284def45d9a0";
+  inputs.packument.url   = "https://registry.npmjs.org/ecdsa-sig-formatter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

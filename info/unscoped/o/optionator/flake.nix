@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/optionator?rev=40-2eba21d25775bf1c5618087ad8954d33";
+  inputs.packument.url   = "https://registry.npmjs.org/optionator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

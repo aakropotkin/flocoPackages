@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-windows-arm64?rev=96-960bf76aafe4da4402e93755e334a2f9";
+  inputs.packument.url   = "https://registry.npmjs.org/esbuild-windows-arm64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

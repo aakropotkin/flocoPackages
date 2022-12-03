@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-shadow?rev=127-ca538e948b9ad4befd70fe9ca1d13ce2";
+  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-shadow";
   inputs.packument.flake = false;
 
   outputs = inputs: let

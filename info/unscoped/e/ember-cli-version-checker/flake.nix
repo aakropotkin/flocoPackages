@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ember-cli-version-checker?rev=45-ac26eea41f1c495a5d79f56138b584e0";
+  inputs.packument.url   = "https://registry.npmjs.org/ember-cli-version-checker";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/min-indent?rev=5-d8654634bcd642cf736cc7bb8cc0b0f8";
+  inputs.packument.url   = "https://registry.npmjs.org/min-indent";
   inputs.packument.flake = false;
 
   outputs = inputs: let

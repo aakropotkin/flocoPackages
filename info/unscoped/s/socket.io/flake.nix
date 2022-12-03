@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/socket.io?rev=1203-84847a0b11714fade765a26be5b1e964";
+  inputs.packument.url   = "https://registry.npmjs.org/socket.io";
   inputs.packument.flake = false;
 
   outputs = inputs: let

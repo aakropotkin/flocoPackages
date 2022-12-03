@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-normalize-whitespace?rev=39-e865809897c755e05f69f2d5e1f61514";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-normalize-whitespace";
   inputs.packument.flake = false;
 
   outputs = inputs: let

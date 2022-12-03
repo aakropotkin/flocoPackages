@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tunnel-agent?rev=25-4a813a8fae1713ef983b5a3f35df15b4";
+  inputs.packument.url   = "https://registry.npmjs.org/tunnel-agent";
   inputs.packument.flake = false;
 
   outputs = inputs: let

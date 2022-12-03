@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-static-imports?rev=7-01028446eacc2aa9d614f51ebd3c61f3";
+  inputs.packument.url   = "https://registry.npmjs.org/parse-static-imports";
   inputs.packument.flake = false;
 
   outputs = inputs: let

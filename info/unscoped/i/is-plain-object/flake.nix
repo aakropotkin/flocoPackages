@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-plain-object?rev=25-c7699822cb3de4b3b1f919ecb3cfd779";
+  inputs.packument.url   = "https://registry.npmjs.org/is-plain-object";
   inputs.packument.flake = false;
 
   outputs = inputs: let

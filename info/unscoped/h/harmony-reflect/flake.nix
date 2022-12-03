@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/harmony-reflect?rev=65-d5f20efac2cb305bda6c0d397a3b35ed";
+  inputs.packument.url   = "https://registry.npmjs.org/harmony-reflect";
   inputs.packument.flake = false;
 
   outputs = inputs: let

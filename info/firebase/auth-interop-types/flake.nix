@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/auth-interop-types?rev=1628-671ce4696d28a9bca196220eb710a4d1";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/auth-interop-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

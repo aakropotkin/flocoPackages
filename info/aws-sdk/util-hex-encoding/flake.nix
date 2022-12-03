@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-hex-encoding?rev=68-bd06878b4978e38fb1258cfa89f8b677";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-hex-encoding";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/less-loader?rev=128-f08714c4a6b195eda06faefa966097f3";
+  inputs.packument.url   = "https://registry.npmjs.org/less-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

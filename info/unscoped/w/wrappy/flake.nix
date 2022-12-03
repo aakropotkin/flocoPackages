@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/wrappy?rev=16-4390461d2521040ecdc065435100612c";
+  inputs.packument.url   = "https://registry.npmjs.org/wrappy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

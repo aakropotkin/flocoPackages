@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/uglifyjs-webpack-plugin?rev=90-c61ce7d9d6616ccb8367d6a6e5e808f1";
+  inputs.packument.url   = "https://registry.npmjs.org/uglifyjs-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

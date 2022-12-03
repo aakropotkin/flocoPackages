@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/semantic-ui-react?rev=205-0a67456407d57015f9522f19b158b47d";
+  inputs.packument.url   = "https://registry.npmjs.org/semantic-ui-react";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-class-properties?rev=68-85e48a3c71ade6da7d706023a75bca82";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-class-properties";
   inputs.packument.flake = false;
 
   outputs = inputs: let

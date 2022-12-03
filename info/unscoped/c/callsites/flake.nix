@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/callsites?rev=18-768d6b0637821658fa5e4a46d363b5a4";
+  inputs.packument.url   = "https://registry.npmjs.org/callsites";
   inputs.packument.flake = false;
 
   outputs = inputs: let

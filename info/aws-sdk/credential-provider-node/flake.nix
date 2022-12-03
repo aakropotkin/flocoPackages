@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/credential-provider-node?rev=184-7ca4297fd0918ef3afb9a0ee6717f8e4";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/credential-provider-node";
   inputs.packument.flake = false;
 
   outputs = inputs: let

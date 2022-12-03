@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/app-check-interop-types?rev=630-dea39844384ad8f469f84ca6f35527a6";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/app-check-interop-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

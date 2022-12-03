@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-attribute-case-insensitive?rev=16-b4f049b04d9be0e3fcf00bb0cd3690fa";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-attribute-case-insensitive";
   inputs.packument.flake = false;
 
   outputs = inputs: let

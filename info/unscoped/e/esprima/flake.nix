@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esprima?rev=177-6d1e62126e1ba9da9abcf11c8c048efb";
+  inputs.packument.url   = "https://registry.npmjs.org/esprima";
   inputs.packument.flake = false;
 
   outputs = inputs: let

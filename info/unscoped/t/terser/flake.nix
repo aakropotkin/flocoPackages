@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/terser?rev=134-8d0a4cb6da3a1b64d311656d3ea5d7c0";
+  inputs.packument.url   = "https://registry.npmjs.org/terser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

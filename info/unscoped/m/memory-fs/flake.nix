@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/memory-fs?rev=36-e7a5f816d4a3511a6d43aafc70daa1c3";
+  inputs.packument.url   = "https://registry.npmjs.org/memory-fs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

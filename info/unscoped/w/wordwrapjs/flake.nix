@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/wordwrapjs?rev=22-f2acff74d2dec6f730c66d51fb3956dc";
+  inputs.packument.url   = "https://registry.npmjs.org/wordwrapjs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

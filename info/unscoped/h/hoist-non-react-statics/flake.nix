@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hoist-non-react-statics?rev=50-65a5bc4486a01a46bb658e82a31afc0d";
+  inputs.packument.url   = "https://registry.npmjs.org/hoist-non-react-statics";
   inputs.packument.flake = false;
 
   outputs = inputs: let

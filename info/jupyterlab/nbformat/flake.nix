@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/nbformat?rev=279-6b2f17733e5dd5a6b457d627e4f6fed8";
+  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/nbformat";
   inputs.packument.flake = false;
 
   outputs = inputs: let

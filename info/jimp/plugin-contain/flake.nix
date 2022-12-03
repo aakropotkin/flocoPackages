@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-contain?rev=134-c7c80badc68d2c532cff164baa34b5af";
+  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-contain";
   inputs.packument.flake = false;
 
   outputs = inputs: let

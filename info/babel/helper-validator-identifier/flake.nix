@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-validator-identifier?rev=18-ecf517a8ecac64334aa020f3ceff58ad";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-validator-identifier";
   inputs.packument.flake = false;
 
   outputs = inputs: let

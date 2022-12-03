@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-merge-longhand?rev=65-367732abff7fd41281c5ed45b6745b0c";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-merge-longhand";
   inputs.packument.flake = false;
 
   outputs = inputs: let

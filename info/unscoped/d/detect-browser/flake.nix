@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/detect-browser?rev=67-c4b38b2b213463b10a49e68296c5f626";
+  inputs.packument.url   = "https://registry.npmjs.org/detect-browser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

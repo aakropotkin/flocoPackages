@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@balena/dockerignore?rev=119-68f0c0095e54ec21063f7cec7d51783c";
+  inputs.packument.url   = "https://registry.npmjs.org/@balena/dockerignore";
   inputs.packument.flake = false;
 
   outputs = inputs: let

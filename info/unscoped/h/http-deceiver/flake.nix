@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/http-deceiver?rev=17-c82fcb877ec1de6a3c1fb122154f9cf5";
+  inputs.packument.url   = "https://registry.npmjs.org/http-deceiver";
   inputs.packument.flake = false;
 
   outputs = inputs: let

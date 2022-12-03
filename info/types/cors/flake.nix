@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/cors?rev=622-d9723c6818cc4e7a0241ec935d4bb92f";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/cors";
   inputs.packument.flake = false;
 
   outputs = inputs: let

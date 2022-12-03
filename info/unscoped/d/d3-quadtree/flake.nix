@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/d3-quadtree?rev=32-e36c0083486c35fe8a2bfab0fc7a15da";
+  inputs.packument.url   = "https://registry.npmjs.org/d3-quadtree";
   inputs.packument.flake = false;
 
   outputs = inputs: let

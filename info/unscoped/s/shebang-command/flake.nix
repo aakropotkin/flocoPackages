@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/shebang-command?rev=8-46b634b675dd50c5f592c8c091e2887c";
+  inputs.packument.url   = "https://registry.npmjs.org/shebang-command";
   inputs.packument.flake = false;
 
   outputs = inputs: let

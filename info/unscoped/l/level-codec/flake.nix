@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/level-codec?rev=49-e58b26008c1e0c18828f431c76d5b66c";
+  inputs.packument.url   = "https://registry.npmjs.org/level-codec";
   inputs.packument.flake = false;
 
   outputs = inputs: let

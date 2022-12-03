@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/win-release?rev=13-040a35c32736ba29fb95aebcc85cf02e";
+  inputs.packument.url   = "https://registry.npmjs.org/win-release";
   inputs.packument.flake = false;
 
   outputs = inputs: let

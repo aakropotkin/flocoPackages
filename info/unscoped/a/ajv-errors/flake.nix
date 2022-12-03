@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ajv-errors?rev=18-239ac42d831055d4bdc028380b99b303";
+  inputs.packument.url   = "https://registry.npmjs.org/ajv-errors";
   inputs.packument.flake = false;
 
   outputs = inputs: let

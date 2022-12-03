@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-google-analytics?rev=103-ab8337d804efdb14724a0587108d2a33";
+  inputs.packument.url   = "https://registry.npmjs.org/workbox-google-analytics";
   inputs.packument.flake = false;
 
   outputs = inputs: let

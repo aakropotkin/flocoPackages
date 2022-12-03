@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mathml-tag-names?rev=14-d1afd483ae74fd7d91ca4b40832d75b6";
+  inputs.packument.url   = "https://registry.npmjs.org/mathml-tag-names";
   inputs.packument.flake = false;
 
   outputs = inputs: let

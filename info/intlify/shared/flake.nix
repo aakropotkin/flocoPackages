@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@intlify/shared?rev=123-617910d20826a652d6b5fd369c453264";
+  inputs.packument.url   = "https://registry.npmjs.org/@intlify/shared";
   inputs.packument.flake = false;
 
   outputs = inputs: let

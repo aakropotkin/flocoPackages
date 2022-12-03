@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-class-properties?rev=133-2bd61caf81eaeac03df3729d39ba24cb";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-class-properties";
   inputs.packument.flake = false;
 
   outputs = inputs: let

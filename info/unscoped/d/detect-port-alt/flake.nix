@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/detect-port-alt?rev=8-4b6ad2bde62650ceea9b0e55d3d164a3";
+  inputs.packument.url   = "https://registry.npmjs.org/detect-port-alt";
   inputs.packument.flake = false;
 
   outputs = inputs: let

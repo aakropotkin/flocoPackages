@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-cssnext?rev=69-442eb0cfb4b806a2a4897f1c4bc0aea6";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-cssnext";
   inputs.packument.flake = false;
 
   outputs = inputs: let

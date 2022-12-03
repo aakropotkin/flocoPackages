@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bunyan?rev=498-e0bb38a3fcd47d2ebd69ca9edc377318";
+  inputs.packument.url   = "https://registry.npmjs.org/bunyan";
   inputs.packument.flake = false;
 
   outputs = inputs: let

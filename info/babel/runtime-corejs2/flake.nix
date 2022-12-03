@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/runtime-corejs2?rev=111-4cbf730e71de0507670fc8008c261f67";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/runtime-corejs2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

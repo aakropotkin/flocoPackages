@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/virtualdom?rev=23-5210466c4fb61c8255193094708ea21f";
+  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/virtualdom";
   inputs.packument.flake = false;
 
   outputs = inputs: let

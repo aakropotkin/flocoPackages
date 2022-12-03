@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/github-username?rev=31-ebb637079a809bcb2267443964b19bb4";
+  inputs.packument.url   = "https://registry.npmjs.org/github-username";
   inputs.packument.flake = false;
 
   outputs = inputs: let

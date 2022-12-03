@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/angular?rev=719-08e3dbed8eab983b5227fccef20a572d";
+  inputs.packument.url   = "https://registry.npmjs.org/angular";
   inputs.packument.flake = false;
 
   outputs = inputs: let

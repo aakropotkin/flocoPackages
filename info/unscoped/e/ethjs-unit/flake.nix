@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ethjs-unit?rev=10-c5c8360b47e287051491764eb6f5e6ac";
+  inputs.packument.url   = "https://registry.npmjs.org/ethjs-unit";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/minipass-json-stream?rev=2-f18f7ec4006e9919a01c0e0798bea222";
+  inputs.packument.url   = "https://registry.npmjs.org/minipass-json-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

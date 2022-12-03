@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-64?rev=374-2cafdeadbbf30905b408eefcfefc22bc";
+  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

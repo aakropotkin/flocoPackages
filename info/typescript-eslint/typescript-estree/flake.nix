@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@typescript-eslint/typescript-estree?rev=2414-5600eb2f5fe57f67b826a052e679f088";
+  inputs.packument.url   = "https://registry.npmjs.org/@typescript-eslint/typescript-estree";
   inputs.packument.flake = false;
 
   outputs = inputs: let

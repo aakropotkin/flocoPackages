@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/imagemin-optipng?rev=181-81a0d05729671b0f808d395c25ee0c71";
+  inputs.packument.url   = "https://registry.npmjs.org/imagemin-optipng";
   inputs.packument.flake = false;
 
   outputs = inputs: let

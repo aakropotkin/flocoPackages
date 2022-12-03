@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dotenv?rev=611-11a34d38c8d9c30857c094c7fb4cab60";
+  inputs.packument.url   = "https://registry.npmjs.org/dotenv";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browserify-rsa?rev=28-88c5b37bdd8e9543341c47dac72e3979";
+  inputs.packument.url   = "https://registry.npmjs.org/browserify-rsa";
   inputs.packument.flake = false;
 
   outputs = inputs: let

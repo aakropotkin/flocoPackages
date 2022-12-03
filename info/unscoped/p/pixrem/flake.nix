@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pixrem?rev=55-8e0a80913fcabbbf10b2cf3dad6ee878";
+  inputs.packument.url   = "https://registry.npmjs.org/pixrem";
   inputs.packument.flake = false;
 
   outputs = inputs: let

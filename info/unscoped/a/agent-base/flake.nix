@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/agent-base?rev=31-71caff714b71f86d9b3b61d09e43ad72";
+  inputs.packument.url   = "https://registry.npmjs.org/agent-base";
   inputs.packument.flake = false;
 
   outputs = inputs: let

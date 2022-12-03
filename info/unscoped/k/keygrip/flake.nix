@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/keygrip?rev=71-cc3f96c6261f98c6157264b9b756cefa";
+  inputs.packument.url   = "https://registry.npmjs.org/keygrip";
   inputs.packument.flake = false;
 
   outputs = inputs: let

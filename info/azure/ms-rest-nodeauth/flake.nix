@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/ms-rest-nodeauth?rev=39-34bac53342927b1807aab024e4d503fe";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/ms-rest-nodeauth";
   inputs.packument.flake = false;
 
   outputs = inputs: let

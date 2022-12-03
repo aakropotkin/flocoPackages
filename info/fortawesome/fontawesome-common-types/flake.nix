@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@fortawesome/fontawesome-common-types?rev=87-ea58b02d38b41661266d4611e81afe19";
+  inputs.packument.url   = "https://registry.npmjs.org/@fortawesome/fontawesome-common-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

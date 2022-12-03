@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-svg-renderer?rev=156-887cefd90ffc416e4cddcc90f275bd0a";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-svg-renderer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

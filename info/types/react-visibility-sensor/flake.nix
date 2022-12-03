@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/react-visibility-sensor?rev=178-a8b14256f8e215904d35bfcd91c6a11e";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/react-visibility-sensor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

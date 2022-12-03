@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pixelmatch?rev=416-7181f0ba669d474a2f9c0aebdbae107b";
+  inputs.packument.url   = "https://registry.npmjs.org/pixelmatch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

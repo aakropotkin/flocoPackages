@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@lezer/common?rev=17-962f42b8344029c7363fcdaae86ff7be";
+  inputs.packument.url   = "https://registry.npmjs.org/@lezer/common";
   inputs.packument.flake = false;
 
   outputs = inputs: let

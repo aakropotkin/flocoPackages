@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions?rev=12-9dc6e8fde069061efb194ebb5a5e6fa1";
+  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/normalize-range?rev=7-26ec3d33e2aefab85442fcb7aea78a5c";
+  inputs.packument.url   = "https://registry.npmjs.org/normalize-range";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/winston-daily-rotate-file?rev=111-61b2d556a92ac49edfa30c29894e628c";
+  inputs.packument.url   = "https://registry.npmjs.org/winston-daily-rotate-file";
   inputs.packument.flake = false;
 
   outputs = inputs: let

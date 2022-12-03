@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-export-extensions?rev=63-4a1e254f90114022a076f1224dbaf0bc";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-export-extensions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-descriptor?rev=14-4995a9269469e015cc293ec92ffa3a16";
+  inputs.packument.url   = "https://registry.npmjs.org/is-descriptor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/napi-macros?rev=17-46630c5dd19a20d9da34a560642f3e4f";
+  inputs.packument.url   = "https://registry.npmjs.org/napi-macros";
   inputs.packument.flake = false;
 
   outputs = inputs: let

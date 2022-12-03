@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/socks-proxy-agent?rev=43-b85d6a5a202dace7bb2c706235cd8511";
+  inputs.packument.url   = "https://registry.npmjs.org/socks-proxy-agent";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/escape-string-regexp?rev=57-3b2118e1e7ac7e864999b3cc67e9aa8f";
+  inputs.packument.url   = "https://registry.npmjs.org/escape-string-regexp";
   inputs.packument.flake = false;
 
   outputs = inputs: let

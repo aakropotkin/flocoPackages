@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/clone-buffer?rev=7-a4bff458625488ef98efea5590f23612";
+  inputs.packument.url   = "https://registry.npmjs.org/clone-buffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

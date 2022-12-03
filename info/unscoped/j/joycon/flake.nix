@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/joycon?rev=26-60c4bd26016bf56267165d027aec24c2";
+  inputs.packument.url   = "https://registry.npmjs.org/joycon";
   inputs.packument.flake = false;
 
   outputs = inputs: let

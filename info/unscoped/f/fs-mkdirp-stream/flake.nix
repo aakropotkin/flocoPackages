@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fs-mkdirp-stream?rev=8-70a77ff875a7a1ec2881b89401607f74";
+  inputs.packument.url   = "https://registry.npmjs.org/fs-mkdirp-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

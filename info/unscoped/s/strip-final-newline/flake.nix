@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strip-final-newline?rev=2-014479cd11f715f87aeb7bf2218a14d8";
+  inputs.packument.url   = "https://registry.npmjs.org/strip-final-newline";
   inputs.packument.flake = false;
 
   outputs = inputs: let

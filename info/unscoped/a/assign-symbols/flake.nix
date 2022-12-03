@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/assign-symbols?rev=11-ea777bc300d341c8deffbf3f9fc50d8d";
+  inputs.packument.url   = "https://registry.npmjs.org/assign-symbols";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark-util-sanitize-uri?rev=6-735d7f9bc1831a66aefbf1292848c9c1";
+  inputs.packument.url   = "https://registry.npmjs.org/micromark-util-sanitize-uri";
   inputs.packument.flake = false;
 
   outputs = inputs: let

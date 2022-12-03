@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pug-code-gen?rev=29-f9bf8ac7b7bad205f911b2799383ff35";
+  inputs.packument.url   = "https://registry.npmjs.org/pug-code-gen";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/co-prompt?rev=25-af1093be9666f01ba23f01ff021705f0";
+  inputs.packument.url   = "https://registry.npmjs.org/co-prompt";
   inputs.packument.flake = false;
 
   outputs = inputs: let

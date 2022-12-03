@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/prop-types-extra?rev=6-418357d99d50a02a4a071020bdd43a87";
+  inputs.packument.url   = "https://registry.npmjs.org/prop-types-extra";
   inputs.packument.flake = false;
 
   outputs = inputs: let

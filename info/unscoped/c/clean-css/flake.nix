@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/clean-css?rev=481-8250af53fb65bc7278a4fbcc5bbeefd7";
+  inputs.packument.url   = "https://registry.npmjs.org/clean-css";
   inputs.packument.flake = false;
 
   outputs = inputs: let

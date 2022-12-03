@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/deep-assign?rev=22-9d31c0f9a806eee931f25c996ffd464a";
+  inputs.packument.url   = "https://registry.npmjs.org/deep-assign";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/quote-unquote?rev=6-85c3ce4603fb071b9e1b9038c2e50d3d";
+  inputs.packument.url   = "https://registry.npmjs.org/quote-unquote";
   inputs.packument.flake = false;
 
   outputs = inputs: let

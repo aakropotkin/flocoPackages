@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unbox-primitive?rev=3-726ddfe02bb573f4aae0d3eff02d8026";
+  inputs.packument.url   = "https://registry.npmjs.org/unbox-primitive";
   inputs.packument.flake = false;
 
   outputs = inputs: let

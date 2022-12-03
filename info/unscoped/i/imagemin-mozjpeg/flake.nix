@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/imagemin-mozjpeg?rev=177-92948ee9a75bd585dff3f9a9a2a156cc";
+  inputs.packument.url   = "https://registry.npmjs.org/imagemin-mozjpeg";
   inputs.packument.flake = false;
 
   outputs = inputs: let

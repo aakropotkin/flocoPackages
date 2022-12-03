@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/grunt-legacy-util?rev=20-3d49e718d7e3a9a23e9b0f1cedc7cea5";
+  inputs.packument.url   = "https://registry.npmjs.org/grunt-legacy-util";
   inputs.packument.flake = false;
 
   outputs = inputs: let

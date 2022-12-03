@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ftp?rev=115-8a0b4cca020acd28f07736b0e442d395";
+  inputs.packument.url   = "https://registry.npmjs.org/ftp";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/hast-util-to-babel-ast?rev=22-747f34be3830313d9692ae1380171ac8";
+  inputs.packument.url   = "https://registry.npmjs.org/@svgr/hast-util-to-babel-ast";
   inputs.packument.flake = false;
 
   outputs = inputs: let

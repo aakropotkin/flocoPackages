@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/koa-send?rev=69-a9447796b042b0561edc5c60e43da61c";
+  inputs.packument.url   = "https://registry.npmjs.org/koa-send";
   inputs.packument.flake = false;
 
   outputs = inputs: let

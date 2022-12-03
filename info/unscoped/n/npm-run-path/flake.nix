@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/npm-run-path?rev=19-2f97fdc6e5779aac2184d17a542ab7ba";
+  inputs.packument.url   = "https://registry.npmjs.org/npm-run-path";
   inputs.packument.flake = false;
 
   outputs = inputs: let

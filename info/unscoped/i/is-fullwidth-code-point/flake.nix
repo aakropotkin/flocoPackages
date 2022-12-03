@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-fullwidth-code-point?rev=11-9d2fbc42fcab7d07c8e177de29f11af7";
+  inputs.packument.url   = "https://registry.npmjs.org/is-fullwidth-code-point";
   inputs.packument.flake = false;
 
   outputs = inputs: let

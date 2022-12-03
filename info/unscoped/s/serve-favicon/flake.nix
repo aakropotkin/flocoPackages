@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/serve-favicon?rev=179-b35b5bdf35fc459cbb4337bd2a9dbb2c";
+  inputs.packument.url   = "https://registry.npmjs.org/serve-favicon";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/data-uri-to-buffer?rev=23-d920a8344acb191c8978510a1318b282";
+  inputs.packument.url   = "https://registry.npmjs.org/data-uri-to-buffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

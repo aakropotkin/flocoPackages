@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@codemirror/lint?rev=22-6ae56de415f5283c539213dabc2f2968";
+  inputs.packument.url   = "https://registry.npmjs.org/@codemirror/lint";
   inputs.packument.flake = false;
 
   outputs = inputs: let

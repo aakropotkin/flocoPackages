@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tsconfig-paths?rev=62-ad53a91e31d7c854fc7a4ecd9a89e884";
+  inputs.packument.url   = "https://registry.npmjs.org/tsconfig-paths";
   inputs.packument.flake = false;
 
   outputs = inputs: let

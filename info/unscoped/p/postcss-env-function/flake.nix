@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-env-function?rev=13-ad43b5eeac8e11b510f778a794155a0e";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-env-function";
   inputs.packument.flake = false;
 
   outputs = inputs: let

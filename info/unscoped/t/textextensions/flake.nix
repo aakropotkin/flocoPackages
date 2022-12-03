@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/textextensions?rev=95-afcf8a015aa95d42926efeea964663cb";
+  inputs.packument.url   = "https://registry.npmjs.org/textextensions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

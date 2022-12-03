@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-clamp?rev=8-f4933ce7ece3c46680d540760e08a8f4";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-clamp";
   inputs.packument.flake = false;
 
   outputs = inputs: let

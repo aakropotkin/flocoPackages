@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-locate-window?rev=66-33011bc04426350d6483de3d0e12dd39";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-locate-window";
   inputs.packument.flake = false;
 
   outputs = inputs: let

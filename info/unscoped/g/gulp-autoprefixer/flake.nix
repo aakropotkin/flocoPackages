@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-autoprefixer?rev=520-f67d4c565540cecbec20b87aeff5b381";
+  inputs.packument.url   = "https://registry.npmjs.org/gulp-autoprefixer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

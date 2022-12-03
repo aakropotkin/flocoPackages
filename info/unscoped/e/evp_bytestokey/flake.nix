@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/evp_bytestokey?rev=10-3fa2f8385d99824e8f4093c182122c85";
+  inputs.packument.url   = "https://registry.npmjs.org/evp_bytestokey";
   inputs.packument.flake = false;
 
   outputs = inputs: let

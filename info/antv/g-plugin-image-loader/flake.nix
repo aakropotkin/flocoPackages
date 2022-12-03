@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-image-loader?rev=49-d5ec23b879a3023b626b3c0d7cd93ccc";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-plugin-image-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

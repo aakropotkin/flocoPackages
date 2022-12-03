@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-typescript?rev=123-a5a5714729232e0b683c9c756d2b46f9";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-typescript";
   inputs.packument.flake = false;
 
   outputs = inputs: let

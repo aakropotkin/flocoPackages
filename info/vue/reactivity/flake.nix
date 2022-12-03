@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@vue/reactivity?rev=136-4e66c572af2fed7e4e3783e55369629b";
+  inputs.packument.url   = "https://registry.npmjs.org/@vue/reactivity";
   inputs.packument.flake = false;
 
   outputs = inputs: let

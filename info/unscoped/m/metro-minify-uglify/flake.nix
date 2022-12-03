@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-minify-uglify?rev=106-145f781b6017e127b149592660615f42";
+  inputs.packument.url   = "https://registry.npmjs.org/metro-minify-uglify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

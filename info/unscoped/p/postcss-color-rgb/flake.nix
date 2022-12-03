@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-color-rgb?rev=9-83a7d3c606166d45de64eb0be4af8490";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-color-rgb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

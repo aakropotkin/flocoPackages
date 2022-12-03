@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/yauzl?rev=70-3d38a97666a6a2b4e208093f434721f6";
+  inputs.packument.url   = "https://registry.npmjs.org/yauzl";
   inputs.packument.flake = false;
 
   outputs = inputs: let

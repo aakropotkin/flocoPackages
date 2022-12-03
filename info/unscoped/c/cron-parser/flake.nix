@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cron-parser?rev=129-e393292b54fd9a84388ccf130ce2467a";
+  inputs.packument.url   = "https://registry.npmjs.org/cron-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

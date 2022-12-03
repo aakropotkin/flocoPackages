@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/socket.io-parser?rev=83-b703a0e668b3e2178aea321db7ae677b";
+  inputs.packument.url   = "https://registry.npmjs.org/socket.io-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pug-walk?rev=34-dd4c6191221a2e08ce859a0d39e475c1";
+  inputs.packument.url   = "https://registry.npmjs.org/pug-walk";
   inputs.packument.flake = false;
 
   outputs = inputs: let

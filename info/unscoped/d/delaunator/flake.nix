@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/delaunator?rev=231-49cfc0c10adc7904464e3c482105dcef";
+  inputs.packument.url   = "https://registry.npmjs.org/delaunator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

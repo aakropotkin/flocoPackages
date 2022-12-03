@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tempy?rev=24-50e4e2f71d9cc3bf51d3f17042e5be1d";
+  inputs.packument.url   = "https://registry.npmjs.org/tempy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

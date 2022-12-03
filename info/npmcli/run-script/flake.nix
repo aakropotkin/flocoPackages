@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/run-script?rev=61-7ce9dfa93f3c6b97dd6ec7eb5b6076cd";
+  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/run-script";
   inputs.packument.flake = false;
 
   outputs = inputs: let

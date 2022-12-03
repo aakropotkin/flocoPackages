@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/yosay?rev=60-1305af240aafde3facc3b5bd082133e0";
+  inputs.packument.url   = "https://registry.npmjs.org/yosay";
   inputs.packument.flake = false;
 
   outputs = inputs: let

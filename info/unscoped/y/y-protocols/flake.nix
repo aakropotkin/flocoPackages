@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/y-protocols?rev=18-708991753d5a66eac60bba019618a68e";
+  inputs.packument.url   = "https://registry.npmjs.org/y-protocols";
   inputs.packument.flake = false;
 
   outputs = inputs: let

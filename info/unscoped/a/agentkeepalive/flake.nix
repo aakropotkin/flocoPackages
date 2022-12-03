@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/agentkeepalive?rev=88-11adbd4b0b38b4bf627cc1b4a625d908";
+  inputs.packument.url   = "https://registry.npmjs.org/agentkeepalive";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/clean-stack?rev=24-d07669a45f1beb6d22195bd9d5b66070";
+  inputs.packument.url   = "https://registry.npmjs.org/clean-stack";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-path-inside?rev=17-3e6d984d302ee0294a57e069b4d4a8e4";
+  inputs.packument.url   = "https://registry.npmjs.org/is-path-inside";
   inputs.packument.flake = false;
 
   outputs = inputs: let

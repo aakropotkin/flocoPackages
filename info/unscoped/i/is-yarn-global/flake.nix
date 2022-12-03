@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-yarn-global?rev=5-ca9e8904f4c0782932422714ffd4ab56";
+  inputs.packument.url   = "https://registry.npmjs.org/is-yarn-global";
   inputs.packument.flake = false;
 
   outputs = inputs: let

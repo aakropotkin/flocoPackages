@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/semver-regex?rev=26-75abae2a6ac2741f0bd4c452b82a11f8";
+  inputs.packument.url   = "https://registry.npmjs.org/semver-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

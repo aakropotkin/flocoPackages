@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/imagemin?rev=376-348d0b2d1cf0431207c48c810a46028b";
+  inputs.packument.url   = "https://registry.npmjs.org/imagemin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

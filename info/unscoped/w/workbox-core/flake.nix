@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-core?rev=89-45c2db2683aee2a902961ecba4f1ff41";
+  inputs.packument.url   = "https://registry.npmjs.org/workbox-core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

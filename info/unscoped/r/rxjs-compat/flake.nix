@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rxjs-compat?rev=41-18cecab299dfac45da070112496685a2";
+  inputs.packument.url   = "https://registry.npmjs.org/rxjs-compat";
   inputs.packument.flake = false;
 
   outputs = inputs: let

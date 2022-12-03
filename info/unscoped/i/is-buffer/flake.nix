@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-buffer?rev=28-73311ada934bee2c9de88d107cbcfe1d";
+  inputs.packument.url   = "https://registry.npmjs.org/is-buffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

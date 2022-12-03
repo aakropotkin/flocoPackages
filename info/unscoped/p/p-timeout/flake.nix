@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/p-timeout?rev=25-1f93692b70c15aaa7e14478fa4c50895";
+  inputs.packument.url   = "https://registry.npmjs.org/p-timeout";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/shallow-clone?rev=13-eb8e3f31d6f67ad1e77d55ee13b8c371";
+  inputs.packument.url   = "https://registry.npmjs.org/shallow-clone";
   inputs.packument.flake = false;
 
   outputs = inputs: let

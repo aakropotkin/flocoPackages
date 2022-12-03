@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/validate-npm-package-name?rev=59-09fb81de19d7cf081c5cad26ed5ff488";
+  inputs.packument.url   = "https://registry.npmjs.org/validate-npm-package-name";
   inputs.packument.flake = false;
 
   outputs = inputs: let

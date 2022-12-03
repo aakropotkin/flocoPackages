@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/safe-json-parse?rev=16-01359bb0d3988b53bc0f3e104e6d8304";
+  inputs.packument.url   = "https://registry.npmjs.org/safe-json-parse";
   inputs.packument.flake = false;
 
   outputs = inputs: let

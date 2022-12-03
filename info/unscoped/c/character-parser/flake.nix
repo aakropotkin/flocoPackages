@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/character-parser?rev=32-d0eb440ca7dd5517d546b1eb4eddfebe";
+  inputs.packument.url   = "https://registry.npmjs.org/character-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lower-case?rev=24-90da947e3529d9709db891171c881211";
+  inputs.packument.url   = "https://registry.npmjs.org/lower-case";
   inputs.packument.flake = false;
 
   outputs = inputs: let

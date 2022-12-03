@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/icu-messageformat-parser?rev=41-acd55b1210be73a753c0e0bb4deef4f5";
+  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/icu-messageformat-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

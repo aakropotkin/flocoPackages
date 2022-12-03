@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/require-from-string?rev=24-c2cdc326408bbec716917c1afa732f95";
+  inputs.packument.url   = "https://registry.npmjs.org/require-from-string";
   inputs.packument.flake = false;
 
   outputs = inputs: let

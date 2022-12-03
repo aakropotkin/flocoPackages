@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark-factory-space?rev=5-858413532be5598170083812a5921b64";
+  inputs.packument.url   = "https://registry.npmjs.org/micromark-factory-space";
   inputs.packument.flake = false;
 
   outputs = inputs: let

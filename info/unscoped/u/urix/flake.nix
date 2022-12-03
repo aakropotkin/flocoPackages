@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/urix?rev=5-10b8bedbabb6dba8bfab6f1488f8db27";
+  inputs.packument.url   = "https://registry.npmjs.org/urix";
   inputs.packument.flake = false;
 
   outputs = inputs: let

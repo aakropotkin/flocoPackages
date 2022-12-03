@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-xml2json?rev=133-162ef12d0e4c098ef3d09c11045d4623";
+  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-xml2json";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@emotion/is-prop-valid?rev=41-00a9881d5c5fb314a248fae18621e842";
+  inputs.packument.url   = "https://registry.npmjs.org/@emotion/is-prop-valid";
   inputs.packument.flake = false;
 
   outputs = inputs: let

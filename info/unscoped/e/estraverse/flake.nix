@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/estraverse?rev=92-56eb799e2ca28bda6eae1d4802ee19db";
+  inputs.packument.url   = "https://registry.npmjs.org/estraverse";
   inputs.packument.flake = false;
 
   outputs = inputs: let

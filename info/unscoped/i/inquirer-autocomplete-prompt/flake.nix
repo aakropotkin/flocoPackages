@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/inquirer-autocomplete-prompt?rev=35-b45de38b99ef2929704a6b5cdb74105b";
+  inputs.packument.url   = "https://registry.npmjs.org/inquirer-autocomplete-prompt";
   inputs.packument.flake = false;
 
   outputs = inputs: let

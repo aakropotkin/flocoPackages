@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/anser?rev=36-4bdd797e9612667afbcda009871e8604";
+  inputs.packument.url   = "https://registry.npmjs.org/anser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

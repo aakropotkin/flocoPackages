@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-pseudoelements?rev=15-6dfd83511eb3da7b8a83384b418ded3b";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-pseudoelements";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/moment-duration-format?rev=573-5e7cfe0ef6ca3dcb7e9bd7532abcdd53";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/moment-duration-format";
   inputs.packument.flake = false;
 
   outputs = inputs: let

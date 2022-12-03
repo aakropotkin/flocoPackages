@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dot-case?rev=26-a503ebd19e6d3b1d890febc23cefc070";
+  inputs.packument.url   = "https://registry.npmjs.org/dot-case";
   inputs.packument.flake = false;
 
   outputs = inputs: let

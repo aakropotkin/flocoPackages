@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/credential-provider-web-identity?rev=61-5b6b6af5f6f83073bef19d3fc076b179";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/credential-provider-web-identity";
   inputs.packument.flake = false;
 
   outputs = inputs: let

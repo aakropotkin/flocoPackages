@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/csso?rev=166-9a651c6eecef50ad26cacf1650450d88";
+  inputs.packument.url   = "https://registry.npmjs.org/csso";
   inputs.packument.flake = false;
 
   outputs = inputs: let

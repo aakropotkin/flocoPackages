@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-hermes-compiler?rev=36-c69c971c8b2cebc7a79f6dcec1638675";
+  inputs.packument.url   = "https://registry.npmjs.org/metro-hermes-compiler";
   inputs.packument.flake = false;
 
   outputs = inputs: let

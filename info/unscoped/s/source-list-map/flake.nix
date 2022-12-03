@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/source-list-map?rev=19-6d41f26bc3af030e8f63f1163bbfb7ac";
+  inputs.packument.url   = "https://registry.npmjs.org/source-list-map";
   inputs.packument.flake = false;
 
   outputs = inputs: let

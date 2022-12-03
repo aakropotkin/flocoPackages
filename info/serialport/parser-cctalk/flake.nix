@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-cctalk?rev=21-f873b3777b6a96b571bb8641d3337dd4";
+  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-cctalk";
   inputs.packument.flake = false;
 
   outputs = inputs: let

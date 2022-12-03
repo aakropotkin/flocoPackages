@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ember-cli-htmlbars?rev=152-d1730fdf4f669a309d9618d9878d1d46";
+  inputs.packument.url   = "https://registry.npmjs.org/ember-cli-htmlbars";
   inputs.packument.flake = false;
 
   outputs = inputs: let

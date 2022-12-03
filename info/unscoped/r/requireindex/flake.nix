@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/requireindex?rev=64-4f35f20be9d65abc81ff452e9506879a";
+  inputs.packument.url   = "https://registry.npmjs.org/requireindex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

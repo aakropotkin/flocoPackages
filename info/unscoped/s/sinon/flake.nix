@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sinon?rev=495-56e36b786b73b76a3836569722938987";
+  inputs.packument.url   = "https://registry.npmjs.org/sinon";
   inputs.packument.flake = false;
 
   outputs = inputs: let

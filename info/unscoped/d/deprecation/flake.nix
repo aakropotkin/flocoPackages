@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/deprecation?rev=8-7ccab10adb92a2a4ea6b6c84d68736ee";
+  inputs.packument.url   = "https://registry.npmjs.org/deprecation";
   inputs.packument.flake = false;
 
   outputs = inputs: let

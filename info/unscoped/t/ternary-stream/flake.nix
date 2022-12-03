@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ternary-stream?rev=27-af20ae362944cb570d7edf55c8062cc9";
+  inputs.packument.url   = "https://registry.npmjs.org/ternary-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

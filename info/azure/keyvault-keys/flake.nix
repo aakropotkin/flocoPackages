@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/keyvault-keys?rev=333-e9f5c496f3b7508d2fc39dfa75901f56";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/keyvault-keys";
   inputs.packument.flake = false;
 
   outputs = inputs: let

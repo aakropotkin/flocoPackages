@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-preset-react-app?rev=148-d5ac96cd32e4eb9b0910da339fd00ea3";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-preset-react-app";
   inputs.packument.flake = false;
 
   outputs = inputs: let

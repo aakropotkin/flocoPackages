@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/detect-libc?rev=18-b4ee268d6fded1fbeb6a948c686d610c";
+  inputs.packument.url   = "https://registry.npmjs.org/detect-libc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-broadcast-update?rev=59-fb2d198e3da6d72a28bae0bcc582cb8b";
+  inputs.packument.url   = "https://registry.npmjs.org/workbox-broadcast-update";
   inputs.packument.flake = false;
 
   outputs = inputs: let

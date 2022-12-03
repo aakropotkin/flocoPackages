@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/isomorphic-fetch?rev=179-7934a4b7f2157e2ac0bebc0485ef83a6";
+  inputs.packument.url   = "https://registry.npmjs.org/isomorphic-fetch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

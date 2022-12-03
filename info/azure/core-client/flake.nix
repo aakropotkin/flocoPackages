@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-client?rev=113-3eafd18f6f8bb70bf8a15948b1c0f120";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-client";
   inputs.packument.flake = false;
 
   outputs = inputs: let

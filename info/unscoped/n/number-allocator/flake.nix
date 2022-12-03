@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/number-allocator?rev=15-a69e45a156d849ba2e68fd3db89cd348";
+  inputs.packument.url   = "https://registry.npmjs.org/number-allocator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

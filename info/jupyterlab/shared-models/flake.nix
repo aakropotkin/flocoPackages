@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/shared-models?rev=147-385b4d0c6fa54a969f875e8dc5998451";
+  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/shared-models";
   inputs.packument.flake = false;
 
   outputs = inputs: let

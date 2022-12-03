@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/css-what?rev=32-9dbdf1c428ab9e2bed0cebf88dc35944";
+  inputs.packument.url   = "https://registry.npmjs.org/css-what";
   inputs.packument.flake = false;
 
   outputs = inputs: let

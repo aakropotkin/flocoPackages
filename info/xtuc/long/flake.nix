@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@xtuc/long?rev=5-d47850e6218543093399074bc0e2f35f";
+  inputs.packument.url   = "https://registry.npmjs.org/@xtuc/long";
   inputs.packument.flake = false;
 
   outputs = inputs: let

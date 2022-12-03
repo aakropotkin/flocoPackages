@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-preset-current-node-syntax?rev=8-0ca2a32b4a8d123917f99197655fa12c";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-preset-current-node-syntax";
   inputs.packument.flake = false;
 
   outputs = inputs: let

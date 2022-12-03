@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-ember-template-compilation?rev=12-612556cdff672de4aa272411c5898c73";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-ember-template-compilation";
   inputs.packument.flake = false;
 
   outputs = inputs: let

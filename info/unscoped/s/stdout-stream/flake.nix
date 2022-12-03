@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stdout-stream?rev=26-17cc462a7d6e24d99be7d3be5d1c16e6";
+  inputs.packument.url   = "https://registry.npmjs.org/stdout-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/side-channel?rev=6-a7e8517a88e7bc99f59fc5c34264c944";
+  inputs.packument.url   = "https://registry.npmjs.org/side-channel";
   inputs.packument.flake = false;
 
   outputs = inputs: let

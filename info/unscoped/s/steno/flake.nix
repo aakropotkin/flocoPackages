@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/steno?rev=32-da072eab93de33e3f9f4899281251679";
+  inputs.packument.url   = "https://registry.npmjs.org/steno";
   inputs.packument.flake = false;
 
   outputs = inputs: let

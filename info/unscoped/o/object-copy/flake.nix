@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/object-copy?rev=5-5cc0b9bbfa0fa439b10e5712e5c5528d";
+  inputs.packument.url   = "https://registry.npmjs.org/object-copy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

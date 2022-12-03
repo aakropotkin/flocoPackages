@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core?rev=80-a6df216020a27a1b5a20e319ad7d5b88";
+  inputs.packument.url   = "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

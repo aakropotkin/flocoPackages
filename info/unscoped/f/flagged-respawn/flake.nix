@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/flagged-respawn?rev=26-063ebce9aea210bda4eb25636f586ca3";
+  inputs.packument.url   = "https://registry.npmjs.org/flagged-respawn";
   inputs.packument.flake = false;
 
   outputs = inputs: let

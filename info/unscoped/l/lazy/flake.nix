@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lazy?rev=25-7861c75c8fc1fbed148610ab4b0052d4";
+  inputs.packument.url   = "https://registry.npmjs.org/lazy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

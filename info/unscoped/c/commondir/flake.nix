@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/commondir?rev=20-989d8211edc58d75e290ab89296ae615";
+  inputs.packument.url   = "https://registry.npmjs.org/commondir";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-decorators?rev=114-37df352bf76c50d44bf18543db2f7c99";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-decorators";
   inputs.packument.flake = false;
 
   outputs = inputs: let

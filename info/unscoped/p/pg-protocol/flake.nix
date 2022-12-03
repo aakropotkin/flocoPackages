@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pg-protocol?rev=9-ee4f2ef8b8e510f909717f7a80299317";
+  inputs.packument.url   = "https://registry.npmjs.org/pg-protocol";
   inputs.packument.flake = false;
 
   outputs = inputs: let

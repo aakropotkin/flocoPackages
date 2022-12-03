@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/loupe?rev=32-2439df3ec37e36631349d8e52dda7bbe";
+  inputs.packument.url   = "https://registry.npmjs.org/loupe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

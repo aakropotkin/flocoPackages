@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/prom-client?rev=91-a0f557b05914eb6edc3493f741552d47";
+  inputs.packument.url   = "https://registry.npmjs.org/prom-client";
   inputs.packument.flake = false;
 
   outputs = inputs: let

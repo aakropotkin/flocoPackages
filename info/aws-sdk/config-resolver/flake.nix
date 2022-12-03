@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/config-resolver?rev=144-1446a041cae06e8e19dd7d4fd1658372";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/config-resolver";
   inputs.packument.flake = false;
 
   outputs = inputs: let

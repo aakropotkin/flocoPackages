@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@ember/edition-utils?rev=10-84989c64c8ff0d1ec0396f2833a4d9f0";
+  inputs.packument.url   = "https://registry.npmjs.org/@ember/edition-utils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

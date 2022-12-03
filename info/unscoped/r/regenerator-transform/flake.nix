@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/regenerator-transform?rev=38-053201e04f41034488854142435113cd";
+  inputs.packument.url   = "https://registry.npmjs.org/regenerator-transform";
   inputs.packument.flake = false;
 
   outputs = inputs: let

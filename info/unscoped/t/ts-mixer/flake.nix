@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ts-mixer?rev=40-c4b5b27f5ee791cdd30c78c6f23f67b9";
+  inputs.packument.url   = "https://registry.npmjs.org/ts-mixer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

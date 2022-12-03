@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-util?rev=40-4ad378c4ca877ce9deed49bdeaf61e2b";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-util";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fast-fifo?rev=2-56a8f2a6cd6800153166e510cfe51327";
+  inputs.packument.url   = "https://registry.npmjs.org/fast-fifo";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/msgpack?rev=518-4ff9d75ab46abc1a3aa7043f2d8a9fec";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/msgpack";
   inputs.packument.flake = false;
 
   outputs = inputs: let

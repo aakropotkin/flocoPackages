@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/web3-core-promievent?rev=124-1ac7e66f2fabaaf3a944bf4fa420a95b";
+  inputs.packument.url   = "https://registry.npmjs.org/web3-core-promievent";
   inputs.packument.flake = false;
 
   outputs = inputs: let

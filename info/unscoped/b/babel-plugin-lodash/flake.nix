@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-lodash?rev=86-5a27bcd068e0b6a1a895e4d078c6278c";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-lodash";
   inputs.packument.flake = false;
 
   outputs = inputs: let

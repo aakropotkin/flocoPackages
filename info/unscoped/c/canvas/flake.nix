@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/canvas?rev=404-5f4e6d22cfc4e4bcfc6a7a5470bdfbb9";
+  inputs.packument.url   = "https://registry.npmjs.org/canvas";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fsevents?rev=244-20c143bc18408bd7536939dcc3818618";
+  inputs.packument.url   = "https://registry.npmjs.org/fsevents";
   inputs.packument.flake = false;
 
   outputs = inputs: let

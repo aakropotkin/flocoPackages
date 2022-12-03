@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@swc/core-win32-x64-msvc?rev=199-d6656d90bdb5f8c75283e671c7bc1279";
+  inputs.packument.url   = "https://registry.npmjs.org/@swc/core-win32-x64-msvc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

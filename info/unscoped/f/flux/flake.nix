@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/flux?rev=128-3a975790646c6c9a60c71cc22f740ab1";
+  inputs.packument.url   = "https://registry.npmjs.org/flux";
   inputs.packument.flake = false;
 
   outputs = inputs: let

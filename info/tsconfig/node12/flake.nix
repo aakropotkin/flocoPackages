@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@tsconfig/node12?rev=13-008d9404bc1806f43bc4fc1d32237aa9";
+  inputs.packument.url   = "https://registry.npmjs.org/@tsconfig/node12";
   inputs.packument.flake = false;
 
   outputs = inputs: let

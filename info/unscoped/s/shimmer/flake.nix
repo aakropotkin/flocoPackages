@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/shimmer?rev=36-6cac041b7304a8b288ab501858f1892e";
+  inputs.packument.url   = "https://registry.npmjs.org/shimmer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

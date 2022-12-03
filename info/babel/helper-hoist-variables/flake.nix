@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-hoist-variables?rev=90-79fc40d466feafa2d110646e207c5755";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-hoist-variables";
   inputs.packument.flake = false;
 
   outputs = inputs: let

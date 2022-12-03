@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/memory-pager?rev=12-dae84bda5396159a984237dceb802587";
+  inputs.packument.url   = "https://registry.npmjs.org/memory-pager";
   inputs.packument.flake = false;
 
   outputs = inputs: let

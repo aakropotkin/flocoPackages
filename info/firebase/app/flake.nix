@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/app?rev=2740-b8abbda7fa2b255991ab52792116e3a7";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/app";
   inputs.packument.flake = false;
 
   outputs = inputs: let

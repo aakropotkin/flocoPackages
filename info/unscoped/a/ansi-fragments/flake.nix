@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ansi-fragments?rev=4-bde8e0cc3c75b5cd1c8d94079f7b41e1";
+  inputs.packument.url   = "https://registry.npmjs.org/ansi-fragments";
   inputs.packument.flake = false;
 
   outputs = inputs: let

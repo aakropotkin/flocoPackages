@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/optimist?rev=331-99cda9f3c912d728f2343f4f184ac266";
+  inputs.packument.url   = "https://registry.npmjs.org/optimist";
   inputs.packument.flake = false;
 
   outputs = inputs: let

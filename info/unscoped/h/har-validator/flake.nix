@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/har-validator?rev=76-d62a626346ce15241a8a5355e59999e7";
+  inputs.packument.url   = "https://registry.npmjs.org/har-validator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

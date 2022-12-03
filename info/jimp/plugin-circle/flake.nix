@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-circle?rev=126-637bbdfcf7384b1b2cb336d787d83c07";
+  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-circle";
   inputs.packument.flake = false;
 
   outputs = inputs: let

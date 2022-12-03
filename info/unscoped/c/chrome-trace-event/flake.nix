@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/chrome-trace-event?rev=12-38cab4c21f5c2a695d56303f6555e1fc";
+  inputs.packument.url   = "https://registry.npmjs.org/chrome-trace-event";
   inputs.packument.flake = false;
 
   outputs = inputs: let

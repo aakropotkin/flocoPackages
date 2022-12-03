@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-pnp-resolver?rev=8-a5ae94e800ea632f8596932d93cc01fe";
+  inputs.packument.url   = "https://registry.npmjs.org/jest-pnp-resolver";
   inputs.packument.flake = false;
 
   outputs = inputs: let

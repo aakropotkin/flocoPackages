@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/merge-source-map?rev=9-bfaecebb156d5f4c8e4f4bf70fa5413c";
+  inputs.packument.url   = "https://registry.npmjs.org/merge-source-map";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-user-agent-node?rev=133-50ecd8c82658a1e7d899307801003b19";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-user-agent-node";
   inputs.packument.flake = false;
 
   outputs = inputs: let

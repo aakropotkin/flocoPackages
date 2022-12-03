@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/flat-cache?rev=36-2d4675dafffcfe9c37028bdac1fb7816";
+  inputs.packument.url   = "https://registry.npmjs.org/flat-cache";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cross-env?rev=414-1eb889d205cd8bb890ec9a8748084789";
+  inputs.packument.url   = "https://registry.npmjs.org/cross-env";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@discoveryjs/json-ext?rev=16-3e6dbf86b76b596cb016e8d0fd6d3f01";
+  inputs.packument.url   = "https://registry.npmjs.org/@discoveryjs/json-ext";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/symbol-tree?rev=25-f83854c0c607263f845ab5f8dba105e2";
+  inputs.packument.url   = "https://registry.npmjs.org/symbol-tree";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-notify?rev=319-e41d295b5f3f368cf0b6162976cf27cd";
+  inputs.packument.url   = "https://registry.npmjs.org/gulp-notify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

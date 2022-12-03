@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/resize-observer-browser?rev=340-040d3e699eb71421eb0e8d0bc4375ff5";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/resize-observer-browser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

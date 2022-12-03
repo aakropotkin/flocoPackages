@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/nunjucks?rev=166-c2137009b230bfdac1a4617570241851";
+  inputs.packument.url   = "https://registry.npmjs.org/nunjucks";
   inputs.packument.flake = false;
 
   outputs = inputs: let

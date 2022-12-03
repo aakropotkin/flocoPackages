@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/isbinaryfile?rev=60-36f925838f079976f921ee1d2d313b77";
+  inputs.packument.url   = "https://registry.npmjs.org/isbinaryfile";
   inputs.packument.flake = false;
 
   outputs = inputs: let

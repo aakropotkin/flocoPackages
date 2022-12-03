@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@nodelib/fs.scandir?rev=18-508fc5897db8829590795533c1de2076";
+  inputs.packument.url   = "https://registry.npmjs.org/@nodelib/fs.scandir";
   inputs.packument.flake = false;
 
   outputs = inputs: let

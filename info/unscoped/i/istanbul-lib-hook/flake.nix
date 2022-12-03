@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/istanbul-lib-hook?rev=58-9a08d06fabbbac83349902f280b1eb4a";
+  inputs.packument.url   = "https://registry.npmjs.org/istanbul-lib-hook";
   inputs.packument.flake = false;
 
   outputs = inputs: let

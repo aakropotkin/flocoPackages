@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/portfinder?rev=68-a0c587e44ee6a6859a60be066022e8c9";
+  inputs.packument.url   = "https://registry.npmjs.org/portfinder";
   inputs.packument.flake = false;
 
   outputs = inputs: let

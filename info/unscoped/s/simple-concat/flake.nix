@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/simple-concat?rev=6-f47c83b63d9557a7075a787a7b0059be";
+  inputs.packument.url   = "https://registry.npmjs.org/simple-concat";
   inputs.packument.flake = false;
 
   outputs = inputs: let

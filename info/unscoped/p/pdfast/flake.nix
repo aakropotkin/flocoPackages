@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pdfast?rev=11-41e660cdeddc856c94013d1f21fcc6f2";
+  inputs.packument.url   = "https://registry.npmjs.org/pdfast";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/performance-types?rev=1955-96c9c71fa4d3cd41853b303dc5472ef0";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/performance-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

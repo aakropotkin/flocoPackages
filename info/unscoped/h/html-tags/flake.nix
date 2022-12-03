@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/html-tags?rev=32-7b5d33bbabc98ff739a5c22b6aaed591";
+  inputs.packument.url   = "https://registry.npmjs.org/html-tags";
   inputs.packument.flake = false;
 
   outputs = inputs: let

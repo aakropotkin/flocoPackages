@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/replace-homedir?rev=9-d78dddf16234c03473d5f39ada66d5d8";
+  inputs.packument.url   = "https://registry.npmjs.org/replace-homedir";
   inputs.packument.flake = false;
 
   outputs = inputs: let

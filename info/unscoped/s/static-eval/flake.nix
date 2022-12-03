@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/static-eval?rev=46-02b4b9fc1629e59e7e690b43b7b1568c";
+  inputs.packument.url   = "https://registry.npmjs.org/static-eval";
   inputs.packument.flake = false;
 
   outputs = inputs: let

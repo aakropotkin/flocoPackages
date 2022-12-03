@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-typed-array?rev=25-4884c444e7d2ce9583112f421ae9e50e";
+  inputs.packument.url   = "https://registry.npmjs.org/is-typed-array";
   inputs.packument.flake = false;
 
   outputs = inputs: let

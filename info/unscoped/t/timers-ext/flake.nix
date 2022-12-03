@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/timers-ext?rev=16-12d3ec71f82e68199034a58e6a7c8830";
+  inputs.packument.url   = "https://registry.npmjs.org/timers-ext";
   inputs.packument.flake = false;
 
   outputs = inputs: let

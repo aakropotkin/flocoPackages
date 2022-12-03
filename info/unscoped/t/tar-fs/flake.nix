@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tar-fs?rev=102-de13b9de1a5306dcd328884954f74129";
+  inputs.packument.url   = "https://registry.npmjs.org/tar-fs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

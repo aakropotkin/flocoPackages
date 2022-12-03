@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@react-dnd/asap?rev=6-6c150565c108e1cad14716dee3101e39";
+  inputs.packument.url   = "https://registry.npmjs.org/@react-dnd/asap";
   inputs.packument.flake = false;
 
   outputs = inputs: let

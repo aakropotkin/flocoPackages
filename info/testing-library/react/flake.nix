@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@testing-library/react?rev=112-e751e71246c95ac853b4b50aebca74e8";
+  inputs.packument.url   = "https://registry.npmjs.org/@testing-library/react";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-props-sort?rev=51-1ca4126c695ed7e76705a2b6891cfac3";
+  inputs.packument.url   = "https://registry.npmjs.org/jss-plugin-props-sort";
   inputs.packument.flake = false;
 
   outputs = inputs: let

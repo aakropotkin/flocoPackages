@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cipher-base?rev=8-96d88461ae2bc07cbbe18ff2226a3dbc";
+  inputs.packument.url   = "https://registry.npmjs.org/cipher-base";
   inputs.packument.flake = false;
 
   outputs = inputs: let

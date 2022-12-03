@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jscodeshift?rev=83-9facafe4105eb324fb2f76e429504ad3";
+  inputs.packument.url   = "https://registry.npmjs.org/jscodeshift";
   inputs.packument.flake = false;
 
   outputs = inputs: let

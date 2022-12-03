@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-nullish-coalescing-operator?rev=85-07fdd7a28e80eadab8c67b28c1d7623d";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-nullish-coalescing-operator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

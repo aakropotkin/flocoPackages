@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg?rev=11-081c9b3b5f9aad8ebcbe2370e27cdd34";
+  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg";
   inputs.packument.flake = false;
 
   outputs = inputs: let

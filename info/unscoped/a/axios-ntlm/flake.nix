@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/axios-ntlm?rev=18-2b8e1b5c20d6b4c86feaf1049595f80e";
+  inputs.packument.url   = "https://registry.npmjs.org/axios-ntlm";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/bindings-interface?rev=5-4e0621b149819ed3f6f6f19d3ba2e300";
+  inputs.packument.url   = "https://registry.npmjs.org/@serialport/bindings-interface";
   inputs.packument.flake = false;
 
   outputs = inputs: let

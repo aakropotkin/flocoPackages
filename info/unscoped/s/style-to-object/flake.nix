@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/style-to-object?rev=6-631de6c661499db7f108a1d2867b849c";
+  inputs.packument.url   = "https://registry.npmjs.org/style-to-object";
   inputs.packument.flake = false;
 
   outputs = inputs: let

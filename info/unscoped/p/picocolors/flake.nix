@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/picocolors?rev=8-43b8e225822baff1837ef4f32b30c2f0";
+  inputs.packument.url   = "https://registry.npmjs.org/picocolors";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-object-rest-spread?rev=64-165e40ec1b5e289398160d4f4e72d2bf";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-object-rest-spread";
   inputs.packument.flake = false;
 
   outputs = inputs: let

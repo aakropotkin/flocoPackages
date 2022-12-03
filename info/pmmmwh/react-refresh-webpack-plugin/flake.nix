@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@pmmmwh/react-refresh-webpack-plugin?rev=80-d48940aa979ed75a9f27babe0c28a0a6";
+  inputs.packument.url   = "https://registry.npmjs.org/@pmmmwh/react-refresh-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

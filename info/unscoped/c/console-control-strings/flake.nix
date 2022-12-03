@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/console-control-strings?rev=5-8bbfd4a156c7643beb30c2fc4e1ecc23";
+  inputs.packument.url   = "https://registry.npmjs.org/console-control-strings";
   inputs.packument.flake = false;
 
   outputs = inputs: let

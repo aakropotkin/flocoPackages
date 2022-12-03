@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/append-field?rev=6-0a56339fa8a95fbe0751d684f99d2d24";
+  inputs.packument.url   = "https://registry.npmjs.org/append-field";
   inputs.packument.flake = false;
 
   outputs = inputs: let

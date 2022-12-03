@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mimic-fn?rev=13-56ee110ca0c0e8d6981228404739c688";
+  inputs.packument.url   = "https://registry.npmjs.org/mimic-fn";
   inputs.packument.flake = false;
 
   outputs = inputs: let

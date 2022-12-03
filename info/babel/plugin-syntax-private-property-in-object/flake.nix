@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-private-property-in-object?rev=3-92e0c6d11c41a8d7afc7c5f89c8fb27d";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-private-property-in-object";
   inputs.packument.flake = false;
 
   outputs = inputs: let

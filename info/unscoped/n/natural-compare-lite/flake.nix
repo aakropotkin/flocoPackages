@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/natural-compare-lite?rev=70-df16c3e1b804699baaeb3d3ba57792df";
+  inputs.packument.url   = "https://registry.npmjs.org/natural-compare-lite";
   inputs.packument.flake = false;
 
   outputs = inputs: let

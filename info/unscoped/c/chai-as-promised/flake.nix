@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/chai-as-promised?rev=125-62a40e9d3ef67e57abbdd255d7f2dfea";
+  inputs.packument.url   = "https://registry.npmjs.org/chai-as-promised";
   inputs.packument.flake = false;
 
   outputs = inputs: let

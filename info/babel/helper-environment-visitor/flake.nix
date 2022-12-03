@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-environment-visitor?rev=6-a8201cf6c0dde91db8dfaa6e5f28d6cf";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-environment-visitor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@intlify/devtools-if?rev=70-035a24e441064c8b211bf21af0c8b69a";
+  inputs.packument.url   = "https://registry.npmjs.org/@intlify/devtools-if";
   inputs.packument.flake = false;
 
   outputs = inputs: let

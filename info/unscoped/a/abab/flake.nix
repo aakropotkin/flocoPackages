@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/abab?rev=17-cf7b4b91cefeb811f9a4b10803d970c5";
+  inputs.packument.url   = "https://registry.npmjs.org/abab";
   inputs.packument.flake = false;
 
   outputs = inputs: let

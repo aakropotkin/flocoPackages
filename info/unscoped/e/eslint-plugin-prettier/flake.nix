@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-plugin-prettier?rev=46-7679abcba3672e04320add0ae2ee86b3";
+  inputs.packument.url   = "https://registry.npmjs.org/eslint-plugin-prettier";
   inputs.packument.flake = false;
 
   outputs = inputs: let

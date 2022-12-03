@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/selector-specificity?rev=3-50518be131e7d47c21af1b2be7255ee3";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/selector-specificity";
   inputs.packument.flake = false;
 
   outputs = inputs: let

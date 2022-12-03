@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-path-cwd?rev=13-4fc90148251a7be14f568b915eced575";
+  inputs.packument.url   = "https://registry.npmjs.org/is-path-cwd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strtok3?rev=104-1046362335f7950ee16853346f594784";
+  inputs.packument.url   = "https://registry.npmjs.org/strtok3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

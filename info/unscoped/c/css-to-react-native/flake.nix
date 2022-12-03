@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/css-to-react-native?rev=28-5f8610fa7c76f3cac1ab3d6e3dc79daa";
+  inputs.packument.url   = "https://registry.npmjs.org/css-to-react-native";
   inputs.packument.flake = false;
 
   outputs = inputs: let

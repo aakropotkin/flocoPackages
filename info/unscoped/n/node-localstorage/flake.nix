@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-localstorage?rev=72-ec97d0f5fb11351120ce03d2c49fce20";
+  inputs.packument.url   = "https://registry.npmjs.org/node-localstorage";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@lumino/keyboard?rev=37-678cba808101854ab192c3820970086e";
+  inputs.packument.url   = "https://registry.npmjs.org/@lumino/keyboard";
   inputs.packument.flake = false;
 
   outputs = inputs: let

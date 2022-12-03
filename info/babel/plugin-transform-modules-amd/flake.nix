@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-modules-amd?rev=91-786e6f7cf8a8127b42c49e9a80d6cd6a";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-modules-amd";
   inputs.packument.flake = false;
 
   outputs = inputs: let

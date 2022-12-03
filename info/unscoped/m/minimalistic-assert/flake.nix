@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/minimalistic-assert?rev=7-2fdf64247e05eddfed773bede5f06e27";
+  inputs.packument.url   = "https://registry.npmjs.org/minimalistic-assert";
   inputs.packument.flake = false;
 
   outputs = inputs: let

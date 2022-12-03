@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/rendermime-interfaces?rev=384-c1cfad731f5dc7cabe950b22db546b2d";
+  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/rendermime-interfaces";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dash-ast?rev=3-339aefb7e3d65722150bbd33c36a8319";
+  inputs.packument.url   = "https://registry.npmjs.org/dash-ast";
   inputs.packument.flake = false;
 
   outputs = inputs: let

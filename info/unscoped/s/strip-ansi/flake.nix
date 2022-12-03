@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strip-ansi?rev=59-0a4a4d5e20630c0ef94861a6fe001ffd";
+  inputs.packument.url   = "https://registry.npmjs.org/strip-ansi";
   inputs.packument.flake = false;
 
   outputs = inputs: let

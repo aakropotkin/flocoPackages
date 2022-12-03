@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mysql?rev=724-1b5deb72df88b73b55f448899bb80617";
+  inputs.packument.url   = "https://registry.npmjs.org/mysql";
   inputs.packument.flake = false;
 
   outputs = inputs: let

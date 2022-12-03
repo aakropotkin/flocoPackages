@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-colormin?rev=70-0c85a49f77ea20bbb479579a9d302e80";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-colormin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

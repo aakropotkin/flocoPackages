@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/normalize.css?rev=9-23a52da898631c037ea2907bb9fc7e45";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/normalize.css";
   inputs.packument.flake = false;
 
   outputs = inputs: let

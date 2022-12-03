@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cssdb?rev=44-f7e8d3200ce810cca103e687b0bf4c4f";
+  inputs.packument.url   = "https://registry.npmjs.org/cssdb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

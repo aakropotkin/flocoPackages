@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tmpl?rev=14-1c4ff61963d1b318dca3c3708ec796cc";
+  inputs.packument.url   = "https://registry.npmjs.org/tmpl";
   inputs.packument.flake = false;
 
   outputs = inputs: let

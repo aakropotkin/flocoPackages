@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-computed-properties?rev=77-c6b983412bb6a0dbb8d376b5f4581292";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-es2015-computed-properties";
   inputs.packument.flake = false;
 
   outputs = inputs: let

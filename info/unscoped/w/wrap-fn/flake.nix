@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/wrap-fn?rev=20-17e345e9c48a5bff3ac07cffcffca6b2";
+  inputs.packument.url   = "https://registry.npmjs.org/wrap-fn";
   inputs.packument.flake = false;
 
   outputs = inputs: let

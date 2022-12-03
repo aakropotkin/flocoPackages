@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/username-sync?rev=6-e76ae4751115e129d62fd6b7333b6be4";
+  inputs.packument.url   = "https://registry.npmjs.org/username-sync";
   inputs.packument.flake = false;
 
   outputs = inputs: let

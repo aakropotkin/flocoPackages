@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/chokidar?rev=413-5dc5cb394088ccfc62aa8a75a150f56b";
+  inputs.packument.url   = "https://registry.npmjs.org/chokidar";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-scale?rev=762-df355b2124ee2938e38af21bf42613e1";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-scale";
   inputs.packument.flake = false;
 
   outputs = inputs: let

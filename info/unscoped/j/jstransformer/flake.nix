@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jstransformer?rev=25-4fb055c029ba129847419f62df4bfbde";
+  inputs.packument.url   = "https://registry.npmjs.org/jstransformer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

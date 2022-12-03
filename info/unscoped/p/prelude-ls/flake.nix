@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/prelude-ls?rev=34-ec576ea324dcbb80bc603847ccd91d28";
+  inputs.packument.url   = "https://registry.npmjs.org/prelude-ls";
   inputs.packument.flake = false;
 
   outputs = inputs: let

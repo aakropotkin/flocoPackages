@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hexlet-pairs?rev=20-37277bcaa8b88d56af2a5060f9296bd7";
+  inputs.packument.url   = "https://registry.npmjs.org/hexlet-pairs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

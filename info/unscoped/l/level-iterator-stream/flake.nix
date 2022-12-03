@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/level-iterator-stream?rev=21-8b5ad6f4e62d435c8cb176034a628b44";
+  inputs.packument.url   = "https://registry.npmjs.org/level-iterator-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

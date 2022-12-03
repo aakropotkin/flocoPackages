@@ -3,13 +3,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-bS4U+oY6OQU/fjrwNPICj0F3Kwn2ylFOZ0z8o4KHC2M=",
+        "narHash": "sha256-Dr0q3gqQHcpwqP5EliYUT0c4qNsafvX507Aq7i54yTc=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/middleware-recursion-detection?rev=20-59f695b7d8b2fee5103bbdd3e023cedb"
+        "url": "https://registry.npmjs.org/@aws-sdk/middleware-recursion-detection"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/middleware-recursion-detection?rev=20-59f695b7d8b2fee5103bbdd3e023cedb"
+        "url": "https://registry.npmjs.org/@aws-sdk/middleware-recursion-detection"
       }
     },
     "root": {

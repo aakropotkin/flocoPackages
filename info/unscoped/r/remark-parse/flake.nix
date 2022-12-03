@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/remark-parse?rev=56-64b98873e50db2e4ad83954ea7fa7a57";
+  inputs.packument.url   = "https://registry.npmjs.org/remark-parse";
   inputs.packument.flake = false;
 
   outputs = inputs: let

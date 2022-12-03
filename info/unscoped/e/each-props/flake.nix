@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/each-props?rev=15-ece26ee10d0dca0b15540076e2a9d73a";
+  inputs.packument.url   = "https://registry.npmjs.org/each-props";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/humanize-ms?rev=13-38f5032180440c9ce1d2bd2de02b59d2";
+  inputs.packument.url   = "https://registry.npmjs.org/humanize-ms";
   inputs.packument.flake = false;
 
   outputs = inputs: let

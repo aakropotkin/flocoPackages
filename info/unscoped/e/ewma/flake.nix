@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ewma?rev=4-9b80d0063cb9875518fdb6841ca2373b";
+  inputs.packument.url   = "https://registry.npmjs.org/ewma";
   inputs.packument.flake = false;
 
   outputs = inputs: let

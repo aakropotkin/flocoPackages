@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/arr-flatten?rev=20-4a97887a01dd4a20f0200d46adf69346";
+  inputs.packument.url   = "https://registry.npmjs.org/arr-flatten";
   inputs.packument.flake = false;
 
   outputs = inputs: let

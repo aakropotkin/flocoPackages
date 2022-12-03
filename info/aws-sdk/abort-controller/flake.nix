@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/abort-controller?rev=108-f13ceabc63933e061333a0db8d34eed4";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/abort-controller";
   inputs.packument.flake = false;
 
   outputs = inputs: let

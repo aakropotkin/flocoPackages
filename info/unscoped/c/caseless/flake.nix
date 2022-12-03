@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/caseless?rev=34-1c3ddbf030919e64d6494614d70424a4";
+  inputs.packument.url   = "https://registry.npmjs.org/caseless";
   inputs.packument.flake = false;
 
   outputs = inputs: let

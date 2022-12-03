@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sw-toolbox?rev=34-4ebfb15d275da6361db76927231663c3";
+  inputs.packument.url   = "https://registry.npmjs.org/sw-toolbox";
   inputs.packument.flake = false;
 
   outputs = inputs: let

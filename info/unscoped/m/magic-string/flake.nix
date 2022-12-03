@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/magic-string?rev=136-f47ab2590a7716e99b816762dfb9ec4a";
+  inputs.packument.url   = "https://registry.npmjs.org/magic-string";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-transform-svg-component?rev=22-dd33d51fad055590e982ba477c5c3bbe";
+  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-transform-svg-component";
   inputs.packument.flake = false;
 
   outputs = inputs: let

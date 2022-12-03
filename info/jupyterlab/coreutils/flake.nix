@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/coreutils?rev=415-3bd3a6ece2c1a5f2685515d90947744c";
+  inputs.packument.url   = "https://registry.npmjs.org/@jupyterlab/coreutils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

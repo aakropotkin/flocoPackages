@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/arborist?rev=174-dd7fef0a7754fef474023e36ad05fe00";
+  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/arborist";
   inputs.packument.flake = false;
 
   outputs = inputs: let

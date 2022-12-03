@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-riscv64?rev=49-52ca75f546f3e4e52c63ea33e41205c6";
+  inputs.packument.url   = "https://registry.npmjs.org/esbuild-linux-riscv64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

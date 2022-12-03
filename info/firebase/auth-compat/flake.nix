@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/auth-compat?rev=554-f4bbf3355d30d2157d29283c333669bd";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/auth-compat";
   inputs.packument.flake = false;
 
   outputs = inputs: let

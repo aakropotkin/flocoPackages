@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-plugin-babel?rev=53-08a057f382058daa75c5fb9f95018156";
+  inputs.packument.url   = "https://registry.npmjs.org/eslint-plugin-babel";
   inputs.packument.flake = false;
 
   outputs = inputs: let

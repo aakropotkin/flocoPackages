@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@samverschueren/stream-to-observable?rev=2-c46c4c1f98cde271e9ab1403f4cf53ac";
+  inputs.packument.url   = "https://registry.npmjs.org/@samverschueren/stream-to-observable";
   inputs.packument.flake = false;
 
   outputs = inputs: let

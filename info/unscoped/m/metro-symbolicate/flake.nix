@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-symbolicate?rev=47-6edf3216482e63d55f3533feb97cc2bb";
+  inputs.packument.url   = "https://registry.npmjs.org/metro-symbolicate";
   inputs.packument.flake = false;
 
   outputs = inputs: let

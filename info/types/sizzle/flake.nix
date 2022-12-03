@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/sizzle?rev=421-bb052810d1085b6fa8a620f7870e42ec";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/sizzle";
   inputs.packument.flake = false;
 
   outputs = inputs: let

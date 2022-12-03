@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/shared-ini-file-loader?rev=94-25dc612393077018be8d6e69e27b3071";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/shared-ini-file-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

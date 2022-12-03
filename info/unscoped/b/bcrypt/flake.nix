@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bcrypt?rev=508-56e801b5a9d67360b40075723488f033";
+  inputs.packument.url   = "https://registry.npmjs.org/bcrypt";
   inputs.packument.flake = false;
 
   outputs = inputs: let

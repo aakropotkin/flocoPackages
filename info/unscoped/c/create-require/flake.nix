@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/create-require?rev=7-5d9420957754098a34a283f981cda24e";
+  inputs.packument.url   = "https://registry.npmjs.org/create-require";
   inputs.packument.flake = false;
 
   outputs = inputs: let

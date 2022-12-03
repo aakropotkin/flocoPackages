@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/types?rev=100-a3a5d09c8b7e8f79238ff657e6e0f229";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

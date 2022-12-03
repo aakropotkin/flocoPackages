@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postgres-date?rev=15-3155943c54b62b146baa8f363050e578";
+  inputs.packument.url   = "https://registry.npmjs.org/postgres-date";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ip-regex?rev=26-04bfe69f1d691cf7043f543e76050895";
+  inputs.packument.url   = "https://registry.npmjs.org/ip-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

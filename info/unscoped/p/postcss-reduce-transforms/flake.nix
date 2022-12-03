@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-reduce-transforms?rev=45-a01d98d25c7e80a78f3479303d1064b6";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-reduce-transforms";
   inputs.packument.flake = false;
 
   outputs = inputs: let

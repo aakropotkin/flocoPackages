@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/messaging-interop-types?rev=435-9bb86a8ca2e7c4ac7fba01f9a80366ec";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/messaging-interop-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

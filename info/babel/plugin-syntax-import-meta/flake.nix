@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-import-meta?rev=56-63e9cd7ee905163a2e05c566a842c0e7";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-import-meta";
   inputs.packument.flake = false;
 
   outputs = inputs: let

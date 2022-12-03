@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/replacestream?rev=55-93d1fee02e95ba264daee0b888c20e01";
+  inputs.packument.url   = "https://registry.npmjs.org/replacestream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

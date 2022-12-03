@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@react-aria/ssr?rev=369-630ad87a1e5c82805e4858072ee410a5";
+  inputs.packument.url   = "https://registry.npmjs.org/@react-aria/ssr";
   inputs.packument.flake = false;
 
   outputs = inputs: let

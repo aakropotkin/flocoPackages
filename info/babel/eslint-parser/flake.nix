@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/eslint-parser?rev=32-f3f10c852b57da40c578329ea417eb3f";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/eslint-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

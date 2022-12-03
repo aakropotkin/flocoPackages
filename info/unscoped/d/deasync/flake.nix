@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/deasync?rev=96-43c905e429ec0c4ce1630d6044fe00d0";
+  inputs.packument.url   = "https://registry.npmjs.org/deasync";
   inputs.packument.flake = false;
 
   outputs = inputs: let

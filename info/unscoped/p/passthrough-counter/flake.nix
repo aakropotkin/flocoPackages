@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/passthrough-counter?rev=9-2b7d31bfb41ac6d48bf8c607d13b60e3";
+  inputs.packument.url   = "https://registry.npmjs.org/passthrough-counter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

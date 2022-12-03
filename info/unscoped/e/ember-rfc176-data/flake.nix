@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ember-rfc176-data?rev=33-bc76151319b466eabdaae710b4b51f26";
+  inputs.packument.url   = "https://registry.npmjs.org/ember-rfc176-data";
   inputs.packument.flake = false;
 
   outputs = inputs: let

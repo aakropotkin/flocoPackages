@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/through2-concurrent?rev=25-64c5fd7ea4f428ebd3cbcc655a2441f9";
+  inputs.packument.url   = "https://registry.npmjs.org/through2-concurrent";
   inputs.packument.flake = false;
 
   outputs = inputs: let

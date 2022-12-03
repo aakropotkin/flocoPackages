@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/optimize-css-assets-webpack-plugin?rev=54-2a95812d1748d539d14e5f0ad9d9da99";
+  inputs.packument.url   = "https://registry.npmjs.org/optimize-css-assets-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browserify-zlib?rev=21-5f0cdceddd70cb9562c1df01edad10ac";
+  inputs.packument.url   = "https://registry.npmjs.org/browserify-zlib";
   inputs.packument.flake = false;
 
   outputs = inputs: let

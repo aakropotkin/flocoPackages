@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-empty-expression?rev=9-970a606138f3c78a8072858accfe8965";
+  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-remove-jsx-empty-expression";
   inputs.packument.flake = false;
 
   outputs = inputs: let

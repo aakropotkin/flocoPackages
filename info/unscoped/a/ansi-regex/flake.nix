@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ansi-regex?rev=56-0d93cfc815d10b9e54c4d2b298a530c0";
+  inputs.packument.url   = "https://registry.npmjs.org/ansi-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

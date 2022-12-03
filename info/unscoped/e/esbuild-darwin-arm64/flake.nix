@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/esbuild-darwin-arm64?rev=164-f518296a9105ed74741d8437ca31c3d9";
+  inputs.packument.url   = "https://registry.npmjs.org/esbuild-darwin-arm64";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mustache?rev=143-39b48d9df6c7260901b36ee0d43784c0";
+  inputs.packument.url   = "https://registry.npmjs.org/mustache";
   inputs.packument.flake = false;
 
   outputs = inputs: let

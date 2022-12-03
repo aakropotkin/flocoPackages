@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-async-generator-functions?rev=102-deb1b96ccaa56aed851e9840b170e22a";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-async-generator-functions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

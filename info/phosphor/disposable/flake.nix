@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/disposable?rev=25-a27c9d6e3b1370886af905ee2eb2ed14";
+  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/disposable";
   inputs.packument.flake = false;
 
   outputs = inputs: let

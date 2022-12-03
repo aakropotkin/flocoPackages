@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lines-and-columns?rev=35-d663fd327b1962d223aba3473f1432f7";
+  inputs.packument.url   = "https://registry.npmjs.org/lines-and-columns";
   inputs.packument.flake = false;
 
   outputs = inputs: let

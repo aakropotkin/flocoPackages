@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/coord?rev=82-100a80e8a49bb06e77beb6f0ffac8990";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/coord";
   inputs.packument.flake = false;
 
   outputs = inputs: let

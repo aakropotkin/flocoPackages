@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pug-attrs?rev=17-d1b0fcec107f542027e8cf13e8cb961b";
+  inputs.packument.url   = "https://registry.npmjs.org/pug-attrs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

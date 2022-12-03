@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/asap?rev=31-17604d5332d25c5f033af38f0d682a3a";
+  inputs.packument.url   = "https://registry.npmjs.org/asap";
   inputs.packument.flake = false;
 
   outputs = inputs: let

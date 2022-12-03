@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-service-translate-browse-path?rev=180-d2b3a271efc621c13c198eb269b2cb54";
+  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-service-translate-browse-path";
   inputs.packument.flake = false;
 
   outputs = inputs: let

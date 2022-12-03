@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-call-delegate?rev=92-84774b24ee975f0a30442a9c66d9b969";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-call-delegate";
   inputs.packument.flake = false;
 
   outputs = inputs: let

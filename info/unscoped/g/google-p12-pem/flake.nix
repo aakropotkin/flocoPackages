@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/google-p12-pem?rev=57-d875b6890612b4b5c4996c33cc5e81f6";
+  inputs.packument.url   = "https://registry.npmjs.org/google-p12-pem";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pouchdb?rev=209-ac82bd6b41dd19fcdf885986eeb3ed5c";
+  inputs.packument.url   = "https://registry.npmjs.org/pouchdb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

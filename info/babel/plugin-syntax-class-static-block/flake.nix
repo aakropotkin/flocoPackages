@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-class-static-block?rev=5-f7a0c5f352c3acf2afbf795716e5d43d";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-class-static-block";
   inputs.packument.flake = false;
 
   outputs = inputs: let

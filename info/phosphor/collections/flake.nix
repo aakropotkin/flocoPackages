@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/collections?rev=23-ee4451178f1164f72c3f8ad0a30ed05c";
+  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/collections";
   inputs.packument.flake = false;
 
   outputs = inputs: let

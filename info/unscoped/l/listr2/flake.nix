@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/listr2?rev=173-3d087f612fa8d3aee5b3fa412fa562ff";
+  inputs.packument.url   = "https://registry.npmjs.org/listr2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

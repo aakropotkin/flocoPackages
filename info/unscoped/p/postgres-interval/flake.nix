@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postgres-interval?rev=15-2b6776cca58416c8e46a7e768f0c91ab";
+  inputs.packument.url   = "https://registry.npmjs.org/postgres-interval";
   inputs.packument.flake = false;
 
   outputs = inputs: let

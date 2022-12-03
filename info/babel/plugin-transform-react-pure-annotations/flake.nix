@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations?rev=13-71e5bcc4c7f0655cff372ff9726d2db0";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations";
   inputs.packument.flake = false;
 
   outputs = inputs: let

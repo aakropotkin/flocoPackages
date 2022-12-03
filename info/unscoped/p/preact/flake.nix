@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/preact?rev=288-547b8c7a848f875e04858a7abc9a66de";
+  inputs.packument.url   = "https://registry.npmjs.org/preact";
   inputs.packument.flake = false;
 
   outputs = inputs: let

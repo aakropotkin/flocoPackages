@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/p-cancelable?rev=20-ac48f2c7a0fa9e6c8f19707af90bf2b4";
+  inputs.packument.url   = "https://registry.npmjs.org/p-cancelable";
   inputs.packument.flake = false;
 
   outputs = inputs: let

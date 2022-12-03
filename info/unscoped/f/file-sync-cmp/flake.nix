@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/file-sync-cmp?rev=7-65bf050878e63a1089c6519c6468f672";
+  inputs.packument.url   = "https://registry.npmjs.org/file-sync-cmp";
   inputs.packument.flake = false;
 
   outputs = inputs: let

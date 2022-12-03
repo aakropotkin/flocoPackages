@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@ampproject/remapping?rev=35-f8de04ea8a56d3a25266da5002265ad2";
+  inputs.packument.url   = "https://registry.npmjs.org/@ampproject/remapping";
   inputs.packument.flake = false;
 
   outputs = inputs: let

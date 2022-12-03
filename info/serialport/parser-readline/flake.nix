@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-readline?rev=21-64bf6ab841b785ce529c572cef2d3ff2";
+  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-readline";
   inputs.packument.flake = false;
 
   outputs = inputs: let

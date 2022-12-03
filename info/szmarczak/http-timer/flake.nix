@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@szmarczak/http-timer?rev=20-b3d4a78f1bdeecfc7f8bf594a91cf307";
+  inputs.packument.url   = "https://registry.npmjs.org/@szmarczak/http-timer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

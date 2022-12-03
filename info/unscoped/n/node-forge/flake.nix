@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-forge?rev=258-7c80579abaeee45a374c50f42e9b8aa3";
+  inputs.packument.url   = "https://registry.npmjs.org/node-forge";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-modal?rev=183-52246ad9ddb09a3877ac127f4d6a9eab";
+  inputs.packument.url   = "https://registry.npmjs.org/react-modal";
   inputs.packument.flake = false;
 
   outputs = inputs: let

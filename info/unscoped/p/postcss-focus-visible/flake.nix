@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-focus-visible?rev=13-ac2c32357c048a47c5bd745fba0290d0";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-focus-visible";
   inputs.packument.flake = false;
 
   outputs = inputs: let

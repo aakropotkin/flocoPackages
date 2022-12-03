@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-resolver?rev=106-f537d2d79494fee0d7ed17325a36922c";
+  inputs.packument.url   = "https://registry.npmjs.org/metro-resolver";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/promise-all-reject-late?rev=2-30cbe596b1ace17a054432fb97e27eac";
+  inputs.packument.url   = "https://registry.npmjs.org/promise-all-reject-late";
   inputs.packument.flake = false;
 
   outputs = inputs: let

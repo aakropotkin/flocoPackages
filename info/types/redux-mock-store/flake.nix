@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/redux-mock-store?rev=496-154d49c720683a93c294ed2543f3d23f";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/redux-mock-store";
   inputs.packument.flake = false;
 
   outputs = inputs: let

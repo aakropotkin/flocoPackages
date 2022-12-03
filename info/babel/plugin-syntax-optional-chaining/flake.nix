@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-optional-chaining?rev=69-fd96e6918aec101f7a6c754ecad87cd1";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-syntax-optional-chaining";
   inputs.packument.flake = false;
 
   outputs = inputs: let

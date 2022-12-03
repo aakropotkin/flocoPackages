@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sprintf-js?rev=84-dfd9f44c510ff1aeb5708d40953d00ef";
+  inputs.packument.url   = "https://registry.npmjs.org/sprintf-js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@fastify/deepmerge?rev=2-34478ad3d6ec932da9e93b0331b4980e";
+  inputs.packument.url   = "https://registry.npmjs.org/@fastify/deepmerge";
   inputs.packument.flake = false;
 
   outputs = inputs: let

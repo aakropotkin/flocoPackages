@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-react-constant-elements?rev=89-2e2d4272f55fbd106c6f5eab1ae51801";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-react-constant-elements";
   inputs.packument.flake = false;
 
   outputs = inputs: let

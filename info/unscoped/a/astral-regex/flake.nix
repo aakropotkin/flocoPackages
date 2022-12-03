@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/astral-regex?rev=3-5319251479cb2cd1ae4075760c18f701";
+  inputs.packument.url   = "https://registry.npmjs.org/astral-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

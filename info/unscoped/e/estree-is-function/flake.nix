@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/estree-is-function?rev=1-1cae6dfa5bd0041d3ef7c174c067a051";
+  inputs.packument.url   = "https://registry.npmjs.org/estree-is-function";
   inputs.packument.flake = false;
 
   outputs = inputs: let

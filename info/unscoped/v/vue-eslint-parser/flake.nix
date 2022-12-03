@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vue-eslint-parser?rev=83-23d328137fa0db740506ddcbc8cf21ed";
+  inputs.packument.url   = "https://registry.npmjs.org/vue-eslint-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

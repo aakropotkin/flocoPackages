@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/array-sort?rev=13-af1da00f4cac1862c2f9159f038b6984";
+  inputs.packument.url   = "https://registry.npmjs.org/array-sort";
   inputs.packument.flake = false;
 
   outputs = inputs: let

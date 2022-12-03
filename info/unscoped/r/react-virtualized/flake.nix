@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-virtualized?rev=330-e7631ddb4fb86cf1b4cfdc64378d83e0";
+  inputs.packument.url   = "https://registry.npmjs.org/react-virtualized";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-interactive?rev=3-8f6f6f855d138b640e2a81d337d7612a";
+  inputs.packument.url   = "https://registry.npmjs.org/is-interactive";
   inputs.packument.flake = false;
 
   outputs = inputs: let

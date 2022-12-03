@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-optimise-call-expression?rev=89-e88c9e3d4057c7c91ef3ff84c64deba9";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-optimise-call-expression";
   inputs.packument.flake = false;
 
   outputs = inputs: let

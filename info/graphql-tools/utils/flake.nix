@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@graphql-tools/utils?rev=992-2db65ce901af4c1b5dd5076df3a0649d";
+  inputs.packument.url   = "https://registry.npmjs.org/@graphql-tools/utils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

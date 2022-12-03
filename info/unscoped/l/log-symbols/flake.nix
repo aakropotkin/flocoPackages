@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/log-symbols?rev=51-0af62a65bf2c24ae05e3a6b082db3f6f";
+  inputs.packument.url   = "https://registry.npmjs.org/log-symbols";
   inputs.packument.flake = false;
 
   outputs = inputs: let

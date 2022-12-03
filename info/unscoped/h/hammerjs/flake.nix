@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hammerjs?rev=121-7be5f5e305c4f608d5339d4f01c068a7";
+  inputs.packument.url   = "https://registry.npmjs.org/hammerjs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

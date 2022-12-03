@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-boolean-object?rev=10-6d60f9d79930dd8b50a6ab3dab7c7e16";
+  inputs.packument.url   = "https://registry.npmjs.org/is-boolean-object";
   inputs.packument.flake = false;
 
   outputs = inputs: let

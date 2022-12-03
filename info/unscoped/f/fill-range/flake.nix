@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fill-range?rev=58-6c1fe19fc11023d4f7729afc09ce7d70";
+  inputs.packument.url   = "https://registry.npmjs.org/fill-range";
   inputs.packument.flake = false;
 
   outputs = inputs: let

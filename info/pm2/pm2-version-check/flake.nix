@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@pm2/pm2-version-check?rev=5-8a6fa0e0e7249ef395b5d765fc4d9791";
+  inputs.packument.url   = "https://registry.npmjs.org/@pm2/pm2-version-check";
   inputs.packument.flake = false;
 
   outputs = inputs: let

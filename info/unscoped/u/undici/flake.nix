@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/undici?rev=130-f0cf8c555cba1050c58f435b44f97ae4";
+  inputs.packument.url   = "https://registry.npmjs.org/undici";
   inputs.packument.flake = false;
 
   outputs = inputs: let

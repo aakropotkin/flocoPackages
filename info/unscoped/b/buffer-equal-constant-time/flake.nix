@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/buffer-equal-constant-time?rev=10-076daeb5d00013aac8a19df6c8575b1d";
+  inputs.packument.url   = "https://registry.npmjs.org/buffer-equal-constant-time";
   inputs.packument.flake = false;
 
   outputs = inputs: let

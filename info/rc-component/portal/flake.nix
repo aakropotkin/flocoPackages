@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@rc-component/portal?rev=14-7b557adfe25cc71a9e8dc6decde2f09f";
+  inputs.packument.url   = "https://registry.npmjs.org/@rc-component/portal";
   inputs.packument.flake = false;
 
   outputs = inputs: let

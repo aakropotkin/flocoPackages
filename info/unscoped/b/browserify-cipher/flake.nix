@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browserify-cipher?rev=5-18a82da68e3d6b57746e0cb11ae3b465";
+  inputs.packument.url   = "https://registry.npmjs.org/browserify-cipher";
   inputs.packument.flake = false;
 
   outputs = inputs: let

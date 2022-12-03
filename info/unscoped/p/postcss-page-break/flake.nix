@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-page-break?rev=8-4894b14bd93625b54fc7517c1395e7a1";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-page-break";
   inputs.packument.flake = false;
 
   outputs = inputs: let

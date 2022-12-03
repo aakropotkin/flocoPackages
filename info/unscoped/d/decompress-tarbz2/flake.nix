@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decompress-tarbz2?rev=24-a1039ec4a54dbb4b240287b221727529";
+  inputs.packument.url   = "https://registry.npmjs.org/decompress-tarbz2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

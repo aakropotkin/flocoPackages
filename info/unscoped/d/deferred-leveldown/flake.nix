@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/deferred-leveldown?rev=49-e36585874a963c3df1c03fb042866eb8";
+  inputs.packument.url   = "https://registry.npmjs.org/deferred-leveldown";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/oboe?rev=130-67433c8261dd08063fe59a8c5a3ed68b";
+  inputs.packument.url   = "https://registry.npmjs.org/oboe";
   inputs.packument.flake = false;
 
   outputs = inputs: let

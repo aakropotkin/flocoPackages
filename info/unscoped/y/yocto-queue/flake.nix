@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/yocto-queue?rev=3-33dd8aa67b7b6e2de623b1645b16706a";
+  inputs.packument.url   = "https://registry.npmjs.org/yocto-queue";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@redux-saga/deferred?rev=14-43d34460b936e63968070b33d22c32e2";
+  inputs.packument.url   = "https://registry.npmjs.org/@redux-saga/deferred";
   inputs.packument.flake = false;
 
   outputs = inputs: let

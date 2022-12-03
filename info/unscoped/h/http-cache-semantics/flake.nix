@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/http-cache-semantics?rev=30-ce9774715e3167d57b48e46ca587309d";
+  inputs.packument.url   = "https://registry.npmjs.org/http-cache-semantics";
   inputs.packument.flake = false;
 
   outputs = inputs: let

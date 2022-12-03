@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-emoji?rev=66-61cb820c6a47ee8f5434ee5b2487b666";
+  inputs.packument.url   = "https://registry.npmjs.org/node-emoji";
   inputs.packument.flake = false;
 
   outputs = inputs: let

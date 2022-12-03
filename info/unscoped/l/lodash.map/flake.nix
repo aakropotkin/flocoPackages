@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lodash.map?rev=53-f37cd695b81e68393957b6710b791b7f";
+  inputs.packument.url   = "https://registry.npmjs.org/lodash.map";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-ms?rev=19-244698b65f252564d2630e96ffdcbbe7";
+  inputs.packument.url   = "https://registry.npmjs.org/parse-ms";
   inputs.packument.flake = false;
 
   outputs = inputs: let

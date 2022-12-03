@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gaze?rev=125-d16fcfa52c24efc60602915032346037";
+  inputs.packument.url   = "https://registry.npmjs.org/gaze";
   inputs.packument.flake = false;
 
   outputs = inputs: let

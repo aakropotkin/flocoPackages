@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@lumino/domutils?rev=37-730724baf312cd3d280f95680012681b";
+  inputs.packument.url   = "https://registry.npmjs.org/@lumino/domutils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-create-class-features-plugin?rev=69-eb5361b7976d376ca60e8e984433af75";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-create-class-features-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

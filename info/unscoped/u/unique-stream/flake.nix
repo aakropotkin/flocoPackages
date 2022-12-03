@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unique-stream?rev=34-6d0ef0337215ee5a66ead684c93f313b";
+  inputs.packument.url   = "https://registry.npmjs.org/unique-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

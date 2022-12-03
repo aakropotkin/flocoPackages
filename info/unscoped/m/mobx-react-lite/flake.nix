@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mobx-react-lite?rev=72-11dccb1a9b0eaab283b62c0319433a63";
+  inputs.packument.url   = "https://registry.npmjs.org/mobx-react-lite";
   inputs.packument.flake = false;
 
   outputs = inputs: let

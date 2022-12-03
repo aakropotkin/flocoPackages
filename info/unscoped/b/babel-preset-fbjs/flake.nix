@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-preset-fbjs?rev=40-ea1ca0588dba0c072e28cee9ea5dea43";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-preset-fbjs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

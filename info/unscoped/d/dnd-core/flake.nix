@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dnd-core?rev=125-885a6ab31229dce6e1a2b7f9da881f26";
+  inputs.packument.url   = "https://registry.npmjs.org/dnd-core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-math?rev=168-47933d46d5443717f395707670d8c9e0";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/g-math";
   inputs.packument.flake = false;
 
   outputs = inputs: let

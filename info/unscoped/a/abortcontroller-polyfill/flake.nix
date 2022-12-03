@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/abortcontroller-polyfill?rev=41-213bb2ad74866523901c599632d3bc01";
+  inputs.packument.url   = "https://registry.npmjs.org/abortcontroller-polyfill";
   inputs.packument.flake = false;
 
   outputs = inputs: let

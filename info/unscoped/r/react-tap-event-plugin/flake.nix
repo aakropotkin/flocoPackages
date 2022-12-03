@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-tap-event-plugin?rev=57-d5027106cb07ae6e1e988d97898a3b4c";
+  inputs.packument.url   = "https://registry.npmjs.org/react-tap-event-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

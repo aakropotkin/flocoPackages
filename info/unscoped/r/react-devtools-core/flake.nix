@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-devtools-core?rev=217-d14b186afc4119148a58a8b55a20a70f";
+  inputs.packument.url   = "https://registry.npmjs.org/react-devtools-core";
   inputs.packument.flake = false;
 
   outputs = inputs: let

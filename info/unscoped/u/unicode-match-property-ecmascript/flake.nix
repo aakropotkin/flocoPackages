@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unicode-match-property-ecmascript?rev=9-8c8456b56d5d1ec3c07d66000a0f1ced";
+  inputs.packument.url   = "https://registry.npmjs.org/unicode-match-property-ecmascript";
   inputs.packument.flake = false;
 
   outputs = inputs: let

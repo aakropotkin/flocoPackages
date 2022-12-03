@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/redux-logger?rev=127-195a6e459190e9679d4f005a892ae4d3";
+  inputs.packument.url   = "https://registry.npmjs.org/redux-logger";
   inputs.packument.flake = false;
 
   outputs = inputs: let

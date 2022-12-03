@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/npm-pick-manifest?rev=50-d4b3a520ef545ba7268c6d12ea463382";
+  inputs.packument.url   = "https://registry.npmjs.org/npm-pick-manifest";
   inputs.packument.flake = false;
 
   outputs = inputs: let

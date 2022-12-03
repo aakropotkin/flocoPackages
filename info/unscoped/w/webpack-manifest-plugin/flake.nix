@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/webpack-manifest-plugin?rev=68-ee24d6f9d534162ae634d65d958d773a";
+  inputs.packument.url   = "https://registry.npmjs.org/webpack-manifest-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

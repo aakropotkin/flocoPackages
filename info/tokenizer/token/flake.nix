@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@tokenizer/token?rev=4-aa88251edef34f73ea7e0cc2930e3d44";
+  inputs.packument.url   = "https://registry.npmjs.org/@tokenizer/token";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/seedrandom?rev=47-9b365e3160ac1796f34244fbe4dc9b6a";
+  inputs.packument.url   = "https://registry.npmjs.org/seedrandom";
   inputs.packument.flake = false;
 
   outputs = inputs: let

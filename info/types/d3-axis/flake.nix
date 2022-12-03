@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-axis?rev=589-c854a352bbc277e72a43961d5de7857d";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-axis";
   inputs.packument.flake = false;
 
   outputs = inputs: let

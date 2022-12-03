@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ethereum-bloom-filters?rev=11-aaaaa32b2797c1b8cb42c97bd8353705";
+  inputs.packument.url   = "https://registry.npmjs.org/ethereum-bloom-filters";
   inputs.packument.flake = false;
 
   outputs = inputs: let

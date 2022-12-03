@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/extract-zip?rev=48-c7c180dd78d7de18d5e67ebac075daef";
+  inputs.packument.url   = "https://registry.npmjs.org/extract-zip";
   inputs.packument.flake = false;
 
   outputs = inputs: let

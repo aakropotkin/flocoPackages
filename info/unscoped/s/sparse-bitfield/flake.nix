@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sparse-bitfield?rev=12-6723ed446c6eb73e50ebadd26e330d29";
+  inputs.packument.url   = "https://registry.npmjs.org/sparse-bitfield";
   inputs.packument.flake = false;
 
   outputs = inputs: let

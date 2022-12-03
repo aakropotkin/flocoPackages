@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-pre-gyp?rev=210-2552a0c8ee36801193c468cc9df27790";
+  inputs.packument.url   = "https://registry.npmjs.org/node-pre-gyp";
   inputs.packument.flake = false;
 
   outputs = inputs: let

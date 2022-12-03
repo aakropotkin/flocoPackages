@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/create-hash?rev=27-f347fe3eef41a347678b5695a715ed47";
+  inputs.packument.url   = "https://registry.npmjs.org/create-hash";
   inputs.packument.flake = false;
 
   outputs = inputs: let

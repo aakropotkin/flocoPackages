@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@intlify/vue-devtools?rev=70-1ef479d6cae04ddfeab30e385d624bef";
+  inputs.packument.url   = "https://registry.npmjs.org/@intlify/vue-devtools";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/load-yaml-file?rev=7-a7d9bbac7db471eb5458954082ffe2f1";
+  inputs.packument.url   = "https://registry.npmjs.org/load-yaml-file";
   inputs.packument.flake = false;
 
   outputs = inputs: let

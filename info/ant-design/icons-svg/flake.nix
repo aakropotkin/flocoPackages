@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@ant-design/icons-svg?rev=41-f8606aabf6bbfce4c834913a9f9586df";
+  inputs.packument.url   = "https://registry.npmjs.org/@ant-design/icons-svg";
   inputs.packument.flake = false;
 
   outputs = inputs: let

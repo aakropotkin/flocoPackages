@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser?rev=13-fbc738afee8a6a645ebed9059d418f5e";
+  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/json-schema-ref-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

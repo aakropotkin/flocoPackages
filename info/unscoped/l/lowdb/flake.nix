@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lowdb?rev=191-6681e817084e475a6298fcefc8490d72";
+  inputs.packument.url   = "https://registry.npmjs.org/lowdb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

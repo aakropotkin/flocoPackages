@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/redux-devtools-extension?rev=40-473b6349687cc582214ba53a7a20aeff";
+  inputs.packument.url   = "https://registry.npmjs.org/redux-devtools-extension";
   inputs.packument.flake = false;
 
   outputs = inputs: let

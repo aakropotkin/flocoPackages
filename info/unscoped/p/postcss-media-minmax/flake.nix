@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-media-minmax?rev=19-8b7e572927a309b7b33abcd263f3ebed";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-media-minmax";
   inputs.packument.flake = false;
 
   outputs = inputs: let

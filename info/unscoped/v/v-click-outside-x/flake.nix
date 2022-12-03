@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/v-click-outside-x?rev=54-b55ae2e515fa22a3258f273fa6780963";
+  inputs.packument.url   = "https://registry.npmjs.org/v-click-outside-x";
   inputs.packument.flake = false;
 
   outputs = inputs: let

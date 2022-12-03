@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/rimraf?rev=529-c4388f43121d7acb6c5df92285fb62da";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/rimraf";
   inputs.packument.flake = false;
 
   outputs = inputs: let

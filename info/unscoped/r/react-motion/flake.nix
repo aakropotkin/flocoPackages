@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-motion?rev=87-c84efb58b7959ba809156cc437103309";
+  inputs.packument.url   = "https://registry.npmjs.org/react-motion";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ignore-walk?rev=24-e8ddd27b19399208045ba20b8bc7c11f";
+  inputs.packument.url   = "https://registry.npmjs.org/ignore-walk";
   inputs.packument.flake = false;
 
   outputs = inputs: let

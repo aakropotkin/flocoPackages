@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unbzip2-stream?rev=40-db9250c995c85074de4ebc91f5733b05";
+  inputs.packument.url   = "https://registry.npmjs.org/unbzip2-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

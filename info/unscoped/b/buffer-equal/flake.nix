@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/buffer-equal?rev=14-a5d93cc15e86a22119b6a574ffb3eede";
+  inputs.packument.url   = "https://registry.npmjs.org/buffer-equal";
   inputs.packument.flake = false;
 
   outputs = inputs: let

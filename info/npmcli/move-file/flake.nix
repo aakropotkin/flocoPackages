@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/move-file?rev=22-af0e5b74c139683ba2e0a3a83e5907f7";
+  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/move-file";
   inputs.packument.flake = false;
 
   outputs = inputs: let

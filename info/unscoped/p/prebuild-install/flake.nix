@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/prebuild-install?rev=56-96827678de36c1603f5b6891f6bfb5de";
+  inputs.packument.url   = "https://registry.npmjs.org/prebuild-install";
   inputs.packument.flake = false;
 
   outputs = inputs: let

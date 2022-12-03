@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/snapdragon-node?rev=16-3067a752c912e0dab3369c1067f6fc84";
+  inputs.packument.url   = "https://registry.npmjs.org/snapdragon-node";
   inputs.packument.flake = false;
 
   outputs = inputs: let

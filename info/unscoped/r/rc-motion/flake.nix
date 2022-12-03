@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-motion?rev=35-68a8c59670098d96804a228a74ea7ad5";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-motion";
   inputs.packument.flake = false;
 
   outputs = inputs: let

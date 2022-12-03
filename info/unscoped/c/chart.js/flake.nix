@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/chart.js?rev=171-6701c06196cf10967f9444e3eb9fd46a";
+  inputs.packument.url   = "https://registry.npmjs.org/chart.js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

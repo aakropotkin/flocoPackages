@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/untildify?rev=24-61b086681f092f9a0abb33e5e736eefa";
+  inputs.packument.url   = "https://registry.npmjs.org/untildify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

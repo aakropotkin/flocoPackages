@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@juggle/resize-observer?rev=69-0ba0a180545fe3f1df63505af05432e8";
+  inputs.packument.url   = "https://registry.npmjs.org/@juggle/resize-observer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

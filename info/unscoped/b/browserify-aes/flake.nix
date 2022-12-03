@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browserify-aes?rev=56-0255f4c577ce1419c3e8924d85cab5b9";
+  inputs.packument.url   = "https://registry.npmjs.org/browserify-aes";
   inputs.packument.flake = false;
 
   outputs = inputs: let

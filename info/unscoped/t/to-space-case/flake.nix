@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/to-space-case?rev=12-635a384ce2e57714cd5c2608cff7026c";
+  inputs.packument.url   = "https://registry.npmjs.org/to-space-case";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@leichtgewicht/ip-codec?rev=6-c206bbeb5e2a3941338bd7e859e8b960";
+  inputs.packument.url   = "https://registry.npmjs.org/@leichtgewicht/ip-codec";
   inputs.packument.flake = false;
 
   outputs = inputs: let

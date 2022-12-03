@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/p-map-series?rev=7-b97226c361a898ba11917c232a873039";
+  inputs.packument.url   = "https://registry.npmjs.org/p-map-series";
   inputs.packument.flake = false;
 
   outputs = inputs: let

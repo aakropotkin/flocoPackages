@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/shallow-equal?rev=9-84739111a4318ed9db1a98a7925846f6";
+  inputs.packument.url   = "https://registry.npmjs.org/shallow-equal";
   inputs.packument.flake = false;
 
   outputs = inputs: let

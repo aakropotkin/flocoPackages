@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vue-property-decorator?rev=58-fba152660168f2ee223a56f0dbb63a2c";
+  inputs.packument.url   = "https://registry.npmjs.org/vue-property-decorator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

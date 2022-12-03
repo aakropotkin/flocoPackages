@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mdast-util-from-markdown?rev=26-928a66a252e13ca1c7e3113f5923aa47";
+  inputs.packument.url   = "https://registry.npmjs.org/mdast-util-from-markdown";
   inputs.packument.flake = false;
 
   outputs = inputs: let

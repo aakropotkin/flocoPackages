@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-absolute?rev=30-51fa09e24e4bd9bb134fb0f661a38562";
+  inputs.packument.url   = "https://registry.npmjs.org/is-absolute";
   inputs.packument.flake = false;
 
   outputs = inputs: let

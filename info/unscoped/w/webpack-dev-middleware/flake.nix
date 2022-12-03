@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/webpack-dev-middleware?rev=203-cdcf54fe68ab3b88057ebf2ca431f655";
+  inputs.packument.url   = "https://registry.npmjs.org/webpack-dev-middleware";
   inputs.packument.flake = false;
 
   outputs = inputs: let

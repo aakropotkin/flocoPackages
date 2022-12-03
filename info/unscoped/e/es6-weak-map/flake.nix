@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es6-weak-map?rev=23-af3c468eadc15f41b640a18e55ac594f";
+  inputs.packument.url   = "https://registry.npmjs.org/es6-weak-map";
   inputs.packument.flake = false;
 
   outputs = inputs: let

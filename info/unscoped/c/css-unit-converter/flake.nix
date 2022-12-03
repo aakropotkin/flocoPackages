@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/css-unit-converter?rev=7-6b0d5ecfb7924ccf79c07510a7990b6f";
+  inputs.packument.url   = "https://registry.npmjs.org/css-unit-converter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

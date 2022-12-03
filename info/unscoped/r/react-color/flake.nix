@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-color?rev=89-1ab06fe95650c45cbde339b56bc5b294";
+  inputs.packument.url   = "https://registry.npmjs.org/react-color";
   inputs.packument.flake = false;
 
   outputs = inputs: let

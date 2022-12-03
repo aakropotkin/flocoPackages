@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/lodash._reinterpolate?rev=34-8bbdf873d28c91f9b04959646a2e856a";
+  inputs.packument.url   = "https://registry.npmjs.org/lodash._reinterpolate";
   inputs.packument.flake = false;
 
   outputs = inputs: let

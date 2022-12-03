@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/find-yarn-workspace-root2?rev=43-115bf623c558f3e4b12ec8154a155d72";
+  inputs.packument.url   = "https://registry.npmjs.org/find-yarn-workspace-root2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

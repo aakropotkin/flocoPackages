@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/clean-up-path?rev=4-6fbc09ebe3f9a8cb081f15914a09ac50";
+  inputs.packument.url   = "https://registry.npmjs.org/clean-up-path";
   inputs.packument.flake = false;
 
   outputs = inputs: let

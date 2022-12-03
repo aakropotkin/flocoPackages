@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/yeoman-generator?rev=300-90fa2bf0afb76ef9b7887f650d250b0d";
+  inputs.packument.url   = "https://registry.npmjs.org/yeoman-generator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

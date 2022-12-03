@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jmespath?rev=25-2a43e0cd31adb00d47bd5929ee308e00";
+  inputs.packument.url   = "https://registry.npmjs.org/jmespath";
   inputs.packument.flake = false;
 
   outputs = inputs: let

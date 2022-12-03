@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/react-transition-group?rev=615-e5ca8edcc3f6d4a724d113088888d93d";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/react-transition-group";
   inputs.packument.flake = false;
 
   outputs = inputs: let

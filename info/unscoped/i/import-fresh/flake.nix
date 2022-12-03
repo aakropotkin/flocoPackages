@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/import-fresh?rev=9-9e90a63af693a529294bd78080d92ccb";
+  inputs.packument.url   = "https://registry.npmjs.org/import-fresh";
   inputs.packument.flake = false;
 
   outputs = inputs: let

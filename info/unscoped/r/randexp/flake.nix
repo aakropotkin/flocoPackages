@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/randexp?rev=45-77442b3e5363262bd20a14ddca37899b";
+  inputs.packument.url   = "https://registry.npmjs.org/randexp";
   inputs.packument.flake = false;
 
   outputs = inputs: let

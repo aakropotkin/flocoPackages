@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-replace-object-assign?rev=8-ada804be18ee3b3f6609bc33e332d9d4";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-replace-object-assign";
   inputs.packument.flake = false;
 
   outputs = inputs: let

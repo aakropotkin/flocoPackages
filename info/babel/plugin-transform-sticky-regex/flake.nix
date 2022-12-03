@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex?rev=79-c88b01bbd8e7a0769eea5679b9590b6a";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-sticky-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

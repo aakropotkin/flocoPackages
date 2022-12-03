@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dot-prop?rev=52-d6e116ca12ebf0dd6ad6b15aaa250202";
+  inputs.packument.url   = "https://registry.npmjs.org/dot-prop";
   inputs.packument.flake = false;
 
   outputs = inputs: let

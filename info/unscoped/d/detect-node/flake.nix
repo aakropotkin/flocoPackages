@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/detect-node?rev=19-e6701a01ecba84e9bb36b8df448ec1c3";
+  inputs.packument.url   = "https://registry.npmjs.org/detect-node";
   inputs.packument.flake = false;
 
   outputs = inputs: let

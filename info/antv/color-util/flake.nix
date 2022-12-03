@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@antv/color-util?rev=65-ed4bfd4cd1198a014febf4637295e164";
+  inputs.packument.url   = "https://registry.npmjs.org/@antv/color-util";
   inputs.packument.flake = false;
 
   outputs = inputs: let

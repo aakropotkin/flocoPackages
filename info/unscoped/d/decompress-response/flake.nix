@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/decompress-response?rev=15-b4186daf90a0fcd2fca8a507fbd89840";
+  inputs.packument.url   = "https://registry.npmjs.org/decompress-response";
   inputs.packument.flake = false;
 
   outputs = inputs: let

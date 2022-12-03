@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/logger?rev=124-68f2027af5193332f51d14233b2ccffd";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/logger";
   inputs.packument.flake = false;
 
   outputs = inputs: let

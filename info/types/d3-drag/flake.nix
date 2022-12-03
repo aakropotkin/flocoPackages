@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-drag?rev=589-21607ef98d574a876fbffaaa07036af3";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-drag";
   inputs.packument.flake = false;
 
   outputs = inputs: let

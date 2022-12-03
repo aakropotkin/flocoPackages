@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ethereumjs-common?rev=27-f7450cc273b7208b1c1778d10500fd8a";
+  inputs.packument.url   = "https://registry.npmjs.org/ethereumjs-common";
   inputs.packument.flake = false;
 
   outputs = inputs: let

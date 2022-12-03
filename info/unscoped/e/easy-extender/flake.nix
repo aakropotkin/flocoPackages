@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/easy-extender?rev=21-653d3b134931719ec2d2d29241083d08";
+  inputs.packument.url   = "https://registry.npmjs.org/easy-extender";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tweetnacl?rev=51-c4c363eb930affa63433c61c7a0d567e";
+  inputs.packument.url   = "https://registry.npmjs.org/tweetnacl";
   inputs.packument.flake = false;
 
   outputs = inputs: let

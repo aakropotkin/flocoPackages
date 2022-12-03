@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/passport-oauth1?rev=13-cce91a724bfe57f096a5a7a10215d904";
+  inputs.packument.url   = "https://registry.npmjs.org/passport-oauth1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

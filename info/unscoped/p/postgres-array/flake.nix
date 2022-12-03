@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postgres-array?rev=10-b5109466c84630b1fe18bf98f027e831";
+  inputs.packument.url   = "https://registry.npmjs.org/postgres-array";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jwt-simple?rev=133-6f41fde01d08b29face837cd282994a8";
+  inputs.packument.url   = "https://registry.npmjs.org/jwt-simple";
   inputs.packument.flake = false;
 
   outputs = inputs: let

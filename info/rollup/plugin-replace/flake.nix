@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@rollup/plugin-replace?rev=17-de335a7e1d1ece1cef60cd2174233e63";
+  inputs.packument.url   = "https://registry.npmjs.org/@rollup/plugin-replace";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/utf8-byte-length?rev=8-26199c39f25dedc5fb3024577c28ced7";
+  inputs.packument.url   = "https://registry.npmjs.org/utf8-byte-length";
   inputs.packument.flake = false;
 
   outputs = inputs: let

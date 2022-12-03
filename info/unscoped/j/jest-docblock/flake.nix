@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-docblock?rev=133-0cfd51ca3ab098607f0914158d4298a8";
+  inputs.packument.url   = "https://registry.npmjs.org/jest-docblock";
   inputs.packument.flake = false;
 
   outputs = inputs: let

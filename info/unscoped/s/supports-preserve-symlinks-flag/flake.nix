@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/supports-preserve-symlinks-flag?rev=1-8d7a0b792ab19d51365d64228ea32493";
+  inputs.packument.url   = "https://registry.npmjs.org/supports-preserve-symlinks-flag";
   inputs.packument.flake = false;
 
   outputs = inputs: let

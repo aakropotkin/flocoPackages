@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/resolve-url-loader?rev=102-68b8e4ef6cc318a12512fd43be6b29e2";
+  inputs.packument.url   = "https://registry.npmjs.org/resolve-url-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

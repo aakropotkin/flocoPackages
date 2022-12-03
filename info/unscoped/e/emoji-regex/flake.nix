@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/emoji-regex?rev=47-8f7ff4b949d7efb337d83a4d91b044ef";
+  inputs.packument.url   = "https://registry.npmjs.org/emoji-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

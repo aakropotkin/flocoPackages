@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/y-websocket?rev=50-17796c5796497f13754f4058bb39d476";
+  inputs.packument.url   = "https://registry.npmjs.org/y-websocket";
   inputs.packument.flake = false;
 
   outputs = inputs: let

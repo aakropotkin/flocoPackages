@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title?rev=14-130dae0db140c8d65cdb57036a711a85";
+  inputs.packument.url   = "https://registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title";
   inputs.packument.flake = false;
 
   outputs = inputs: let

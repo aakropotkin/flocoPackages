@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/livereload-js?rev=42-3bc338b465ebc469837a45dbdbf9513e";
+  inputs.packument.url   = "https://registry.npmjs.org/livereload-js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

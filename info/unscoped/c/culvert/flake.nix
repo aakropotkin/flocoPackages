@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/culvert?rev=8-d9619784092bb79ee772bb5476864149";
+  inputs.packument.url   = "https://registry.npmjs.org/culvert";
   inputs.packument.flake = false;
 
   outputs = inputs: let

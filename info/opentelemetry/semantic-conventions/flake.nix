@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@opentelemetry/semantic-conventions?rev=91-ec30f4a1d73847cbc75891364f8d2098";
+  inputs.packument.url   = "https://registry.npmjs.org/@opentelemetry/semantic-conventions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

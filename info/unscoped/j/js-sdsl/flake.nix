@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/js-sdsl?rev=45-e0314f1d1fcba35492e0b9ed638abfd3";
+  inputs.packument.url   = "https://registry.npmjs.org/js-sdsl";
   inputs.packument.flake = false;
 
   outputs = inputs: let

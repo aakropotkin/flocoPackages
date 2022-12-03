@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/async-mqtt?rev=19-78181f120da529b5440c9209849b2c7d";
+  inputs.packument.url   = "https://registry.npmjs.org/async-mqtt";
   inputs.packument.flake = false;
 
   outputs = inputs: let

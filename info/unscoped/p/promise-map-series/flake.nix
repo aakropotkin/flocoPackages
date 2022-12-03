@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/promise-map-series?rev=15-344aa1b647896f6853cc70408d6e12cb";
+  inputs.packument.url   = "https://registry.npmjs.org/promise-map-series";
   inputs.packument.flake = false;
 
   outputs = inputs: let

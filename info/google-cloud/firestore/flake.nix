@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@google-cloud/firestore?rev=148-94f7aa08a16e9bc9f9a59a101b70ff0e";
+  inputs.packument.url   = "https://registry.npmjs.org/@google-cloud/firestore";
   inputs.packument.flake = false;
 
   outputs = inputs: let

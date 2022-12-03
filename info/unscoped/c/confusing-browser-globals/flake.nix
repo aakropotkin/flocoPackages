@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/confusing-browser-globals?rev=50-4ad6eccf0c85f66f32157ea7d799bc15";
+  inputs.packument.url   = "https://registry.npmjs.org/confusing-browser-globals";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/global-prefix?rev=17-ab075883c8b1b919bee9b27bac552e17";
+  inputs.packument.url   = "https://registry.npmjs.org/global-prefix";
   inputs.packument.flake = false;
 
   outputs = inputs: let

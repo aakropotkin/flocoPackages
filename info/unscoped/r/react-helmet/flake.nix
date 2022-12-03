@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-helmet?rev=126-3c1e3ed98f57ad325b8f85c341fbba5b";
+  inputs.packument.url   = "https://registry.npmjs.org/react-helmet";
   inputs.packument.flake = false;
 
   outputs = inputs: let

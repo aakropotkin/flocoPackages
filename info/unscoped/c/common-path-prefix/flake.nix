@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/common-path-prefix?rev=8-30cf718322100c0937bf005d0490602d";
+  inputs.packument.url   = "https://registry.npmjs.org/common-path-prefix";
   inputs.packument.flake = false;
 
   outputs = inputs: let

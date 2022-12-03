@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@acuminous/bitsyntax?rev=1-752b300eb2f3b5637f8641536d27d8f6";
+  inputs.packument.url   = "https://registry.npmjs.org/@acuminous/bitsyntax";
   inputs.packument.flake = false;
 
   outputs = inputs: let

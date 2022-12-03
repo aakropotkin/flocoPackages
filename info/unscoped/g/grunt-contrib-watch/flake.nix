@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/grunt-contrib-watch?rev=320-90e4ef48b51141b9abc521823184010a";
+  inputs.packument.url   = "https://registry.npmjs.org/grunt-contrib-watch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

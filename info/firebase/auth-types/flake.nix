@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/auth-types?rev=2529-09109eca51e640914bbc86cdb38c7647";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/auth-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

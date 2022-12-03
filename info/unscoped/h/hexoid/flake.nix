@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hexoid?rev=2-cc750a30afa98d58064be518b2628d5f";
+  inputs.packument.url   = "https://registry.npmjs.org/hexoid";
   inputs.packument.flake = false;
 
   outputs = inputs: let

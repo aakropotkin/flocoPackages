@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/jest-mock?rev=341-f89060b50be5c74c9c2445df63001f45";
+  inputs.packument.url   = "https://registry.npmjs.org/jest-mock";
   inputs.packument.flake = false;
 
   outputs = inputs: let

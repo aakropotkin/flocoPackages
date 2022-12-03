@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/broccoli-persistent-filter?rev=69-982b5443224cc647be5212bfa36b5cb0";
+  inputs.packument.url   = "https://registry.npmjs.org/broccoli-persistent-filter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

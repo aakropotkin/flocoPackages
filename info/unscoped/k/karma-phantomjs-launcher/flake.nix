@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/karma-phantomjs-launcher?rev=73-8115d7cb3a60aca38f563704f75e9b6e";
+  inputs.packument.url   = "https://registry.npmjs.org/karma-phantomjs-launcher";
   inputs.packument.flake = false;
 
   outputs = inputs: let

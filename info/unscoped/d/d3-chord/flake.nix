@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/d3-chord?rev=26-9125de4cfead21571d2279f2c5c91a03";
+  inputs.packument.url   = "https://registry.npmjs.org/d3-chord";
   inputs.packument.flake = false;
 
   outputs = inputs: let

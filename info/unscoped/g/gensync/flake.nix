@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gensync?rev=10-b7037c19f6bf0fbaa650b7540360ae68";
+  inputs.packument.url   = "https://registry.npmjs.org/gensync";
   inputs.packument.flake = false;
 
   outputs = inputs: let

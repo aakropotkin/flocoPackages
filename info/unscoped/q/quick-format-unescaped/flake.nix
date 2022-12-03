@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/quick-format-unescaped?rev=20-ae0968c59bc6e8a4b465cbeb22db1a08";
+  inputs.packument.url   = "https://registry.npmjs.org/quick-format-unescaped";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/swagger-express-middleware?rev=8-6a8f7cf6b76817ea013dddbf0a410521";
+  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/swagger-express-middleware";
   inputs.packument.flake = false;
 
   outputs = inputs: let

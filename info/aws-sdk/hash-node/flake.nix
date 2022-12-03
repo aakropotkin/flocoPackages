@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/hash-node?rev=109-341d542569982213a9453dc1922340d6";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/hash-node";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vinyl-fs?rev=121-102351b94e14fef1501b2cf5806bd386";
+  inputs.packument.url   = "https://registry.npmjs.org/vinyl-fs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

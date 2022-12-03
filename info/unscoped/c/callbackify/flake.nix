@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/callbackify?rev=20-1f314f47536927b1813da2ae5b2610a2";
+  inputs.packument.url   = "https://registry.npmjs.org/callbackify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

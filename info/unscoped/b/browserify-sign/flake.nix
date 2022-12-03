@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/browserify-sign?rev=62-7afb88258a93a43f96d4e7b1029a3051";
+  inputs.packument.url   = "https://registry.npmjs.org/browserify-sign";
   inputs.packument.flake = false;
 
   outputs = inputs: let

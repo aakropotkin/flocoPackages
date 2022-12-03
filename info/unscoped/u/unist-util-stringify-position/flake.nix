@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unist-util-stringify-position?rev=17-07fc821d763f827db63112351b238144";
+  inputs.packument.url   = "https://registry.npmjs.org/unist-util-stringify-position";
   inputs.packument.flake = false;
 
   outputs = inputs: let

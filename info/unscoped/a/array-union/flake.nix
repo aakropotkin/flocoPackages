@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/array-union?rev=18-aeb2460324d26051645dfab3f0516c9b";
+  inputs.packument.url   = "https://registry.npmjs.org/array-union";
   inputs.packument.flake = false;
 
   outputs = inputs: let

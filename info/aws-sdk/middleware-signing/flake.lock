@@ -3,13 +3,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-j0k7gVhS2KbFJdsjAsKGYv8edcWIsghjsPqjrRnEju0=",
+        "narHash": "sha256-gluM/3pfT3O3m7pJwrUPnaygc3mnxaWTv77v4mJ2lLk=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/middleware-signing?rev=124-2c35d41265af56a38ec128c0c7028d80"
+        "url": "https://registry.npmjs.org/@aws-sdk/middleware-signing"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/middleware-signing?rev=124-2c35d41265af56a38ec128c0c7028d80"
+        "url": "https://registry.npmjs.org/@aws-sdk/middleware-signing"
       }
     },
     "root": {

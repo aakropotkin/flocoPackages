@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/form-data?rev=233-cf98bb5e6d43e8b9c1b1b323c51eb95f";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/form-data";
   inputs.packument.flake = false;
 
   outputs = inputs: let

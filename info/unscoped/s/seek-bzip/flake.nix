@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/seek-bzip?rev=25-3e8e107806c613d7327cb1f5b820e86c";
+  inputs.packument.url   = "https://registry.npmjs.org/seek-bzip";
   inputs.packument.flake = false;
 
   outputs = inputs: let

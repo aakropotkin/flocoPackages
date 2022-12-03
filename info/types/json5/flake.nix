@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/json5?rev=521-af2173a8e971831f9461c25fd15afb05";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/json5";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/yargs?rev=996-ea208d4cfa373cf9c03c4823ab0d1050";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/yargs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

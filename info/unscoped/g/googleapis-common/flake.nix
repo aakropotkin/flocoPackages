@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/googleapis-common?rev=56-0a01bb90d33126fd2e5538d6a93082df";
+  inputs.packument.url   = "https://registry.npmjs.org/googleapis-common";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-discard-overridden?rev=42-59875e469b98e3200a44538aaa01cbff";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-discard-overridden";
   inputs.packument.flake = false;
 
   outputs = inputs: let

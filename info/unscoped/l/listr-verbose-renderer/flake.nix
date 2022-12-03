@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/listr-verbose-renderer?rev=11-a81b43f75dfd72172fe4040986dc5669";
+  inputs.packument.url   = "https://registry.npmjs.org/listr-verbose-renderer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-weakref?rev=3-a4466eede0cb7f6231ab790e759c4a0c";
+  inputs.packument.url   = "https://registry.npmjs.org/is-weakref";
   inputs.packument.flake = false;
 
   outputs = inputs: let

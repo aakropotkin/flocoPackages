@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-error-boundary?rev=36-97f2645a2117d934155a8061eacf9a8e";
+  inputs.packument.url   = "https://registry.npmjs.org/react-error-boundary";
   inputs.packument.flake = false;
 
   outputs = inputs: let

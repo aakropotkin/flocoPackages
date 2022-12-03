@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/char-regex?rev=5-df40e228f0eec08b102aee628148bde1";
+  inputs.packument.url   = "https://registry.npmjs.org/char-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

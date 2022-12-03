@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@vue/runtime-dom?rev=134-68fab2831e4f0b35e755aaa70b427d41";
+  inputs.packument.url   = "https://registry.npmjs.org/@vue/runtime-dom";
   inputs.packument.flake = false;
 
   outputs = inputs: let

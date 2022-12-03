@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@blueprintjs/popover2?rev=91-88d5ef9fe11440d75fb7ecbcd4d6a8f8";
+  inputs.packument.url   = "https://registry.npmjs.org/@blueprintjs/popover2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

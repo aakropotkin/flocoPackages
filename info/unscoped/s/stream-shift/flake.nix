@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stream-shift?rev=5-31bb42c71069dd0eb1175d87b40f3922";
+  inputs.packument.url   = "https://registry.npmjs.org/stream-shift";
   inputs.packument.flake = false;
 
   outputs = inputs: let

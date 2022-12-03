@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@ster5/global-mutex?rev=4-931bce0311c4e98b399ffb52427a90f0";
+  inputs.packument.url   = "https://registry.npmjs.org/@ster5/global-mutex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

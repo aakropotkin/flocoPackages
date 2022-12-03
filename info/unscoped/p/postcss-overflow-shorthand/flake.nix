@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-overflow-shorthand?rev=9-8ac584d450111aa7e2bb6c183488890b";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-overflow-shorthand";
   inputs.packument.flake = false;
 
   outputs = inputs: let

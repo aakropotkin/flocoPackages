@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/escape-latex?rev=26-d6a3d7df53f983c43a60ea5bd9dfd8fc";
+  inputs.packument.url   = "https://registry.npmjs.org/escape-latex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

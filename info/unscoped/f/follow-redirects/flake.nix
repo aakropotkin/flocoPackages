@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/follow-redirects?rev=82-74f7d3c839f1bfbbb8c8b0f58deed662";
+  inputs.packument.url   = "https://registry.npmjs.org/follow-redirects";
   inputs.packument.flake = false;
 
   outputs = inputs: let

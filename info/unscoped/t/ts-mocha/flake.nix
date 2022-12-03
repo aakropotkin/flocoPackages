@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ts-mocha?rev=24-45bfbe42a253bf294d467d8fd8f54a1a";
+  inputs.packument.url   = "https://registry.npmjs.org/ts-mocha";
   inputs.packument.flake = false;
 
   outputs = inputs: let

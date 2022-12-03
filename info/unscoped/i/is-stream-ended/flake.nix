@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/is-stream-ended?rev=8-99c3bc4dde602df139c181c7d7c7d846";
+  inputs.packument.url   = "https://registry.npmjs.org/is-stream-ended";
   inputs.packument.flake = false;
 
   outputs = inputs: let

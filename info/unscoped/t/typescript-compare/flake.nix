@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/typescript-compare?rev=3-bf7aaae7ff554f146f31640f8baec7fa";
+  inputs.packument.url   = "https://registry.npmjs.org/typescript-compare";
   inputs.packument.flake = false;
 
   outputs = inputs: let

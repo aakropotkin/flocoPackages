@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/safe-stable-stringify?rev=13-037939e2d1fd26996d5061b5d3851c21";
+  inputs.packument.url   = "https://registry.npmjs.org/safe-stable-stringify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

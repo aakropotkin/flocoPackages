@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/markdown?rev=129-c4786c967d2103c16748e033f450b2d6";
+  inputs.packument.url   = "https://registry.npmjs.org/markdown";
   inputs.packument.flake = false;
 
   outputs = inputs: let

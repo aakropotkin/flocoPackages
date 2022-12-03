@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-minify-selectors?rev=67-9aff231ed4e43fd5bdfbb13f0f464ea2";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-minify-selectors";
   inputs.packument.flake = false;
 
   outputs = inputs: let

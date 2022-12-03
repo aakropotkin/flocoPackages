@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/prettier?rev=927-6c796ad445096e9646b368225f1c2fa3";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/prettier";
   inputs.packument.flake = false;
 
   outputs = inputs: let

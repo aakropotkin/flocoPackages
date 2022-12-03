@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/broccoli-babel-transpiler?rev=82-ba5b9c7a3615d8819a6815bb84b8617b";
+  inputs.packument.url   = "https://registry.npmjs.org/broccoli-babel-transpiler";
   inputs.packument.flake = false;
 
   outputs = inputs: let

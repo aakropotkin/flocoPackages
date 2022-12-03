@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@codemirror/language?rev=28-bb47c2c8961e1eff30c9fd6f71baaa69";
+  inputs.packument.url   = "https://registry.npmjs.org/@codemirror/language";
   inputs.packument.flake = false;
 
   outputs = inputs: let

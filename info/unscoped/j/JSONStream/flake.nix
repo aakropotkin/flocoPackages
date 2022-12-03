@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/JSONStream?rev=204-9b68aeec3cd5f59c12151ce8816c4ea0";
+  inputs.packument.url   = "https://registry.npmjs.org/JSONStream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

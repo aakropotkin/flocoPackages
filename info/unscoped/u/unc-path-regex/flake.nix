@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/unc-path-regex?rev=7-aad1baba259c023274aab7b74def739c";
+  inputs.packument.url   = "https://registry.npmjs.org/unc-path-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

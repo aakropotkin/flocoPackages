@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stream-each?rev=19-f8f59670f3e7f9bbcfefd1336f8c1de1";
+  inputs.packument.url   = "https://registry.npmjs.org/stream-each";
   inputs.packument.flake = false;
 
   outputs = inputs: let

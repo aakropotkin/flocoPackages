@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/charenc?rev=9-f500900410565c82ae2ddd636ab064df";
+  inputs.packument.url   = "https://registry.npmjs.org/charenc";
   inputs.packument.flake = false;
 
   outputs = inputs: let

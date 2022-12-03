@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/coreutils?rev=39-af959f47b2b6b4d773e65a8ca751602a";
+  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/coreutils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

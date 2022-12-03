@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-numeric-separator?rev=82-30edb327e12298ad035ad63ff413c374";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-numeric-separator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/geojson?rev=617-70bfcf48bfe0e882a048066802c3c4b3";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/geojson";
   inputs.packument.flake = false;
 
   outputs = inputs: let

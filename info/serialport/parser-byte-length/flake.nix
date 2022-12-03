@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-byte-length?rev=21-c3f2204d466213ffc8b33f85c0005c67";
+  inputs.packument.url   = "https://registry.npmjs.org/@serialport/parser-byte-length";
   inputs.packument.flake = false;
 
   outputs = inputs: let

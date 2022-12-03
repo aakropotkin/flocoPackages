@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/seq-queue?rev=15-c077212bfc497f2d9d7f1fcaa5f81ad2";
+  inputs.packument.url   = "https://registry.npmjs.org/seq-queue";
   inputs.packument.flake = false;
 
   outputs = inputs: let

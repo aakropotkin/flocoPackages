@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/git-node-fs?rev=10-88904faf4b56e5924221366be8029690";
+  inputs.packument.url   = "https://registry.npmjs.org/git-node-fs";
   inputs.packument.flake = false;
 
   outputs = inputs: let

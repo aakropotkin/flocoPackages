@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/utif?rev=14-1004a6645c45bc640614bd84a177c34a";
+  inputs.packument.url   = "https://registry.npmjs.org/utif";
   inputs.packument.flake = false;
 
   outputs = inputs: let

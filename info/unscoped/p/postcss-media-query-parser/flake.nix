@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-media-query-parser?rev=9-820de48ae81d35b95062a37a6ea0e749";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-media-query-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

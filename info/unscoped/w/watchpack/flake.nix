@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/watchpack?rev=69-e4dd0fa1305672294c6191afaf2e72dc";
+  inputs.packument.url   = "https://registry.npmjs.org/watchpack";
   inputs.packument.flake = false;
 
   outputs = inputs: let

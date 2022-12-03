@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-sass?rev=669-fea00e30c9398e6c85f975d6f674f906";
+  inputs.packument.url   = "https://registry.npmjs.org/gulp-sass";
   inputs.packument.flake = false;
 
   outputs = inputs: let

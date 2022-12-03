@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/keyboard?rev=22-f650bf429e9123459262a98e55a6294b";
+  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/keyboard";
   inputs.packument.flake = false;
 
   outputs = inputs: let

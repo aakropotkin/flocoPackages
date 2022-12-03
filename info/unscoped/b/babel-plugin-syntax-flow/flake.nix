@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-flow?rev=72-e31f55dc9a62405c8f82bbcc3dd24a75";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-flow";
   inputs.packument.flake = false;
 
   outputs = inputs: let

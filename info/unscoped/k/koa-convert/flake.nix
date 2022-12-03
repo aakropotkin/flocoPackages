@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/koa-convert?rev=29-f3e4c45705c471e76b2ea28cfd6f6760";
+  inputs.packument.url   = "https://registry.npmjs.org/koa-convert";
   inputs.packument.flake = false;
 
   outputs = inputs: let

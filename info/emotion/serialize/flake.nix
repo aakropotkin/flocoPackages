@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@emotion/serialize?rev=66-dede35c48a430b94c967cdb883e16b16";
+  inputs.packument.url   = "https://registry.npmjs.org/@emotion/serialize";
   inputs.packument.flake = false;
 
   outputs = inputs: let

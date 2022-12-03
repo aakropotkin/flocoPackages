@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/git-sha1?rev=10-acfc47e9f8741b4fc1281846fce8c0a0";
+  inputs.packument.url   = "https://registry.npmjs.org/git-sha1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

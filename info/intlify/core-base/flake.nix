@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@intlify/core-base?rev=87-1ebdc728bf50e4a4ffad2b247eb7ad91";
+  inputs.packument.url   = "https://registry.npmjs.org/@intlify/core-base";
   inputs.packument.flake = false;
 
   outputs = inputs: let

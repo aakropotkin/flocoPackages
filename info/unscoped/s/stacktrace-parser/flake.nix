@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stacktrace-parser?rev=15-916c928f3d77d77cfc3a8e0037d4d7db";
+  inputs.packument.url   = "https://registry.npmjs.org/stacktrace-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

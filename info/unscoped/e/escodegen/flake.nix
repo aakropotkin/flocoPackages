@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/escodegen?rev=142-bc8135d20abae40ef33c616c512ee1b0";
+  inputs.packument.url   = "https://registry.npmjs.org/escodegen";
   inputs.packument.flake = false;
 
   outputs = inputs: let

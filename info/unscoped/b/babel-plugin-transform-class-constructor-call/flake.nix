@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-class-constructor-call?rev=54-0cdeabb458ff348268e4a8ec851aa09f";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-class-constructor-call";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/acorn-walk?rev=17-da6d6fd0a8c5d4bd33719707b6ca4062";
+  inputs.packument.url   = "https://registry.npmjs.org/acorn-walk";
   inputs.packument.flake = false;
 
   outputs = inputs: let

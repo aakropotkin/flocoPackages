@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/find-cache-dir?rev=21-6a58d31cadc0d64f6199ac3f5f5fa2a6";
+  inputs.packument.url   = "https://registry.npmjs.org/find-cache-dir";
   inputs.packument.flake = false;
 
   outputs = inputs: let

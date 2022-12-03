@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/redux-thunk?rev=124-69f9157da786806cccda9ee4b8a59b06";
+  inputs.packument.url   = "https://registry.npmjs.org/redux-thunk";
   inputs.packument.flake = false;
 
   outputs = inputs: let

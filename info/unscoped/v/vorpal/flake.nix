@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vorpal?rev=177-c1cac8a7f6fa39451b58479457e725bc";
+  inputs.packument.url   = "https://registry.npmjs.org/vorpal";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-preset-stage-0?rev=92-2cf4d81523435f76d80bf9ad6b2251b1";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-preset-stage-0";
   inputs.packument.flake = false;
 
   outputs = inputs: let

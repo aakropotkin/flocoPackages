@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/grunt-contrib-jshint?rev=243-7df948437f8486f42414dc38e9106453";
+  inputs.packument.url   = "https://registry.npmjs.org/grunt-contrib-jshint";
   inputs.packument.flake = false;
 
   outputs = inputs: let

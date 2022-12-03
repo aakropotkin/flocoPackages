@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/idna-uts46-hx?rev=34-8bb6ff57973f98eac1e50c3a23fc9fb9";
+  inputs.packument.url   = "https://registry.npmjs.org/idna-uts46-hx";
   inputs.packument.flake = false;
 
   outputs = inputs: let

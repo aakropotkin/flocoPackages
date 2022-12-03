@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eslint-rule-composer?rev=5-b8ecbb67098a78ba13894d42f1ea1685";
+  inputs.packument.url   = "https://registry.npmjs.org/eslint-rule-composer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

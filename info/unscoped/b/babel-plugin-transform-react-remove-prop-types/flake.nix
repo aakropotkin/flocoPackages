@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-react-remove-prop-types?rev=65-dd88cae38cca96499922b1f6fd2eb2ae";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-transform-react-remove-prop-types";
   inputs.packument.flake = false;
 
   outputs = inputs: let

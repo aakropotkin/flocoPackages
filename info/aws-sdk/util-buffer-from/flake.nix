@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-buffer-from?rev=68-dfcd0472c128a2c84a47135f6df3c07e";
+  inputs.packument.url   = "https://registry.npmjs.org/@aws-sdk/util-buffer-from";
   inputs.packument.flake = false;
 
   outputs = inputs: let

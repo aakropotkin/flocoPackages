@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es-module-lexer?rev=56-f3b6c92a3a197096fea7badaeb1ae1d9";
+  inputs.packument.url   = "https://registry.npmjs.org/es-module-lexer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

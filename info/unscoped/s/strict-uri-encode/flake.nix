@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/strict-uri-encode?rev=7-51d13673360768db50f60ab1d632fb88";
+  inputs.packument.url   = "https://registry.npmjs.org/strict-uri-encode";
   inputs.packument.flake = false;
 
   outputs = inputs: let

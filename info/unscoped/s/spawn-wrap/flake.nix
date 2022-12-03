@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/spawn-wrap?rev=48-3ed1edcd458406eda04280b9edd608d2";
+  inputs.packument.url   = "https://registry.npmjs.org/spawn-wrap";
   inputs.packument.flake = false;
 
   outputs = inputs: let

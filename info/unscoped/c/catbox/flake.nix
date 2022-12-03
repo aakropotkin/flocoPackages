@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/catbox?rev=244-f80999a0e8b51d06f5548065df1c1639";
+  inputs.packument.url   = "https://registry.npmjs.org/catbox";
   inputs.packument.flake = false;
 
   outputs = inputs: let

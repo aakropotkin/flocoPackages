@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/hast-util-whitespace?rev=12-1b8fa048dff7a02412464e8922485a19";
+  inputs.packument.url   = "https://registry.npmjs.org/hast-util-whitespace";
   inputs.packument.flake = false;
 
   outputs = inputs: let

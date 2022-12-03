@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@angular/platform-browser-dynamic?rev=690-f9febc20c08ffc865bcc0dc9d89a493a";
+  inputs.packument.url   = "https://registry.npmjs.org/@angular/platform-browser-dynamic";
   inputs.packument.flake = false;
 
   outputs = inputs: let

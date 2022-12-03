@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/svg-tags?rev=7-86081ca829121c126db90c0b93a94c45";
+  inputs.packument.url   = "https://registry.npmjs.org/svg-tags";
   inputs.packument.flake = false;
 
   outputs = inputs: let

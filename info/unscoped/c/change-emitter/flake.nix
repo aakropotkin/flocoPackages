@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/change-emitter?rev=11-2902b8af08c73bff9a1ca6410a074af1";
+  inputs.packument.url   = "https://registry.npmjs.org/change-emitter";
   inputs.packument.flake = false;
 
   outputs = inputs: let

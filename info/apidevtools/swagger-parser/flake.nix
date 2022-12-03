@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/swagger-parser?rev=11-32fa919e9a44b5145cd3821d33d8ae5e";
+  inputs.packument.url   = "https://registry.npmjs.org/@apidevtools/swagger-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

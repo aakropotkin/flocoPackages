@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-gap-properties?rev=9-32fca374f4094fef7f1ea8401363501d";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-gap-properties";
   inputs.packument.flake = false;
 
   outputs = inputs: let

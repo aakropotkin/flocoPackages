@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/convert-source-map?rev=69-3e784a91a355b69a883ab9385c3257bb";
+  inputs.packument.url   = "https://registry.npmjs.org/convert-source-map";
   inputs.packument.flake = false;
 
   outputs = inputs: let

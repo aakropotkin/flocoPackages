@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@icons/material?rev=14-3f386ddc210c2a1ab25cc741a9653c17";
+  inputs.packument.url   = "https://registry.npmjs.org/@icons/material";
   inputs.packument.flake = false;
 
   outputs = inputs: let

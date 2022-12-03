@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/eazy-logger?rev=40-2a7ee4a428fb930f76434dccb297fb5b";
+  inputs.packument.url   = "https://registry.npmjs.org/eazy-logger";
   inputs.packument.flake = false;
 
   outputs = inputs: let

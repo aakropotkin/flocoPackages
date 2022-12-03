@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/process-nextick-args?rev=16-ec16db120748320a07e76e5ede14ae0d";
+  inputs.packument.url   = "https://registry.npmjs.org/process-nextick-args";
   inputs.packument.flake = false;
 
   outputs = inputs: let

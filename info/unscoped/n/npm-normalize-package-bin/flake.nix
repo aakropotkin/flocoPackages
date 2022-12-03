@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/npm-normalize-package-bin?rev=22-3f46c82d2527feee402d8f8ca2aabd14";
+  inputs.packument.url   = "https://registry.npmjs.org/npm-normalize-package-bin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

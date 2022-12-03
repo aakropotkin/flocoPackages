@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/adal-node?rev=53-d6d2f2be3364946855338173e5bd19bb";
+  inputs.packument.url   = "https://registry.npmjs.org/adal-node";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dtrace-provider?rev=88-526f62cc3fe7f36366ac98eea5f7f5a8";
+  inputs.packument.url   = "https://registry.npmjs.org/dtrace-provider";
   inputs.packument.flake = false;
 
   outputs = inputs: let

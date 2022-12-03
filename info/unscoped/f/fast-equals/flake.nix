@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fast-equals?rev=41-0dd2c214cd4e7c25c45fa59a8912ff5f";
+  inputs.packument.url   = "https://registry.npmjs.org/fast-equals";
   inputs.packument.flake = false;
 
   outputs = inputs: let

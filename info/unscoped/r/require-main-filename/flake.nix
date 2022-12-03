@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/require-main-filename?rev=6-4bc1b3c7658156e5bd206b0c1010f54b";
+  inputs.packument.url   = "https://registry.npmjs.org/require-main-filename";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/recompose?rev=88-18ba45b23f305439c88c3521d1f49dc3";
+  inputs.packument.url   = "https://registry.npmjs.org/recompose";
   inputs.packument.flake = false;
 
   outputs = inputs: let

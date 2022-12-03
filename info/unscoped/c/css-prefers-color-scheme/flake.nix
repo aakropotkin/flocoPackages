@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/css-prefers-color-scheme?rev=14-2df5a587ff06210ae0a4e2b532039792";
+  inputs.packument.url   = "https://registry.npmjs.org/css-prefers-color-scheme";
   inputs.packument.flake = false;
 
   outputs = inputs: let

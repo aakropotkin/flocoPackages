@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/command-exists?rev=27-eb26943c48699c17b302c2c0f592cd49";
+  inputs.packument.url   = "https://registry.npmjs.org/command-exists";
   inputs.packument.flake = false;
 
   outputs = inputs: let

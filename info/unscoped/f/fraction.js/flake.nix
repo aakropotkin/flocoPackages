@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fraction.js?rev=58-40c3264395787ab143b1899f9a0ac0e6";
+  inputs.packument.url   = "https://registry.npmjs.org/fraction.js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sqlite3?rev=327-dba15df13201c0c34e5b5cda0905d411";
+  inputs.packument.url   = "https://registry.npmjs.org/sqlite3";
   inputs.packument.flake = false;
 
   outputs = inputs: let

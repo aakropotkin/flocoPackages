@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/broccoli-output-wrapper?rev=12-2fa7bf6c82539edb45b6b4ce2179ed4b";
+  inputs.packument.url   = "https://registry.npmjs.org/broccoli-output-wrapper";
   inputs.packument.flake = false;
 
   outputs = inputs: let

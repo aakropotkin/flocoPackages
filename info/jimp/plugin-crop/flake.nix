@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-crop?rev=135-59d1191a549413b98cdaf12fcbc0f1ed";
+  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-crop";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/msal-browser?rev=61-64da386318784a42f5d135edd793ed05";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/msal-browser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

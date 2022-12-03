@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@blueprintjs/icons?rev=94-fa354a02431f6204905f17f834162c68";
+  inputs.packument.url   = "https://registry.npmjs.org/@blueprintjs/icons";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/inflection?rev=107-1996d233f176840bdb77634452e031bc";
+  inputs.packument.url   = "https://registry.npmjs.org/inflection";
   inputs.packument.flake = false;
 
   outputs = inputs: let

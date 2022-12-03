@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/async?rev=967-82086377260822ab21c4af99ef328ce8";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/async";
   inputs.packument.flake = false;
 
   outputs = inputs: let

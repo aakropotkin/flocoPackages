@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/cached-path-relative?rev=7-6d61120964eeabf1cf372108a0dfa821";
+  inputs.packument.url   = "https://registry.npmjs.org/cached-path-relative";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-normalize-display-values?rev=2-ad361d3ff26cf7b2b84d1118b25e888d";
+  inputs.packument.url   = "https://registry.npmjs.org/@csstools/postcss-normalize-display-values";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-font-variant?rev=21-76d4e84a6e6f17c24c6e0a6c4c42b6e7";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-font-variant";
   inputs.packument.flake = false;
 
   outputs = inputs: let

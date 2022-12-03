@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/smart-buffer?rev=43-fbd74e056a4cd20f7dfc22d3d32058db";
+  inputs.packument.url   = "https://registry.npmjs.org/smart-buffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

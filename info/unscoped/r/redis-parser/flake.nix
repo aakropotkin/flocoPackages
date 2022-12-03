@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/redis-parser?rev=28-a5c54f5a01422bea034fa315333a2758";
+  inputs.packument.url   = "https://registry.npmjs.org/redis-parser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

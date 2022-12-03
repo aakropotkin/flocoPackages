@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-lifecycles-compat?rev=34-5c51336806461389a4ff7997455b84f7";
+  inputs.packument.url   = "https://registry.npmjs.org/react-lifecycles-compat";
   inputs.packument.flake = false;
 
   outputs = inputs: let

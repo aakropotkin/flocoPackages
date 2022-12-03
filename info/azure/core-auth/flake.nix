@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-auth?rev=153-acf2e63d53c004f4292dbf593be77f23";
+  inputs.packument.url   = "https://registry.npmjs.org/@azure/core-auth";
   inputs.packument.flake = false;
 
   outputs = inputs: let

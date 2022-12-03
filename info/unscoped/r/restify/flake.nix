@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/restify?rev=607-5a081c9ee9b4230dce9bf3ed9bac2169";
+  inputs.packument.url   = "https://registry.npmjs.org/restify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

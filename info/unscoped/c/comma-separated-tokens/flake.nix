@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/comma-separated-tokens?rev=15-b28b79544ffcbad2b3c09367d6c75257";
+  inputs.packument.url   = "https://registry.npmjs.org/comma-separated-tokens";
   inputs.packument.flake = false;
 
   outputs = inputs: let

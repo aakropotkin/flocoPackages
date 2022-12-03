@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-scale?rev=128-f5395231ffd21152b39e9f5344db6564";
+  inputs.packument.url   = "https://registry.npmjs.org/@jimp/plugin-scale";
   inputs.packument.flake = false;
 
   outputs = inputs: let

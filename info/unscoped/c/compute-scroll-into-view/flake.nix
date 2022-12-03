@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/compute-scroll-into-view?rev=21-31fa611e708b15d9fe4aa02e14eefbb7";
+  inputs.packument.url   = "https://registry.npmjs.org/compute-scroll-into-view";
   inputs.packument.flake = false;
 
   outputs = inputs: let

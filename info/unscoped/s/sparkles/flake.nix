@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/sparkles?rev=21-8614ab3defe109b146ec2e027d7cf981";
+  inputs.packument.url   = "https://registry.npmjs.org/sparkles";
   inputs.packument.flake = false;
 
   outputs = inputs: let

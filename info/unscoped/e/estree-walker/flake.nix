@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/estree-walker?rev=29-000b93145b1ba60fd29aef088b975159";
+  inputs.packument.url   = "https://registry.npmjs.org/estree-walker";
   inputs.packument.flake = false;
 
   outputs = inputs: let

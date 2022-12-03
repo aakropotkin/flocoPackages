@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/public-encrypt?rev=29-9a3a671379482c9e8896d40b8d9e2ceb";
+  inputs.packument.url   = "https://registry.npmjs.org/public-encrypt";
   inputs.packument.flake = false;
 
   outputs = inputs: let

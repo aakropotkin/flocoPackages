@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/broccoli-merge-trees?rev=51-e403697fdb692eea5f468c8dee5ad027";
+  inputs.packument.url   = "https://registry.npmjs.org/broccoli-merge-trees";
   inputs.packument.flake = false;
 
   outputs = inputs: let

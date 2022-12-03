@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/create-react-class?rev=65-e5d20f0778489758119cd90215cb9afc";
+  inputs.packument.url   = "https://registry.npmjs.org/create-react-class";
   inputs.packument.flake = false;
 
   outputs = inputs: let

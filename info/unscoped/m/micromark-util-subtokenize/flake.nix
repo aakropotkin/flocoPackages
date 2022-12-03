@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/micromark-util-subtokenize?rev=8-549933bca524e7b00e5a7aacc239a180";
+  inputs.packument.url   = "https://registry.npmjs.org/micromark-util-subtokenize";
   inputs.packument.flake = false;
 
   outputs = inputs: let

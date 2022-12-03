@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-match?rev=31-9a91149c43043e05caae3546f80dc307";
+  inputs.packument.url   = "https://registry.npmjs.org/gulp-match";
   inputs.packument.flake = false;
 
   outputs = inputs: let

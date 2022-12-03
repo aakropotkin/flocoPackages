@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/normalize-wheel?rev=5-e1a8e11ef131beeee962d4afd78120b0";
+  inputs.packument.url   = "https://registry.npmjs.org/normalize-wheel";
   inputs.packument.flake = false;
 
   outputs = inputs: let

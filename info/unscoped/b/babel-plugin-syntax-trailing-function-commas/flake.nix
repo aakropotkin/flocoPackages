@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas?rev=69-86de081dc3d4639c8e2818ab0c0380d4";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas";
   inputs.packument.flake = false;
 
   outputs = inputs: let

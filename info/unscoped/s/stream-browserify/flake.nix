@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stream-browserify?rev=51-57f2398f2c6c4f64d394e1a770e5c7ae";
+  inputs.packument.url   = "https://registry.npmjs.org/stream-browserify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

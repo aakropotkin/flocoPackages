@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-addons-shallow-compare?rev=114-4fc6d4e5432aa24a7a6ff0d667f41123";
+  inputs.packument.url   = "https://registry.npmjs.org/react-addons-shallow-compare";
   inputs.packument.flake = false;
 
   outputs = inputs: let

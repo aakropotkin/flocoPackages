@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/koa-bodyparser?rev=86-f8290278f364f5648ea2c7ad4cf41d9e";
+  inputs.packument.url   = "https://registry.npmjs.org/koa-bodyparser";
   inputs.packument.flake = false;
 
   outputs = inputs: let

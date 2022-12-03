@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-member-expression-to-functions?rev=61-c0174d4bba0c0fd6fea2a901f0c34e1b";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-member-expression-to-functions";
   inputs.packument.flake = false;
 
   outputs = inputs: let

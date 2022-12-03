@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/istanbul-lib-coverage?rev=48-bd09f8ad90fcc9dd14518aefce3c4277";
+  inputs.packument.url   = "https://registry.npmjs.org/istanbul-lib-coverage";
   inputs.packument.flake = false;
 
   outputs = inputs: let

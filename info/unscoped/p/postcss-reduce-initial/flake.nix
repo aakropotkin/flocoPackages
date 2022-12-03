@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-reduce-initial?rev=43-e879ec26faba8eccb803cf381336ddfd";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-reduce-initial";
   inputs.packument.flake = false;
 
   outputs = inputs: let

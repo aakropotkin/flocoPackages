@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/shallow-copy?rev=11-0faa27d67729f18c72580d461ece8555";
+  inputs.packument.url   = "https://registry.npmjs.org/shallow-copy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

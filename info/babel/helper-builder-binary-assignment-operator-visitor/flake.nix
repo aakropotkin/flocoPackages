@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-builder-binary-assignment-operator-visitor?rev=89-cb7df02388f5393e1d2329784f8ef5f9";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/helper-builder-binary-assignment-operator-visitor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

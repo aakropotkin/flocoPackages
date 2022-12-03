@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-service-node-management?rev=178-23c744bb520b34365fbac832bd5d18b7";
+  inputs.packument.url   = "https://registry.npmjs.org/node-opcua-service-node-management";
   inputs.packument.flake = false;
 
   outputs = inputs: let

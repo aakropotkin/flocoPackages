@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/streamroller?rev=62-7056aa7b1f2b30b562b41484b405afe0";
+  inputs.packument.url   = "https://registry.npmjs.org/streamroller";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@angular/compiler?rev=693-f0934b2b3576aa217ecff2bacb60e2b3";
+  inputs.packument.url   = "https://registry.npmjs.org/@angular/compiler";
   inputs.packument.flake = false;
 
   outputs = inputs: let

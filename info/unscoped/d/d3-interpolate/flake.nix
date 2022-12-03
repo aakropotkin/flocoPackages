@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/d3-interpolate?rev=51-041e131e633fbc0fa71c18bbc2ed1a4f";
+  inputs.packument.url   = "https://registry.npmjs.org/d3-interpolate";
   inputs.packument.flake = false;
 
   outputs = inputs: let

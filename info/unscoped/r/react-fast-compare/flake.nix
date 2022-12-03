@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-fast-compare?rev=71-6c5b8bcc138c27254b32ea2da8ab836b";
+  inputs.packument.url   = "https://registry.npmjs.org/react-fast-compare";
   inputs.packument.flake = false;
 
   outputs = inputs: let

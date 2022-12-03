@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/multicodec?rev=61-ee5707633efd03ee77eff7cefc881722";
+  inputs.packument.url   = "https://registry.npmjs.org/multicodec";
   inputs.packument.flake = false;
 
   outputs = inputs: let

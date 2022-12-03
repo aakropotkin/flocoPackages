@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/xmlhttprequest-ssl?rev=16-2b5428d7bd3e6abc9cc9ad6be7ef397b";
+  inputs.packument.url   = "https://registry.npmjs.org/xmlhttprequest-ssl";
   inputs.packument.flake = false;
 
   outputs = inputs: let

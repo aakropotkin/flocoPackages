@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-unicode-regex?rev=81-1c71354af000985398e2880e0b34c2aa";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-unicode-regex";
   inputs.packument.flake = false;
 
   outputs = inputs: let

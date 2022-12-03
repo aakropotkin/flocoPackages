@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@material-ui/icons?rev=76-bed3f36a9a22979f4562195d2eec5e5a";
+  inputs.packument.url   = "https://registry.npmjs.org/@material-ui/icons";
   inputs.packument.flake = false;
 
   outputs = inputs: let

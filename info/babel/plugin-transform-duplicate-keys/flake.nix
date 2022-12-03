@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-duplicate-keys?rev=81-6a70490b56f58b37ff8f20f8b8d6a72f";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-transform-duplicate-keys";
   inputs.packument.flake = false;
 
   outputs = inputs: let

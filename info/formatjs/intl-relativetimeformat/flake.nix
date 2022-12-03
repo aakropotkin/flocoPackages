@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/intl-relativetimeformat?rev=160-af16fe38446f7c9652557a0c9d08f851";
+  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/intl-relativetimeformat";
   inputs.packument.flake = false;
 
   outputs = inputs: let

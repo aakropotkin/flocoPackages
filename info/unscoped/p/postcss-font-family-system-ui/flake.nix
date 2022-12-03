@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-font-family-system-ui?rev=24-3de5e3ce2e70855b0edb339e1f0f23dd";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-font-family-system-ui";
   inputs.packument.flake = false;
 
   outputs = inputs: let

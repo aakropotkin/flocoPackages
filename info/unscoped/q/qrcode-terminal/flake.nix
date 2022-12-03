@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/qrcode-terminal?rev=70-719c8cc9b010381938b4b6e78b5c3b5c";
+  inputs.packument.url   = "https://registry.npmjs.org/qrcode-terminal";
   inputs.packument.flake = false;
 
   outputs = inputs: let

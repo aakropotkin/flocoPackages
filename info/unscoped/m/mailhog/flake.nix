@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/mailhog?rev=32-4b20981b780f76ee4834cd2640658f73";
+  inputs.packument.url   = "https://registry.npmjs.org/mailhog";
   inputs.packument.flake = false;
 
   outputs = inputs: let

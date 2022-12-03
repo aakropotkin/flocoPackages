@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/html-minifier?rev=233-757468d7422a16d9f6e589ea14f80ab7";
+  inputs.packument.url   = "https://registry.npmjs.org/html-minifier";
   inputs.packument.flake = false;
 
   outputs = inputs: let

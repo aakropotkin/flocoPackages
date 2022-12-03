@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fast-json-patch?rev=86-edbb42b61d7c847dc2116af407d7d54a";
+  inputs.packument.url   = "https://registry.npmjs.org/fast-json-patch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

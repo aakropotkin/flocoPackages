@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/web3-core-method?rev=141-da069fd86b6575d38eda18d66a06cc15";
+  inputs.packument.url   = "https://registry.npmjs.org/web3-core-method";
   inputs.packument.flake = false;
 
   outputs = inputs: let

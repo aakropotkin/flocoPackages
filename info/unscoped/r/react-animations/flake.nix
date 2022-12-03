@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-animations?rev=70-31841916ceb3beaf24e84859045a05fe";
+  inputs.packument.url   = "https://registry.npmjs.org/react-animations";
   inputs.packument.flake = false;
 
   outputs = inputs: let

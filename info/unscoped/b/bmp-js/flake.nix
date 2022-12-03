@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bmp-js?rev=9-af07f6a7ff712204a552ee5e951886bf";
+  inputs.packument.url   = "https://registry.npmjs.org/bmp-js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

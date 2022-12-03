@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/topo?rev=95-c4fdbc69829442797bcb0e6c7abd838c";
+  inputs.packument.url   = "https://registry.npmjs.org/topo";
   inputs.packument.flake = false;
 
   outputs = inputs: let

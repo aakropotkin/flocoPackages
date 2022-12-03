@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@lumino/dragdrop?rev=47-c480d241bc10b73c2b677bc7a4197ba1";
+  inputs.packument.url   = "https://registry.npmjs.org/@lumino/dragdrop";
   inputs.packument.flake = false;
 
   outputs = inputs: let

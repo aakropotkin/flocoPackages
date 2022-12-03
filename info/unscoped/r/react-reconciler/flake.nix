@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-reconciler?rev=1176-56a37f3b7f93ffc5f7ec9e311b5d44cb";
+  inputs.packument.url   = "https://registry.npmjs.org/react-reconciler";
   inputs.packument.flake = false;
 
   outputs = inputs: let

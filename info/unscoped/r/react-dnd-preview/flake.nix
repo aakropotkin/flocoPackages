@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/react-dnd-preview?rev=51-de3c51b2d35e7559d166222359d175e4";
+  inputs.packument.url   = "https://registry.npmjs.org/react-dnd-preview";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/growly?rev=14-e56477d69fa3063cb037a937279cbf24";
+  inputs.packument.url   = "https://registry.npmjs.org/growly";
   inputs.packument.flake = false;
 
   outputs = inputs: let

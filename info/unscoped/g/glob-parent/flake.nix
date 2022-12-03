@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/glob-parent?rev=31-eccf3d3649d022693e14e669078ed9b0";
+  inputs.packument.url   = "https://registry.npmjs.org/glob-parent";
   inputs.packument.flake = false;
 
   outputs = inputs: let

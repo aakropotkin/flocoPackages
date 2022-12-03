@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ipaddr.js?rev=68-4929e57dfc91a756b6d3a03a320d51af";
+  inputs.packument.url   = "https://registry.npmjs.org/ipaddr.js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

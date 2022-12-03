@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/restore-cursor?rev=10-eeee4a142e29943b215ec59b7e8d0149";
+  inputs.packument.url   = "https://registry.npmjs.org/restore-cursor";
   inputs.packument.flake = false;
 
   outputs = inputs: let

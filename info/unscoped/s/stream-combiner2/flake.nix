@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/stream-combiner2?rev=26-97d40ef60f1651d95636d072f6ddcb0a";
+  inputs.packument.url   = "https://registry.npmjs.org/stream-combiner2";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-class-static-block?rev=15-40c1ce2a1c8f19a01198535a6cef187c";
+  inputs.packument.url   = "https://registry.npmjs.org/@babel/plugin-proposal-class-static-block";
   inputs.packument.flake = false;
 
   outputs = inputs: let

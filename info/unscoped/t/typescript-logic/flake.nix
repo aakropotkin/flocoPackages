@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/typescript-logic?rev=1-32cf322224e02a3021a7ff70279fa627";
+  inputs.packument.url   = "https://registry.npmjs.org/typescript-logic";
   inputs.packument.flake = false;
 
   outputs = inputs: let

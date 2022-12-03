@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-macros?rev=49-731ca72265f5f237c472486f542211e0";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-macros";
   inputs.packument.flake = false;
 
   outputs = inputs: let

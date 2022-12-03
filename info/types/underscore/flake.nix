@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/underscore?rev=1130-6c02b078364e16ba94817a43869534f4";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/underscore";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gulp-imagemin?rev=498-2fc80e762ab2002b6d1f5f0fd729fc97";
+  inputs.packument.url   = "https://registry.npmjs.org/gulp-imagemin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

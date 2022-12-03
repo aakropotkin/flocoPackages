@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/gaxios?rev=69-35eeb3fa35952675181f7ee5f24b6e05";
+  inputs.packument.url   = "https://registry.npmjs.org/gaxios";
   inputs.packument.flake = false;
 
   outputs = inputs: let

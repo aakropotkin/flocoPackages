@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/dockerode?rev=195-5b335b92700c0e8b25cdaa0bb6bd1950";
+  inputs.packument.url   = "https://registry.npmjs.org/dockerode";
   inputs.packument.flake = false;
 
   outputs = inputs: let

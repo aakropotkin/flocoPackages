@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/infer-owner?rev=24-aa12fb9dc1b5f1d984e0ebf20a581e46";
+  inputs.packument.url   = "https://registry.npmjs.org/infer-owner";
   inputs.packument.flake = false;
 
   outputs = inputs: let

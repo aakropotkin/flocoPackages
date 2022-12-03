@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/workbox-webpack-plugin?rev=114-0f7705a42e100062b806077e6bf00882";
+  inputs.packument.url   = "https://registry.npmjs.org/workbox-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

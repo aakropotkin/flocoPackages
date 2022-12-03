@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-double-position-gradients?rev=12-f65ee3041ea8bb2d9139721cd3177787";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-double-position-gradients";
   inputs.packument.flake = false;
 
   outputs = inputs: let

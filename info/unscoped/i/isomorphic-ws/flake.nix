@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/isomorphic-ws?rev=12-20f4a618aace1343c92cc6f83f01adb3";
+  inputs.packument.url   = "https://registry.npmjs.org/isomorphic-ws";
   inputs.packument.flake = false;
 
   outputs = inputs: let

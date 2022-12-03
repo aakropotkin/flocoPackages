@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@rushstack/eslint-patch?rev=101-0da0082005cb9ae5b140345e905c8835";
+  inputs.packument.url   = "https://registry.npmjs.org/@rushstack/eslint-patch";
   inputs.packument.flake = false;
 
   outputs = inputs: let

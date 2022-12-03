@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@techteamer/ocsp?rev=2-118fe4cf14a0ccdd509b49bd95ee15ac";
+  inputs.packument.url   = "https://registry.npmjs.org/@techteamer/ocsp";
   inputs.packument.flake = false;
 
   outputs = inputs: let

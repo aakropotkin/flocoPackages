@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@fortawesome/fontawesome-free?rev=76-96348f95a0d43cbe34cb296fdfcf2ebc";
+  inputs.packument.url   = "https://registry.npmjs.org/@fortawesome/fontawesome-free";
   inputs.packument.flake = false;
 
   outputs = inputs: let

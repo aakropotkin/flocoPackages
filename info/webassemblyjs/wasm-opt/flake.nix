@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/wasm-opt?rev=58-5c89069beb6503eb4f1cc1439016565b";
+  inputs.packument.url   = "https://registry.npmjs.org/@webassemblyjs/wasm-opt";
   inputs.packument.flake = false;
 
   outputs = inputs: let

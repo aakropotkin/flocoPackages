@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/type-detect?rev=34-ddab0193ddf389d1659859563b8fe6ac";
+  inputs.packument.url   = "https://registry.npmjs.org/type-detect";
   inputs.packument.flake = false;
 
   outputs = inputs: let

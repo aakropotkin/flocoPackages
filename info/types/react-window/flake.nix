@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/react-window?rev=396-f8f4764cba4475c031bfae127441fed8";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/react-window";
   inputs.packument.flake = false;
 
   outputs = inputs: let

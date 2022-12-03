@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/intl-utils?rev=66-e7560588f42edf8fce00c193ea7cd29b";
+  inputs.packument.url   = "https://registry.npmjs.org/@formatjs/intl-utils";
   inputs.packument.flake = false;
 
   outputs = inputs: let

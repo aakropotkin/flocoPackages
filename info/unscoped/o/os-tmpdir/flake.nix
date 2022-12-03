@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/os-tmpdir?rev=9-61d2547d5efae4aff2634f42063a2fa7";
+  inputs.packument.url   = "https://registry.npmjs.org/os-tmpdir";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/flush-write-stream?rev=11-434caea983d64f54886ad1a954d4e1ec";
+  inputs.packument.url   = "https://registry.npmjs.org/flush-write-stream";
   inputs.packument.flake = false;
 
   outputs = inputs: let

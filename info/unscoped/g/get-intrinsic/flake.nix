@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/get-intrinsic?rev=7-6de4c8a958f2bf5779c1b08506ea1784";
+  inputs.packument.url   = "https://registry.npmjs.org/get-intrinsic";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/string-convert?rev=8-956c60ffbd5940e510618f6839bdc8cf";
+  inputs.packument.url   = "https://registry.npmjs.org/string-convert";
   inputs.packument.flake = false;
 
   outputs = inputs: let

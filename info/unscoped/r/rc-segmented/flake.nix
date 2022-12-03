@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-segmented?rev=9-dd52a99632132231738915c07dae5a1a";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-segmented";
   inputs.packument.flake = false;
 
   outputs = inputs: let

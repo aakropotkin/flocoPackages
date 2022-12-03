@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-virtual-list?rev=90-8d77fd0eec5a2860925dc0c22e1c258d";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-virtual-list";
   inputs.packument.flake = false;
 
   outputs = inputs: let

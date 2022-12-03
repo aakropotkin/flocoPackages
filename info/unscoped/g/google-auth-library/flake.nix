@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/google-auth-library?rev=173-ac54959b93c150a52eaf463d2df5f721";
+  inputs.packument.url   = "https://registry.npmjs.org/google-auth-library";
   inputs.packument.flake = false;
 
   outputs = inputs: let

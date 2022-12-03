@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/memory-cache?rev=94-8a32058a5240dafc3996ee719ac25e79";
+  inputs.packument.url   = "https://registry.npmjs.org/memory-cache";
   inputs.packument.flake = false;
 
   outputs = inputs: let

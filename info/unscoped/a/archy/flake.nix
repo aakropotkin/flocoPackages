@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/archy?rev=38-1d9c23e19f2f61ab128f00b3aafda169";
+  inputs.packument.url   = "https://registry.npmjs.org/archy";
   inputs.packument.flake = false;
 
   outputs = inputs: let

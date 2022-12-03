@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/ci-detect?rev=26-b67c4c956c3febb7b55abcae21186741";
+  inputs.packument.url   = "https://registry.npmjs.org/@npmcli/ci-detect";
   inputs.packument.flake = false;
 
   outputs = inputs: let

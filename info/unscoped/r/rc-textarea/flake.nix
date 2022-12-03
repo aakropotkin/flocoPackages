@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/rc-textarea?rev=21-b56d2a93c0e2f57d14809d3faa29dc23";
+  inputs.packument.url   = "https://registry.npmjs.org/rc-textarea";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/tildify?rev=28-1856a3085fb0a3f44a307d865d6e7896";
+  inputs.packument.url   = "https://registry.npmjs.org/tildify";
   inputs.packument.flake = false;
 
   outputs = inputs: let

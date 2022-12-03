@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/basic-auth?rev=72-20da757bf56e9b21d9362357332c2915";
+  inputs.packument.url   = "https://registry.npmjs.org/basic-auth";
   inputs.packument.flake = false;
 
   outputs = inputs: let

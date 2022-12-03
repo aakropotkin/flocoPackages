@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/yaeti?rev=13-6be2c1295102a3242144d6106bc2bdde";
+  inputs.packument.url   = "https://registry.npmjs.org/yaeti";
   inputs.packument.flake = false;
 
   outputs = inputs: let

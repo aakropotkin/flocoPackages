@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vue-hot-reload-api?rev=44-30ea99a4d96242d5d80497d9ac1e1eae";
+  inputs.packument.url   = "https://registry.npmjs.org/vue-hot-reload-api";
   inputs.packument.flake = false;
 
   outputs = inputs: let

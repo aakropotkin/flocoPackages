@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/split.js?rev=327-667d6ca2600dcf581a556467788f0779";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/split.js";
   inputs.packument.flake = false;
 
   outputs = inputs: let

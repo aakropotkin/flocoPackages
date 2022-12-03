@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/css-minimizer-webpack-plugin?rev=31-dcdffa8f19cc8a76cd42c47800aff5e8";
+  inputs.packument.url   = "https://registry.npmjs.org/css-minimizer-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

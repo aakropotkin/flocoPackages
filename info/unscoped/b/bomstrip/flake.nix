@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/bomstrip?rev=12-04cc1a25fd528b370e080e77941988db";
+  inputs.packument.url   = "https://registry.npmjs.org/bomstrip";
   inputs.packument.flake = false;
 
   outputs = inputs: let

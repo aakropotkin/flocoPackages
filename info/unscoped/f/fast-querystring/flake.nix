@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fast-querystring?rev=16-225b478e7eaa887650b8fa9b0de6fc5a";
+  inputs.packument.url   = "https://registry.npmjs.org/fast-querystring";
   inputs.packument.flake = false;
 
   outputs = inputs: let

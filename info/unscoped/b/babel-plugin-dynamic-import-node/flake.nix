@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-dynamic-import-node?rev=31-18f72049e5b9d089afd3e4711aa5d04d";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-plugin-dynamic-import-node";
   inputs.packument.flake = false;
 
   outputs = inputs: let

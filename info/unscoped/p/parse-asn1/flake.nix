@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/parse-asn1?rev=42-d45f6747bc14c3069061e56f8bedbe76";
+  inputs.packument.url   = "https://registry.npmjs.org/parse-asn1";
   inputs.packument.flake = false;
 
   outputs = inputs: let

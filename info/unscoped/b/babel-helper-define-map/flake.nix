@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-define-map?rev=103-30b2ca3af88692b64b2a66afc15afca3";
+  inputs.packument.url   = "https://registry.npmjs.org/babel-helper-define-map";
   inputs.packument.flake = false;
 
   outputs = inputs: let

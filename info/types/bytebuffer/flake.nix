@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/bytebuffer?rev=689-cdc731c859e19f77ac28439897aa4fbe";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/bytebuffer";
   inputs.packument.flake = false;
 
   outputs = inputs: let

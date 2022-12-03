@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/portscanner?rev=53-891b72007d1364034970673ba25dde51";
+  inputs.packument.url   = "https://registry.npmjs.org/portscanner";
   inputs.packument.flake = false;
 
   outputs = inputs: let

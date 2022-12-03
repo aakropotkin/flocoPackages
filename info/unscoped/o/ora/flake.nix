@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/ora?rev=272-6e768e85ff04fa885b4cc544b74cc5e9";
+  inputs.packument.url   = "https://registry.npmjs.org/ora";
   inputs.packument.flake = false;
 
   outputs = inputs: let

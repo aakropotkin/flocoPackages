@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es6-map?rev=22-4c0bc463d2328cae400a5e745e2f1fee";
+  inputs.packument.url   = "https://registry.npmjs.org/es6-map";
   inputs.packument.flake = false;
 
   outputs = inputs: let

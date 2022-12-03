@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/signaling?rev=28-b542fb73416ffd49883b28e202255420";
+  inputs.packument.url   = "https://registry.npmjs.org/@phosphor/signaling";
   inputs.packument.flake = false;
 
   outputs = inputs: let

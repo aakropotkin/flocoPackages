@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/vue-loader?rev=399-b27e650a40ce3401848efc664ab8db48";
+  inputs.packument.url   = "https://registry.npmjs.org/vue-loader";
   inputs.packument.flake = false;
 
   outputs = inputs: let

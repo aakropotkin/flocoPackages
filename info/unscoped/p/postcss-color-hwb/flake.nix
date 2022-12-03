@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-color-hwb?rev=12-79015230708fdfdfe381e706bb0de359";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-color-hwb";
   inputs.packument.flake = false;
 
   outputs = inputs: let

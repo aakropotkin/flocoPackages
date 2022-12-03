@@ -3,13 +3,13 @@
     "packument": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-ltSM6fiBSykNQVrVcwnyASLUCD4opELx7mAlE42Hdjg=",
+        "narHash": "sha256-/rj98T/4tO6t86CFaoz0laDWube3HwhSGaWEbsZQTQU=",
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/querystring-parser?rev=107-c596aff44f583df5404a8fe4c2c8a5ca"
+        "url": "https://registry.npmjs.org/@aws-sdk/querystring-parser"
       },
       "original": {
         "type": "file",
-        "url": "https://registry.npmjs.org/@aws-sdk/querystring-parser?rev=107-c596aff44f583df5404a8fe4c2c8a5ca"
+        "url": "https://registry.npmjs.org/@aws-sdk/querystring-parser"
       }
     },
     "root": {

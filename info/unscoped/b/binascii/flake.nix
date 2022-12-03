@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/binascii?rev=5-3912b406869fc707fad9630acad496e8";
+  inputs.packument.url   = "https://registry.npmjs.org/binascii";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@google-cloud/paginator?rev=30-42e4185c57c3ca7918c59c73ff3acebe";
+  inputs.packument.url   = "https://registry.npmjs.org/@google-cloud/paginator";
   inputs.packument.flake = false;
 
   outputs = inputs: let

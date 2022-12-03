@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-brush?rev=625-de895eba814738ba1584b27d8aed53e1";
+  inputs.packument.url   = "https://registry.npmjs.org/@types/d3-brush";
   inputs.packument.flake = false;
 
   outputs = inputs: let

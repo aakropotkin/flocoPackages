@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fs.realpath?rev=6-2cb5833b87aae96acb52624eb3ef2f09";
+  inputs.packument.url   = "https://registry.npmjs.org/fs.realpath";
   inputs.packument.flake = false;
 
   outputs = inputs: let

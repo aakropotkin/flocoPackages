@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/pretty-hrtime?rev=33-8915f06aebf25e3ff1a6ecb59887dbcb";
+  inputs.packument.url   = "https://registry.npmjs.org/pretty-hrtime";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/fork-ts-checker-webpack-plugin?rev=233-74f34999329c38477913dcb2a2bfaf4e";
+  inputs.packument.url   = "https://registry.npmjs.org/fork-ts-checker-webpack-plugin";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/metro-cache?rev=106-2708e7915ed5c5ccc02339b231da6aff";
+  inputs.packument.url   = "https://registry.npmjs.org/metro-cache";
   inputs.packument.flake = false;
 
   outputs = inputs: let

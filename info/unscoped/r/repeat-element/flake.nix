@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/repeat-element?rev=11-e1eb3344b23dbe538811c99906d2053b";
+  inputs.packument.url   = "https://registry.npmjs.org/repeat-element";
   inputs.packument.flake = false;
 
   outputs = inputs: let

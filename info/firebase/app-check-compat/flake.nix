@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@firebase/app-check-compat?rev=493-54ab889522d682ed4a6ec8e7d0457494";
+  inputs.packument.url   = "https://registry.npmjs.org/@firebase/app-check-compat";
   inputs.packument.flake = false;
 
   outputs = inputs: let

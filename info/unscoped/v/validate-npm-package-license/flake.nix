@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/validate-npm-package-license?rev=15-ef8ad68439745c7d70a6cd784c9194c8";
+  inputs.packument.url   = "https://registry.npmjs.org/validate-npm-package-license";
   inputs.packument.flake = false;
 
   outputs = inputs: let

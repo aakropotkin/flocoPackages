@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/postcss-normalize-charset?rev=41-8e15e0b1618be64c1b11036d8962a74f";
+  inputs.packument.url   = "https://registry.npmjs.org/postcss-normalize-charset";
   inputs.packument.flake = false;
 
   outputs = inputs: let

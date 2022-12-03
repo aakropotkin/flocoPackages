@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/@netflix/nerror?rev=10-1f3c67c6f09facb4da591264021ec2ff";
+  inputs.packument.url   = "https://registry.npmjs.org/@netflix/nerror";
   inputs.packument.flake = false;
 
   outputs = inputs: let

@@ -1,6 +1,6 @@
 {
 
-  inputs.packument.url   = "https://registry.npmjs.org/es-array-method-boxes-properly?rev=1-a92c835260f5a6db56ddeeba519af85b";
+  inputs.packument.url   = "https://registry.npmjs.org/es-array-method-boxes-properly";
   inputs.packument.flake = false;
 
   outputs = inputs: let
