@@ -234,7 +234,7 @@ in {
     # Add any explicit defs here.
 
     "esbuild/0.14.54" = import ./unscoped/e/esbuild/pkg-fun.nix {
-      inherit (final) lib stdenv evalScripts;
+      inherit (final) lib stdenv evalScripts runCommandNoCC pjsUtil;
       version = "0.14.54";
     };
 

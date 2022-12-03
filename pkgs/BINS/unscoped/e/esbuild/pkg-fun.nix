@@ -1,6 +1,8 @@
 { lib
 , stdenv
 , evalScripts
+, runCommandNoCC
+, pjsUtil
 , version
 }: let
 
@@ -35,7 +37,8 @@
       } )
     ( fetched: {
         _type = "pkgEnt:source";
-        inherit (fetched) ident version key ltype outPath;
+        key = fetched.ident + "/" + fetched.version;
+        inherit (fetched) ident version ltype outPath;
         source   = fetched;
         passthru = let
           pjs = lib.importJSON ( fetched.outPath + "/package.json" );
@@ -48,14 +51,18 @@
             pjsDir  = fetched.outPath;
           };
         in {
-          metaEnt = metaEnt.__serial;
+          metaEnt = metaEnt.__serial // {
+            inherit (fetched) fetchInfo;
+          };
           inherit (metaEnt) names;
         };
       } )
   ];
 
   sysPkg = mkPkg { ident = sysPkgName; fetchInfo = sysFetchInfo; };
-  pkg    = ( mkPkg { ident = "esbuild"; inherit fetchInfo; } ) // {
+  pkg    = let
+    prev = mkPkg { ident = "esbuild"; inherit fetchInfo; };
+  in prev // {
     _type     = "pkgEnt";
     installed = evalScripts {
       name  = pkg.passthru.names.installed;
@@ -69,17 +76,36 @@
         mkdir -p "$node_modules_path";
         cp -r --reflink=auto -- "$esbuildSysPkg"                          \
                                 "$node_modules_path/$esbuildSysPkgName";
-        chmod +x "$node_modules_path/$esbuildSysPkgName/bin/esbuild";
         chmod +w "$node_modules_path/$esbuildSysPkgName"       \
                  "$node_modules_path/$esbuildSysPkgName/bin";
+        chmod +x "$node_modules_path/$esbuildSysPkgName/bin/esbuild";
       '';
-      runScripts = ["postinstall"];
+      runScripts      = ["postinstall"];
       dontRemoveNmDir = true;
       # FIXME: meta.supportedSystems
       passthru.pkgSet.${sysPkg.key} = sysPkg;
+      # Asserts that we can run `esbuild --version;' when installing the module.
+      # This is harder than the `global' install case because we're bundling
+      # the native deps but we haven't reported that in any metadata.
+      passthru.test.runVersion = let
+        name = pkg.passthru.names.genName "test-version";
+      in runCommandNoCC name {
+        nativeBuildInputs = [pjsUtil];
+        esbuildModule = pkg.outPath;
+      } ''
+        set -euv;
+        export node_modules_path="$PWD/node_modules";
+        pjsAddModCopy "$esbuildModule" "$node_modules_path/esbuild";
+        installBinsNm "$node_modules_path/esbuild" "$node_modules_path";
+        export PATH="$PATH:$node_modules_path/.bin";
+        esbuild --version|tee "$out";
+      '';
       inherit (pkg.passthru) metaEnt;
     };
-    inherit (pkg.installed) global;
+    inherit (pkg.installed) global outPath;
+    passthru = prev.passthru // {
+      inherit (pkg.installed.passthru) test;
+    };
   };
 
 in pkg
