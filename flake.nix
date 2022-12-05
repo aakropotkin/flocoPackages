@@ -92,7 +92,9 @@
         typescript
         semver
         eslint
+        esbuild
       ;
+      esbuild--test = packages.${system}.esbuild.passthru.test.runVersion;
     } );
 
 
