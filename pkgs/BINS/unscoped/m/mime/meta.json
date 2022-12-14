@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "mime": "cli.js"
+  "binInfo": {
+    "binPairs": {
+      "mime": "cli.js"
+    }
   }
 }

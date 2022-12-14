@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "jest": "bin/jest.js"
+  "binInfo": {
+    "binPairs": {
+      "jest": "bin/jest.js"
+    }
   }
 }

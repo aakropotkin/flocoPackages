@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "download-msgpackr-prebuilds": "bin/download-prebuilds.js"
+  "binInfo": {
+    "binPairs": {
+      "download-msgpackr-prebuilds": "bin/download-prebuilds.js"
+    }
   }
 }

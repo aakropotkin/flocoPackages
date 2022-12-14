@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "nwget": "bin/nwget"
+  "binInfo": {
+    "binPairs": {
+      "nwget": "bin/nwget"
+    }
   }
 }

@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "errno": "cli.js"
+  "binInfo": {
+    "binPairs": {
+      "errno": "cli.js"
+    }
   }
 }

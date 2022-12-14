@@ -1,6 +1,8 @@
 {
-  "bin": {
-    "esparse": "bin/esparse.js",
-    "esvalidate": "bin/esvalidate.js"
+  "binInfo": {
+    "binPairs": {
+      "esparse": "bin/esparse.js",
+      "esvalidate": "bin/esvalidate.js"
+    }
   }
 }

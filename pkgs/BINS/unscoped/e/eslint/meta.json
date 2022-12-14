@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "eslint": "bin/eslint.js"
+  "binInfo": {
+    "binPairs": {
+      "eslint": "bin/eslint.js"
+    }
   }
 }

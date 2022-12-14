@@ -1,6 +1,8 @@
 {
-  "bin": {
-    "esgenerate": "bin/esgenerate.js",
-    "escodegen": "bin/escodegen.js"
+  "binInfo": {
+    "binPairs": {
+      "esgenerate": "bin/esgenerate.js",
+      "escodegen": "bin/escodegen.js"
+    }
   }
 }

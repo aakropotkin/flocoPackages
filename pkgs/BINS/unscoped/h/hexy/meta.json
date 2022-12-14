@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "hexy": "bin/hexy_cmd.js"
+  "binInfo": {
+    "binPairs": {
+      "hexy": "bin/hexy_cmd.js"
+    }
   }
 }

@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "lz-string": "bin/bin.js"
+  "binInfo": {
+    "binPairs": {
+      "lz-string": "bin/bin.js"
+    }
   }
 }

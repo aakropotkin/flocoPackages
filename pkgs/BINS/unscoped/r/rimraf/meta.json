@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "rimraf": "bin.js"
+  "binInfo": {
+    "binPairs": {
+      "rimraf": "bin.js"
+    }
   }
 }

@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "pki": "bin/crypto_create_CA.js"
+  "binInfo": {
+    "binPairs": {
+      "pki": "bin/crypto_create_CA.js"
+    }
   }
 }

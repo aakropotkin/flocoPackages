@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "is-docker": "cli.js"
+  "binInfo": {
+    "binPairs": {
+      "is-docker": "cli.js"
+    }
   }
 }

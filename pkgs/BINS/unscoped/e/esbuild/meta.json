@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "esbuild": "bin/esbuild"
+  "binInfo": {
+    "binPairs": {
+      "esbuild": "bin/esbuild"
+    }
   }
 }

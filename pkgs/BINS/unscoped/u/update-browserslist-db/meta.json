@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "browserslist-lint": "cli.js"
+  "binInfo": {
+    "binPairs": {
+      "browserslist-lint": "cli.js"
+    }
   }
 }

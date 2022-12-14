@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "miller-rabin": "bin/miller-rabin"
+  "binInfo": {
+    "binPairs": {
+      "miller-rabin": "bin/miller-rabin"
+    }
   }
 }

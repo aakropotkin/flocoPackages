@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "mssql": "bin/mssql"
+  "binInfo": {
+    "binPairs": {
+      "mssql": "bin/mssql"
+    }
   }
 }

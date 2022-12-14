@@ -1,6 +1,8 @@
 {
   "version": "1.2.0",
-  "bin": {
-    "he": "bin/he"
+  "binInfo": {
+    "binPairs": {
+      "he": "bin/he"
+    }
   }
 }

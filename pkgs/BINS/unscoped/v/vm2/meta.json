@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "vm2": "bin/vm2"
+  "binInfo": {
+    "binPairs": {
+      "vm2": "bin/vm2"
+    }
   }
 }

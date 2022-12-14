@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "resolve": "bin/resolve"
+  "binInfo": {
+    "binPairs": {
+      "resolve": "bin/resolve"
+    }
   }
 }

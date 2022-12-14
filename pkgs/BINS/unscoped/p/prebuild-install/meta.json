@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "prebuild-install": "bin.js"
+  "binInfo": {
+    "binPairs": {
+      "prebuild-install": "bin.js"
+    }
   }
 }

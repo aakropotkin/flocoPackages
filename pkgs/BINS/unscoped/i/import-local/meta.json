@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "import-local-fixture": "fixtures/cli.js"
+  "binInfo": {
+    "binPairs": {
+      "import-local-fixture": "fixtures/cli.js"
+    }
   }
 }

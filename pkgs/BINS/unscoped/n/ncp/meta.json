@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "ncp": "bin/ncp"
+  "binInfo": {
+    "binPairs": {
+      "ncp": "bin/ncp"
+    }
   }
 }

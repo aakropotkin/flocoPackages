@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "loose-envify": "cli.js"
+  "binInfo": {
+    "binPairs": {
+      "loose-envify": "cli.js"
+    }
   }
 }

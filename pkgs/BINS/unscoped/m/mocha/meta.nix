@@ -1,6 +1,6 @@
 { version }: {
 
-  bin = if 0 < ( builtins.compareVersions "10" version ) then {
+  binInfo.binPairs = if 0 < ( builtins.compareVersions "10" version ) then {
     mocha  = "bin/mocha";
     _mocha = "bin/_mocha";
   } else {

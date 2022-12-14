@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "atob": "bin/atob.js"
+  "binInfo": {
+    "binPairs": {
+      "atob": "bin/atob.js"
+    }
   }
 }

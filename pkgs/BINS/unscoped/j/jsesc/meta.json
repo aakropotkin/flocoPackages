@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "jsesc": "bin/jsesc"
+  "binInfo": {
+    "binPairs": {
+      "jsesc": "bin/jsesc"
+    }
   }
 }

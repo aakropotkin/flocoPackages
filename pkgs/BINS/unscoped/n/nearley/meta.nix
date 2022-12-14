@@ -1,6 +1,6 @@
 { version }: {
 
-  bin = let
+  binInfo.binPairs = let
     base.nearleyc = "bin/nearleyc.js";
     test' = if 0 < ( builtins.compareVersions "1.2.1" version ) then {} else {
       nearley-test = "bin/nearley-test.js";

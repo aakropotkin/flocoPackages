@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "json5": "lib/cli.js"
+  "binInfo": {
+    "binPairs": {
+      "json5": "lib/cli.js"
+    }
   }
 }

@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "parser": "./bin/babel-parser.js"
+  "binInfo": {
+    "binPairs": {
+      "parser": "./bin/babel-parser.js"
+    }
   }
 }

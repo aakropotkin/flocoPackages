@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "js-yaml": "bin/js-yaml.js"
+  "binInfo": {
+    "binPairs": {
+      "js-yaml": "bin/js-yaml.js"
+    }
   }
 }

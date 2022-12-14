@@ -73,12 +73,11 @@ final: prev: let
       if metaJSONPath != null then forMetaJSON else {};
     base = {
       inherit ident version;
-      key    = "${ident}/${version}";
-      hasBin = true;
-      ltype  = "file";
+      key   = "${ident}/${version}";
+      ltype = "file";
     };
     meta = base // fromFiles;
-  in assert meta ? bin;
+  in assert meta ? binInfo;
      meta;
 
 
@@ -159,12 +158,11 @@ final: prev: let
     '';
     built  = builder args;
     checks = ent: let
-      bin = ent.bin or ent.metaEnt.bin or null;
+      bin = ent.binInfo or ent.metaEnt.binInfo or null;
     in {
       hasOutPath  = ent ? outPath;
       hasGlobal   = ent ? global;
       setBinAttrs = ( builtins.isAttrs bin ) && ( bin != {} );
-      setHasBin   = ( ent.hasBin or ent.metaEnt.hasBin or null ) == true;
     };
     checked = let
       loc = "flocoPackages#overlays.bins";

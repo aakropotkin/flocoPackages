@@ -1,6 +1,6 @@
 { version }: {
 
-  bin = let
+  binInfo.binPairs = let
     mqtt = if 0 <= ( builtins.compareVersions "4.0.1" version )
            then "mqtt.js"
            else "bin/mqtt.js";

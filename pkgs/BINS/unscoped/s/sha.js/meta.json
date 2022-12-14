@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "sha.js": "bin.js"
+  "binInfo": {
+    "binPairs": {
+      "sha.js": "bin.js"
+    }
   }
 }

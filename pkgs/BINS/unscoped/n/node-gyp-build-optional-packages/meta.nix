@@ -1,5 +1,5 @@
 { version }: {
-  bin =
+  binInfo.binPairs =
   if version == "4.3.0" then
     {
       node-gyp-build          = "bin.js";

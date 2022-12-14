@@ -1,6 +1,6 @@
 { version }: {
 
-  bin = let
+  binInfo.binPairs = let
     # 1 - 3.0.4, 5 - 8.4.1
     base.ts-node = "dist/bin.js";
     # 3.0.5 - 4.1.0

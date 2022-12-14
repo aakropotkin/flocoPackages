@@ -1,5 +1,7 @@
 {
-  "bin":   {
-    "swcx": "run_swcx.js"
+  "binInfo":   {
+    "binPairs": {
+      "swcx": "run_swcx.js"
+    }
   }
 }

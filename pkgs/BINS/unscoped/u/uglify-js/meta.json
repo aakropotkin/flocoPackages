@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "uglifyjs": "bin/uglifyjs"
+  "binInfo": {
+    "binPairs": {
+      "uglifyjs": "bin/uglifyjs"
+    }
   }
 }

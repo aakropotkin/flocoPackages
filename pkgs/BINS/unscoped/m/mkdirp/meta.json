@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "mkdirp": "bin/cmd.js"
+  "binInfo": {
+    "binPairs": {
+      "mkdirp": "bin/cmd.js"
+    }
   }
 }

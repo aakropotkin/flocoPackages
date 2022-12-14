@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "handlebars": "bin/handlebars"
+  "binInfo": {
+    "binPairs": {
+      "handlebars": "bin/handlebars"
+    }
   }
 }

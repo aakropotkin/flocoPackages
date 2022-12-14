@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "pino-pretty": "bin.js"
+  "binInfo": {
+    "binPairs": {
+      "pino-pretty": "bin.js"
+    }
   }
 }

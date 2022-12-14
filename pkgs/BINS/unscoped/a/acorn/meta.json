@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "acorn": "bin/acorn"
+  "binInfo": {
+    "binPairs": {
+      "acorn": "bin/acorn"
+    }
   }
 }

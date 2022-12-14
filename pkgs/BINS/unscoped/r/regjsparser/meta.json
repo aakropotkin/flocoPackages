@@ -1,5 +1,7 @@
 {
-  "bin": {
-    "regjsparser": "bin/parser"
+  "binInfo": {
+    "binPairs": {
+      "regjsparser": "bin/parser"
+    }
   }
 }

@@ -1,5 +1,7 @@
   {
-    "bin": {
-      "bunyan": "./bin/bunyan"
+    "binInfo": {
+      "binPairs": {
+        "bunyan": "./bin/bunyan"
+      }
     }
   }
