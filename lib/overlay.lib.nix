@@ -20,20 +20,6 @@ final: prev: let
 
 in {  # Begin Exports
 
-  flocoConfig = let
-    j = prev.importJSON ../config/flocoConfig.json;
-    m = prev.recursiveUpdate j ( prev.flocoConfig or {} );
-  in prev.libcfg.mkFlocoConfig m;
-
-  inherit (callLib ./hier.nix)
-    hierToKeys
-    scopeBnamesToIdents
-  ;
-  inherit (callLib ./loadFetchInfo.nix)
-    loadFetchInfo'
-    loadFetchInfo
-  ;
-
   weeklyDlCount = import ./downloadCount.nix;
 
 }  # End Lib Overlay

@@ -1,106 +1,121 @@
-# ============================================================================ #
-#
-# A Node.js+Nix package collection made with floco.
-#
-# ---------------------------------------------------------------------------- #
-
 {
-  description = "A Node.js+Nix package collection made with floco";
-
-  inputs.nixpkgs.follows = "/at-node-nix/nixpkgs";
-  inputs.at-node-nix.url = "github:aameen-tulip/at-node-nix";
 
 # ---------------------------------------------------------------------------- #
 
-  outputs = { nixpkgs, at-node-nix, ... }: let
-
-    pkgsForSys = system:
-      nixpkgs.legacyPackages.${system}.extend overlays.default;
-
-    supportedSystems       = at-node-nix.lib.defaultSystems;
-    eachSupportedSystemMap = at-node-nix.lib.eachSystemMap supportedSystems;
+  inputs.floco.url       = "github:aakropotkin/floco";
+  inputs.nixpkgs.follows = "/floco/nixpkgs";
 
 # ---------------------------------------------------------------------------- #
 
-    # Pure `lib' extensions.
-    libOverlays.default = import ./lib/overlay.lib.nix;
+  outputs = { nixpkgs, floco, ... } @ inputs: let
 
 # ---------------------------------------------------------------------------- #
 
-    # Nixpkgs overlay: Builders, Packages, Overrides, etc.
-    overlays.pkgs   = import ./overlay.nix;
-    overlays.simple = import ./pkgs/SIMPLE/overlay.nix;
-    overlays.bins   = import ./pkgs/BINS/overlay.nix;
-    overlays.gyp    = import ./pkgs/GYP/overlay.nix;
-    overlays.deps   = at-node-nix.overlays.default;
-
-    # By default, compose with our deps into a single overlay.
-    overlays.default = nixpkgs.lib.composeManyExtensions [
-      overlays.deps
-      overlays.pkgs
-      overlays.simple
-      overlays.bins
-      overlays.gyp
+    supportedSystems = [
+      "x86_64-linux"  "aarch64-linux"  "i686-linux" 
+      "x86_64-darwin" "aarch64-darwin"
     ];
 
+    eachSupportedSystemMap = f: builtins.foldl' ( acc: system: acc // {
+      ${system} = f system;
+    } ) {} supportedSystems;
+
 
 # ---------------------------------------------------------------------------- #
 
-    # Installable Packages for Flake CLI.
+    nixosModules.default       = nixosModules.flocoPackages;
+    nixosModules.flocoPackages = {
+      imports = [floco.nixosModules.floco ./fpkgs];
+    };
+
+
+# ---------------------------------------------------------------------------- #
+
+    overlays.deps          = floco.overlays.default;
+    overlays.flocoPackages = final: prev: let
+      inherit (final) lib;
+      mod = lib.evalModules {
+        modules = [
+          nixosModules.flocoPackages
+          { config.floco.settings.system = prev.system; }
+        ];
+      };
+      exports = let
+        all = builtins.foldl' ( acc: ident:
+          acc ++ ( builtins.attrValues mod.config.floco.packages.${ident} )
+        ) [] ( builtins.attrNames mod.config.floco.packages );
+      in builtins.filter ( v: lib.isDerivation ( v.global or null ) ) all;
+    in {
+      flocoPackages = builtins.foldl' ( acc: pkg: let
+        ident   = dirOf pkg.key;
+        version = baseNameOf pkg.key;
+      in acc // {
+        ${ident} = ( acc.${ident} or {} ) // {
+          ${version} = pkg.global // {
+            passthru = ( pkg.global.passthru or {} ) // {
+              inherit (pkg) prepared;
+              inherit ident version;
+            };
+          };
+        };
+      } ) {} exports;
+    };
+
+    overlays.default = nixpkgs.lib.composeExtensions overlays.deps
+                                                     overlays.flocoPackages;
+
+
+# ---------------------------------------------------------------------------- #
+
     packages = eachSupportedSystemMap ( system: let
-      pkgsFor = pkgsForSys system;
-
-      bins'   = pkgsFor.flocoApps;
-      no-i686 = removeAttrs bins' ["swc--core" "msgpackr-extract"];
-
-      bins = if system != "i686-linux" then bins' else no-i686;
-
-    in bins // {
-
-      fsevents--1_2_13 = pkgsFor.flocoPackages."fsevents/1.2.13".prepared;
-
-      tests = ( import ./tests {
-        inherit system pkgsFor;
-        lib = at-node-nix.lib.extend libOverlays.default;
-        enableTraces = true;
-      } ).checkDrv;
-
-    } );  # End Packages
+      pkgsFor    = nixpkgs.legacyPackages.${system}.extend overlays.default;
+      pickLatest = versions: let
+        cmp = a: b: let
+          i = builtins.compareVersions ( a.version or a ) ( b.version or b );
+        in i < 0;
+        pick = a: b: if cmp a b then a else b;
+        len = builtins.length versions;
+        fst = builtins.head versions;
+      in if len == 1 then fst else
+         if len == 2 then pick fst ( builtins.elemAt versions 1 ) else
+         builtins.foldl' pick ( builtins.head versions )
+                              ( builtins.tail versions );
+    in builtins.mapAttrs ( _: vs: pickLatest ( builtins.attrValues vs ) )
+                         pkgsFor.flocoPackages
+  );
 
 
 # ---------------------------------------------------------------------------- #
 
-  in {  # Begin Outputs
+  in {
 
 # ---------------------------------------------------------------------------- #
 
-    lib = at-node-nix.lib.extend libOverlays.default;
+    inherit (floco) lib;
 
-    inherit overlays packages;
+# ---------------------------------------------------------------------------- #
 
-    flocoPackagesFor = eachSupportedSystemMap ( system: let
+    inherit overlays nixosModules packages;
+
+# ---------------------------------------------------------------------------- #
+
+    legacyPackages = eachSupportedSystemMap ( system: let
       pkgsFor = nixpkgs.legacyPackages.${system}.extend overlays.default;
     in pkgsFor.flocoPackages );
 
+
 # ---------------------------------------------------------------------------- #
 
-    checks = eachSupportedSystemMap ( system: {
-      inherit (packages.${system})
-        fsevents--1_2_13
-        tests
-        acorn
-        typescript
-        semver
-        eslint
-        esbuild
-      ;
-      esbuild--test = packages.${system}.esbuild.passthru.test.runVersion;
-    } );
+    checks = packages;
 
 
 # ---------------------------------------------------------------------------- #
 
-  };  # End Outputs
+  };  # End `outputs'
+
+
+# ---------------------------------------------------------------------------- #
+
 }
 
 
