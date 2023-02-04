@@ -24,8 +24,8 @@
 # ---------------------------------------------------------------------------- #
 
     nixosModules.default       = nixosModules.flocoPackages;
-    nixosModules.flocoPackages = { lib, ... }: {
-      imports = [floco.nixosModules.floco];
+    nixosModules.flocoPackages = {
+      imports = [floco.nixosModules.floco ./fpkgs];
     };
 
 

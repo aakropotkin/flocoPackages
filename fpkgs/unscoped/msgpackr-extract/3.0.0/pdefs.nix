@@ -138,35 +138,42 @@
             "@msgpackr-extract/msgpackr-extract-darwin-arm64" = {
               descriptor = "3.0.0";
               optional = true;
+              pin = "3.0.0";
               runtime = true;
             };
             "@msgpackr-extract/msgpackr-extract-darwin-x64" = {
               descriptor = "3.0.0";
               optional = true;
+              pin = "3.0.0";
               runtime = true;
             };
             "@msgpackr-extract/msgpackr-extract-linux-arm" = {
               descriptor = "3.0.0";
               optional = true;
+              pin = "3.0.0";
               runtime = true;
             };
             "@msgpackr-extract/msgpackr-extract-linux-arm64" = {
               descriptor = "3.0.0";
               optional = true;
+              pin = "3.0.0";
               runtime = true;
             };
             "@msgpackr-extract/msgpackr-extract-linux-x64" = {
               descriptor = "3.0.0";
               optional = true;
+              pin = "3.0.0";
               runtime = true;
             };
             "@msgpackr-extract/msgpackr-extract-win32-x64" = {
               descriptor = "3.0.0";
               optional = true;
+              pin = "3.0.0";
               runtime = true;
             };
             node-gyp-build-optional-packages = {
               descriptor = "5.0.7";
+              pin = "5.0.7";
               runtime = true;
             };
           };
