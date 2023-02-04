@@ -1,10 +1,13 @@
 #! /usr/bin/env bash
+set -eu;
+set -o pipefail;
 nix eval --impure --expr 'let
-  floco = builtins.getFlake "floco";
+  floco = builtins.getFlake "github:aakropotkin/floco";
   mod   = floco.lib.evalModules {
     modules = [
       floco.nixosModules.default
       ./floco-cfg.nix
+      { config.floco.buildPlan.deriveTreeInfo = floco.lib.mkDefault true; }
     ];
   };
   ex = builtins.mapAttrs ( ident:
