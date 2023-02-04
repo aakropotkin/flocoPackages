@@ -1,9 +1,0 @@
-{
-  "binInfo": {
-    "binPairs": {
-      "node-gyp-build": "bin.js",
-      "node-gyp-build-optional": "optional.js",
-      "node-gyp-build-test": "build-test.js"
-    }
-  }
-}
