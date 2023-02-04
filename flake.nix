@@ -34,9 +34,6 @@
     overlays.deps          = floco.overlays.default;
     overlays.flocoPackages = final: prev: let
       inherit (final) lib;
-      hasBin = pdef:
-        ( ( pdef.binInfo.binPairs or {} ) != {} ) ||
-        ( ( pdef.binInfo.binDir or null ) != null );
       mod = lib.evalModules {
         modules = [
           nixosModules.flocoPackages
@@ -70,25 +67,6 @@
 
 # ---------------------------------------------------------------------------- #
 
-  in {
-
-# ---------------------------------------------------------------------------- #
-
-    inherit (floco) lib;
-
-# ---------------------------------------------------------------------------- #
-
-    inherit overlays nixosModules;
-
-# ---------------------------------------------------------------------------- #
-
-    legacyPackages = eachSupportedSystemMap ( system: let
-      pkgsFor = nixpkgs.legacyPackages.${system}.extend overlays.default;
-    in pkgsFor.flocoPackages );
-
-
-# ---------------------------------------------------------------------------- #
-
     packages = eachSupportedSystemMap ( system: let
       pkgsFor    = nixpkgs.legacyPackages.${system}.extend overlays.default;
       pickLatest = versions: let
@@ -105,6 +83,30 @@
     in builtins.mapAttrs ( _: vs: pickLatest ( builtins.attrValues vs ) )
                          pkgsFor.flocoPackages
   );
+
+
+# ---------------------------------------------------------------------------- #
+
+  in {
+
+# ---------------------------------------------------------------------------- #
+
+    inherit (floco) lib;
+
+# ---------------------------------------------------------------------------- #
+
+    inherit overlays nixosModules packages;
+
+# ---------------------------------------------------------------------------- #
+
+    legacyPackages = eachSupportedSystemMap ( system: let
+      pkgsFor = nixpkgs.legacyPackages.${system}.extend overlays.default;
+    in pkgsFor.flocoPackages );
+
+
+# ---------------------------------------------------------------------------- #
+
+    checks = packages;
 
 
 # ---------------------------------------------------------------------------- #
