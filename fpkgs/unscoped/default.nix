@@ -7,5 +7,6 @@
     ./esbuild
     ./which
     ./jest
+    ./zeromq
   ];
 }

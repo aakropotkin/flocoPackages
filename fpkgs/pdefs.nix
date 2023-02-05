@@ -50112,33 +50112,6 @@
           version = "0.1.0";
         };
       };
-      zeromq = {
-        "5.3.1" = {
-          depInfo = {
-            nan = {
-              descriptor = "2.17.0";
-              pin = "2.17.0";
-              runtime = true;
-            };
-            node-gyp-build = {
-              descriptor = "^4.5.0";
-              pin = "4.6.0";
-              runtime = true;
-            };
-          };
-          fetchInfo = {
-            narHash = "sha256-Z3WYfW0oQFgtj5DHrMCCnP5+3e2XZarwFk4xOjxTyDA=";
-            type = "tarball";
-            url = "https://registry.npmjs.org/zeromq/-/zeromq-5.3.1.tgz";
-          };
-          ident = "zeromq";
-          lifecycle = {
-            install = true;
-          };
-          ltype = "file";
-          version = "5.3.1";
-        };
-      };
       zod = {
         "3.20.2" = {
           fetchInfo = {

@@ -37,7 +37,10 @@
       mod = lib.evalModules {
         modules = [
           nixosModules.flocoPackages
-          { config.floco.settings.system = prev.system; }
+          {
+            config.floco.settings.system = prev.system;
+            config._module.args.pkgs     = prev;
+          }
         ];
       };
       exports = let
