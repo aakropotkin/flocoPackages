@@ -1,5 +1,6 @@
 {
   imports = [
+    ./core-js
     ./pacote
     ./msgpackr-extract
     ./semver
