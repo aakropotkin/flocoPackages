@@ -3,5 +3,6 @@
     ./unscoped
     ./npmcli
     ./swc
+    ./pdefs.nix
   ];
 }
