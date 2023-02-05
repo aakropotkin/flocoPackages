@@ -74,5 +74,10 @@ jobs:
 
       - name: Dump Package Definitions in Offline Mode
         run: |
+          set -eu;
+          set -o pipefail;
           nix flake archive .;
-          ./bin/dumpPdefs.sh --offline;
+          nix profile install nixpkgs#jq;
+          ./bin/dumpPdefs.sh --offline --json|jq '[.floco.pdefs|with_entries(
+            .key as $key|.value|=( keys|map( $key + "@" + . ) )
+          )[]]|flatten' >&2;
