@@ -22,7 +22,6 @@ targets=(
   'atob'
   'browserslist'
   'color-support'
-  'core-js-pure'
   'cssesc'
   'direction'
   'errno'
