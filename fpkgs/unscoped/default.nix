@@ -1,10 +1,14 @@
 {
   imports = [
+    ./core-js
+    ./core-js-pure
     ./pacote
     ./msgpackr-extract
     ./semver
+    ./keytar
     ./esbuild
-    ./jest
     ./which
+    ./jest
+    ./zeromq
   ];
 }

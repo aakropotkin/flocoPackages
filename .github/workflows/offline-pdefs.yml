@@ -1,4 +1,4 @@
-name: All Tests
+name: Offline Package Definitions
 on:
   push:
     branches:
@@ -25,7 +25,7 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 jobs:
-  all-tests:
+  offline-pdefs:
     runs-on: ubuntu-latest
     env:
       SYSTEM: x86_64-linux
@@ -72,27 +72,12 @@ jobs:
           # Register aliases to avoid the long ref
           nix registry add head "github:aakropotkin/flocoPackages/$GITHUB_REF";
 
-      - name: Bin and Install Checks
+      - name: Dump Package Definitions in Offline Mode
         run: |
-          ./check.sh
-
-
-      # The closure of tiny tarballs consumes an outrageous amount of time
-      # fetching, generally causing GHA to kill the job.
-      # Practically there isn't much to be gained by checking the trivial
-      # dependencies anyway, but in the future it'd be nice to have a good
-      # solution for this.
-      #
-      #- name: All Checks
-      #  run: |
-      #    check_verbose() {
-      #      nix flake check head "$@"||  \
-      #        nix flake check head "$@" -L --show-trace -vvvvv --debug;
-      #    }
-      #    check_verbose;
-      #
-      #    echo "# ---------------------------------------------------------------------------- #" >&2;
-      #    check_verbose --system x86_64-linux --no-build;
-      #
-      #    echo "# ---------------------------------------------------------------------------- #" >&2;
-      #    check_verbose --system x86_64-linux;
+          set -eu;
+          set -o pipefail;
+          nix flake archive .;
+          nix profile install nixpkgs#jq;
+          ./bin/dumpPdefs.sh --offline --json|jq '[.floco.pdefs|with_entries(
+            .key as $key|.value|=( keys|map( $key + "@" + . ) )
+          )[]]|flatten' >&2;

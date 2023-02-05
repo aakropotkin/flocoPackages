@@ -1,5 +1,8 @@
 #! /usr/bin/env bash
 
+set -eu;
+set -o pipefail;
+
 : "${REALPATH:=realpath}";
 SPATH="$( $REALPATH "${BASH_SOURCE[0]}"; )";
 SDIR="${SPATH%/*}";
