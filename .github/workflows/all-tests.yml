@@ -76,16 +76,23 @@ jobs:
         run: |
           ./check.sh
 
-      - name: All Checks
-        run: |
-          check_verbose() {
-            nix flake check head "$@"||  \
-              nix flake check head "$@" -L --show-trace -vvvvv --debug;
-          }
-          check_verbose;
 
-          echo "# ---------------------------------------------------------------------------- #" >&2;
-          check_verbose --system x86_64-linux --no-build;
-
-          echo "# ---------------------------------------------------------------------------- #" >&2;
-          check_verbose --system x86_64-linux;
+      # The closure of tiny tarballs consumes an outrageous amount of time
+      # fetching, generally causing GHA to kill the job.
+      # Practically there isn't much to be gained by checking the trivial
+      # dependencies anyway, but in the future it'd be nice to have a good
+      # solution for this.
+      #
+      #- name: All Checks
+      #  run: |
+      #    check_verbose() {
+      #      nix flake check head "$@"||  \
+      #        nix flake check head "$@" -L --show-trace -vvvvv --debug;
+      #    }
+      #    check_verbose;
+      #
+      #    echo "# ---------------------------------------------------------------------------- #" >&2;
+      #    check_verbose --system x86_64-linux --no-build;
+      #
+      #    echo "# ---------------------------------------------------------------------------- #" >&2;
+      #    check_verbose --system x86_64-linux;
