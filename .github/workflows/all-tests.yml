@@ -6,6 +6,7 @@ on:
     paths:
       - .github/workflows/all-tests.yml
       - flake.nix
+      - flake.lock
       - lib/**
       - fpkgs/**
       - '!**/README*'
@@ -15,6 +16,7 @@ on:
     paths:
       - .github/workflows/all-tests.yml
       - flake.nix
+      - flake.lock
       - lib/**
       - fpkgs/**
       - '!**/README*'
