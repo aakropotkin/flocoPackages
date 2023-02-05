@@ -25,7 +25,7 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 jobs:
-  all-tests:
+  offline-pdefs:
     runs-on: ubuntu-latest
     env:
       SYSTEM: x86_64-linux
@@ -72,7 +72,7 @@ jobs:
           # Register aliases to avoid the long ref
           nix registry add head "github:aakropotkin/flocoPackages/$GITHUB_REF";
 
-      - name: Bin and Install Checks
+      - name: Dump Package Definitions in Offline Mode
         run: |
           nix flake archive .;
           ./bin/dumpPdefs.sh --offline;
