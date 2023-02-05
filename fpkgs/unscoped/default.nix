@@ -3,8 +3,9 @@
     ./pacote
     ./msgpackr-extract
     ./semver
+    ./keytar
     ./esbuild
-    ./jest
     ./which
+    ./jest
   ];
 }
