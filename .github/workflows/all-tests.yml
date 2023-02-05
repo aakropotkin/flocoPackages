@@ -72,7 +72,11 @@ jobs:
           # Register aliases to avoid the long ref
           nix registry add head "github:aakropotkin/flocoPackages/$GITHUB_REF";
 
-      - name: All Tests
+      - name: Bin and Install Checks
+        run: |
+          ./check.sh
+
+      - name: All Checks
         run: |
           check_verbose() {
             nix flake check head "$@"||  \
