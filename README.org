@@ -1,6 +1,7 @@
 #+TITLE: Floco Packages
 
-A Node.js+Nix package collection using =floco=.
+A Node.js+Nix package collection using
+[[https://github.com/aakropotkin/floco][floco]].
 
 See the full list of available packages with:
 #+BEGIN_SRC shell
