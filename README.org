@@ -12,4 +12,4 @@ nix flake show github:aakropotkin/flocoPackages --json  \
 Multiple versions are available for some packages, go poke around more with ~nix flake show;~
 to get the full list ( look under =legacyPackages= ).
 
-You can use these definitions in your `floco` modules using the `nixosModules.flocoPackages` output.
+You can use these definitions in your =floco= modules using the =nixosModules.flocoPackages= output.
