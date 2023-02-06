@@ -21741,6 +21741,7 @@
           version = "2.0.3";
         };
       };
+
       expand-tilde = {
         "2.0.2" = {
           depInfo = {
@@ -21748,6 +21749,12 @@
               descriptor = "^1.0.1";
               pin = "1.0.3";
               runtime = true;
+            };
+          };
+          treeInfo = lib.mkForce {
+            "node_modules/homedir-polyfill" = {
+              key = "homedir-polyfill/1.0.3";
+              link = true;
             };
           };
           fetchInfo = {
@@ -21760,6 +21767,7 @@
           version = "2.0.2";
         };
       };
+
       expect = {
         "25.5.0" = {
           depInfo = {
@@ -23765,6 +23773,7 @@
           version = "2.0.0";
         };
       };
+
       global-prefix = {
         "1.0.2" = {
           depInfo = {
@@ -23794,6 +23803,30 @@
               runtime = true;
             };
           };
+
+          treeInfo = lib.mkForce {
+            "node_modules/expand-tilde" = {
+              key = "expand-tilde/2.0.2";
+              link = true;
+            };
+            "node_modules/homedir-polyfill" = {
+              key = "homedir-polyfill/1.0.3";
+              link = true;
+            };
+            ini = {
+              key = "ini/1.3.8";
+              link = true;
+            };
+            "node_modules/is-windows" = {
+              key = "is-windows/1.0.2";
+              link = true;
+            };
+            "node_modules/which" = {
+              key = "which/1.3.1";
+              link = true;
+            };
+          };
+
           fetchInfo = {
             narHash = "sha256-mrK/zB35GoEY66Hs+lwPmAemDwPChvEnD2uQdZYjGXI=";
             type = "tarball";
@@ -23803,6 +23836,7 @@
           ltype = "file";
           version = "1.0.2";
         };
+
         "3.0.0" = {
           depInfo = {
             ini = {
@@ -24484,6 +24518,7 @@
           version = "3.3.2";
         };
       };
+
       homedir-polyfill = {
         "1.0.3" = {
           depInfo = {
@@ -24491,6 +24526,12 @@
               descriptor = "^1.0.0";
               pin = "1.0.0";
               runtime = true;
+            };
+          };
+          treeInfo = lib.mkForce {
+            "node_modules.parse-passwd" = {
+              key  = "parse-passwd/1.0.0";
+              link = true;
             };
           };
           fetchInfo = {
@@ -24503,6 +24544,7 @@
           version = "1.0.3";
         };
       };
+
       hosted-git-info = {
         "2.8.9" = {
           fetchInfo = {
@@ -38671,6 +38713,7 @@
           version = "5.2.0";
         };
       };
+
       parse-passwd = {
         "1.0.0" = {
           fetchInfo = {
@@ -38684,6 +38727,7 @@
           version = "1.0.0";
         };
       };
+
       parse5 = {
         "5.1.0" = {
           fetchInfo = {
@@ -43089,6 +43133,7 @@
           version = "3.0.0";
         };
       };
+
       resolve-dir = {
         "1.0.1" = {
           depInfo = {
@@ -43113,6 +43158,7 @@
           version = "1.0.1";
         };
       };
+
       resolve-from = {
         "3.0.0" = {
           fetchInfo = {
