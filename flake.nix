@@ -38,8 +38,9 @@
         modules = [
           nixosModules.flocoPackages
           {
-            config.floco.settings.system = prev.system;
-            config._module.args.pkgs     = prev;
+            config.floco.settings.system          = prev.system;
+            config._module.args.pkgs              = prev;
+            config.floco.buildPlan.deriveTreeInfo = true;
           }
         ];
       };

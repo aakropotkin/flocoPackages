@@ -3737,60 +3737,6 @@
           version = "3.0.2";
         };
       };
-      browserslist = {
-        "4.21.5" = {
-          binInfo = { binPairs = { browserslist = "cli.js"; }; };
-          depInfo = {
-            caniuse-lite = {
-              descriptor = "^1.0.30001449";
-              pin = "1.0.30001450";
-              runtime = true;
-            };
-            electron-to-chromium = {
-              descriptor = "^1.4.284";
-              pin = "1.4.286";
-              runtime = true;
-            };
-            node-releases = {
-              descriptor = "^2.0.8";
-              pin = "2.0.9";
-              runtime = true;
-            };
-            update-browserslist-db = {
-              descriptor = "^1.0.10";
-              pin = "1.0.10";
-              runtime = true;
-            };
-          };
-          fetchInfo = {
-            narHash = "sha256-JL9N0gpt6rGtumzIGQfuVPM5ocz+M871XljyJdpG+TQ=";
-            type = "tarball";
-            url =
-              "https://registry.npmjs.org/browserslist/-/browserslist-4.21.5.tgz";
-          };
-          ident = "browserslist";
-          ltype = "file";
-          treeInfo = {
-            "node_modules/caniuse-lite" = {
-              key = "caniuse-lite/1.0.30001450";
-              link = true;
-            };
-            "node_modules/electron-to-chromium" = {
-              key = "electron-to-chromium/1.4.286";
-              link = true;
-            };
-            "node_modules/node-releases" = {
-              key = "node-releases/2.0.9";
-              link = true;
-            };
-            "node_modules/update-browserslist-db" = {
-              key = "update-browserslist-db/1.0.10";
-              link = true;
-            };
-          };
-          version = "4.21.5";
-        };
-      };
       bser = {
         "2.1.1" = {
           depInfo = {

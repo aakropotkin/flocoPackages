@@ -4,5 +4,6 @@
     ./npmcli
     ./swc
     ./pdefs.nix
+    ./jest
   ];
 }
