@@ -1,3 +1,15 @@
 #+TITLE: Floco Packages
 
 A Node.js+Nix package collection using =floco=.
+
+See the full list of available packages with:
+```
+# Modify as needed for your system.
+nix flake show github:aakropotkin/flocoPackages --json  \
+  |jq -r '.packages["x86_64-linux"]|keys';
+```
+
+Multiple versions are available for some packages, go poke around more with `nix flake show;`
+to get the full list ( look under `legacyPackages`.
+
+You can use these definitions in your `floco` modules using the `nixosModules.flocoPackages` output.
