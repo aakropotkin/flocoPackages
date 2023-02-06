@@ -1,4 +1,4 @@
-{
+{ lib, ... }: {
   config.floco = {
     pdefs = {
       "@acuminous/bitsyntax" = {
@@ -22710,6 +22710,7 @@
           version = "5.0.0";
         };
       };
+
       findup-sync = {
         "3.0.0" = {
           depInfo = {
@@ -22734,6 +22735,24 @@
               runtime = true;
             };
           };
+          treeInfo = {
+            "node_modules/detect-file" = {
+              key = "detect-file/1.0.0";
+              link = true;
+            };
+            "node_modules/is-glob" = {
+              key = "is-glob/4.0.3";
+              link = true;
+            };
+            "node_modules/micromatch" = {
+              key = "micromatch/3.1.10";
+              link = true;
+            };
+            # CYCLE:
+            "node_modules/resolve-dir" = {
+              key = "resolve-dir/1.0.1";
+            };
+          };
           fetchInfo = {
             narHash = "sha256-kGU2CC8MI4ENyQxuwpYP87yYXVbFHXWG573EGN5PBC0=";
             type = "tarball";
@@ -22744,6 +22763,7 @@
           version = "3.0.0";
         };
       };
+
       flat = {
         "5.0.2" = {
           binInfo = {
@@ -48407,6 +48427,54 @@
               runtime = true;
             };
           };
+
+          treeInfo = lib.mkForce {
+            "node_modules/chalk" = {
+              key = "chalk/2.4.2";
+              link = true;
+            };
+            "node_modules/cross-spawn" = {
+              key = "cross-spawn/6.0.5";
+              link = true;
+            };
+            "node_modules/enhanced-resolve" = {
+              key = "enhanced-resolve/4.5.0";
+              link = true;
+            };
+            "node_modules/findup-sync" = {
+              key = "findup-sync/3.0.0";
+              link = true;
+            };
+            "node_modules/global-modules" = {
+              key = "global-modules/2.0.0";
+              link = true;
+            };
+            "node_modules/import-local" = {
+              key = "import-local/2.0.0";
+              link = true;
+            };
+            "node_modules/interpret" = {
+              key = "interpret/1.4.0";
+              link = true;
+            };
+            "node_modules/loader-utils" = {
+              key = "loader-utils/1.4.2";
+              link = true;
+            };
+            "node_modules/supports-color" = {
+              key = "supports-color/6.1.0";
+              link = true;
+            };
+            "node_modules/v8-compile-cache" = {
+              key = "v8-compile-cache/2.3.0";
+              link = true;
+            };
+            "node_modules/yargs" = {
+              key = "yargs/13.3.2";
+              link = true;
+            };
+          };
+
           fetchInfo = {
             narHash = "sha256-+RCwLypUmnKqgT84CyFtNbItdrMaY/Zev9wu6afnaMw=";
             type = "tarball";
@@ -48422,6 +48490,7 @@
           version = "3.3.12";
         };
       };
+
       webpack-sources = {
         "1.4.3" = {
           depInfo = {
