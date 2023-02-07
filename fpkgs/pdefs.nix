@@ -1,4 +1,4 @@
-{
+{ lib, ... }: {
   config.floco = {
     pdefs = {
       "@acuminous/bitsyntax" = {
@@ -5531,43 +5531,6 @@
         };
       };
       "@jest/test-sequencer" = {
-        "25.5.4" = {
-          depInfo = {
-            "@jest/test-result" = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            graceful-fs = {
-              descriptor = "^4.2.4";
-              pin = "4.2.10";
-              runtime = true;
-            };
-            jest-haste-map = {
-              descriptor = "^25.5.1";
-              pin = "25.5.1";
-              runtime = true;
-            };
-            jest-runner = {
-              descriptor = "^25.5.4";
-              pin = "25.5.4";
-              runtime = true;
-            };
-            jest-runtime = {
-              descriptor = "^25.5.4";
-              pin = "25.5.4";
-              runtime = true;
-            };
-          };
-          fetchInfo = {
-            narHash = "sha256-PO0D22PAbfH9lMYfdIq8fBvqCUYRg94DkRd7v6MsFVs=";
-            type = "tarball";
-            url = "https://registry.npmjs.org/@jest/test-sequencer/-/test-sequencer-25.5.4.tgz";
-          };
-          ident = "@jest/test-sequencer";
-          ltype = "file";
-          version = "25.5.4";
-        };
         "28.1.3" = {
           depInfo = {
             "@jest/test-result" = {
@@ -21778,6 +21741,7 @@
           version = "2.0.3";
         };
       };
+
       expand-tilde = {
         "2.0.2" = {
           depInfo = {
@@ -21785,6 +21749,12 @@
               descriptor = "^1.0.1";
               pin = "1.0.3";
               runtime = true;
+            };
+          };
+          treeInfo = lib.mkForce {
+            "node_modules/homedir-polyfill" = {
+              key = "homedir-polyfill/1.0.3";
+              link = true;
             };
           };
           fetchInfo = {
@@ -21797,6 +21767,7 @@
           version = "2.0.2";
         };
       };
+
       expect = {
         "25.5.0" = {
           depInfo = {
@@ -22747,6 +22718,7 @@
           version = "5.0.0";
         };
       };
+
       findup-sync = {
         "3.0.0" = {
           depInfo = {
@@ -22771,6 +22743,24 @@
               runtime = true;
             };
           };
+          treeInfo = {
+            "node_modules/detect-file" = {
+              key = "detect-file/1.0.0";
+              link = true;
+            };
+            "node_modules/is-glob" = {
+              key = "is-glob/4.0.3";
+              link = true;
+            };
+            "node_modules/micromatch" = {
+              key = "micromatch/3.1.10";
+              link = true;
+            };
+            # CYCLE:
+            "node_modules/resolve-dir" = {
+              key = "resolve-dir/1.0.1";
+            };
+          };
           fetchInfo = {
             narHash = "sha256-kGU2CC8MI4ENyQxuwpYP87yYXVbFHXWG573EGN5PBC0=";
             type = "tarball";
@@ -22781,6 +22771,7 @@
           version = "3.0.0";
         };
       };
+
       flat = {
         "5.0.2" = {
           binInfo = {
@@ -23782,6 +23773,7 @@
           version = "2.0.0";
         };
       };
+
       global-prefix = {
         "1.0.2" = {
           depInfo = {
@@ -23811,6 +23803,30 @@
               runtime = true;
             };
           };
+
+          treeInfo = lib.mkForce {
+            "node_modules/expand-tilde" = {
+              key = "expand-tilde/2.0.2";
+              link = true;
+            };
+            "node_modules/homedir-polyfill" = {
+              key = "homedir-polyfill/1.0.3";
+              link = true;
+            };
+            ini = {
+              key = "ini/1.3.8";
+              link = true;
+            };
+            "node_modules/is-windows" = {
+              key = "is-windows/1.0.2";
+              link = true;
+            };
+            "node_modules/which" = {
+              key = "which/1.3.1";
+              link = true;
+            };
+          };
+
           fetchInfo = {
             narHash = "sha256-mrK/zB35GoEY66Hs+lwPmAemDwPChvEnD2uQdZYjGXI=";
             type = "tarball";
@@ -23820,6 +23836,7 @@
           ltype = "file";
           version = "1.0.2";
         };
+
         "3.0.0" = {
           depInfo = {
             ini = {
@@ -24501,6 +24518,7 @@
           version = "3.3.2";
         };
       };
+
       homedir-polyfill = {
         "1.0.3" = {
           depInfo = {
@@ -24508,6 +24526,12 @@
               descriptor = "^1.0.0";
               pin = "1.0.0";
               runtime = true;
+            };
+          };
+          treeInfo = lib.mkForce {
+            "node_modules.parse-passwd" = {
+              key  = "parse-passwd/1.0.0";
+              link = true;
             };
           };
           fetchInfo = {
@@ -24520,6 +24544,7 @@
           version = "1.0.3";
         };
       };
+
       hosted-git-info = {
         "2.8.9" = {
           fetchInfo = {
@@ -27053,113 +27078,6 @@
         };
       };
       jest-config = {
-        "25.5.4" = {
-          depInfo = {
-            "@babel/core" = {
-              descriptor = "^7.1.0";
-              pin = "7.20.12";
-              runtime = true;
-            };
-            "@jest/test-sequencer" = {
-              descriptor = "^25.5.4";
-              pin = "25.5.4";
-              runtime = true;
-            };
-            "@jest/types" = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            babel-jest = {
-              descriptor = "^25.5.1";
-              pin = "25.5.1";
-              runtime = true;
-            };
-            chalk = {
-              descriptor = "^3.0.0";
-              pin = "3.0.0";
-              runtime = true;
-            };
-            deepmerge = {
-              descriptor = "^4.2.2";
-              pin = "4.3.0";
-              runtime = true;
-            };
-            glob = {
-              descriptor = "^7.1.1";
-              pin = "7.2.3";
-              runtime = true;
-            };
-            graceful-fs = {
-              descriptor = "^4.2.4";
-              pin = "4.2.10";
-              runtime = true;
-            };
-            jest-environment-jsdom = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            jest-environment-node = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            jest-get-type = {
-              descriptor = "^25.2.6";
-              pin = "25.2.6";
-              runtime = true;
-            };
-            jest-jasmine2 = {
-              descriptor = "^25.5.4";
-              pin = "25.5.4";
-              runtime = true;
-            };
-            jest-regex-util = {
-              descriptor = "^25.2.6";
-              pin = "25.2.6";
-              runtime = true;
-            };
-            jest-resolve = {
-              descriptor = "^25.5.1";
-              pin = "25.5.1";
-              runtime = true;
-            };
-            jest-util = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            jest-validate = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            micromatch = {
-              descriptor = "^4.0.2";
-              pin = "4.0.5";
-              runtime = true;
-            };
-            pretty-format = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            realpath-native = {
-              descriptor = "^2.0.0";
-              pin = "2.0.0";
-              runtime = true;
-            };
-          };
-          fetchInfo = {
-            narHash = "sha256-vLEP1aJYNYDYbZbh2i3FM4L8yL3j+1lIFUgYnU9Fg8w=";
-            type = "tarball";
-            url = "https://registry.npmjs.org/jest-config/-/jest-config-25.5.4.tgz";
-          };
-          ident = "jest-config";
-          ltype = "file";
-          version = "25.5.4";
-        };
         "28.1.3" = {
           depInfo = {
             "@babel/core" = {
@@ -28601,113 +28519,6 @@
         };
       };
       jest-runner = {
-        "25.5.4" = {
-          depInfo = {
-            "@jest/console" = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            "@jest/environment" = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            "@jest/test-result" = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            "@jest/types" = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            chalk = {
-              descriptor = "^3.0.0";
-              pin = "3.0.0";
-              runtime = true;
-            };
-            exit = {
-              descriptor = "^0.1.2";
-              pin = "0.1.2";
-              runtime = true;
-            };
-            graceful-fs = {
-              descriptor = "^4.2.4";
-              pin = "4.2.10";
-              runtime = true;
-            };
-            jest-config = {
-              descriptor = "^25.5.4";
-              pin = "25.5.4";
-              runtime = true;
-            };
-            jest-docblock = {
-              descriptor = "^25.3.0";
-              pin = "25.3.0";
-              runtime = true;
-            };
-            jest-haste-map = {
-              descriptor = "^25.5.1";
-              pin = "25.5.1";
-              runtime = true;
-            };
-            jest-jasmine2 = {
-              descriptor = "^25.5.4";
-              pin = "25.5.4";
-              runtime = true;
-            };
-            jest-leak-detector = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            jest-message-util = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            jest-resolve = {
-              descriptor = "^25.5.1";
-              pin = "25.5.1";
-              runtime = true;
-            };
-            jest-runtime = {
-              descriptor = "^25.5.4";
-              pin = "25.5.4";
-              runtime = true;
-            };
-            jest-util = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            jest-worker = {
-              descriptor = "^25.5.0";
-              pin = "25.5.0";
-              runtime = true;
-            };
-            source-map-support = {
-              descriptor = "^0.5.6";
-              pin = "0.5.21";
-              runtime = true;
-            };
-            throat = {
-              descriptor = "^5.0.0";
-              pin = "5.0.0";
-              runtime = true;
-            };
-          };
-          fetchInfo = {
-            narHash = "sha256-DqwKQGeA9wCVlI5YoY0zknsiPEz/K/2LYkyHse1J0FM=";
-            type = "tarball";
-            url = "https://registry.npmjs.org/jest-runner/-/jest-runner-25.5.4.tgz";
-          };
-          ident = "jest-runner";
-          ltype = "file";
-          version = "25.5.4";
-        };
         "28.1.3" = {
           depInfo = {
             "@jest/console" = {
@@ -38902,6 +38713,7 @@
           version = "5.2.0";
         };
       };
+
       parse-passwd = {
         "1.0.0" = {
           fetchInfo = {
@@ -38915,6 +38727,7 @@
           version = "1.0.0";
         };
       };
+
       parse5 = {
         "5.1.0" = {
           fetchInfo = {
@@ -43320,6 +43133,7 @@
           version = "3.0.0";
         };
       };
+
       resolve-dir = {
         "1.0.1" = {
           depInfo = {
@@ -43344,6 +43158,7 @@
           version = "1.0.1";
         };
       };
+
       resolve-from = {
         "3.0.0" = {
           fetchInfo = {
@@ -48594,150 +48409,6 @@
           version = "7.0.0";
         };
       };
-      webpack = {
-        "4.46.0" = {
-          binInfo = {
-            binPairs = {
-              webpack = "bin/webpack.js";
-            };
-          };
-          depInfo = {
-            "@webassemblyjs/ast" = {
-              descriptor = "1.9.0";
-              pin = "1.9.0";
-              runtime = true;
-            };
-            "@webassemblyjs/helper-module-context" = {
-              descriptor = "1.9.0";
-              pin = "1.9.0";
-              runtime = true;
-            };
-            "@webassemblyjs/wasm-edit" = {
-              descriptor = "1.9.0";
-              pin = "1.9.0";
-              runtime = true;
-            };
-            "@webassemblyjs/wasm-parser" = {
-              descriptor = "1.9.0";
-              pin = "1.9.0";
-              runtime = true;
-            };
-            acorn = {
-              descriptor = "^6.4.1";
-              pin = "6.4.2";
-              runtime = true;
-            };
-            ajv = {
-              descriptor = "^6.10.2";
-              pin = "6.12.6";
-              runtime = true;
-            };
-            ajv-keywords = {
-              descriptor = "^3.4.1";
-              pin = "3.5.2";
-              runtime = true;
-            };
-            chrome-trace-event = {
-              descriptor = "^1.0.2";
-              pin = "1.0.3";
-              runtime = true;
-            };
-            enhanced-resolve = {
-              descriptor = "^4.5.0";
-              pin = "4.5.0";
-              runtime = true;
-            };
-            eslint-scope = {
-              descriptor = "^4.0.3";
-              pin = "4.0.3";
-              runtime = true;
-            };
-            json-parse-better-errors = {
-              descriptor = "^1.0.2";
-              pin = "1.0.2";
-              runtime = true;
-            };
-            loader-runner = {
-              descriptor = "^2.4.0";
-              pin = "2.4.0";
-              runtime = true;
-            };
-            loader-utils = {
-              descriptor = "^1.2.3";
-              pin = "1.4.2";
-              runtime = true;
-            };
-            memory-fs = {
-              descriptor = "^0.4.1";
-              pin = "0.4.1";
-              runtime = true;
-            };
-            micromatch = {
-              descriptor = "^3.1.10";
-              pin = "3.1.10";
-              runtime = true;
-            };
-            mkdirp = {
-              descriptor = "^0.5.3";
-              pin = "0.5.6";
-              runtime = true;
-            };
-            neo-async = {
-              descriptor = "^2.6.1";
-              pin = "2.6.2";
-              runtime = true;
-            };
-            node-libs-browser = {
-              descriptor = "^2.2.1";
-              pin = "2.2.1";
-              runtime = true;
-            };
-            schema-utils = {
-              descriptor = "^1.0.0";
-              pin = "1.0.0";
-              runtime = true;
-            };
-            tapable = {
-              descriptor = "^1.1.3";
-              pin = "1.1.3";
-              runtime = true;
-            };
-            terser-webpack-plugin = {
-              descriptor = "^1.4.3";
-              pin = "1.4.5";
-              runtime = true;
-            };
-            watchpack = {
-              descriptor = "^1.7.4";
-              pin = "1.7.5";
-              runtime = true;
-            };
-            webpack-sources = {
-              descriptor = "^1.4.1";
-              pin = "1.4.3";
-              runtime = true;
-            };
-          };
-          fetchInfo = {
-            narHash = "sha256-QYelYkHZcdhUcw/k6xhCH4ujG56T5cLuOIZy5A8uHfM=";
-            type = "tarball";
-            url = "https://registry.npmjs.org/webpack/-/webpack-4.46.0.tgz";
-          };
-          ident = "webpack";
-          ltype = "file";
-          peerInfo = {
-            webpack-cli = {
-              descriptor = "*";
-              optional = true;
-            };
-            webpack-command = {
-              descriptor = "*";
-              optional = true;
-            };
-          };
-          version = "4.46.0";
-        };
-      };
       webpack-cli = {
         "3.3.12" = {
           binInfo = {
@@ -48802,6 +48473,54 @@
               runtime = true;
             };
           };
+
+          treeInfo = lib.mkForce {
+            "node_modules/chalk" = {
+              key = "chalk/2.4.2";
+              link = true;
+            };
+            "node_modules/cross-spawn" = {
+              key = "cross-spawn/6.0.5";
+              link = true;
+            };
+            "node_modules/enhanced-resolve" = {
+              key = "enhanced-resolve/4.5.0";
+              link = true;
+            };
+            "node_modules/findup-sync" = {
+              key = "findup-sync/3.0.0";
+              link = true;
+            };
+            "node_modules/global-modules" = {
+              key = "global-modules/2.0.0";
+              link = true;
+            };
+            "node_modules/import-local" = {
+              key = "import-local/2.0.0";
+              link = true;
+            };
+            "node_modules/interpret" = {
+              key = "interpret/1.4.0";
+              link = true;
+            };
+            "node_modules/loader-utils" = {
+              key = "loader-utils/1.4.2";
+              link = true;
+            };
+            "node_modules/supports-color" = {
+              key = "supports-color/6.1.0";
+              link = true;
+            };
+            "node_modules/v8-compile-cache" = {
+              key = "v8-compile-cache/2.3.0";
+              link = true;
+            };
+            "node_modules/yargs" = {
+              key = "yargs/13.3.2";
+              link = true;
+            };
+          };
+
           fetchInfo = {
             narHash = "sha256-+RCwLypUmnKqgT84CyFtNbItdrMaY/Zev9wu6afnaMw=";
             type = "tarball";
@@ -48817,6 +48536,7 @@
           version = "3.3.12";
         };
       };
+
       webpack-sources = {
         "1.4.3" = {
           depInfo = {
