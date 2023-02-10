@@ -45,9 +45,35 @@
         ];
       };
       exports = let
+        ignored = [
+          "html-element-map"
+          "enzyme"
+          "array.prototype.tosorted"
+          "array.prototype.flatmap"
+          "array.prototype.flat"
+          "array.prototype.filter"
+          "es-abstract"
+          "array-includes"
+          "object.entries"
+          "function.prototype.name"
+          "array.prototype.find"
+          "airbnb-prop-types"
+          "@webassemblyjs/ast"
+          "@webassemblyjs/helper-code-frame"
+          "@webassemblyjs/helper-module-context"
+          "@webassemblyjs/helper-wasm-section"
+          "@webassemblyjs/wasm-edit"
+          "@webassemblyjs/wasm-gen"
+          "@webassemblyjs/wasm-opt"
+          "@webassemblyjs/wasm-parser"
+          "@webassemblyjs/wast-parser"
+          "@webassemblyjs/wast-printer"
+        ];
         all = builtins.foldl' ( acc: ident:
           acc ++ ( builtins.attrValues mod.config.floco.packages.${ident} )
-        ) [] ( builtins.attrNames mod.config.floco.packages );
+        ) [] ( builtins.attrNames (
+          removeAttrs mod.config.floco.packages ignored
+        ) );
       in builtins.filter ( v: lib.isDerivation ( v.global or null ) ) all;
     in {
       flocoPackages = builtins.foldl' ( acc: pkg: let
@@ -111,6 +137,25 @@
 # ---------------------------------------------------------------------------- #
 
     checks = packages;
+
+
+# ---------------------------------------------------------------------------- #
+
+    info = let
+      mod = floco.lib.evalModules { modules = [nixosModules.default]; };
+      pdefsKeyed = let
+        idal = builtins.mapAttrs ( ident: versions:
+          map ( { key, _export, ... }: { name = key; value = _export; } )
+              ( builtins.attrValues versions )
+        ) mod.config.floco.pdefs;
+        idl = builtins.attrValues idal;
+      in builtins.listToAttrs ( builtins.concatLists idl );
+    in {
+      inherit pdefsKeyed;
+      pdefs = builtins.mapAttrs ( _: builtins.mapAttrs ( _: v: v._export ) )
+                                mod.config.floco.pdefs;
+      pdefsList = builtins.attrValues pdefsKeyed;
+    };
 
 
 # ---------------------------------------------------------------------------- #
