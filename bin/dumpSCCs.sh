@@ -19,7 +19,6 @@
 
 SPATH="$( $REALPATH "${BASH_SOURCE[0]}"; )";
 SDIR="${SPATH%/*}";
-FLAKE_REF="$SDIR/..";
 
 
 # ---------------------------------------------------------------------------- #
@@ -39,35 +38,9 @@ fi
 # ---------------------------------------------------------------------------- #
 
 #shellcheck disable=SC2016
-$NIX eval --raw "$FLAKE_REF#info.pdefsList" --apply 'lst: let
-  dpairs = {
-    depInfo ? {}
-  , key     ? ident + "/" + version
-  , ident
-  , version
-  , ...
-  }: let
-    needs = builtins.attrValues ( builtins.mapAttrs ( n: { pin, ... }:
-      n + "/" + pin
-    ) depInfo );
-  in map ( t: "  \"" + t + "\" -> \"" + key + "\";" ) needs;
-  pairs = builtins.concatMap dpairs lst;
-in "digraph flocoPackages {\n" +
-   ( builtins.concatStringsSep "\n" pairs ) +
-   "\n}"
-'|$SCCMAP|$GVPR '
-BEG_G {}
-END_G
-{
-  if ( $G.name != "scc_map" )
-    {
-      $O = $G;
-    }
-  else
-    {
-      $O = NULL;
-    }
-}'|$POST;
+$SDIR/dumpDOT.sh|$SCCMAP|$GVPR 'BEG_G {}
+END_G { if ( $G.name != "scc_map" ) { $O = $G; } else { $O = NULL; } }
+'|$POST;
 
 
 # ---------------------------------------------------------------------------- #
