@@ -1,6 +1,13 @@
 #! /usr/bin/env bash
 # ============================================================================ #
 #
+# Examples:
+#
+# Show connected components. ( Not the same as "strongly connected components" )
+#   dumpDOT.sh|ccomps -x -X "redux-devtools-extension/2.13.9"
+#
+# Show connected component containing node "redux-devtools-extension/2.13.9"
+#   dumpDOT.sh|ccomps -x -X "redux-devtools-extension/2.13.9"
 #
 #
 # ---------------------------------------------------------------------------- #
