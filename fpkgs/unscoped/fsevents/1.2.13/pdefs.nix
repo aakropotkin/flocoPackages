@@ -17,6 +17,12 @@
           };
           ident = "bindings";
           ltype = "file";
+          treeInfo = {
+            "node_modules/file-uri-to-path" = {
+              key = "file-uri-to-path/1.0.0";
+              link = true;
+            };
+          };
           version = "1.5.0";
         };
       };
@@ -65,12 +71,11 @@
           treeInfo = {
             "node_modules/bindings" = {
               key = "bindings/1.5.0";
-            };
-            "node_modules/file-uri-to-path" = {
-              key = "file-uri-to-path/1.0.0";
+              link = true;
             };
             "node_modules/nan" = {
               key = "nan/2.17.0";
+              link = true;
             };
           };
           version = "1.2.13";
