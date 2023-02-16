@@ -3,16 +3,17 @@
     ./core-js-pure
     ./zeromq
     ./pacote
+    ./ts-node
     ./core-js
     ./msgpackr-extract
     ./jest-runner
+    ./webpack
     ./semver
     ./keytar
     ./esbuild
     ./which
+    ./fsevents
     ./jest-config
     ./jest
-    ./fsevents
-    ./webpack
   ];
 }

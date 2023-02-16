@@ -13,8 +13,7 @@ FLAKE_REF="$SDIR";
 
 declare -a targets;
 targets=(
-  '@babel/parser'
-  '@cnakazawa/watch'
+  '@babel/parser' '@cnakazawa/watch'
   '@npmcli/arborist'
   '@npmcli/installed-package-contents'
   '@swc/core'
