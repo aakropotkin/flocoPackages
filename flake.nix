@@ -84,22 +84,22 @@
           "@webassemblyjs/wast-parser"
           "@webassemblyjs/wast-printer"
 
-"@jest/test-sequencer/25.5.4"
-"@webassemblyjs/ast/1.9.0"
-"@webassemblyjs/helper-code-frame/1.9.0"
-"@webassemblyjs/helper-module-context/1.9.0"
-"@webassemblyjs/wast-parser/1.9.0"
-"@webassemblyjs/wast-printer/1.9.0"
-"es-abstract/1.21.1"
-"function.prototype.name/1.1.5"
-"global-modules/1.0.0"
-"jest-config/25.5.4"
-"jest-jasmine2/25.5.4"
-"jest-runner/25.5.4"
-"jest-runtime/25.5.4"
-"resolve-dir/1.0.1"
-"string.prototype.trimend/1.0.6"
-"string.prototype.trimstart/1.0.6"
+          "@jest/test-sequencer/25.5.4"
+          "@webassemblyjs/ast/1.9.0"
+          "@webassemblyjs/helper-code-frame/1.9.0"
+          "@webassemblyjs/helper-module-context/1.9.0"
+          "@webassemblyjs/wast-parser/1.9.0"
+          "@webassemblyjs/wast-printer/1.9.0"
+          "es-abstract/1.21.1"
+          "function.prototype.name/1.1.5"
+          "global-modules/1.0.0"
+          "jest-config/25.5.4"
+          "jest-jasmine2/25.5.4"
+          "jest-runner/25.5.4"
+          "jest-runtime/25.5.4"
+          "resolve-dir/1.0.1"
+          "string.prototype.trimend/1.0.6"
+          "string.prototype.trimstart/1.0.6"
 
         ];
         all = builtins.foldl' ( acc: ident:
@@ -135,7 +135,7 @@
       pickLatest = versions: let
         cmp = a: b: let
           i = builtins.compareVersions ( a.version or a ) ( b.version or b );
-        in i < 0;
+        in 0 < i;
         pick = a: b: if cmp a b then a else b;
         len = builtins.length versions;
         fst = builtins.head versions;
