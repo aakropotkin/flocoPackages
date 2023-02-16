@@ -28,6 +28,20 @@
       imports = [floco.nixosModules.floco ./fpkgs];
     };
 
+    nixosModules.useFetchZip = { pkgs, ... }: {
+      config.floco.fetchers.fetchTree_tarball.function = {
+        type    ? "tarball"
+      , url
+      , narHash ? ( builtins.fetchTree args ).narHash
+      } @ args: let
+        drv = pkgs.fetchzip {
+          inherit url;
+          outputHash     = narHash;
+          outputHashAlgo = "sha256";
+        };
+      in drv // { inherit narHash; };
+    };
+
 
 # ---------------------------------------------------------------------------- #
 
@@ -37,6 +51,7 @@
       mod = lib.evalModules {
         modules = [
           nixosModules.flocoPackages
+          nixosModules.useFetchZip
           {
             config.floco.settings.system          = prev.system;
             config._module.args.pkgs              = prev;
