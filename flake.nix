@@ -93,7 +93,6 @@
           "jest-config"
           "jest-jasmine2"
           "jest-runner"
-          "jest-runtime"
           "jsx-ast-utils"
           "object.entries"
           "object.hasown"
