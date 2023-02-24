@@ -1,1 +1,6 @@
-{ imports = [./core]; }
+{
+  imports = [
+    ./core
+    ./jest
+  ];
+}
