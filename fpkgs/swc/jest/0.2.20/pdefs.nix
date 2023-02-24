@@ -162,52 +162,42 @@
           treeInfo = {
             "node_modules/@swc/core-darwin-arm64" = {
               key = "@swc/core-darwin-arm64/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-darwin-x64" = {
               key = "@swc/core-darwin-x64/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-linux-arm-gnueabihf" = {
               key = "@swc/core-linux-arm-gnueabihf/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-linux-arm64-gnu" = {
               key = "@swc/core-linux-arm64-gnu/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-linux-arm64-musl" = {
               key = "@swc/core-linux-arm64-musl/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-linux-x64-gnu" = {
               key = "@swc/core-linux-x64-gnu/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-linux-x64-musl" = {
               key = "@swc/core-linux-x64-musl/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-win32-arm64-msvc" = {
               key = "@swc/core-win32-arm64-msvc/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-win32-ia32-msvc" = {
               key = "@swc/core-win32-ia32-msvc/1.3.35";
-              link = true;
               optional = true;
             };
             "node_modules/@swc/core-win32-x64-msvc" = {
               key = "@swc/core-win32-x64-msvc/1.3.35";
-              link = true;
               optional = true;
             };
           };
