@@ -34,6 +34,7 @@ jobs:
       - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b
       - uses: cachix/install-nix-action@11f4ad19be46fd34c005a2864996d8f197fb51c6
         with:
+          install_url: https://releases.nixos.org/nix/nix-2.13.3/install
           nix_path: nixpkgs=channel:nixpkgs-22.05
           extra_nix_config: |
             experimental-features = nix-command flakes
