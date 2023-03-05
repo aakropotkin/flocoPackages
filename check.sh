@@ -5,7 +5,7 @@ _as_me='check.sh';
 : "${NIX:=nix}";
 : "${REALPATH:=realpath}";
 : "${UNAME:=uname}";
-: "${ARCH:=arch}";
+: "${ARCH:=$UNAME -m}";
 
 SPATH="$( $REALPATH "${BASH_SOURCE[0]}"; )";
 SDIR="${SPATH%/*}";
